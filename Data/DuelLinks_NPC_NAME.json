@@ -221,19 +221,6 @@
             "zh-CN": "海马圭平",
             "zh-TW": "海馬圭平"
         },
-        "NAME_ID0018": {
-            "id": "NAME_ID0018",
-            "de-DE": "Marik Ishtar",
-            "en-US": "Marik Ishtar",
-            "es-ES": "Marik Ishtar",
-            "fr-FR": "Marik Ishtar",
-            "it-IT": "Marik Ishtar",
-            "ja-JP": "マリク・イシュタール",
-            "ko-KR": "마리크",
-            "pt-BR": "Marik Ishtar",
-            "zh-CN": "马利克·伊修达尔",
-            "zh-TW": "馬利克·伊修達爾"
-        },
         "NAME_ID0019": {
             "id": "NAME_ID0019",
             "de-DE": "Gebrüder Paradox",
@@ -493,6 +480,58 @@
             "pt-BR": "Noah Kaiba",
             "zh-CN": "海马乃亚",
             "zh-TW": "海馬乃亞"
+        },
+        "NAME_ID0049": {
+            "id": "NAME_ID0049",
+            "de-DE": "Rafael",
+            "en-US": "Rafael",
+            "es-ES": "Rafael",
+            "fr-FR": "Rafael",
+            "it-IT": "Rafael",
+            "ja-JP": "ラフェール",
+            "ko-KR": "라펠",
+            "pt-BR": "Rafael",
+            "zh-CN": "拉斐尔",
+            "zh-TW": "拉費爾"
+        },
+        "NAME_ID0050": {
+            "id": "NAME_ID0050",
+            "de-DE": "Alister",
+            "en-US": "Alister",
+            "es-ES": "Alister",
+            "fr-FR": "Alister",
+            "it-IT": "Alister",
+            "ja-JP": "アメルダ",
+            "ko-KR": "아멜다",
+            "pt-BR": "Alister",
+            "zh-CN": "亚曼尔达",
+            "zh-TW": "亞曼爾達"
+        },
+        "NAME_ID0051": {
+            "id": "NAME_ID0051",
+            "de-DE": "Valon",
+            "en-US": "Valon",
+            "es-ES": "Valon",
+            "fr-FR": "Valon",
+            "it-IT": "Valon",
+            "ja-JP": "ヴァロン",
+            "ko-KR": "바론",
+            "pt-BR": "Valon",
+            "zh-CN": "瓦隆",
+            "zh-TW": "瓦龍"
+        },
+        "NAME_ID0052": {
+            "id": "NAME_ID0052",
+            "de-DE": "Dartz",
+            "en-US": "Dartz",
+            "es-ES": "Dartz",
+            "fr-FR": "Dartz",
+            "it-IT": "Dartz",
+            "ja-JP": "ダーツ",
+            "ko-KR": "다츠",
+            "pt-BR": "Dartz",
+            "zh-CN": "达茨",
+            "zh-TW": "達茲"
         },
         "NAME_ID0053": {
             "id": "NAME_ID0053",
@@ -2145,6 +2184,19 @@
             "zh-CN": "梅格",
             "zh-TW": "梅格"
         },
+        "NAME_ID0828": {
+            "id": "NAME_ID0828",
+            "de-DE": "Gurimo",
+            "en-US": "Gurimo",
+            "es-ES": "Gurimo",
+            "fr-FR": "Gurimo",
+            "it-IT": "Gurimo",
+            "ja-JP": "グリモ",
+            "ko-KR": "구리모",
+            "pt-BR": "Gurimo",
+            "zh-CN": "古里莫",
+            "zh-TW": "古里莫"
+        },
         "NAME_ID0829": {
             "id": "NAME_ID0829",
             "de-DE": "Evan",
@@ -2626,19 +2678,6 @@
             "zh-CN": "平森三津子",
             "zh-TW": "平森三津子"
         },
-        "NAME_ID0868": {
-            "id": "NAME_ID0868",
-            "de-DE": "Terza Flatwood",
-            "en-US": "Terza Flatwood",
-            "es-ES": "Tresza Flatwood",
-            "fr-FR": "Terza Flatwood",
-            "it-IT": "Terza Flatwood",
-            "ja-JP": "平森みつ子",
-            "ko-KR": "임세희",
-            "pt-BR": "Treza Flatwood",
-            "zh-CN": "平森三津子",
-            "zh-TW": "平森三津子"
-        },
         "NAME_ID0869": {
             "id": "NAME_ID0869",
             "de-DE": "Gräber",
@@ -2742,19 +2781,6 @@
             "pt-BR": "Habilidade de Arquivo",
             "zh-CN": "档案技能",
             "zh-TW": "存檔技能"
-        },
-        "NAME_ID9005": {
-            "id": "NAME_ID9005",
-            "de-DE": "Fremdenführerin aus der Unterwelt",
-            "en-US": "Tour Guide From the Underworld",
-            "es-ES": "Guía Turística del Inframundo",
-            "fr-FR": "Guide des Enfers",
-            "it-IT": "Guida Tour del Mondo Sotterraneo",
-            "ja-JP": "魔界発現世行きデスガイド",
-            "ko-KR": "마계발 현세행 데스가이드",
-            "pt-BR": "Guia de Excursão do Submundo",
-            "zh-CN": "由魔界到现世的死亡导游",
-            "zh-TW": "從魔界到現世的死亡導遊"
         },
         "NAME_ID9995": {
             "id": "NAME_ID9995",
