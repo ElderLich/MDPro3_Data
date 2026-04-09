@@ -458,6 +458,8 @@ Artmagia Grafulgor
 Meghala Tifón Radiante
 [IDS_ITEM.ID1010134]
 HÉROE del Destino - Plasma
+[IDS_ITEM.ID1010135]
+Canción Kewl Graba
 [IDS_ITEM.ID1010136]
 Vaca
 [IDS_ITEM.ID1010137]
@@ -780,6 +782,8 @@ Duelista blanco y azul
 eFootball™
 [IDS_ITEM.ID1013011]
 Selene, Reina de los Magos Maestros
+[IDS_ITEM.ID1013013]
+Aleister, el que Invoka
 [IDS_ITEM.ID1020001]
 Duelista principiante
 [IDS_ITEM.ID1020002]
@@ -1178,6 +1182,14 @@ Manitas
 Bujía Spright
 [IDS_ITEM.ID1020199]
 Adelante sin Miedo
+[IDS_ITEM.ID1020200]
+Vórtice F
+[IDS_ITEM.ID1020201]
+Sobrepropulsor S
+[IDS_ITEM.ID1020202]
+Código Nexus L
+[IDS_ITEM.ID1020203]
+Tres Filos
 [IDS_ITEM.ID1020204]
 Top 10 de la DC 2026 MAR
 [IDS_ITEM.ID1020205]
@@ -1328,6 +1340,8 @@ K9-17 Izuna
 Tifón del Espacio Místico
 [IDS_ITEM.ID1031022]
 Cambio de Máscara II
+[IDS_ITEM.ID1031023]
+Jardín de la Rosa Negra
 [IDS_ITEM.ID1032001]
 Ornamento Festivo
 [IDS_ITEM.ID1032002]
@@ -1666,6 +1680,8 @@ Elfa Spright
 Tifón del Espacio Místico
 [IDS_ITEM.ID1070155]
 Fusión del Destino
+[IDS_ITEM.ID1070156]
+Canción Kewl RS
 [IDS_ITEM.ID1070157]
 Live☆Gemela Lil-la Golosina
 [IDS_ITEM.ID1070158]
@@ -1676,6 +1692,12 @@ Contando Bichos del Emperador Tanuki
 Activar Modo de Ataque
 [IDS_ITEM.ID1070161]
 HÉROE Enmascarado Atómico
+[IDS_ITEM.ID1070162]
+Máster Peace, el Verdadero Dracoseñor
+[IDS_ITEM.ID1070163]
+R.B. El Bruto Blues
+[IDS_ITEM.ID1070164]
+Asesina Definitiva
 [IDS_ITEM.ID1071001]
 Cruzadia Maximus
 [IDS_ITEM.ID1071002]
@@ -1822,6 +1844,8 @@ THE CHRONICLES: Los Caídos y los Virtuosos
 THE CHRONICLES: Los Caídos y los Virtuosos2
 [IDS_ITEM.ID1075008]
 THE CHRONICLES: Encantadoras de Espíritus
+[IDS_ITEM.ID1075009]
+THE CHRONICLES: Magistus
 [IDS_ITEM.ID1080001]
 Caja de cartas de duelista roja
 [IDS_ITEM.ID1080002]
@@ -1940,6 +1964,8 @@ Labrislinto
 "Un Caso para K9"
 [IDS_ITEM.ID1082027]
 Prisión de la Torre del Reloj
+[IDS_ITEM.ID1082028]
+Canción Kewl
 [IDS_ITEM.ID1083001]
 Blanco y azul
 [IDS_ITEM.ID1090001]
@@ -2360,6 +2386,8 @@ Yummy
 Dracocola
 [IDS_ITEM.ID1111072]
 Live☆Gemela Lil-la Golosina
+[IDS_ITEM.ID1111074]
+Dragón de la Rosa Espinoso
 [IDS_ITEM.ID1111077]
 Espiral Dominus
 [IDS_ITEM.ID1111080]
@@ -2674,12 +2702,16 @@ Sacerdotisa Alanoche
 Fónix Tifón Radiante, la Gran Llama
 [IDS_ITEM.ID1130116]
 HÉROE del Destino - Phoenix Enforcer Destructor
+[IDS_ITEM.ID1130117]
+Canción Kewl B2B
 [IDS_ITEM.ID1130118]
 Júpiter el Modelo de Poder de Destrucción
 [IDS_ITEM.ID1130119]
 Espiral Dominus
 [IDS_ITEM.ID1130120]
 HÉROE Enmascarado Dark Law
+[IDS_ITEM.ID1130122]
+Rey Verdadero de Todas las Calamidades
 [IDS_ITEM.ID1130124]
 I:P Enmascarada y S:P Pequeña Caballera
 [IDS_ITEM.ID1132001]
@@ -2725,7 +2757,7 @@ Mago Oscuro
 [IDS_ITEM.ID1170010]
 HÉROE del Destino
 [IDS_ITEM.ID1170011]
-coming soon
+Canción Kewl
 [IDS_ITEM.ID1180001]
 Dragón Blanco Alternativo de Ojos Azules
 [IDS_ITEM.ID1180002]
@@ -2763,7 +2795,7 @@ Mago Oscuro
 [IDS_ITEM.ID1180018]
 HÉROE del Destino
 [IDS_ITEM.ID1180019]
-coming soon
+Canción Kewl
 [IDS_ITEM.ID1180020]
 coming soon
 [IDS_ITEM.ID1190001]

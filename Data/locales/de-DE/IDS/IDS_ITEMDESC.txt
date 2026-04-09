@@ -757,6 +757,9 @@ Sie verehrt Stürme, indem sie die Macht des Windgottes in sich anruft.
 [IDS_ITEMDESC.ID1010134]
 Ein Symbol, das <category id='161'/> darstellt, bekannt als das Ultimative D.
 Seine verborgene, ultimative Macht kann ein Schicksal der sicheren Niederlage abwenden.
+[IDS_ITEMDESC.ID1010135]
+Ein Symbol, das eine exzentrische DJane mit einer melancholischen Ausstrahlung darstellt.
+Sie heizt der Menge mit fetten Beats ein, die im Untergrund entstanden und in der Hip-Hop-Szene geschmiedet wurden.
 [IDS_ITEMDESC.ID1010136]
 Ein Symbol, das eine hoch in die Luft gewehte Kuh darstellt.
 Die furchtbaren Winde fegen alles in der Gegend in die Höhe.
@@ -1214,19 +1217,19 @@ Vielleicht bist du ihm schon einmal an einer Schule begegnet, wo er durch seine 
 Ein Symbol, das Duellanten verliehen wird, die das Duell der 4 Gedanken in einem alternativen Universum bestanden haben.
 Die in diesem Kampf gewonnene Erfahrung ist von unschätzbarem Wert und kann in jeder Welt genutzt werden.
 [IDS_ITEMDESC.ID1013003]
-Ein Symbol, auf dem eine Szene aus Yu-Gi-Oh! CARD GAME THE CHRONICLES abgebildet ist.
+Ein Symbol, auf dem eine Szene aus „Yu-Gi-Oh! CARD GAME THE CHRONICLES“ abgebildet ist.
 Die Duellanten in der Szene jubeln zur Feier dieses prestigeträchtigen Events.
 [IDS_ITEMDESC.ID1013004]
-Ein Symbol, auf dem eine Szene aus Yu-Gi-Oh!-Kartenspiel THE CHRONICLES abgebildet ist.
+Ein Symbol, auf dem eine Szene aus „Yu-Gi-Oh! CARD GAME THE CHRONICLES“ abgebildet ist.
 Mit futuristischen High-Tech-Waffen ausgerüstet, stürmt das Mädchen über das Schlachtfeld und erlebt eine Begegnung, die die Welt verändern wird.
 [IDS_ITEMDESC.ID1013005]
-Ein Symbol, auf dem eine Szene aus Yu-Gi-Oh!-Kartenspiel THE CHRONICLES abgebildet ist.
+Ein Symbol, auf dem eine Szene aus „Yu-Gi-Oh! CARD GAME THE CHRONICLES“ abgebildet ist.
 War ihre Begegnung vorherbestimmt? War sie unvermeidbar? Es entfaltet sich eine Erinnerung an Geschehnisse, die eine Welt der Abgründe auf ewig geprägt haben.
 [IDS_ITEMDESC.ID1013006]
-Ein Symbol, auf dem eine Szene aus Yu-Gi-Oh!-Kartenspiel THE CHRONICLES abgebildet ist.
+Ein Symbol, auf dem eine Szene aus „Yu-Gi-Oh! CARD GAME THE CHRONICLES“ abgebildet ist.
 War ihre Begegnung vorherbestimmt? War sie unvermeidbar? Es entfaltet sich eine Erinnerung an Geschehnisse, die eine Welt der Abgründe auf ewig geprägt haben.
 [IDS_ITEMDESC.ID1013007]
-Ein Symbol, mit einem Hauptmotiv für Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+Ein Symbol, mit einem Hauptmotiv für „Yu-Gi-Oh! CARD GAME THE CHRONICLES“.
 Seite an Seite mit Geistern auf Reisen. Tanze, einsame Blüte, in all deiner leuchtenden Farbe.
 [IDS_ITEMDESC.ID1013008]
 Ein exklusives Symbol, das zu besonderen Anlässen angeboten wird.
@@ -1238,6 +1241,9 @@ Spannende Action, präsentiert von denen, die sich selbst immer wieder neuen Her
 [IDS_ITEMDESC.ID1013011]
 Ein Symbol, das die wahre Variante von „<card mrk='14440'/>“ darstellt.
 Man sagt, nur „<card mrk='14439'/>“ könne ihr wahres Gesicht sehen.
+[IDS_ITEMDESC.ID1013013]
+Ein Symbol, mit einem Hauptmotiv für „Yu-Gi-Oh! CARD GAME THE CHRONICLES“.
+Drei Magier, die die Tür zu einer anderen Welt öffneten. Sie wurden als die „Drei Weisen, die Magistus“ bekannt.
 [IDS_ITEMDESC.ID1020001]
 Ein Titel, der Duellanten verliehen wird, die ihre Duellantenreise mit Yu-Gi-Oh! MASTER DUEL.
 Es ist nie zu spät, das Duellieren zu erlernen.
@@ -1834,6 +1840,18 @@ Mit donnerndem Gebrüll stürzen sie sich in erbitterte Kämpfe mit ihren Rivale
 [IDS_ITEMDESC.ID1020199]
 Ein Titel, der an Duellanten vergeben wird, die beim Festival „Würfel-Rallye – Fusion/Synchro/Link“ Ergebnisse erzielt haben.
 Eine glänzende Zukunft wartet auf diejenigen, die mutig genug sind, sich selbst zu vertrauen.
+[IDS_ITEMDESC.ID1020200]
+Ein Titel, der an Duellanten vergeben wird, die mit einer Strategie, welche Fusionsbeschwörungen umfasste, Erfolge erzielt haben.
+Wirbelndes Licht gebiert ein neues Monster.
+[IDS_ITEMDESC.ID1020201]
+Ein Titel, der an Duellanten vergeben wird, die mit einer Strategie, welche Synchrobeschwörungen umfasste, Erfolge erzielt haben.
+Jenseits deiner Grenzen liegt ein neues Terrain.
+[IDS_ITEMDESC.ID1020202]
+Ein Titel, der an Duellanten vergeben wird, die mit einer Strategie, welche Link-Beschwörungen umfasste, beachtenswerte Erfolge erzielt haben.
+Die Signale konvergieren. Einigkeit ist Stärke.
+[IDS_ITEMDESC.ID1020203]
+Ein Titel, der an Duellanten vergeben wird, die in einem Kampf zwischen drei Seiten Ergebnisse erzielt haben.
+Ganz gleich in welcher Situation, deine Fähigkeiten werden sich durchsetzen.
 [IDS_ITEMDESC.ID1020204]
 Ein Titel, der an Duellanten vergeben wird, die im DC 2026 MAR die Top 10 erreicht haben.
 Die Geschichten über ihre vielen großartigen Duelle und ihre Tapferkeit im Kampf um den Thron werden noch viele Jahre lang erzählt werden.
@@ -2051,6 +2069,9 @@ Die Windböen schützen vor äußeren Bedrohungen.
 [IDS_ITEMDESC.ID1031022]
 Ein Symbol-Rahmen, der an die Transformation eines Helden erinnert.
 Die vielen verschiedenen Formen spiegeln die Vielfalt der Taktiken in seinem Arsenal wider.
+[IDS_ITEMDESC.ID1031023]
+Ein Symbol-Rahmen, der „<card mrk='21821'/>“ einfängt.
+Unter dem abnehmenden Mond blühen Dornen des Hasses im Wahnsinn.
 [IDS_ITEMDESC.ID1032001]
 Ein Symbol-Rahmen in der Form einer runden Dekoration, die in manchen Regionen zum Jahresende zu sehen ist.
 Sie werden mit dem aufrichtigen Wunsch nach Glück und Freude in der kommenden Zeit aufgehängt.
@@ -2556,6 +2577,9 @@ Für diejenigen, die an schnelles Zuschlagen glauben.
 [IDS_ITEMDESC.ID1070155]
 Kartenhüllen, die den Glanz sich kreuzender Schicksale verkörpern.
 Für jene, die dem Schicksal entfliehen.
+[IDS_ITEMDESC.ID1070156]
+Kartenhüllen, die die verborgene Seite der exzentrischen DJane darstellen.
+Für jene, die im Schutze der Dunkelheit das Böse jagen.
 [IDS_ITEMDESC.ID1070157]
 Kartenhüllen, die eine ultraniedliche Streamerin in einem besonderen Outfit darstellen.
 Für all jene, die der Welt mit ausdrucksloser Miene begegnen.
@@ -2571,6 +2595,15 @@ Für alle, die neue Horizonte suchen.
 [IDS_ITEMDESC.ID1070161]
 Kartenhüllen, die einen durch Transformation herbeigerufenen Helden darstellen.
 Für alle, die sich ein ganz eigenes Deck wünschen.
+[IDS_ITEMDESC.ID1070162]
+Eine Kartenhülle, auf der die weiterentwickelte Gestalt von „<card mrk='12938'/>“ abgebildet ist.
+Für all jene, die sich einer gewaltigen Bedrohung entgegenstellen.
+[IDS_ITEMDESC.ID1070163]
+Kartenhüllen, die eine zweibeinige humanoide Kampfmaschine darstellen.
+Für diejenigen, die ihren Lebensunterhalt mit der Entwicklung von Waffen verdienen.
+[IDS_ITEMDESC.ID1070164]
+Eine Kartenhülle, die eine mondbeschienene Pfeilspitze darstellt, die einen Feind der Götter niederstreckt.
+Für diejenigen, die die wahre Kraft des göttlichen Bogens entfesseln.
 [IDS_ITEMDESC.ID1071001]
 Kartenhüllen, die einen Krieger darstellen, der gereift ist und die Narben, die während der Kämpfe in sein Herz geätzt wurden, akzeptiert hat. 
 Perfekt für alle, die immer das Beste für ihre geliebten Freunde wollen.
@@ -2767,10 +2800,10 @@ Für Spieler, die am Duelist Cup teilgenommen und dem Event zu Erfolg verholfen 
 Eine Kartenhülle mit „DC 2026 MAR“-Logo. 
 Für Spieler, die am Duelist Cup teilgenommen und dem Event zu Erfolg verholfen haben.
 [IDS_ITEMDESC.ID1075001]
-Ein Kartenhülle, auf der eine Szene aus Yu-Gi-Oh! CARD GAME THE CHRONICLES abgebildet ist.
+Ein Kartenhülle, auf der eine Szene aus „Yu-Gi-Oh! CARD GAME THE CHRONICLES“ abgebildet ist.
 Die Duellanten in der Szene jubeln zur Feier dieses prestigeträchtigen Events.
 [IDS_ITEMDESC.ID1075002]
-Kartenhüllen mit einem Hauptmotiv für Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+Kartenhüllen mit einem Hauptmotiv für „Yu-Gi-Oh! CARD GAME THE CHRONICLES“.
 Mit futuristischen High-Tech-Waffen ausgerüstet, stürmt das Mädchen über das Schlachtfeld und erlebt eine Begegnung, die die Welt verändern wird.
 [IDS_ITEMDESC.ID1075003]
 Eine exklusive Kartenhülle, die zu besonderen Anlässen angeboten wird.
@@ -2781,14 +2814,17 @@ Perfekt für alle, die gerne ihr ganz eigenes Deck haben wollen.
 Kartenhüllen, die von einem brasilianischen Nationalhelden inspiriert sind, der über das Spielfeld sprintet.
 Für diejenigen, deren Technik ihresgleichen sucht.
 [IDS_ITEMDESC.ID1075006]
-Kartenhüllen mit einem Hauptmotiv für Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+Kartenhüllen mit einem Hauptmotiv für „Yu-Gi-Oh! CARD GAME THE CHRONICLES“.
 War ihre Begegnung vorherbestimmt? War sie unvermeidbar? Es entfaltet sich eine Erinnerung an Geschehnisse, die eine Welt der Abgründe auf ewig geprägt haben.
 [IDS_ITEMDESC.ID1075007]
-Kartenhüllen mit einem Hauptmotiv für Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+Kartenhüllen mit einem Hauptmotiv für „Yu-Gi-Oh! CARD GAME THE CHRONICLES“.
 War ihre Begegnung vorherbestimmt? War sie unvermeidbar? Es entfaltet sich eine Erinnerung an Geschehnisse, die eine Welt der Abgründe auf ewig geprägt haben.
 [IDS_ITEMDESC.ID1075008]
-Kartenhüllen mit einem Hauptmotiv für Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+Kartenhüllen mit einem Hauptmotiv für „Yu-Gi-Oh! CARD GAME THE CHRONICLES“.
 Tanze, einsame Blüte, in all deiner leuchtenden Farbe.
+[IDS_ITEMDESC.ID1075009]
+Kartenhüllen mit einem Hauptmotiv für „Yu-Gi-Oh! CARD GAME THE CHRONICLES“.
+Drei Magier, die die Tür zu einer anderen Welt öffneten. Sie wurden als die „Drei Weisen, die Magistus“ bekannt.
 [IDS_ITEMDESC.ID1080001]
 Eine einfache Deckbox mit roten Akzenten.
 Die erste Deckbox wächst einem immer ans Herz, oder nicht?
@@ -2964,6 +3000,9 @@ Perfekt für Decks, die gegen übernatürliche Verbrechen vorgehen.
 [IDS_ITEMDESC.ID1082027]
 Ein Kartenetui, auf dem „<card mrk='6668'/>“ abgebildet ist.
 Empfohlen für ein Deck, das seinen eigenen Weg geht.
+[IDS_ITEMDESC.ID1082028]
+Ein Kartenetui, inspiriert von einem in der Szene berühmten Club, der selbst von eingefleischten Fans bewundert wird.
+Empfohlen für ein Deck, das das Publikum in Ekstase versetzt.
 [IDS_ITEMDESC.ID1083001]
 Ein exklusives Kartenetui, das zu besonderen Anlässen angeboten wird.
 [IDS_ITEMDESC.ID1090001]
@@ -3632,6 +3671,9 @@ Er leitet dich mithilfe der mystischen Kraft der Sterne.
 [IDS_ITEMDESC.ID1111072]
 Ein Stand, inspiriert vom besonderen Outfit einer ultraniedlichen Streamerin.
 Niedlichkeit braucht einen Hauch von Distanz, um richtig zur Geltung zu kommen.
+[IDS_ITEMDESC.ID1111074]
+Ein Stand, inspiriert von „<card mrk='21805'/>“.
+Trauernde Flammen durchdringen jeden Winkel dieser verfluchten Welt.
 [IDS_ITEMDESC.ID1111077]
 Ein Stand, inspiriert von einer wirbelnden Energie, die aus der Natur stammt.
 Empfange die Aura, die er ausstrahlt, und werde mit Vitalität erfüllt.
@@ -4078,6 +4120,9 @@ Mit seiner Kraft verändert es nach Belieben das Wetter auf der ganzen Welt.
 [IDS_ITEMDESC.ID1130116]
 <category id='161'/> zerschmettert sogar das Schicksal selbst.
 Wie ein unsterblicher Phönix, der den Tod überwindet, kehrt er ein weiteres Mal auf das Schlachtfeld zurück.
+[IDS_ITEMDESC.ID1130117]
+Klänge, die niemals gemischt werden sollten.
+Aus ihrer wundersamen Harmonie erwächst der stärkste Spielstil.
 [IDS_ITEMDESC.ID1130118]
 „<card mrk='21810'/>“, einer der Götter der Geisterwelt.
 Entfesselte ein „<card mrk='21777'/>“, das von grünen Blitzen durchzuckt wurde, auf die Welt.
@@ -4087,6 +4132,9 @@ Die Wut der Natur hallt in wirbelnden Strudeln durch das Land.
 [IDS_ITEMDESC.ID1130120]
 Einer der durch Transformation beschworenen Helden.
 Ein fliegender Tritt aus seinen kräftigen Beinen reißt ein Loch in das Ziel.
+[IDS_ITEMDESC.ID1130122]
+Ein Drachenkaiser, der aus den Tiefen des Weltraums erscheint und Verwüstung hinterlässt.
+Seine bestialische, unerbittliche Wildheit verwüstete die Welt.
 [IDS_ITEMDESC.ID1130124]
 „Jäger“ und „Gejagter“ ergreifen eine neue Zukunft.
 Welchen Weg sie aus ihren Idealen heraus einschlagen werden, bleibt ein Rätsel.
@@ -4151,7 +4199,8 @@ Es heißt, dass die Tore der Schwarzen Magie hell erstrahlen werden, wenn die <c
 Ein Sammelordner für einen Helden, der die Last des Schicksals trägt.
 Man sagt, wenn man <category id='161'/> versammelt, wird die Tür zum Ultimativen D erstrahlen.
 [IDS_ITEMDESC.ID1170011]
-coming soon
+Ein Sammelordner mit angesagten DJanes, die selbst die eingefleischtesten Fans beeindrucken.
+Wenn die <category id='143'/> versammelt sind, so sagt man, versetzen die treibenden Beats den Club in Ekstase und seine Türen beginnen zu glänzen.
 [IDS_ITEMDESC.ID1180001]
 Eine Münze, deren Motiv der leuchtende Drache ist, der eine neue Legende hervorbringt.
 Seine himmelblauen Augen schimmern.
@@ -4204,7 +4253,8 @@ Seine überragende magische Kraft strahlt hell.
 Eine Münze mit dem Emblem eines Helden, der die Last des Schicksals trägt.
 Das Symbol „D“ glänzt hell.
 [IDS_ITEMDESC.ID1180019]
-coming soon
+Eine Münze mit dem Emblem eines in der Szene bekannten und selbst von eingefleischten Fans bewunderten Clubs.
+Der DJane-Auftritt der <category id='143'/> stiehlt allen die Show.
 [IDS_ITEMDESC.ID1180020]
 coming soon
 [IDS_ITEMDESC.ID1190001]

@@ -458,6 +458,8 @@ Graflare de Artmage
 Tufão Radiante Meghala
 [IDS_ITEM.ID1010134]
 HERÓI do Destino - Plasma
+[IDS_ITEM.ID1010135]
+Kewl Tune Reco
 [IDS_ITEM.ID1010136]
 Vaca
 [IDS_ITEM.ID1010137]
@@ -780,6 +782,8 @@ Duelista Branco e Azul
 eFootball™
 [IDS_ITEM.ID1013011]
 Selene, a Rainha dos Magos Mestre
+[IDS_ITEM.ID1013013]
+Aleister, Aquele que Invoka
 [IDS_ITEM.ID1020001]
 Duelista Iniciante
 [IDS_ITEM.ID1020002]
@@ -1178,6 +1182,14 @@ Faz-tudo
 Precursor Spright
 [IDS_ITEM.ID1020199]
 Forja à Frente
+[IDS_ITEM.ID1020200]
+Vórtice F
+[IDS_ITEM.ID1020201]
+Sobrecarga S
+[IDS_ITEM.ID1020202]
+Código L Nexus
+[IDS_ITEM.ID1020203]
+Tri-Lâmina
 [IDS_ITEM.ID1020204]
 Top 10 da DC 2026 MAR
 [IDS_ITEM.ID1020205]
@@ -1328,6 +1340,8 @@ FEBRE P.U.N.K. JAM!
 Tufão Espacial Místico
 [IDS_ITEM.ID1031022]
 Mudar a Máscara II
+[IDS_ITEM.ID1031023]
+Jardim das Rosas Negras
 [IDS_ITEM.ID1032001]
 Ornamento Festivo
 [IDS_ITEM.ID1032002]
@@ -1666,6 +1680,8 @@ Elfa Spright
 Tufão Espacial Místico
 [IDS_ITEM.ID1070155]
 Fusão do Destino
+[IDS_ITEM.ID1070156]
+Kewl Tune RS
 [IDS_ITEM.ID1070157]
 Live☆Gêmea Lil-la Doce
 [IDS_ITEM.ID1070158]
@@ -1676,6 +1692,12 @@ Contagem de Bichos do Imperador Tanuki
 Ativar Modo de Ataque
 [IDS_ITEM.ID1070161]
 Atômico, o HERÓI Mascarado
+[IDS_ITEM.ID1070162]
+Master da Paz, o Verdadeiro Dracosuserano
+[IDS_ITEM.ID1070163]
+R.B. O Bruto do Blues
+[IDS_ITEM.ID1070164]
+Assassina Definitiva
 [IDS_ITEM.ID1071001]
 Crusadia Maximus
 [IDS_ITEM.ID1071002]
@@ -1822,6 +1844,8 @@ THE CHRONICLES: Os Caídos e os Virtuosos
 THE CHRONICLES: Os Caídos e os Virtuosos2
 [IDS_ITEM.ID1075008]
 THE CHRONICLES: Encantadoras Espirituais
+[IDS_ITEM.ID1075009]
+THE CHRONICLES: Magistus
 [IDS_ITEM.ID1080001]
 Porta-cards de Duelista Vermelho
 [IDS_ITEM.ID1080002]
@@ -1940,6 +1964,8 @@ Labrinto
 "Um Caso para K9"
 [IDS_ITEM.ID1082027]
 Prisão da Torre do Relógio
+[IDS_ITEM.ID1082028]
+Kewl Tune
 [IDS_ITEM.ID1083001]
 Branco e Azul
 [IDS_ITEM.ID1090001]
@@ -2360,6 +2386,8 @@ Nhamy
 Caudraco
 [IDS_ITEM.ID1111072]
 Live☆Gêmea Lil-la Doce
+[IDS_ITEM.ID1111074]
+Dragão da Rosa Espinhosa
 [IDS_ITEM.ID1111077]
 Espiral Dominus
 [IDS_ITEM.ID1111080]
@@ -2674,12 +2702,16 @@ Clériga com Asas da Noite
 Tufão Radiante Fonix, a Grande Chama
 [IDS_ITEM.ID1130116]
 HERÓI do Destino - Fênix Executora Destruidora
+[IDS_ITEM.ID1130117]
+Kewl Tune B2B
 [IDS_ITEM.ID1130118]
 Júpiter, o Patrono do Poder da Destruição
 [IDS_ITEM.ID1130119]
 Espiral Dominus
 [IDS_ITEM.ID1130120]
 Lei Obscura, o HERÓI Mascarado
+[IDS_ITEM.ID1130122]
+Verdadeiro Rei de Todas as Calamidades
 [IDS_ITEM.ID1130124]
 I:P Mascarena & S:P Pequena Cavaleira
 [IDS_ITEM.ID1132001]
@@ -2725,7 +2757,7 @@ Mago Negro
 [IDS_ITEM.ID1170010]
 HERÓI do Destino
 [IDS_ITEM.ID1170011]
-coming soon
+Kewl Tune
 [IDS_ITEM.ID1180001]
 Dragão Branco Alternativo de Olhos Azuis
 [IDS_ITEM.ID1180002]
@@ -2763,7 +2795,7 @@ Mago Negro
 [IDS_ITEM.ID1180018]
 HERÓI do Destino
 [IDS_ITEM.ID1180019]
-coming soon
+Kewl Tune
 [IDS_ITEM.ID1180020]
 coming soon
 [IDS_ITEM.ID1190001]

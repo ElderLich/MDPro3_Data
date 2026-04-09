@@ -458,6 +458,8 @@ Graflare Artmage
 Tifone Radiante Meghala
 [IDS_ITEM.ID1010134]
 Plasma - EROE del Destino
+[IDS_ITEM.ID1010135]
+Tune Figo Regist
 [IDS_ITEM.ID1010136]
 Mucca
 [IDS_ITEM.ID1010137]
@@ -780,6 +782,8 @@ Duellante Bianco e Blu
 eFootball™
 [IDS_ITEM.ID1013011]
 Selene, Regina dei Maghi Maestri
+[IDS_ITEM.ID1013013]
+Aleister l'Invocatore
 [IDS_ITEM.ID1020001]
 Duellante principiante
 [IDS_ITEM.ID1020002]
@@ -1178,6 +1182,14 @@ Tuttofare
 Spright Zampillo
 [IDS_ITEM.ID1020199]
 Avanti Senza Indugio
+[IDS_ITEM.ID1020200]
+F Vortice
+[IDS_ITEM.ID1020201]
+E Marcia Inarrestabile
+[IDS_ITEM.ID1020202]
+L Codice Nexus
+[IDS_ITEM.ID1020203]
+Tri-Lama
 [IDS_ITEM.ID1020204]
 Top 10 DC 2026 MAR
 [IDS_ITEM.ID1020205]
@@ -1328,6 +1340,8 @@ P.U.N.K. JAM FEBBRE!
 Tifone Spaziale Mistico
 [IDS_ITEM.ID1031022]
 Cambio di Maschera II
+[IDS_ITEM.ID1031023]
+Giardino Rosa Nera
 [IDS_ITEM.ID1032001]
 Ornamento festivo
 [IDS_ITEM.ID1032002]
@@ -1666,6 +1680,8 @@ Spright Elfa
 Tifone Spaziale Mistico
 [IDS_ITEM.ID1070155]
 Fusione Destino
+[IDS_ITEM.ID1070156]
+Tune Figo RS
 [IDS_ITEM.ID1070157]
 Live☆Gemella Lil-la Dolce
 [IDS_ITEM.ID1070158]
@@ -1676,6 +1692,12 @@ Conta delle Creature dell'Imperatore Tanuki
 Attivazione Modalità Assalto
 [IDS_ITEM.ID1070161]
 Atomico EROE Mascherato
+[IDS_ITEM.ID1070162]
+Maestro Pace, il Vero Dracosovrano
+[IDS_ITEM.ID1070163]
+R.B. Il Blues Bruto
+[IDS_ITEM.ID1070164]
+Assassino Finale
 [IDS_ITEM.ID1071001]
 Crociatia Maximus
 [IDS_ITEM.ID1071002]
@@ -1822,6 +1844,8 @@ THE CHRONICLES: Il Caduto e la Virtuosa
 THE CHRONICLES: Il Caduto e la Virtuosa2
 [IDS_ITEM.ID1075008]
 THE CHRONICLES: Ammaliatrici di Spiriti
+[IDS_ITEM.ID1075009]
+THE CHRONICLES: Magistus
 [IDS_ITEM.ID1080001]
 Rosso Custodia Carte Duellante
 [IDS_ITEM.ID1080002]
@@ -1940,6 +1964,8 @@ Labrinto
 "Un Caso per K9"
 [IDS_ITEM.ID1082027]
 Prigione della Torre dell'Orologio
+[IDS_ITEM.ID1082028]
+Tune Figo
 [IDS_ITEM.ID1083001]
 Bianco e Blu
 [IDS_ITEM.ID1090001]
@@ -2360,6 +2386,8 @@ Yummy
 Dracocoda
 [IDS_ITEM.ID1111072]
 Live☆Gemella Lil-la Dolce
+[IDS_ITEM.ID1111074]
+Drago Rosa Rovo
 [IDS_ITEM.ID1111077]
 Spirale Dominus
 [IDS_ITEM.ID1111080]
@@ -2674,12 +2702,16 @@ Chierico Alanotturna
 Tifone Radiante Fonix, la Grande Fiamma
 [IDS_ITEM.ID1130116]
 Distruttore Fenice Sorvegliante - EROE del Destino
+[IDS_ITEM.ID1130117]
+Tune Figo B2B
 [IDS_ITEM.ID1130118]
 Jupiter il Patrono Potente della Distruzione
 [IDS_ITEM.ID1130119]
 Spirale Dominus
 [IDS_ITEM.ID1130120]
 Legge Oscura EROE Mascherato
+[IDS_ITEM.ID1130122]
+Vero Re di Tutte le Calamità
 [IDS_ITEM.ID1130124]
 I:P Masquerena e S:P Piccolo Cavaliere
 [IDS_ITEM.ID1132001]
@@ -2725,7 +2757,7 @@ Mago Nero
 [IDS_ITEM.ID1170010]
 EROE del Destino
 [IDS_ITEM.ID1170011]
-coming soon
+Tune Figo
 [IDS_ITEM.ID1180001]
 Drago Bianco Alternativo Occhi Blu
 [IDS_ITEM.ID1180002]
@@ -2763,7 +2795,7 @@ Mago Nero
 [IDS_ITEM.ID1180018]
 EROE del Destino
 [IDS_ITEM.ID1180019]
-coming soon
+Tune Figo
 [IDS_ITEM.ID1180020]
 coming soon
 [IDS_ITEM.ID1190001]

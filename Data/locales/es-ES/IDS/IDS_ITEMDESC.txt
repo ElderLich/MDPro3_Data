@@ -757,6 +757,9 @@ Venera las tormentas e invoca el poder del dios del viento que hay en su interio
 [IDS_ITEMDESC.ID1010134]
 Un icono que representa a <category id='161'/>, conocido como el D definitivo.
 Su poder definitivo oculto puede cambiar el destino cuando la cosa va mal.
+[IDS_ITEMDESC.ID1010135]
+Un icono que representa a una excéntrica DJ con aire melancólico.
+Anima a su público con temazos underground adaptados al estilo hip-hop.
 [IDS_ITEMDESC.ID1010136]
 Un icono que representa a una vaca flotando en el aire.
 Los temibles vientos mandan todo lo que hay en la zona por los aires.
@@ -1213,19 +1216,19 @@ Puedes haber coincidido con él en el colegio en algún momento que otro y haber
 Este icono se otorga a los duelistas que participaron en un Duelo en el que se cruzan los pensamientos de cuatro personas en universos diferentes.
 La experiencia obtenida en esa batalla tiene un valor incalculable y puede utilizarse en cualquier universo.
 [IDS_ITEMDESC.ID1013003]
-Un icono que representa una escena de Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+Un icono que representa una escena de "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Los duelistas del lugar profirieron un grito de alegría para conmemorar este prestigioso evento.
 [IDS_ITEMDESC.ID1013004]
-Un icono que representa una escena de Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+Un icono que representa una escena de "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 La muchacha, equipada con armas tecnológicas superavanzadas, atraviesa el campo de batalla para afrontar un encuentro trascendental.
 [IDS_ITEMDESC.ID1013005]
-Un icono que representa una escena de Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+Un icono que representa una escena de "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 ¿Su encuentro fue obra del destino o del azar? Lo que provocó fue una serie de sucesos que dejaron una marca indeleble en el mundo abisal.
 [IDS_ITEMDESC.ID1013006]
-Un icono que representa una escena de Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+Un icono que representa una escena de "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 ¿Su encuentro fue obra del destino o del azar? Lo que provocó fue una serie de sucesos que dejaron una marca indeleble en el mundo abisal.
 [IDS_ITEMDESC.ID1013007]
-Un icono que tienen un diseño clave de Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+Un icono que tienen un diseño clave de "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Viajando junto a espíritus. Baila, flor solitaria, con todo tu intenso color.
 [IDS_ITEMDESC.ID1013008]
 Un icono exclusivo que se ofrece en ocasiones especiales.
@@ -1237,6 +1240,9 @@ Una acción emocionante de la mano de quienes nunca dejan de ponerse a prueba.
 [IDS_ITEMDESC.ID1013011]
 Un icono que representa la verdadera forma de "<card mrk='14440'/>".
 Dicen que solo "<card mrk='14439'/>" puede ver su verdadero rostro.
+[IDS_ITEMDESC.ID1013013]
+Un icono que tienen un diseño clave de "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
+Tres magos que abrieron las puertas de un nuevo reino. Se les conoce por el sobrenombre de los "Tres Sabios, los Magistus".
 [IDS_ITEMDESC.ID1020001]
 Un título que se concede a los duelistas que comienzan su trayectoria en los Duelos de Yu-Gi-Oh! MASTER DUEL.
 Nunca es demasiado tarde para empezar a luchar.
@@ -1833,6 +1839,18 @@ Con un rugido atronador, se lanzan al combate ferozmente contra sus rivales.
 [IDS_ITEMDESC.ID1020199]
 Un título que se otorga a los duelistas que lograron buenos resultados en el evento "Carrera de dados - Fusión/Sincronía/Enlace".
 Un brillante futuro aguarda a aquellos valientes que confían en sí mismos.
+[IDS_ITEMDESC.ID1020200]
+Un título que se otorga a los duelistas que han logrado buenos resultados con una estrategia que usa Invocaciones por Fusión.
+Un remolino luminoso da origen a un nuevo monstruo.
+[IDS_ITEMDESC.ID1020201]
+Un título que se otorga a los duelistas que han logrado buenos resultados con una estrategia que usa Invocaciones por Sincronía.
+Más allá de los límites yace una nueva frontera.
+[IDS_ITEMDESC.ID1020202]
+Un título que se otorga a los duelistas que han logrado resultados notables con una estrategia que usa Invocaciones por Enlace.
+Las señales convergen. La unidad es poder.
+[IDS_ITEMDESC.ID1020203]
+Un título que se otorga a los duelistas que han logrado buenos resultados en una batalla entre tres poderes.
+Sea cual sea la situación, tus habilidades brillarán con luz propia.
 [IDS_ITEMDESC.ID1020204]
 Un título otorgado a los duelistas que hayan logrado estar entre los 10 primeros en la DC 2026 MAR.
 Las historias de sus numerosos e impresionantes duelos, así como de su valentía al competir por el trono perdurarán en el tiempo.
@@ -2050,6 +2068,9 @@ Las ráfagas de viento protegen de cualquier amenaza externa.
 [IDS_ITEMDESC.ID1031022]
 Un marco de icono que evoca la transformación de un héroe.
 El conjunto de formas distintas representa la variedad de tácticas que tiene su arsenal.
+[IDS_ITEMDESC.ID1031023]
+Un marco de icono que evoca al "<card mrk='21821'/>".
+Bajo la luna menguante, brotan de la demencia espinas de maldad.
 [IDS_ITEMDESC.ID1032001]
 Un marco de icono con forma de adorno circular que se puede ver en ciertas regiones a medida que el año se acerca a su fin.
 Se cuelgan con un deseo sincero de felicidad y alegría para los tiempos venideros.
@@ -2555,6 +2576,9 @@ Para quienes creen en los golpes veloces.
 [IDS_ITEMDESC.ID1070155]
 Protectores que representan el brillo de destinos que se cruzan.
 Para quienes sobrevivan al destino.
+[IDS_ITEMDESC.ID1070156]
+Protectores que representan el talento oculto de la DJ excéntrica.
+Para quienes persiguen el mal bajo la protección de la oscuridad.
 [IDS_ITEMDESC.ID1070157]
 Protectores que muestran un streamer monísimo vestido de forma especial.
 Para aquellos que se enfrentan al mundo con el rostro impasible.
@@ -2570,6 +2594,15 @@ Para quienes buscan nuevos horizontes.
 [IDS_ITEMDESC.ID1070161]
 Protectores que representan a un héroe invocado mediante la transformación.
 Para quienes buscan un Deck que les pertenezca.
+[IDS_ITEMDESC.ID1070162]
+Un protector que representa la forma aún más evolucionada de "<card mrk='12938'/>".
+Para quienes se oponen a una temible amenaza.
+[IDS_ITEMDESC.ID1070163]
+Protectores que representan a una máquina de combate humanoide y bípeda.
+Para quienes se dedican a crear armas.
+[IDS_ITEMDESC.ID1070164]
+Un protector que representa una flecha iluminada por la luna que derriba a un rival de los dioses.
+Para quienes liberan el verdadero poder del arco divino.
 [IDS_ITEMDESC.ID1071001]
 Protectores que ilustran a un guerrero que ha madurado y guarda en su corazón las cicatrices de las batallas. 
 Perfectos para los que siempre quieren lo mejor para sus amigos.
@@ -2766,10 +2799,10 @@ Para los que participaron la Duelist Cup e hicieron que el evento sea todo un é
 Un protector con el logotipo de la DC 2026 MAR. 
 Para los que participaron la Duelist Cup e hicieron que el evento sea todo un éxito.
 [IDS_ITEMDESC.ID1075001]
-Protectores que representan una escena de Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+Protectores que representan una escena de "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Los duelistas del lugar profirieron un grito de alegría para conmemorar este prestigioso evento.
 [IDS_ITEMDESC.ID1075002]
-Protectores que tienen un diseño clave de Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+Protectores que tienen un diseño clave de "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 La muchacha, equipada con armas tecnológicas superavanzadas, atraviesa el campo de batalla para afrontar un encuentro trascendental.
 [IDS_ITEMDESC.ID1075003]
 Un protector exclusivo que se ofrece en ocasiones especiales.
@@ -2780,14 +2813,17 @@ Perfectos para aquellos a los que les gusta tener su propio Deck.
 Protectores que se inspiran en un tesoro nacional brasileño que arrasa por el campo.
 Para aquellos que tienen una táctica sin igual.
 [IDS_ITEMDESC.ID1075006]
-Protectores que tienen un diseño clave de Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+Protectores que tienen un diseño clave de "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 ¿Su encuentro fue obra del destino o del azar? Lo que provocó fue una serie de sucesos que dejaron una marca indeleble en el mundo abisal.
 [IDS_ITEMDESC.ID1075007]
-Protectores que tienen un diseño clave de Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+Protectores que tienen un diseño clave de "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 ¿Su encuentro fue obra del destino o del azar? Lo que provocó fue una serie de sucesos que dejaron una marca indeleble en el mundo abisal.
 [IDS_ITEMDESC.ID1075008]
-Protectores que tienen un diseño clave de Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+Protectores que tienen un diseño clave de "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Viajando junto a espíritus. Baila, flor solitaria, con todo tu intenso color.
+[IDS_ITEMDESC.ID1075009]
+Protectores que tienen un diseño clave de "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
+Tres magos que abrieron las puertas de un nuevo reino. Se les conoce por el sobrenombre de los "Tres Sabios, los Magistus".
 [IDS_ITEMDESC.ID1080001]
 Una sencilla caja de Decks de tonos rojos.
 La primera caja de Decks que recibes siempre es especial, ¿no crees?
@@ -2964,6 +3000,9 @@ Perfecta para Decks que resuelven crímenes sobrenaturales.
 [IDS_ITEMDESC.ID1082027]
 Una caja de cartas que representa a "<card mrk='6668'/>".
 Recomendada para un Deck que labre su propio destino.
+[IDS_ITEMDESC.ID1082028]
+Una caja de cartas inspirada en un famoso club venerado incluso por los fans más radicales.
+Recomendada para un Deck que vuelve loco al público.
 [IDS_ITEMDESC.ID1083001]
 Una caja de cartas exclusiva que se ofrece en ocasiones especiales.
 [IDS_ITEMDESC.ID1090001]
@@ -3631,6 +3670,9 @@ Te guía usando el poder místico de las estrellas.
 [IDS_ITEMDESC.ID1111072]
 Un enclave inspirado en la ropa especial de un streamer monísimo.
 Se necesita cierto aire de despreocupación para llamar la atención de verdad.
+[IDS_ITEMDESC.ID1111074]
+Un enclave inspirado en "<card mrk='21805'/>".
+Llamas hirientes asolan cada rincón de este mundo maldito.
 [IDS_ITEMDESC.ID1111077]
 Un enclave inspirado en una turbulenta energía que surge de la naturaleza.
 Recibe el aura que emite y rebosarás vitalidad.
@@ -4077,6 +4119,9 @@ Con su poder, cambia el tiempo de todo el mundo a su voluntad.
 [IDS_ITEMDESC.ID1130116]
 <category id='161'/> es capaz de quebrar el mismo destino.
 Como un fénix inmortal que sobrevive a la muerte, regresa del campo de batalla una vez más.
+[IDS_ITEMDESC.ID1130117]
+Sonidos que nunca debieron mezclarse.
+De su portentosa armonía emerge el estilo de juego más fuerte.
 [IDS_ITEMDESC.ID1130118]
 "<card mrk='21810'/>", uno de los dioses del reino espiritual.
 Libera el poder de "<card mrk='21777'/>" y sus devastadores rayos verdes en el mundo.
@@ -4086,6 +4131,9 @@ La furia de la naturaleza resuena por todo el terreno golpeando con feroces vend
 [IDS_ITEMDESC.ID1130120]
 Uno de los héroes invocados mediante la transformación.
 Sus potentes patadas voladoras pueden atravesar sin esfuerzo a su objetivo.
+[IDS_ITEMDESC.ID1130122]
+Un emperador dragón que proviene de más allá del espacio y trae consigo la ruina.
+Su ferocidad bestial e implacable hace estragos en el mundo.
 [IDS_ITEMDESC.ID1130124]
 La "perseguidora" y la "perseguida" buscan un nuevo futuro.
 La senda que recorrerán con sus ideales sigue siendo un misterio.
@@ -4150,7 +4198,8 @@ Cuentan que cuando los <category id='072'/> se reúnan, las puertas de la magia 
 Un Archivo de Coleccionista para un héroe que soporte el peso del destino.
 Dicen que, al conseguir a <category id='161'/>, brillará la puerta hacia el D definitivo.
 [IDS_ITEMDESC.ID1170011]
-coming soon
+Un Archivo de Coleccionista que incluye a hábiles DJ que impresionan incluso a los más radicales.
+En una reunión de <category id='143'/>, dicen que los osados ritmos enloquecen al club y la luz brota de sus puertas.
 [IDS_ITEMDESC.ID1180001]
 Una moneda en la que aparece el dragón brillante que trae una nueva leyenda.
 Sus ojos celestes resplandecen.
@@ -4202,7 +4251,8 @@ Su tremendo poder mágico brilla intensamente.
 Una moneda que representa el emblema de un héroe que soporta el peso del destino.
 El símbolo de la "D" brilla con fuerza.
 [IDS_ITEMDESC.ID1180019]
-coming soon
+Una moneda que representa el emblema de un famoso club venerado incluso por los fans más radicales.
+La actuación de la DJ del <category id='143'/> es espectacular.
 [IDS_ITEMDESC.ID1180020]
 coming soon
 [IDS_ITEMDESC.ID1190001]

@@ -458,6 +458,8 @@ Graflare Artmage
 Typhon Radieux Meghala
 [IDS_ITEM.ID1010134]
 Plasma - HÉROS de la Destinée
+[IDS_ITEM.ID1010135]
+Platine du Son Kewl
 [IDS_ITEM.ID1010136]
 Vache
 [IDS_ITEM.ID1010137]
@@ -780,6 +782,8 @@ Duelliste blanc et bleu
 eFootball™
 [IDS_ITEM.ID1013011]
 Selene, Reine des Maîtres Magiciens
+[IDS_ITEM.ID1013013]
+Aleister l'Invokhateur
 [IDS_ITEM.ID1020001]
 Duelliste novice
 [IDS_ITEM.ID1020002]
@@ -1178,6 +1182,14 @@ Chevalier Polyvalent
 Démarreur de Spright
 [IDS_ITEM.ID1020199]
 Avancée
+[IDS_ITEM.ID1020200]
+Vortex F
+[IDS_ITEM.ID1020201]
+Overdrive S
+[IDS_ITEM.ID1020202]
+Code Nexus L
+[IDS_ITEM.ID1020203]
+Tri-Pointe
 [IDS_ITEM.ID1020204]
 Top 10 DC 2026 MAR
 [IDS_ITEM.ID1020205]
@@ -1328,6 +1340,8 @@ FIÈVRE P.U.N.K. JAM !
 Typhon d'Espace Mystique
 [IDS_ITEM.ID1031022]
 Changement de Masque II
+[IDS_ITEM.ID1031023]
+Jardin des Roses Noires
 [IDS_ITEM.ID1032001]
 Ornement festif
 [IDS_ITEM.ID1032002]
@@ -1666,6 +1680,8 @@ Spright de l'Elfe
 Typhon d'Espace Mystique
 [IDS_ITEM.ID1070155]
 Fusion de la Destinée
+[IDS_ITEM.ID1070156]
+RS du Son Kewl
 [IDS_ITEM.ID1070157]
 Live☆Jumelle Lil-la Sucreries
 [IDS_ITEM.ID1070158]
@@ -1676,6 +1692,12 @@ Compte de Créatures de l'Empereur Tanuki
 Activation Mode Assaut
 [IDS_ITEM.ID1070161]
 Atomic, HÉROS Masqué
+[IDS_ITEM.ID1070162]
+Master Paix, le Véritable Dracosseigneur
+[IDS_ITEM.ID1070163]
+La Brute du Blues R.B.
+[IDS_ITEM.ID1070164]
+Pourfendeuse Ultime
 [IDS_ITEM.ID1071001]
 Maximus Croisédia
 [IDS_ITEM.ID1071002]
@@ -1822,6 +1844,8 @@ THE CHRONICLES: Déchéance et Vertu
 THE CHRONICLES: Déchéance et Vertu2
 [IDS_ITEM.ID1075008]
 THE CHRONICLES: Les Charmeuses Spirituelles
+[IDS_ITEM.ID1075009]
+THE CHRONICLES: Magistus
 [IDS_ITEM.ID1080001]
 Boîte de cartes de Duelliste rouge
 [IDS_ITEM.ID1080002]
@@ -1940,6 +1964,8 @@ Labrynth
 "Une Affaire pour K9"
 [IDS_ITEM.ID1082027]
 Prison de la Tour de l'Horloge
+[IDS_ITEM.ID1082028]
+Son Kewl
 [IDS_ITEM.ID1083001]
 Blanc et bleu
 [IDS_ITEM.ID1090001]
@@ -2360,6 +2386,8 @@ Miammy
 Queudragon
 [IDS_ITEM.ID1111072]
 Live☆Jumelle Lil-la Sucreries
+[IDS_ITEM.ID1111074]
+Dragon Rose Ronces
 [IDS_ITEM.ID1111077]
 Spirale Dominus
 [IDS_ITEM.ID1111080]
@@ -2674,12 +2702,16 @@ Clergesse aux Ailes Nocturnes
 Typhon Radieux Fonix, la Grande Flamme
 [IDS_ITEM.ID1130116]
 Exécuteur Phœnix Destructeur - HÉROS de la Destinée
+[IDS_ITEM.ID1130117]
+B2B du Son Kewl
 [IDS_ITEM.ID1130118]
 Jupiter le Mécène du Pouvoir de la Destruction
 [IDS_ITEM.ID1130119]
 Spirale Dominus
 [IDS_ITEM.ID1130120]
 Loi des Ténèbres, HÉROS Masqué
+[IDS_ITEM.ID1130122]
+Roi Véritable de Toutes les Calamités
 [IDS_ITEM.ID1130124]
 I:P Masquerena et S:P Petite Chevaleresse
 [IDS_ITEM.ID1132001]
@@ -2725,7 +2757,7 @@ Magicien Sombre
 [IDS_ITEM.ID1170010]
 HÉROS de la Destinée
 [IDS_ITEM.ID1170011]
-coming soon
+Son Kewl
 [IDS_ITEM.ID1180001]
 Dragon Blanc Alternatif aux Yeux Bleus
 [IDS_ITEM.ID1180002]
@@ -2763,7 +2795,7 @@ Magicien Sombre
 [IDS_ITEM.ID1180018]
 HÉROS de la Destinée
 [IDS_ITEM.ID1180019]
-coming soon
+Son Kewl
 [IDS_ITEM.ID1180020]
 coming soon
 [IDS_ITEM.ID1190001]

@@ -757,6 +757,9 @@ She worships storms as she calls upon the power of the wind god within her.
 [IDS_ITEMDESC.ID1010134]
 An Icon depicting <category id='161'/>, known as the Ultimate D.
 Its hidden ultimate power can overturn a fate of certain defeat.
+[IDS_ITEMDESC.ID1010135]
+An Icon depicting an eccentric DJ with a moody vibe.
+She fires up the crowd with sick beats born underground and forged in the hip-hop scene.
 [IDS_ITEMDESC.ID1010136]
 An Icon depicting a cow that has been carried high into the air.
 The fearsome winds sweep everything in the area skyward.
@@ -1214,19 +1217,19 @@ You may have encountered him at a school in some era or other, being spurred on 
 An Icon given to Duelists who fought through the Duel of 4 minds in an alternate universe.
 The experience gained in that battle is invaluable and can be utilized in any world.
 [IDS_ITEMDESC.ID1013003]
-An Icon depicting a scene from Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+An Icon depicting a scene from "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 The Duelists at the venue let out a great cheer to mark this prestigious event.
 [IDS_ITEMDESC.ID1013004]
-An Icon depicting a scene from Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+An Icon depicting a scene from "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Tearing across the battlefield, the girl equipped with super-advanced technological weaponry has a world-changing encounter.
 [IDS_ITEMDESC.ID1013005]
-An Icon depicting a scene from Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+An Icon depicting a scene from "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Was their meeting the work of fate, or unavoidable? What unfolds is a recollection of events that left an indelible mark on an abyssal world.
 [IDS_ITEMDESC.ID1013006]
-An Icon depicting a scene from Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+An Icon depicting a scene from "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Was their meeting the work of fate, or unavoidable? What unfolds is a recollection of events that left an indelible mark on an abyssal world.
 [IDS_ITEMDESC.ID1013007]
-An Icon featuring a key visual for Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+An Icon featuring a key visual for "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Journeying side by side with spirits. Dance, lone blossom, in all your vivid color.
 [IDS_ITEMDESC.ID1013008]
 An exclusive Icon offered on special occasions.
@@ -1238,6 +1241,9 @@ Exhilarating action brought to you by those who never stop challenging themselve
 [IDS_ITEMDESC.ID1013011]
 An Icon depicting the true form of "<card mrk='14440'/>".
 It's said that only "<card mrk='14439'/>" can see her true face.
+[IDS_ITEMDESC.ID1013013]
+An Icon featuring a key visual for "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
+Three magicians who unlocked the door to another realm. They came to be known as the "Three Sages, the Magistus".
 [IDS_ITEMDESC.ID1020001]
 A Title given to Duelists who began their Dueling journey with Yu-Gi-Oh! MASTER DUEL.
 It's never too late to start Dueling.
@@ -1834,6 +1840,18 @@ With a thunderous roar, they throw themselves into fierce battles with their riv
 [IDS_ITEMDESC.ID1020199]
 A Title given to Duelists who achieved results in the "Dice Rally - Fusion/Synchro/Link" event.
 A brilliant future awaits those courageous enough to trust themselves.
+[IDS_ITEMDESC.ID1020200]
+A Title given to Duelists who achieved results with a strategy involving Fusion Summons.
+Swirling light gives birth to a new monster.
+[IDS_ITEMDESC.ID1020201]
+A Title given to Duelists who achieved results with a strategy involving Synchro Summons.
+Beyond your limits lies a new frontier.
+[IDS_ITEMDESC.ID1020202]
+A Title given to Duelists who achieved noteworthy results using a strategy involving Link Summons.
+Signals converge. Unity is power.
+[IDS_ITEMDESC.ID1020203]
+A Title given to Duelists who achieved results in a battle between three forces.
+No matter the situation, your abilities will shine through.
 [IDS_ITEMDESC.ID1020204]
 A Title given to Duelists who made it to the top 10 in DC 2026 MAR.
 Tales of their many great Duels and their bravery in competing for the throne will continue to be told for years to come.
@@ -2051,6 +2069,9 @@ The gusts of wind defend against outside threats.
 [IDS_ITEMDESC.ID1031022]
 An Icon Frame reminiscent of a hero's transformation.
 The many different forms represent the variety of tactics in his arsenal.
+[IDS_ITEMDESC.ID1031023]
+An Icon Frame that evokes the "<card mrk='21821'/>".
+Beneath the waning moon, thorns of malice bloom in madness.
 [IDS_ITEMDESC.ID1032001]
 An Icon Frame in the shape of a circular decoration, which can be seen in a certain region as the year draws to a close.
 They are hung with the sincere wish for happiness and joy in times to come.
@@ -2555,6 +2576,9 @@ For those who believe in striking quickly.
 [IDS_ITEMDESC.ID1070155]
 Protectors that depict the radiance of intersecting destinies.
 For those who transcend fate.
+[IDS_ITEMDESC.ID1070156]
+Protectors depicting the hidden facet of the eccentric DJ.
+For those who hunt evil under cover of darkness.
 [IDS_ITEMDESC.ID1070157]
 Protectors depicting an ultra-cute streamer in a special outfit.
 For those who take on the world with a deadpan face.
@@ -2570,6 +2594,15 @@ For those who seek out new horizons.
 [IDS_ITEMDESC.ID1070161]
 Protectors that depict a hero summoned through transformation.
 For those who seek a Deck of their very own.
+[IDS_ITEMDESC.ID1070162]
+A Protector depicting the further evolved form of "<card mrk='12938'/>".
+For those who stand against a mighty threat.
+[IDS_ITEMDESC.ID1070163]
+Protectors depicting a bipedal humanoid combat machine.
+For those make a living developing weapons.
+[IDS_ITEMDESC.ID1070164]
+A Protector depicting a moonlit arrowhead striking down a foe of the gods.
+For those who draw out the true power of the divine bow.
 [IDS_ITEMDESC.ID1071001]
 Protectors that illustrate a warrior who has matured and taken the scars etched in his heart during battles. 
 Perfect for those who always want the best for their dear friends.
@@ -2766,10 +2799,10 @@ For those who participated in the Duelist Cup and made the event a success.
 A Protector with a "DC 2026 MAR" logo. 
 For those who participated in the Duelist Cup and made the event a success.
 [IDS_ITEMDESC.ID1075001]
-Protectors depicting a scene from Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+Protectors depicting a scene from "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 The Duelists at the venue let out a great cheer to mark this prestigious event.
 [IDS_ITEMDESC.ID1075002]
-Protectors featuring a key visual for Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+Protectors featuring a key visual for "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Tearing across the battlefield, the girl equipped with super-advanced technological weaponry has a world-changing encounter.
 [IDS_ITEMDESC.ID1075003]
 An exclusive Protector offered on special occasions.
@@ -2780,14 +2813,17 @@ Perfect for those who like to have their very own Deck.
 Protectors inspired by a Brazilian national treasure tearing across the field.
 For those whose technique has no peers.
 [IDS_ITEMDESC.ID1075006]
-Protectors featuring a key visual for Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+Protectors featuring a key visual for "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Was their meeting the work of fate, or unavoidable? What unfolds is a recollection of events that left an indelible mark on an abyssal world.
 [IDS_ITEMDESC.ID1075007]
-Protectors featuring a key visual for Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+Protectors featuring a key visual for "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Was their meeting the work of fate, or unavoidable? What unfolds is a recollection of events that left an indelible mark on an abyssal world.
 [IDS_ITEMDESC.ID1075008]
-Protectors featuring a key visual for Yu-Gi-Oh! CARD GAME THE CHRONICLES.
+Protectors featuring a key visual for "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Journeying side by side with spirits. Dance, lone blossom, in all your vivid color.
+[IDS_ITEMDESC.ID1075009]
+Protectors featuring a key visual for "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
+Three magicians who unlocked the door to another realm. They came to be known as the "Three Sages, the Magistus".
 [IDS_ITEMDESC.ID1080001]
 A simple Deck Box with red accents.
 The first Deck Box you get always grows on you, doesn't it?
@@ -2964,6 +3000,9 @@ Perfect for Decks that crack down on supernatural crime.
 [IDS_ITEMDESC.ID1082027]
 A Card Case depicting "<card mrk='6668'/>".
 Recommended for a Deck that carves its own destiny.
+[IDS_ITEMDESC.ID1082028]
+A Card Case inspired by a club famous throughout the scene, admired even by hardcore fans.
+Recommended for a Deck that drives the audience into a frenzy.
 [IDS_ITEMDESC.ID1083001]
 An exclusive Card Case offered on special occasions.
 [IDS_ITEMDESC.ID1090001]
@@ -3632,6 +3671,9 @@ It guides you using the mystical power of the stars.
 [IDS_ITEMDESC.ID1111072]
 A Stand inspired by the special outfit of an ultra-cute streamer.
 Cuteness needs a hint of aloofness to really shine.
+[IDS_ITEMDESC.ID1111074]
+A Stand inspired by "<card mrk='21805'/>".
+Sorrowful flames pierce every corner of this accursed world.
 [IDS_ITEMDESC.ID1111077]
 A Stand inspired by a swirling energy born from nature.
 Receive the aura it emits and be filled with vitality.
@@ -4078,6 +4120,9 @@ With its power, it freely changes the weather throughout the world.
 [IDS_ITEMDESC.ID1130116]
 <category id='161'/> shatters even fate itself.
 Like an immortal phoenix transcending death, it returns to the battlefield once more.
+[IDS_ITEMDESC.ID1130117]
+Sounds that were never meant to mix.
+From their miraculous harmony emerges the strongest playstyle.
 [IDS_ITEMDESC.ID1130118]
 "<card mrk='21810'/>", one of the gods of the spirit realm.
 It unleashed "<card mrk='21777'/>", crackling with green lightning, upon the world.
@@ -4087,6 +4132,9 @@ Nature's fury echoes throughout the land in swirling eddies.
 [IDS_ITEMDESC.ID1130120]
 One of the heroes summoned through transformation.
 A flying kick unleashed from its powerful legs blasts a hole clean through the target.
+[IDS_ITEMDESC.ID1130122]
+A dragon emperor that appears from beyond space, bringing ruin in its wake.
+Its beast-like, unrelenting ferocity lay waste to the world.
 [IDS_ITEMDESC.ID1130124]
 "The pursuer" and the "the pursued" seize a new future.
 The path they'll shape from their ideals remains a mystery.
@@ -4151,7 +4199,8 @@ It is said that when the <category id='072'/> are gathered, the doors of black m
 A Collector's File for a hero bearing the weight of destiny.
 They say that when you gather <category id='161'/>, the door to Ultimate D will shine.
 [IDS_ITEMDESC.ID1170011]
-coming soon
+A Collector's File featuring slick DJs that impress even the most hardcore fans.
+When the <category id='143'/> are gathered, they say the edgy beats sends the club into overdrive, and its doors begin to gleam.
 [IDS_ITEMDESC.ID1180001]
 A Coin whose motif is the luminous dragon who brings about a new legend.
 Its cerulean eyes glimmer.
@@ -4204,7 +4253,8 @@ Its supreme magical power shines brightly.
 A Coin depicting the emblem of a hero bearing the weight of destiny.
 The "D" symbol glitters brightly.
 [IDS_ITEMDESC.ID1180019]
-coming soon
+A Coin depicting the emblem of a club famous throughout the scene, admired even by hardcore fans.
+The DJ performance of the <category id='143'/> steals the spotlight.
 [IDS_ITEMDESC.ID1180020]
 coming soon
 [IDS_ITEMDESC.ID1190001]

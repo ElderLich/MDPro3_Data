@@ -458,6 +458,8 @@ Kunstmagus Graflare
 Glanztaifun Meghala
 [IDS_ITEM.ID1010134]
 Schicksals-HELD - Plasma
+[IDS_ITEM.ID1010135]
+Kewl-Empfang Plat
 [IDS_ITEM.ID1010136]
 Kuh
 [IDS_ITEM.ID1010137]
@@ -780,6 +782,8 @@ Duellant Weiß & Blau
 eFootball™
 [IDS_ITEM.ID1013011]
 Selene, Königin der Meistermagier
+[IDS_ITEM.ID1013013]
+Aleister der Beschwörer
 [IDS_ITEM.ID1020001]
 Anfänger
 [IDS_ITEM.ID1020002]
@@ -1178,6 +1182,14 @@ Alleskönner
 Spright-Starter
 [IDS_ITEM.ID1020199]
 Voranschreiten
+[IDS_ITEM.ID1020200]
+F Vortex
+[IDS_ITEM.ID1020201]
+S Overdrive
+[IDS_ITEM.ID1020202]
+L Code Nexus
+[IDS_ITEM.ID1020203]
+Dreiklingen
 [IDS_ITEM.ID1020204]
 Top 10 im DC 2026 MAR
 [IDS_ITEM.ID1020205]
@@ -1328,6 +1340,8 @@ P.U.N.K. JAM-FIEBER!
 Mystischer Raum-Taifun
 [IDS_ITEM.ID1031022]
 Maskenwechsel II
+[IDS_ITEM.ID1031023]
+Schwarzer Rosengarten
 [IDS_ITEM.ID1032001]
 Festliches Ornament
 [IDS_ITEM.ID1032002]
@@ -1666,6 +1680,8 @@ Spright Elfe
 Mystischer Raum-Taifun
 [IDS_ITEM.ID1070155]
 Fusionsschicksal
+[IDS_ITEM.ID1070156]
+Kewl-Empfang RS
 [IDS_ITEM.ID1070157]
 Live☆Zwilling Lil-la-Süßigkeit
 [IDS_ITEM.ID1070158]
@@ -1676,6 +1692,12 @@ Kreaturenanzahl von Kaiser Tanuki
 Angriffsmodus aktivieren
 [IDS_ITEM.ID1070161]
 Maskierter HELD Atomic
+[IDS_ITEM.ID1070162]
+Meister-Peace, der wahre Drachoberherr
+[IDS_ITEM.ID1070163]
+R.B. Der brutale Blues
+[IDS_ITEM.ID1070164]
+Ultimativer Schlächter
 [IDS_ITEM.ID1071001]
 Crusadia Maximus
 [IDS_ITEM.ID1071002]
@@ -1822,6 +1844,8 @@ THE CHRONICLES: Die Gefallenen & die Tugendhaften
 THE CHRONICLES: Die Gefallenen & die Tugendhaften2
 [IDS_ITEM.ID1075008]
 THE CHRONICLES: Geisterverzaubererinnen
+[IDS_ITEM.ID1075009]
+THE CHRONICLES: Magistus
 [IDS_ITEM.ID1080001]
 Duellanten-Kartenetui rot
 [IDS_ITEM.ID1080002]
@@ -1940,6 +1964,8 @@ Labrynth
 „Ein Fall für K9“
 [IDS_ITEM.ID1082027]
 Gefängnisuhrturm
+[IDS_ITEM.ID1082028]
+Kewl-Empfang
 [IDS_ITEM.ID1083001]
 Weiß & Blau
 [IDS_ITEM.ID1090001]
@@ -2360,6 +2386,8 @@ Lecker
 Drachoschwanz
 [IDS_ITEM.ID1111072]
 Live☆Zwilling Lil-la-Süßigkeit
+[IDS_ITEM.ID1111074]
+Dornen-Rosendrache
 [IDS_ITEM.ID1111077]
 Dominus-Spirale
 [IDS_ITEM.ID1111080]
@@ -2674,12 +2702,16 @@ Nachtflügelklerikerin
 Glanztaifun Fonix, die große Flamme
 [IDS_ITEM.ID1130116]
 Schicksals-HELD - Destroyer Phoenix Enforcer
+[IDS_ITEM.ID1130117]
+Kewl-Empfang B2B
 [IDS_ITEM.ID1130118]
 Jupiter der Machtpatron der Zerstörung
 [IDS_ITEM.ID1130119]
 Dominus-Spirale
 [IDS_ITEM.ID1130120]
 Maskierter HELD Dunkles Gesetz
+[IDS_ITEM.ID1130122]
+Wahrer König aller Katastrophen
 [IDS_ITEM.ID1130124]
 I:P Maskerena und S:P Kleine Ritterin
 [IDS_ITEM.ID1132001]
@@ -2725,7 +2757,7 @@ Dunkler Magier
 [IDS_ITEM.ID1170010]
 Schicksals-HELD
 [IDS_ITEM.ID1170011]
-coming soon
+Kewl-Empfang
 [IDS_ITEM.ID1180001]
 Blauäugiger alternativer weißer Drache
 [IDS_ITEM.ID1180002]
@@ -2763,7 +2795,7 @@ Dunkler Magier
 [IDS_ITEM.ID1180018]
 Schicksals-HELD
 [IDS_ITEM.ID1180019]
-coming soon
+Kewl-Empfang
 [IDS_ITEM.ID1180020]
 coming soon
 [IDS_ITEM.ID1190001]
