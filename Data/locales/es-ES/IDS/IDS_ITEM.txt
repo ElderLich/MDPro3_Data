@@ -1202,12 +1202,12 @@ Top 1000 de la DC 2026 MAR
 Top 10000 de la DC 2026 MAR
 [IDS_ITEM.ID1020209]
 Duelista de la 2nd Stage de la DC 2026 MAR
+[IDS_ITEM.ID1020216]
+Tormenta de Relámpagos
 [IDS_ITEM.ID1021001]
 Comenzando
 [IDS_ITEM.ID1021002]
 Líder de líderes
-[IDS_ITEM.ID1021003]
-coming soon
 [IDS_ITEM.ID1022001]
 Líder de campeonato de institutos de 2026
 [IDS_ITEM.ID1022002]
@@ -1698,6 +1698,8 @@ Máster Peace, el Verdadero Dracoseñor
 R.B. El Bruto Blues
 [IDS_ITEM.ID1070164]
 Asesina Definitiva
+[IDS_ITEM.ID1070178]
+Mukumuku
 [IDS_ITEM.ID1071001]
 Cruzadia Maximus
 [IDS_ITEM.ID1071002]
@@ -2158,8 +2160,6 @@ Torbellinos Gemelos
 Entierro Insensato
 [IDS_ITEM.ID1101014]
 Torre de Hueso Absorbe-almas
-[IDS_ITEM.ID1101015]
-coming soon
 [IDS_ITEM.ID1101016]
 Espina Mágica
 [IDS_ITEM.ID1101017]
@@ -2170,14 +2170,10 @@ Devorador de Millones
 Jarra de Captura de Dragones
 [IDS_ITEM.ID1101020]
 Apertura de las Puertas Espirituales
-[IDS_ITEM.ID1101021]
-coming soon
 [IDS_ITEM.ID1101022]
 Reciclador de Chatarra y Recolector de Residuos
 [IDS_ITEM.ID1101023]
 Atrás a la Casilla Uno
-[IDS_ITEM.ID1101024]
-coming soon
 [IDS_ITEM.ID1101025]
 Santuario del Rey de Fuego
 [IDS_ITEM.ID1101026]
@@ -2334,8 +2330,28 @@ Quitar el Limitador
 Aquaespejo Gishki
 [IDS_ITEM.ID1111026]
 Tocón preciado
+[IDS_ITEM.ID1111027]
+coming soon
+[IDS_ITEM.ID1111028]
+coming soon
+[IDS_ITEM.ID1111029]
+coming soon
+[IDS_ITEM.ID1111030]
+coming soon
+[IDS_ITEM.ID1111031]
+coming soon
 [IDS_ITEM.ID1111032]
 Carta de Monstruo Xyz
+[IDS_ITEM.ID1111033]
+coming soon
+[IDS_ITEM.ID1111034]
+coming soon
+[IDS_ITEM.ID1111035]
+coming soon
+[IDS_ITEM.ID1111036]
+coming soon
+[IDS_ITEM.ID1111037]
+coming soon
 [IDS_ITEM.ID1111038]
 Rikka
 [IDS_ITEM.ID1111039]
@@ -2749,7 +2765,7 @@ K9
 [IDS_ITEM.ID1170006]
 Mikanko
 [IDS_ITEM.ID1170007]
-coming soon
+(西)1170007
 [IDS_ITEM.ID1170008]
 Caza del Cielo As
 [IDS_ITEM.ID1170009]
@@ -2797,6 +2813,14 @@ HÉROE del Destino
 [IDS_ITEM.ID1180019]
 Canción Kewl
 [IDS_ITEM.ID1180020]
+coming soon
+[IDS_ITEM.ID1180021]
+coming soon
+[IDS_ITEM.ID1180022]
+coming soon
+[IDS_ITEM.ID1180023]
+coming soon
+[IDS_ITEM.ID1180024]
 coming soon
 [IDS_ITEM.ID1190001]
 Casillas de marcadores
@@ -2874,3 +2898,5 @@ Protectores Exclusivos
 Gemas gratis
 [IDS_ITEM.PAIDGEM]
 Gemas de pago
+[IDS_ITEM.PUNTOS_DE_CREACI_N]
+Puntos de creación

@@ -1870,12 +1870,13 @@ Er wurde durch einen Sieg nach dem anderen gegen die harte Konkurrenz in der 2nd
 [IDS_ITEMDESC.ID1020209]
 Ein Titel, der an Duellanten vergeben wird, die die 2nd Stage des DC 2026 MAR erreicht haben.
 Er ist der Beweis dafür, dass du es durch die heiß umkämpfte 1st Stage geschafft hast.
+[IDS_ITEMDESC.ID1020216]
+Ein Titel, der an Duellanten vergeben wird, die beim „Schnupperduell“ Ergebnisse erzielt haben.
+Ein Duellant wird stärker, indem er sich an neue Umgebungen anpasst und sich immer wieder kühnen Herausforderungen stellt.
 [IDS_ITEMDESC.ID1021001]
 Ein Titel, der nur zu einem besonderen Anlass verliehen wird.
 [IDS_ITEMDESC.ID1021002]
 Ein Titel, der nur zu einem besonderen Anlass verliehen wird.
-[IDS_ITEMDESC.ID1021003]
-coming soon
 [IDS_ITEMDESC.ID1022001]
 Mit diesem Titel wurden die ersten Champions der Yu-Gi-Oh! MASTER DUEL „Japan High School Championship“ 2026 gekürt.
  Dieser Höhepunkt wurde mit unermüdlichem Einsatz erreicht – ein Beweis für eine in der Jugend geschmiedete Freundschaft. Die Tür zur Zukunft steht weit offen.
@@ -2518,8 +2519,6 @@ Für diejenigen, die alles zurückweisen, was auf sie zukommt.
 [IDS_ITEMDESC.ID1070135]
 Kartenhüllen, auf denen das goldene Land und dessen schreckliche goldene Armee abgebildet sind, bereit für eine Invasion.
 Für diejenigen, deren Macht aus Gier entspringt.
-[IDS_ITEMDESC.ID1070136]
-coming soon
 [IDS_ITEMDESC.ID1070137]
 Kartenhüllen, die die Erlösung durch die Hände von „<card mrk='21616'/>“ darstellen.
 Für all jene, die der Welt zeigen wollen, wer sie wirklich sind.
@@ -2604,6 +2603,9 @@ Für diejenigen, die ihren Lebensunterhalt mit der Entwicklung von Waffen verdie
 [IDS_ITEMDESC.ID1070164]
 Eine Kartenhülle, die eine mondbeschienene Pfeilspitze darstellt, die einen Feind der Götter niederstreckt.
 Für diejenigen, die die wahre Kraft des göttlichen Bogens entfesseln.
+[IDS_ITEMDESC.ID1070178]
+Kartenhüllen mit einem Illusionsmonster mit dichtem, buschigem Fell.
+Für diejenigen, die alles lieben, was flauschig ist.
 [IDS_ITEMDESC.ID1071001]
 Kartenhüllen, die einen Krieger darstellen, der gereift ist und die Narben, die während der Kämpfe in sein Herz geätzt wurden, akzeptiert hat. 
 Perfekt für alle, die immer das Beste für ihre geliebten Freunde wollen.
@@ -3581,8 +3583,6 @@ Der neu erschaffene und mit frischer Magie durchsetzte Stein strahlt Licht aus u
 [IDS_ITEMDESC.ID1111022]
 Ein Stand mit den vergessenen Habseligkeiten des Donnergottes, der seinen ewigen Sommerurlaub genoss.
 Sonnenbrille und Schnorchel kann man vielleicht vergessen, aber was ist mit den Gewitterwolken?
-[IDS_ITEMDESC.ID1111023]
-coming soon
 [IDS_ITEMDESC.ID1111024]
 Ein vom nostalgischen Design eines Tachometers inspirierter Stand.
 Auch wenn dies technisch möglich ist, wird deine Maschine bei solchen Geschwindigkeiten bis an ihre Grenzen belastet.
@@ -4188,7 +4188,7 @@ Es heißt, dass die Tore der Freiheit hell erstrahlen werden, wenn die <category
 Ein Sammelordner mit Abbildungen von Jungfrauen, die durch Tanz Gottheiten kanalisieren.
 Es heißt, dass die Ritaultüren des Gebets für Wohlstand hell erstrahlen werden, wenn die <category id='128'/> versammelt sind.
 [IDS_ITEMDESC.ID1170007]
-coming soon
+(独:説明)1170007
 [IDS_ITEMDESC.ID1170008]
 Ein Sammelordner, auf dem Mädchen abgebildet sind, die die Last eines grausamen Schicksals tragen.
 Es heißt, dass die Türen der hochmodernen Technologie hell erstrahlen wird, wenn die <category id='002'/> versammelt sind.
@@ -4256,6 +4256,14 @@ Das Symbol „D“ glänzt hell.
 Eine Münze mit dem Emblem eines in der Szene bekannten und selbst von eingefleischten Fans bewunderten Clubs.
 Der DJane-Auftritt der <category id='143'/> stiehlt allen die Show.
 [IDS_ITEMDESC.ID1180020]
+coming soon
+[IDS_ITEMDESC.ID1180021]
+coming soon
+[IDS_ITEMDESC.ID1180022]
+coming soon
+[IDS_ITEMDESC.ID1180023]
+coming soon
+[IDS_ITEMDESC.ID1180024]
 coming soon
 [IDS_ITEMDESC.ID1190001]
 Die maximale Anzahl der Lesezeichen, die du besitzen kannst, kann erhöht werden.

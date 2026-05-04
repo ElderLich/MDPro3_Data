@@ -1870,12 +1870,13 @@ Foi conquistado através de vitória após vitória contra ferozes competidores 
 [IDS_ITEMDESC.ID1020209]
 Um Título dado aos Duelistas que chegaram à 2ª Fase na DC 2026 MAR.
 Esta é uma prova de que conseguiu passar a altamente disputada 1ª Fase.
+[IDS_ITEMDESC.ID1020216]
+Um título concedido a Duelistas que obtiveram resultados no "Duelo de Teste".
+Um Duelista fica mais forte ao se adaptar a novos ambientes e continuar encarando grandes desafios.
 [IDS_ITEMDESC.ID1021001]
 Um título concedido apenas em uma ocasião especial.
 [IDS_ITEMDESC.ID1021002]
 Um título concedido apenas em uma ocasião especial.
-[IDS_ITEMDESC.ID1021003]
-coming soon
 [IDS_ITEMDESC.ID1022001]
 Um Título concedido aos Duelistas coroados como os primeiros campeões do "Campeonato Japonês de Ensino Médio" de 2026 de Yu-Gi-Oh! MASTER DUEL.
  O ápice foi alcançado com pura dedicação, um testemunho da amizade forjada na juventude. A porta para o futuro está aberta.
@@ -2518,8 +2519,6 @@ Para quem rejeita tudo que surge no caminho.
 [IDS_ITEMDESC.ID1070135]
 Protetores que retratam o pavoroso exército da Terra Dourada, pronto para dar início a uma invasão.
 Para quem tem poder oriundo da ganância.
-[IDS_ITEMDESC.ID1070136]
-coming soon
 [IDS_ITEMDESC.ID1070137]
 Protetores que retratam a salvação pelas mãos de "<card mrk='21616'/>".
 Para aqueles que desejam que o mundo veja quem realmente são.
@@ -2604,6 +2603,9 @@ Para quem ganha a vida criando armas.
 [IDS_ITEMDESC.ID1070164]
 Protetor que retrata uma flecha ao luar acertando um oponente dos deuses.
 Para quem canaliza o verdadeiro poder do arco divino.
+[IDS_ITEMDESC.ID1070178]
+Protetores com um monstro Ilusão de pelagem espessa e volumosa.
+Para os amantes de tudo que é fofinho.
 [IDS_ITEMDESC.ID1071001]
 Protetores que ilustram um guerreiro que amadureceu e tirou as cicatrizes gravadas em seu coração durante as batalhas. 
 Perfeito para aqueles que querem sempre o melhor para os seus amigos mais queridos.
@@ -3582,8 +3584,6 @@ Criada recentemente e imbuída de magia fresca, a pedra irradia luz e será uma 
 [IDS_ITEMDESC.ID1111022]
 Um Pedestal posicionado junto aos pertences esquecidos do deus do Trovão, que usufruía de suas duradouras férias de verão.
 Óculos de sol e snorkels podem ser esquecidos, mas e as nuvens de chuva?
-[IDS_ITEMDESC.ID1111023]
-coming soon
 [IDS_ITEMDESC.ID1111024]
 Um pedestal inspirado no desenho nostálgico de um velocímetro.
 Embora seja tecnicamente possível, essa velocidade testará os limites da sua máquina.
@@ -4189,7 +4189,7 @@ Dizem que, quando os <category id='134'/> se reunirem, as portas da libertação
 Um Acervo de Colecionador que retrata moças que canalizam divindades por meio da dança.
 Dizem que ao reunir <category id='128'/>, as portas da prece da prosperidade brilharão com fulgor.
 [IDS_ITEMDESC.ID1170007]
-coming soon
+(葡:説明)1170007
 [IDS_ITEMDESC.ID1170008]
 Acervo de Colecionador que retrata garotas que carregam o fardo de um destino cruel.
 Dizem que ao reunir <category id='002'/>, as portas da tecnologia de ponta brilharão com fulgor.
@@ -4257,6 +4257,14 @@ O símbolo "D" cintila com fulgor.
 Moeda representando o emblema de um clube muito conhecido na cena, admirado até pelos fãs mais dedicados.
 A DJ sempre rouba a cena com <category id='143'/>.
 [IDS_ITEMDESC.ID1180020]
+coming soon
+[IDS_ITEMDESC.ID1180021]
+coming soon
+[IDS_ITEMDESC.ID1180022]
+coming soon
+[IDS_ITEMDESC.ID1180023]
+coming soon
+[IDS_ITEMDESC.ID1180024]
 coming soon
 [IDS_ITEMDESC.ID1190001]
 O número máximo de favoritos que você pode ter pode ser aumentado.

@@ -1202,12 +1202,12 @@ DC2026 MAR TOP 1000
 DC2026 MAR TOP 10000
 [IDS_ITEM.ID1020209]
 DC2026 MAR 2nd STAGE 진출
+[IDS_ITEM.ID1020216]
+라이트닝 스톰
 [IDS_ITEM.ID1021001]
 반석의 포진
 [IDS_ITEM.ID1021002]
 톱 퍼포머
-[IDS_ITEM.ID1021003]
-coming soon
 [IDS_ITEM.ID1022001]
 고등학생 대회 2026 챔피언
 [IDS_ITEM.ID1022002]
@@ -1698,6 +1698,8 @@ Live☆Twin 리일라 스위트
 R.B.브루트 블루스
 [IDS_ITEM.ID1070164]
 아르테미트 슬레이
+[IDS_ITEM.ID1070178]
+모코못코
 [IDS_ITEM.ID1071001]
 천궁의 파라디온
 [IDS_ITEM.ID1071002]
@@ -2158,8 +2160,6 @@ TG1－EM1
 어리석은 매장
 [IDS_ITEM.ID1101014]
 정기를 흡수하는 골탑
-[IDS_ITEM.ID1101015]
-coming soon
 [IDS_ITEM.ID1101016]
 마력의 가시
 [IDS_ITEM.ID1101017]
@@ -2170,14 +2170,10 @@ coming soon
 드래곤족 봉인항아리
 [IDS_ITEM.ID1101020]
 칠정의 해문
-[IDS_ITEM.ID1101021]
-coming soon
 [IDS_ITEM.ID1101022]
 스크랩 리사이클러 & 가비지컬렉터
 [IDS_ITEM.ID1101023]
 원위치
-[IDS_ITEM.ID1101024]
-coming soon
 [IDS_ITEM.ID1101025]
 염왕의 성역
 [IDS_ITEM.ID1101026]
@@ -2334,8 +2330,28 @@ coming soon
 리추어의 의수경
 [IDS_ITEM.ID1111026]
 즐겨 찾는 그루터기
+[IDS_ITEM.ID1111027]
+coming soon
+[IDS_ITEM.ID1111028]
+coming soon
+[IDS_ITEM.ID1111029]
+coming soon
+[IDS_ITEM.ID1111030]
+coming soon
+[IDS_ITEM.ID1111031]
+coming soon
 [IDS_ITEM.ID1111032]
 엑시즈 몬스터 카드
+[IDS_ITEM.ID1111033]
+coming soon
+[IDS_ITEM.ID1111034]
+coming soon
+[IDS_ITEM.ID1111035]
+coming soon
+[IDS_ITEM.ID1111036]
+coming soon
+[IDS_ITEM.ID1111037]
+coming soon
 [IDS_ITEM.ID1111038]
 육화
 [IDS_ITEM.ID1111039]
@@ -2751,7 +2767,7 @@ K9(케이나인)
 [IDS_ITEM.ID1170006]
 미캉코
 [IDS_ITEM.ID1170007]
-coming soon
+(韓)1170007
 [IDS_ITEM.ID1170008]
 섬도희
 [IDS_ITEM.ID1170009]
@@ -2799,6 +2815,14 @@ K9(케이나인)
 [IDS_ITEM.ID1180019]
 킬러튠
 [IDS_ITEM.ID1180020]
+coming soon
+[IDS_ITEM.ID1180021]
+coming soon
+[IDS_ITEM.ID1180022]
+coming soon
+[IDS_ITEM.ID1180023]
+coming soon
+[IDS_ITEM.ID1180024]
 coming soon
 [IDS_ITEM.ID1190001]
 북마크 슬롯
@@ -2876,3 +2900,5 @@ CP-UR
 무료 젬
 [IDS_ITEM.PAIDGEM]
 유료 젬
+[IDS_ITEM.UNK]
+크래프트 포인트

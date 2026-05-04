@@ -1869,12 +1869,13 @@ Ottenuto grazie a una vittoria dopo l'altra contro avversari agguerriti nella 2�
 [IDS_ITEMDESC.ID1020209]
 Titolo conferito ai Duellanti che hanno raggiunto la 2ª fase nella DC 2026 MAR.
 Questa è la prova del superamento della combattutissima 1ª fase.
+[IDS_ITEMDESC.ID1020216]
+Un titolo dato ai Duellanti che hanno raggiunto risultati nel "Duello di prova".
+Un Duellante si rafforza adattandosi ai nuovi ambienti e continuando ad affrontare sfide audaci.
 [IDS_ITEMDESC.ID1021001]
 Un titolo conferito solo per un'occasione speciale.
 [IDS_ITEMDESC.ID1021002]
 Un titolo conferito solo per un'occasione speciale.
-[IDS_ITEMDESC.ID1021003]
-coming soon
 [IDS_ITEMDESC.ID1022001]
 Un titolo assegnato ai Duellanti che vengono dichiarati campioni assoluti del "Campionato delle scuole superiori del Giappone" di Yu-Gi-Oh! MASTER DUEL del 2026.
  Questo traguardo è stato ottenuto grazie a una dedizione assoluta, a testimonianza di un'amicizia nata da giovani. La porta per il futuro è spalancata.
@@ -2516,8 +2517,6 @@ Per chi rifiuta tutto ciò che è venuto prima di loro.
 [IDS_ITEMDESC.ID1070135]
 Protettori che raffigurano la Terra Dorata e la sua terrificante armata dorata, pronta a dare vita a un'invasione.
 Per chi trae il proprio potere dall'avidità.
-[IDS_ITEMDESC.ID1070136]
-coming soon
 [IDS_ITEMDESC.ID1070137]
 Protettori che raffigurano la salvezza per mano di "<card mrk='21616'/>".
 Per chi desidera che il mondo veda chi è veramente.
@@ -2602,6 +2601,9 @@ Per coloro che si guadagnano da vivere sviluppando armi.
 [IDS_ITEMDESC.ID1070164]
 Protettori che raffigurano una punta di freccia illuminata dalla luna che abbatte un nemico degli dei.
 Per coloro che sono in grado di evocare il vero potere dell'arco divino.
+[IDS_ITEMDESC.ID1070178]
+Protettori che raffigurano un mostro Illusione con un folto e spesso manto di pelliccia.
+Per gli amanti di tutto ciò che è morbido.
 [IDS_ITEMDESC.ID1071001]
 Protettori che rappresentano un guerriero che ha imparato a convivere con le ferite inferte al suo cuore durante le battaglie. 
 Perfetti per chi pretende sempre il meglio per gli amici più cari.
@@ -3580,8 +3582,6 @@ Di recente creazione e intrisa di magia nuova, la pietra irradia luce e sarà un
 [IDS_ITEMDESC.ID1111022]
 Uno stand posto insieme agli oggetti dimenticati del Dio del Tuono, un cultore di vacanze estive senza fine.
 Occhiali da sole e boccaglio possono forse essere dimenticati, ma le nubi?
-[IDS_ITEMDESC.ID1111023]
-coming soon
 [IDS_ITEMDESC.ID1111024]
 Uno stand ispirato allo stile nostalgico di un tachimetro.
 Anche se tecnicamente possibile, andare a una tale velocità porterà il tuo veicolo al limite.
@@ -4187,7 +4187,7 @@ Si dice che quando si ottengono <category id='134'/>, le porte della liberazione
 Un Album del Collezionista che raffigura delle fanciulle che evocano le divinità tramite la danza.
 Si dice che quando si ottengono <category id='128'/>, le porte rituali della preghiera della prosperità risplenderanno luminose.
 [IDS_ITEMDESC.ID1170007]
-coming soon
+(伊:説明)1170007
 [IDS_ITEMDESC.ID1170008]
 Un Album del Collezionista che raffigura delle ragazze che portano il peso di un destino crudele.
 Si dice che quando si ottengono <category id='002'/>, le porte di una tecnologia all'avanguardia risplenderanno luminose.
@@ -4255,6 +4255,14 @@ Il simbolo "D" brilla luminoso.
 Una moneta che raffigura lo stemma di un club rinomato in tutta la scena, apprezzato anche dai fan più esigenti.
 L'esibizione della DJ <category id='143'/> ha monopolizzato la scena.
 [IDS_ITEMDESC.ID1180020]
+coming soon
+[IDS_ITEMDESC.ID1180021]
+coming soon
+[IDS_ITEMDESC.ID1180022]
+coming soon
+[IDS_ITEMDESC.ID1180023]
+coming soon
+[IDS_ITEMDESC.ID1180024]
 coming soon
 [IDS_ITEMDESC.ID1190001]
 Il numero massimo di segnalibri che puoi possedere può essere aumentato.

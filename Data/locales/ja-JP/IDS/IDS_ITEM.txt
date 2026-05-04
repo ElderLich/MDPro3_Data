@@ -558,6 +558,24 @@ D-HERO Bloo-D
 ブラック・マジシャン
 [IDS_ITEM.ID1010139]
 クリッター
+[IDS_ITEM.ID1010140]
+coming soon
+[IDS_ITEM.ID1010141]
+coming soon
+[IDS_ITEM.ID1010142]
+coming soon
+[IDS_ITEM.ID1010143]
+coming soon
+[IDS_ITEM.ID1010144]
+coming soon
+[IDS_ITEM.ID1010145]
+coming soon
+[IDS_ITEM.ID1010146]
+coming soon
+[IDS_ITEM.ID1010147]
+coming soon
+[IDS_ITEM.ID1010148]
+coming soon
 [IDS_ITEM.ID1011001]
 サッカーボール
 [IDS_ITEM.ID1011002]
@@ -694,6 +712,12 @@ DC2026 MAR　ゴールドファイナリスト
 DC2026 MAR　シルバーファイナリスト
 [IDS_ITEM.ID1011068]
 DC2026 MAR　ブロンズファイナリスト
+[IDS_ITEM.ID1011069]
+coming soon
+[IDS_ITEM.ID1011070]
+coming soon
+[IDS_ITEM.ID1011071]
+coming soon
 [IDS_ITEM.ID1012001]
 エクスクローラー・シナプシス
 [IDS_ITEM.ID1012002]
@@ -1332,6 +1356,20 @@ DC2026 MAR TOP1000
 DC2026 MAR TOP10000
 [IDS_ITEM.ID1020209]
 DC2026 MAR 2nd STAGE進出
+[IDS_ITEM.ID1020210]
+coming soon
+[IDS_ITEM.ID1020211]
+coming soon
+[IDS_ITEM.ID1020212]
+coming soon
+[IDS_ITEM.ID1020213]
+coming soon
+[IDS_ITEM.ID1020214]
+coming soon
+[IDS_ITEM.ID1020215]
+coming soon
+[IDS_ITEM.ID1020216]
+ライトニング・ストーム
 [IDS_ITEM.ID1021001]
 盤石の布陣
 [IDS_ITEM.ID1021002]
@@ -1530,6 +1568,12 @@ P.U.N.K.JAM FEVER！
 マスク・チェンジ・セカンド
 [IDS_ITEM.ID1031023]
 黒薔薇の華園
+[IDS_ITEM.ID1031024]
+coming soon
+[IDS_ITEM.ID1031025]
+coming soon
+[IDS_ITEM.ID1031026]
+coming soon
 [IDS_ITEM.ID1032001]
 祝祭のオーナメント
 [IDS_ITEM.ID1032002]
@@ -1918,6 +1962,34 @@ M・HERO アトミック
 R.B.ブルート・ブルース
 [IDS_ITEM.ID1070164]
 月女神の鏃
+[IDS_ITEM.ID1070165]
+coming soon
+[IDS_ITEM.ID1070166]
+coming soon
+[IDS_ITEM.ID1070167]
+coming soon
+[IDS_ITEM.ID1070168]
+coming soon
+[IDS_ITEM.ID1070169]
+coming soon
+[IDS_ITEM.ID1070170]
+coming soon
+[IDS_ITEM.ID1070171]
+coming soon
+[IDS_ITEM.ID1070172]
+coming soon
+[IDS_ITEM.ID1070173]
+coming soon
+[IDS_ITEM.ID1070174]
+coming soon
+[IDS_ITEM.ID1070175]
+coming soon
+[IDS_ITEM.ID1070176]
+coming soon
+[IDS_ITEM.ID1070177]
+coming soon
+[IDS_ITEM.ID1070178]
+モコモッコ
 [IDS_ITEM.ID1071001]
 天穹のパラディオン
 [IDS_ITEM.ID1071002]
@@ -2396,6 +2468,10 @@ Yum☆Yum☆ヤミーズ
 coming soon
 [IDS_ITEM.ID1082030]
 coming soon
+[IDS_ITEM.ID1082031]
+欠番
+[IDS_ITEM.ID1082032]
+coming soon
 [IDS_ITEM.ID1083001]
 ホワイト＆ブルー
 [IDS_ITEM.ID1090001]
@@ -2480,6 +2556,8 @@ coming soon
 フットボールスタジアム
 [IDS_ITEM.ID1090041]
 ネオン瞬くサイバーシティ
+[IDS_ITEM.ID1090042]
+coming soon
 [IDS_ITEM.ID1092001]
 コロシアム
 [IDS_ITEM.ID1092002]
@@ -2594,6 +2672,8 @@ coming soon
 フットボールスタジアム
 [IDS_ITEM.ID1100041]
 ネオン瞬くサイバーシティ
+[IDS_ITEM.ID1100042]
+coming soon
 [IDS_ITEM.ID1101001]
 落とし穴
 [IDS_ITEM.ID1101002]
@@ -2800,6 +2880,8 @@ coming soon
 フットボールスタジアム
 [IDS_ITEM.ID1110041]
 ネオン瞬くサイバーシティ
+[IDS_ITEM.ID1110042]
+coming soon
 [IDS_ITEM.ID1111001]
 ウィジャ盤
 [IDS_ITEM.ID1111002]
@@ -2960,6 +3042,10 @@ coming soon
 coming soon
 [IDS_ITEM.ID1111080]
 ヴァレル
+[IDS_ITEM.ID1111081]
+coming soon
+[IDS_ITEM.ID1111082]
+coming soon
 [IDS_ITEM.ID1112001]
 コロシアム
 [IDS_ITEM.ID1112002]
@@ -3320,6 +3406,30 @@ coming soon
 coming soon
 [IDS_ITEM.ID1130124]
 Ｉ：Ｐマスカレーナ＆S：Pリトルナイト
+[IDS_ITEM.ID1130125]
+coming soon
+[IDS_ITEM.ID1130126]
+coming soon
+[IDS_ITEM.ID1130127]
+coming soon
+[IDS_ITEM.ID1130128]
+coming soon
+[IDS_ITEM.ID1130129]
+coming soon
+[IDS_ITEM.ID1130130]
+coming soon
+[IDS_ITEM.ID1130131]
+coming soon
+[IDS_ITEM.ID1130132]
+coming soon
+[IDS_ITEM.ID1130133]
+coming soon
+[IDS_ITEM.ID1130134]
+coming soon
+[IDS_ITEM.ID1130135]
+coming soon
+[IDS_ITEM.ID1130136]
+coming soon
 [IDS_ITEM.ID1132001]
 レスキューラビット
 [IDS_ITEM.ID1132002]
@@ -3328,6 +3438,8 @@ coming soon
 BBS
 [IDS_ITEM.ID1132004]
 創聖魔導王 エンディミオン
+[IDS_ITEM.ID1132005]
+coming soon
 [IDS_ITEM.ID1140001]
 レガシーパックチケット
 [IDS_ITEM.ID1140002]
@@ -3363,7 +3475,7 @@ K9
 [IDS_ITEM.ID1170006]
 御巫
 [IDS_ITEM.ID1170007]
-coming soon
+(日)1170007
 [IDS_ITEM.ID1170008]
 閃刀姫
 [IDS_ITEM.ID1170009]
@@ -3372,6 +3484,14 @@ coming soon
 D-HERO
 [IDS_ITEM.ID1170011]
 キラーチューン
+[IDS_ITEM.ID1170012]
+coming soon
+[IDS_ITEM.ID1170013]
+coming soon
+[IDS_ITEM.ID1170014]
+coming soon
+[IDS_ITEM.ID1170015]
+coming soon
 [IDS_ITEM.ID1180001]
 青眼の亜白龍
 [IDS_ITEM.ID1180002]
@@ -3411,6 +3531,14 @@ D-HERO
 [IDS_ITEM.ID1180019]
 キラーチューン
 [IDS_ITEM.ID1180020]
+coming soon
+[IDS_ITEM.ID1180021]
+coming soon
+[IDS_ITEM.ID1180022]
+coming soon
+[IDS_ITEM.ID1180023]
+coming soon
+[IDS_ITEM.ID1180024]
 coming soon
 [IDS_ITEM.ID1190001]
 ブックマーク枠
@@ -3488,3 +3616,5 @@ CP-UR
 無償ジェム
 [IDS_ITEM.PAIDGEM]
 有償ジェム
+[IDS_ITEM.UNK]
+クラフトポイント

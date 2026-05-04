@@ -1870,12 +1870,13 @@ It was earned through victory after victory against fierce competitors in the 2n
 [IDS_ITEMDESC.ID1020209]
 A Title given to Duelists who made it to the 2nd Stage in DC 2026 MAR.
 It is proof of your accomplishment in making it through the hotly contested 1st Stage.
+[IDS_ITEMDESC.ID1020216]
+A Title given to Duelists who achieved results in "Tryout Duel".
+A Duelist grows stronger by adapting to new environments and continuing to take on bold challenges.
 [IDS_ITEMDESC.ID1021001]
 A Title only bestowed upon a special occasion.
 [IDS_ITEMDESC.ID1021002]
 A Title only bestowed upon a special occasion.
-[IDS_ITEMDESC.ID1021003]
-coming soon
 [IDS_ITEMDESC.ID1022001]
 A Title awarded to the Duelists crowned the first-ever champions of the 2026 Yu-Gi-Oh! MASTER DUEL "Japan High School Championship".
  This apex was attained with pure dedication—a testament of friendship forged in youth. The door to the future is wide open.
@@ -2517,8 +2518,6 @@ For those who reject all that come before them.
 [IDS_ITEMDESC.ID1070135]
 Protectors depicting the Golden Land and its terrifying golden army ready to mount an invasion.
 For those whose power stems from greed.
-[IDS_ITEMDESC.ID1070136]
-coming soon
 [IDS_ITEMDESC.ID1070137]
 Protectors depicting salvation at the hands of "<card mrk='21616'/>".
 For those who wish the world to see who they truly are.
@@ -2603,6 +2602,9 @@ For those make a living developing weapons.
 [IDS_ITEMDESC.ID1070164]
 A Protector depicting a moonlit arrowhead striking down a foe of the gods.
 For those who draw out the true power of the divine bow.
+[IDS_ITEMDESC.ID1070178]
+Protectors featuring an Illusion monster with a thick, bushy coat of fur.
+For lovers of all things fluffy.
 [IDS_ITEMDESC.ID1071001]
 Protectors that illustrate a warrior who has matured and taken the scars etched in his heart during battles. 
 Perfect for those who always want the best for their dear friends.
@@ -3581,8 +3583,6 @@ Newly created and imbued with fresh magic, the stone radiates light and will be 
 [IDS_ITEMDESC.ID1111022]
 A Stand placed with the forgotten belongings of the Thunder god, who enjoyed their everlasting summer vacation.
 Sunglasses and snorkels can perhaps be forgotten about, but what about the thunderclouds?
-[IDS_ITEMDESC.ID1111023]
-coming soon
 [IDS_ITEMDESC.ID1111024]
 A Stand inspired by the nostalgic design of a speedometer.
 Even if technically possible, speeding at such speed will test your machine to its limit.
@@ -4188,7 +4188,7 @@ It is said that when the <category id='134'/> are gathered, the doors of liberat
 A Collector's File depicting maidens who channel deities through dance.
 It is said that when the <category id='128'/> are gathered, the ritual doors of the prosperity prayer will shine brightly.
 [IDS_ITEMDESC.ID1170007]
-coming soon
+(英:説明)1170007
 [IDS_ITEMDESC.ID1170008]
 A Collector's File depicting girls who carry the burden of a cruel fate.
  It is said that when the <category id='002'/> are gathered, the doors of cutting-edge technology will shine brightly.
@@ -4256,6 +4256,14 @@ The "D" symbol glitters brightly.
 A Coin depicting the emblem of a club famous throughout the scene, admired even by hardcore fans.
 The DJ performance of the <category id='143'/> steals the spotlight.
 [IDS_ITEMDESC.ID1180020]
+coming soon
+[IDS_ITEMDESC.ID1180021]
+coming soon
+[IDS_ITEMDESC.ID1180022]
+coming soon
+[IDS_ITEMDESC.ID1180023]
+coming soon
+[IDS_ITEMDESC.ID1180024]
 coming soon
 [IDS_ITEMDESC.ID1190001]
 The max. number of bookmarks you can possess can be increased.

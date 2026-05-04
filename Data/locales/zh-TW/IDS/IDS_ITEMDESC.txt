@@ -1871,12 +1871,13 @@ Yu-Gi-Oh! World Championship 2025:MASTER DUEL中十二強決鬥者的稱號。
 [IDS_ITEMDESC.ID1020209]
 在「DC2026 MAR」中，取得晉級2nd STAGE成績的決鬥者可獲得此稱號。
 戰勝眾多決鬥者，從1st STAGE勝出的實力證明。
+[IDS_ITEMDESC.ID1020216]
+在「試牌決鬥」中，取得好成績的決鬥者可獲得此稱號。
+適應新環境，並持續勇敢地挑戰，才能成為更強的決鬥者。
 [IDS_ITEMDESC.ID1021001]
 僅限特殊機會才能獲得的限定稱號。
 [IDS_ITEMDESC.ID1021002]
 僅限特殊機會才能獲得的限定稱號。
-[IDS_ITEMDESC.ID1021003]
-coming soon
 [IDS_ITEMDESC.ID1022001]
 2026年舉辦的Yu-Gi-Oh! MASTER DUEL「日本第一高中生決勝賽」中初代冠軍決鬥者獲贈的稱號。
 傾盡一切登上的頂峰，是與戰友共譜的青春勳章。邁向未來的大門，在此盛大開啟。
@@ -2520,8 +2521,6 @@ Yu-Gi-Oh! World Championship 2025:MASTER DUEL參賽紀念頭像邊框。
 [IDS_ITEMDESC.ID1070135]
 此卡套外面畫著打造出黃金軍團，企圖展開侵略的黃金卿。
 獻給將慾望當成動力的你。
-[IDS_ITEMDESC.ID1070136]
-coming soon
 [IDS_ITEMDESC.ID1070137]
 此卡套外面畫著為「<card mrk='21616'/>」所救時的姿態。
 獻給希望有人正視自己的你。
@@ -2606,6 +2605,9 @@ coming soon
 [IDS_ITEMDESC.ID1070164]
 此卡套外面畫著月光箭矢殲滅神敵的英姿。
 獻給發揮神弓真正力量的你。
+[IDS_ITEMDESC.ID1070178]
+此卡套外面畫著毛茸茸又圓滾滾的幻想魔族。
+獻給想體驗毛茸茸的你。
 [IDS_ITEMDESC.ID1071001]
 此卡套外面畫著跨越心靈創傷後獲得成長的戰士。
 獻給很會替夥伴著想的你。
@@ -3588,8 +3590,6 @@ coming soon
 [IDS_ITEMDESC.ID1111022]
 享受夏日假期的雷神好像把什麼忘在了這個底座上。
 太陽眼鏡和潛水鏡或許是忘了拿，但為什麼連雷雲也忘了？
-[IDS_ITEMDESC.ID1111023]
-coming soon
 [IDS_ITEMDESC.ID1111024]
 以車速錶為原型的底座，給人一種懷念的感覺。
 即使設計上能夠做到，但是將速度保持在臨界值，也會對機器造成巨大壓力。
@@ -4189,7 +4189,7 @@ coming soon
 藉由舞蹈讓神明降臨己身的少女們的蒐藏檔案。
 據說收集完<category id='128'/>後，祈求繁榮的儀式之門將散發光輝。
 [IDS_ITEMDESC.ID1170007]
-coming soon
+(繁:説明)1170007
 [IDS_ITEMDESC.ID1170008]
 背負殘酷命運的少女們的蒐藏檔案。
 據說收集完<category id='002'/>後，超科學之門將散發光輝。
@@ -4258,6 +4258,14 @@ D的象徵閃爍著光芒。
 以資深樂迷都讚嘆的業界知名俱樂部為概念所設計的硬幣。
 <category id='143'/>的DJ演出散發的與眾不同的魅力。
 [IDS_ITEMDESC.ID1180020]
+coming soon
+[IDS_ITEMDESC.ID1180021]
+coming soon
+[IDS_ITEMDESC.ID1180022]
+coming soon
+[IDS_ITEMDESC.ID1180023]
+coming soon
+[IDS_ITEMDESC.ID1180024]
 coming soon
 [IDS_ITEMDESC.ID1190001]
 可提高收藏空位的數量上限。

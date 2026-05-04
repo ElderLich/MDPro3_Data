@@ -1869,12 +1869,13 @@ Ganado victoria tras victoria frente a feroces competidores en la 2nd STAGE.
 [IDS_ITEMDESC.ID1020209]
 Un título otorgado a los duelistas que llegaron a la 2nd Stage en la DC 2026 MAR.
 Es la prueba de tu logro de haber superado la reñida 1st Stage.
+[IDS_ITEMDESC.ID1020216]
+Un título que se otorga a los duelistas que han logrado buenos resultados en un "Duelo de ensayo".
+Un duelista se fortalece al adaptarse a nuevos entornos y seguir afrontando intrépidos desafíos.
 [IDS_ITEMDESC.ID1021001]
 Un título que solo se otorga en una ocasión especial.
 [IDS_ITEMDESC.ID1021002]
 Un título que solo se otorga en una ocasión especial.
-[IDS_ITEMDESC.ID1021003]
-coming soon
 [IDS_ITEMDESC.ID1022001]
 Un título otorgado a los duelistas coronados como los primeros líderes del "Campeonato de institutos de Japón" de Yu-Gi-Oh! MASTER DUEL de 2026.
  Este hito fue conseguido con pura dedicación y atestigua una amistad forjada en la juventud. Las puertas al futuro están abiertas de par en par.
@@ -2517,8 +2518,6 @@ Para quienes rechazan todo lo que se muestra ante ellos.
 [IDS_ITEMDESC.ID1070135]
 Protectores que representan la Tierra Dorada y su aterrador ejército dorado, listo para lanzar una invasión.
 Para aquellos cuyo poder proviene de la codicia.
-[IDS_ITEMDESC.ID1070136]
-coming soon
 [IDS_ITEMDESC.ID1070137]
 Protectores que representan la salvación a manos de "<card mrk='21616'/>".
 Para quienes desean que el mundo vea quiénes son realmente.
@@ -2603,6 +2602,9 @@ Para quienes se dedican a crear armas.
 [IDS_ITEMDESC.ID1070164]
 Un protector que representa una flecha iluminada por la luna que derriba a un rival de los dioses.
 Para quienes liberan el verdadero poder del arco divino.
+[IDS_ITEMDESC.ID1070178]
+Protectores que muestran a un monstruo Ilusión con un tupido y frondoso pelaje.
+Para quienes les gustan los peluches.
 [IDS_ITEMDESC.ID1071001]
 Protectores que ilustran a un guerrero que ha madurado y guarda en su corazón las cicatrices de las batallas. 
 Perfectos para los que siempre quieren lo mejor para sus amigos.
@@ -3580,8 +3582,6 @@ Recién creada e impregnada de magia fresca, la piedra irradia luz y será una f
 [IDS_ITEMDESC.ID1111022]
 Un enclave en el que se encuentran las posesiones olvidadas del dios del trueno, que disfrutaba de sus eternas vacaciones de verano.
 Tal vez se puedan ignorar las gafas de sol y el material de buceo, pero ¿qué sucede con las nubes de tormenta?
-[IDS_ITEMDESC.ID1111023]
-coming soon
 [IDS_ITEMDESC.ID1111024]
 Un enclave inspirado en el diseño nostálgico de un velocímetro.
 Aunque sea técnicamente posible, alcanzar tal velocidad pondrá a prueba a tu máquina hasta el límite.
@@ -4187,7 +4187,7 @@ Cuentan que cuando los <category id='134'/> se reúnan, las puertas de la libera
 Archivo de Coleccionista que representa a unas doncellas que canalizan deidades mediante la danza.
 Cuentan que cuando los <category id='128'/> se reúnan, las puertas ceremoniales de la oración de la prosperidad resplandecerán.
 [IDS_ITEMDESC.ID1170007]
-coming soon
+(西:説明)1170007
 [IDS_ITEMDESC.ID1170008]
 Archivo de Coleccionista que representa a unas chicas que cargan un cruel destino sobre sus hombros.
 Cuentan que cuando los <category id='002'/> se reúnan, las puertas de la tecnología más avanzada resplandecerá.
@@ -4254,6 +4254,14 @@ El símbolo de la "D" brilla con fuerza.
 Una moneda que representa el emblema de un famoso club venerado incluso por los fans más radicales.
 La actuación de la DJ del <category id='143'/> es espectacular.
 [IDS_ITEMDESC.ID1180020]
+coming soon
+[IDS_ITEMDESC.ID1180021]
+coming soon
+[IDS_ITEMDESC.ID1180022]
+coming soon
+[IDS_ITEMDESC.ID1180023]
+coming soon
+[IDS_ITEMDESC.ID1180024]
 coming soon
 [IDS_ITEMDESC.ID1190001]
 El número máximo de marcadores que puedes tener se puede aumentar.

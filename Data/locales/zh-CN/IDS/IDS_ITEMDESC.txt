@@ -1868,12 +1868,13 @@ coming soon
 [IDS_ITEMDESC.ID1020209]
 授予在“DC2026 MAR”中，晋级2nd STAGE的决斗者的称号。
 从众多决斗者角逐的1st STAGE中晋级的实力选手之证。
+[IDS_ITEMDESC.ID1020216]
+授予在“决斗赛”中留下成绩的决斗者的称号。
+适应新环境，并持续勇敢地挑战，才能成为更强的决斗者。
 [IDS_ITEMDESC.ID1021001]
 特殊机会下提供的限定称号。
 [IDS_ITEMDESC.ID1021002]
 特殊机会下提供的限定称号。
-[IDS_ITEMDESC.ID1021003]
-coming soon
 [IDS_ITEMDESC.ID1022001]
 赠予荣获2026年举办的Yu-Gi-Oh! MASTER DUEL“日本第一高中生决胜赛”初代冠军决斗者的称号。
 倾尽一切登上的巅峰，是与战友共同谱写的青春华章。迈向未来的大门，在此盛大开启。
@@ -2516,8 +2517,6 @@ coming soon
 [IDS_ITEMDESC.ID1070135]
 设计有黄金卿为展开侵略而打造出黄金军团的卡套。
 献给将欲望当成动力的你。
-[IDS_ITEMDESC.ID1070136]
-coming soon
 [IDS_ITEMDESC.ID1070137]
 设计有被“<card mrk='21616'/>”所救时的模样的卡套。
 献给希望有人正视自己的你。
@@ -2602,6 +2601,9 @@ coming soon
 [IDS_ITEMDESC.ID1070164]
 设计有月光之镞歼灭神敌的英姿的卡套。
 献给发挥神弓真正力量的你。
+[IDS_ITEMDESC.ID1070178]
+设计有毛茸茸圆滚滚的幻想魔族的卡套。
+献给想体验毛茸茸的你。
 [IDS_ITEMDESC.ID1071001]
 以克服了心中因战斗失败而留下的疤痕并获得了成长的战士的姿态设计出的卡套。
 献给心中时刻挂念着伙伴并无比珍视伙伴的你。
@@ -3579,8 +3581,6 @@ coming soon
 [IDS_ITEMDESC.ID1111022]
 享受了常夏的雷神把什么忘在了这个基座上。
 太阳镜和潜水镜，等等，为什么还有雷云？
-[IDS_ITEMDESC.ID1111023]
-coming soon
 [IDS_ITEMDESC.ID1111024]
 一个仿制了速度表的基座，让人感觉有些怀旧。
 尽管从设计上可能实现，但是保持极限速度会给机器带来很大负荷。
@@ -4183,7 +4183,7 @@ coming soon
 借由舞蹈让神明降临己身的少女们的收藏卡册。
 据说收集完<category id='128'/>后，祈求繁荣的仪式之门将散发光辉。
 [IDS_ITEMDESC.ID1170007]
-coming soon
+(簡:説明)1170007
 [IDS_ITEMDESC.ID1170008]
 背负着残酷命运的少女们的收藏卡册。
 据说收集完<category id='002'/>后，超科学之门将散发光辉。
@@ -4252,6 +4252,14 @@ D的象征闪烁着光芒。
 以资深乐迷都赞叹的业内知名俱乐部为概念所设计的硬币。
 <category id='143'/>的DJ演出散发着与众不同的魅力。
 [IDS_ITEMDESC.ID1180020]
+coming soon
+[IDS_ITEMDESC.ID1180021]
+coming soon
+[IDS_ITEMDESC.ID1180022]
+coming soon
+[IDS_ITEMDESC.ID1180023]
+coming soon
+[IDS_ITEMDESC.ID1180024]
 coming soon
 [IDS_ITEMDESC.ID1190001]
 可以让你的书签上限增加一个。

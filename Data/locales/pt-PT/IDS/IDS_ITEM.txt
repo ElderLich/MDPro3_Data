@@ -1202,12 +1202,12 @@ Top 1000 da DC 2026 MAR
 Top 10000 da DC 2026 MAR
 [IDS_ITEM.ID1020209]
 Duelista de 2nd Stage do DC 2026 MAR
+[IDS_ITEM.ID1020216]
+Tempestade de Relâmpagos
 [IDS_ITEM.ID1021001]
 Começando
 [IDS_ITEM.ID1021002]
 Melhor desempenho
-[IDS_ITEM.ID1021003]
-coming soon
 [IDS_ITEM.ID1022001]
 Campeão do Torneio de Ensino Médio 2026
 [IDS_ITEM.ID1022002]
@@ -1698,6 +1698,8 @@ Master da Paz, o Verdadeiro Dracosuserano
 R.B. O Bruto do Blues
 [IDS_ITEM.ID1070164]
 Assassina Definitiva
+[IDS_ITEM.ID1070178]
+Mokomoko
 [IDS_ITEM.ID1071001]
 Crusadia Maximus
 [IDS_ITEM.ID1071002]
@@ -2158,8 +2160,6 @@ Tornados Gêmeos
 Enterro Tolo
 [IDS_ITEM.ID1101014]
 Torre de Ossos que Absorve Almas
-[IDS_ITEM.ID1101015]
-coming soon
 [IDS_ITEM.ID1101016]
 Espinho Mágico
 [IDS_ITEM.ID1101017]
@@ -2170,14 +2170,10 @@ Comedor de Milhões
 Jarro de Captura de Dragões
 [IDS_ITEM.ID1101020]
 Abertura dos Portões Espirituais
-[IDS_ITEM.ID1101021]
-coming soon
 [IDS_ITEM.ID1101022]
 Reciclador de Restolhos & Coletor de Lixo
 [IDS_ITEM.ID1101023]
 Regresso ao Início
-[IDS_ITEM.ID1101024]
-coming soon
 [IDS_ITEM.ID1101025]
 Santuário do Rei de Fogo
 [IDS_ITEM.ID1101026]
@@ -2334,8 +2330,28 @@ Remover Limites
 Aqua-espelhado Gishki
 [IDS_ITEM.ID1111026]
 Toco de Árvore Estimado
+[IDS_ITEM.ID1111027]
+coming soon
+[IDS_ITEM.ID1111028]
+coming soon
+[IDS_ITEM.ID1111029]
+coming soon
+[IDS_ITEM.ID1111030]
+coming soon
+[IDS_ITEM.ID1111031]
+coming soon
 [IDS_ITEM.ID1111032]
 Card de Monstro Xyz
+[IDS_ITEM.ID1111033]
+coming soon
+[IDS_ITEM.ID1111034]
+coming soon
+[IDS_ITEM.ID1111035]
+coming soon
+[IDS_ITEM.ID1111036]
+coming soon
+[IDS_ITEM.ID1111037]
+coming soon
 [IDS_ITEM.ID1111038]
 Rikka
 [IDS_ITEM.ID1111039]
@@ -2749,7 +2765,7 @@ K9
 [IDS_ITEM.ID1170006]
 Mikanko
 [IDS_ITEM.ID1170007]
-coming soon
+(葡)1170007
 [IDS_ITEM.ID1170008]
 Força Celeste - Ás
 [IDS_ITEM.ID1170009]
@@ -2797,6 +2813,14 @@ HERÓI do Destino
 [IDS_ITEM.ID1180019]
 Kewl Tune
 [IDS_ITEM.ID1180020]
+coming soon
+[IDS_ITEM.ID1180021]
+coming soon
+[IDS_ITEM.ID1180022]
+coming soon
+[IDS_ITEM.ID1180023]
+coming soon
+[IDS_ITEM.ID1180024]
 coming soon
 [IDS_ITEM.ID1190001]
 Espaços de Favoritos
@@ -2874,3 +2898,5 @@ Protetores Deluxe
 Gemas Grátis
 [IDS_ITEM.PAIDGEM]
 Gemas Pagas
+[IDS_ITEM.PONTOS_DE_FABRICA_O]
+Pontos de Fabricação
