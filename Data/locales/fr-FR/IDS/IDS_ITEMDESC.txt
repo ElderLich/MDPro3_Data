@@ -1870,12 +1870,13 @@ Remporté grâce à des victoires successives contre des concurrents féroces lo
 [IDS_ITEMDESC.ID1020209]
 Un titre donné aux Duellistes qui ont atteint la 2nd Stage dans la DC 2026 MAR.
 La preuve que vous avez réussi à passer la très disputée 1st Stage.
+[IDS_ITEMDESC.ID1020216]
+Un titre donné aux Duellistes qui ont obtenu des résultats dans "Duel d'essai".
+Un Duelliste devient plus fort en s'adaptant à de nouveaux environnements et en continuant à relever des défis audacieux.
 [IDS_ITEMDESC.ID1021001]
 Un titre qui n'est décerné que lors d'une occasion spéciale.
 [IDS_ITEMDESC.ID1021002]
 Un titre qui n'est décerné que lors d'une occasion spéciale.
-[IDS_ITEMDESC.ID1021003]
-coming soon
 [IDS_ITEMDESC.ID1022001]
 Un titre accordé aux Duellistes sacrés premiers champions du "Championnat des lycées au Japon 2026" de Yu-Gi-Oh! MASTER DUEL.
  Ce titre a été obtenu grâce à une détermination à toute épreuve, témoignage d'une amitié forgée dans la jeunesse. La porte vers l'avenir est grande ouverte.
@@ -2517,8 +2518,6 @@ Pour tous ceux qui rejettent le passé.
 [IDS_ITEMDESC.ID1070135]
 Des Protège-cartes représentant la Terre d'Or et sa terrible armée dorée prête à lancer une invasion.
 Pour tous ceux qui puisent leur puissance dans l'avarice.
-[IDS_ITEMDESC.ID1070136]
-coming soon
 [IDS_ITEMDESC.ID1070137]
 Des Protège-cartes représentant le salut aux mains de "<card mrk='21616'/>".
 Pour ceux qui souhaitent que le monde les voie pour ce qu'ils sont vraiment.
@@ -2603,6 +2602,9 @@ Pour ceux qui gagnent leur vie en inventant des armes.
 [IDS_ITEMDESC.ID1070164]
 Un Protège-cartes représentant une pointe de flèche éclairée par la lumière de la lune, frappant un ennemi des dieux.
 Pour ceux qui invoquent le véritable pouvoir de l'arc divin.
+[IDS_ITEMDESC.ID1070178]
+Des protège-cartes représentant un monstre Illusion avec une fourrure épaisse.
+Pour ceux qui aiment les créatures touffues.
 [IDS_ITEMDESC.ID1071001]
 Des protège-cartes illustrant un guerrier qui a mûri et accepté les cicatrices gravées dans son cœur au cours des batailles. 
 Parfaits pour ceux qui veulent toujours le meilleur pour leurs amis.
@@ -3579,8 +3581,6 @@ Nouvellement créée et récemment imprégnée de magie, la pierre émet une lue
 [IDS_ITEMDESC.ID1111022]
 Un Stand portant les objets oubliés par un Dieu du Tonnerre qui a bien profité de ses vacances estivales.
 On oublie facilement des lunettes de soleil ou un tuba, mais pas des nuages d'orage.
-[IDS_ITEMDESC.ID1111023]
-coming soon
 [IDS_ITEMDESC.ID1111024]
 Un Stand inspiré de l'aspect rétro d'un compteur de vitesse.
 Même si cela est techniquement possible, une telle vitesse mettra votre machine à rude épreuve.
@@ -4186,7 +4186,7 @@ On dit que lorsque les <category id='134'/> seront réunis, les portes de la lib
 Un Dossier de Collectionneur représentant de jeunes femmes qui invoquent des divinités en dansant.
 Il paraît que lorsque les <category id='128'/> se réuniront, les portes de la prière de prospérité brilleront de mille feux.
 [IDS_ITEMDESC.ID1170007]
-coming soon
+(仏:説明)1170007
 [IDS_ITEMDESC.ID1170008]
 Un Dossier de Collectionneur qui représente des filles portant sur leurs épaules le poids d'un cruel destin.
 Il paraît que lorsque les <category id='002'/> se réuniront, les portes de la technologie brilleront de mille feux.
@@ -4254,6 +4254,14 @@ La lettre "D" scintille.
 Une Pièce représentant l'emblème d'un club célèbre du monde de la nuit, admiré par les fans hardcore.
 La performance de la DJ avec le <category id='143'/> attire l'attention.
 [IDS_ITEMDESC.ID1180020]
+coming soon
+[IDS_ITEMDESC.ID1180021]
+coming soon
+[IDS_ITEMDESC.ID1180022]
+coming soon
+[IDS_ITEMDESC.ID1180023]
+coming soon
+[IDS_ITEMDESC.ID1180024]
 coming soon
 [IDS_ITEMDESC.ID1190001]
 Le nombre maximum de marque-pages que vous pouvez posséder peut être augmenté.
