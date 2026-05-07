@@ -234,12 +234,14 @@ Ils possèdent la capacité de fusionner, selon leurs besoins.
 <category id='79'/> réside dans les Souterrains et agit en tant qu'éclaireur.
 Il surveille le monde des humains sur ordres du Domaine rugissant.
 [IDS_ITEMDESC.ID1001039]
-coming soon
+Une arme mécanique issue d'une véritable coopération entre quatre tribus.
+Ce chef-d'œuvre est l'aboutissement de leur technologie, et a triomphé partout où il a été utilisé au combat.
 [IDS_ITEMDESC.ID1001040]
 Une poupée mécanique cauchemardesque et grotesque.
 Elle vous charme avec ses bonnes manières avant de fendre son corps en deux pour attaquer sous une forme hideuse.
 [IDS_ITEMDESC.ID1001041]
-coming soon
+Un ouvrage ancien, dont la couverture rouge représente le soleil brillant dans le ciel.
+La légende raconte que quiconque ouvrira ce livre obtiendra le pouvoir d'inonder les esprits maléfiques d'une lumière radieuse.
 [IDS_ITEMDESC.ID1001042]
 coming soon
 [IDS_ITEMDESC.ID1001043]
@@ -772,6 +774,18 @@ Le cercle magique qu'il dessina offrit la victoire au légendaire Roi des Jeux.
 [IDS_ITEMDESC.ID1010139]
 Une Icône représentant un petit diablotin à trois yeux.
 Il disparaît après avoir décidé de rentrer chez lui en enfer.
+[IDS_ITEMDESC.ID1010140]
+Une icône représentant le train express fou <category id='168'/>.
+Honnête et franc à l'excès, il a tendance à foncer tête baissée à tout va.
+[IDS_ITEMDESC.ID1010141]
+Une Icône représentant le créateur de <category id='169'/>, qui a légué la technique secrète "<card mrk='9050'/>".
+Sentant que la déesse manipulant le pouvoir de la destruction s'est réveillée, il décide de rentrer à <card mrk='9049'/>.
+[IDS_ITEMDESC.ID1010142]
+Une Icône représentant <category id='059'/>, dotée du pouvoir d'un gardien sacré du soleil.
+Elle peut venir à bout des ennemis les plus puissants.
+[IDS_ITEMDESC.ID1010145]
+Une Icône représentant une fille qui a conclu un contrat incomplet en raison de circonstances imprévues.
+Elle ne maîtrise qu'une partie du pouvoir de la Bête Divine.
 [IDS_ITEMDESC.ID1011001]
 Une icône représentant un ballon constitué de panneaux noirs et blancs.
 Remporter 3 Duels d'affilée ne s'appelle pas un coup du chapeau.
@@ -1873,6 +1887,9 @@ La preuve que vous avez réussi à passer la très disputée 1st Stage.
 [IDS_ITEMDESC.ID1020216]
 Un titre donné aux Duellistes qui ont obtenu des résultats dans "Duel d'essai".
 Un Duelliste devient plus fort en s'adaptant à de nouveaux environnements et en continuant à relever des défis audacieux.
+[IDS_ITEMDESC.ID1020217]
+Un titre donné aux Duellistes qui obtenu des résultats au cours de l'événement de Course de dés ~ Mai 2026 ~.
+L'avenir sourit à ceux qui ont le courage de croire en leurs capacités.
 [IDS_ITEMDESC.ID1021001]
 Un titre qui n'est décerné que lors d'une occasion spéciale.
 [IDS_ITEMDESC.ID1021002]
@@ -2004,6 +2021,9 @@ La neige blanche tombe du ciel bleu, reflétant la lumière avec harmonie.
 [IDS_ITEMDESC.ID1030041]
 Un cadre d'icône rouge et blanc qui peut être interprété de nombreuses manières différentes.
 Des attributs dynamiques comme la vitalité et la passion sont contrebalancés par des attributs plus subtils, comme la tristesse et la spiritualité.
+[IDS_ITEMDESC.ID1030043]
+Un Cadre d'icône jaune et noir dont le contraste marqué évoque le danger.
+Dans la nature, ces couleurs servent de signal d'alerte pour éloigner les prédateurs.
 [IDS_ITEMDESC.ID1031001]
 Un Cadre d'icône qui évoque le portail utilisé par l'Assaut de l'Air afin de transférer leur armement.
 Lorsque la voie s'ouvre à ceux qui luttent pour la paix, un nouveau pouvoir pour surmonter les épreuves s'éveille.
@@ -2073,6 +2093,9 @@ Les nombreuses formes différentes représentent la variété des tactiques dans
 [IDS_ITEMDESC.ID1031023]
 Un cadre d'icône qui évoque le "<card mrk='21821'/>".
 Sous le croissant de lune, les épines du mal s'épanouissent dans la folie.
+[IDS_ITEMDESC.ID1031024]
+Un cadre d'icône évoquant un chœur de la forêt qui fredonne des chants sacrés.
+Il est imprégné du pouvoir magique des fées choisies par les arbres.
 [IDS_ITEMDESC.ID1032001]
 Un Cadre d'icône de forme circulaire pouvant être aperçu dans certaines régions du monde lorsque l'année arrive à son terme.
 On l'accroche en faisant le vœu sincère que les jours à venir apportent joie et bonheur.
@@ -2602,6 +2625,18 @@ Pour ceux qui gagnent leur vie en inventant des armes.
 [IDS_ITEMDESC.ID1070164]
 Un Protège-cartes représentant une pointe de flèche éclairée par la lumière de la lune, frappant un ennemi des dieux.
 Pour ceux qui invoquent le véritable pouvoir de l'arc divin.
+[IDS_ITEMDESC.ID1070165]
+Des protège-cartes incarnant la reine du champ de bataille, qui s'est débarrassée de sa part de fragilité.
+À ceux qui partent au combat le cœur plein de détermination.
+[IDS_ITEMDESC.ID1070166]
+Des Protège-cartes représentant "<card mrk='22196'/>", qui se tient sur le champ de bataille une fois de plus aux côtés de son partenaire.
+Pour ceux qui se battent avec leur monture volante.
+[IDS_ITEMDESC.ID1070167]
+Des Protège-cartes représentant un être enveloppé dans le pouvoir d'un messager contemplant le dieu gardien d'une planète rouge feu.
+Pour ceux qui sont vraiment insondables.
+[IDS_ITEMDESC.ID1070171]
+Des Protège-cartes représentant quelque chose de surnaturel et hors du commun.
+Pour ceux qui se trouvent dans sa zone d'alimentation.
 [IDS_ITEMDESC.ID1070178]
 Des protège-cartes représentant un monstre Illusion avec une fourrure épaisse.
 Pour ceux qui aiment les créatures touffues.
@@ -3004,6 +3039,15 @@ Recommandée pour un Deck qui décide de son propre destin.
 [IDS_ITEMDESC.ID1082028]
 Une Boîte de cartes inspirée d'un club célèbre du monde de la nuit, admiré par les fans les plus hardcores.
 Recommandée pour un Deck qui fait vibrer le public.
+[IDS_ITEMDESC.ID1082029]
+Une boîte de cartes représentant "<card mrk='22174'/>".
+Recommandée pour les Decks qui tissent des chants sacrés.
+[IDS_ITEMDESC.ID1082030]
+Une Boîte de cartes représentant "<card mrk='9049'/>", profondément dans <category id='021'/>.
+Recommandée pour les Decks imprégnés de l'âme d'un dragon.
+[IDS_ITEMDESC.ID1082032]
+Une Boîte de cartes représentant <category id='059'/>, qui protège contre le mal.
+Recommandée pour les Decks qui se battent de manière acharnée contre leurs ennemis.
 [IDS_ITEMDESC.ID1083001]
 Une Boîte de cartes exclusive offerte lors d'occasions spéciales.
 [IDS_ITEMDESC.ID1090001]
@@ -3123,6 +3167,9 @@ Un Terrain de Duel dans un stade de football.
 Les encouragements des fans enthousiastes y résonnent.
 [IDS_ITEMDESC.ID1090041]
 Un Terrain de Duel où les voleurs, les agents, les messagers et autres occupants du monde souterrain se rassemblent et opèrent. Il semble également héberger une organisation secrète qui voyage dans le temps et entre les dimensions pour vaincre le mal.
+[IDS_ITEMDESC.ID1090042]
+Un Terrain de Duel issu de Royaume des fées - Jardin d'Oratorio.
+Les fées pensent que l'être inconnu qui dort au cœur du bourgeon géant sera source de miracles pour la forêt.
 [IDS_ITEMDESC.ID1092001]
 Un Terrain représentant deux guerriers en plein milieu d'un combat enragé.
 C'est le moment ou jamais de s'affronter !
@@ -3246,6 +3293,9 @@ Une issue temporaire qui fait partie de la performance. L'as revient de la trapp
 [IDS_ITEMDESC.ID1100041]
 Des Parties de Terrain provenant de la Ville Cyber aux Néons.
 Elles ont l'air pratiques pour dissimuler temporairement des agents.
+[IDS_ITEMDESC.ID1100042]
+Des Parties de Terrain issues de Royaume des fées - Jardin d'Oratorio.
+Les vœux sont exaucés quand la grande fée entend le rituel de la prière sacrée entonné par le chœur.
 [IDS_ITEMDESC.ID1101001]
 Des parties de Terrain inspirées par une Trappe.
 Poser ce genre de piège est-il le signe d'une grande ruse ou juste de la triche ?
@@ -3515,6 +3565,9 @@ Tribune d'un stade de football. La passion déferle sur le terrain, la scène ve
 [IDS_ITEMDESC.ID1110041]
 Un Stand inspiré du Terrain de Duel Ville Cyber aux Néons.
 Même sous les lumières des néons, personne n'est à l'abri des agents.
+[IDS_ITEMDESC.ID1110042]
+Un stand issu de Royaume des fées - Jardin d'Oratorio.
+Seuls ceux dont les ailes se sont déployées peuvent se joindre au chœur de la forêt, afin de fredonner des chants sacrés à l'intention du bourgeon géant.
 [IDS_ITEMDESC.ID1111001]
 Un Stand inspiré d'une certaine planche où sont gravées des lettres, et qu'on utilise dans plusieurs arts occultes.
 Vous avez la sensation de voir un esprit sombre et vengeur vous regarder dans le fond...
@@ -3594,6 +3647,10 @@ Cette personne ne pourrait résister à l'envie de s'assoir.
 Un stand inspiré par les cartes qui ont des Rangs au lieu de Niveaux.
 Des fragments de souvenirs et de nouveaux pouvoirs imprègnent ces cartes.
 Lorsque ces cartes sont empilées les unes sur les autres, elles révèlent le potentiel des monstres.
+[IDS_ITEMDESC.ID1111037]
+Un stand en forme de carte ayant déclenché de nombreux Duels.
+Un fragment d'histoire est inscrit sur cette carte.
+Il donne un aperçu du mystérieux pouvoir que manient les monstres lors des Duels.
 [IDS_ITEMDESC.ID1111038]
 Un Stand en forme de flocon de neige sur une fleur.
 La neige et la glace recouvrent ce vaste territoire, enveloppant le monde d'un manteau blanc.
@@ -4136,6 +4193,18 @@ Sa férocité bestiale et implacable ravage le monde.
 [IDS_ITEMDESC.ID1130124]
 "La pourchasseuse" et sa "proie" forgent un nouvel avenir.
 La voie qu'elles traceront en suivant leurs idéaux reste inconnue.
+[IDS_ITEMDESC.ID1130125]
+Le chœur de la forêt offre ses prières avec des chants solennels et sacrés.
+Grâce à ce rituel, le bourgeon géant dans lequel sommeille l'être inconnu commence à fleurir.
+[IDS_ITEMDESC.ID1130126]
+La magie de la téléportation permet d'échapper de justesse à l'autodestruction provoquée par "<card mrk='21811'/>".
+Mais le sort échoue et les fait tomber du ciel pour atterrir dans la plante géante.
+[IDS_ITEMDESC.ID1130129]
+Un sbire de "<card mrk='21936'/>" qui dupe ses proies en prenant l'apparence d'un humain.
+Il leur lave le cerveau et les enlève pour les utiliser comme sacrifices.
+[IDS_ITEMDESC.ID1130135]
+Une forme de vie mécanique portant le nom d'un dieu qui a veillé sur le monde au fil de nombreuses années.
+Grâce au phonographe sur son bras droit, il émet des ondes électromagnétiques capables de mettre les machines hors service.
 [IDS_ITEMDESC.ID1132001]
 Il ne sait pas très bien pourquoi, mais le lapin est désormais membre d'un club de foot.
 Il espère mener son équipe jusqu'à la victoire grâce à son talent naturel pour le soutien.
@@ -4199,6 +4268,12 @@ On dit que lorsque les <category id='161'/> seront réunis, les portes du D Ult
 [IDS_ITEMDESC.ID1170011]
 Un Dossier de Collectionneur qui met à l'honneur des DJ talentueux, capables d'impressionner même les fans les plus hardcore.
 Quand les <category id='143'/> sont rassemblés, le rythme endiablé met l'ambiance dans le club et ses portes se mettent à briller.
+[IDS_ITEMDESC.ID1170012]
+Un Dossier de Collectionneur représentant de jeunes femmes qui se battent contre l'incarnation même du mal.
+Quand vous obtenez des cartes <category id='059'/>, les portes de la sororité se mettent à briller.
+[IDS_ITEMDESC.ID1170013]
+Un Dossier de Collectionneur représentant un clan imprégné d'âmes de dragons.
+Quand vous obtenez des cartes <category id='169'/>, les portes du soldat dragon légendaire se mettent à briller.
 [IDS_ITEMDESC.ID1180001]
 Une pièce dont le motif est le dragon lumineux qui écrit une nouvelle légende.
 Ses yeux céruléens brillent.
@@ -4254,11 +4329,14 @@ La lettre "D" scintille.
 Une Pièce représentant l'emblème d'un club célèbre du monde de la nuit, admiré par les fans hardcore.
 La performance de la DJ avec le <category id='143'/> attire l'attention.
 [IDS_ITEMDESC.ID1180020]
-coming soon
+Une pièce représentant l'emblème d'un chœur de la forêt qui fredonne des chants sacrés.
+La magie des fées brille avec éclat.
 [IDS_ITEMDESC.ID1180021]
-coming soon
+Une Pièce dont le motif représente un soldat dragon qui fend les cieux.
+L'art secret qui protège la vallée brille intensément.
 [IDS_ITEMDESC.ID1180022]
-coming soon
+Une Pièce dont le motif est <category id='059'/>, qui protège contre le mal.
+L'armement divin béni par la grâce céleste brille intensément.
 [IDS_ITEMDESC.ID1180023]
 coming soon
 [IDS_ITEMDESC.ID1180024]

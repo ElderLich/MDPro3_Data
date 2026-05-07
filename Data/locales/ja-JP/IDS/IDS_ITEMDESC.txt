@@ -251,12 +251,14 @@ coming soon
 魔界に住む斥候役の<category id='79'/>。
 轟界からの命を受けて地上界を偵察する。
 [IDS_ITEMDESC.ID1001039]
-coming soon
+4つの部族が真の意味で協力して造られた機械兵器。
+技術の粋を結集した傑作機は各戦場で大きな戦果を上げた。
 [IDS_ITEMDESC.ID1001040]
 機械仕掛けの奇怪な地獄人形。
 紳士的に魅せて自らの身体を割き、悍ましい姿で攻撃する。
 [IDS_ITEMDESC.ID1001041]
-coming soon
+天空に輝く太陽がデザインされた赤い装丁が印象的な古い書物。
+この書を紐解いた者は、魔物を光で照らす力を得られるらしい。
 [IDS_ITEMDESC.ID1001042]
 coming soon
 [IDS_ITEMDESC.ID1001043]
@@ -790,17 +792,21 @@ coming soon
 三つ眼の小さな悪魔が描かれたアイコン。
 自身のルーツである魔界旅行をきっかけに行方不明になってしまう。
 [IDS_ITEMDESC.ID1010140]
-coming soon
+<category id='168'/>の暴走特急が描かれたアイコン。
+純粋で真っすぐな故に、どんなことにも突っかかってしまう性格。
 [IDS_ITEMDESC.ID1010141]
-coming soon
+秘伝の技”<card mrk='9050'/>”を伝えた<category id='169'/>の開祖が描かれたアイコン。
+滅びの力を持つ女神の復活を察知し、<card mrk='9049'/>への帰還を決意する。
 [IDS_ITEMDESC.ID1010142]
-coming soon
+太陽を守護する神の如き使者の力を纏った<category id='059'/>が描かれたアイコン。
+強大な悪魔をも打ち倒す力を持つ。
 [IDS_ITEMDESC.ID1010143]
 coming soon
 [IDS_ITEMDESC.ID1010144]
 coming soon
 [IDS_ITEMDESC.ID1010145]
-coming soon
+不測の事態に不完全な契約を行った少女の姿が描かれたアイコン。
+神使いの獣の力を一部だけ借りて行使している。
 [IDS_ITEMDESC.ID1010146]
 coming soon
 [IDS_ITEMDESC.ID1010147]
@@ -1966,6 +1972,9 @@ coming soon
 [IDS_ITEMDESC.ID1020216]
 「デュエルトライアル」において、結果を残したデュエリストに贈られる称号。
 新たな環境に適応し、果敢に挑戦し続ける姿勢がデュエリストを強くする。
+[IDS_ITEMDESC.ID1020217]
+「ダイスラリー　～2026 MAY～」において、結果を残したデュエリストに贈られる称号。
+自分を信じる勇気ある者が、輝く未来へとたどり着く。
 [IDS_ITEMDESC.ID1021001]
 特別な機会に提供される限定称号。
 [IDS_ITEMDESC.ID1021002]
@@ -2102,7 +2111,8 @@ coming soon
 [IDS_ITEMDESC.ID1030042]
 coming soon
 [IDS_ITEMDESC.ID1030043]
-coming soon
+強いコントラストで危険性を想起させるイエロー&ブラックのアイコンフレーム。
+自然界でも注意警告を示し捕食者を躊躇わせることができる。
 [IDS_ITEMDESC.ID1030044]
 coming soon
 [IDS_ITEMDESC.ID1030045]
@@ -2227,7 +2237,8 @@ coming soon
 「<card mrk='21821'/>」を想起させるアイコンフレーム。
 十六夜月の下、憎悪の荊が狂い咲く。
 [IDS_ITEMDESC.ID1031024]
-coming soon
+聖なる詩を紡ぐ森の聖歌隊を想起させるアイコンフレーム。
+森に選ばれた妖精たちの魔力が宿っている。
 [IDS_ITEMDESC.ID1031025]
 coming soon
 [IDS_ITEMDESC.ID1031026]
@@ -2796,11 +2807,14 @@ coming soon
 月光の鏃が神敵を滅す姿がデザインされたプロテクター。
 神弓の真なる力を引き出すあなたに。
 [IDS_ITEMDESC.ID1070165]
-coming soon
+弱い自分と決別した戦場の女王の姿がデザインされたプロテクター。
+決意を胸に闘いへ臨むあなたに。
 [IDS_ITEMDESC.ID1070166]
-coming soon
+相棒と再び戦場に立つ「<card mrk='22196'/>」の姿がデザインされたプロテクター。
+”鳥竜一身”なあなたに。
 [IDS_ITEMDESC.ID1070167]
-coming soon
+火の星を守護する神を見定めし使者の力を纏った存在に似た何かがデザインされたプロテクター。
+底が知れないあなたに。
 [IDS_ITEMDESC.ID1070168]
 coming soon
 [IDS_ITEMDESC.ID1070169]
@@ -2808,7 +2822,8 @@ coming soon
 [IDS_ITEMDESC.ID1070170]
 coming soon
 [IDS_ITEMDESC.ID1070171]
-coming soon
+この世のものではない超常的な何かの姿がデザインされたプロテクター。
+餌場にいるあなたに。
 [IDS_ITEMDESC.ID1070172]
 coming soon
 [IDS_ITEMDESC.ID1070173]
@@ -3432,13 +3447,16 @@ coming soon
 マニアも唸る、界隈では有名なクラブをイメージしたカードケース。
 オーディエンスを狂騒に誘うデッキにおススメ。
 [IDS_ITEMDESC.ID1082029]
-coming soon
+「<card mrk='22174'/>」のイメージがデザインされたカードケース。
+聖なる詩を紡ぐデッキにおススメ。
 [IDS_ITEMDESC.ID1082030]
-coming soon
+<category id='021'/>の奥深く「<card mrk='9049'/>」がデザインされたカードケース。
+竜の魂を宿すデッキにおススメ。
 [IDS_ITEMDESC.ID1082031]
 coming soon
 [IDS_ITEMDESC.ID1082032]
-coming soon
+魔を祓う<category id='059'/>のイメージがデザインされたカードケース。
+悪魔との熾烈な戦いを繰り広げるデッキにおススメ。
 [IDS_ITEMDESC.ID1083001]
 特別な機会に提供される限定カードケース。
 [IDS_ITEMDESC.ID1090001]
@@ -3564,7 +3582,8 @@ coming soon
 怪盗、エージェント、運び屋といった裏社会の住人が活動するフィールド。
 ここでは時間と次元を飛び越えて悪を討ち倒す秘密組織も活動しているようだ。
 [IDS_ITEMDESC.ID1090042]
-coming soon
+妖精領域 オラトリオ・ガーデンのフィールド。
+妖精たちは巨大な蕾に眠る未知の存在が森に奇跡をもたらすと信じている。
 [IDS_ITEMDESC.ID1092001]
 激しい戦いを潜り抜けた強者がぶつかり合う決闘場のフィールド。
 今こそ、雌雄を決する時！
@@ -3719,7 +3738,8 @@ coming soon
 ネオン瞬くサイバーシティのフィールドに設けられたフィールドパーツ。
 エージェントたちにとっては一時的な隠れ場所としても有用らしい。
 [IDS_ITEMDESC.ID1100042]
-coming soon
+妖精領域 オラトリオ・ガーデンに設けられたフィールドパーツ。
+誇り高き耀聖の詩による祈りの儀式に大妖精が応えることで願いは叶えられる。
 [IDS_ITEMDESC.ID1101001]
 落とし穴を象ったフィールドパーツ。
 仕掛けられたトラップは、狡猾か？それとも姑息か？
@@ -3996,7 +4016,8 @@ coming soon
 ネオン瞬くサイバーシティのフィールドに設けられた台座。
 電子の光で彩られていてもエージェントたちのターゲットになってしまえば安心はできない。
 [IDS_ITEMDESC.ID1110042]
-coming soon
+妖精領域 オラトリオ・ガーデンに設けられた台座。
+巨大な蕾に捧げる聖なる詩を紡ぐ森の聖歌隊は、羽が発現した者しかなれない。
 [IDS_ITEMDESC.ID1111001]
 降霊術などに用いられる文字盤を模した台座。
 配置すると闇の怨霊らしき存在が垣間見えるような気がする。
@@ -4097,7 +4118,9 @@ coming soon
 [IDS_ITEMDESC.ID1111036]
 coming soon
 [IDS_ITEMDESC.ID1111037]
-coming soon
+数々のデュエルの始まりとなったカードを模した台座。
+このカードに刻まれるのは記録の断片。
+モンスターたちがデュエルに及ぼす不思議な力の一片を伝えてくれる。
 [IDS_ITEMDESC.ID1111038]
 花に舞い降りた氷のひとひらを模した台座。
 氷雪のかけらは大地の隅々にまで降りそそぎ、世界を白銀に彩る。
@@ -4709,15 +4732,18 @@ coming soon
 「追う者」と「追われる者」が新たな未来を掴む。
 彼女たちが信じたものがどんな未来を描くのか、今はまだわからない。
 [IDS_ITEMDESC.ID1130125]
-coming soon
+誇り高き耀聖の詩による祈りを捧げる森の聖歌隊。
+儀式によって未知の存在が眠る巨大な蕾が開こうとしていた。
 [IDS_ITEMDESC.ID1130126]
-coming soon
+「<card mrk='21811'/>」の自爆を転移魔法で間一髪回避した一行。
+不完全な転移で上空から落下するも巨大な植物が彼女たちを受け止めた。
 [IDS_ITEMDESC.ID1130127]
 coming soon
 [IDS_ITEMDESC.ID1130128]
 coming soon
 [IDS_ITEMDESC.ID1130129]
-coming soon
+人の風貌を真似て惑わす<card mrk='21936'/>の手先。
+その贄を集めるため、洗脳して連れ去って行くのだ。
 [IDS_ITEMDESC.ID1130130]
 coming soon
 [IDS_ITEMDESC.ID1130131]
@@ -4729,7 +4755,8 @@ coming soon
 [IDS_ITEMDESC.ID1130134]
 coming soon
 [IDS_ITEMDESC.ID1130135]
-coming soon
+長い年月を経て世界を管理運営するようになった神の名を冠する機械生命体。
+右腕部の蓄音機から機械類を機能停止させる電磁波を放つ。
 [IDS_ITEMDESC.ID1130136]
 coming soon
 [IDS_ITEMDESC.ID1132001]
@@ -4804,9 +4831,11 @@ coming soon
 ヤワな音では満足できないマニアを唸らせるイカしたDJたちのコレクトファイル。
 <category id='143'/>を集めし時、アブナイ音楽でブチアガるハコの扉が輝くという。
 [IDS_ITEMDESC.ID1170012]
-coming soon
+邪悪の化身と対峙するうら若き少女たちのコレクトファイル。
+<category id='059'/>を集めし時、姉妹の契りの扉が輝くという。
 [IDS_ITEMDESC.ID1170013]
-coming soon
+竜の魂を宿せし一族のコレクトファイル。
+<category id='169'/>を集めし時、伝説の竜騎士の扉が輝くという。
 [IDS_ITEMDESC.ID1170014]
 coming soon
 [IDS_ITEMDESC.ID1170015]
@@ -4867,11 +4896,14 @@ Dのシンボルがキラリと光る。
 マニアも唸る、界隈では有名なクラブのマークをモチーフとしたコイン。
 <category id='143'/>のDJプレイがキラリと光る。
 [IDS_ITEMDESC.ID1180020]
-coming soon
+聖なる詩を紡ぐ森の聖歌隊をモチーフとしたコイン。
+妖精の魔力がキラリと光る。
 [IDS_ITEMDESC.ID1180021]
-coming soon
+天駆ける竜騎士をモチーフとしたコイン。
+谷を護る秘伝の術がキラリと光る。
 [IDS_ITEMDESC.ID1180022]
-coming soon
+魔を祓う<category id='059'/>をモチーフとしたコイン。
+恩寵を受けた聖武具がキラリと光る。
 [IDS_ITEMDESC.ID1180023]
 coming soon
 [IDS_ITEMDESC.ID1180024]

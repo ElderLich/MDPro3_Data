@@ -234,12 +234,14 @@ They possess the ability to fuse as they require.
 <category id='79'/> resides in the underworld and serves as a scout.
 They survey the human world on orders from the Roaring Domain.
 [IDS_ITEMDESC.ID1001039]
-coming soon
+A mechanical weapon created through genuine cooperation between four tribes.
+This masterpiece, the culmination of their technology, achieved great success wherever it saw battle.
 [IDS_ITEMDESC.ID1001040]
 A grotesque, mechanical nightmare doll.
 It charms you with a gentlemanly act, then tears open its own body to attack in a hideous form.
 [IDS_ITEMDESC.ID1001041]
-coming soon
+An ancient tome with a striking red cover depicting the sun shining in the sky.
+Legends say that whoever opens it will gain the power to bathe evil spirits in brilliant light.
 [IDS_ITEMDESC.ID1001042]
 coming soon
 [IDS_ITEMDESC.ID1001043]
@@ -772,6 +774,18 @@ The magical circle he drew led the legendary King of Games to victory.
 [IDS_ITEMDESC.ID1010139]
 An Icon depicting a small, three-eyed devil.
 It goes missing after setting out on a trip home to the underworld.
+[IDS_ITEMDESC.ID1010140]
+An Icon depicting the <category id='168'/> runaway express train.
+Honest and straightforward to a fault, it has a tendency to charge headfirst into anything.
+[IDS_ITEMDESC.ID1010141]
+An Icon depicting the founder of the <category id='169'/>, who passed down the secret technique "<card mrk='9050'/>".
+Sensing the revival of the goddess wielding the power of destruction, he resolves to return to <card mrk='9049'/>.
+[IDS_ITEMDESC.ID1010142]
+An Icon depicting <category id='059'/>, imbued with the power of a divine guardian of the sun.
+She can bring down even the mightiest of fiends.
+[IDS_ITEMDESC.ID1010145]
+An Icon depicting a girl who entered into an incomplete contract due to unforeseen circumstances.
+She wields only part of the divine beast's power.
 [IDS_ITEMDESC.ID1011001]
 An Icon depicting a ball made of black and white panels.
 Winning 3 Duels in a row is not called a hat-trick.
@@ -1873,6 +1887,9 @@ It is proof of your accomplishment in making it through the hotly contested 1st 
 [IDS_ITEMDESC.ID1020216]
 A Title given to Duelists who achieved results in "Tryout Duel".
 A Duelist grows stronger by adapting to new environments and continuing to take on bold challenges.
+[IDS_ITEMDESC.ID1020217]
+A Title given to Duelists who achieved results in the "Dice Rally ~ May 2026 ~" event.
+A brilliant future awaits those courageous enough to trust themselves.
 [IDS_ITEMDESC.ID1021001]
 A Title only bestowed upon a special occasion.
 [IDS_ITEMDESC.ID1021002]
@@ -2004,6 +2021,9 @@ The white snow falls from the clear blue sky, reflecting the harmony of light.
 [IDS_ITEMDESC.ID1030041]
 A red and white Icon Frame that allows for an array of interpretations.
 Dynamic traits like vitality and passion are balanced with subtler ones, such as sorrow and spirituality.
+[IDS_ITEMDESC.ID1030043]
+A yellow-and-black Icon Frame whose strong contrast evokes danger.
+In nature, these colors serve as a warning sign that wards off predators.
 [IDS_ITEMDESC.ID1031001]
 An Icon Frame that is reminiscent of the gate used by Sky Strikers, to transfer their armaments.
 When the path opens to those who fight for peace, a new power to overcome hardship awakens.
@@ -2073,6 +2093,9 @@ The many different forms represent the variety of tactics in his arsenal.
 [IDS_ITEMDESC.ID1031023]
 An Icon Frame that evokes the "<card mrk='21821'/>".
 Beneath the waning moon, thorns of malice bloom in madness.
+[IDS_ITEMDESC.ID1031024]
+An Icon Frame evoking a forest choir that weaves sacred songs.
+It is imbued with the magical power of fairies chosen by the trees.
 [IDS_ITEMDESC.ID1032001]
 An Icon Frame in the shape of a circular decoration, which can be seen in a certain region as the year draws to a close.
 They are hung with the sincere wish for happiness and joy in times to come.
@@ -2602,6 +2625,18 @@ For those make a living developing weapons.
 [IDS_ITEMDESC.ID1070164]
 A Protector depicting a moonlit arrowhead striking down a foe of the gods.
 For those who draw out the true power of the divine bow.
+[IDS_ITEMDESC.ID1070165]
+Protectors depicting the queen of the battlefield who cast off her weaker self.
+For those who head into battle with resolve in their hearts.
+[IDS_ITEMDESC.ID1070166]
+Protectors featuring "<card mrk='22196'/>" standing on the battlefield once more alongside its partner.
+For those who fight as one with their flying mount.
+[IDS_ITEMDESC.ID1070167]
+Protectors depicting something resembling a being clad in the power of a messenger who beheld the god that guards a fiery red planet.
+For those who are truly unfathomable.
+[IDS_ITEMDESC.ID1070171]
+Protectors depicting the form of something supernatural and otherworldly.
+For those who find themselves in its feeding grounds.
 [IDS_ITEMDESC.ID1070178]
 Protectors featuring an Illusion monster with a thick, bushy coat of fur.
 For lovers of all things fluffy.
@@ -3005,6 +3040,15 @@ Recommended for a Deck that carves its own destiny.
 [IDS_ITEMDESC.ID1082028]
 A Card Case inspired by a club famous throughout the scene, admired even by hardcore fans.
 Recommended for a Deck that drives the audience into a frenzy.
+[IDS_ITEMDESC.ID1082029]
+A Card Case depicting "<card mrk='22174'/>".
+Recommended for Decks that weave sacred songs.
+[IDS_ITEMDESC.ID1082030]
+A Card Case depicting "<card mrk='9049'/>" from deep within the <category id='021'/>.
+Recommended for Decks imbued with the soul of a dragon.
+[IDS_ITEMDESC.ID1082032]
+A Card Case depicting the evil-warding <category id='059'/>.
+Recommended for Decks that wage fierce battles against fiends.
 [IDS_ITEMDESC.ID1083001]
 An exclusive Card Case offered on special occasions.
 [IDS_ITEMDESC.ID1090001]
@@ -3124,6 +3168,9 @@ A Duel Field of a football stadium.
 The cheers of enthusiastic fans echo across the turf.
 [IDS_ITEMDESC.ID1090041]
 A Duel Field where thieves, agents, couriers, and other denizens of the underworld gather and operate. It also appears to be host to a secret organization that travels through time and across dimensions to defeat the forces of evil.
+[IDS_ITEMDESC.ID1090042]
+A Duel Field from Fairy Realm - Oratorio Garden.
+The fairies believe the unknown being sleeping within the giant flower bud will bring miracles to the forest.
 [IDS_ITEMDESC.ID1092001]
 A Field depicting two warriors locked in a fierce battle.
 There's no better time for a showdown than now!
@@ -3247,6 +3294,9 @@ A temporary exit is part of the performance. The ace returns from the hole, read
 [IDS_ITEMDESC.ID1100041]
 Field Parts from the Neon-Lit Cyber City.
 They also seem useful as a temporary hideout for agents.
+[IDS_ITEMDESC.ID1100042]
+Field Parts from Fairy Realm - Oratorio Garden.
+Wishes are granted when the great fairy hears the choir's proud ritual of sacred prayer.
 [IDS_ITEMDESC.ID1101001]
 Field Parts inspired by a Trap Hole.
 Would setting a trap like this be a mark of cunning wit, or just plain unfair?
@@ -3517,6 +3567,9 @@ A Stand from a football stadium. Passion races across the field, the verdant sta
 [IDS_ITEMDESC.ID1110041]
 A stand from the Neon-Lit Cyber City Duel Field.
 Even under the glow of electric lights, no one is safe once targeted by the agents.
+[IDS_ITEMDESC.ID1110042]
+A Stand from Fairy Realm - Oratorio Garden.
+Only those whose wings have manifested may join the forest choir in weaving sacred songs for the giant flower bud.
 [IDS_ITEMDESC.ID1111001]
 A Stand inspired by a certain board engraved with letters, used in various supernatural arts.
 You feel as if you can see a dark, vengeful spirit staring back at you from the gap...
@@ -3596,6 +3649,10 @@ That someone wouldn't be able to help but take a seat.
 A Stand inspired by cards that have Ranks instead of Levels.
 These cards are inscribed with fragments of memories and new powers
 When cards are stacked upon each other, they bring out the potential of the monsters.
+[IDS_ITEMDESC.ID1111037]
+A Stand in the shape of a card that started many Duels.
+Inscribed on this card is a fragment of history.
+It offers a glimpse of the mysterious power monsters wield in Duels.
 [IDS_ITEMDESC.ID1111038]
 A Stand in the shape of a snowflake atop a flower.
 Snow and ice cover this vast land and color the world white.
@@ -4138,6 +4195,18 @@ Its beast-like, unrelenting ferocity lay waste to the world.
 [IDS_ITEMDESC.ID1130124]
 "The pursuer" and the "the pursued" seize a new future.
 The path they'll shape from their ideals remains a mystery.
+[IDS_ITEMDESC.ID1130125]
+The forest choir offers prayers through proud and sacred songs.
+With this ritual, the giant flower bud in which the unknown being sleeps begins to bloom.
+[IDS_ITEMDESC.ID1130126]
+Teleportation magic leads to a narrow escape from the self-destruction caused by "<card mrk='21811'/>".
+The spell misfires, sending them falling from the sky above into the giant plant's embrace.
+[IDS_ITEMDESC.ID1130129]
+A minion of <card mrk='21936'/> that deceives its targets by mimicking a human appearance.
+It brainwashes and abducts them to use as sacrifices.
+[IDS_ITEMDESC.ID1130135]
+A machine life form bearing the name of a god that came to oversee the world over the course of many long years.
+From the phonograph on its right arm, it emits electromagnetic waves that can disable machinery.
 [IDS_ITEMDESC.ID1132001]
 It's not so sure why either, but the rabbit is now a member of a football club.
 It hopes to lead its team to victory with all its natural supportive skill.
@@ -4201,6 +4270,12 @@ They say that when you gather <category id='161'/>, the door to Ultimate D will 
 [IDS_ITEMDESC.ID1170011]
 A Collector's File featuring slick DJs that impress even the most hardcore fans.
 When the <category id='143'/> are gathered, they say the edgy beats sends the club into overdrive, and its doors begin to gleam.
+[IDS_ITEMDESC.ID1170012]
+A Collector's File featuring young maidens confronting the incarnation of evil.
+When you collect <category id='059'/> cards, the doors of the sisters' bond is said to shine.
+[IDS_ITEMDESC.ID1170013]
+A Collector's File featuring a clan imbued with dragon souls.
+When you collect <category id='169'/> cards, the doors of the legendary dragoon is said tol shine.
 [IDS_ITEMDESC.ID1180001]
 A Coin whose motif is the luminous dragon who brings about a new legend.
 Its cerulean eyes glimmer.
@@ -4256,11 +4331,14 @@ The "D" symbol glitters brightly.
 A Coin depicting the emblem of a club famous throughout the scene, admired even by hardcore fans.
 The DJ performance of the <category id='143'/> steals the spotlight.
 [IDS_ITEMDESC.ID1180020]
-coming soon
+A Coin depicting the emblem of a forest choir that weaves sacred songs.
+The magic of the fairies glows brightly.
 [IDS_ITEMDESC.ID1180021]
-coming soon
+A Coin whose motif is a dragoon soaring across the sky.
+The secret art that protects the valley shines brightly.
 [IDS_ITEMDESC.ID1180022]
-coming soon
+A Coin whose motif is the evil-warding <category id='059'/>.
+The holy armaments blessed with divine grace shine brightly.
 [IDS_ITEMDESC.ID1180023]
 coming soon
 [IDS_ITEMDESC.ID1180024]

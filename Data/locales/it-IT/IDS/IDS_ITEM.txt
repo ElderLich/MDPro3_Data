@@ -154,8 +154,12 @@ Bella Fantasma & Maniero Infestato
 Tartaruga-Gemma
 [IDS_ITEM.ID1001038]
 Il Favoloso Lurrie
+[IDS_ITEM.ID1001039]
+Catastor Alleato della Giustizia
 [IDS_ITEM.ID1001040]
 Burattino Arnese Testa d'Uovo
+[IDS_ITEM.ID1001041]
+Libro di Taiyou
 [IDS_ITEM.ID1002001]
 Pallone da calcio
 [IDS_ITEM.ID1002002]
@@ -468,6 +472,14 @@ Fioritura Rossa da Sotto le Radici
 Mago Nero
 [IDS_ITEM.ID1010139]
 Sangan
+[IDS_ITEM.ID1010140]
+Elfnote Lucina
+[IDS_ITEM.ID1010141]
+Quirino Dragunità
+[IDS_ITEM.ID1010142]
+Esosorella Mikailis
+[IDS_ITEM.ID1010145]
+Non-Finito Artmage
 [IDS_ITEM.ID1011001]
 Pallone da calcio
 [IDS_ITEM.ID1011002]
@@ -1204,6 +1216,8 @@ Top 10000 DC 2026 MAR
 Duellante 2nd stage DC 2026 MAR
 [IDS_ITEM.ID1020216]
 Fulmine Tempesta
+[IDS_ITEM.ID1020217]
+Questione di Fortuna
 [IDS_ITEM.ID1021001]
 Alle prime armi
 [IDS_ITEM.ID1021002]
@@ -1296,6 +1310,8 @@ Fusione Cavaliere-Gemma
 Cornice blu e bianca
 [IDS_ITEM.ID1030041]
 Cornice rossa e bianca
+[IDS_ITEM.ID1030043]
+Cornice gialla e nera
 [IDS_ITEM.ID1031001]
 Il cammino dell'Assaltatrice del Cielo blu
 [IDS_ITEM.ID1031002]
@@ -1342,6 +1358,8 @@ Tifone Spaziale Mistico
 Cambio di Maschera II
 [IDS_ITEM.ID1031023]
 Giardino Rosa Nera
+[IDS_ITEM.ID1031024]
+Elfnote
 [IDS_ITEM.ID1032001]
 Ornamento festivo
 [IDS_ITEM.ID1032002]
@@ -1698,6 +1716,14 @@ Maestro Pace, il Vero Dracosovrano
 R.B. Il Blues Bruto
 [IDS_ITEM.ID1070164]
 Assassino Finale
+[IDS_ITEM.ID1070165]
+Elfnote Regina
+[IDS_ITEM.ID1070166]
+Cavaliere Dragunità - Areus
+[IDS_ITEM.ID1070167]
+Esosorella Karmael
+[IDS_ITEM.ID1070171]
+Hecamani Jauzah
 [IDS_ITEM.ID1070178]
 Mokomoko
 [IDS_ITEM.ID1071001]
@@ -1968,6 +1994,12 @@ Labrinto
 Prigione della Torre dell'Orologio
 [IDS_ITEM.ID1082028]
 Tune Figo
+[IDS_ITEM.ID1082029]
+Elfnote
+[IDS_ITEM.ID1082030]
+Gola Drago
+[IDS_ITEM.ID1082032]
+Esosorella
 [IDS_ITEM.ID1083001]
 Bianco e Blu
 [IDS_ITEM.ID1090001]
@@ -2048,6 +2080,8 @@ Labirinto Labrinto
 Stadio di calcio
 [IDS_ITEM.ID1090041]
 Cybercittà al Neon
+[IDS_ITEM.ID1090042]
+Giardino dell'Oratorio - Reame delle Fate
 [IDS_ITEM.ID1092001]
 Colosseo
 [IDS_ITEM.ID1092002]
@@ -2132,6 +2166,8 @@ Labirinto Labrinto
 Stadio di calcio
 [IDS_ITEM.ID1100041]
 Cybercittà al Neon
+[IDS_ITEM.ID1100042]
+Giardino dell'Oratorio - Reame delle Fate
 [IDS_ITEM.ID1101001]
 Buco Trappola
 [IDS_ITEM.ID1101002]
@@ -2278,6 +2314,8 @@ Labirinto Labrinto
 Stadio di calcio
 [IDS_ITEM.ID1110041]
 Cybercittà al Neon
+[IDS_ITEM.ID1110042]
+Giardino dell'Oratorio - Reame delle Fate
 [IDS_ITEM.ID1111001]
 Tavola del Destino
 [IDS_ITEM.ID1111002]
@@ -2351,7 +2389,7 @@ coming soon
 [IDS_ITEM.ID1111036]
 coming soon
 [IDS_ITEM.ID1111037]
-coming soon
+Carta Mostro con Effetto
 [IDS_ITEM.ID1111038]
 Rikka
 [IDS_ITEM.ID1111039]
@@ -2730,6 +2768,14 @@ Legge Oscura EROE Mascherato
 Vero Re di Tutte le Calamità
 [IDS_ITEM.ID1130124]
 I:P Masquerena e S:P Piccolo Cavaliere
+[IDS_ITEM.ID1130125]
+Elfnote: Aristeia della Fiducia
+[IDS_ITEM.ID1130126]
+Elfnote: Benvenuti a Casa
+[IDS_ITEM.ID1130129]
+Esca Hecamani
+[IDS_ITEM.ID1130135]
+Zilofthonia Gorgon
 [IDS_ITEM.ID1132001]
 Coniglio da Soccorso
 [IDS_ITEM.ID1132002]
@@ -2774,6 +2820,10 @@ Mago Nero
 EROE del Destino
 [IDS_ITEM.ID1170011]
 Tune Figo
+[IDS_ITEM.ID1170012]
+Esosorella
+[IDS_ITEM.ID1170013]
+Dragunità
 [IDS_ITEM.ID1180001]
 Drago Bianco Alternativo Occhi Blu
 [IDS_ITEM.ID1180002]
@@ -2813,11 +2863,11 @@ EROE del Destino
 [IDS_ITEM.ID1180019]
 Tune Figo
 [IDS_ITEM.ID1180020]
-coming soon
+Elfnote
 [IDS_ITEM.ID1180021]
-coming soon
+Dragunità
 [IDS_ITEM.ID1180022]
-coming soon
+Esosorella
 [IDS_ITEM.ID1180023]
 coming soon
 [IDS_ITEM.ID1180024]

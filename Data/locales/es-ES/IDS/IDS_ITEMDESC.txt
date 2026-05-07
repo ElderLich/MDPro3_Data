@@ -234,12 +234,14 @@ Ellos poseen la habilidad de fusionarse según lo vean necesario.
 <category id='79'/> reside en el inframundo y ejerce de explorador.
 Este monstruo vigila el mundo humano bajo las órdenes del Dominio Rugiente.
 [IDS_ITEMDESC.ID1001039]
-coming soon
+Un arma mecánica creada mediante la cooperación genuina entre cuatro tribus.
+Esta obra de arte, el culmen de su tecnología, trajo consigo grandes éxitos en todas las batallas.
 [IDS_ITEMDESC.ID1001040]
 Un muñeco mecánico, grotesco y terrorífico.
 Te atrae con su actitud amable y, de repente, un horrible ser te ataca desde sus adentros.
 [IDS_ITEMDESC.ID1001041]
-coming soon
+Un tomo antiguo con una portada de color rojo intenso que muestra al sol brillando en el cielo.
+La leyenda dice que quien lo abra adquirirá el poder de inundar a los espíritus malignos con una luz brillante.
 [IDS_ITEMDESC.ID1001042]
 coming soon
 [IDS_ITEMDESC.ID1001043]
@@ -772,6 +774,18 @@ El círculo mágico que dibujó llevó al legendario Rey de los Duelos a la vict
 [IDS_ITEMDESC.ID1010139]
 Un icono que representa a un pequeño diablo de tres ojos.
 Desaparece después de partir en un viaje de vuelta al inframundo.
+[IDS_ITEMDESC.ID1010140]
+Un icono que representa un tren expreso <category id='168'/> a la fuga.
+Honesto y directo hasta decir basta, suele abalanzarse sin pensárselo ante cualquier cosa.
+[IDS_ITEMDESC.ID1010141]
+Un icono que representa al fundador de <category id='169'/>, quien transmitió la técnica secreta "<card mrk='9050'/>".
+Al sentir el renacimiento de la diosa que alberga el poder de la destrucción, decide volver al <card mrk='9049'/>.
+[IDS_ITEMDESC.ID1010142]
+Un icono que representa a <category id='059'/>, que alberga el poder de un guardián divino del sol.
+Puede acabar incluso con el más temible de los demonios.
+[IDS_ITEMDESC.ID1010145]
+Un icono que representa a una chica que aceptó un acuerdo incompleto por circunstancias imprevistas.
+Esta joven controla solo una parte del poder de la bestia divina.
 [IDS_ITEMDESC.ID1011001]
 Un icono que representa una pelota con cuadros negros y blancos.
 Ganar 3 Duelos seguidos no se llama "hat-trick".
@@ -1872,6 +1886,9 @@ Es la prueba de tu logro de haber superado la reñida 1st Stage.
 [IDS_ITEMDESC.ID1020216]
 Un título que se otorga a los duelistas que han logrado buenos resultados en un "Duelo de ensayo".
 Un duelista se fortalece al adaptarse a nuevos entornos y seguir afrontando intrépidos desafíos.
+[IDS_ITEMDESC.ID1020217]
+Un título que se otorga a los duelistas que han logrado buenos resultados en el evento "Carrera de dados - Mayo de 2026".
+Un brillante futuro aguarda a aquellos valientes que confían en sí mismos.
 [IDS_ITEMDESC.ID1021001]
 Un título que solo se otorga en una ocasión especial.
 [IDS_ITEMDESC.ID1021002]
@@ -2003,6 +2020,9 @@ La blanca nieve cae del cielo azul y refleja la armonía de la luz.
 [IDS_ITEMDESC.ID1030041]
 Un marco de icono rojo y blanco con un gran número de interpretaciones.
 Los rasgos dinámicos, como la vitalidad y la pasión, se contrarrestan con otros más sutiles, como la pena y la espiritualidad.
+[IDS_ITEMDESC.ID1030043]
+Un marco de icono amarillo y negro cuyo marcado contraste evoca peligro.
+En la naturaleza, esos colores sirven como un signo de advertencia que aleja a depredadores.
 [IDS_ITEMDESC.ID1031001]
 Un marco de icono que recuerda al portal usado por los Cazas del Cielo para transferir su armamento.
 Cuando el camino se abre para quienes luchan por la paz, un nuevo poder despierta para superar la adversidad.
@@ -2072,6 +2092,9 @@ El conjunto de formas distintas representa la variedad de tácticas que tiene su
 [IDS_ITEMDESC.ID1031023]
 Un marco de icono que evoca al "<card mrk='21821'/>".
 Bajo la luna menguante, brotan de la demencia espinas de maldad.
+[IDS_ITEMDESC.ID1031024]
+Un marco de icono que evoca un coro del bosque que entrelaza cantos sagrados.
+Alberga el poder mágico de las hadas elegidas por los árboles.
 [IDS_ITEMDESC.ID1032001]
 Un marco de icono con forma de adorno circular que se puede ver en ciertas regiones a medida que el año se acerca a su fin.
 Se cuelgan con un deseo sincero de felicidad y alegría para los tiempos venideros.
@@ -2602,6 +2625,18 @@ Para quienes se dedican a crear armas.
 [IDS_ITEMDESC.ID1070164]
 Un protector que representa una flecha iluminada por la luna que derriba a un rival de los dioses.
 Para quienes liberan el verdadero poder del arco divino.
+[IDS_ITEMDESC.ID1070165]
+Protectores que representan a la reina del campo de batalla que se libera de su parte más débil.
+Para quienes se dirigen a la batalla con una gran determinación.
+[IDS_ITEMDESC.ID1070166]
+Protectores que representan a "<card mrk='22196'/>", de pie en el campo de batalla una vez más, junto a su pareja.
+Para aquellos que luchan siempre a lomos de su montura voladora.
+[IDS_ITEMDESC.ID1070167]
+Protectores que muestran algo parecido a una criatura envuelta en el poder de un mensajero que contempló al dios que protege un planeta de un rojo ardiente.
+Para aquellos que son realmente inconmensurables.
+[IDS_ITEMDESC.ID1070171]
+Protectores que representan la forma de algo sobrenatural y de otro mundo.
+Para quienes se encuentran en sus cotos de caza.
 [IDS_ITEMDESC.ID1070178]
 Protectores que muestran a un monstruo Ilusión con un tupido y frondoso pelaje.
 Para quienes les gustan los peluches.
@@ -3005,6 +3040,15 @@ Recomendada para un Deck que labre su propio destino.
 [IDS_ITEMDESC.ID1082028]
 Una caja de cartas inspirada en un famoso club venerado incluso por los fans más radicales.
 Recomendada para un Deck que vuelve loco al público.
+[IDS_ITEMDESC.ID1082029]
+Una caja de cartas que representa a "<card mrk='22174'/>".
+Se recomienda para Decks que entrelazan cantos sagrados.
+[IDS_ITEMDESC.ID1082030]
+Una caja de cartas que representa a "<card mrk='9049'/>" en las profundidades de <category id='021'/>.
+Se recomienda para Decks imbuidos con el alma de un dragón.
+[IDS_ITEMDESC.ID1082032]
+Una caja de cartas que representa a <category id='059'/>, que aleja el mal.
+Se recomienda para Decks que libran fieros combates contra demonios.
 [IDS_ITEMDESC.ID1083001]
 Una caja de cartas exclusiva que se ofrece en ocasiones especiales.
 [IDS_ITEMDESC.ID1090001]
@@ -3124,6 +3168,9 @@ Un Campo de Duelo de un estadio de fútbol.
 Los vítores de los hinchas se oyen por todo el campo.
 [IDS_ITEMDESC.ID1090041]
 Un Campo de Duelo donde se reúnen y operan ladrones, agentes, mensajeros y muchos otros miembros del inframundo. También parece ser la sede de una organización secreta que viaja a través del tiempo y las dimensiones para derrotar a las fuerzas del mal.
+[IDS_ITEMDESC.ID1090042]
+Un Campo de Duelo del Reino de Hadas: Jardín Oratorio.
+Las hadas creen que el extraño ser que duerme en el interior de la enorme flor traerá milagros al bosque.
 [IDS_ITEMDESC.ID1092001]
 Un Campo que representa a dos guerreros inmersos en un violento combate.
 ¡No hay mejor momento para un enfrentamiento que ahora!
@@ -3247,6 +3294,9 @@ Su salida temporal es parte del espectáculo. El jugador insignia sale del hoyo 
 [IDS_ITEMDESC.ID1100041]
 Partes del Campo de la Ciberciudad de Neón.
 También parecen útiles como refugios temporales para los agentes.
+[IDS_ITEMDESC.ID1100042]
+Partes del Campo del Reino de Hadas: Jardín Oratorio.
+Cuando la gran hada escucha el respetuoso ritual de plegarias sagradas del coro, los deseos son concedidos.
 [IDS_ITEMDESC.ID1101001]
 Partes del Campo inspiradas en un Agujero Trampa.
 ¿Colocar una trampa como esta tiene algo que ver con la astucia o es una injusticia sin más?
@@ -3516,6 +3566,9 @@ Un enclave de un estado de fútbol. El campo vibra con la emoción y se estremec
 [IDS_ITEMDESC.ID1110041]
 Un enclave del Campo de Duelo de la Ciberciudad de Neón.
 Incluso bajo el resplandor de las luces eléctricas, nadie está a salvo tras convertirse en el blanco de los agentes.
+[IDS_ITEMDESC.ID1110042]
+Un enclave del Reino de Hadas: Jardín Oratorio.
+Solo aquellos cuyas alas se han manifestado pueden unirse al coro del bosque y entrelazar cantos sagrados para la enorme flor.
 [IDS_ITEMDESC.ID1111001]
 Un enclave inspirado en un determinado tablero con letras grabadas que se usa en diversas artes sobrenaturales.
 Sentirás como si un espíritu oscuro y vengativo te mirara desde la grieta...
@@ -3595,6 +3648,10 @@ Ese alguien no podría resistirse a sentarse en él.
 Un enclave inspirado en las cartas que tienen Rangos en vez de Niveles.
 Estas cartas tienen inscritos fragmentos de memorias y nuevos poderes.
 Cuando las cartas se apilan una sobre otra, sacan a relucir el potencial de los monstruos.
+[IDS_ITEMDESC.ID1111037]
+Un enclave con la forma de una carta que ha participado en muchos Duelos.
+Inscrito en la carta hay un fragmento de historia.
+Ofrece un vistazo del misterioso poder que albergan los monstruos en los Duelos.
 [IDS_ITEMDESC.ID1111038]
 Un enclave con la forma de un copo de nieve sobre una flor.
 La nieve y el hielo cubren esta vasta tierra y tiñen el mundo de blanco.
@@ -4137,6 +4194,18 @@ Su ferocidad bestial e implacable hace estragos en el mundo.
 [IDS_ITEMDESC.ID1130124]
 La "perseguidora" y la "perseguida" buscan un nuevo futuro.
 La senda que recorrerán con sus ideales sigue siendo un misterio.
+[IDS_ITEMDESC.ID1130125]
+El coro del bosque ofrece plegarias mediante cantos respetuosos y sagrados.
+Con este ritual, la enorme flor en la que descansa el extraño ser comienza a florecer.
+[IDS_ITEMDESC.ID1130126]
+Magia de teletransporte que permite huir por los pelos de la autodestrucción causada por "<card mrk='21811'/>".
+El hechizo falla, haciéndolos precipitarse desde las alturas sobre la gigantesca planta.
+[IDS_ITEMDESC.ID1130129]
+Un secuaz de <card mrk='21936'/> que engaña a sus objetivos adoptando apariencia humana.
+Les lava el cerebro y los abduce para usarlos como sacrificios.
+[IDS_ITEMDESC.ID1130135]
+Una forma de vida mecánica que lleva el nombre de un dios que vino a supervisar el mundo a lo largo de muchos años.
+El fonógrafo que lleva en el brazo derecho emite ondas electromagnéticas que pueden inutilizar maquinaria.
 [IDS_ITEMDESC.ID1132001]
 Él tampoco tiene muy claro por qué, pero ahora el conejo es miembro de un club de fútbol.
 Espera poder liderar a su equipo hasta la victoria con toda su habilidad de apoyo natural.
@@ -4200,6 +4269,12 @@ Dicen que, al conseguir a <category id='161'/>, brillará la puerta hacia el D d
 [IDS_ITEMDESC.ID1170011]
 Un Archivo de Coleccionista que incluye a hábiles DJ que impresionan incluso a los más radicales.
 En una reunión de <category id='143'/>, dicen que los osados ritmos enloquecen al club y la luz brota de sus puertas.
+[IDS_ITEMDESC.ID1170012]
+Un Archivo de Coleccionista que incluye a jóvenes doncellas que se enfrentan a la encarnación del mal.
+Al conseguir cartas <category id='059'/>, dicen que las puertas del vínculo entre las hermanas brillan.
+[IDS_ITEMDESC.ID1170013]
+Un Archivo de Coleccionista que incluye a un clan imbuido con almas de dragón.
+Al conseguir cartas <category id='169'/>, dicen que las puertas del dracónido legendario brillan.
 [IDS_ITEMDESC.ID1180001]
 Una moneda en la que aparece el dragón brillante que trae una nueva leyenda.
 Sus ojos celestes resplandecen.
@@ -4254,11 +4329,14 @@ El símbolo de la "D" brilla con fuerza.
 Una moneda que representa el emblema de un famoso club venerado incluso por los fans más radicales.
 La actuación de la DJ del <category id='143'/> es espectacular.
 [IDS_ITEMDESC.ID1180020]
-coming soon
+Una moneda que representa el emblema de un coro del bosque que entrelaza cantos sagrados.
+La magia de las hadas brilla intensamente.
 [IDS_ITEMDESC.ID1180021]
-coming soon
+Una moneda cuyo motivo es un dracónido que surca los cielos.
+El arte secreto que protege el valle brilla intensamente.
 [IDS_ITEMDESC.ID1180022]
-coming soon
+Una moneda cuyo motivo es <category id='059'/>, que aleja el mal.
+Los armamentos sagrados y bendecidos por una gracia divina brillan intensamente.
 [IDS_ITEMDESC.ID1180023]
 coming soon
 [IDS_ITEMDESC.ID1180024]

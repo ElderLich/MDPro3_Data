@@ -234,12 +234,14 @@ Sie besitzen die Fähigkeit, nach Bedarf zu fusionieren.
 <category id='79'/> lebt in der Unterwelt und dient als Kundschafter.
 Sie erkunden die menschliche Welt im Auftrag des Dröhnenden Reichs.
 [IDS_ITEMDESC.ID1001039]
-coming soon
+Eine mechanische Waffe, die durch echte Zusammenarbeit zwischen vier Stämmen entstanden ist.
+Dieses Meisterwerk, der Höhepunkt ihrer Technologie, erzielte überall dort, wo es zum Einsatz kam, große Erfolge.
 [IDS_ITEMDESC.ID1001040]
 Eine groteske, mechanische Albtraumpuppe.
 Sie bezaubert dich mit einer gentlemanhaften Geste, dann reißt sie ihren eigenen Körper auf, um in einer abscheulichen Gestalt anzugreifen.
 [IDS_ITEMDESC.ID1001041]
-coming soon
+Ein uraltes Buch mit einem auffälligen roten Einband, der die am Himmel scheinende Sonne darstellt.
+Legenden besagen, dass derjenige, der es öffnet, die Macht erlangt, böse Geister in strahlendes Licht zu tauchen.
 [IDS_ITEMDESC.ID1001042]
 coming soon
 [IDS_ITEMDESC.ID1001043]
@@ -772,6 +774,18 @@ Der magische Kreis, den er zog, führte den legendären König der Spiele zum Si
 [IDS_ITEMDESC.ID1010139]
 Ein Symbol, das einen kleinen, dreiäugigen Teufel darstellt.
 Er verschwindet spurlos, nachdem er sich auf den Weg zurück in die Unterwelt gemacht hat.
+[IDS_ITEMDESC.ID1010140]
+Ein Symbol, das den führerlosen Schnellzug <category id='168'/> darstellt.
+Ehrlich und direkt bis zum Äußersten, neigt er dazu, sich kopfüber in alles zu stürzen.
+[IDS_ITEMDESC.ID1010141]
+Ein Symbol, das den Gründer von <category id='169'/> darstellt, der die geheime Technik „<card mrk='9050'/>“ weitergegeben hat.
+Als er die Wiederbelebung der Göttin spürte, die die Macht der Zerstörung innehatte, beschloss er, zurückzukehren nach <card mrk='9049'/>.
+[IDS_ITEMDESC.ID1010142]
+Ein Symbol, das <category id='059'/> darstellt, erfüllt von der Macht eines göttlichen Wächters der Sonne.
+Sie kann selbst die mächtigsten Ungeheuer besiegen.
+[IDS_ITEMDESC.ID1010145]
+Ein Symbol, das ein Mädchen darstellt, das aufgrund unvorhergesehener Umstände einen unvollständigen Vertrag eingegangen ist.
+Sie verfügt nur über einen Teil der Macht des göttlichen Ungeheuers.
 [IDS_ITEMDESC.ID1011001]
 Ein Symbol, das einen Ball, der aus schwarzen und weißen Panels besteht, darstellt.
 3 Duelle in Folge zu gewinnen nennt man nicht einen Hattrick.
@@ -1873,6 +1887,9 @@ Er ist der Beweis dafür, dass du es durch die heiß umkämpfte 1st Stage gescha
 [IDS_ITEMDESC.ID1020216]
 Ein Titel, der an Duellanten vergeben wird, die beim „Schnupperduell“ Ergebnisse erzielt haben.
 Ein Duellant wird stärker, indem er sich an neue Umgebungen anpasst und sich immer wieder kühnen Herausforderungen stellt.
+[IDS_ITEMDESC.ID1020217]
+Ein Titel, der an Duellanten vergeben wird, die beim Festival „Würfel-Rallye ~ Mai 2026 ~“ Ergebnisse erzielt haben.
+Eine glänzende Zukunft wartet auf diejenigen, die mutig genug sind, sich selbst zu vertrauen.
 [IDS_ITEMDESC.ID1021001]
 Ein Titel, der nur zu einem besonderen Anlass verliehen wird.
 [IDS_ITEMDESC.ID1021002]
@@ -2004,6 +2021,9 @@ Der weiße Schnee fällt vom klaren blauen Himmel und spiegelt die Harmonie des 
 [IDS_ITEMDESC.ID1030041]
 Ein rot-weißer Symbol-Rahmen, der vielfältige Interpretationen zulässt.
 Dynamische Eigenschaften wie Vitalität und Leidenschaft stehen im Gleichgewicht mit subtileren Eigenschaften wie Trauer und Spiritualität.
+[IDS_ITEMDESC.ID1030043]
+Ein gelb-schwarzer Symbol-Rahmen, dessen starker Kontrast Gefahr suggeriert.
+In der Natur dienen diese Farben als Warnsignal, das Fressfeinde abschreckt.
 [IDS_ITEMDESC.ID1031001]
 Ein Symbol-Rahmen, der an das Tor erinnert, das die Himmelsjäger benutzen, um ihre Ausrüstung zu transferieren.
 Wenn sich der Weg für diejenigen öffnet, die für den Frieden kämpfen, erwacht eine neue Kraft zur Überwindung der Not.
@@ -2073,6 +2093,9 @@ Die vielen verschiedenen Formen spiegeln die Vielfalt der Taktiken in seinem Ars
 [IDS_ITEMDESC.ID1031023]
 Ein Symbol-Rahmen, der „<card mrk='21821'/>“ einfängt.
 Unter dem abnehmenden Mond blühen Dornen des Hasses im Wahnsinn.
+[IDS_ITEMDESC.ID1031024]
+Ein Symbol-Rahmen, der an einen Waldchor erinnert, der heilige Lieder singt.
+Er ist erfüllt von der magischen Kraft der von den Bäumen auserwählten Feen.
 [IDS_ITEMDESC.ID1032001]
 Ein Symbol-Rahmen in der Form einer runden Dekoration, die in manchen Regionen zum Jahresende zu sehen ist.
 Sie werden mit dem aufrichtigen Wunsch nach Glück und Freude in der kommenden Zeit aufgehängt.
@@ -2603,6 +2626,18 @@ Für diejenigen, die ihren Lebensunterhalt mit der Entwicklung von Waffen verdie
 [IDS_ITEMDESC.ID1070164]
 Eine Kartenhülle, die eine mondbeschienene Pfeilspitze darstellt, die einen Feind der Götter niederstreckt.
 Für diejenigen, die die wahre Kraft des göttlichen Bogens entfesseln.
+[IDS_ITEMDESC.ID1070165]
+Kartenhüllen, die die Königin des Schlachtfelds darstellen, die ihr schwächeres Selbst ablegte.
+Für all jene, die mit Entschlossenheit im Herzen in den Kampf ziehen.
+[IDS_ITEMDESC.ID1070166]
+Kartenhüllen mit „<card mrk='22196'/>“, der erneut an der Seite seines Partners auf dem Schlachtfeld steht.
+Für diejenigen, die im Kampf eins mit ihrem fliegenden Reittier sind.
+[IDS_ITEMDESC.ID1070167]
+Kartenhüllen, die ein Wesen darstellen, das die Macht eines Boten ausstrahlt, der den Gott erblickte, der einen feuerroten Planeten bewacht.
+Für all jene, die wahrhaft unergründlich sind.
+[IDS_ITEMDESC.ID1070171]
+Kartenhüllen, die die Gestalt von etwas Übernatürlichem und Jenseitigem darstellen.
+Für all jene, die sich in seinem Nahrungsgebiet wiederfinden.
 [IDS_ITEMDESC.ID1070178]
 Kartenhüllen mit einem Illusionsmonster mit dichtem, buschigem Fell.
 Für diejenigen, die alles lieben, was flauschig ist.
@@ -3005,6 +3040,15 @@ Empfohlen für ein Deck, das seinen eigenen Weg geht.
 [IDS_ITEMDESC.ID1082028]
 Ein Kartenetui, inspiriert von einem in der Szene berühmten Club, der selbst von eingefleischten Fans bewundert wird.
 Empfohlen für ein Deck, das das Publikum in Ekstase versetzt.
+[IDS_ITEMDESC.ID1082029]
+Ein Kartenetui, auf dem „<card mrk='22174'/>“ abgebildet ist.
+Empfohlen für Decks, die sakrale Lieder erfinden.
+[IDS_ITEMDESC.ID1082030]
+Ein Kartenetui, auf dem „<card mrk='9049'/>“ abgebildet ist, aus dem Inneren des <category id='021'/>.
+Empfohlen für Decks, die von der Seele eines Drachen durchdrungen sind.
+[IDS_ITEMDESC.ID1082032]
+Ein Kartenetui, auf dem „<category id='059'/>“ abgebildet ist, der das Böse abwendet.
+Empfohlen für Decks, die erbitterte Kämpfe gegen Ungeheuer austragen.
 [IDS_ITEMDESC.ID1083001]
 Ein exklusives Kartenetui, das zu besonderen Anlässen angeboten wird.
 [IDS_ITEMDESC.ID1090001]
@@ -3124,6 +3168,9 @@ Ein Duell-Spielfeld in Form eines Fußballstadions.
 Der Jubel der begeisterten Fans hallt über den Rasen.
 [IDS_ITEMDESC.ID1090041]
 Ein Duell-Spielfeld, auf dem Diebe, Agenten, Kuriere und andere Bewohner der Unterwelt zusammenkommen und ihre Geschäfte abwickeln. Es scheint auch die Heimat einer geheimen Organisation zu sein, die durch die Zeit und durch Dimensionen reist, um die Mächte des Bösen zu besiegen.
+[IDS_ITEMDESC.ID1090042]
+Ein Duellfeld aus dem Feenreich – Oratoriumsgarten.
+Die Feen glauben, dass das unbekannte Wesen, das in der riesigen Blütenknospe schläft, Wunder in den Wald bringen wird.
 [IDS_ITEMDESC.ID1092001]
 Ein Spielfeld, das zwei Krieger darstellt, die in einem wilden Kampf verwickelt sind.
 Die beste Zeit für ein Kräftemessen ist immer jetzt!
@@ -3247,6 +3294,9 @@ Ein temporäres Verlassen ist Teil der Leistung. Das Ass kommt aus dem Loch zur�
 [IDS_ITEMDESC.ID1100041]
 Spielfeldteile aus der Neonbeleuchteten Cyberstadt.
 Sie scheinen auch als vorübergehendes Versteck für Agenten nützlich zu sein.
+[IDS_ITEMDESC.ID1100042]
+Spielfeldteile aus dem Feenreich – Oratoriumsgarten.
+Wünsche werden erfüllt, wenn die große Fee den stolzen Ritus des heiligen Gebets des Chors vernimmt.
 [IDS_ITEMDESC.ID1101001]
 Spielfeldteile inspiriert von einer Fallgrube.
 Ist das Stellen einer solchen Falle ein Zeichen von Gerissenheit, oder einfach nur unfair?
@@ -3517,6 +3567,9 @@ Eine Tribüne eines Fußballstadions. Leidenschaft rast über das Feld, die grü
 [IDS_ITEMDESC.ID1110041]
 Ein Stand aus dem Neonbeleuchtete Cyberstadt Duell-Spielfeld.
 Selbst im Schein elektrischer Lampen ist niemand sicher, sobald er ins Visier der Agenten geraten ist.
+[IDS_ITEMDESC.ID1110042]
+Ein Stand aus dem Feenreich – Oratoriumsgarten.
+Nur jene, deren Flügel sich manifestiert haben, dürfen sich dem Waldchor anschließen und heilige Lieder für die riesige Blütenknospe weben.
 [IDS_ITEMDESC.ID1111001]
 Ein Stand inspiriert von einem bestimmten, mit Buchstaben gravierten Brett, das in vielen übernatürlichen Künsten Anwendung findet.
 Du hast das Gefühl, dass dich durch den Schlitz ein dunkler, rachsüchtiger Geist beobachtet …
@@ -3596,6 +3649,10 @@ Dieser jemand kann nicht anders, als sich hinzusetzen.
 Ein von Karten inspirierter Stand, die Ränge statt Stufen aufweisen.
 Diese Karten sind mit Erinnerungsbruchstücken und neuen Kräften beschriftet.
 Wenn Karten aufeinander gestapelt werden, bringen sie das Potenzial der Monster zum Vorschein.
+[IDS_ITEMDESC.ID1111037]
+Ein Stand in Form einer Karte, mit der viele Duelle begonnen haben.
+Auf dieser Karte wurde ein Stück Geschichte notiert.
+Es bietet einen Einblick in die geheimnisvolle Macht, die Monster in Duellen besitzen.
 [IDS_ITEMDESC.ID1111038]
 Ein Stand in Form einer Schneeflocke auf einer Blume.
 Schnee und Eis bedecken das weite Land und färben die Welt weiß.
@@ -4138,6 +4195,18 @@ Seine bestialische, unerbittliche Wildheit verwüstete die Welt.
 [IDS_ITEMDESC.ID1130124]
 „Jäger“ und „Gejagter“ ergreifen eine neue Zukunft.
 Welchen Weg sie aus ihren Idealen heraus einschlagen werden, bleibt ein Rätsel.
+[IDS_ITEMDESC.ID1130125]
+Der Waldchor trägt Gebete in Form von stolzen und heiligen Liedern vor.
+Mit diesem Ritual beginnt die riesige Blütenknospe, in der das unbekannte Wesen schläft, zu erblühen.
+[IDS_ITEMDESC.ID1130126]
+Teleportationsmagie ermöglicht eine knappe Flucht vor der Selbstzerstörung, die durch „<card mrk='21811'/>“ verursacht wurde.
+Der Zauber schlägt fehl und sie stürzen vom Himmel direkt in die Arme der riesigen Pflanze.
+[IDS_ITEMDESC.ID1130129]
+Ein Handlanger von <card mrk='21936'/>, der seine Ziele durch Nachahmung eines menschlichen Aussehens täuscht.
+Es unterzieht sie einer Gehirnwäsche und entführt sie, um sie als Opfergaben zu missbrauchen.
+[IDS_ITEMDESC.ID1130135]
+Eine maschinelle Lebensform, die den Namen eines Gottes trug und die Welt über viele lange Jahre hinweg überwachte.
+Vom Phonographen an seinem rechten Arm sendet es elektromagnetische Wellen aus, die Maschinen lahmlegen können.
 [IDS_ITEMDESC.ID1132001]
 Warum auch immer, aber das Kaninchen ist jetzt Mitglied in einem Fußballverein.
 Es hofft, sein Team mit all seinen angeborenen Führungsqualitäten zum Sieg zu führen.
@@ -4201,6 +4270,12 @@ Man sagt, wenn man <category id='161'/> versammelt, wird die Tür zum Ultimative
 [IDS_ITEMDESC.ID1170011]
 Ein Sammelordner mit angesagten DJanes, die selbst die eingefleischtesten Fans beeindrucken.
 Wenn die <category id='143'/> versammelt sind, so sagt man, versetzen die treibenden Beats den Club in Ekstase und seine Türen beginnen zu glänzen.
+[IDS_ITEMDESC.ID1170012]
+Ein Sammelordner mit jungen Mädchen, die sich der Verkörperung des Bösen stellen.
+Wenn man <category id='059'/>-Karten sammelt, sollen die Türen des Schwesternbundes erstrahlen.
+[IDS_ITEMDESC.ID1170013]
+Ein Sammelordner mit einem Clan, der von Drachenseelen erfüllt ist.
+Wenn man <category id='169'/>-Karten sammelt, sollen die Türen des legendären Drachen leuchten.
 [IDS_ITEMDESC.ID1180001]
 Eine Münze, deren Motiv der leuchtende Drache ist, der eine neue Legende hervorbringt.
 Seine himmelblauen Augen schimmern.
@@ -4256,11 +4331,14 @@ Das Symbol „D“ glänzt hell.
 Eine Münze mit dem Emblem eines in der Szene bekannten und selbst von eingefleischten Fans bewunderten Clubs.
 Der DJane-Auftritt der <category id='143'/> stiehlt allen die Show.
 [IDS_ITEMDESC.ID1180020]
-coming soon
+Eine Münze mit dem Emblem eines Waldchors, der heilige Lieder singt.
+Der Zauber der Feen leuchtet hell.
 [IDS_ITEMDESC.ID1180021]
-coming soon
+Eine Münze, deren Motiv ein Dragoner ist, der durch den Himmel fliegt.
+Die geheime Kunst, die das Tal schützt, erstrahlt hell.
 [IDS_ITEMDESC.ID1180022]
-coming soon
+Eine Münze, deren Motiv der das Böse abwehrende „<category id='059'/>“ ist.
+Die heiligen Waffen, gesegnet mit göttlicher Gnade, erstrahlen hell.
 [IDS_ITEMDESC.ID1180023]
 coming soon
 [IDS_ITEMDESC.ID1180024]

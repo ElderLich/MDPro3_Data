@@ -154,8 +154,12 @@ Ghost Belle & Haunted Mansion
 Gem-Turtle
 [IDS_ITEM.ID1001038]
 Fabled Lurrie
+[IDS_ITEM.ID1001039]
+Ally of Justice Catastor
 [IDS_ITEM.ID1001040]
 Gimmick Puppet Egg Head
+[IDS_ITEM.ID1001041]
+Book of Taiyou
 [IDS_ITEM.ID1002001]
 Soccer Ball
 [IDS_ITEM.ID1002002]
@@ -468,6 +472,14 @@ Red Blossoms from Underroot
 Dark Magician
 [IDS_ITEM.ID1010139]
 Sangan
+[IDS_ITEM.ID1010140]
+Elfnote Lucina
+[IDS_ITEM.ID1010141]
+Dragunity Quirinus
+[IDS_ITEM.ID1010142]
+Exosister Mikailis
+[IDS_ITEM.ID1010145]
+Artmage Non-Finito
 [IDS_ITEM.ID1011001]
 Soccer Ball
 [IDS_ITEM.ID1011002]
@@ -1204,6 +1216,8 @@ DC 2026 MAR Top 10000
 DC 2026 MAR 2nd Stage Duelist
 [IDS_ITEM.ID1020216]
 Lightning Storm
+[IDS_ITEM.ID1020217]
+Luck of the Roll
 [IDS_ITEM.ID1021001]
 Starting Out
 [IDS_ITEM.ID1021002]
@@ -1296,6 +1310,8 @@ Gem-Knight Fusion
 Blue & White Frame
 [IDS_ITEM.ID1030041]
 Red & White Frame
+[IDS_ITEM.ID1030043]
+Yellow & Black Frame
 [IDS_ITEM.ID1031001]
 The Path of the Blue Sky Striker
 [IDS_ITEM.ID1031002]
@@ -1342,6 +1358,8 @@ Mystical Space Typhoon
 Mask Change II
 [IDS_ITEM.ID1031023]
 Black Rose Garden
+[IDS_ITEM.ID1031024]
+Elfnote
 [IDS_ITEM.ID1032001]
 Festive Ornament
 [IDS_ITEM.ID1032002]
@@ -1698,6 +1716,14 @@ Master Peace, the True Dracoverlord
 R.B. The Brute Blues
 [IDS_ITEM.ID1070164]
 Ultimate Slayer
+[IDS_ITEM.ID1070165]
+Elfnote Regina
+[IDS_ITEM.ID1070166]
+Dragunity Knight - Areus
+[IDS_ITEM.ID1070167]
+Exosister Karmael
+[IDS_ITEM.ID1070171]
+Hecahands Jauzah
 [IDS_ITEM.ID1070178]
 Mokomoko
 [IDS_ITEM.ID1071001]
@@ -1968,6 +1994,12 @@ Labrynth
 Clock Tower Prison
 [IDS_ITEM.ID1082028]
 Kewl Tune
+[IDS_ITEM.ID1082029]
+Elfnote
+[IDS_ITEM.ID1082030]
+Dragon Ravine
+[IDS_ITEM.ID1082032]
+Exosister
 [IDS_ITEM.ID1083001]
 White & Blue
 [IDS_ITEM.ID1090001]
@@ -2048,6 +2080,8 @@ Labrynth Labyrinth
 Football Stadium
 [IDS_ITEM.ID1090041]
 Neon-Lit Cyber City
+[IDS_ITEM.ID1090042]
+Fairy Realm - Oratorio Garden
 [IDS_ITEM.ID1092001]
 Colosseum
 [IDS_ITEM.ID1092002]
@@ -2132,6 +2166,8 @@ Labrynth Labyrinth
 Football Stadium
 [IDS_ITEM.ID1100041]
 Neon-Lit Cyber City
+[IDS_ITEM.ID1100042]
+Fairy Realm - Oratorio Garden
 [IDS_ITEM.ID1101001]
 Trap Hole
 [IDS_ITEM.ID1101002]
@@ -2278,6 +2314,8 @@ Labrynth Labyrinth
 Football Stadium
 [IDS_ITEM.ID1110041]
 Neon-Lit Cyber City
+[IDS_ITEM.ID1110042]
+Fairy Realm - Oratorio Garden
 [IDS_ITEM.ID1111001]
 Destiny Board
 [IDS_ITEM.ID1111002]
@@ -2351,7 +2389,7 @@ coming soon
 [IDS_ITEM.ID1111036]
 coming soon
 [IDS_ITEM.ID1111037]
-coming soon
+Effect Monster Card
 [IDS_ITEM.ID1111038]
 Rikka
 [IDS_ITEM.ID1111039]
@@ -2730,6 +2768,14 @@ Masked HERO Dark Law
 True King of All Calamities
 [IDS_ITEM.ID1130124]
 I:P Masquerena & S:P Little Knight
+[IDS_ITEM.ID1130125]
+Elfnotes: Aristeia of Trust
+[IDS_ITEM.ID1130126]
+Elfnotes: Welcome Home
+[IDS_ITEM.ID1130129]
+Hecahands Bait
+[IDS_ITEM.ID1130135]
+Gorgon of Zilofthonia
 [IDS_ITEM.ID1132001]
 Rescue Rabbit
 [IDS_ITEM.ID1132002]
@@ -2776,6 +2822,10 @@ Dark Magician
 Destiny HERO
 [IDS_ITEM.ID1170011]
 Kewl Tune
+[IDS_ITEM.ID1170012]
+Exosister
+[IDS_ITEM.ID1170013]
+Dragunity
 [IDS_ITEM.ID1180001]
 Blue-Eyes Alternative White Dragon
 [IDS_ITEM.ID1180002]
@@ -2815,11 +2865,11 @@ Destiny HERO
 [IDS_ITEM.ID1180019]
 Kewl Tune
 [IDS_ITEM.ID1180020]
-coming soon
+Elfnote
 [IDS_ITEM.ID1180021]
-coming soon
+Dragunity
 [IDS_ITEM.ID1180022]
-coming soon
+Exosister
 [IDS_ITEM.ID1180023]
 coming soon
 [IDS_ITEM.ID1180024]

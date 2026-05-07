@@ -154,8 +154,12 @@ Geistermädchen & Spukhaus
 Edelstein-Schildkröte
 [IDS_ITEM.ID1001038]
 Sagenhafter Lurrie
+[IDS_ITEM.ID1001039]
+Verbündeter der Gerechtigkeit Catastor
 [IDS_ITEM.ID1001040]
 Gimmick-Marionette Eierkopf
+[IDS_ITEM.ID1001041]
+Buch von Taiyou
 [IDS_ITEM.ID1002001]
 Fußball
 [IDS_ITEM.ID1002002]
@@ -468,6 +472,14 @@ Rote Blüten aus dem Unterholz
 Dunkler Magier
 [IDS_ITEM.ID1010139]
 Sangan
+[IDS_ITEM.ID1010140]
+Elfnote Lucina
+[IDS_ITEM.ID1010141]
+Dracheneinheit Quirinus
+[IDS_ITEM.ID1010142]
+Exoschwester Mikailis
+[IDS_ITEM.ID1010145]
+Kunstmagus Non-Finito
 [IDS_ITEM.ID1011001]
 Fußball
 [IDS_ITEM.ID1011002]
@@ -1204,6 +1216,8 @@ Top 10000 im DC 2026 MAR
 Duellant des DC 2026 MAR 2nd Stage
 [IDS_ITEM.ID1020216]
 Blitzsturm
+[IDS_ITEM.ID1020217]
+Glückswurf
 [IDS_ITEM.ID1021001]
 Einsteiger
 [IDS_ITEM.ID1021002]
@@ -1296,6 +1310,8 @@ Fusion des Edelstein-Ritters
 Blau-Weiß-Rahmen
 [IDS_ITEM.ID1030041]
 Rot-Weiß-Rahmen
+[IDS_ITEM.ID1030043]
+Gelb-schwarzer Rahmen
 [IDS_ITEM.ID1031001]
 Der Weg des Blauen Himmelsjägers
 [IDS_ITEM.ID1031002]
@@ -1342,6 +1358,8 @@ Mystischer Raum-Taifun
 Maskenwechsel II
 [IDS_ITEM.ID1031023]
 Schwarzer Rosengarten
+[IDS_ITEM.ID1031024]
+Elfnote
 [IDS_ITEM.ID1032001]
 Festliches Ornament
 [IDS_ITEM.ID1032002]
@@ -1698,6 +1716,14 @@ Meister-Peace, der wahre Drachoberherr
 R.B. Der brutale Blues
 [IDS_ITEM.ID1070164]
 Ultimativer Schlächter
+[IDS_ITEM.ID1070165]
+Elfnote Regina
+[IDS_ITEM.ID1070166]
+Dracheneinheit-Ritter - Areus
+[IDS_ITEM.ID1070167]
+Exoschwester Karmael
+[IDS_ITEM.ID1070171]
+Hekahände Jauzah
 [IDS_ITEM.ID1070178]
 Mokomoko
 [IDS_ITEM.ID1071001]
@@ -1968,6 +1994,12 @@ Labrynth
 Gefängnisuhrturm
 [IDS_ITEM.ID1082028]
 Kewl-Empfang
+[IDS_ITEM.ID1082029]
+Elfnote
+[IDS_ITEM.ID1082030]
+Drachenschlucht
+[IDS_ITEM.ID1082032]
+Exoschwester
 [IDS_ITEM.ID1083001]
 Weiß & Blau
 [IDS_ITEM.ID1090001]
@@ -2048,6 +2080,8 @@ Labrynth-Labyrinth
 Fußballstadion
 [IDS_ITEM.ID1090041]
 Neonbeleuchtete Cyberstadt
+[IDS_ITEM.ID1090042]
+Feenreich – Oratoriumsgarten
 [IDS_ITEM.ID1092001]
 Kolosseum
 [IDS_ITEM.ID1092002]
@@ -2132,6 +2166,8 @@ Labrynth-Labyrinth
 Fußballstadion
 [IDS_ITEM.ID1100041]
 Neonbeleuchtete Cyberstadt
+[IDS_ITEM.ID1100042]
+Feenreich – Oratoriumsgarten
 [IDS_ITEM.ID1101001]
 Fallgrube
 [IDS_ITEM.ID1101002]
@@ -2278,6 +2314,8 @@ Labrynth-Labyrinth
 Fußballstadion
 [IDS_ITEM.ID1110041]
 Neonbeleuchtete Cyberstadt
+[IDS_ITEM.ID1110042]
+Feenreich – Oratoriumsgarten
 [IDS_ITEM.ID1111001]
 Schicksalstafel
 [IDS_ITEM.ID1111002]
@@ -2351,7 +2389,7 @@ coming soon
 [IDS_ITEM.ID1111036]
 coming soon
 [IDS_ITEM.ID1111037]
-coming soon
+Effektmonsterkarte
 [IDS_ITEM.ID1111038]
 Rikka
 [IDS_ITEM.ID1111039]
@@ -2730,6 +2768,14 @@ Maskierter HELD Dunkles Gesetz
 Wahrer König aller Katastrophen
 [IDS_ITEM.ID1130124]
 I:P Maskerena und S:P Kleine Ritterin
+[IDS_ITEM.ID1130125]
+Elfnoten: Aristie des Vertrauens
+[IDS_ITEM.ID1130126]
+Elfnoten: Willkommen daheim
+[IDS_ITEM.ID1130129]
+Hekahände-Köder
+[IDS_ITEM.ID1130135]
+Gorgon von Zilofthonia
 [IDS_ITEM.ID1132001]
 Rettungskaninchen
 [IDS_ITEM.ID1132002]
@@ -2774,6 +2820,10 @@ Dunkler Magier
 Schicksals-HELD
 [IDS_ITEM.ID1170011]
 Kewl-Empfang
+[IDS_ITEM.ID1170012]
+Exoschwester
+[IDS_ITEM.ID1170013]
+Dracheneinheit
 [IDS_ITEM.ID1180001]
 Blauäugiger alternativer weißer Drache
 [IDS_ITEM.ID1180002]
@@ -2813,11 +2863,11 @@ Schicksals-HELD
 [IDS_ITEM.ID1180019]
 Kewl-Empfang
 [IDS_ITEM.ID1180020]
-coming soon
+Elfnote
 [IDS_ITEM.ID1180021]
-coming soon
+Dracheneinheit
 [IDS_ITEM.ID1180022]
-coming soon
+Exoschwester
 [IDS_ITEM.ID1180023]
 coming soon
 [IDS_ITEM.ID1180024]

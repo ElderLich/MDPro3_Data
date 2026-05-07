@@ -234,12 +234,14 @@ Quando serve hanno la capacità di fondersi.
 <category id='79'/> vive nell'oltretomba e ha il ruolo di esploratore.
 Sorveglia il mondo degli umani su ordine del Dominio Ruggente.
 [IDS_ITEMDESC.ID1001039]
-coming soon
+Un'arma meccanica creata attraverso la cooperazione sincera di quattro tribù.
+Questo capolavoro, che rappresenta la massima espressione della loro tecnologia, ottenne grandi successi ovunque sia stato impiegato in battaglia.
 [IDS_ITEMDESC.ID1001040]
 Una grottesca bambola da incubo meccanica.
 Ti conquista con un gesto cortese, per poi aprire il proprio corpo e attaccare in una forma mostruosa.
 [IDS_ITEMDESC.ID1001041]
-coming soon
+Un antico tomo dalla sgargiante copertina rossa che raffigura il sole che splende nel cielo.
+Le leggende narrano che chiunque lo apra otterrà il potere di purificare gli spiriti malvagi con una luce abbagliante.
 [IDS_ITEMDESC.ID1001042]
 coming soon
 [IDS_ITEMDESC.ID1001043]
@@ -772,6 +774,18 @@ Il cerchio magico che ha tracciato ha portato alla vittoria il leggendario Re de
 [IDS_ITEMDESC.ID1010139]
 Un'icona che raffigura un piccolo demone con tre occhi.
 È scomparso dopo essersi messo in viaggio per tornare negli inferi.
+[IDS_ITEMDESC.ID1010140]
+Un'icona che raffigura il treno espresso fuori controllo <category id='168'/>.
+Onesto e diretto all'eccesso, ha la tendenza a buttarsi a capofitto in qualsiasi cosa.
+[IDS_ITEMDESC.ID1010141]
+Un'icona che raffigura chi ha fondato <category id='169'/>, che ha tramandato la tecnica segreta "<card mrk='9050'/>".
+Avvertendo il risveglio della dea che brandisce il potere della distruzione, ha deciso di tornare per <card mrk='9049'/>.
+[IDS_ITEMDESC.ID1010142]
+Un'icona che raffigura <category id='059'/>, infusa con il potere di un Guardiano divino del sole.
+È in grado di abbattere anche i demoni più potenti.
+[IDS_ITEMDESC.ID1010145]
+Un'icona che raffigura una ragazza che ha stipulato un contratto incompleto a causa di circostanze impreviste.
+Detiene solo una parte del potere della bestia divina.
 [IDS_ITEMDESC.ID1011001]
 Un'icona che rappresenta un pallone composto da elementi bianchi e neri.
 Vincere 3 Duelli di fila non è considerata una tripletta.
@@ -1872,6 +1886,9 @@ Questa è la prova del superamento della combattutissima 1ª fase.
 [IDS_ITEMDESC.ID1020216]
 Un titolo dato ai Duellanti che hanno raggiunto risultati nel "Duello di prova".
 Un Duellante si rafforza adattandosi ai nuovi ambienti e continuando ad affrontare sfide audaci.
+[IDS_ITEMDESC.ID1020217]
+Un titolo dato ai Duellanti che hanno raggiunto risultati importanti nell'evento "Dice Rally ~ Maggio 2026 ~".
+Un futuro brillante attende coloro che sono abbastanza coraggiosi da credere in se stessi.
 [IDS_ITEMDESC.ID1021001]
 Un titolo conferito solo per un'occasione speciale.
 [IDS_ITEMDESC.ID1021002]
@@ -2003,6 +2020,9 @@ La neve candida scende dal cielo terso e blu, rispecchiando l'armonia della luce
 [IDS_ITEMDESC.ID1030041]
 Una cornice icona rossa e bianca che permette molteplici interpretazioni.
 I suoi tratti più dinamici, come vitalità e passione, sono bilanciati da emozioni più sottili, come dolore e spiritualità.
+[IDS_ITEMDESC.ID1030043]
+Una Cornice icona gialla e nera il cui forte contrasto trasmette un senso di pericolo.
+In natura, questi colori sono un segno di avvertimento che tiene alla larga i predatori.
 [IDS_ITEMDESC.ID1031001]
 Una cornice icona che ricorda il cancello usato dalle Assaltatrici del Cielo per spostare i loro armamenti.
 Quando il cammino si apre a coloro che lottano per la pace, un nuovo potere che consente di superare le avversità si risveglia.
@@ -2072,6 +2092,9 @@ Le molte forme diverse rappresentano la varietà delle tattiche nel suo arsenale
 [IDS_ITEMDESC.ID1031023]
 Una cornice icona che evoca "<card mrk='21821'/>".
 Sotto la luna calante, le spine della malvagità sbocciano nella follia.
+[IDS_ITEMDESC.ID1031024]
+Una cornice icona che evoca un coro della foresta che intona canti sacri.
+È intrisa del potere magico delle fate scelte dagli alberi.
 [IDS_ITEMDESC.ID1032001]
 Una cornice icona a forma di decorazione circolare, che viene usata in determinate regioni quando l'anno volge al termine.
 Vengono appese in segno di sincero augurio di felicità e gioia per il futuro.
@@ -2601,6 +2624,18 @@ Per coloro che si guadagnano da vivere sviluppando armi.
 [IDS_ITEMDESC.ID1070164]
 Protettori che raffigurano una punta di freccia illuminata dalla luna che abbatte un nemico degli dei.
 Per coloro che sono in grado di evocare il vero potere dell'arco divino.
+[IDS_ITEMDESC.ID1070165]
+Protettori che raffigurano la regina del campo di battaglia che ha abbandonato il suo lato più debole.
+Per coloro che si lanciano in battaglia con determinazione nel cuore.
+[IDS_ITEMDESC.ID1070166]
+Protettori con "<card mrk='22196'/>" che tornano a schierarsi sul campo di battaglia accanto al suo partner.
+Per coloro che combattono fianco a fianco con la propria cavalcatura volante.
+[IDS_ITEMDESC.ID1070167]
+Protettori che raffigurano qualcosa che assomiglia a un essere rivestito dal potere di un messaggero che ha contemplato il dio che veglia su un pianeta rosso infuocato.
+Per coloro che sono davvero impenetrabili.
+[IDS_ITEMDESC.ID1070171]
+Protettori che raffigurano la forma di qualcosa di sovrannaturale e ultraterreno.
+Per coloro che si ritrovano nei suoi territori di caccia.
 [IDS_ITEMDESC.ID1070178]
 Protettori che raffigurano un mostro Illusione con un folto e spesso manto di pelliccia.
 Per gli amanti di tutto ciò che è morbido.
@@ -3004,6 +3039,15 @@ Consigliata per un Deck che forgia il proprio destino.
 [IDS_ITEMDESC.ID1082028]
 Una custodia carte ispirata a un club rinomato in tutta la scena, apprezzato anche dai fan più esigenti.
 Consigliata per un Deck capace di far scatenare il pubblico.
+[IDS_ITEMDESC.ID1082029]
+Una custodia carte che raffigura "<card mrk='22174'/>".
+Consigliata per Deck che intonano canti sacri.
+[IDS_ITEMDESC.ID1082030]
+Una custodia carte che raffigura "<card mrk='9049'/>" dal profondo di <category id='021'/>.
+Consigliata per Deck permeati dall'anima di un drago.
+[IDS_ITEMDESC.ID1082032]
+Una custodia carte che raffigura l'anti-male <category id='059'/>.
+Consigliata per Deck che ingaggiano battaglie feroci contro i demoni.
 [IDS_ITEMDESC.ID1083001]
 Una Custodia carte esclusiva offerta in occasioni speciali.
 [IDS_ITEMDESC.ID1090001]
@@ -3123,6 +3167,9 @@ Un Terreno Duello pari a uno stadio di calcio.
 Le grida dei tifosi appassionati risuonano in tutto il campo.
 [IDS_ITEMDESC.ID1090041]
 Un Terreno Duello dove ladri, agenti, corrieri e altre figure oscure si ritrovano e agiscono. Inoltre, sembra ospitare un'organizzazione segreta che viaggia nel tempo e attraverso le dimensioni per sconfiggere le forze del male.
+[IDS_ITEMDESC.ID1090042]
+Un Terreno Duello del Giardino dell'Oratorio - Reame delle Fate.
+Le fate credono che l'essere sconosciuto che dorme nel bocciolo gigante porterà miracoli in tutta la foresta.
 [IDS_ITEMDESC.ID1092001]
 Un Terreno che raffigura due guerrieri intenti a darsi battaglia.
 Non c'è momento migliore di questo per affrontare il tuo rivale!
@@ -3246,6 +3293,9 @@ Un'uscita temporanea fa parte della prestazione. L'asso esce dalla manica, pront
 [IDS_ITEMDESC.ID1100041]
 Parti del Terreno provenienti dalla Cybercittà al Neon.
 Sembrano anche utili come nascondiglio temporaneo per gli agenti.
+[IDS_ITEMDESC.ID1100042]
+Parti del Terreno provenienti dal Giardino dell'Oratorio - Reame delle Fate.
+Quando la grande fata ascolta l'orgoglioso rituale di preghiera sacra del coro, i desideri vengono esauditi.
 [IDS_ITEMDESC.ID1101001]
 Parti del Terreno ispirate a un Buco Trappola.
 Preparare una trappola come questa è segno di grande astuzia o di semplice cattiveria?
@@ -3516,6 +3566,9 @@ Uno stand proveniente da uno stadio di calcio. La passione corre sul campo, un p
 [IDS_ITEMDESC.ID1110041]
 Uno stand proveniente dal Terreno Duello Cybercittà al Neon.
 Persino sotto il bagliore delle luci elettriche, nessuno è al sicuro se è ricercato dagli agenti.
+[IDS_ITEMDESC.ID1110042]
+Uno stand proveniente dal Giardino dell'Oratorio - Reame delle Fate.
+Solo coloro che hanno ottenuto le proprie ali possono unirsi al coro della foresta per intonare canti sacri per il bocciolo gigante.
 [IDS_ITEMDESC.ID1111001]
 Uno stand ispirato a un certo piano con delle lettere incise usato in diverse arti paranormali.
 Ti sembra quasi di vedere uno spirito oscuro e rancoroso intento a fissarti dall'altro lato...
@@ -3595,6 +3648,10 @@ Quel qualcuno non potrebbe fare a meno di sedercisi sopra.
 Uno stand ispirato alle carte che hanno Ranghi, invece che Livelli.
 Su queste carte sono incisi frammenti di ricordi e nuovi poteri.
 Quando le carte vengono sovrapposte le une alle altre, esprimono tutto il loro potenziale.
+[IDS_ITEMDESC.ID1111037]
+Uno stand a forma di carta che ha dato inizio a molti Duelli.
+Su questa carta è inciso un frammento di storia.
+Permette di dare uno sguardo al potere misterioso che i mostri esercitano nei Duelli.
 [IDS_ITEMDESC.ID1111038]
 Uno stand che rappresenta un fiocco di neve sopra un fiore.
 Neve e ghiaccio ricoprono la vasta terra e colorano il mondo di bianco.
@@ -4137,6 +4194,18 @@ Il suo aspetto bestiale e la sua ferocia implacabile distruggono il mondo.
 [IDS_ITEMDESC.ID1130124]
 "L'inseguitrice" e "l'inseguita" conquistano un nuovo futuro.
 La strada che tracceranno seguendo i propri ideali resta un mistero.
+[IDS_ITEMDESC.ID1130125]
+Il coro della foresta prega attraverso canti solenni e sacri.
+Con questo rituale, il bocciolo gigante in cui l'essere misterioso riposa ha iniziato a fiorire.
+[IDS_ITEMDESC.ID1130126]
+La magia del teletrasporto ha permesso una fuga miracolosa dall'autodistruzione innescata da "<card mrk='21811'/>".
+A causa del fallimento dell'incantesimo, sono precipitati dal cielo ma la pianta gigante li ha afferrati.
+[IDS_ITEMDESC.ID1130129]
+Un servitore di <card mrk='21936'/> che inganna i suoi bersagli assumendo un aspetto umano.
+Li manipola mentalmente e li rapisce per usarli come sacrifici.
+[IDS_ITEMDESC.ID1130135]
+Una forma di vita meccanica che porta il nome di un dio disceso a vigilare sul mondo nel corso di molti lunghi anni.
+Dal fonografo che ha sul braccio destro, emette onde elettromagnetiche in grado di disattivare i macchinari.
 [IDS_ITEMDESC.ID1132001]
 Non si capisce il motivo, ma ora il coniglio è un membro di una squadra di calcio.
 Si spera possa portare la sua squadra alla vittoria grazie alle sue abilità di supporto.
@@ -4200,6 +4269,12 @@ Si dice che quando si ottengono <category id='161'/>, la porta per Ultimate D ri
 [IDS_ITEMDESC.ID1170011]
 Un Album del Collezionista con DJ talentuosi che stupiscono persino i fan più esigenti.
 Quando si ottengono <category id='143'/>, si dice che i ritmi energici scatenino il club, mentre le sue porte iniziano a brillare.
+[IDS_ITEMDESC.ID1170012]
+Un Album del Collezionista con giovani fanciulle che affrontano l'incarnazione del male.
+Quando ottieni le carte <category id='059'/>, si dice che le porte del legame tra le sorelle brillino.
+[IDS_ITEMDESC.ID1170013]
+Un Album del Collezionista con un clan permeato dalle anime del drago.
+Quando ottieni le carte <category id='169'/>, si dice che le porte del Leggendario Drago brillino.
 [IDS_ITEMDESC.ID1180001]
 Una moneta con il motivo del drago luminoso che dà vita a una nuova leggenda.
 I suoi occhi blu risplendono.
@@ -4255,11 +4330,14 @@ Il simbolo "D" brilla luminoso.
 Una moneta che raffigura lo stemma di un club rinomato in tutta la scena, apprezzato anche dai fan più esigenti.
 L'esibizione della DJ <category id='143'/> ha monopolizzato la scena.
 [IDS_ITEMDESC.ID1180020]
-coming soon
+Una moneta che raffigura lo stemma di un coro della foresta che intona canti sacri.
+La magia delle fate brilla luminosa.
 [IDS_ITEMDESC.ID1180021]
-coming soon
+Una moneta il cui motivo è un drago che solca il cielo.
+L'arte segreta che protegge la valle brilla intensamente.
 [IDS_ITEMDESC.ID1180022]
-coming soon
+Una moneta il cui motivo è l'anti-male <category id='059'/>.
+Gli armamenti sacri benedetti dalla grazia divina brillano intensamente.
 [IDS_ITEMDESC.ID1180023]
 coming soon
 [IDS_ITEMDESC.ID1180024]

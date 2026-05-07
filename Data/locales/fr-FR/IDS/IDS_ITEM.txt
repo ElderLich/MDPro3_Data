@@ -154,8 +154,12 @@ Beauté Fantôme et Manoir Hanté
 Tortue-Gemmes
 [IDS_ITEM.ID1001038]
 Lurrie Mythologique
+[IDS_ITEM.ID1001039]
+Kalidor, Allié de la Justice
 [IDS_ITEM.ID1001040]
 Poupée Truquée Tête d'Œuf
+[IDS_ITEM.ID1001041]
+Le Livre de Taiyou
 [IDS_ITEM.ID1002001]
 Ballon de foot
 [IDS_ITEM.ID1002002]
@@ -468,6 +472,14 @@ Floraisons Rouges sous la Racine
 Magicien Sombre
 [IDS_ITEM.ID1010139]
 Sangan
+[IDS_ITEM.ID1010140]
+Lucina des Notes Elfiques
+[IDS_ITEM.ID1010141]
+Quirinus Dragunité
+[IDS_ITEM.ID1010142]
+Exosœur Mikailis
+[IDS_ITEM.ID1010145]
+Non-Finito Artmage
 [IDS_ITEM.ID1011001]
 Ballon de foot
 [IDS_ITEM.ID1011002]
@@ -1204,6 +1216,8 @@ Top 10000 DC 2026 MAR
 Duelliste 2nd Stage DC 2026 MAR
 [IDS_ITEM.ID1020216]
 Orage Foudroyant
+[IDS_ITEM.ID1020217]
+Lancer chanceux
 [IDS_ITEM.ID1021001]
 Démarrage
 [IDS_ITEM.ID1021002]
@@ -1296,6 +1310,8 @@ Fusion Chevalier-Gemmes
 Cadre bleu et blanc
 [IDS_ITEM.ID1030041]
 Cadre rouge et blanc
+[IDS_ITEM.ID1030043]
+Cadre jaune et noir
 [IDS_ITEM.ID1031001]
 La Voie de l'Assaut de l'Air Bleu
 [IDS_ITEM.ID1031002]
@@ -1342,6 +1358,8 @@ Typhon d'Espace Mystique
 Changement de Masque II
 [IDS_ITEM.ID1031023]
 Jardin des Roses Noires
+[IDS_ITEM.ID1031024]
+Notes Elfiques
 [IDS_ITEM.ID1032001]
 Ornement festif
 [IDS_ITEM.ID1032002]
@@ -1698,6 +1716,14 @@ Master Paix, le Véritable Dracosseigneur
 La Brute du Blues R.B.
 [IDS_ITEM.ID1070164]
 Pourfendeuse Ultime
+[IDS_ITEM.ID1070165]
+Regina des Notes Elfiques
+[IDS_ITEM.ID1070166]
+Chevalier Dragunité - Areus
+[IDS_ITEM.ID1070167]
+Exosœur Karmael
+[IDS_ITEM.ID1070171]
+Hécamains Jauzah
 [IDS_ITEM.ID1070178]
 Mokomoko
 [IDS_ITEM.ID1071001]
@@ -1968,6 +1994,12 @@ Labrynth
 Prison de la Tour de l'Horloge
 [IDS_ITEM.ID1082028]
 Son Kewl
+[IDS_ITEM.ID1082029]
+Notes Elfiques
+[IDS_ITEM.ID1082030]
+Ravin des Dragons
+[IDS_ITEM.ID1082032]
+Exosœur
 [IDS_ITEM.ID1083001]
 Blanc et bleu
 [IDS_ITEM.ID1090001]
@@ -2048,6 +2080,8 @@ Labyrinthe Labrynth
 Stade de football
 [IDS_ITEM.ID1090041]
 Ville Cyber aux Néons
+[IDS_ITEM.ID1090042]
+Royaume des fées - Jardin d'Oratorio
 [IDS_ITEM.ID1092001]
 Colisée
 [IDS_ITEM.ID1092002]
@@ -2132,6 +2166,8 @@ Labyrinthe Labrynth
 Stade de football
 [IDS_ITEM.ID1100041]
 Ville Cyber aux Néons
+[IDS_ITEM.ID1100042]
+Royaume des fées - Jardin d'Oratorio
 [IDS_ITEM.ID1101001]
 Trappe
 [IDS_ITEM.ID1101002]
@@ -2278,6 +2314,8 @@ Labyrinthe Labrynth
 Stade de football
 [IDS_ITEM.ID1110041]
 Ville Cyber aux Néons
+[IDS_ITEM.ID1110042]
+Royaume des fées - Jardin d'Oratorio
 [IDS_ITEM.ID1111001]
 Tableau de la Destinée
 [IDS_ITEM.ID1111002]
@@ -2351,7 +2389,7 @@ coming soon
 [IDS_ITEM.ID1111036]
 coming soon
 [IDS_ITEM.ID1111037]
-coming soon
+Carte de Monstre à Effet
 [IDS_ITEM.ID1111038]
 Rikka
 [IDS_ITEM.ID1111039]
@@ -2730,6 +2768,14 @@ Loi des Ténèbres, HÉROS Masqué
 Roi Véritable de Toutes les Calamités
 [IDS_ITEM.ID1130124]
 I:P Masquerena et S:P Petite Chevaleresse
+[IDS_ITEM.ID1130125]
+Notes Elfiques : Aristie de Confiance
+[IDS_ITEM.ID1130126]
+Notes Elfiques : Bienvenue à la Maison
+[IDS_ITEM.ID1130129]
+Appât d'Hécamains
+[IDS_ITEM.ID1130135]
+Gorgon de Zilofthonia
 [IDS_ITEM.ID1132001]
 Lapin Sauveteur
 [IDS_ITEM.ID1132002]
@@ -2774,6 +2820,10 @@ Magicien Sombre
 HÉROS de la Destinée
 [IDS_ITEM.ID1170011]
 Son Kewl
+[IDS_ITEM.ID1170012]
+Exosœur
+[IDS_ITEM.ID1170013]
+Dragunité
 [IDS_ITEM.ID1180001]
 Dragon Blanc Alternatif aux Yeux Bleus
 [IDS_ITEM.ID1180002]
@@ -2813,11 +2863,11 @@ HÉROS de la Destinée
 [IDS_ITEM.ID1180019]
 Son Kewl
 [IDS_ITEM.ID1180020]
-coming soon
+Notes Elfiques
 [IDS_ITEM.ID1180021]
-coming soon
+Dragunité
 [IDS_ITEM.ID1180022]
-coming soon
+Exosœur
 [IDS_ITEM.ID1180023]
 coming soon
 [IDS_ITEM.ID1180024]

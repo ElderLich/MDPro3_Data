@@ -175,11 +175,11 @@ coming soon
 [IDS_ITEM.ID1001038]
 魔轟神ルリー
 [IDS_ITEM.ID1001039]
-coming soon
+Ａ・Ｏ・Ｊ　カタストル
 [IDS_ITEM.ID1001040]
 ギミック・パペット－ボム・エッグ
 [IDS_ITEM.ID1001041]
-coming soon
+太陽の書
 [IDS_ITEM.ID1001042]
 coming soon
 [IDS_ITEM.ID1001043]
@@ -559,17 +559,17 @@ D-HERO Bloo-D
 [IDS_ITEM.ID1010139]
 クリッター
 [IDS_ITEM.ID1010140]
-coming soon
+耀聖の花詩ルキナ
 [IDS_ITEM.ID1010141]
-coming soon
+ドラグニティ－クイリヌス
 [IDS_ITEM.ID1010142]
-coming soon
+エクソシスター・ミカエリス
 [IDS_ITEM.ID1010143]
 coming soon
 [IDS_ITEM.ID1010144]
 coming soon
 [IDS_ITEM.ID1010145]
-coming soon
+神芸なる知恵の乙女
 [IDS_ITEM.ID1010146]
 coming soon
 [IDS_ITEM.ID1010147]
@@ -1370,6 +1370,8 @@ coming soon
 coming soon
 [IDS_ITEM.ID1020216]
 ライトニング・ストーム
+[IDS_ITEM.ID1020217]
+一天地六
 [IDS_ITEM.ID1021001]
 盤石の布陣
 [IDS_ITEM.ID1021002]
@@ -1467,7 +1469,7 @@ coming soon
 [IDS_ITEM.ID1030042]
 coming soon
 [IDS_ITEM.ID1030043]
-coming soon
+イエロー&ブラックフレーム
 [IDS_ITEM.ID1030044]
 coming soon
 [IDS_ITEM.ID1030045]
@@ -1569,7 +1571,7 @@ P.U.N.K.JAM FEVER！
 [IDS_ITEM.ID1031023]
 黒薔薇の華園
 [IDS_ITEM.ID1031024]
-coming soon
+エルフェンノーツ
 [IDS_ITEM.ID1031025]
 coming soon
 [IDS_ITEM.ID1031026]
@@ -1963,11 +1965,11 @@ R.B.ブルート・ブルース
 [IDS_ITEM.ID1070164]
 月女神の鏃
 [IDS_ITEM.ID1070165]
-coming soon
+耀聖の風詩レギナ
 [IDS_ITEM.ID1070166]
-coming soon
+ドラグニティナイト－アーレウス
 [IDS_ITEM.ID1070167]
-coming soon
+エクソシスター・カルマエル
 [IDS_ITEM.ID1070168]
 coming soon
 [IDS_ITEM.ID1070169]
@@ -1975,7 +1977,7 @@ coming soon
 [IDS_ITEM.ID1070170]
 coming soon
 [IDS_ITEM.ID1070171]
-coming soon
+見えざる神ジャウザー
 [IDS_ITEM.ID1070172]
 coming soon
 [IDS_ITEM.ID1070173]
@@ -2465,13 +2467,13 @@ Yum☆Yum☆ヤミーズ
 [IDS_ITEM.ID1082028]
 キラーチューン
 [IDS_ITEM.ID1082029]
-coming soon
+エルフェンノーツ
 [IDS_ITEM.ID1082030]
-coming soon
+竜の渓谷
 [IDS_ITEM.ID1082031]
 欠番
 [IDS_ITEM.ID1082032]
-coming soon
+エクソシスター
 [IDS_ITEM.ID1083001]
 ホワイト＆ブルー
 [IDS_ITEM.ID1090001]
@@ -2557,7 +2559,7 @@ coming soon
 [IDS_ITEM.ID1090041]
 ネオン瞬くサイバーシティ
 [IDS_ITEM.ID1090042]
-coming soon
+妖精領域 オラトリオ・ガーデン
 [IDS_ITEM.ID1092001]
 コロシアム
 [IDS_ITEM.ID1092002]
@@ -2673,7 +2675,7 @@ coming soon
 [IDS_ITEM.ID1100041]
 ネオン瞬くサイバーシティ
 [IDS_ITEM.ID1100042]
-coming soon
+妖精領域 オラトリオ・ガーデン
 [IDS_ITEM.ID1101001]
 落とし穴
 [IDS_ITEM.ID1101002]
@@ -2881,7 +2883,7 @@ coming soon
 [IDS_ITEM.ID1110041]
 ネオン瞬くサイバーシティ
 [IDS_ITEM.ID1110042]
-coming soon
+妖精領域 オラトリオ・ガーデン
 [IDS_ITEM.ID1111001]
 ウィジャ盤
 [IDS_ITEM.ID1111002]
@@ -2955,7 +2957,7 @@ coming soon
 [IDS_ITEM.ID1111036]
 coming soon
 [IDS_ITEM.ID1111037]
-coming soon
+効果モンスターカード
 [IDS_ITEM.ID1111038]
 六花
 [IDS_ITEM.ID1111039]
@@ -3407,15 +3409,15 @@ coming soon
 [IDS_ITEM.ID1130124]
 Ｉ：Ｐマスカレーナ＆S：Pリトルナイト
 [IDS_ITEM.ID1130125]
-coming soon
+エルフェンノーツ～託選のアリスティア～
 [IDS_ITEM.ID1130126]
-coming soon
+エルフェンノーツ～廻郷のパラレリズム～
 [IDS_ITEM.ID1130127]
 coming soon
 [IDS_ITEM.ID1130128]
 coming soon
 [IDS_ITEM.ID1130129]
-coming soon
+見えざる導き手
 [IDS_ITEM.ID1130130]
 coming soon
 [IDS_ITEM.ID1130131]
@@ -3427,7 +3429,7 @@ coming soon
 [IDS_ITEM.ID1130134]
 coming soon
 [IDS_ITEM.ID1130135]
-coming soon
+麗しき磁律機壊
 [IDS_ITEM.ID1130136]
 coming soon
 [IDS_ITEM.ID1132001]
@@ -3485,9 +3487,9 @@ D-HERO
 [IDS_ITEM.ID1170011]
 キラーチューン
 [IDS_ITEM.ID1170012]
-coming soon
+エクソシスター
 [IDS_ITEM.ID1170013]
-coming soon
+ドラグニティ
 [IDS_ITEM.ID1170014]
 coming soon
 [IDS_ITEM.ID1170015]
@@ -3531,11 +3533,11 @@ D-HERO
 [IDS_ITEM.ID1180019]
 キラーチューン
 [IDS_ITEM.ID1180020]
-coming soon
+エルフェンノーツ
 [IDS_ITEM.ID1180021]
-coming soon
+ドラグニティ
 [IDS_ITEM.ID1180022]
-coming soon
+エクソシスター
 [IDS_ITEM.ID1180023]
 coming soon
 [IDS_ITEM.ID1180024]

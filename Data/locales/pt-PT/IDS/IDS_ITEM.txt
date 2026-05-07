@@ -154,8 +154,12 @@ Fantasma Belle & Mansão Assombrada
 Tartaruga-Gema
 [IDS_ITEM.ID1001038]
 Lurrie Mitológico
+[IDS_ITEM.ID1001039]
+Catastor, Aliado da Justiça
 [IDS_ITEM.ID1001040]
 Engenhoca Marionete Cabeça de Ovo
+[IDS_ITEM.ID1001041]
+Livro do Taiyou
 [IDS_ITEM.ID1002001]
 Bola de Futebol
 [IDS_ITEM.ID1002002]
@@ -468,6 +472,14 @@ Florescer Vermelho de Raiz Inferior
 Mago Negro
 [IDS_ITEM.ID1010139]
 Sangan
+[IDS_ITEM.ID1010140]
+Lucina de Elfnota
+[IDS_ITEM.ID1010141]
+Quirinus Dragunidade
+[IDS_ITEM.ID1010142]
+Exoirmã Mikailis
+[IDS_ITEM.ID1010145]
+Non-Finito de Artmage
 [IDS_ITEM.ID1011001]
 Bola de Futebol
 [IDS_ITEM.ID1011002]
@@ -1204,6 +1216,8 @@ Top 10000 da DC 2026 MAR
 Duelista de 2nd Stage do DC 2026 MAR
 [IDS_ITEM.ID1020216]
 Tempestade de Relâmpagos
+[IDS_ITEM.ID1020217]
+Sorte ao Rolar
 [IDS_ITEM.ID1021001]
 Começando
 [IDS_ITEM.ID1021002]
@@ -1296,6 +1310,8 @@ Fusão Cavaleiro-Gema
 Moldura Azul e Branca
 [IDS_ITEM.ID1030041]
 Moldura Vermelha e Branca
+[IDS_ITEM.ID1030043]
+Moldura Amarela e Preta
 [IDS_ITEM.ID1031001]
 O Caminho da Força Celeste Azul
 [IDS_ITEM.ID1031002]
@@ -1342,6 +1358,8 @@ Tufão Espacial Místico
 Mudar a Máscara II
 [IDS_ITEM.ID1031023]
 Jardim das Rosas Negras
+[IDS_ITEM.ID1031024]
+Elfnota
 [IDS_ITEM.ID1032001]
 Ornamento Festivo
 [IDS_ITEM.ID1032002]
@@ -1698,6 +1716,14 @@ Master da Paz, o Verdadeiro Dracosuserano
 R.B. O Bruto do Blues
 [IDS_ITEM.ID1070164]
 Assassina Definitiva
+[IDS_ITEM.ID1070165]
+Regina de Elfnota
+[IDS_ITEM.ID1070166]
+Cavaleiro Dragunidade - Areus
+[IDS_ITEM.ID1070167]
+Exoirmã Karmael
+[IDS_ITEM.ID1070171]
+Hecamãos Jauzah
 [IDS_ITEM.ID1070178]
 Mokomoko
 [IDS_ITEM.ID1071001]
@@ -1968,6 +1994,12 @@ Labrinto
 Prisão da Torre do Relógio
 [IDS_ITEM.ID1082028]
 Kewl Tune
+[IDS_ITEM.ID1082029]
+Elfnota
+[IDS_ITEM.ID1082030]
+Ravina de Dragões
+[IDS_ITEM.ID1082032]
+Exoirmã
 [IDS_ITEM.ID1083001]
 Branco e Azul
 [IDS_ITEM.ID1090001]
@@ -2048,6 +2080,8 @@ Labirinto de Labrinto
 Estádio de Futebol
 [IDS_ITEM.ID1090041]
 Ciber Cidade de Néon
+[IDS_ITEM.ID1090042]
+Reino das Fadas, Jardim do Oratório
 [IDS_ITEM.ID1092001]
 Coliseu
 [IDS_ITEM.ID1092002]
@@ -2132,6 +2166,8 @@ Labirinto de Labrinto
 Estádio de Futebol
 [IDS_ITEM.ID1100041]
 Ciber Cidade de Néon
+[IDS_ITEM.ID1100042]
+Reino das Fadas, Jardim do Oratório
 [IDS_ITEM.ID1101001]
 Buraco Armadilha
 [IDS_ITEM.ID1101002]
@@ -2278,6 +2314,8 @@ Labirinto de Labrinto
 Estádio de Futebol
 [IDS_ITEM.ID1110041]
 Ciber Cidade de Néon
+[IDS_ITEM.ID1110042]
+Reino das Fadas, Jardim do Oratório
 [IDS_ITEM.ID1111001]
 Tábua do Destino
 [IDS_ITEM.ID1111002]
@@ -2351,7 +2389,7 @@ coming soon
 [IDS_ITEM.ID1111036]
 coming soon
 [IDS_ITEM.ID1111037]
-coming soon
+Card de Monstro de Efeito
 [IDS_ITEM.ID1111038]
 Rikka
 [IDS_ITEM.ID1111039]
@@ -2730,6 +2768,14 @@ Lei Obscura, o HERÓI Mascarado
 Verdadeiro Rei de Todas as Calamidades
 [IDS_ITEM.ID1130124]
 I:P Mascarena & S:P Pequena Cavaleira
+[IDS_ITEM.ID1130125]
+Elfnotas: Aristeia da Confiança
+[IDS_ITEM.ID1130126]
+Elfnotas: Bem-vindo ao Lar
+[IDS_ITEM.ID1130129]
+Isca de Hecamãos
+[IDS_ITEM.ID1130135]
+Górgona de Zilofthonia
 [IDS_ITEM.ID1132001]
 Coelho de Socorro
 [IDS_ITEM.ID1132002]
@@ -2774,6 +2820,10 @@ Mago Negro
 HERÓI do Destino
 [IDS_ITEM.ID1170011]
 Kewl Tune
+[IDS_ITEM.ID1170012]
+Exoirmã
+[IDS_ITEM.ID1170013]
+Dragunidade
 [IDS_ITEM.ID1180001]
 Dragão Branco Alternativo de Olhos Azuis
 [IDS_ITEM.ID1180002]
@@ -2813,11 +2863,11 @@ HERÓI do Destino
 [IDS_ITEM.ID1180019]
 Kewl Tune
 [IDS_ITEM.ID1180020]
-coming soon
+Elfnota
 [IDS_ITEM.ID1180021]
-coming soon
+Dragunidade
 [IDS_ITEM.ID1180022]
-coming soon
+Exoirmã
 [IDS_ITEM.ID1180023]
 coming soon
 [IDS_ITEM.ID1180024]
