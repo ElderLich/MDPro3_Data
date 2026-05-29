@@ -1164,6 +1164,12 @@ Al centro è stato incastonato "<card mrk='7950'/>".
 [IDS_ITEMDESC.ID1012058]
 Un'icona che raffigura il re supremo de "Il Favoloso Reame".
 È la divinità assoluta che governa sulle malvagie divinità della guerra.
+[IDS_ITEMDESC.ID1012059]
+Un'icona che raffigura un essere che è sia l'apice dell'evoluzione <category id='177'/> che l'origine della sua specie.
+Alcuni teorizzano che sia il pianeta stesso, ricoperto da orde di <category id='177'/> in continua moltiplicazione.
+[IDS_ITEMDESC.ID1012060]
+Un'icona che raffigura un <category id='177'/> di alto rango dotato di un potere incredibile e al comando di una grande armata.
+<category id='177'/> ha uno stato che solo pochi eletti possono sperare di raggiungere.
 [IDS_ITEMDESC.ID1012061]
 Un'icona che raffigura un Cyber Drago che conquista la vittoria grazie all'Evocazione tramite Fusione.
 Sfodera il suo attacco finale, Esplosione Evolutiva.
@@ -2752,6 +2758,12 @@ Protettori che raffigurano una baracca costruita su un terreno vuoto dopo il cro
 Per chi pensa che l'erba del vicino sia sempre la più verde.
 [IDS_ITEMDESC.ID1071038]
 Protettori che raffigurano una ragazza "corriere" con oltre 100 identità. Per chi percorre il mondo di notte.
+[IDS_ITEMDESC.ID1071039]
+Protettori che raffigurano le ultime fasi di un'invasione di <category id='177'/>.
+Per quei dominatori invasori di natura ancora sconosciuta.
+[IDS_ITEMDESC.ID1071040]
+Protettori che raffigurano famigli che non sono riusciti a domare le proprie bestie magiche.
+Per coloro che sono più feroci di quanto sembrino.
 [IDS_ITEMDESC.ID1072001]
 Un Protettore con l'aspetto di "<card mrk='13670'/>" che indossa l'armatura della sua modalità Distruzione.
 L'ideale per i giocatori che attraverserebbero le fiamme sul campo di battaglia per conquistare la vittoria.
@@ -4203,6 +4215,9 @@ A causa del fallimento dell'incantesimo, sono precipitati dal cielo ma la pianta
 [IDS_ITEMDESC.ID1130129]
 Un servitore di <card mrk='21936'/> che inganna i suoi bersagli assumendo un aspetto umano.
 Li manipola mentalmente e li rapisce per usarli come sacrifici.
+[IDS_ITEMDESC.ID1130130]
+"<card mrk='22142'/>", uno degli dei del regno degli spiriti.
+Una divinità astuta che manipola la grande fata che dorme nel bocciolo mentre trama il suo ritorno in questo mondo.
 [IDS_ITEMDESC.ID1130135]
 Una forma di vita meccanica che porta il nome di un dio disceso a vigilare sul mondo nel corso di molti lunghi anni.
 Dal fonografo che ha sul braccio destro, emette onde elettromagnetiche in grado di disattivare i macchinari.

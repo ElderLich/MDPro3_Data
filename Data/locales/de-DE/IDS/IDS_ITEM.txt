@@ -732,6 +732,10 @@ Naturia-Löwendrachling
 Verbündeter der Gerechtigkeit Feldmarschall
 [IDS_ITEM.ID1012058]
 Sagenhafter Leviathan
+[IDS_ITEM.ID1012059]
+Wurm Zero
+[IDS_ITEM.ID1012060]
+Wurm King
 [IDS_ITEM.ID1012061]
 Cyber Drache
 [IDS_ITEM.ID1012062]
@@ -1802,6 +1806,10 @@ Poseidra, der atlantische Drache
 Nachbars Gras ist grüner
 [IDS_ITEM.ID1071038]
 I:P Maskerena
+[IDS_ITEM.ID1071039]
+Wurm Zero
+[IDS_ITEM.ID1071040]
+Hundeschule
 [IDS_ITEM.ID1072001]
 Himmelsjäger-Umwandlung: Flammende Flügel der Zerstörung
 [IDS_ITEM.ID1072002]
@@ -2774,6 +2782,8 @@ Elfnoten: Aristie des Vertrauens
 Elfnoten: Willkommen daheim
 [IDS_ITEM.ID1130129]
 Hekahände-Köder
+[IDS_ITEM.ID1130130]
+Junora der Machtpatron der Abstimmung
 [IDS_ITEM.ID1130135]
 Gorgon von Zilofthonia
 [IDS_ITEM.ID1132001]

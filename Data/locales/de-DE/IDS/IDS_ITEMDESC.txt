@@ -1164,6 +1164,12 @@ Ein Symbol, das eine riesige mobile Waffe zur Abwehr von Eindringlingen darstell
 [IDS_ITEMDESC.ID1012058]
 Ein Symbol, das den herrschenden König des Sagenhaften Reichs darstellt.
 Er ist die absolute Gottheit, die über die bösen Gottheiten des Krieges herrscht.
+[IDS_ITEMDESC.ID1012059]
+Ein Symbol, das ein Wesen darstellt, das sowohl den Höhepunkt der <category id='177'/>-Evolution als auch den Ursprung seiner Spezies verkörpert.
+Einige vermuten, dass es sich um den Planeten selbst handelt, der von sich ständig vermehrenden <category id='177'/>-Horden bedeckt ist.
+[IDS_ITEMDESC.ID1012060]
+Ein Symbol, das einen hochrangigen <category id='177'/> darstellt, der über unglaubliche Macht verfügt und eine große Armee befehligt.
+Ein <category id='177'/> mit einem Status, den nur wenige Auserwählte erreichen können.
 [IDS_ITEMDESC.ID1012061]
 Ein Symbol, das einen Cyber Drachen darstellt, der den Sieg durch Fusionsbeschwörung erringt.
 Er entfesselt seinen ultimativen Angriff, die Evolutionsausbruch.
@@ -2754,6 +2760,12 @@ Kartenhüllen, die eine Hütte darstellen, die nach dem finanziellen Ruin auf ei
 Für all jene, die glauben, das Gras sei auf der anderen Seite grüner.
 [IDS_ITEMDESC.ID1071038]
 Kartenhüllen, die eine „Kurierin“ mit über 100 Identitäten darstellen. Für all jene, die die Welt der Nacht durchstreifen.
+[IDS_ITEMDESC.ID1071039]
+Kartenhüllen, die die letzten Phasen einer <category id='177'/>-Invasion darstellen.
+Für diejenigen, die Invasoren unbekannter Natur befehligen.
+[IDS_ITEMDESC.ID1071040]
+Kartenhüllen, die Vertraute darstellen, denen es nicht gelang, ihre magischen Bestien zu zähmen.
+Für diejenigen, die wilder sind, als sie scheinen.
 [IDS_ITEMDESC.ID1072001]
 Eine Kartenhülle mit dem Design von „<card mrk='13670'/>“ in ihrer Rüstung im Zerstörungsmodus.
 Für Spieler, die sich aus den Flammen des Schlachtfelds den Weg zum Sieg bahnen.
@@ -4204,6 +4216,9 @@ Der Zauber schlägt fehl und sie stürzen vom Himmel direkt in die Arme der ries
 [IDS_ITEMDESC.ID1130129]
 Ein Handlanger von <card mrk='21936'/>, der seine Ziele durch Nachahmung eines menschlichen Aussehens täuscht.
 Es unterzieht sie einer Gehirnwäsche und entführt sie, um sie als Opfergaben zu missbrauchen.
+[IDS_ITEMDESC.ID1130130]
+„<card mrk='22142'/>“, einer der Götter der Geisterwelt.
+Eine listige Gottheit, die die große Fee manipuliert, die in der Blütenknospe schläft, während sie ihre Rückkehr in diese Welt plant.
 [IDS_ITEMDESC.ID1130135]
 Eine maschinelle Lebensform, die den Namen eines Gottes trug und die Welt über viele lange Jahre hinweg überwachte.
 Vom Phonographen an seinem rechten Arm sendet es elektromagnetische Wellen aus, die Maschinen lahmlegen können.

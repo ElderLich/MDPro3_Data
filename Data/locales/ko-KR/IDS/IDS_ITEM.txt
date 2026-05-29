@@ -732,6 +732,10 @@ S－Force 저스티파이
 A·O·J 필드 마샬
 [IDS_ITEM.ID1012058]
 마굉신 레뷰어탄
+[IDS_ITEM.ID1012059]
+웜 제로
+[IDS_ITEM.ID1012060]
+웜 킹
 [IDS_ITEM.ID1012061]
 사이버 드래곤
 [IDS_ITEM.ID1012062]
@@ -1802,6 +1806,10 @@ A·O·J 필드 마샬
 이웃집 잔디깎기
 [IDS_ITEM.ID1071038]
 아이:피 마스카레나
+[IDS_ITEM.ID1071039]
+웜 제로
+[IDS_ITEM.ID1071040]
+마수의 회유
 [IDS_ITEM.ID1072001]
 섬도환장 －섬멸의 염익－
 [IDS_ITEM.ID1072002]
@@ -2774,6 +2782,8 @@ K9－EX “Werewolf”
 엘펜노츠~회향의 패러렐리즘~
 [IDS_ITEM.ID1130129]
 바이트 알 헤카톤케일
+[IDS_ITEM.ID1130130]
+조감옥신 쥬노라
 [IDS_ITEM.ID1130135]
 질로프소니아 고르곤
 [IDS_ITEM.ID1132001]

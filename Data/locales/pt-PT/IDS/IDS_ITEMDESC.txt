@@ -1164,6 +1164,12 @@ Um ícone representando uma enorme arma móvel desenvolvida para deter invasores
 [IDS_ITEMDESC.ID1012058]
 Um Ícone que representa o rei regente do Reino Mitológico.
 Ele é a divindade absoluta que governa as divindades malignas da guerra.
+[IDS_ITEMDESC.ID1012059]
+Um Ícone que retrata um ser que é tanto o pináculo da evolução <category id='177'/> quanto a origem da espécie.
+Alguns teorizam que seja o próprio planeta, coberto por hordas crescentes de <category id='177'/>.
+[IDS_ITEMDESC.ID1012060]
+Um Ícone que retrata uma poderosa <category id='177'/> de alta patente no comando de um vasto exército.
+Um <category id='177'/> com um status que apenas uma seleta minoria pode aspirar a alcançar.
 [IDS_ITEMDESC.ID1012061]
 Um ícone representando um Dragão Cibernético que conquista a vitória por meio da Invocação-Fusão.
 Ele faz seu ataque final, a Explosão Evolutiva.
@@ -2754,6 +2760,12 @@ Protetores que retratam um barraco construído em um terreno vazio após uma fal
 Para aqueles que acham que a grama do vizinho é sempre mais verde.
 [IDS_ITEMDESC.ID1071038]
 Protetores representando uma "Mensageira" com mais de 100 identidades. Para aqueles que percorrem o mundo da noite.
+[IDS_ITEMDESC.ID1071039]
+Protetores que retratam os últimos estágios de uma invasão <category id='177'/>.
+Para aqueles que comandam invasores de natureza ainda desconhecida.
+[IDS_ITEMDESC.ID1071040]
+Protetores que retratam familiares que não conseguiram domar suas feras mágicas.
+Para aqueles que são mais ferozes do que aparentam.
 [IDS_ITEMDESC.ID1072001]
 Um Protetor com o design de "<card mrk='13670'/>" em sua armadura do modo Destruição.
 Para os jogadores que se agarrarão à vitória saindo das chamas do campo de batalha.
@@ -4205,6 +4217,9 @@ O feitiço, no entanto, falha, e todos despencam do céu para os braços da plan
 [IDS_ITEMDESC.ID1130129]
 Um servo de <card mrk='21936'/> que engana seus alvos ao imitar uma aparência humana.
 Ele faz lavagem cerebral neles e os sequestra para usá-los como sacrifícios.
+[IDS_ITEMDESC.ID1130130]
+"<card mrk='22142'/>", uma das divindades do reino espiritual.
+Uma deidade astuta manipulando a grande fada adormecida dentro do botão de flor enquanto arquiteta seu retorno a este mundo.
 [IDS_ITEMDESC.ID1130135]
 Uma forma de vida mecânica que carrega o nome de um deus que passou a supervisionar o mundo ao longo de muitos e longos anos.
 Do fonógrafo em seu braço direito, ela emite ondas eletromagnéticas capazes de desativar máquinas.

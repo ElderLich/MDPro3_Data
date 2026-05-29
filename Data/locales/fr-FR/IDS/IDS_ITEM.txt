@@ -732,6 +732,10 @@ Dragolion Naturia
 Maréchal de Guerre, Allié de la Justice
 [IDS_ITEM.ID1012058]
 Léviathan Mythologique
+[IDS_ITEM.ID1012059]
+Ver - Zéro
+[IDS_ITEM.ID1012060]
+Ver - King
 [IDS_ITEM.ID1012061]
 Cyber Dragon
 [IDS_ITEM.ID1012062]
@@ -1802,6 +1806,10 @@ Poseidra, le Dragon de l'Atlantide
 L'Herbe a l'Air plus Verte
 [IDS_ITEM.ID1071038]
 I:P Masquerena
+[IDS_ITEM.ID1071039]
+Ver - Zéro
+[IDS_ITEM.ID1071040]
+Obéissance Scolarisée
 [IDS_ITEM.ID1072001]
 Conversion d'Assaut de l'Air : Ailes Flamboyantes de la Destruction
 [IDS_ITEM.ID1072002]
@@ -2774,6 +2782,8 @@ Notes Elfiques : Aristie de Confiance
 Notes Elfiques : Bienvenue à la Maison
 [IDS_ITEM.ID1130129]
 Appât d'Hécamains
+[IDS_ITEM.ID1130130]
+Junora le Mécène du Pouvoir de l'Accordage
 [IDS_ITEM.ID1130135]
 Gorgon de Zilofthonia
 [IDS_ITEM.ID1132001]

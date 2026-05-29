@@ -1164,6 +1164,12 @@ Une icône représentant une arme mobile géante conçue pour contrer les envahi
 [IDS_ITEMDESC.ID1012058]
 Une icône représentant le souverain du Royaume Mythologique.
 Il est la divinité absolue qui règne sur les divinités maléfiques de la guerre.
+[IDS_ITEMDESC.ID1012059]
+Une Icône représentant un être qui est à la fois le summum de l'évolution de <category id='177'/> et l'origine de son espèce.
+Certains pensent qu'il s'agit de la planète elle-même, recouverte de hordes de <category id='177'/> qui ne cessent de se multiplier.
+[IDS_ITEMDESC.ID1012060]
+Une Icône représentant un haut dignitaire <category id='177'/> qui possède une puissance incroyable et commande une immense armée.
+Un <category id='177'/> dont le statut n'est accessible qu'à un petit groupe d'élite.
 [IDS_ITEMDESC.ID1012061]
 Une icône représentant un Cyber Dragon qui remporte la victoire grâce à une Invocation Fusion.
 Il déchaîne son attaque ultime, l'Explosion d'Évolution.
@@ -2752,6 +2758,12 @@ Des Protège-cartes représentant une cabane construite sur un terrain vague à 
 Pour ceux qui pensent que l'herbe est plus verte de l'autre côté.
 [IDS_ITEMDESC.ID1071038]
 Des Protège-cartes représentant une "messagère" avec plus de 100 identités différentes. Pour ceux qui arpentent le monde de la nuit.
+[IDS_ITEMDESC.ID1071039]
+Des Protège-cartes représentant les dernières phases d'une invasion <category id='177'/>.
+Pour ceux qui commandent des envahisseurs dont la nature reste encore inconnue.
+[IDS_ITEMDESC.ID1071040]
+Des Protège-cartes représentant des familiers qui n'ont pas réussi à dompter leurs bêtes magiques.
+Pour ceux qui sont plus féroces qu'ils n'en ont l'air.
 [IDS_ITEMDESC.ID1072001]
 Un protège-cartes orné du motif de "<card mrk='13670'/>" en mode d'armure Destruction.
 Pour les joueurs qui s'emparent de la victoire en bravant le feu du champ de bataille.
@@ -4202,6 +4214,9 @@ Mais le sort échoue et les fait tomber du ciel pour atterrir dans la plante gé
 [IDS_ITEMDESC.ID1130129]
 Un sbire de "<card mrk='21936'/>" qui dupe ses proies en prenant l'apparence d'un humain.
 Il leur lave le cerveau et les enlève pour les utiliser comme sacrifices.
+[IDS_ITEMDESC.ID1130130]
+"<card mrk='22142'/>", l'un des dieux du royaume des esprits.
+Une divinité rusée qui manipule la grande fée endormie au cœur du bourgeon, alors que celle-ci prépare son retour dans ce monde.
 [IDS_ITEMDESC.ID1130135]
 Une forme de vie mécanique portant le nom d'un dieu qui a veillé sur le monde au fil de nombreuses années.
 Grâce au phonographe sur son bras droit, il émet des ondes électromagnétiques capables de mettre les machines hors service.

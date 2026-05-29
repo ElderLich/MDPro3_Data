@@ -732,6 +732,10 @@ Flordragón Naturia
 Mariscal de Campo Aliado de la Justicia
 [IDS_ITEM.ID1012058]
 Fabuloso Leviatán
+[IDS_ITEM.ID1012059]
+Gusano Zero
+[IDS_ITEM.ID1012060]
+Gusano King
 [IDS_ITEM.ID1012061]
 Ciber Dragón
 [IDS_ITEM.ID1012062]
@@ -1802,6 +1806,10 @@ Poseidra, el Dragón de Atlantis
 El Césped es Más Verde
 [IDS_ITEM.ID1071038]
 I:P Enmascarada
+[IDS_ITEM.ID1071039]
+Gusano Zero
+[IDS_ITEM.ID1071040]
+Enseñando Obediencia
 [IDS_ITEM.ID1072001]
 Conversión del Caza del Cielo: Alas Flamígeras de la Destrucción
 [IDS_ITEM.ID1072002]
@@ -2774,6 +2782,8 @@ Elfnotas: Aristía de la Verdad
 Elfnotas: Bienvenidos a Casa
 [IDS_ITEM.ID1130129]
 Cebo Hecamanos
+[IDS_ITEM.ID1130130]
+Junora el Modelo de Poder de Afinación
 [IDS_ITEM.ID1130135]
 Gorgon de Zilofthonia
 [IDS_ITEM.ID1132001]

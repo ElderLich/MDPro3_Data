@@ -1198,9 +1198,11 @@ coming soon
 魔轟神界の頂点に君臨する王が描かれたアイコン。
 悪しき闘神たちを統べる絶対神である。
 [IDS_ITEMDESC.ID1012059]
-coming soon
+<category id='177'/>の最終進化にして起源でもある存在が描かれたアイコン。
+増えた<category id='177'/>によって覆われた惑星そのものではないかとする説がある。
 [IDS_ITEMDESC.ID1012060]
-coming soon
+高い戦闘力を誇り大軍を操る最上級の<category id='177'/>が描かれたアイコン。
+<category id='177'/>の中でも数パーセントしか到達し得ない存在。
 [IDS_ITEMDESC.ID1012061]
 融合召喚で勝利をつかむ機光竜が描かれたアイコン。
 必殺の一撃、エヴォリューション・バーストを放つ。
@@ -2954,9 +2956,11 @@ coming soon
 100以上の顔を持つ「運び屋」がデザインされたプロテクター。
 夜の世界を飛び回るあなたに。
 [IDS_ITEMDESC.ID1071039]
-coming soon
+<category id='177'/>の侵略における最終段階の姿がデザインされたプロテクター。
+未知の侵略者を指揮するあなたに。
 [IDS_ITEMDESC.ID1071040]
-coming soon
+魔獣の手懐けに失敗した使い魔たちの姿がデザインされたプロテクター。
+見た目以上に凶暴なあなたに。
 [IDS_ITEMDESC.ID1071041]
 coming soon
 [IDS_ITEMDESC.ID1071042]
@@ -4745,7 +4749,8 @@ coming soon
 人の風貌を真似て惑わす<card mrk='21936'/>の手先。
 その贄を集めるため、洗脳して連れ去って行くのだ。
 [IDS_ITEMDESC.ID1130130]
-coming soon
+霊界の神の一柱「<card mrk='22142'/>」。
+蕾に眠る大妖精を操り現世に復活しようと企む狡猾な神。
 [IDS_ITEMDESC.ID1130131]
 coming soon
 [IDS_ITEMDESC.ID1130132]

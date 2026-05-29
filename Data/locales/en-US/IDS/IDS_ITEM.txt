@@ -732,6 +732,10 @@ Naturia Leodrake
 Ally of Justice Field Marshal
 [IDS_ITEM.ID1012058]
 Fabled Leviathan
+[IDS_ITEM.ID1012059]
+Worm Zero
+[IDS_ITEM.ID1012060]
+Worm King
 [IDS_ITEM.ID1012061]
 Cyber Dragon
 [IDS_ITEM.ID1012062]
@@ -1802,6 +1806,10 @@ Poseidra, the Atlantean Dragon
 That Grass Looks Greener
 [IDS_ITEM.ID1071038]
 I:P Masquerena
+[IDS_ITEM.ID1071039]
+Worm Zero
+[IDS_ITEM.ID1071040]
+Obedience Schooled
 [IDS_ITEM.ID1072001]
 Sky Striker Conversion: Flaming Wings of Destruction
 [IDS_ITEM.ID1072002]
@@ -2774,6 +2782,8 @@ Elfnotes: Aristeia of Trust
 Elfnotes: Welcome Home
 [IDS_ITEM.ID1130129]
 Hecahands Bait
+[IDS_ITEM.ID1130130]
+Junora the Power Patron of Tuning
 [IDS_ITEM.ID1130135]
 Gorgon of Zilofthonia
 [IDS_ITEM.ID1132001]

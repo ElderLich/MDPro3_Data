@@ -1164,6 +1164,12 @@ Se incrustó el "<card mrk='7950'/>" para que sirviese de centro de control prin
 [IDS_ITEMDESC.ID1012058]
 Un icono que representa a un rey que gobierna el Reino Fabuloso.
 Es una deidad absoluta que reina sobre las deidades malignas de la guerra.
+[IDS_ITEMDESC.ID1012059]
+Un icono que representa a una criatura que es tanto el último paso evolutivo de los monstruos "<category id='177'/>" como el origen de su especie.
+Hay quien cree que es el propio planeta, cubierto por hordas de monstruos "<category id='177'/>" que no dejan de reproducirse.
+[IDS_ITEMDESC.ID1012060]
+Un icono que representa a un <category id='177'/> de alto rango con un poder increíble y líder de un vasto ejército.
+Un <category id='177'/> con un estatus que solo unos pocos privilegiados pueden alcanzar.
 [IDS_ITEMDESC.ID1012061]
 Un icono que representa al Ciber Dragón que logra la victoria al Invocar por Fusión.
 Desata su ataque definitivo: Explosión Evolutiva.
@@ -2753,6 +2759,12 @@ Protectores que representan una cabaña construida en un terreno baldío tras un
 Para quienes creen que la hierba es más verde al otro lado de la verja.
 [IDS_ITEMDESC.ID1071038]
 Protectores que representan a una "mensajera" con más de 100 identidades. Para quienes recorren el mundo de la noche.
+[IDS_ITEMDESC.ID1071039]
+Protectores que representan las últimas fases de una invasión de monstruos <category id='177'/>.
+Para aquellos líderes invasores de una índole aún desconocida.
+[IDS_ITEMDESC.ID1071040]
+Protectores que representan a los familiares que no lograron domar a sus bestias mágicas.
+Para quienes son más fieros de lo que parecen.
 [IDS_ITEMDESC.ID1072001]
 Un protector con el diseño del "<card mrk='13670'/>" con su armadura en modo de destrucción.
 Para aquellos jugadores que se abrirán camino hacia la victoria con uñas y dientes desde las llamas del campo de batalla.
@@ -4203,6 +4215,9 @@ El hechizo falla, haciéndolos precipitarse desde las alturas sobre la gigantesc
 [IDS_ITEMDESC.ID1130129]
 Un secuaz de <card mrk='21936'/> que engaña a sus objetivos adoptando apariencia humana.
 Les lava el cerebro y los abduce para usarlos como sacrificios.
+[IDS_ITEMDESC.ID1130130]
+"<card mrk='22142'/>", uno de los dioses del reino espiritual.
+Una deidad astuta que manipula a la gran hada que duerme en el interior de la flor mientras planea su regreso a este mundo.
 [IDS_ITEMDESC.ID1130135]
 Una forma de vida mecánica que lleva el nombre de un dios que vino a supervisar el mundo a lo largo de muchos años.
 El fonógrafo que lleva en el brazo derecho emite ondas electromagnéticas que pueden inutilizar maquinaria.

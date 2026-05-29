@@ -1164,6 +1164,12 @@ An Icon depicting a giant mobile weapon designed to counter invaders.
 [IDS_ITEMDESC.ID1012058]
 An Icon depicting the ruling king of the Fabled Realm.
 He is the absolute deity who rules over the evil deities of war.
+[IDS_ITEMDESC.ID1012059]
+An Icon depicting a being that is both the pinnacle of <category id='177'/> evolution and the origin of its species.
+Some theorize that it is the planet itself, covered with ever-multiplying <category id='177'/> hordes.
+[IDS_ITEMDESC.ID1012060]
+An Icon depicting a high-ranking <category id='177'/> that boasts incredible power and commands an extensive army.
+A <category id='177'/> with a status only an elite few can hope to attain.
 [IDS_ITEMDESC.ID1012061]
 An Icon depicting a Cyber Dragon that captures victory by Fusion Summoning.
 It unleashes its ultimate attack, the Evolution Burst.
@@ -2753,6 +2759,12 @@ Protectors depicting a shack built on a vacant lot following financial ruin.
 For those who think the grass is greener on the other side.
 [IDS_ITEMDESC.ID1071038]
 Protectors depicting a "Courier" with over 100 identities. For those who traverse the world of night.
+[IDS_ITEMDESC.ID1071039]
+Protectors depicting the final stages of a <category id='177'/> invasion.
+For those commanding invaders of a nature yet unknown.
+[IDS_ITEMDESC.ID1071040]
+Protectors depicting familiars who failed to tame their magical beasts.
+For those more fierce than they appear.
 [IDS_ITEMDESC.ID1072001]
 A Protector with the design of "<card mrk='13670'/>" in her Destruction mode armor.
 For players who will claw their way to victory from the flames of the battlefield.
@@ -4204,6 +4216,9 @@ The spell misfires, sending them falling from the sky above into the giant plant
 [IDS_ITEMDESC.ID1130129]
 A minion of <card mrk='21936'/> that deceives its targets by mimicking a human appearance.
 It brainwashes and abducts them to use as sacrifices.
+[IDS_ITEMDESC.ID1130130]
+"<card mrk='22142'/>", one of the gods of the spirit realm.
+A cunning deity manipulating the great fairy that sleeps within the flower bud as it plots its return to this world.
 [IDS_ITEMDESC.ID1130135]
 A machine life form bearing the name of a god that came to oversee the world over the course of many long years.
 From the phonograph on its right arm, it emits electromagnetic waves that can disable machinery.

@@ -732,6 +732,10 @@ Dragonete-de-Leão de Naturia
 Marechal de Campo, Aliado da Justiça
 [IDS_ITEM.ID1012058]
 Leviatã Mitológico
+[IDS_ITEM.ID1012059]
+Lombriga Zero
+[IDS_ITEM.ID1012060]
+Rei Lombriga
 [IDS_ITEM.ID1012061]
 Dragão Cibernético
 [IDS_ITEM.ID1012062]
@@ -1802,6 +1806,10 @@ Poseidra, o Dragão Atlante
 Esse Jardim Parece Mais Verde 
 [IDS_ITEM.ID1071038]
 I:P Mascarena
+[IDS_ITEM.ID1071039]
+Lombriga Zero
+[IDS_ITEM.ID1071040]
+Obediência Ensinada
 [IDS_ITEM.ID1072001]
 Conversão de Forças Celestes: Asas Flamejantes da Destruição
 [IDS_ITEM.ID1072002]
@@ -2774,6 +2782,8 @@ Elfnotas: Aristeia da Confiança
 Elfnotas: Bem-vindo ao Lar
 [IDS_ITEM.ID1130129]
 Isca de Hecamãos
+[IDS_ITEM.ID1130130]
+Junora, o Patrono do Poder da Afinação
 [IDS_ITEM.ID1130135]
 Górgona de Zilofthonia
 [IDS_ITEM.ID1132001]
