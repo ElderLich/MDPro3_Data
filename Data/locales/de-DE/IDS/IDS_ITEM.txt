@@ -196,6 +196,8 @@ Himmelsjäger-Ass - Raye
 Unterweltlerschmied Graveur
 [IDS_ITEM.ID1003005]
 I:P Maskerena und S-Kraft Rappa Chiyomaru
+[IDS_ITEM.ID1003006]
+Gefallener von Albaz
 [IDS_ITEM.ID1005001]
 Rettungskaninchen
 [IDS_ITEM.ID1010001]
@@ -401,7 +403,7 @@ Schweigsamer Magier LV8
 [IDS_ITEM.ID1010101]
 P.U.N.K. JAM-FIEBER!
 [IDS_ITEM.ID1010102]
-Die Gefallenen & die Tugendhaften
+Der Gefallene und die Tugendhafte
 [IDS_ITEM.ID1010103]
 Roter Supernova-Drache
 [IDS_ITEM.ID1010104]
@@ -480,6 +482,12 @@ Dracheneinheit Quirinus
 Exoschwester Mikailis
 [IDS_ITEM.ID1010145]
 Kunstmagus Non-Finito
+[IDS_ITEM.ID1010146]
+Nummer C101: Lautlose Ehre DARK
+[IDS_ITEM.ID1010147]
+Gefallener des weißen Drachen
+[IDS_ITEM.ID1010148]
+Sta-Brigade Springans Kitt
 [IDS_ITEM.ID1011001]
 Fußball
 [IDS_ITEM.ID1011002]
@@ -616,6 +624,12 @@ DC 2026 MAR Gold-Finalist
 DC 2026 MAR Silber-Finalist
 [IDS_ITEM.ID1011068]
 DC 2026 MAR Bronze-Finalist
+[IDS_ITEM.ID1011069]
+WCS 2026 Qualifier: Gold-Finalist
+[IDS_ITEM.ID1011070]
+WCS 2026 Qualifier: Silber-Finalist
+[IDS_ITEM.ID1011071]
+WCS 2026 Qualifier: Bronze-Finalist
 [IDS_ITEM.ID1012001]
 X-Krawler Synaphysis
 [IDS_ITEM.ID1012002]
@@ -798,8 +812,12 @@ Duellant Weiß & Blau
 eFootball™
 [IDS_ITEM.ID1013011]
 Selene, Königin der Meistermagier
+[IDS_ITEM.ID1013012]
+Rettungsigel
 [IDS_ITEM.ID1013013]
 Aleister der Beschwörer
+[IDS_ITEM.ID1013015]
+Wumpus
 [IDS_ITEM.ID1020001]
 Anfänger
 [IDS_ITEM.ID1020002]
@@ -1218,6 +1236,18 @@ Top 1000 im DC 2026 MAR
 Top 10000 im DC 2026 MAR
 [IDS_ITEM.ID1020209]
 Duellant des DC 2026 MAR 2nd Stage
+[IDS_ITEM.ID1020210]
+WCS 2026 Qualifier: Top 10
+[IDS_ITEM.ID1020211]
+WCS 2026 Qualifier: Top 100
+[IDS_ITEM.ID1020212]
+WCS 2026 Qualifier: Top 500
+[IDS_ITEM.ID1020213]
+WCS 2026 Qualifier: Top 1000
+[IDS_ITEM.ID1020214]
+WCS 2026 Qualifier: Top 10000
+[IDS_ITEM.ID1020215]
+WCS 2026 Qualifier DLv. MAX
 [IDS_ITEM.ID1020216]
 Blitzsturm
 [IDS_ITEM.ID1020217]
@@ -1314,6 +1344,8 @@ Fusion des Edelstein-Ritters
 Blau-Weiß-Rahmen
 [IDS_ITEM.ID1030041]
 Rot-Weiß-Rahmen
+[IDS_ITEM.ID1030042]
+Mimighul Blume
 [IDS_ITEM.ID1030043]
 Gelb-schwarzer Rahmen
 [IDS_ITEM.ID1031001]
@@ -1364,6 +1396,8 @@ Maskenwechsel II
 Schwarzer Rosengarten
 [IDS_ITEM.ID1031024]
 Elfnote
+[IDS_ITEM.ID1031025]
+Albion der ummantelte Drache
 [IDS_ITEM.ID1032001]
 Festliches Ornament
 [IDS_ITEM.ID1032002]
@@ -1384,6 +1418,8 @@ Ahornmädchen
 Rikka
 [IDS_ITEM.ID1032010]
 Schwimmreifen
+[IDS_ITEM.ID1032011]
+Regnerisches Witterungsgemälde
 [IDS_ITEM.ID1033001]
 Geschenk zur WCS 2023
 [IDS_ITEM.ID1033002]
@@ -1623,7 +1659,7 @@ Finstere Überlegenheit
 [IDS_ITEM.ID1070114]
 Doppel-Joker
 [IDS_ITEM.ID1070115]
-Die Gefallenen & die Tugendhaften
+Der Gefallene und die Tugendhafte
 [IDS_ITEM.ID1070116]
 Materiaktor Exagard
 [IDS_ITEM.ID1070117]
@@ -1728,6 +1764,10 @@ Dracheneinheit-Ritter - Areus
 Exoschwester Karmael
 [IDS_ITEM.ID1070171]
 Hekahände Jauzah
+[IDS_ITEM.ID1070172]
+Kaiser der Erzunterweltler
+[IDS_ITEM.ID1070173]
+Matriarchin der Erzunterweltler
 [IDS_ITEM.ID1070178]
 Mokomoko
 [IDS_ITEM.ID1071001]
@@ -1826,6 +1866,10 @@ Der Orcust-Mekk-Ritter & Automat
 Maliss ＜Q＞
 [IDS_ITEM.ID1072008]
 Lecker
+[IDS_ITEM.ID1072009]
+Albaz der Verschleierte & Ecclesia die Verbannte
+[IDS_ITEM.ID1072010]
+Enneawerk
 [IDS_ITEM.ID1073001]
 Geschenk zur WCS 2023
 [IDS_ITEM.ID1073002]
@@ -1864,6 +1908,8 @@ Feier des DC 2025 SEP
 Feier des DC 2025 DEC
 [IDS_ITEM.ID1073019]
 Feier des DC 2026 MAR
+[IDS_ITEM.ID1073020]
+Feier der WCS 2026 Qualifier
 [IDS_ITEM.ID1075001]
 Yu-Gi-Oh! CARD GAME THE CHRONICLES
 [IDS_ITEM.ID1075002]
@@ -1875,9 +1921,9 @@ eFootball™
 [IDS_ITEM.ID1075005]
 Neymar
 [IDS_ITEM.ID1075006]
-THE CHRONICLES: Die Gefallenen & die Tugendhaften
+THE CHRONICLES: Der Gefallene und die Tugendhafte
 [IDS_ITEM.ID1075007]
-THE CHRONICLES: Die Gefallenen & die Tugendhaften2
+THE CHRONICLES: Der Gefallene und die Tugendhafte2
 [IDS_ITEM.ID1075008]
 THE CHRONICLES: Geisterverzaubererinnen
 [IDS_ITEM.ID1075009]
@@ -1946,6 +1992,8 @@ Plünderer-Wiedervereinigung
 Dunkler Magischer Knall
 [IDS_ITEM.ID1080032]
 Riesenfunke
+[IDS_ITEM.ID1080033]
+Zorn des Tiefblauen
 [IDS_ITEM.ID1082001]
 Xyz schwarz
 [IDS_ITEM.ID1082002]
@@ -2238,6 +2286,8 @@ Schwimmreifen
 Halloween-Geist
 [IDS_ITEM.ID1101041]
 Kranz
+[IDS_ITEM.ID1101045]
+WACH AUF!
 [IDS_ITEM.ID1102001]
 Kolosseum
 [IDS_ITEM.ID1102002]
@@ -2369,7 +2419,7 @@ Grüner Stein der Magie
 [IDS_ITEM.ID1111022]
 Sommerspuren des Donnergottes
 [IDS_ITEM.ID1111023]
-coming soon
+Vehicroid-Ankopplungszone
 [IDS_ITEM.ID1111024]
 Begrenzer-Entferner
 [IDS_ITEM.ID1111025]
@@ -2533,7 +2583,7 @@ Dunkler Magischer Knall
 [IDS_ITEM.ID1120032]
 Riesenfunke
 [IDS_ITEM.ID1120033]
-coming soon
+Zorn des Tiefblauen
 [IDS_ITEM.ID1120034]
 coming soon
 [IDS_ITEM.ID1120035]
@@ -2687,7 +2737,7 @@ Argostars
 [IDS_ITEM.ID1130074]
 Feuerstürme über Atlantis
 [IDS_ITEM.ID1130075]
-Die Gefallenen & die Tugendhaften
+Der Gefallene und die Tugendhafte
 [IDS_ITEM.ID1130076]
 Maliss im Untergrund
 [IDS_ITEM.ID1130077]
@@ -2780,10 +2830,16 @@ I:P Maskerena und S:P Kleine Ritterin
 Elfnoten: Aristie des Vertrauens
 [IDS_ITEM.ID1130126]
 Elfnoten: Willkommen daheim
+[IDS_ITEM.ID1130127]
+Die tugendhaften Jungfrauen
 [IDS_ITEM.ID1130129]
 Hekahände-Köder
 [IDS_ITEM.ID1130130]
 Junora der Machtpatron der Abstimmung
+[IDS_ITEM.ID1130131]
+Stoß der drei Taktiken
+[IDS_ITEM.ID1130132]
+Fusionsentsendung
 [IDS_ITEM.ID1130135]
 Gorgon von Zilofthonia
 [IDS_ITEM.ID1132001]
@@ -2794,6 +2850,8 @@ Neymar
 Schon 10!
 [IDS_ITEM.ID1132004]
 Endymion, der mächtige Meister der Magie
+[IDS_ITEM.ID1132005]
+Nötige Notfallrettungsrunde
 [IDS_ITEM.ID1140001]
 Legacy-Pack-Ticket
 [IDS_ITEM.ID1141001]
@@ -2834,6 +2892,8 @@ Kewl-Empfang
 Exoschwester
 [IDS_ITEM.ID1170013]
 Dracheneinheit
+[IDS_ITEM.ID1170014]
+Der Gefallene und die Tugendhafte
 [IDS_ITEM.ID1180001]
 Blauäugiger alternativer weißer Drache
 [IDS_ITEM.ID1180002]
@@ -2879,7 +2939,7 @@ Dracheneinheit
 [IDS_ITEM.ID1180022]
 Exoschwester
 [IDS_ITEM.ID1180023]
-coming soon
+Gefallener von Albaz
 [IDS_ITEM.ID1180024]
 coming soon
 [IDS_ITEM.ID1190001]

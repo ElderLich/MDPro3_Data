@@ -196,6 +196,8 @@ Sky Striker Ace - Raye
 Fiendsmith Engraver
 [IDS_ITEM.ID1003005]
 I:P Masquerena & S-Force Rappa Chiyomaru
+[IDS_ITEM.ID1003006]
+Fallen of Albaz
 [IDS_ITEM.ID1005001]
 Rescue Rabbit
 [IDS_ITEM.ID1010001]
@@ -480,6 +482,12 @@ Dragunity Quirinus
 Exosister Mikailis
 [IDS_ITEM.ID1010145]
 Artmage Non-Finito
+[IDS_ITEM.ID1010146]
+Number C101: Silent Honor DARK
+[IDS_ITEM.ID1010147]
+Fallen of the White Dragon
+[IDS_ITEM.ID1010148]
+Tri-Brigade Springans Kitt
 [IDS_ITEM.ID1011001]
 Soccer Ball
 [IDS_ITEM.ID1011002]
@@ -616,6 +624,12 @@ DC 2026 MAR Gold Finalist
 DC 2026 MAR Silver Finalist
 [IDS_ITEM.ID1011068]
 DC 2026 MAR Bronze Finalist
+[IDS_ITEM.ID1011069]
+WCS 2026 Qualifiers Gold Finalist
+[IDS_ITEM.ID1011070]
+WCS 2026 Qualifiers Silver Finalist
+[IDS_ITEM.ID1011071]
+WCS 2026 Qualifiers Bronze Finalist
 [IDS_ITEM.ID1012001]
 X-Krawler Synaphysis
 [IDS_ITEM.ID1012002]
@@ -798,8 +812,12 @@ Duelist White & Blue
 eFootball™
 [IDS_ITEM.ID1013011]
 Selene, Queen of the Master Magicians
+[IDS_ITEM.ID1013012]
+Rescue Hedgehog
 [IDS_ITEM.ID1013013]
 Aleister the Invoker
+[IDS_ITEM.ID1013015]
+Wumpus
 [IDS_ITEM.ID1020001]
 Beginner Duelist
 [IDS_ITEM.ID1020002]
@@ -1218,6 +1236,18 @@ DC 2026 MAR Top 1000
 DC 2026 MAR Top 10000
 [IDS_ITEM.ID1020209]
 DC 2026 MAR 2nd Stage Duelist
+[IDS_ITEM.ID1020210]
+WCS 2026 Qualifiers Top 10
+[IDS_ITEM.ID1020211]
+WCS 2026 Qualifiers Top 100
+[IDS_ITEM.ID1020212]
+WCS 2026 Qualifiers Top 500
+[IDS_ITEM.ID1020213]
+WCS 2026 Qualifiers Top 1000
+[IDS_ITEM.ID1020214]
+WCS 2026 Qualifiers Top 10000
+[IDS_ITEM.ID1020215]
+WCS 2026 Qualifiers DLv. MAX
 [IDS_ITEM.ID1020216]
 Lightning Storm
 [IDS_ITEM.ID1020217]
@@ -1314,6 +1344,8 @@ Gem-Knight Fusion
 Blue & White Frame
 [IDS_ITEM.ID1030041]
 Red & White Frame
+[IDS_ITEM.ID1030042]
+Mimighoul Flower
 [IDS_ITEM.ID1030043]
 Yellow & Black Frame
 [IDS_ITEM.ID1031001]
@@ -1364,6 +1396,8 @@ Mask Change II
 Black Rose Garden
 [IDS_ITEM.ID1031024]
 Elfnote
+[IDS_ITEM.ID1031025]
+Albion the Shrouded Dragon
 [IDS_ITEM.ID1032001]
 Festive Ornament
 [IDS_ITEM.ID1032002]
@@ -1384,6 +1418,8 @@ Maple Maiden
 Rikka
 [IDS_ITEM.ID1032010]
 Swimming Ring
+[IDS_ITEM.ID1032011]
+The Weather Rainy Canvas
 [IDS_ITEM.ID1033001]
 WCS 2023 Party Favor
 [IDS_ITEM.ID1033002]
@@ -1728,6 +1764,10 @@ Dragunity Knight - Areus
 Exosister Karmael
 [IDS_ITEM.ID1070171]
 Hecahands Jauzah
+[IDS_ITEM.ID1070172]
+Archfiend Emperor
+[IDS_ITEM.ID1070173]
+Archfiend Matriarch
 [IDS_ITEM.ID1070178]
 Mokomoko
 [IDS_ITEM.ID1071001]
@@ -1826,6 +1866,10 @@ The Orcust Mekk-Knight & Automaton
 Maliss ＜Q＞
 [IDS_ITEM.ID1072008]
 Yummy
+[IDS_ITEM.ID1072009]
+Albaz the Shrouded & Ecclesia the Exiled
+[IDS_ITEM.ID1072010]
+Enneacraft
 [IDS_ITEM.ID1073001]
 WCS 2023 Party Favor
 [IDS_ITEM.ID1073002]
@@ -1864,6 +1908,8 @@ DC 2025 SEP Celebration
 DC 2025 DEC Celebration
 [IDS_ITEM.ID1073019]
 DC 2026 MAR Celebration
+[IDS_ITEM.ID1073020]
+WCS 2026 Qualifiers Celebration
 [IDS_ITEM.ID1075001]
 Yu-Gi-Oh! CARD GAME THE CHRONICLES
 [IDS_ITEM.ID1075002]
@@ -1946,6 +1992,8 @@ Reunion of Raiders
 Dark Magical Blast
 [IDS_ITEM.ID1080032]
 Gigantic Sparkle
+[IDS_ITEM.ID1080033]
+Rage of Deep Blue
 [IDS_ITEM.ID1082001]
 Xyz Black
 [IDS_ITEM.ID1082002]
@@ -2238,6 +2286,8 @@ Swimming Ring
 Halloween Ghost
 [IDS_ITEM.ID1101041]
 Wreath
+[IDS_ITEM.ID1101045]
+ WAKE CUP!
 [IDS_ITEM.ID1102001]
 Colosseum
 [IDS_ITEM.ID1102002]
@@ -2369,7 +2419,7 @@ Green Stone of Magic
 [IDS_ITEM.ID1111022]
 Summer Trace of the Thunder God
 [IDS_ITEM.ID1111023]
-coming soon
+Vehicroid Connection Zone
 [IDS_ITEM.ID1111024]
 Limiter Removal
 [IDS_ITEM.ID1111025]
@@ -2533,7 +2583,7 @@ Dark Magical Blast
 [IDS_ITEM.ID1120032]
 Gigantic Sparkle
 [IDS_ITEM.ID1120033]
-coming soon
+Rage of Deep Blue
 [IDS_ITEM.ID1120034]
 coming soon
 [IDS_ITEM.ID1120035]
@@ -2780,10 +2830,16 @@ I:P Masquerena & S:P Little Knight
 Elfnotes: Aristeia of Trust
 [IDS_ITEM.ID1130126]
 Elfnotes: Welcome Home
+[IDS_ITEM.ID1130127]
+The Virtuous Vestals
 [IDS_ITEM.ID1130129]
 Hecahands Bait
 [IDS_ITEM.ID1130130]
 Junora the Power Patron of Tuning
+[IDS_ITEM.ID1130131]
+Triple Tactics Thrust
+[IDS_ITEM.ID1130132]
+Fusion Deployment
 [IDS_ITEM.ID1130135]
 Gorgon of Zilofthonia
 [IDS_ITEM.ID1132001]
@@ -2794,6 +2850,8 @@ Neymar
 That's 10!
 [IDS_ITEM.ID1132004]
 Endymion, the Mighty Master of Magic
+[IDS_ITEM.ID1132005]
+Emerging Emergency Rescute Rescue
 [IDS_ITEM.ID1140001]
 Legacy Pack ticket
 [IDS_ITEM.ID1140002]
@@ -2836,6 +2894,8 @@ Kewl Tune
 Exosister
 [IDS_ITEM.ID1170013]
 Dragunity
+[IDS_ITEM.ID1170014]
+The Fallen & The Virtuous
 [IDS_ITEM.ID1180001]
 Blue-Eyes Alternative White Dragon
 [IDS_ITEM.ID1180002]
@@ -2881,7 +2941,7 @@ Dragunity
 [IDS_ITEM.ID1180022]
 Exosister
 [IDS_ITEM.ID1180023]
-coming soon
+Fallen of Albaz
 [IDS_ITEM.ID1180024]
 coming soon
 [IDS_ITEM.ID1190001]

@@ -350,7 +350,8 @@ Vê-lo em combate intenso com "<card mrk='20225'/>" a postos é como ver um dem�
 Uma sombra se aproxima da mensageira que corre pela noite.
 Esta noite, a perseguição iluminada por neon recomeça.
 [IDS_ITEMDESC.ID1003006]
-coming soon
+Um garoto cujo poder de dragão desperta quando está em apuros.
+Será que seu nome remete a um passado enterrado na escuridão ou a um futuro brilhante?
 [IDS_ITEMDESC.ID1003007]
 coming soon
 [IDS_ITEMDESC.ID1003008]
@@ -786,6 +787,15 @@ Ela pode derrotar até os demônios mais poderosos.
 [IDS_ITEMDESC.ID1010145]
 Um Ícone que retrata uma garota que entrou em um contrato incompleto devido a circunstâncias imprevistas.
 Ela empunha apenas parte do poder da besta divina.
+[IDS_ITEMDESC.ID1010146]
+Um Ícone que retrata um lanceiro de obsidiana imune à decadência.
+O guardião de almas tomadas pela frustração se torna um cavaleiro sombrio que despedaça a luz.
+[IDS_ITEMDESC.ID1010147]
+Um Ícone que retrata uma cena da alma de <card mrk='18498'/>.
+Será uma lembrança do começo do fim ou a imagem da verdadeira chama desperta?
+[IDS_ITEMDESC.ID1010148]
+Um Ícone que retrata uma garota genial iluminada pelo relâmpago de uma donzela sagrada.
+Assim começou o desafio de geração de energia ultrafuturista.
 [IDS_ITEMDESC.ID1011001]
 Um ícone representando uma bola feita de painéis preto e branco.
 Vencer 3 Duelos seguidos não é considerado um triplete.
@@ -990,6 +1000,15 @@ Dado aos que alcançaram resultados consideráveis na Copa de Duelistas.
 [IDS_ITEMDESC.ID1011068]
 Um ícone com um logotipo "DC 2026 MAR" de bronze. 
 Dado aos que conquistaram inúmeras batalhas na Copa de Duelistas.
+[IDS_ITEMDESC.ID1011069]
+Um Ícone com um logotipo dourado das "Eliminatórias do WCS 2026".
+Um Ícone dado àqueles que se saíram muito bem na rodada de 2026 contra o mundo.
+[IDS_ITEMDESC.ID1011070]
+Um Ícone com um logotipo prateado das "Eliminatórias do WCS 2026".
+Um Ícone dado àqueles que atingiram resultados impressionantes na rodada de 2026 contra o mundo.
+[IDS_ITEMDESC.ID1011071]
+Um Ícone com um logotipo de bronze das "Eliminatórias do WCS 2026".
+Um Ícone dado àqueles que venceram diversas batalhas na rodada de 2026 contra o mundo.
 [IDS_ITEMDESC.ID1012001]
 Um ícone representando um “Krawler”, monstros que dominaram certo mundo. Este faz parte de uma classe mais alta.
 Eles destroem impiedosamente os esforços da civilização humana que duraram gerações.
@@ -1261,9 +1280,15 @@ Muita ação emocionante, trazida pelos que nunca param de desafiar a si mesmos.
 [IDS_ITEMDESC.ID1013011]
 Ícone que retrata a verdadeira forma de "<card mrk='14440'/>".
 Dizem que só "<card mrk='14439'/>" pode ver o rosto verdadeiro dela.
+[IDS_ITEMDESC.ID1013012]
+Um ícone representando um novo integrante do Pelotão de Resgate.
+Inspirado por um certo acontecimento, ele passou a admirar a equipe e decidiu integrar suas fileiras.
 [IDS_ITEMDESC.ID1013013]
 Um ícone com visual chave para "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Três magos que destravaram a porta para um outro reino. Eles passaram a ser conhecidos como os "Três Magos, os Magistus".
+[IDS_ITEMDESC.ID1013015]
+Um Ícone que retrata o colega virtual favorito de todo mundo.
+Erguem-se as cortinas da sua jornada para se tornar um Duelista lendário.
 [IDS_ITEMDESC.ID1020001]
 Um título dado a Duelistas que começaram sua jornada de Duelos em Yu-Gi-Oh! MASTER DUEL.
 Nunca é tarde para começar a Duelar.
@@ -1890,6 +1915,24 @@ Foi conquistado através de vitória após vitória contra ferozes competidores 
 [IDS_ITEMDESC.ID1020209]
 Um Título dado aos Duelistas que chegaram à 2ª Fase na DC 2026 MAR.
 Esta é uma prova de que conseguiu passar a altamente disputada 1ª Fase.
+[IDS_ITEMDESC.ID1020210]
+Um Título dado aos Duelistas que ficaram entre os 10 melhores nas "Eliminatórias do WCS 2026".
+Muitos testemunharam suas habilidades como um Duelista capaz de desafiar o mundo.
+[IDS_ITEMDESC.ID1020211]
+Um Título dado aos Duelistas que ficaram entre os 100 melhores nas "Eliminatórias do WCS 2026".
+Prova de um Duelista que demonstrou seu conhecimento de muitos Duelistas e o domínio de seus cards na batalha contra o mundo.
+[IDS_ITEMDESC.ID1020212]
+Um Título dado aos Duelistas que ficaram entre os 500 melhores nas "Eliminatórias do WCS 2026".
+Prova de um Duelista que aperfeiçoou suas habilidades e conquistou a vitória em muitas batalhas para desafiar o mundo.
+[IDS_ITEMDESC.ID1020213]
+Um Título dado aos Duelistas que ficaram entre os 1000 melhores nas "Eliminatórias do WCS 2026".
+Uma medalha de honra atribuída ao Duelista infalível que lutou de forma destemida entre os melhores Duelistas do mundo.
+[IDS_ITEMDESC.ID1020214]
+Um Título dado aos Duelistas que ficaram entre os 10000 melhores nas "Eliminatórias do WCS 2026".
+Para aqueles que venceram rivais formidáveis e contaram suas vitórias.
+[IDS_ITEMDESC.ID1020215]
+Um título dado a Duelistas que atingiram o NvD MÁXIMO nas "Eliminatórias do WCS 2026".
+Para aqueles que demonstraram sua habilidade como Duelista capaz de avançar para as Eliminatórias Regionais.
 [IDS_ITEMDESC.ID1020216]
 Um título concedido a Duelistas que obtiveram resultados no "Duelo de Teste".
 Um Duelista fica mais forte ao se adaptar a novos ambientes e continuar encarando grandes desafios.
@@ -2027,6 +2070,9 @@ A neve branca cai do céu azul e límpido, refletindo a harmonia da luz.
 [IDS_ITEMDESC.ID1030041]
 Moldura de Ícone vermelha e branca que deixa margem para inúmeras interpretações.
 Características dinâmicas, como vitalidade e paixão, harmonizam com as mais sutis, como lamento e espiritualidade.
+[IDS_ITEMDESC.ID1030042]
+Uma Moldura de Ícone que lembra uma armadilha geradora de monstros em ruínas antigas.
+Inúmeras armadilhas aguardam aventureiros cegos pelo fascínio com o ouro e tesouros.
 [IDS_ITEMDESC.ID1030043]
 Uma Moldura de Ícone amarela e preta cujo forte contraste evoca perigo.
 Na natureza, essas cores servem como um sinal de alerta que afasta predadores.
@@ -2102,6 +2148,9 @@ Espinhos vis desabrocham freneticamente sob a lua minguante.
 [IDS_ITEMDESC.ID1031024]
 Uma Moldura de Ícone que evoca um coro da floresta entoando canções sagradas.
 Ela é imbuída do poder mágico de fadas escolhidas pelas árvores.
+[IDS_ITEMDESC.ID1031025]
+Uma Moldura de Ícone que lembra um dragão cuja fúria havia sido contida.
+O garoto recuperou os sentidos graças à confiança daqueles ao seu redor.
 [IDS_ITEMDESC.ID1032001]
 Uma Moldura de Ícone em forma de decoração circular que pode ser vista em uma certa região conforme o ano chega ao fim.
 São penduradas com o desejo sincero de felicidade e alegria nos tempos vindouros.
@@ -2132,6 +2181,9 @@ A maneira como ela eventualmente derrete e desaparece a torna ainda mais bonita.
 [IDS_ITEMDESC.ID1032010]
 Uma Moldura de Ícone no formato de um anel de natação circular.
 Flutue ao lado de elegantes criaturas do mar e tenha um verão inesquecível.
+[IDS_ITEMDESC.ID1032011]
+Uma Moldura de Ícone que lembra a cena de uma garoa caindo.
+Talvez fadas coloridas tenham subido aos céus para conceder o dom da água ao mundo abaixo.
 [IDS_ITEMDESC.ID1033001]
 Uma moldura de ícone concedido aos participantes do evento MASTER DUEL do Yu-Gi-Oh! World Championship 2023.
 A próxima fase espera por você!
@@ -2644,6 +2696,12 @@ Para aqueles que são realmente insondáveis.
 [IDS_ITEMDESC.ID1070171]
 Protetores que retratam a forma de algo sobrenatural e de outro mundo.
 Para aqueles que se veem em seu território de caça.
+[IDS_ITEMDESC.ID1070172]
+Protetores que retratam <card mrk='22120'/>, que reivindicou o trono imperial.
+Para aqueles que desejam tomar o trono.
+[IDS_ITEMDESC.ID1070173]
+Protetores que retratam <card mrk='22122'/>, que reivindicou o trono imperial.
+Para aqueles que desejam tomar o trono.
 [IDS_ITEMDESC.ID1070178]
 Protetores com um monstro Ilusão de pelagem espessa e volumosa.
 Para os amantes de tudo que é fofinho.
@@ -2791,6 +2849,12 @@ Para aqueles que se aventuram por terras inexploradas.
 [IDS_ITEMDESC.ID1072008]
 Protetores que retratam "<card mrk='21371'/>" fazendo uma captura.
 Para quem deseja algo saboroso.
+[IDS_ITEMDESC.ID1072009]
+Protetores que retratam certa dupla à mercê de um destino caprichoso.
+Para aqueles que embarcaram em uma longa jornada e criaram muitas lembranças.
+[IDS_ITEMDESC.ID1072010]
+Protetores que retratam <category id='170'/>, que julga aqueles que espalham medo sem motivo.
+Para aqueles que analisam os pecados dos outros.
 [IDS_ITEMDESC.ID1073001]
 Protetores com o logotipo do Yu-Gi-Oh! World Championship 2023: MASTER DUEL.
 Para aqueles que almejam se tornar o melhor do mundo.
@@ -2848,6 +2912,9 @@ Para aqueles que participaram da Copa de Duelistas e tornaram o evento um sucess
 [IDS_ITEMDESC.ID1073019]
 Um Protetor com um logotipo "DC 2026 MAR". 
 Para aqueles que participaram da Copa de Duelistas e tornaram o evento um sucesso.
+[IDS_ITEMDESC.ID1073020]
+Um protetor com o logotipo das "Eliminatórias do WCS 2026".
+Para aqueles que participaram da divisão MASTER DUEL e fizeram do evento um sucesso.
 [IDS_ITEMDESC.ID1075001]
 Protetores representando uma cena de "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Os Duelistas no local soltaram um grande grito de alegria para marcar esse evento prestigioso.
@@ -2969,6 +3036,9 @@ Perfeito para Decks focados em magia de destruição.
 [IDS_ITEMDESC.ID1080032]
 Um Porta-cards retratando "<card mrk='17449'/>".
 Perfeito para Decks carregados de energia imortal.
+[IDS_ITEMDESC.ID1080033]
+Um Porta-cards mostrando "<card mrk='20517'/>".
+Renascido, o behemoth com presas das profundezas busca apagar todas as luzes!
 [IDS_ITEMDESC.ID1082001]
 Uma caixa de deck com um design inspirado na grande expansão galáctica a partir da qual aparecem os Monstros Xyz. 
 Uma combinação muito legal para Decks que giram em torno de Invocação-Xyz!
@@ -3430,7 +3500,8 @@ coming soon
 [IDS_ITEMDESC.ID1101044]
 coming soon
 [IDS_ITEMDESC.ID1101045]
-coming soon
+Componentes de Campo inspirados em espíritos que habitam bebidas matinais.
+Um chá pela manhã deixa todos revigorados.
 [IDS_ITEMDESC.ID1102001]
 Componentes de campo para um Coliseu.
 Um destino que termina aqui não é digno de luto. Orgulhe-se de todos aqueles que lutarem aqui e puderem se oferecer para uma batalha valorosa.
@@ -3649,6 +3720,9 @@ Criada recentemente e imbuída de magia fresca, a pedra irradia luz e será uma 
 [IDS_ITEMDESC.ID1111022]
 Um Pedestal posicionado junto aos pertences esquecidos do deus do Trovão, que usufruía de suas duradouras férias de verão.
 Óculos de sol e snorkels podem ser esquecidos, mas e as nuvens de chuva?
+[IDS_ITEMDESC.ID1111023]
+Um Pedestal na forma de uma plataforma giratória, usado por diversos veículos.
+Um mecanismo delicado é necessário para mudar com segurança a direção da viagem.
 [IDS_ITEMDESC.ID1111024]
 Um pedestal inspirado no desenho nostálgico de um velocímetro.
 Embora seja tecnicamente possível, essa velocidade testará os limites da sua máquina.
@@ -3845,7 +3919,8 @@ Este deck adota uma abordagem técnica nas batalhas, utilizando "<card mrk='4041
 [IDS_ITEMDESC.ID1120032]
 Um Deck "<category id='40'/>" baseado em posicionar monstros de Nível/Classe/Link 2 que lutam em perfeita sincronia. Comece preparando monstros de Nível 2 no campo e, em seguida, combine monstros como "<card mrk='17405'/>" e "<card mrk='17406'/>" para usar na batalha. Use cards como "<card mrk='17449'/>", que permitem Invocar monstros diretamente do Deck, e em seguida prepare "<card mrk='17408'/>" e "<card mrk='17409'/>" para criar uma formação capaz de se adaptar aos efeitos do oponente. Quando chegar sua vez de atacar, utilize "<card mrk='17458'/>" para aumentar seu ATK e garantir a vitória!
 [IDS_ITEMDESC.ID1120033]
-coming soon
+Este Deck "<category id='011'/>" duela invocando por Invocação-Xyz uma sequência de Monstros Xyz de ÁGUA.
+Primeiro, use os efeitos de "<card mrk='15005'/>" e de outros Cards para encher o seu campo de monstros e depois use-os como matérias para uma Invocação-Xyz. Um Monstro Xyz recomendado é "<card mrk='10332'/>". Se você Invocar "<card mrk='20518'/>" por Invocação-Especial com o próprio efeito, poderá preparar "<card mrk='20544'/>" para o turno do oponente e ainda montar jogadas para Monstros Xyz relacionados a "<card mrk='19036'/>". Seu ás, "<card mrk='20517'/>", é um monstro poderoso que tanto pode neutralizar um monstro do oponente quanto atacar duas vezes no mesmo turno. Se "<card mrk='21410'/>" estiver acoplado a ele como Matéria Xyz, ele também poderá atrapalhar Cards de Magia/Armadilha, então, se você conseguir invocá-lo por Invocação-Xyz, estará muito mais perto da vitória!
 [IDS_ITEMDESC.ID1120034]
 coming soon
 [IDS_ITEMDESC.ID1120035]
@@ -4214,12 +4289,21 @@ Com esse ritual, o botão floral gigante no qual o ser desconhecido dorme começ
 [IDS_ITEMDESC.ID1130126]
 A magia de teletransporte permite escapar por pouco da autodestruição causada por "<card mrk='21811'/>".
 O feitiço, no entanto, falha, e todos despencam do céu para os braços da planta gigante.
+[IDS_ITEMDESC.ID1130127]
+Uma vida que exige a pureza e a força de uma santa.
+O laço de confiança que formaram fez com que fossem como irmãs.
 [IDS_ITEMDESC.ID1130129]
 Um servo de <card mrk='21936'/> que engana seus alvos ao imitar uma aparência humana.
 Ele faz lavagem cerebral neles e os sequestra para usá-los como sacrifícios.
 [IDS_ITEMDESC.ID1130130]
 "<card mrk='22142'/>", uma das divindades do reino espiritual.
 Uma deidade astuta manipulando a grande fada adormecida dentro do botão de flor enquanto arquiteta seu retorno a este mundo.
+[IDS_ITEMDESC.ID1130131]
+<category id='126'/>, formado por aqueles que um dia foram expulsos de tribos.
+Invasores, ouçam o Rugido da Tri-Brigada!
+[IDS_ITEMDESC.ID1130132]
+Seus olhos vazios não se parecem nem um pouco com os de uma jovem garota.
+Imaculada, ela ainda assim é a encarnação do caos, filha do amor e do desespero.
 [IDS_ITEMDESC.ID1130135]
 Uma forma de vida mecânica que carrega o nome de um deus que passou a supervisionar o mundo ao longo de muitos e longos anos.
 Do fonógrafo em seu braço direito, ela emite ondas eletromagnéticas capazes de desativar máquinas.
@@ -4235,6 +4319,9 @@ Ela se retira alegremente para os fóruns enquanto o décimo visitante chega.
 [IDS_ITEMDESC.ID1132004]
 Rei que governa uma cidadela mágica.
 Ele faz milagres ao canalizar a energia contida nas pedras mágicas que carrega no corpo.
+[IDS_ITEMDESC.ID1132005]
+Uma equipe de resgate em missão.
+Com um excelente trabalho em equipe, eles salvam a vida de pequenos animais em perigo.
 [IDS_ITEMDESC.ID1140001]
 Um bilhete que permite a compra de um Pacote do Legado.
 Qual será o seu legado?
@@ -4292,6 +4379,9 @@ Dizem que, ao colecionar Cards <category id='059'/>, as portas do vínculo entre
 [IDS_ITEMDESC.ID1170013]
 Um Acervo de Colecionador com um clã imbuído com almas de dragão.
 Dizem que, ao colecionar Cards <category id='169'/>, as portas do dragão lendário passam a brilhar.
+[IDS_ITEMDESC.ID1170014]
+Um Acervo de Colecionador sobre a história de um garoto e uma garota à mercê de um destino caprichoso.
+Dizem que, ao reunir <category id='031'/>, a porta para novos encontros e jornadas brilhará.
 [IDS_ITEMDESC.ID1180001]
 Uma Moeda gravada com o dragão luminoso que dá início a uma nova lenda.
 Seus olhos cerúleos brilham.
@@ -4356,7 +4446,8 @@ A arte secreta que protege o vale brilha intensamente.
 Uma Moeda cujo motivo é a <category id='059'/> que afasta o mal.
 Os armamentos sagrados abençoados pela graça divina brilham intensamente.
 [IDS_ITEMDESC.ID1180023]
-coming soon
+Moeda cujo emblema é um garoto dragão de outra dimensão.
+Sua determinação para desafiar o próprio destino brilha intensamente.
 [IDS_ITEMDESC.ID1180024]
 coming soon
 [IDS_ITEMDESC.ID1190001]

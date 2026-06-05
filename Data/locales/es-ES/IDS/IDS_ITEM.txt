@@ -196,6 +196,8 @@ Caza del Cielo As - Raye
 Demoniherrero Grabador
 [IDS_ITEM.ID1003005]
 I:P Enmascarada y Fuerza-S Rappa Chiyomaru
+[IDS_ITEM.ID1003006]
+Caído de Albaz
 [IDS_ITEM.ID1005001]
 Conejo Rescatador
 [IDS_ITEM.ID1010001]
@@ -401,7 +403,7 @@ Mago Silencioso LV8
 [IDS_ITEM.ID1010101]
 ¡FIEBRE de P.U.N.K. JAM!
 [IDS_ITEM.ID1010102]
-Los Caídos y los Virtuosos
+El Caído y La Virtuosa
 [IDS_ITEM.ID1010103]
 Dragón Supernova Rojo
 [IDS_ITEM.ID1010104]
@@ -480,6 +482,12 @@ Dracounidad Quirinus
 Exormana Mikailis
 [IDS_ITEM.ID1010145]
 Artmagia Non-Finito
+[IDS_ITEM.ID1010146]
+Número C101: Honor Silencioso OSCURO
+[IDS_ITEM.ID1010147]
+Caído del Dragón Blanco
+[IDS_ITEM.ID1010148]
+Tri-Brigada Springans Kitt
 [IDS_ITEM.ID1011001]
 Balón de fútbol
 [IDS_ITEM.ID1011002]
@@ -616,6 +624,12 @@ Finalista de oro de la DC 2026 MAR
 Finalista plata de la DC 2026 MAR
 [IDS_ITEM.ID1011068]
 Finalista de bronce de la DC 2026 MAR
+[IDS_ITEM.ID1011069]
+Finalista de oro de las eliminatorias del WCS 2026
+[IDS_ITEM.ID1011070]
+Finalista de plata de las eliminatorias del WCS 2026
+[IDS_ITEM.ID1011071]
+Finalista de bronce de las eliminatorias del WCS 2026
 [IDS_ITEM.ID1012001]
 X-Krawler Sinafisis
 [IDS_ITEM.ID1012002]
@@ -798,8 +812,12 @@ Duelista blanco y azul
 eFootball™
 [IDS_ITEM.ID1013011]
 Selene, Reina de los Magos Maestros
+[IDS_ITEM.ID1013012]
+Erizo Rescatador
 [IDS_ITEM.ID1013013]
 Aleister, el que Invoka
+[IDS_ITEM.ID1013015]
+Wumpus
 [IDS_ITEM.ID1020001]
 Duelista principiante
 [IDS_ITEM.ID1020002]
@@ -1218,6 +1236,18 @@ Top 1000 de la DC 2026 MAR
 Top 10000 de la DC 2026 MAR
 [IDS_ITEM.ID1020209]
 Duelista de la 2nd Stage de la DC 2026 MAR
+[IDS_ITEM.ID1020210]
+Top 10 de las eliminatorias del WCS 2026
+[IDS_ITEM.ID1020211]
+Top 100 de las eliminatorias del WCS 2026
+[IDS_ITEM.ID1020212]
+Top 500 de las eliminatorias del WCS 2026
+[IDS_ITEM.ID1020213]
+Top 1000 de las eliminatorias del WCS 2026
+[IDS_ITEM.ID1020214]
+Top 10000 de las eliminatorias del WCS 2026
+[IDS_ITEM.ID1020215]
+DLv. MÁX en las eliminatorias del WCS 2026
 [IDS_ITEM.ID1020216]
 Tormenta de Relámpagos
 [IDS_ITEM.ID1020217]
@@ -1314,6 +1344,8 @@ Fusión de Caballero-Gema
 Marco azul y blanco
 [IDS_ITEM.ID1030041]
 Marco rojo y blanco
+[IDS_ITEM.ID1030042]
+Flor Mimighoul
 [IDS_ITEM.ID1030043]
 Marco amarillo y negro
 [IDS_ITEM.ID1031001]
@@ -1364,6 +1396,8 @@ Cambio de Máscara II
 Jardín de la Rosa Negra
 [IDS_ITEM.ID1031024]
 Elfnota
+[IDS_ITEM.ID1031025]
+Albion el Dragón Velado
 [IDS_ITEM.ID1032001]
 Ornamento Festivo
 [IDS_ITEM.ID1032002]
@@ -1384,6 +1418,8 @@ Doncella del Arce
 Rikka
 [IDS_ITEM.ID1032010]
 Flotador
+[IDS_ITEM.ID1032011]
+Lienzo Meteorológico Lluvioso
 [IDS_ITEM.ID1033001]
 Recuerdo del WCS 2023
 [IDS_ITEM.ID1033002]
@@ -1623,7 +1659,7 @@ Supremacía Oscura
 [IDS_ITEM.ID1070114]
 Doble Comodín
 [IDS_ITEM.ID1070115]
-Los Caídos y los Virtuosos
+El Caído y La Virtuosa
 [IDS_ITEM.ID1070116]
 Materiactor Exagard
 [IDS_ITEM.ID1070117]
@@ -1728,6 +1764,10 @@ Caballero Dracounidad - Areus
 Exormana Karmael
 [IDS_ITEM.ID1070171]
 Hecamanos Jauzah
+[IDS_ITEM.ID1070172]
+Emperador Archidemonio
+[IDS_ITEM.ID1070173]
+Matriarca Archidemonio
 [IDS_ITEM.ID1070178]
 Mukumuku
 [IDS_ITEM.ID1071001]
@@ -1826,6 +1866,10 @@ El Mekk-Caballero Orcust y la Autómata
 Maliss ＜Q＞
 [IDS_ITEM.ID1072008]
 Yummy
+[IDS_ITEM.ID1072009]
+Albaz el Velado y Ecclesia la Exiliada
+[IDS_ITEM.ID1072010]
+Eneagranave
 [IDS_ITEM.ID1073001]
 Recuerdo del WCS 2023
 [IDS_ITEM.ID1073002]
@@ -1864,6 +1908,8 @@ Celebración de la DC 2025 SEP
 Celebración de la DC 2025 DEC
 [IDS_ITEM.ID1073019]
 Celebración de la DC 2026 MAR
+[IDS_ITEM.ID1073020]
+Celebración de las eliminatorias del WCS 2026
 [IDS_ITEM.ID1075001]
 Yu-Gi-Oh! CARD GAME THE CHRONICLES
 [IDS_ITEM.ID1075002]
@@ -1875,9 +1921,9 @@ eFootball™
 [IDS_ITEM.ID1075005]
 Neymar
 [IDS_ITEM.ID1075006]
-THE CHRONICLES: Los Caídos y los Virtuosos
+THE CHRONICLES: El Caído y La Virtuosa
 [IDS_ITEM.ID1075007]
-THE CHRONICLES: Los Caídos y los Virtuosos2
+THE CHRONICLES: El Caído y La Virtuosa2
 [IDS_ITEM.ID1075008]
 THE CHRONICLES: Encantadoras de Espíritus
 [IDS_ITEM.ID1075009]
@@ -1946,6 +1992,8 @@ Reunión de Predadores
 Estallido Mágico Oscuro
 [IDS_ITEM.ID1080032]
 Chispa Gigante
+[IDS_ITEM.ID1080033]
+Furia de Azul Intenso
 [IDS_ITEM.ID1082001]
 Negro Xyz
 [IDS_ITEM.ID1082002]
@@ -2238,6 +2286,8 @@ Flotador
 Fantasma de Halloween
 [IDS_ITEM.ID1101041]
 Guirnalda
+[IDS_ITEM.ID1101045]
+¡DESPIERCAFÉ!
 [IDS_ITEM.ID1102001]
 Coliseo
 [IDS_ITEM.ID1102002]
@@ -2369,7 +2419,7 @@ Piedra Verde de Magia
 [IDS_ITEM.ID1111022]
 Rastro Veraniego del Dios del Trueno
 [IDS_ITEM.ID1111023]
-coming soon
+Zona de Conexión Vehicroid
 [IDS_ITEM.ID1111024]
 Quitar el Limitador
 [IDS_ITEM.ID1111025]
@@ -2533,7 +2583,7 @@ Estallido Mágico Oscuro
 [IDS_ITEM.ID1120032]
 Chispa Gigante
 [IDS_ITEM.ID1120033]
-coming soon
+Furia de Azul Intenso
 [IDS_ITEM.ID1120034]
 coming soon
 [IDS_ITEM.ID1120035]
@@ -2687,7 +2737,7 @@ Argostars
 [IDS_ITEM.ID1130074]
 Tormentas de Fuego Sobre Atlántida
 [IDS_ITEM.ID1130075]
-Los Caídos y los Virtuosos
+El Caído y La Virtuosa
 [IDS_ITEM.ID1130076]
 Maliss Subterránea
 [IDS_ITEM.ID1130077]
@@ -2780,10 +2830,16 @@ I:P Enmascarada y S:P Pequeña Caballera
 Elfnotas: Aristía de la Verdad
 [IDS_ITEM.ID1130126]
 Elfnotas: Bienvenidos a Casa
+[IDS_ITEM.ID1130127]
+Las Vestales Virtuosas
 [IDS_ITEM.ID1130129]
 Cebo Hecamanos
 [IDS_ITEM.ID1130130]
 Junora el Modelo de Poder de Afinación
+[IDS_ITEM.ID1130131]
+Impulso de Tácticas Triples
+[IDS_ITEM.ID1130132]
+Despliegue de Fusión
 [IDS_ITEM.ID1130135]
 Gorgon de Zilofthonia
 [IDS_ITEM.ID1132001]
@@ -2794,6 +2850,8 @@ Neymar
 ¡Son 10!
 [IDS_ITEM.ID1132004]
 Endimión, el Poderoso Maestro de Magia
+[IDS_ITEM.ID1132005]
+Socorro Hermoso de Emergencia Emergente
 [IDS_ITEM.ID1140001]
 Tique de sobre de legados
 [IDS_ITEM.ID1141001]
@@ -2834,6 +2892,8 @@ Canción Kewl
 Exormana
 [IDS_ITEM.ID1170013]
 Dracounidad
+[IDS_ITEM.ID1170014]
+El Caído y La Virtuosa
 [IDS_ITEM.ID1180001]
 Dragón Blanco Alternativo de Ojos Azules
 [IDS_ITEM.ID1180002]
@@ -2879,7 +2939,7 @@ Dracounidad
 [IDS_ITEM.ID1180022]
 Exormana
 [IDS_ITEM.ID1180023]
-coming soon
+Caído de Albaz
 [IDS_ITEM.ID1180024]
 coming soon
 [IDS_ITEM.ID1190001]

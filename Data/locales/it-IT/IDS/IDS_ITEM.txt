@@ -196,6 +196,8 @@ Assaltatrice del Cielo Asso - Raye
 Demonefabbro Incisore
 [IDS_ITEM.ID1003005]
 I:P Masquerena e S-Forza Rappa Chiyomaru
+[IDS_ITEM.ID1003006]
+Caduto di Albaz
 [IDS_ITEM.ID1005001]
 Coniglio da Soccorso
 [IDS_ITEM.ID1010001]
@@ -401,7 +403,7 @@ Mago Silente LV8
 [IDS_ITEM.ID1010101]
 P.U.N.K. JAM FEBBRE!
 [IDS_ITEM.ID1010102]
-Il Caduto e la Virtuosa
+Il Caduto & La Virtuosa
 [IDS_ITEM.ID1010103]
 Drago Supernova Rosso
 [IDS_ITEM.ID1010104]
@@ -480,6 +482,12 @@ Quirino Dragunità
 Esosorella Mikailis
 [IDS_ITEM.ID1010145]
 Non-Finito Artmage
+[IDS_ITEM.ID1010146]
+Numero C101: OSCURITÀ Onore Silente
+[IDS_ITEM.ID1010147]
+Caduto del Drago Bianco
+[IDS_ITEM.ID1010148]
+Tri-Brigata Springans Kitt
 [IDS_ITEM.ID1011001]
 Pallone da calcio
 [IDS_ITEM.ID1011002]
@@ -616,6 +624,12 @@ Finalista Oro DC 2026 MAR
 Finalista Argento DC 2026 MAR
 [IDS_ITEM.ID1011068]
 Finalista Bronzo DC 2026 MAR
+[IDS_ITEM.ID1011069]
+Finalista Oro "Qualificazioni del WCS 2026"
+[IDS_ITEM.ID1011070]
+Finalista Argento "Qualificazioni del WCS 2026"
+[IDS_ITEM.ID1011071]
+Finalista Bronzo "Qualificazioni del WCS 2026"
 [IDS_ITEM.ID1012001]
 X-Krawler Sinapsisi
 [IDS_ITEM.ID1012002]
@@ -798,8 +812,12 @@ Duellante Bianco e Blu
 eFootball™
 [IDS_ITEM.ID1013011]
 Selene, Regina dei Maghi Maestri
+[IDS_ITEM.ID1013012]
+Porcospino da Soccorso
 [IDS_ITEM.ID1013013]
 Aleister l'Invocatore
+[IDS_ITEM.ID1013015]
+Wumpus
 [IDS_ITEM.ID1020001]
 Duellante principiante
 [IDS_ITEM.ID1020002]
@@ -1218,6 +1236,18 @@ Top 1000 DC 2026 MAR
 Top 10000 DC 2026 MAR
 [IDS_ITEM.ID1020209]
 Duellante 2nd stage DC 2026 MAR
+[IDS_ITEM.ID1020210]
+Top 10 "Qualificazioni del WCS 2026"
+[IDS_ITEM.ID1020211]
+Top 100 "Qualificazioni del WCS 2026"
+[IDS_ITEM.ID1020212]
+Top 500 "Qualificazioni del WCS 2026"
+[IDS_ITEM.ID1020213]
+Top 1000 "Qualificazioni del WCS 2026"
+[IDS_ITEM.ID1020214]
+Top 10000 "Qualificazioni del WCS 2026"
+[IDS_ITEM.ID1020215]
+Liv. D MAX "Qualificazioni del WCS 2026"
 [IDS_ITEM.ID1020216]
 Fulmine Tempesta
 [IDS_ITEM.ID1020217]
@@ -1314,6 +1344,8 @@ Fusione Cavaliere-Gemma
 Cornice blu e bianca
 [IDS_ITEM.ID1030041]
 Cornice rossa e bianca
+[IDS_ITEM.ID1030042]
+Mimighoul Fiore
 [IDS_ITEM.ID1030043]
 Cornice gialla e nera
 [IDS_ITEM.ID1031001]
@@ -1364,6 +1396,8 @@ Cambio di Maschera II
 Giardino Rosa Nera
 [IDS_ITEM.ID1031024]
 Elfnote
+[IDS_ITEM.ID1031025]
+Albion il Drago Ammantato
 [IDS_ITEM.ID1032001]
 Ornamento festivo
 [IDS_ITEM.ID1032002]
@@ -1384,6 +1418,8 @@ Fanciulla Acero
 Rikka
 [IDS_ITEM.ID1032010]
 Salvagente
+[IDS_ITEM.ID1032011]
+Tela Metereologica Piovosa
 [IDS_ITEM.ID1033001]
 Premio di partecipazione al "WCS 2023"
 [IDS_ITEM.ID1033002]
@@ -1623,7 +1659,7 @@ Supremazia Oscura
 [IDS_ITEM.ID1070114]
 Doppio Jolly
 [IDS_ITEM.ID1070115]
-Il Caduto e la Virtuosa
+Il Caduto & La Virtuosa
 [IDS_ITEM.ID1070116]
 Materiattore Exagard
 [IDS_ITEM.ID1070117]
@@ -1728,6 +1764,10 @@ Cavaliere Dragunità - Areus
 Esosorella Karmael
 [IDS_ITEM.ID1070171]
 Hecamani Jauzah
+[IDS_ITEM.ID1070172]
+Arcidemone Imperatore
+[IDS_ITEM.ID1070173]
+Matriarca Arcidemone
 [IDS_ITEM.ID1070178]
 Mokomoko
 [IDS_ITEM.ID1071001]
@@ -1826,6 +1866,10 @@ L'Orcusestra Meck-Cavaliere e la Automa
 Maliss ＜Q＞
 [IDS_ITEM.ID1072008]
 Yummy
+[IDS_ITEM.ID1072009]
+Albaz l'Ammantato ed Ecclesia l'Esiliata
+[IDS_ITEM.ID1072010]
+Enneamezzo
 [IDS_ITEM.ID1073001]
 Premio di partecipazione al "WCS 2023"
 [IDS_ITEM.ID1073002]
@@ -1864,6 +1908,8 @@ Celebrazione DC 2025 SEP
 Celebrazione DC 2025 DEC
 [IDS_ITEM.ID1073019]
 Celebrazione DC 2026 MAR
+[IDS_ITEM.ID1073020]
+Celebrazione delle "Qualificazioni del WCS 2026"
 [IDS_ITEM.ID1075001]
 Yu-Gi-Oh! CARD GAME THE CHRONICLES
 [IDS_ITEM.ID1075002]
@@ -1875,9 +1921,9 @@ eFootball™
 [IDS_ITEM.ID1075005]
 Neymar
 [IDS_ITEM.ID1075006]
-THE CHRONICLES: Il Caduto e la Virtuosa
+THE CHRONICLES: Il Caduto & La Virtuosa
 [IDS_ITEM.ID1075007]
-THE CHRONICLES: Il Caduto e la Virtuosa2
+THE CHRONICLES: Il Caduto & La Virtuosa2
 [IDS_ITEM.ID1075008]
 THE CHRONICLES: Ammaliatrici di Spiriti
 [IDS_ITEM.ID1075009]
@@ -1946,6 +1992,8 @@ Riunione dei Predoni
 Ondata Magica Oscura
 [IDS_ITEM.ID1080032]
 Gigantesca Scintilla
+[IDS_ITEM.ID1080033]
+Rabbia del Blu Profondo
 [IDS_ITEM.ID1082001]
 Nero Xyz
 [IDS_ITEM.ID1082002]
@@ -2238,6 +2286,8 @@ Salvagente
 Fantasma di Halloween
 [IDS_ITEM.ID1101041]
 Ghirlanda
+[IDS_ITEM.ID1101045]
+WAKE CUP!
 [IDS_ITEM.ID1102001]
 Colosseo
 [IDS_ITEM.ID1102002]
@@ -2369,7 +2419,7 @@ Pietra verde della magia
 [IDS_ITEM.ID1111022]
 Traccia estiva del Dio del Tuono
 [IDS_ITEM.ID1111023]
-coming soon
+Zona di Connessione Vehicroid
 [IDS_ITEM.ID1111024]
 Rimozione di Limite
 [IDS_ITEM.ID1111025]
@@ -2533,7 +2583,7 @@ Ondata Magica Oscura
 [IDS_ITEM.ID1120032]
 Gigantesca Scintilla
 [IDS_ITEM.ID1120033]
-coming soon
+Rabbia del Blu Profondo
 [IDS_ITEM.ID1120034]
 coming soon
 [IDS_ITEM.ID1120035]
@@ -2687,7 +2737,7 @@ Argostars
 [IDS_ITEM.ID1130074]
 Tempeste di Fuoco Sopra Atlantide
 [IDS_ITEM.ID1130075]
-Il Caduto e la Virtuosa
+Il Caduto & La Virtuosa
 [IDS_ITEM.ID1130076]
 Maliss nel Sottosuolo
 [IDS_ITEM.ID1130077]
@@ -2780,10 +2830,16 @@ I:P Masquerena e S:P Piccolo Cavaliere
 Elfnote: Aristeia della Fiducia
 [IDS_ITEM.ID1130126]
 Elfnote: Benvenuti a Casa
+[IDS_ITEM.ID1130127]
+Le Virtuose Vestali
 [IDS_ITEM.ID1130129]
 Esca Hecamani
 [IDS_ITEM.ID1130130]
 Junora il Patrono Potente della Sintonizzazione
+[IDS_ITEM.ID1130131]
+Spinta Tattiche Triple
+[IDS_ITEM.ID1130132]
+Dispiegamento Fusione
 [IDS_ITEM.ID1130135]
 Zilofthonia Gorgon
 [IDS_ITEM.ID1132001]
@@ -2794,6 +2850,8 @@ Neymar
 Quello è un 10!
 [IDS_ITEM.ID1132004]
 Endymion, il Magnifico Maestro della Magia
+[IDS_ITEM.ID1132005]
+Soccorso Soccorcarino di Emergenza Emergente
 [IDS_ITEM.ID1140001]
 Coupon busta Eredità
 [IDS_ITEM.ID1141001]
@@ -2834,6 +2892,8 @@ Tune Figo
 Esosorella
 [IDS_ITEM.ID1170013]
 Dragunità
+[IDS_ITEM.ID1170014]
+Il Caduto & La Virtuosa
 [IDS_ITEM.ID1180001]
 Drago Bianco Alternativo Occhi Blu
 [IDS_ITEM.ID1180002]
@@ -2879,7 +2939,7 @@ Dragunità
 [IDS_ITEM.ID1180022]
 Esosorella
 [IDS_ITEM.ID1180023]
-coming soon
+Caduto di Albaz
 [IDS_ITEM.ID1180024]
 coming soon
 [IDS_ITEM.ID1190001]

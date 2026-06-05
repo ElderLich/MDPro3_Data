@@ -350,7 +350,8 @@ To witness him in intense combat with "<card mrk='20225'/>" at the ready is to w
 A shadow creeps up on the courier racing through the night.
 Tonight, the neon-lit chase begins anew.
 [IDS_ITEMDESC.ID1003006]
-coming soon
+A boy whose dragon power awakens when he lands in a tight spot.
+Does his name refer to a past, buried in darkness, or to a bright future?
 [IDS_ITEMDESC.ID1003007]
 coming soon
 [IDS_ITEMDESC.ID1003008]
@@ -786,6 +787,15 @@ She can bring down even the mightiest of fiends.
 [IDS_ITEMDESC.ID1010145]
 An Icon depicting a girl who entered into an incomplete contract due to unforeseen circumstances.
 She wields only part of the divine beast's power.
+[IDS_ITEMDESC.ID1010146]
+An Icon depicting an obsidian spearman immune to decay.
+The guardian of souls filled with frustration becomes a dark knight who shatters light.
+[IDS_ITEMDESC.ID1010147]
+An Icon depicting a scene from <card mrk='18498'/>'s soul.
+Is a memory of the beginning of the end, or a likeness of the true awakened flame?
+[IDS_ITEMDESC.ID1010148]
+An Icon depicting a genius girl enlightened by a holy maiden's thunder.
+Thus, the challenge to generate ultra-next-gen energy began.
 [IDS_ITEMDESC.ID1011001]
 An Icon depicting a ball made of black and white panels.
 Winning 3 Duels in a row is not called a hat-trick.
@@ -990,6 +1000,15 @@ Given to those who achieved considerable results in the Duelist Cup.
 [IDS_ITEMDESC.ID1011068]
 An Icon with a bronze "DC 2026 MAR" logo. 
 Given to those who conquered numerous battles in the Duelist Cup.
+[IDS_ITEMDESC.ID1011069]
+An Icon with a golden "WCS 2026 Qualifiers" logo.
+An Icon given to those who performed above and beyond in the qualifier round held in 2026 against the world.
+[IDS_ITEMDESC.ID1011070]
+An Icon with a silver "WCS 2026 Qualifiers" logo.
+An Icon given to those who left impressive results in the qualifier round held in 2026 against the world.
+[IDS_ITEMDESC.ID1011071]
+An Icon with a bronze "WCS 2026 Qualifiers" logo.
+An Icon given to those who won numerous battles in the qualifier round held in 2026 against the world.
 [IDS_ITEMDESC.ID1012001]
 An Icon depicting a "Krawler," Monsters who have overrun a certain world. This one is part of the higher class.
 They mercilessly destroy the efforts of human civilization that have lasted generations.
@@ -1261,9 +1280,15 @@ Exhilarating action brought to you by those who never stop challenging themselve
 [IDS_ITEMDESC.ID1013011]
 An Icon depicting the true form of "<card mrk='14440'/>".
 It's said that only "<card mrk='14439'/>" can see her true face.
+[IDS_ITEMDESC.ID1013012]
+An Icon depicting a new Rescue Squad member.
+Inspired by a certain event, they came to admire the team and set their sights on joining its ranks.
 [IDS_ITEMDESC.ID1013013]
 An Icon featuring a key visual for "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Three magicians who unlocked the door to another realm. They came to be known as the "Three Sages, the Magistus".
+[IDS_ITEMDESC.ID1013015]
+An Icon depicting everyone's favorite online buddy.
+The curtain rises on your journey to becoming a legendary Duelist.
 [IDS_ITEMDESC.ID1020001]
 A Title given to Duelists who began their Dueling journey with Yu-Gi-Oh! MASTER DUEL.
 It's never too late to start Dueling.
@@ -1890,6 +1915,24 @@ It was earned through victory after victory against fierce competitors in the 2n
 [IDS_ITEMDESC.ID1020209]
 A Title given to Duelists who made it to the 2nd Stage in DC 2026 MAR.
 It is proof of your accomplishment in making it through the hotly contested 1st Stage.
+[IDS_ITEMDESC.ID1020210]
+A Title given to Duelists who made it to the top 10 in "WCS 2026 Qualifiers."
+Many have witnessed their ability as a Duelist worthy of challenging the world.
+[IDS_ITEMDESC.ID1020211]
+A Title given to Duelists who made it to the top 100 in "WCS 2026 Qualifiers."
+Proof of a Duelist that demonstrated their knowledge of many Duelists and mastery of their cards in the battle against the world.
+[IDS_ITEMDESC.ID1020212]
+A Title given to Duelists who made it to the top 500 in "WCS 2026 Qualifiers."
+Proof of a Duelist who honed their skills to come out victorious in many battles to challenge the world.
+[IDS_ITEMDESC.ID1020213]
+A Title given to Duelists who made it to the top 1000 in "WCS 2026 Qualifiers."
+A medal of honor given to the unfaltering Duelist that fought valiantly among the world's best Duelists.
+[IDS_ITEMDESC.ID1020214]
+A Title given to Duelists who made it to the top 10000 in "WCS 2026 Qualifiers."
+For those who came out victorious over formidable rivals and tallied their victories.
+[IDS_ITEMDESC.ID1020215]
+A Title given to Duelists who reached DLv. MAX in "WCS 2026 Qualifiers."
+For those that displayed their ability as a Duelist worthy of advancing to the Regional Qualifiers.
 [IDS_ITEMDESC.ID1020216]
 A Title given to Duelists who achieved results in "Tryout Duel".
 A Duelist grows stronger by adapting to new environments and continuing to take on bold challenges.
@@ -2027,6 +2070,9 @@ The white snow falls from the clear blue sky, reflecting the harmony of light.
 [IDS_ITEMDESC.ID1030041]
 A red and white Icon Frame that allows for an array of interpretations.
 Dynamic traits like vitality and passion are balanced with subtler ones, such as sorrow and spirituality.
+[IDS_ITEMDESC.ID1030042]
+An Icon Frame reminiscent of a monster-birthing trap from ancient ruins.
+Countless traps await adventurers blinded by allure of gold and treasure.
 [IDS_ITEMDESC.ID1030043]
 A yellow-and-black Icon Frame whose strong contrast evokes danger.
 In nature, these colors serve as a warning sign that wards off predators.
@@ -2102,6 +2148,9 @@ Beneath the waning moon, thorns of malice bloom in madness.
 [IDS_ITEMDESC.ID1031024]
 An Icon Frame evoking a forest choir that weaves sacred songs.
 It is imbued with the magical power of fairies chosen by the trees.
+[IDS_ITEMDESC.ID1031025]
+An Icon Frame reminiscent of a dragon whose frenzy had been quelled.
+The boy recovered his senses thanks to the power of trust of those around him.
 [IDS_ITEMDESC.ID1032001]
 An Icon Frame in the shape of a circular decoration, which can be seen in a certain region as the year draws to a close.
 They are hung with the sincere wish for happiness and joy in times to come.
@@ -2132,6 +2181,9 @@ The way it eventually melts and fades from existence makes it all the more beaut
 [IDS_ITEMDESC.ID1032010]
 An Icon Frame shaped like a circular swimming ring.
 Float alongside elegant creatures of the sea and make your summer memorable.
+[IDS_ITEMDESC.ID1032011]
+An Icon Frame reminiscent of a scene of drizzling rain.
+Perhaps colorful fairies took to the skies to bestow the gift of water on the world below.
 [IDS_ITEMDESC.ID1033001]
 An Icon awarded to the participants in the MASTER DUEL event of the Yu-Gi-Oh! World Championship 2023.
 The next stage is waiting for you!
@@ -2643,6 +2695,12 @@ For those who are truly unfathomable.
 [IDS_ITEMDESC.ID1070171]
 Protectors depicting the form of something supernatural and otherworldly.
 For those who find themselves in its feeding grounds.
+[IDS_ITEMDESC.ID1070172]
+Protectors depicting <card mrk='22120'/> who laid claim to the imperial throne.
+For those who wish to seize the throne.
+[IDS_ITEMDESC.ID1070173]
+Protectors depicting <card mrk='22122'/> who laid claim to the imperial throne.
+For those who wish to seize the throne.
 [IDS_ITEMDESC.ID1070178]
 Protectors featuring an Illusion monster with a thick, bushy coat of fur.
 For lovers of all things fluffy.
@@ -2790,6 +2848,12 @@ For those who venture into uncharted domains.
 [IDS_ITEMDESC.ID1072008]
 Protectors depicting "<card mrk='21371'/>" making a catch.
 For those craving something yummy.
+[IDS_ITEMDESC.ID1072009]
+Protectors depicting a certain pair played with by capricious fate.
+For those who embarked on a long journey and made many memories.
+[IDS_ITEMDESC.ID1072010]
+Protectors depicting <category id='170'/> who passes judgment on those who spread fear without a reason.
+For those who scrutinize the sins of others.
 [IDS_ITEMDESC.ID1073001]
 Protectors with a Yu-Gi-Oh! World Championship 2023: MASTER DUEL visual design.
 For those who aim to become the best in the world.
@@ -2847,6 +2911,9 @@ For those who participated in the Duelist Cup and made the event a success.
 [IDS_ITEMDESC.ID1073019]
 A Protector with a "DC 2026 MAR" logo. 
 For those who participated in the Duelist Cup and made the event a success.
+[IDS_ITEMDESC.ID1073020]
+A Protector with a "WCS 2026 Qualifiers" logo.
+To those who participated in the MASTER DUEL division and made the event a success.
 [IDS_ITEMDESC.ID1075001]
 Protectors depicting a scene from "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 The Duelists at the venue let out a great cheer to mark this prestigious event.
@@ -2968,6 +3035,9 @@ Perfect for Decks focused on wielding destruction magic.
 [IDS_ITEMDESC.ID1080032]
 A Card Case depicting "<card mrk='17449'/>".
 Perfect for Decks packed with immortal energy.
+[IDS_ITEMDESC.ID1080033]
+A Card Case depicting "<card mrk='20517'/>".
+Reborn, the fanged behemoth of the deep seeks to blot out all light!
 [IDS_ITEMDESC.ID1082001]
 A Deck Case with a design inspired by the great galactic expanse from which Xyz Monsters appear. 
 A great fit for Decks that revolve around Xyz Summoning!
@@ -3429,7 +3499,8 @@ coming soon
 [IDS_ITEMDESC.ID1101044]
 coming soon
 [IDS_ITEMDESC.ID1101045]
-coming soon
+Field Parts modeled on spirits who dwell in morning beverages.
+A morning tea party makes everyone feel refreshed.
 [IDS_ITEMDESC.ID1102001]
 Field Parts for a Colosseum.
 A fate that ends here is not one to mourn. Be proud that all those who fight here can offer themselves for a valiant battle.
@@ -3648,6 +3719,9 @@ Newly created and imbued with fresh magic, the stone radiates light and will be 
 [IDS_ITEMDESC.ID1111022]
 A Stand placed with the forgotten belongings of the Thunder god, who enjoyed their everlasting summer vacation.
 Sunglasses and snorkels can perhaps be forgotten about, but what about the thunderclouds?
+[IDS_ITEMDESC.ID1111023]
+A Stand shaped like a turntable used by various vehicles.
+A delicate mechanism is needed to safely switch the direction of travel.
 [IDS_ITEMDESC.ID1111024]
 A Stand inspired by the nostalgic design of a speedometer.
 Even if technically possible, speeding at such speed will test your machine to its limit.
@@ -3844,7 +3918,8 @@ This deck takes a technical approach on battles, using "<card mrk='4041'/>" and 
 [IDS_ITEMDESC.ID1120032]
 A "<category id='40'/>" Deck that revolves around deploying Level/Rank/Link 2 monsters that fight in perfect unison. Start by preparing Level 2 monsters on the field, and then combine monsters such as "<card mrk='17405'/>" and "<card mrk='17406'/>" to deploy for the battle. Use cards such as "<card mrk='17449'/>" which let you directly summon monsters from your Deck and then prepare "<card mrk='17408'/>" and "<card mrk='17409'/>" to create a formation that can adapt to your opponent's effects. Once it's your turn to attack, use "<card mrk='17458'/>" to increase your ATK and seize victory!
 [IDS_ITEMDESC.ID1120033]
-coming soon
+This "<category id='011'/>" Deck battles by Xyz Summoning a string of WATER Xyz Monsters.
+First, use the effects of "<card mrk='15005'/>" and other cards to swarm your field with monsters, then use them as materials to Xyz Summon. One recommended Xyz Monster is "<card mrk='10332'/>". If you Special Summon "<card mrk='20518'/>" with its effect, you can set up "<card mrk='20544'/>" for your opponent's turn while also setting up for Xyz Monsters related to "<card mrk='19036'/>". Your ace, "<card mrk='20517'/>", is a powerful monster that can both neutralize an opponent's monster and attack twice in the same turn. If "<card mrk='21410'/>" is attached to it as Xyz Material, it can also disrupt Spell/Trap Cards, so if you can Xyz Summon it, you'll be one big step closer to victory!
 [IDS_ITEMDESC.ID1120034]
 coming soon
 [IDS_ITEMDESC.ID1120035]
@@ -4213,12 +4288,21 @@ With this ritual, the giant flower bud in which the unknown being sleeps begins 
 [IDS_ITEMDESC.ID1130126]
 Teleportation magic leads to a narrow escape from the self-destruction caused by "<card mrk='21811'/>".
 The spell misfires, sending them falling from the sky above into the giant plant's embrace.
+[IDS_ITEMDESC.ID1130127]
+A life which demands purity and strength of a saint.
+The bond of trust they formed made them like sisters.
 [IDS_ITEMDESC.ID1130129]
 A minion of <card mrk='21936'/> that deceives its targets by mimicking a human appearance.
 It brainwashes and abducts them to use as sacrifices.
 [IDS_ITEMDESC.ID1130130]
 "<card mrk='22142'/>", one of the gods of the spirit realm.
 A cunning deity manipulating the great fairy that sleeps within the flower bud as it plots its return to this world.
+[IDS_ITEMDESC.ID1130131]
+<category id='126'/>, made up of those once expelled from tribes.
+Invaders, hear the Tri-Brigade Roar!
+[IDS_ITEMDESC.ID1130132]
+Her empty eyes don't look like the eyes of a young girl at all.
+Immaculate, she is nevertheless the incarnation of chaos, daughter of love and despair.
 [IDS_ITEMDESC.ID1130135]
 A machine life form bearing the name of a god that came to oversee the world over the course of many long years.
 From the phonograph on its right arm, it emits electromagnetic waves that can disable machinery.
@@ -4234,6 +4318,9 @@ She gleefully scurried off to the forums as the 10th visitor arrived.
 [IDS_ITEMDESC.ID1132004]
 A king who rules over a magical citadel.
 He performs miracles by drawing upon the energy stored within the magical stones found in his body.
+[IDS_ITEMDESC.ID1132005]
+A rescue team on a mission.
+With superb teamwork, they save the lives of small animals in danger.
 [IDS_ITEMDESC.ID1140001]
 A ticket that allows you to purchase a Legacy Pack.
 What will your legacy be?
@@ -4291,6 +4378,9 @@ When you collect <category id='059'/> cards, the doors of the sisters' bond is s
 [IDS_ITEMDESC.ID1170013]
 A Collector's File featuring a clan imbued with dragon souls.
 When you collect <category id='169'/> cards, the doors of the legendary dragoon is said tol shine.
+[IDS_ITEMDESC.ID1170014]
+A Collector's File for the story of a boy and a girl toyed with by capricious fate.
+They say that when you gather <category id='031'/>, the door to new encounters and journeys will shine.
 [IDS_ITEMDESC.ID1180001]
 A Coin whose motif is the luminous dragon who brings about a new legend.
 Its cerulean eyes glimmer.
@@ -4355,7 +4445,8 @@ The secret art that protects the valley shines brightly.
 A Coin whose motif is the evil-warding <category id='059'/>.
 The holy armaments blessed with divine grace shine brightly.
 [IDS_ITEMDESC.ID1180023]
-coming soon
+A Coin whose motif is a dragon boy from another dimension.
+His determination in opposing his destiny shines brightly.
 [IDS_ITEMDESC.ID1180024]
 coming soon
 [IDS_ITEMDESC.ID1190001]

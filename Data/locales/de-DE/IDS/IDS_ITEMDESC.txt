@@ -350,7 +350,8 @@ Wenn du ihn mit „<card mrk='20225'/>“ in einem intensiven Kampf siehst, bist
 Ein Schatten schleicht sich an die Kurierin heran, die durch die Nacht rast.
 Heute Abend beginnt die neonbeleuchtete Jagd von neuem.
 [IDS_ITEMDESC.ID1003006]
-coming soon
+Ein Junge, dessen Drachenkraft erwacht, wenn er in eine brenzlige Lage gerät.
+Bezieht sich sein Name auf eine in Finsternis gehüllte Vergangenheit oder eine leuchtende Zukunft?
 [IDS_ITEMDESC.ID1003007]
 coming soon
 [IDS_ITEMDESC.ID1003008]
@@ -786,6 +787,15 @@ Sie kann selbst die mächtigsten Ungeheuer besiegen.
 [IDS_ITEMDESC.ID1010145]
 Ein Symbol, das ein Mädchen darstellt, das aufgrund unvorhergesehener Umstände einen unvollständigen Vertrag eingegangen ist.
 Sie verfügt nur über einen Teil der Macht des göttlichen Ungeheuers.
+[IDS_ITEMDESC.ID1010146]
+Ein Symbol, das einen Obsidian-Speerträger darstellt, der gegen Verfall immun ist.
+Der von Frustration erfüllte Wächter der Seelen verwandelt sich in einen dunklen Ritter, der das Licht zerschmettert.
+[IDS_ITEMDESC.ID1010147]
+Ein Symbol, das eine Szene aus <card mrk='18498'/>s Seele darstellt.
+Ist sie eine Erinnerung an den Anfang vom Ende oder ein Abbild der wahrhaften erwachten Flamme?
+[IDS_ITEMDESC.ID1010148]
+Ein Symbol, das ein geniales Mädchen darstellt, erleuchtet vom Donner einer heiligen Jungfrau.
+So begann die Herausforderung, Energie der absoluten nächsten Generation zu erzeugen.
 [IDS_ITEMDESC.ID1011001]
 Ein Symbol, das einen Ball, der aus schwarzen und weißen Panels besteht, darstellt.
 3 Duelle in Folge zu gewinnen nennt man nicht einen Hattrick.
@@ -990,6 +1000,15 @@ Wurde an diejenigen verliehen, die beim Duelist Cup beachtliche Leistungen erbra
 [IDS_ITEMDESC.ID1011068]
 Ein Symbol mit einem bronzenen „DC 2026 MAR“-Logo. 
 Wurde an diejenigen verliehen, die beim Duelist Cup viele Kämpfe für sich entschieden haben.
+[IDS_ITEMDESC.ID1011069]
+Ein Symbol mit einem goldenen „WCS 2026 Qualifier“-Logo.
+Ein Symbol, das an diejenigen verliehen wird, die in den Qualifier-Runden 2026 gegen die Welt überdurchschnittliche Leistungen erbracht haben.
+[IDS_ITEMDESC.ID1011070]
+Ein Symbol mit einem silbernen „WCS 2026 Qualifier“-Logo.
+Ein Symbol, das an diejenigen verliehen wird, die in den Qualifier-Runden 2026 gegen die Welt beeindruckende Ergebnisse erzielt haben.
+[IDS_ITEMDESC.ID1011071]
+Ein Symbol mit einem bronzenen „WCS 2026 Qualifier“-Logo.
+Ein Symbol, das an diejenigen verliehen wird, die in den Qualifier-Runden 2026 gegen die Welt zahlreiche Kämpfe gewonnen haben.
 [IDS_ITEMDESC.ID1012001]
 Ein Symbol, das einen „Krawler“ darstellt; Monster, die eine bestimmte Welt überrannt haben. Dieser gehört der höheren Klasse an.
 Sie zerstörten gnadenlos alle Mühen der menschlichen Zivilisation, die sich für Jahrhunderte hielten.
@@ -1261,9 +1280,15 @@ Spannende Action, präsentiert von denen, die sich selbst immer wieder neuen Her
 [IDS_ITEMDESC.ID1013011]
 Ein Symbol, das die wahre Variante von „<card mrk='14440'/>“ darstellt.
 Man sagt, nur „<card mrk='14439'/>“ könne ihr wahres Gesicht sehen.
+[IDS_ITEMDESC.ID1013012]
+Ein Symbol, das ein neues Mitglied des Rettungsteams darstellt.
+Inspiriert von einem bestimmten Ereignis, begannen es, das Team zu bewundern und es sich zum Ziel zu setzen, sich ihm anzuschließen.
 [IDS_ITEMDESC.ID1013013]
 Ein Symbol, mit einem Hauptmotiv für „Yu-Gi-Oh! CARD GAME THE CHRONICLES“.
 Drei Magier, die die Tür zu einer anderen Welt öffneten. Sie wurden als die „Drei Weisen, die Magistus“ bekannt.
+[IDS_ITEMDESC.ID1013015]
+Ein Symbol, das jedermanns liebsten Online-Kumpel darstellt.
+Der Vorhang hebt sich für deine Reise auf dem Weg zum legendären Duellanten.
 [IDS_ITEMDESC.ID1020001]
 Ein Titel, der Duellanten verliehen wird, die ihre Duellantenreise mit Yu-Gi-Oh! MASTER DUEL.
 Es ist nie zu spät, das Duellieren zu erlernen.
@@ -1890,6 +1915,24 @@ Er wurde durch einen Sieg nach dem anderen gegen die harte Konkurrenz in der 2nd
 [IDS_ITEMDESC.ID1020209]
 Ein Titel, der an Duellanten vergeben wird, die die 2nd Stage des DC 2026 MAR erreicht haben.
 Er ist der Beweis dafür, dass du es durch die heiß umkämpfte 1st Stage geschafft hast.
+[IDS_ITEMDESC.ID1020210]
+Ein Titel, der an Duellanten vergeben wird, die in den „WCS 2026 Qualifiern“ die Top 10 erreicht haben.
+Viele haben sich von ihren Fähigkeiten als Duellanten überzeugt, die Welt herauszufordern.
+[IDS_ITEMDESC.ID1020211]
+Ein Titel, der an Duellanten vergeben wird, die in den „WCS 2026 Qualifiern“ die Top 100 erreicht haben.
+Ein Beweis für einen Duellanten, der sein Wissen über viele Duellanten und die Beherrschung ihrer Karten im Kampf gegen die Welt unter Beweis gestellt hat.
+[IDS_ITEMDESC.ID1020212]
+Ein Titel, der an Duellanten vergeben wird, die in den „WCS 2026 Qualifiern“ die Top 500 erreicht haben.
+Der Beweis für einen Duellanten, der seine Fähigkeiten verfeinert hat, um in vielen Kämpfen siegreich zu sein und die Welt herauszufordern.
+[IDS_ITEMDESC.ID1020213]
+Ein Titel, der an Duellanten vergeben wird, die in den „WCS 2026 Qualifiern“ die Top 1000 erreicht haben.
+Eine Ehrenmedaille, die den unbeugsamen Duellanten verliehen wird, die sich unter den besten Duellanten der Welt tapfer geschlagen haben.
+[IDS_ITEMDESC.ID1020214]
+Ein Titel, der an Duellanten vergeben wird, die in den „WCS 2026 Qualifiern“ die Top 10000 erreicht haben.
+Für diejenigen, die sich gegen starke Konkurrenten durchgesetzt und Siege verbucht haben.
+[IDS_ITEMDESC.ID1020215]
+Ein Titel, der Duellanten verliehen wird, die in den „WCS 2026 Qualifiern“ DLv. MAX erreicht haben.
+Für diejenigen, die ihre Fähigkeiten als Duellanten unter Beweis gestellt haben und die würdig sind, zu den Regional Qualifiern aufzusteigen.
 [IDS_ITEMDESC.ID1020216]
 Ein Titel, der an Duellanten vergeben wird, die beim „Schnupperduell“ Ergebnisse erzielt haben.
 Ein Duellant wird stärker, indem er sich an neue Umgebungen anpasst und sich immer wieder kühnen Herausforderungen stellt.
@@ -2027,6 +2070,9 @@ Der weiße Schnee fällt vom klaren blauen Himmel und spiegelt die Harmonie des 
 [IDS_ITEMDESC.ID1030041]
 Ein rot-weißer Symbol-Rahmen, der vielfältige Interpretationen zulässt.
 Dynamische Eigenschaften wie Vitalität und Leidenschaft stehen im Gleichgewicht mit subtileren Eigenschaften wie Trauer und Spiritualität.
+[IDS_ITEMDESC.ID1030042]
+Ein Symbol-Rahmen, der an eine Falle zur Erschaffung von Monstern aus uralten Ruinen erinnert.
+Unzählige Fallen erwarten Abenteurer, die vom Glanz des Goldes und der Schätze geblendet sind.
 [IDS_ITEMDESC.ID1030043]
 Ein gelb-schwarzer Symbol-Rahmen, dessen starker Kontrast Gefahr suggeriert.
 In der Natur dienen diese Farben als Warnsignal, das Fressfeinde abschreckt.
@@ -2102,6 +2148,9 @@ Unter dem abnehmenden Mond blühen Dornen des Hasses im Wahnsinn.
 [IDS_ITEMDESC.ID1031024]
 Ein Symbol-Rahmen, der an einen Waldchor erinnert, der heilige Lieder singt.
 Er ist erfüllt von der magischen Kraft der von den Bäumen auserwählten Feen.
+[IDS_ITEMDESC.ID1031025]
+Ein Symbol-Rahmen, der an einen Drachen erinnert, dessen Raserei besänftigt worden war.
+Der Junge fand dank der Kraft des Vertrauens der Menschen um ihn herum wieder zu sich.
 [IDS_ITEMDESC.ID1032001]
 Ein Symbol-Rahmen in der Form einer runden Dekoration, die in manchen Regionen zum Jahresende zu sehen ist.
 Sie werden mit dem aufrichtigen Wunsch nach Glück und Freude in der kommenden Zeit aufgehängt.
@@ -2132,6 +2181,9 @@ Die Art und Weise, wie er schließlich schmilzt und aus der Existenz verblasst, 
 [IDS_ITEMDESC.ID1032010]
 Ein Symbol-Rahmen in Form eines kreisrunden Schwimmreifens.
 Treibe neben eleganten Meeresgeschöpfen und mache deinen Sommer unvergesslich.
+[IDS_ITEMDESC.ID1032011]
+Ein Symbol-Rahmen, der an eine Szenerie mit feinem Nieselregen erinnert.
+Vielleicht haben sich bunte Feen in die Lüfte erhoben, um der Welt zu ihren Füßen das Geschenk des Wassers zu verleihen.
 [IDS_ITEMDESC.ID1033001]
 Ein Symbol-Rahmen, das den Teilnehmern des MASTER DUEL-Events der Yu-Gi-Oh! World Championship 2023 verliehen wird.
 Die nächste Stufe wartet auf dich!
@@ -2644,6 +2696,12 @@ Für all jene, die wahrhaft unergründlich sind.
 [IDS_ITEMDESC.ID1070171]
 Kartenhüllen, die die Gestalt von etwas Übernatürlichem und Jenseitigem darstellen.
 Für all jene, die sich in seinem Nahrungsgebiet wiederfinden.
+[IDS_ITEMDESC.ID1070172]
+Kartenhüllen, die <card mrk='22120'/> darstellen, der Anspruch auf den Kaiserthron erhob.
+Für jene, die den Thron an sich reißen wollen.
+[IDS_ITEMDESC.ID1070173]
+Kartenhüllen, die <card mrk='22122'/> darstellen, der Anspruch auf den Kaiserthron erhob.
+Für jene, die den Thron an sich reißen wollen.
 [IDS_ITEMDESC.ID1070178]
 Kartenhüllen mit einem Illusionsmonster mit dichtem, buschigem Fell.
 Für diejenigen, die alles lieben, was flauschig ist.
@@ -2791,6 +2849,12 @@ Für diejenigen, die sich in unerforschte Gebiete wagen.
 [IDS_ITEMDESC.ID1072008]
 Kartenhüllen, die „<card mrk='21371'/>“ beim Fangen darstellen.
 Für alle, die Lust auf etwas Leckeres haben.
+[IDS_ITEMDESC.ID1072009]
+Kartenhüllen, die ein bestimmtes Paar zeigen, ein Spielball des launischen Schicksals.
+Für all jene, die sich auf eine lange Reise begaben und dabei unzählige Erinnerungen sammelten.
+[IDS_ITEMDESC.ID1072010]
+Kartenhüllen, die <category id='170'/> darstellen, der über jene richtet, die grundlos Angst verbreiten.
+Für jene, die die Sünden anderer argwöhnisch mustern.
 [IDS_ITEMDESC.ID1073001]
 Kartenhüllen mit einem visuellen Design für die Yu-Gi-Oh! World Championship 2023: MASTER DUEL.
 Für diejenigen, die die Besten der Welt werden wollen.
@@ -2848,6 +2912,9 @@ Für Spieler, die am Duelist Cup teilgenommen und dem Event zu Erfolg verholfen 
 [IDS_ITEMDESC.ID1073019]
 Eine Kartenhülle mit „DC 2026 MAR“-Logo. 
 Für Spieler, die am Duelist Cup teilgenommen und dem Event zu Erfolg verholfen haben.
+[IDS_ITEMDESC.ID1073020]
+Eine Kartenhülle mit einem „WCS 2026 Qualifier“-Logo.
+Für diejenigen, die in der MASTER DUEL Division teilgenommen und das Event zu einem Erfolg gemacht haben.
 [IDS_ITEMDESC.ID1075001]
 Ein Kartenhülle, auf der eine Szene aus „Yu-Gi-Oh! CARD GAME THE CHRONICLES“ abgebildet ist.
 Die Duellanten in der Szene jubeln zur Feier dieses prestigeträchtigen Events.
@@ -2969,6 +3036,9 @@ Perfekt für Decks, die sich auf Zerstörungsmagie konzentrieren.
 [IDS_ITEMDESC.ID1080032]
 Ein Kartenetui, auf dem „<card mrk='17449'/>“ abgebildet ist.
 Perfekt für Decks voller unsterblicher Energie.
+[IDS_ITEMDESC.ID1080033]
+Ein Kartenetui, auf dem „<card mrk='20517'/>“ abgebildet ist.
+Das wiedergeborene Ungeheuer mit den Reißzähnen aus der Tiefe will alles Licht auslöschen!
 [IDS_ITEMDESC.ID1082001]
 Eine Deckbox mit einem Design, das von den großen galaktischen Weiten inspiriert ist, aus denen die Xyz-Monster stammen. 
 Perfekt für Decks, in denen sich alles um Xyz-Beschwörungen dreht!
@@ -3429,7 +3499,8 @@ coming soon
 [IDS_ITEMDESC.ID1101044]
 coming soon
 [IDS_ITEMDESC.ID1101045]
-coming soon
+Spielfeldteile, die Geistern nachempfunden sind, welche in morgendlichen Getränken hausen.
+Eine morgendliche Teeparty verleiht jedem ein Gefühl der Erfrischung.
 [IDS_ITEMDESC.ID1102001]
 Spielfeldteile für ein Kolosseum.
 Um ein Schicksal, das hier endet, muss nicht getrauert werden. Sei stolz darauf, dass alle, die hier kämpfen, sich für einen wackeren Kampf opfern dürfen.
@@ -3648,6 +3719,9 @@ Der neu erschaffene und mit frischer Magie durchsetzte Stein strahlt Licht aus u
 [IDS_ITEMDESC.ID1111022]
 Ein Stand mit den vergessenen Habseligkeiten des Donnergottes, der seinen ewigen Sommerurlaub genoss.
 Sonnenbrille und Schnorchel kann man vielleicht vergessen, aber was ist mit den Gewitterwolken?
+[IDS_ITEMDESC.ID1111023]
+Ein Stand in Form einer Drehscheibe, die von verschiedenen Fahrzeugen verwendet wird.
+Um die Fahrtrichtung sicher zu wechseln, ist ein filigraner Mechanismus erforderlich.
 [IDS_ITEMDESC.ID1111024]
 Ein vom nostalgischen Design eines Tachometers inspirierter Stand.
 Auch wenn dies technisch möglich ist, wird deine Maschine bei solchen Geschwindigkeiten bis an ihre Grenzen belastet.
@@ -3844,7 +3918,7 @@ Dieses Deck verfolgt in Kämpfen einen technischen Ansatz und nutzt „<card mrk
 [IDS_ITEMDESC.ID1120032]
 Ein „<category id='40'/>“-Deck, das sich um den Einsatz von Monstern von Stufe/Rang/Link 2 dreht, die zusammen in perfekter Harmonie kämpfen. Bereite zunächst Monster der Stufe 2 auf dem Spielfeld vor und kombiniere dann Monster wie „<card mrk='17405'/>“ und „<card mrk='17406'/>“, um sie im Kampf einzusetzen. Nutze Karten wie „<card mrk='17449'/>“, mit denen du direkt Monster aus deinem Deck beschwören kannst, und bereite dann „<card mrk='17408'/>“ und „<card mrk='17409'/>“ vor, um eine Formation zu erstellen, die sich an die Effekte deines Gegners anpassen kann. Wenn du an der Reihe bist, anzugreifen, nutze „<card mrk='17458'/>“, um deinen Angriffswert zu erhöhen und den Sieg zu erringen!
 [IDS_ITEMDESC.ID1120033]
-coming soon
+Dieses „<category id='011'/>“-Deck kämpft, indem es eine Reihe von WASSER-Xyz-Monstern durch Xyz-Beschwörung beschwört.Nutze zuerst die Effekte von „<card mrk='15005'/>“ und anderen Karten, um deine Spielfeldseite mit Monstern zu füllen, und verwende diese dann als Material für eine Xyz-Beschwörung. Ein empfohlenes Xyz-Monster ist „<card mrk='10332'/>“. Wenn du „<card mrk='20518'/>“ mit seinem Effekt als Spezialbeschwörung beschwörst, kannst du „<card mrk='20544'/>“ für den Zug deines Gegners vorbereiten und gleichzeitig Xyz-Monster beschwören, die mit „<card mrk='19036'/>“ in Verbindung stehen. Deine Signaturkarte, „<card mrk='20517'/>“, ist ein mächtiges Monster, das sowohl ein gegnerisches Monster neutralisieren als auch zweimal im selben Zug angreifen kann. Falls „<card mrk='21410'/>“ als Xyz-Material daran angehängt ist, kann es auch Zauber-/Fallenkarten stören. Wenn du es also als Xyz-Beschwörung beschwören kannst, bist du dem Sieg einen großen Schritt näher!
 [IDS_ITEMDESC.ID1120034]
 coming soon
 [IDS_ITEMDESC.ID1120035]
@@ -4213,12 +4287,21 @@ Mit diesem Ritual beginnt die riesige Blütenknospe, in der das unbekannte Wesen
 [IDS_ITEMDESC.ID1130126]
 Teleportationsmagie ermöglicht eine knappe Flucht vor der Selbstzerstörung, die durch „<card mrk='21811'/>“ verursacht wurde.
 Der Zauber schlägt fehl und sie stürzen vom Himmel direkt in die Arme der riesigen Pflanze.
+[IDS_ITEMDESC.ID1130127]
+Ein Leben, das die Reinheit und Stärke einer Heiligen verlangt.
+Das Band des Vertrauens, das sie knüpften, machte sie einander zu Schwestern.
 [IDS_ITEMDESC.ID1130129]
 Ein Handlanger von <card mrk='21936'/>, der seine Ziele durch Nachahmung eines menschlichen Aussehens täuscht.
 Es unterzieht sie einer Gehirnwäsche und entführt sie, um sie als Opfergaben zu missbrauchen.
 [IDS_ITEMDESC.ID1130130]
 „<card mrk='22142'/>“, einer der Götter der Geisterwelt.
 Eine listige Gottheit, die die große Fee manipuliert, die in der Blütenknospe schläft, während sie ihre Rückkehr in diese Welt plant.
+[IDS_ITEMDESC.ID1130131]
+<category id='126'/>, gebildet aus jenen, die einst aus ihren Stämmen verstoßen wurden.
+Eindringlinge, hört das Gebrüll der Sta-Brigade!
+[IDS_ITEMDESC.ID1130132]
+Ihre leeren Augen wirken keineswegs wie die Augen eines jungen Mädchens.
+Makellos, ist sie dennoch die Inkarnation des Chaos, Tochter der Liebe und der Verzweiflung.
 [IDS_ITEMDESC.ID1130135]
 Eine maschinelle Lebensform, die den Namen eines Gottes trug und die Welt über viele lange Jahre hinweg überwachte.
 Vom Phonographen an seinem rechten Arm sendet es elektromagnetische Wellen aus, die Maschinen lahmlegen können.
@@ -4234,6 +4317,9 @@ Als der 10. Besucher kam, verschwand sie vergnügt in den Foren.
 [IDS_ITEMDESC.ID1132004]
 Ein König, der über eine magische Zitadelle herrscht.
 Er vollbringt Wunder, indem er die Energie nutzt, die sich in den magischen Steinen seines Körpers befinden.
+[IDS_ITEMDESC.ID1132005]
+Ein Rettungsteam im Einsatz.
+Durch hervorragende Teamarbeit retten sie das Leben von Kleintieren in Not.
 [IDS_ITEMDESC.ID1140001]
 Ein Ticket, das dir den Kauf eines Legacy-Packs gewährt.
 Was wird dein Vermächtnis sein?
@@ -4291,6 +4377,9 @@ Wenn man <category id='059'/>-Karten sammelt, sollen die Türen des Schwesternbu
 [IDS_ITEMDESC.ID1170013]
 Ein Sammelordner mit einem Clan, der von Drachenseelen erfüllt ist.
 Wenn man <category id='169'/>-Karten sammelt, sollen die Türen des legendären Drachen leuchten.
+[IDS_ITEMDESC.ID1170014]
+Ein Sammelordner zur Geschichte eines Jungen und eines Mädchens, mit denen das launische Schicksal Katz und Maus spielt.
+Man sagt: Wer <category id='031'/> sammelt, dem wird die Tür zu neuen Begegnungen und Reisen erstrahlen.
 [IDS_ITEMDESC.ID1180001]
 Eine Münze, deren Motiv der leuchtende Drache ist, der eine neue Legende hervorbringt.
 Seine himmelblauen Augen schimmern.
@@ -4355,7 +4444,8 @@ Die geheime Kunst, die das Tal schützt, erstrahlt hell.
 Eine Münze, deren Motiv der das Böse abwehrende „<category id='059'/>“ ist.
 Die heiligen Waffen, gesegnet mit göttlicher Gnade, erstrahlen hell.
 [IDS_ITEMDESC.ID1180023]
-coming soon
+Eine Münze, deren Motiv einen Drachenjungen aus einer anderen Dimension zeigt.
+Seine Entschlossenheit, sich seinem Schicksal entgegenzustellen, strahlt hell.
 [IDS_ITEMDESC.ID1180024]
 coming soon
 [IDS_ITEMDESC.ID1190001]
