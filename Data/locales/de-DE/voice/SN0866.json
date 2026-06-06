@@ -628,6 +628,22 @@
       "duelist": [],
       "text": "Kontaktfusion!"
     },
+    "V0866_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Ritualbeschwörung!"
+    },
+    "V0866_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ritualbeschwörung!"
+    },
     "V0866_14_00_00_0": {
       "face": 1,
       "frame": 0,
@@ -1624,7 +1640,7 @@
         17560
       ],
       "duelist": [],
-      "text": "！"
+      "text": "Außerirdischer Schocksoldat！"
     },
     "V0866_37_00_03_0": {
       "face": 3,
@@ -1790,7 +1806,7 @@
         17560
       ],
       "duelist": [],
-      "text": "!\nAngriff!"
+      "text": "Außerirdischer Schocksoldat!\nAngriff!"
     },
     "V0866_19_00_13_0": {
       "face": 3,
@@ -1921,6 +1937,22 @@
       "card": [],
       "duelist": [],
       "text": "Drei!!!"
+    },
+    "V0866_49_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Terza Flatwood!\nLos geht’s!"
+    },
+    "V0866_49_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo-Rush-Duell!"
     }
   }
 }

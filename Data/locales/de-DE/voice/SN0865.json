@@ -636,6 +636,22 @@
       "duelist": [],
       "text": "Kontaktfusion!"
     },
+    "V0865_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Ritualbeschwörung!"
+    },
+    "V0865_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ritualbeschwörung!"
+    },
     "V0865_14_00_00_0": {
       "face": 1,
       "frame": 0,
@@ -1352,7 +1368,7 @@
         19982
       ],
       "duelist": [],
-      "text": " aktiviert den Effekt."
+      "text": "Goldener fliegender Fisch aktiviert den Effekt."
     },
     "V0865_09_00_05_0": {
       "face": 2,
@@ -1460,7 +1476,7 @@
         19982
       ],
       "duelist": [],
-      "text": "Sieh zu, wie  aufsteigt."
+      "text": "Sieh zu, wie Goldener fliegender Fisch aufsteigt."
     },
     "V0865_13_00_07_0": {
       "face": 2,
@@ -1500,7 +1516,7 @@
         17715
       ],
       "duelist": [],
-      "text": "Los geht’s, ."
+      "text": "Los geht’s, Schatten-Leichenfledderer."
     },
     "V0865_13_00_11_0": {
       "face": 2,
@@ -1600,7 +1616,7 @@
         19982
       ],
       "duelist": [],
-      "text": "Greif an, ."
+      "text": "Greif an, Goldener fliegender Fisch."
     },
     "V0865_19_00_07_0": {
       "face": 3,
@@ -1640,7 +1656,7 @@
         17715
       ],
       "duelist": [],
-      "text": "!\nAngriff!"
+      "text": "Schatten-Leichenfledderer!\nAngriff!"
     },
     "V0865_19_00_11_0": {
       "face": 3,
@@ -1783,6 +1799,22 @@
       "card": [],
       "duelist": [],
       "text": "Arghhh …\nDoo waaaaaa!"
+    },
+    "V0865_49_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich bin bereit."
+    },
+    "V0865_49_01_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo-Rush-Duel!"
     }
   }
 }

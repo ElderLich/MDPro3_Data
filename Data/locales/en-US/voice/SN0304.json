@@ -3252,6 +3252,1268 @@
       "card": [],
       "duelist": [],
       "text": "Dimension Duel!"
+    },
+    "V0304_01_00_13_0": {
+      "face": 4,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        47
+      ],
+      "text": "Serenity?\nWhat are you doin' here?"
+    },
+    "V0304_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I activate a Pendulum Effect!"
+    },
+    "V0304_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I activate a Ritual Spell!"
+    },
+    "V0304_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tribute Summon!"
+    },
+    "V0304_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fusion Summon!"
+    },
+    "V0304_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ritual Summon!"
+    },
+    "V0304_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Summon!"
+    },
+    "V0304_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Xyz Summon!"
+    },
+    "V0304_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pendulum Summon!"
+    },
+    "V0304_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Link Summon!"
+    },
+    "V0304_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Maximum Summon a monster!"
+    },
+    "V0304_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Maximum Summon!"
+    },
+    "V0304_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Fusion Summon a monster!"
+    },
+    "V0304_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fusion Summon!"
+    },
+    "V0304_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Contact Fusion a monster!"
+    },
+    "V0304_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Contact Fusion!"
+    },
+    "V0304_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Ritual Summon a monster!"
+    },
+    "V0304_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ritual Summon!"
+    },
+    "V0304_28_00_12_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        47
+      ],
+      "text": "There's always a chance ta win if ya never give up!"
+    },
+    "V0304_29_00_12_0": {
+      "face": 4,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        47
+      ],
+      "text": "Whoa Serenity...\nDat was amazin'..."
+    },
+    "V0304_36_00_09_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        47
+      ],
+      "text": "We're one step from a win!\nYou can do it, Serenity!"
+    },
+    "V0304_36_00_10_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        47
+      ],
+      "text": "You're up, Serenity.\nJust believe in yourself."
+    },
+    "V0304_36_00_11_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        47
+      ],
+      "text": "Don't give up, Serenity!\nI'm here with ya all the way!"
+    },
+    "V0304_48_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Here I go!"
+    },
+    "V0304_48_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Get ready for da rush!"
+    },
+    "V0304_51_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Joey Wheeler!"
+    },
+    "V0304_51_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Go rush!"
+    },
+    "V0304_49_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aww yeah!\nI was born for dis!"
+    },
+    "V0304_49_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
+    },
+    "V0304_08_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5904
+      ],
+      "duelist": [],
+      "text": "I activate my Spell Card, Stray Lambs!"
+    },
+    "V0304_08_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19729
+      ],
+      "duelist": [],
+      "text": "I activate my Continuous Spell!\nFlame Swordsrealm!"
+    },
+    "V0304_08_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19729
+      ],
+      "duelist": [],
+      "text": "I send a monster to da Grave to activate Flame Swordsrealm!"
+    },
+    "V0304_08_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19729
+      ],
+      "duelist": [],
+      "text": "Hope dis works!\nI activate Flame Swordsrealm's effect!"
+    },
+    "V0304_08_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19730
+      ],
+      "duelist": [],
+      "text": "I activate my Equip Spell!\nSalamandra Fusion!"
+    },
+    "V0304_08_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19731
+      ],
+      "duelist": [],
+      "text": "Here goes!\nDa Quick-Play Spell, Fighting Flame Sword!"
+    },
+    "V0304_08_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19733
+      ],
+      "duelist": [],
+      "text": "I activate my Trap Card!\nFlame Swordsdance!"
+    },
+    "V0304_08_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19733
+      ],
+      "duelist": [],
+      "text": "I activate Flame Swordsdance's effect from da Graveyard!"
+    },
+    "V0304_08_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19732
+      ],
+      "duelist": [],
+      "text": "I activate da Trap, Salamandra with Chain!"
+    },
+    "V0304_08_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19732
+      ],
+      "duelist": [],
+      "text": "I activate Salamandra with Chain's effect from da Graveyard!"
+    },
+    "V0304_08_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20547
+      ],
+      "duelist": [],
+      "text": "I activate my Trap, Max Metalmorph!"
+    },
+    "V0304_08_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20812
+      ],
+      "duelist": [],
+      "text": "I activate my Trap!\nFlame Coating Metalmorph!"
+    },
+    "V0304_08_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20548
+      ],
+      "duelist": [],
+      "text": "I activate da Trap, Time Engine!"
+    },
+    "V0304_08_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21580
+      ],
+      "duelist": [],
+      "text": "I activate my Equip Spell!\nWINDS OF VICTORY!"
+    },
+    "V0304_08_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21579
+      ],
+      "duelist": [],
+      "text": "I activate my Trap!\nVenomous Scorpion Trap!"
+    },
+    "V0304_09_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20481
+      ],
+      "duelist": [],
+      "text": "I activate Red-Eyes Black Fullmetal Dragon from my hand!"
+    },
+    "V0304_09_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20481
+      ],
+      "duelist": [],
+      "text": "Red-Eyes Black Fullmetal Dragon activates its effect!"
+    },
+    "V0304_09_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17243
+      ],
+      "duelist": [],
+      "text": "I activate Red-Eyes Soul's effect!"
+    },
+    "V0304_09_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17243
+      ],
+      "duelist": [],
+      "text": "Red-Eyes Soul!\nDeal 'em damage!"
+    },
+    "V0304_09_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21162
+      ],
+      "duelist": [],
+      "text": "Red-Eyes Metal Claws Dragon's effect activates from my hand!"
+    },
+    "V0304_09_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21162
+      ],
+      "duelist": [],
+      "text": "Red-Eyes Metal Claws Dragon activates its effect!"
+    },
+    "V0304_09_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17388
+      ],
+      "duelist": [],
+      "text": "I activate Red-Eyes Black Meteor Dragon from my hand!"
+    },
+    "V0304_09_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17388
+      ],
+      "duelist": [],
+      "text": "Red-Eyes Black Meteor Dragon activates from da Graveyard!"
+    },
+    "V0304_09_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14952
+      ],
+      "duelist": [],
+      "text": "I activate Red-Eyes Dark Dragoon's effect!"
+    },
+    "V0304_09_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14801
+      ],
+      "duelist": [],
+      "text": "Immortal Phoenix Gearfried's effect activates from my hand!"
+    },
+    "V0304_09_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14801
+      ],
+      "duelist": [],
+      "text": "I activate Immortal Phoenix Gearfried's effect!"
+    },
+    "V0304_09_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8431
+      ],
+      "duelist": [],
+      "text": "Phoenix Gearfried activates his effect!"
+    },
+    "V0304_09_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6724
+      ],
+      "duelist": [],
+      "text": "I activate Gilti-Gearfried's effect!"
+    },
+    "V0304_09_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19727
+      ],
+      "duelist": [],
+      "text": "Ultimate Flame Swordsman activates his effect!"
+    },
+    "V0304_09_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20753
+      ],
+      "duelist": [],
+      "text": "I activate Metalflame Swordsman's effect from my hand!"
+    },
+    "V0304_09_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14333
+      ],
+      "duelist": [],
+      "text": "Ferocious Flame Swordsman activates his effect!"
+    },
+    "V0304_09_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19724
+      ],
+      "duelist": [],
+      "text": "Fighting Flame Swordsman's effect activates!"
+    },
+    "V0304_09_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19724
+      ],
+      "duelist": [],
+      "text": "Fighting Flame Swordsman activates when he goes to da Grave!"
+    },
+    "V0304_09_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19728
+      ],
+      "duelist": [],
+      "text": "I activate Fighting Flame Dragon's effect!"
+    },
+    "V0304_09_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15344
+      ],
+      "duelist": [],
+      "text": "I'm gonna activate this fella's effect from my hand!"
+    },
+    "V0304_09_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15344
+      ],
+      "duelist": [],
+      "text": "I activate Jinzo the Machine Menace's effect!"
+    },
+    "V0304_09_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16621
+      ],
+      "duelist": [],
+      "text": "Soul Spear's gonna strike his opponent down!"
+    },
+    "V0304_09_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16621
+      ],
+      "duelist": [],
+      "text": "Giltia the D. Knight - Soul Spear!\nActivate your effect!"
+    },
+    "V0304_09_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15461
+      ],
+      "duelist": [],
+      "text": "Hundred Dragon activates its effect!"
+    },
+    "V0304_09_00_75_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19725
+      ],
+      "duelist": [],
+      "text": "I activate Salamandra, the Flying Flame Dragon's effect!"
+    },
+    "V0304_09_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20484
+      ],
+      "duelist": [],
+      "text": "Metal Illusionist activates its effect!"
+    },
+    "V0304_09_00_78_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15462
+      ],
+      "duelist": [],
+      "text": "Time Wizard of Tomorrow!\nIt's all in your hands!"
+    },
+    "V0304_09_00_78_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Time Roulette!"
+    },
+    "V0304_40_00_79_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15462
+      ],
+      "duelist": [],
+      "text": "Oh yeah!"
+    },
+    "V0304_40_00_79_1": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Time Sorcery!"
+    },
+    "V0304_40_00_80_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15462
+      ],
+      "duelist": [],
+      "text": "Gah!\nDis for real!?"
+    },
+    "V0304_13_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        20481
+      ],
+      "duelist": [],
+      "text": "Red-Eyes Black Fullmetal Dragon!"
+    },
+    "V0304_13_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        17243
+      ],
+      "duelist": [],
+      "text": "My heart's in dis card!"
+    },
+    "V0304_13_00_38_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [],
+      "duelist": [],
+      "text": "Red-Eyes Soul!"
+    },
+    "V0304_13_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        21162
+      ],
+      "duelist": [],
+      "text": "Red-Eyes Metal Claws Dragon!"
+    },
+    "V0304_13_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        17388
+      ],
+      "duelist": [],
+      "text": "Red-Eyes Black Meteor Dragon!"
+    },
+    "V0304_13_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14952
+      ],
+      "duelist": [],
+      "text": "Red-Eyes Dark Dragoon!"
+    },
+    "V0304_13_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14801
+      ],
+      "duelist": [],
+      "text": "Immortal Phoenix Gearfried!"
+    },
+    "V0304_13_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        8431
+      ],
+      "duelist": [],
+      "text": "Phoenix Gearfried!"
+    },
+    "V0304_13_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        6724
+      ],
+      "duelist": [],
+      "text": "Gilti-Gearfried the Magical Steel Knight!"
+    },
+    "V0304_13_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        19727
+      ],
+      "duelist": [],
+      "text": "Oh yeah!\nHere comes Ultimate Flame Swordsman!"
+    },
+    "V0304_13_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        20753
+      ],
+      "duelist": [],
+      "text": "Metalflame Swordsman!"
+    },
+    "V0304_13_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        14333
+      ],
+      "duelist": [],
+      "text": "Check dis out!\nFerocious Flame Swordsman!"
+    },
+    "V0304_13_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19724
+      ],
+      "duelist": [],
+      "text": "Fighting Flame Swordsman!"
+    },
+    "V0304_13_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        19728
+      ],
+      "duelist": [],
+      "text": "Appear, Fighting Flame Dragon!"
+    },
+    "V0304_13_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        15344
+      ],
+      "duelist": [],
+      "text": "Jinzo the Machine Menace!"
+    },
+    "V0304_13_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        16621
+      ],
+      "duelist": [],
+      "text": "Giltia the D. Knight - Soul Spear!"
+    },
+    "V0304_13_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        15462
+      ],
+      "duelist": [],
+      "text": "I'm countin' on ya!\nTime Wizard of Tomorrow!"
+    },
+    "V0304_13_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4074
+      ],
+      "duelist": [],
+      "text": "This'll do!\nGaroozis!"
+    },
+    "V0304_13_00_74_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        15461
+      ],
+      "duelist": [],
+      "text": "Come on out!\nHundred Dragon!"
+    },
+    "V0304_13_00_75_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4299
+      ],
+      "duelist": [],
+      "text": "Masaki the Legendary Swordsman!"
+    },
+    "V0304_13_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4148
+      ],
+      "duelist": [],
+      "text": "Flame Manipulator!\nYou're up!"
+    },
+    "V0304_13_00_80_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19725
+      ],
+      "duelist": [],
+      "text": "Salamandra, the Flying Flame Dragon!"
+    },
+    "V0304_13_00_81_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20484
+      ],
+      "duelist": [],
+      "text": "Now's da perfect time for Metal Illusionist!"
+    },
+    "V0304_13_00_83_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3902
+      ],
+      "duelist": [],
+      "text": "I Special Summon a Sheep Token!"
+    },
+    "V0304_13_00_84_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3918
+      ],
+      "duelist": [],
+      "text": "I Special Summon a Lamb Token!"
+    },
+    "V0304_19_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20481
+      ],
+      "duelist": [],
+      "text": "Red-Eyes Black Fullmetal Dragon!\nAttack!"
+    },
+    "V0304_19_00_39_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Flash Flare Blast!"
+    },
+    "V0304_19_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17243
+      ],
+      "duelist": [],
+      "text": "Red-Eyes Soul!\nAttack 'em!"
+    },
+    "V0304_19_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21162
+      ],
+      "duelist": [],
+      "text": "Red-Eyes Metal Claws Dragon!\nTear 'em up!"
+    },
+    "V0304_19_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17388
+      ],
+      "duelist": [],
+      "text": "Red-Eyes Black Meteor Dragon!\nAttack!"
+    },
+    "V0304_19_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14952
+      ],
+      "duelist": [],
+      "text": "Red-Eyes Dark Dragoon!\nDo your thing!"
+    },
+    "V0304_19_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14801
+      ],
+      "duelist": [],
+      "text": "Immortal Phoenix Gearfried!\nAttack!"
+    },
+    "V0304_19_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8431
+      ],
+      "duelist": [],
+      "text": "Phoenix Gearfried attacks!"
+    },
+    "V0304_19_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6724
+      ],
+      "duelist": [],
+      "text": "Gilti-Gearfried!\nAttack!"
+    },
+    "V0304_19_00_50_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Soul Blade!"
+    },
+    "V0304_19_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19727
+      ],
+      "duelist": [],
+      "text": "Ultimate Flame Swordsman!\nAttack!"
+    },
+    "V0304_19_00_52_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Blazing Sword of Battle!"
+    },
+    "V0304_19_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20753
+      ],
+      "duelist": [],
+      "text": "Metalflame Swordsman!\nStrike 'em down!"
+    },
+    "V0304_19_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14333
+      ],
+      "duelist": [],
+      "text": "Ferocious Flame Swordsman!\nAttack!"
+    },
+    "V0304_19_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10864
+      ],
+      "duelist": [],
+      "text": "Slash 'em up, Blue Flame Swordsman!"
+    },
+    "V0304_19_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19724
+      ],
+      "duelist": [],
+      "text": "Attack, Fighting Flame Swordsman!"
+    },
+    "V0304_19_00_56_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fighting Flame Sword!"
+    },
+    "V0304_19_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19728
+      ],
+      "duelist": [],
+      "text": "Fighting Flame Dragon attacks!"
+    },
+    "V0304_19_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15344
+      ],
+      "duelist": [],
+      "text": "Jinzo the Machine Menace attacks!"
+    },
+    "V0304_19_00_66_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Menacing Cyber Energy Shock!"
+    },
+    "V0304_19_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16621
+      ],
+      "duelist": [],
+      "text": "Giltia the D. Knight!\nAttack!"
+    },
+    "V0304_19_00_70_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Soul Spear!"
+    },
+    "V0304_19_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15462
+      ],
+      "duelist": [],
+      "text": "Time Wizard of Tomorrow!\nAttack!"
+    },
+    "V0304_19_00_73_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4074
+      ],
+      "duelist": [],
+      "text": "Garoozis! Attack!"
+    },
+    "V0304_19_00_73_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Five-Slash Strike!"
+    },
+    "V0304_19_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15461
+      ],
+      "duelist": [],
+      "text": "Hundred Dragon! Attack!"
+    },
+    "V0304_19_00_76_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Toxic Nostril Gust!"
+    },
+    "V0304_19_00_77_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4299
+      ],
+      "duelist": [],
+      "text": "Masaki the Legendary Swordsman!\nAttack!"
+    },
+    "V0304_19_00_78_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4148
+      ],
+      "duelist": [],
+      "text": "Attack, Flame Manipulator!"
+    },
+    "V0304_19_00_82_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19725
+      ],
+      "duelist": [],
+      "text": "Salamandra, the Flying Flame Dragon!\nTorch 'em!"
+    },
+    "V0304_19_00_83_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20484
+      ],
+      "duelist": [],
+      "text": "Metal Illusionist!\nAttack!"
+    },
+    "V0304_19_00_85_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3902
+      ],
+      "duelist": [],
+      "text": "My Sheep Token attacks!"
+    },
+    "V0304_19_00_86_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3918
+      ],
+      "duelist": [],
+      "text": "I attack with my Lamb Token!"
     }
   }
 }

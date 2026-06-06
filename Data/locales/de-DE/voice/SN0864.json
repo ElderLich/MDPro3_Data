@@ -48,7 +48,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        906
       ],
       "text": "Ich war noch nie so bereit für ein Ramen-Spektakel!"
     },
@@ -591,6 +591,22 @@
       "card": [],
       "duelist": [],
       "text": "Kontaktfusion!"
+    },
+    "V0864_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Ritualbeschwörung!"
+    },
+    "V0864_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ritualbeschwörung!"
     },
     "V0864_14_00_00_0": {
       "face": 1,
@@ -1342,7 +1358,7 @@
         17005
       ],
       "duelist": [],
-      "text": " aktiviert seinen Effekt!"
+      "text": "Extra Meat der Spezial-Nudelninja aktiviert seinen Effekt!"
     },
     "V0864_09_00_04_0": {
       "face": 3,
@@ -1352,7 +1368,7 @@
         17004
       ],
       "duelist": [],
-      "text": "Ich aktiviere den Effekt von !"
+      "text": "Ich aktiviere den Effekt von Instant Miso der Spezial-Nudelninja!"
     },
     "V0864_09_00_05_0": {
       "face": 3,
@@ -1362,7 +1378,7 @@
         18598
       ],
       "duelist": [],
-      "text": "Ich aktiviere den Effekt von !"
+      "text": "Ich aktiviere den Effekt von Katzenkrallen-Mädchen!"
     },
     "V0864_37_00_00_0": {
       "face": 3,
@@ -1504,7 +1520,7 @@
         17005
       ],
       "duelist": [],
-      "text": "Darf ich vorstellen …\n!"
+      "text": "Darf ich vorstellen …\nExtra Meat der Spezial-Nudelninja!"
     },
     "V0864_13_00_09_0": {
       "face": 3,
@@ -1514,7 +1530,7 @@
         17004
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Instant Miso der Spezial-Nudelninja!"
     },
     "V0864_13_00_10_0": {
       "face": 3,
@@ -1524,7 +1540,7 @@
         16975
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Medley der Elite-Nudelninja!"
     },
     "V0864_13_00_11_0": {
       "face": 3,
@@ -1554,7 +1570,7 @@
         16974
       ],
       "duelist": [],
-      "text": "Geschmacksinspektor!"
+      "text": "Geschmacksinspektorin!"
     },
     "V0864_37_00_02_0": {
       "face": 8,
@@ -1574,7 +1590,7 @@
         18598
       ],
       "duelist": [],
-      "text": "Hier ist !"
+      "text": "Hier ist Katzenkrallen-Mädchen!"
     },
     "V0864_19_00_00_0": {
       "face": 3,
@@ -1676,7 +1692,7 @@
         17005
       ],
       "duelist": [],
-      "text": "Greif an, !"
+      "text": "Greif an, Extra Meat der Spezial-Nudelninja!"
     },
     "V0864_19_00_07_0": {
       "face": 3,
@@ -1686,7 +1702,7 @@
         17004
       ],
       "duelist": [],
-      "text": " greift an!"
+      "text": "Instant Miso der Spezial-Nudelninja greift an!"
     },
     "V0864_19_00_08_0": {
       "face": 3,
@@ -1696,7 +1712,7 @@
         16975
       ],
       "duelist": [],
-      "text": "!\nAngriff!"
+      "text": "Medley der Elite-Nudelninja!\nAngriff!"
     },
     "V0864_19_00_09_0": {
       "face": 3,
@@ -1726,7 +1742,7 @@
         16974
       ],
       "duelist": [],
-      "text": "Greif an, Geschmacksinspektor!"
+      "text": "Greif an, Geschmacksinspektorin!"
     },
     "V0864_19_00_12_0": {
       "face": 3,
@@ -1736,7 +1752,7 @@
         18598
       ],
       "duelist": [],
-      "text": "!\nHieb!"
+      "text": "Katzenkrallen-Mädchen!\nHieb!"
     },
     "V0864_02_00_00_0": {
       "face": 8,
@@ -1849,6 +1865,22 @@
       "card": [],
       "duelist": [],
       "text": "Nuuuuuuuuuudeln!"
+    },
+    "V0864_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Lass uns beginnen!"
+    },
+    "V0864_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo-Rush-Duel!"
     }
   }
 }

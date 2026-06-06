@@ -1608,7 +1608,7 @@
         18286
       ],
       "duelist": [],
-      "text": "La Carte Magie, Vérification de BŒU:F ! !"
+      "text": "La Carte Magie, Vérification de BŒU:F ! !"
     },
     "V0704_08_00_12_0": {
       "face": 3,
@@ -1728,7 +1728,7 @@
         16715
       ],
       "duelist": [],
-      "text": "J'active ma Carte Piège,  !"
+      "text": "J'active ma Carte Piège, Compteur Psychique !"
     },
     "V0704_09_00_00_0": {
       "face": 3,
@@ -1954,7 +1954,7 @@
         17680
       ],
       "duelist": [],
-      "text": " active son effet !"
+      "text": "TOTALEMENT CAN:D active son effet !"
     },
     "V0704_09_00_17_0": {
       "face": 3,
@@ -2012,7 +2012,7 @@
         17891
       ],
       "duelist": [],
-      "text": " active son effet !"
+      "text": "Amaours Lilith active son effet !"
     },
     "V0704_09_00_22_0": {
       "face": 3,
@@ -2356,7 +2356,7 @@
         17680
       ],
       "duelist": [],
-      "text": " !"
+      "text": "TOTALEMENT CAN:D !"
     },
     "V0704_37_00_06_0": {
       "face": 3,
@@ -2426,7 +2426,7 @@
         17891
       ],
       "duelist": [],
-      "text": " !"
+      "text": "Amaours Lilith !"
     },
     "V0704_13_00_19_0": {
       "face": 3,
@@ -2870,7 +2870,7 @@
         17680
       ],
       "duelist": [],
-      "text": " ! À l'attaque !"
+      "text": "TOTALEMENT CAN:D ! À l'attaque !"
     },
     "V0704_19_00_14_0": {
       "face": 3,
@@ -2938,7 +2938,7 @@
         17891
       ],
       "duelist": [],
-      "text": "Attaque,  !"
+      "text": "Attaque, Amaours Lilith !"
     },
     "V0704_19_00_20_0": {
       "face": 3,
@@ -3299,6 +3299,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaah !"
+    },
+    "V0704_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'arrive !"
+    },
+    "V0704_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel !"
     }
   }
 }

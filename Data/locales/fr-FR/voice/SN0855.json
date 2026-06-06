@@ -848,7 +848,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        854
+        854,
+        719
       ],
       "text": "Même si des années-lumière nous séparent, notre lien reste."
     },
@@ -1311,6 +1312,22 @@
       "card": [],
       "duelist": [],
       "text": "Bop bap bip biiip !"
+    },
+    "V0855_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Bip bip bop !"
+    },
+    "V0855_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel !"
     }
   }
 }

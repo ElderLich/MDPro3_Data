@@ -69,6 +69,32 @@
       ],
       "text": "Oh, hai un Numero. Sarà divertente."
     },
+    "V0410_01_00_06_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        416,
+        447,
+        417,
+        448
+      ],
+      "text": "Non sei un Bariano, sei uno di noi!"
+    },
+    "V0410_01_00_07_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        416,
+        447,
+        417,
+        448
+      ],
+      "text": "So che sei ancora lì dentro, Shark. Ti salverò!"
+    },
     "V0410_02_00_00_0": {
       "face": 11,
       "frame": 1,
@@ -747,9 +773,22 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        412
+        412,
+        417,
+        448
       ],
       "text": "Davvero, non è questo che volevo."
+    },
+    "V0410_28_00_04_0": {
+      "face": 13,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        416,
+        447
+      ],
+      "text": "Torna da noi, Shark!"
     },
     "V0410_29_00_00_0": {
       "face": 19,
@@ -812,6 +851,30 @@
         412
       ],
       "text": "Se non oggi, forse un giorno potrai perdonarmi."
+    },
+    "V0410_29_00_06_0": {
+      "face": 15,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        416,
+        447,
+        417,
+        448
+      ],
+      "text": "Credo che sia impossibile cambiare il destino."
+    },
+    "V0410_29_00_07_0": {
+      "face": 15,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        416,
+        447
+      ],
+      "text": "Sono contento che sia stato tu il mio ultimo l'avversario."
     },
     "V0410_31_00_00_0": {
       "face": 14,

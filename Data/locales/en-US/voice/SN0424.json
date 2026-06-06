@@ -26,7 +26,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        447,
+        417,
+        448
       ],
       "text": "Accept this Duel so I can prove I'm superior to you!"
     },
@@ -74,7 +78,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        447,
+        417,
+        448
       ],
       "text": "My Duel Disk's ready!\nPrepare for the battle of your life!"
     },
@@ -913,7 +921,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        447,
+        417,
+        448
       ],
       "text": "Heh.\nAs if any other outcome was possible."
     },
@@ -1017,7 +1029,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        447,
+        417,
+        448
       ],
       "text": "You..."
     },
@@ -1061,7 +1077,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        447,
+        417,
+        448
       ],
       "text": "Impossible...\nHow can anyone overcome Tachyon's effect?"
     },
@@ -1435,7 +1455,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        416
+        416,
+        447
       ],
       "text": "Nash!\nTake care of this!"
     },

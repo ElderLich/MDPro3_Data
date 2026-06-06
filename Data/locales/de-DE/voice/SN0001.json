@@ -3152,7 +3152,7 @@
         21612
       ],
       "duelist": [],
-      "text": "Ich aktiviere meinen Schnellzauber!\n!"
+      "text": "Ich aktiviere meinen Schnellzauber!\nDer Blick von Timaeus!"
     },
     "V0001_09_00_05_0": {
       "face": 3,
@@ -3688,7 +3688,7 @@
         21610
       ],
       "duelist": [],
-      "text": " aktiviert seinen Effekt!"
+      "text": "Dunkler Magier der Zerstörung aktiviert seinen Effekt!"
     },
     "V0001_09_00_53_0": {
       "face": 3,
@@ -3698,7 +3698,7 @@
         21611
       ],
       "duelist": [],
-      "text": "Ich aktiviere den Effekt von !"
+      "text": "Ich aktiviere den Effekt von Timaeus der vereinte magische Drache!"
     },
     "V0001_13_00_19_0": {
       "face": 3,
@@ -4308,7 +4308,7 @@
         21610
       ],
       "duelist": [],
-      "text": "Erscheine!\n!"
+      "text": "Erscheine!\nDunkler Magier der Zerstörung!"
     },
     "V0001_13_00_75_0": {
       "face": 3,
@@ -4318,7 +4318,7 @@
         21611
       ],
       "duelist": [],
-      "text": "Labe deine Augen an !"
+      "text": "Labe deine Augen an Timaeus der vereinte magische Drache!"
     },
     "V0001_19_00_10_0": {
       "face": 3,
@@ -5101,7 +5101,7 @@
         21610
       ],
       "duelist": [],
-      "text": "!\nAngriff!"
+      "text": "Dunkler Magier der Zerstörung!\nAngriff!"
     },
     "V0001_19_00_69_0": {
       "face": 3,
@@ -5111,7 +5111,7 @@
         21611
       ],
       "duelist": [],
-      "text": "!\nAngriff!"
+      "text": "Timaeus der vereinte magische Drache!\nAngriff!"
     }
   }
 }

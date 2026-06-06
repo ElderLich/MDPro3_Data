@@ -40,7 +40,11 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219,
+        220,
+        221,
+        222
       ],
       "text": "Allez, je t'embarque pour t'interroger !"
     },
@@ -1813,7 +1817,10 @@
         203,
         204,
         206,
-        209
+        209,
+        219,
+        220,
+        221
       ],
       "text": "Les gens ne devraient pas se fier à des voyous comme vous."
     },
@@ -1919,7 +1926,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei...\nMa vie a changé le jour de notre rencontre."
     },
@@ -1929,7 +1937,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Ahhhh ! Noooon !\nJe suis plus rapide que le dirigeant de la diligence !"
     },
@@ -1941,7 +1950,8 @@
       "duelist": [
         203,
         204,
-        209
+        209,
+        221
       ],
       "text": "Pfff.\nLes enfants grandissent si vite de nos jours..."
     },

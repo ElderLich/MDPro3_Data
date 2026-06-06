@@ -848,7 +848,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        854
+        854,
+        719
       ],
       "text": "Siamo distanti anni luce, ma il nostro legame è eterno."
     },
@@ -1311,6 +1312,22 @@
       "card": [],
       "duelist": [],
       "text": "Boop biip buup buuuup!"
+    },
+    "V0855_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Buup buup boop!"
+    },
+    "V0855_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Duello Rush Turbo!"
     }
   }
 }

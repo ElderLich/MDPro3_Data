@@ -48,7 +48,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        906
       ],
       "text": "Nunca estive tão pronto para uma briga de macarrão!"
     },
@@ -591,6 +591,22 @@
       "card": [],
       "duelist": [],
       "text": "Fusão de Contato!"
+    },
+    "V0864_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação-Ritual de um monstro!"
+    },
+    "V0864_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Ritual!"
     },
     "V0864_14_00_00_0": {
       "face": 1,
@@ -1342,7 +1358,7 @@
         17005
       ],
       "duelist": [],
-      "text": " ativa seu efeito!"
+      "text": "Carne Extra, o Ninja Noodle Especial ativa seu efeito!"
     },
     "V0864_09_00_04_0": {
       "face": 3,
@@ -1352,7 +1368,7 @@
         17004
       ],
       "duelist": [],
-      "text": "Ativo o efeito de !"
+      "text": "Ativo o efeito de Miso Instantâneo, o Ninja Noodle Especial!"
     },
     "V0864_09_00_05_0": {
       "face": 3,
@@ -1362,7 +1378,7 @@
         18598
       ],
       "duelist": [],
-      "text": "Ativo o efeito de !"
+      "text": "Ativo o efeito de Garota Garras de Gato!"
     },
     "V0864_37_00_00_0": {
       "face": 3,
@@ -1504,7 +1520,7 @@
         17005
       ],
       "duelist": [],
-      "text": "Com vocês...\n!"
+      "text": "Com vocês...\nCarne Extra, o Ninja Noodle Especial!"
     },
     "V0864_13_00_09_0": {
       "face": 3,
@@ -1514,7 +1530,7 @@
         17004
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Miso Instantâneo, o Ninja Noodle Especial!"
     },
     "V0864_13_00_10_0": {
       "face": 3,
@@ -1524,7 +1540,7 @@
         16975
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Medley, o Ninja Noodle de Elite!"
     },
     "V0864_13_00_11_0": {
       "face": 3,
@@ -1574,7 +1590,7 @@
         18598
       ],
       "duelist": [],
-      "text": "Aqui está !"
+      "text": "Aqui está Garota Garras de Gato!"
     },
     "V0864_19_00_00_0": {
       "face": 3,
@@ -1676,7 +1692,7 @@
         17005
       ],
       "duelist": [],
-      "text": "Ataque, !"
+      "text": "Ataque, Carne Extra, o Ninja Noodle Especial!"
     },
     "V0864_19_00_07_0": {
       "face": 3,
@@ -1686,7 +1702,7 @@
         17004
       ],
       "duelist": [],
-      "text": " ataca!"
+      "text": "Miso Instantâneo, o Ninja Noodle Especial ataca!"
     },
     "V0864_19_00_08_0": {
       "face": 3,
@@ -1696,7 +1712,7 @@
         16975
       ],
       "duelist": [],
-      "text": "!\nAtacar!"
+      "text": "Medley, o Ninja Noodle de Elite!\nAtacar!"
     },
     "V0864_19_00_09_0": {
       "face": 3,
@@ -1736,7 +1752,7 @@
         18598
       ],
       "duelist": [],
-      "text": "!\nPra cima!"
+      "text": "Garota Garras de Gato!\nPra cima!"
     },
     "V0864_02_00_00_0": {
       "face": 8,
@@ -1849,6 +1865,22 @@
       "card": [],
       "duelist": [],
       "text": "Macarrããããããão!"
+    },
+    "V0864_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Vamos começar!"
+    },
+    "V0864_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
     }
   }
 }

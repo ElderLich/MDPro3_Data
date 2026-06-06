@@ -86,7 +86,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        906
       ],
       "text": "Hallo, Immi Imimi!"
     },
@@ -96,7 +96,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        869
       ],
       "text": "Du bist ein Anhänger des legendären Mieser-Mischling-Stils!"
     },
@@ -660,6 +660,22 @@
       "duelist": [],
       "text": "Kontaktfusion!"
     },
+    "V0901_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Ritualbeschwörung!"
+    },
+    "V0901_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ritualbeschwörung!"
+    },
     "V0901_14_00_00_0": {
       "face": 1,
       "frame": 0,
@@ -1099,7 +1115,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        869
       ],
       "text": "Der Mieser-Mischling-Stil ist eine beeindruckende Technik."
     },
@@ -1713,7 +1729,7 @@
         18386
       ],
       "duelist": [],
-      "text": "Almastro XI. – Wassermann aktiviert den Effekt!"
+      "text": "Almastro XI. - Wassermann aktiviert den Effekt!"
     },
     "V0901_09_00_07_0": {
       "face": 3,
@@ -2221,7 +2237,7 @@
         18386
       ],
       "duelist": [],
-      "text": "Der Richter der Nebel!\nAlmastro XI. – Wassermann!"
+      "text": "Der Richter der Nebel!\nAlmastro XI. - Wassermann!"
     },
     "V0901_37_00_07_0": {
       "face": 3,
@@ -2998,7 +3014,7 @@
         18386
       ],
       "duelist": [],
-      "text": "Almastro XI. – Wassermann!\nAngriff!"
+      "text": "Almastro XI. - Wassermann!\nAngriff!"
     },
     "V0901_19_00_09_1": {
       "face": 3,
@@ -3667,6 +3683,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaaahhhh!"
+    },
+    "V0901_49_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Lass uns loslegen!"
+    },
+    "V0901_49_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo-Rush-Duel!"
     }
   }
 }

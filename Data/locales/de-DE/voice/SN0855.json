@@ -848,7 +848,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        854
+        854,
+        719
       ],
       "text": "Auch wenn uns Lichtjahre trennen, hält unser Band auf ewig."
     },
@@ -1311,6 +1312,22 @@
       "card": [],
       "duelist": [],
       "text": "Woo waa wee weeeeeeeee!"
+    },
+    "V0855_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Wee wee woo!"
+    },
+    "V0855_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo-Rush-Duel!"
     }
   }
 }

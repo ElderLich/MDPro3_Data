@@ -1397,7 +1397,7 @@
         16616
       ],
       "duelist": [],
-      "text": "¡Activo mi Carta Mágica !"
+      "text": "¡Activo mi Carta Mágica Revelación Celestial!"
     },
     "V0708_08_00_04_0": {
       "face": 3,
@@ -1417,7 +1417,7 @@
         18394
       ],
       "duelist": [],
-      "text": "¡Activo la Carta Mágica !"
+      "text": "¡Activo la Carta Mágica Selección Celestial!"
     },
     "V0708_08_00_06_0": {
       "face": 3,
@@ -2265,7 +2265,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "¡Turboduelo Rush!"
+      "text": "¡Rush Duel Turbo!"
     },
     "V0708_22_00_00_0": {
       "face": 7,

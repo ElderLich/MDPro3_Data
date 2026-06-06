@@ -1,0 +1,5542 @@
+{
+  "_GRP_": "SN0220",
+  "_LNG_": "fr-FR",
+  "info": {
+    "V0220_03_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tu ne peux plus rien faire !"
+    },
+    "V0220_03_00_00_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "À mon tour !"
+    },
+    "V0220_03_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "La ligne d'arrivée est en vue !"
+    },
+    "V0220_03_00_01_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est mon tour !"
+    },
+    "V0220_03_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ne t'attends pas à ce que je ralentisse !"
+    },
+    "V0220_03_00_02_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "À mon tour !"
+    },
+    "V0220_03_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est mon tour !"
+    },
+    "V0220_03_00_04_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "La victoire se prend, elle n'est pas donnée !"
+    },
+    "V0220_03_00_04_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "À mon tour !"
+    },
+    "V0220_03_00_05_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pfff ! Tes coups n'ont rien d'extraordinaire !"
+    },
+    "V0220_03_00_05_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est mon tour !"
+    },
+    "V0220_04_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je pioche !"
+    },
+    "V0220_04_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je pioche !"
+    },
+    "V0220_04_00_02_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je pioche !"
+    },
+    "V0220_05_00_00_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Admire la véritable puissance du roi Jack Atlas !"
+    },
+    "V0220_05_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Je pioche !!!"
+    },
+    "V0220_06_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Maintenant !"
+    },
+    "V0220_06_01_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Il va falloir faire mieux que ça !"
+    },
+    "V0220_06_01_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pathétique."
+    },
+    "V0220_06_01_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je connais tous tes coups !"
+    },
+    "V0220_07_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Depuis ma main..."
+    },
+    "V0220_07_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Carte Magie !"
+    },
+    "V0220_07_02_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Magie Jeu-Rapide !"
+    },
+    "V0220_07_03_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Magie Continue !"
+    },
+    "V0220_07_04_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Magie d'Équipement !"
+    },
+    "V0220_07_05_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Magie Rituelle !"
+    },
+    "V0220_07_06_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active ma Carte Piège !"
+    },
+    "V0220_07_07_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active mon Piège Continu !"
+    },
+    "V0220_07_08_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active mon Contre-Piège !"
+    },
+    "V0220_07_09_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ma carte face verso !"
+    },
+    "V0220_07_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je retourne ma carte face verso !"
+    },
+    "V0220_07_10_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active l'effet de mon monstre !"
+    },
+    "V0220_07_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Magie de Terrain !"
+    },
+    "V0220_07_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active un effet !"
+    },
+    "V0220_07_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je déclare une Échelle Pendule !"
+    },
+    "V0220_08_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9516
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie !\nSécurité Écarlate !"
+    },
+    "V0220_08_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9518
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie, Appel du Diapason !"
+    },
+    "V0220_08_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12339
+      ],
+      "duelist": [],
+      "text": "Ma Carte Magie, Euphorie Syntoniseur !"
+    },
+    "V0220_08_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8198
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie !\nConfiance Spirituelle !"
+    },
+    "V0220_08_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9517
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie, Vase du Dragon Rouge !"
+    },
+    "V0220_08_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4837
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie !\nPolymérisation !"
+    },
+    "V0220_08_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9519
+      ],
+      "duelist": [],
+      "text": "La Magie Continue Destruction Retentissante !"
+    },
+    "V0220_08_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9347
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie !\nDiapason à Réaction !"
+    },
+    "V0220_08_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8046
+      ],
+      "duelist": [],
+      "text": "Ma Magie Jeu-Rapide !\nSurcharge d'Assaut !"
+    },
+    "V0220_08_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8047
+      ],
+      "duelist": [],
+      "text": "J'active la Carte Magie, Téléportation d'Assaut !"
+    },
+    "V0220_08_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8048
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie Jeu-Rapide !\nRésurrection d'Assaut !"
+    },
+    "V0220_08_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8848
+      ],
+      "duelist": [],
+      "text": "La Carte Piège, Esprits Vengeurs !"
+    },
+    "V0220_08_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12469
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège Continu !\nRoi Écarlate !"
+    },
+    "V0220_08_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8216
+      ],
+      "duelist": [],
+      "text": "Mon Contre-Piège s'active, Feu de la Colère !"
+    },
+    "V0220_08_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12894
+      ],
+      "duelist": [],
+      "text": "Je révèle ma Carte Piège !\nAppel Synchro !"
+    },
+    "V0220_08_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7758
+      ],
+      "duelist": [],
+      "text": "Je révèle ma Carte Piège !\nRéfraction Synchronique !"
+    },
+    "V0220_08_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12066
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nCocon Rouge !"
+    },
+    "V0220_08_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9141
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège Continu, Écran Rouge !"
+    },
+    "V0220_08_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7757
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège Continu, Porte Spatiale !"
+    },
+    "V0220_08_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8674
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nPortes du Destin !"
+    },
+    "V0220_08_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8217
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nAttrape-Syntoniseurs !"
+    },
+    "V0220_08_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8675
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nChaîne Démoniaque !"
+    },
+    "V0220_08_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8063
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nArchdémons du Cauchemar !"
+    },
+    "V0220_08_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8062
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nLa Moitié ou Rien !"
+    },
+    "V0220_08_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8058
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nActivation Mode Assaut !"
+    },
+    "V0220_08_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7922
+      ],
+      "duelist": [],
+      "text": "Je retourne ma Carte Piège !\nRugissement d'Orgueil !"
+    },
+    "V0220_08_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12179
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège, Renaissance Rejetée !"
+    },
+    "V0220_08_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7923
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nCadeau de Rétablissement !"
+    },
+    "V0220_08_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12272
+      ],
+      "duelist": [],
+      "text": "J'active le Piège, Suprématie Rouge !"
+    },
+    "V0220_08_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8060
+      ],
+      "duelist": [],
+      "text": "Je retourne ma Carte Piège !\nDescente de l'Étoile Oubliée !"
+    },
+    "V0220_08_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4675
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège Continu, Sortilège de l'ombre !"
+    },
+    "V0220_08_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12271
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Piège, Accord du Roi !"
+    },
+    "V0220_08_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12657
+      ],
+      "duelist": [],
+      "text": "Mon Piège s'active !\nSynchro du Roi !"
+    },
+    "V0220_08_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10983
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège Continu, Puissante Renaissance !"
+    },
+    "V0220_08_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7924
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nLignée de Destruction !"
+    },
+    "V0220_08_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9534
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nTapis Rouge !"
+    },
+    "V0220_08_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8069
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nLacération d'Assaut !"
+    },
+    "V0220_08_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8070
+      ],
+      "duelist": [],
+      "text": "Mon Contre-Piège s'active !\nContre d'Assaut !"
+    },
+    "V0220_09_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8192
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Dragon Ailé, Seigneur des Explosions s'active !"
+    },
+    "V0220_09_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9801
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Épéiste Cramoisi s'active !"
+    },
+    "V0220_09_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12062
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Diapason Synkron s'active !"
+    },
+    "V0220_09_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9119
+      ],
+      "duelist": [],
+      "text": "Dragon Nova Rouge !\nActive ton effet !"
+    },
+    "V0220_09_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7734
+      ],
+      "duelist": [],
+      "text": "Admire l'effet de la Carte Dragon Poussière d'Étoile !"
+    },
+    "V0220_09_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7734
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Dragon Poussière d'Étoile s'active ! Résurrection !"
+    },
+    "V0220_09_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7704
+      ],
+      "duelist": [],
+      "text": "Voici l'effet de la Carte Golem Nain !"
+    },
+    "V0220_09_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8651
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Dragon Rouge Majestueux !"
+    },
+    "V0220_09_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8651
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Dragon Rouge Majestueux absorbe l'ATK de tes monstres !"
+    },
+    "V0220_09_00_08_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Gain de Puissance !"
+    },
+    "V0220_09_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7707
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Engrenage des Ténèbres !"
+    },
+    "V0220_09_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12930
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Double Diapason s'active !"
+    },
+    "V0220_09_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12063
+      ],
+      "duelist": [],
+      "text": "Ma Carte Diapason de la Chaîne active son effet !"
+    },
+    "V0220_09_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8816
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Roi Archdémon du Chaos !"
+    },
+    "V0220_09_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8617
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Pendulier de Combat !"
+    },
+    "V0220_09_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9297
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Diapason Magnétique depuis ma main !"
+    },
+    "V0220_09_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9477
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Diapason de Force !"
+    },
+    "V0220_09_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7732
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Multi Golem Suprême s'active !"
+    },
+    "V0220_09_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7705
+      ],
+      "duelist": [],
+      "text": "Golem Champion Invoque Spécialement un monstre de mon Deck !"
+    },
+    "V0220_09_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12064
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Miroir de Diapason s'active !"
+    },
+    "V0220_09_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12413
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Warg Rouge s'active !"
+    },
+    "V0220_09_00_19_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je l'Invoque Spécialement de ma main !"
+    },
+    "V0220_09_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12414
+      ],
+      "duelist": [],
+      "text": "J'envoie la Carte Protecteur Rouge de ma main dans mon Cimetière !"
+    },
+    "V0220_09_00_20_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tes effets ne peuvent pas détruire mes monstres ce tour-ci !"
+    },
+    "V0220_09_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12060
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Sprinteur Rouge s'active !"
+    },
+    "V0220_09_00_21_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque Spécialement un Syntoniseur de Type Démon !"
+    },
+    "V0220_09_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11990
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Lumicatrice Dragon Rouge Archdémon s'active !"
+    },
+    "V0220_09_00_22_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Puissance de la flamme infinie !"
+    },
+    "V0220_09_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12449
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Tyran Dragon Rouge Archdémon s'active !"
+    },
+    "V0220_09_00_23_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Puissance de l'enfer infini !"
+    },
+    "V0220_09_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12449
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Tyran Dragon Rouge Archdémon s'active !"
+    },
+    "V0220_09_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8007
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Dragon Rouge Archdémon/Mode Assaut s'active !"
+    },
+    "V0220_09_00_25_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fin Cramoisie"
+    },
+    "V0220_09_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8007
+      ],
+      "duelist": [],
+      "text": "Dragon Rouge Archdémon/Mode Assaut ! Ressuscite mon monstre !"
+    },
+    "V0220_09_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7735
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Dragon Rouge Archdémon !"
+    },
+    "V0220_09_00_27_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Météore de démon !"
+    },
+    "V0220_09_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7735
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Dragon Rouge Archdémon s'active !"
+    },
+    "V0220_09_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12540
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Nova Rouge !"
+    },
+    "V0220_09_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12415
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Miroir Rouge s'active !"
+    },
+    "V0220_09_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12695
+      ],
+      "duelist": [],
+      "text": "Dragon Ascendant Rouge ! Active ton effet !"
+    },
+    "V0220_09_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12061
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Diapason Rouge s'active !"
+    },
+    "V0220_09_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12065
+      ],
+      "duelist": [],
+      "text": "Vouivre Rouge détruit le monstre qui a le plus d'ATK !"
+    },
+    "V0220_09_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12078
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Bouillant Dragon Rouge Archdémon des Abysses s'active !"
+    },
+    "V0220_09_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12079
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Bouillant Dragon Rouge Archdémon du Brisement s'active !"
+    },
+    "V0220_09_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10842
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Bouillant Dragon Rouge Archdémon s'active !"
+    },
+    "V0220_09_00_36_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Brûlure Cramoisie !"
+    },
+    "V0220_09_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12080
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Bouillant Dragon Rouge Archdémon Roi de la Calamité s'active !"
+    },
+    "V0220_09_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12080
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Bouillant Dragon Rouge Archdémon Roi de la Calamité s'active !"
+    },
+    "V0220_09_00_38_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Météore des Calamités !"
+    },
+    "V0220_09_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9012
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Gash le Seigneur Poussière !"
+    },
+    "V0220_09_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9051
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Étoilune le Roi Magicien !"
+    },
+    "V0220_09_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11642
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Roi Absolu Back Jack !"
+    },
+    "V0220_09_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9040
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Highlander des Ténèbres !"
+    },
+    "V0220_09_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9718
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Sirius Bleu, le Seigneur Loup Céleste !"
+    },
+    "V0220_09_00_43_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Sublimation bleue !"
+    },
+    "V0220_09_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12893
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Venviolent le Roi Errant !"
+    },
+    "V0220_10_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Euh..."
+    },
+    "V0220_10_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Viens à moi !"
+    },
+    "V0220_10_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Viens jouer !"
+    },
+    "V0220_10_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Regarde ça !"
+    },
+    "V0220_11_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre !"
+    },
+    "V0220_11_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre en Position de Défense !"
+    },
+    "V0220_11_02_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque Spécialement un monstre !"
+    },
+    "V0220_11_03_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je Sacrifie un monstre !"
+    },
+    "V0220_11_04_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Sacrifice !"
+    },
+    "V0220_11_05_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Fusion !"
+    },
+    "V0220_11_06_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Rituel !"
+    },
+    "V0220_11_07_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Synchro !"
+    },
+    "V0220_11_08_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Xyz !"
+    },
+    "V0220_11_09_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Pendulation !"
+    },
+    "V0220_11_10_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Lien !"
+    },
+    "V0220_37_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8192
+      ],
+      "duelist": [],
+      "text": "Le roi rugit et tu ressens le poids de la victoire !"
+    },
+    "V0220_37_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0220_13_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        8192
+      ],
+      "duelist": [],
+      "text": "Déplie tes ailes, Dragon Ailé, Seigneur des Explosions !"
+    },
+    "V0220_13_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9090
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur, Créateur de Diapason !"
+    },
+    "V0220_37_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9801
+      ],
+      "duelist": [],
+      "text": "Cette lame rouge annonce le verdict du roi !"
+    },
+    "V0220_37_00_01_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Surgis des flammes de mon Invocation Synchro !"
+    },
+    "V0220_13_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        9801
+      ],
+      "duelist": [],
+      "text": "Le dieu du feu, Épéiste Cramoisi !"
+    },
+    "V0220_13_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9478
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur, Diapason Horloge !"
+    },
+    "V0220_13_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12062
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur, Diapason Synkron !"
+    },
+    "V0220_37_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9119
+      ],
+      "duelist": [],
+      "text": "Admire ! Les étoiles dans les cieux..."
+    },
+    "V0220_37_00_02_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Et le feu sous la surface de la terre..."
+    },
+    "V0220_37_00_02_2": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Entrent en collision cosmique pour une Invocation Synchro !"
+    },
+    "V0220_13_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        9119
+      ],
+      "duelist": [],
+      "text": "Lève-toi ! Dragon Nova Rouge !"
+    },
+    "V0220_37_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7734
+      ],
+      "duelist": [],
+      "text": "Sur les ailes du vent, je fais une Invocation Synchro !"
+    },
+    "V0220_13_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        7734
+      ],
+      "duelist": [],
+      "text": "Rugis, Dragon Poussière d'Étoile !"
+    },
+    "V0220_13_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7704
+      ],
+      "duelist": [],
+      "text": "Viens, Golem Nain !"
+    },
+    "V0220_37_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8651
+      ],
+      "duelist": [],
+      "text": "La lumière éclaire la terre qu'elle conquiert !"
+    },
+    "V0220_37_00_04_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0220_13_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        8651
+      ],
+      "duelist": [],
+      "text": "Je te présente Dragon Rouge Majestueux !"
+    },
+    "V0220_13_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7707
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur, Engrenage des Ténèbres !"
+    },
+    "V0220_13_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7708
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur, Diapason des Ténèbres !"
+    },
+    "V0220_13_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12930
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur, Double Diapason !"
+    },
+    "V0220_13_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12063
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur, Diapason de la Chaîne !"
+    },
+    "V0220_37_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8816
+      ],
+      "duelist": [],
+      "text": "Le nouveau souverain émerge du chaos !"
+    },
+    "V0220_37_00_05_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0220_13_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        8816
+      ],
+      "duelist": [],
+      "text": "Roi Archdémon du Chaos !"
+    },
+    "V0220_13_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7991
+      ],
+      "duelist": [],
+      "text": "Envole-toi, Dragon Cruel !"
+    },
+    "V0220_13_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8617
+      ],
+      "duelist": [],
+      "text": "Rejoins-moi, Pendulier de Combat !"
+    },
+    "V0220_13_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9297
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur, Diapason Magnétique !"
+    },
+    "V0220_13_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7706
+      ],
+      "duelist": [],
+      "text": "Viens, Golem Goliath !"
+    },
+    "V0220_13_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9477
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur, Diapason de Force !"
+    },
+    "V0220_13_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8786
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur, Diapason des Flammes !"
+    },
+    "V0220_13_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7732
+      ],
+      "duelist": [],
+      "text": "Fusionnez et devenez Multi Golem Suprême !"
+    },
+    "V0220_13_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7705
+      ],
+      "duelist": [],
+      "text": "Viens, Golem Champion !"
+    },
+    "V0220_13_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12064
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur, Miroir de Diapason !"
+    },
+    "V0220_13_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12413
+      ],
+      "duelist": [],
+      "text": "Viens, Warg Rouge !"
+    },
+    "V0220_13_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12414
+      ],
+      "duelist": [],
+      "text": "Voilà la Carte Protecteur Rouge !"
+    },
+    "V0220_13_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12060
+      ],
+      "duelist": [],
+      "text": "Voilà Sprinteur Rouge !"
+    },
+    "V0220_37_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11990
+      ],
+      "duelist": [],
+      "text": "Des anciens gouffres d'un monde perdu..."
+    },
+    "V0220_37_00_06_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'éveille une puissance redoutable !\nInvocation Synchro !"
+    },
+    "V0220_13_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        11990
+      ],
+      "duelist": [],
+      "text": "Lève-toi, Lumicatrice Dragon Rouge Archdémon !"
+    },
+    "V0220_37_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12449
+      ],
+      "duelist": [],
+      "text": "Double syntonisation !"
+    },
+    "V0220_37_00_07_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je fais appel à une force considérable pour gagner ce Duel !"
+    },
+    "V0220_37_00_07_2": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0220_13_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        12449
+      ],
+      "duelist": [],
+      "text": "Incline-toi devant le terrible Tyran Dragon Rouge Archdémon !"
+    },
+    "V0220_13_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        8007
+      ],
+      "duelist": [],
+      "text": "Le conquérant émerge, vêtu d'une armure brûlante !"
+    },
+    "V0220_13_00_28_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Apparais devant moi, Dragon Rouge Archdémon/Mode Assaut !"
+    },
+    "V0220_37_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7735
+      ],
+      "duelist": [],
+      "text": "Découvre pourquoi on me nomme le Roi !"
+    },
+    "V0220_37_00_08_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0220_13_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        7735
+      ],
+      "duelist": [],
+      "text": "Mon âme ! Dragon Rouge Archdémon !"
+    },
+    "V0220_13_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12540
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur, Nova Rouge !"
+    },
+    "V0220_13_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12415
+      ],
+      "duelist": [],
+      "text": "Viens !\nMiroir Rouge !"
+    },
+    "V0220_37_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12695
+      ],
+      "duelist": [],
+      "text": "Mon dragon cramoisi illumine le chemin infernal !"
+    },
+    "V0220_37_00_09_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0220_13_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12695
+      ],
+      "duelist": [],
+      "text": "Vole, Dragon Ascendant Rouge !"
+    },
+    "V0220_13_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12061
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur, Diapason Rouge !"
+    },
+    "V0220_37_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12065
+      ],
+      "duelist": [],
+      "text": "Tremble devant le roi !"
+    },
+    "V0220_37_00_10_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0220_13_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        12065
+      ],
+      "duelist": [],
+      "text": "Lève-toi, Vouivre Rouge !"
+    },
+    "V0220_37_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12078
+      ],
+      "duelist": [],
+      "text": "Le roi des abîmes profonds libère sa rage !"
+    },
+    "V0220_37_00_11_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0220_13_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        12078
+      ],
+      "duelist": [],
+      "text": "Bouillant Dragon Rouge Archdémon des Abysses !"
+    },
+    "V0220_37_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12079
+      ],
+      "duelist": [],
+      "text": "Les montagnes s'écrouleront sous l'assaut des flammes !"
+    },
+    "V0220_37_00_12_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0220_13_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        12079
+      ],
+      "duelist": [],
+      "text": "Bouillant Dragon Rouge Archdémon du Brisement !"
+    },
+    "V0220_37_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10842
+      ],
+      "duelist": [],
+      "text": "Brûle la terre, tu es au sommet de l'échelle du vivant !"
+    },
+    "V0220_37_00_13_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Règne sur toute la création !\nInvocation Synchro !"
+    },
+    "V0220_13_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        10842
+      ],
+      "duelist": [],
+      "text": "Bouillant Dragon Rouge Archdémon !"
+    },
+    "V0220_37_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12080
+      ],
+      "duelist": [],
+      "text": "Double syntonisation !"
+    },
+    "V0220_37_00_14_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Le destructeur suprême annonce ton trépas !"
+    },
+    "V0220_37_00_14_2": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0220_13_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        12080
+      ],
+      "duelist": [],
+      "text": "Bouillant Dragon Rouge Archdémon Roi de la Calamité !"
+    },
+    "V0220_13_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9012
+      ],
+      "duelist": [],
+      "text": "Viens à moi, Gash le Seigneur Poussière !"
+    },
+    "V0220_13_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9051
+      ],
+      "duelist": [],
+      "text": "Viens, Étoilune le Roi Magicien !"
+    },
+    "V0220_13_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        8436
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur arrive !\nDragon Majestueux !"
+    },
+    "V0220_13_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9717
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur, Roi Fantôme Hydride !"
+    },
+    "V0220_13_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11642
+      ],
+      "duelist": [],
+      "text": "Voilà la Carte Roi Absolu Back Jack !"
+    },
+    "V0220_37_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9040
+      ],
+      "duelist": [],
+      "text": "L'étoile du destin vient juger tous les êtres vivants !"
+    },
+    "V0220_37_00_15_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0220_13_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        9040
+      ],
+      "duelist": [],
+      "text": "Viens !\nHighlander des Ténèbres !"
+    },
+    "V0220_37_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9718
+      ],
+      "duelist": [],
+      "text": "Le loup solitaire aux yeux bleus incinère les cieux !"
+    },
+    "V0220_37_00_16_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Montre à ces marionnettes qui dirige !\nInvocation Synchro !"
+    },
+    "V0220_13_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        9718
+      ],
+      "duelist": [],
+      "text": "Sirius Bleu, le Seigneur Loup Céleste !"
+    },
+    "V0220_13_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12893
+      ],
+      "duelist": [],
+      "text": "Viens !\nVenviolent le Roi Errant !"
+    },
+    "V0220_14_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Combat !"
+    },
+    "V0220_14_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Combattons !"
+    },
+    "V0220_15_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Prends ça !"
+    },
+    "V0220_15_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Hors de mon chemin !"
+    },
+    "V0220_15_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je t'anéantirai !"
+    },
+    "V0220_17_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mon monstre attaque !"
+    },
+    "V0220_17_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'attaque !"
+    },
+    "V0220_17_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attaque !"
+    },
+    "V0220_16_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Entends le rugissement de la puissance !"
+    },
+    "V0220_18_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je t'attaque directement !"
+    },
+    "V0220_18_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Et bim, attaque directe !"
+    },
+    "V0220_19_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8192
+      ],
+      "duelist": [],
+      "text": "Dragon Ailé, Seigneur des Explosions ! Attaque !"
+    },
+    "V0220_19_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tempête royale !"
+    },
+    "V0220_19_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9090
+      ],
+      "duelist": [],
+      "text": "Mon Créateur de Diapason attaque !"
+    },
+    "V0220_19_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9801
+      ],
+      "duelist": [],
+      "text": "Épéiste Cramoisi attaque !"
+    },
+    "V0220_19_00_02_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Assassin rouge !"
+    },
+    "V0220_19_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9478
+      ],
+      "duelist": [],
+      "text": "Diapason Horloge attaque !"
+    },
+    "V0220_19_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12062
+      ],
+      "duelist": [],
+      "text": "Bien joué, Lua !\nTes études avancent à ce que je vois !"
+    },
+    "V0220_19_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9119
+      ],
+      "duelist": [],
+      "text": "Dragon Nova Rouge ! Attaque !"
+    },
+    "V0220_19_00_05_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attaque d'Âme ardente !"
+    },
+    "V0220_19_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7734
+      ],
+      "duelist": [],
+      "text": "Dragon Poussière d'Étoile !\nJe t'ordonne d'attaquer !"
+    },
+    "V0220_19_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7704
+      ],
+      "duelist": [],
+      "text": "Golem Nain attaque !"
+    },
+    "V0220_19_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8651
+      ],
+      "duelist": [],
+      "text": "Dragon Rouge Majestueux attaque !"
+    },
+    "V0220_19_00_08_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Puissance ultime !"
+    },
+    "V0220_19_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7707
+      ],
+      "duelist": [],
+      "text": "Attaque, Engrenage des Ténèbres !"
+    },
+    "V0220_19_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7708
+      ],
+      "duelist": [],
+      "text": "Attaque, Diapason des Ténèbres !"
+    },
+    "V0220_19_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12930
+      ],
+      "duelist": [],
+      "text": "Double Diapason attaque !"
+    },
+    "V0220_19_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12063
+      ],
+      "duelist": [],
+      "text": "Mon Diapason de la Chaîne attaque !"
+    },
+    "V0220_19_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8816
+      ],
+      "duelist": [],
+      "text": "Attaque, Roi Archdémon du Chaos !"
+    },
+    "V0220_19_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7991
+      ],
+      "duelist": [],
+      "text": "Réduis-les en cendres, Dragon Cruel !"
+    },
+    "V0220_19_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8617
+      ],
+      "duelist": [],
+      "text": "Pendulier de Combat ! Attaque !"
+    },
+    "V0220_19_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9297
+      ],
+      "duelist": [],
+      "text": "Diapason Magnétique attaque !"
+    },
+    "V0220_19_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7706
+      ],
+      "duelist": [],
+      "text": "Golem Goliath attaque !"
+    },
+    "V0220_19_00_17_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pression puissante !"
+    },
+    "V0220_19_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9477
+      ],
+      "duelist": [],
+      "text": "Diapason de Force attaque !"
+    },
+    "V0220_19_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8786
+      ],
+      "duelist": [],
+      "text": "Diapason des Flammes attaque !"
+    },
+    "V0220_19_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7732
+      ],
+      "duelist": [],
+      "text": "Multi Golem Suprême !\nDétruis tout !"
+    },
+    "V0220_19_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7705
+      ],
+      "duelist": [],
+      "text": "Attaque, Golem Champion !"
+    },
+    "V0220_19_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12064
+      ],
+      "duelist": [],
+      "text": "Miroir de Diapason attaque !"
+    },
+    "V0220_19_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12413
+      ],
+      "duelist": [],
+      "text": "Attaque, Warg Rouge !"
+    },
+    "V0220_19_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12414
+      ],
+      "duelist": [],
+      "text": "Protecteur Rouge attaque !"
+    },
+    "V0220_19_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12060
+      ],
+      "duelist": [],
+      "text": "Mon Sprinteur Rouge attaque !"
+    },
+    "V0220_19_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11990
+      ],
+      "duelist": [],
+      "text": "Attaque, Lumicatrice Dragon Rouge Archdémon !"
+    },
+    "V0220_19_00_26_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Flamme cramoisie en fusion !"
+    },
+    "V0220_19_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12449
+      ],
+      "duelist": [],
+      "text": "Tyran Dragon Rouge Archdémon attaque !"
+    },
+    "V0220_19_00_27_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Marée cramoisie en fusion !"
+    },
+    "V0220_19_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8007
+      ],
+      "duelist": [],
+      "text": "Attaque, Dragon Rouge Archdémon/Mode Assaut !"
+    },
+    "V0220_19_00_28_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Force cramoisie extrême !"
+    },
+    "V0220_19_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7735
+      ],
+      "duelist": [],
+      "text": "Attaque, Dragon Rouge Archdémon !"
+    },
+    "V0220_19_00_29_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Puissance suprême !"
+    },
+    "V0220_19_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12540
+      ],
+      "duelist": [],
+      "text": "Nova Rouge attaque !"
+    },
+    "V0220_19_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12415
+      ],
+      "duelist": [],
+      "text": "Miroir Rouge attaque !"
+    },
+    "V0220_19_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12695
+      ],
+      "duelist": [],
+      "text": "Dragon Ascendant Rouge attaque !"
+    },
+    "V0220_19_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12061
+      ],
+      "duelist": [],
+      "text": "Diapason Rouge attaque !"
+    },
+    "V0220_19_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12065
+      ],
+      "duelist": [],
+      "text": "Vouivre Rouge ! Allons-y !"
+    },
+    "V0220_19_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12078
+      ],
+      "duelist": [],
+      "text": "Attaque, Bouillant Dragon Rouge Archdémon des Abysses !"
+    },
+    "V0220_19_00_35_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Brise-rage des abîmes !"
+    },
+    "V0220_19_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12079
+      ],
+      "duelist": [],
+      "text": "Attaque, Bouillant Dragon Rouge Archdémon du Brisement !"
+    },
+    "V0220_19_00_36_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Grand briseur de sommet !"
+    },
+    "V0220_19_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10842
+      ],
+      "duelist": [],
+      "text": "Attaque, Bouillant Dragon Rouge Archdémon !"
+    },
+    "V0220_19_00_37_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Dogme absolu !"
+    },
+    "V0220_19_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12080
+      ],
+      "duelist": [],
+      "text": "Bouillant Dragon Rouge Archdémon Roi de la Calamité, fais ployer son esprit !"
+    },
+    "V0220_19_00_38_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Briseur cramoisi ultime !"
+    },
+    "V0220_19_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9012
+      ],
+      "duelist": [],
+      "text": "Gash le Seigneur Poussière attaque !"
+    },
+    "V0220_19_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9051
+      ],
+      "duelist": [],
+      "text": "Étoilune le Roi Magicien ! Attaque !"
+    },
+    "V0220_19_00_40_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Flash stellaire !"
+    },
+    "V0220_19_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8436
+      ],
+      "duelist": [],
+      "text": "Dragon Majestueux attaque !"
+    },
+    "V0220_19_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9717
+      ],
+      "duelist": [],
+      "text": "Attaque, Roi Fantôme Hydride !"
+    },
+    "V0220_19_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11642
+      ],
+      "duelist": [],
+      "text": "Roi Absolu Back Jack attaque !"
+    },
+    "V0220_19_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9040
+      ],
+      "duelist": [],
+      "text": "Highlander des Ténèbres !\nRends ton jugement !"
+    },
+    "V0220_19_00_44_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Lacération polaire !"
+    },
+    "V0220_19_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9718
+      ],
+      "duelist": [],
+      "text": "Sirius Bleu, le Seigneur Loup Céleste attaque !"
+    },
+    "V0220_19_00_45_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Croc du loup !"
+    },
+    "V0220_19_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12893
+      ],
+      "duelist": [],
+      "text": "Venviolent le Roi Errant attaque !"
+    },
+    "V0220_20_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je Pose une carte."
+    },
+    "V0220_20_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je Pose une carte."
+    },
+    "V0220_20_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je Pose un monstre."
+    },
+    "V0220_20_01_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je Pose un monstre."
+    },
+    "V0220_21_00_00_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je termine mon tour !"
+    },
+    "V0220_21_00_00_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tu ne peux t'échapper, sauf si tu abandonnes !"
+    },
+    "V0220_21_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je termine mon tour."
+    },
+    "V0220_21_00_01_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Vas-y. Attaque-moi !"
+    },
+    "V0220_21_00_02_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Comment oses-tu me laisser en arrière ?"
+    },
+    "V0220_21_00_02_1": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je termine mon tour !"
+    },
+    "V0220_31_00_00_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Quoi ?!"
+    },
+    "V0220_31_00_01_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Impossible !"
+    },
+    "V0220_36_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Dis-leur que ce Duel est terminé !"
+    },
+    "V0220_36_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Occupe-toi de ça."
+    },
+    "V0220_36_00_02_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mon destin est entre tes mains !"
+    },
+    "V0220_22_00_00_0": {
+      "face": 4,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ouch !"
+    },
+    "V0220_22_00_01_0": {
+      "face": 4,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ergh..."
+    },
+    "V0220_22_00_02_0": {
+      "face": 4,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pfff !"
+    },
+    "V0220_26_00_00_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pfff..."
+    },
+    "V0220_26_00_01_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ce n'est pas très malin !"
+    },
+    "V0220_26_00_02_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Rien de mieux à proposer ?"
+    },
+    "V0220_25_00_00_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aaaaah !"
+    },
+    "V0220_25_00_01_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Urghhh !"
+    },
+    "V0220_25_00_02_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Grrrr !"
+    },
+    "V0220_27_00_00_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Comment oses-tu !"
+    },
+    "V0220_27_00_01_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je peux supporter ça..."
+    },
+    "V0220_27_00_02_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je... n'abandonnerai pas !"
+    },
+    "V0220_24_00_00_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Grr !"
+    },
+    "V0220_23_00_00_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 3,
+      "card": [],
+      "duelist": [],
+      "text": "Ahhhhhhhhh !"
+    },
+    "V0220_38_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "À vos marques... Prêt... Duel !"
+    },
+    "V0220_01_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Les Exécuteurs !\nC'est parti !"
+    },
+    "V0220_01_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Les Exécuteurs dominent les Duels !"
+    },
+    "V0220_01_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Si tu cherches la bagarre, en voilà une !"
+    },
+    "V0220_01_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Il est temps pour les Exécuteurs de s'exécuter !"
+    },
+    "V0220_01_00_04_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        219,
+        221,
+        222
+      ],
+      "text": "Je ne fais de cadeaux à personne !\nMême à mes alliés !"
+    },
+    "V0220_02_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Duel !"
+    },
+    "V0220_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active un Effet Pendule !"
+    },
+    "V0220_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Magie Rituelle !"
+    },
+    "V0220_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Sacrifice !"
+    },
+    "V0220_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Fusion !"
+    },
+    "V0220_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Rituelle !"
+    },
+    "V0220_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0220_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Xyz !"
+    },
+    "V0220_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Pendule !"
+    },
+    "V0220_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Lien !"
+    },
+    "V0220_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Maximum !"
+    },
+    "V0220_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Maximum !"
+    },
+    "V0220_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Fusion !"
+    },
+    "V0220_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Fusion !"
+    },
+    "V0220_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je Contact Fusionne un monstre !"
+    },
+    "V0220_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Contact Fusion !"
+    },
+    "V0220_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque Rituellement un monstre !"
+    },
+    "V0220_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Rituelle !"
+    },
+    "V0220_16_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Agenouille-toi devant les Exécuteurs !"
+    },
+    "V0220_21_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je vais vite t'achever !"
+    },
+    "V0220_21_00_03_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je termine mon tour !"
+    },
+    "V0220_21_00_04_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Voilà qui termine mon tour !"
+    },
+    "V0220_21_00_05_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je ne me soumettrai pas !"
+    },
+    "V0220_21_00_05_1": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je termine mon tour !"
+    },
+    "V0220_28_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ce district appartient maintenant aux Exécuteurs !"
+    },
+    "V0220_28_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ces voyous ne nous dérangeront plus."
+    },
+    "V0220_28_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Estimez-vous heureux de n'avoir perdu que ce Duel."
+    },
+    "V0220_28_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        219,
+        221,
+        222
+      ],
+      "text": "Si vous pensez que ça suffit pour dominer, vous rêvez."
+    },
+    "V0220_29_00_00_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Argh...\nComment a-t-on pu perdre... ?"
+    },
+    "V0220_29_00_01_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "On ne perdra pas aussi facilement !"
+    },
+    "V0220_29_00_02_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je dois m'accrocher à l'espoir qu'il me reste..."
+    },
+    "V0220_29_00_03_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        219,
+        221,
+        222
+      ],
+      "text": "Hmm... Pas mal !"
+    },
+    "V0220_33_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Observe la puissance des Exécuteurs !"
+    },
+    "V0220_33_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Je suis celui qui conquerra ce Duel !"
+    },
+    "V0220_33_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Permets-moi de t'exprimer toute ma gratitude !"
+    },
+    "V0220_34_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Merci d'avoir pris soin de mon ami."
+    },
+    "V0220_34_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "On se faisait du souci pour lui."
+    },
+    "V0220_34_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Permets-moi de t'exprimer toute ma gratitude !"
+    },
+    "V0220_34_00_03_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pour survivre, il fallait se faire des amis et être discret."
+    },
+    "V0220_34_00_04_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "À l'époque, j'avais Yusei et Crow... et Kalin."
+    },
+    "V0220_34_00_05_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Quand j'étais petit, la vie était dure à Satellite."
+    },
+    "V0220_34_00_06_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mais Kalin nous inspirait. Il nous a appris à croire en nous."
+    },
+    "V0220_34_00_07_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Sans Kalin, je ne sais pas où je serais aujourd'hui."
+    },
+    "V0220_34_00_08_0": {
+      "face": 4,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ressaisis-toi !"
+    },
+    "V0220_34_00_09_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Toi et moi, on n'est plus sur la même longueur d'onde."
+    },
+    "V0220_35_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Il n'y a rien de mieux que de dominer le Duel !"
+    },
+    "V0220_35_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Nous sommes les Exécuteurs !"
+    },
+    "V0220_36_00_09_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        219,
+        221,
+        222
+      ],
+      "text": "Montre-leur ce que les Exécuteurs ont dans le ventre !"
+    },
+    "V0220_36_00_10_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        219,
+        221,
+        222
+      ],
+      "text": "Ne laisse pas nos rêves prendre fin !"
+    },
+    "V0220_08_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15048
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie Jeu-Rapide ! \n !Ordre du Diapason !"
+    },
+    "V0220_08_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22561
+      ],
+      "duelist": [],
+      "text": "J'active la Carte Magie Appel Cramoisi !"
+    },
+    "V0220_08_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22561
+      ],
+      "duelist": [],
+      "text": "Je bannis Appel Cramoisi de mon Cimetière pour utiliser son effet !"
+    },
+    "V0220_08_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19018
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie Continue !\nGaïa Cramoisie !"
+    },
+    "V0220_08_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19018
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Gaïa Cramoisie s'active !"
+    },
+    "V0220_08_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19017
+      ],
+      "duelist": [],
+      "text": "J'active la Magie Jeu-Rapide Force de la Puissance Absolue !"
+    },
+    "V0220_08_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20413
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie d'Équipement ! \nÂme de Poing !"
+    },
+    "V0220_08_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20413
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Âme de Poing !"
+    },
+    "V0220_08_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14979
+      ],
+      "duelist": [],
+      "text": "J'active la Magie Jeu-Rapide Âme Enflammée !"
+    },
+    "V0220_08_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22157
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie de Terrain ! \nÉvolution Duel - Zone d'Assaut !"
+    },
+    "V0220_08_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22157
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Évolution Duel - Zone d'Assaut s'active !"
+    },
+    "V0220_08_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19202
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie !\nGrondement Synchro !"
+    },
+    "V0220_08_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22311
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie !\nSurréglage !"
+    },
+    "V0220_08_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17251
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nPlace à la Résistance !"
+    },
+    "V0220_08_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17251
+      ],
+      "duelist": [],
+      "text": "Je bannis Place à la Résistance de mon Cimetière pour l'activer !"
+    },
+    "V0220_08_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22312
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Piège !\nPulsations de Champion !"
+    },
+    "V0220_08_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22580
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nRésonance du Roi !"
+    },
+    "V0220_08_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19020
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège Continu !\nZone Rouge !"
+    },
+    "V0220_08_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19020
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Zone Rouge s'active !"
+    },
+    "V0220_08_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15060
+      ],
+      "duelist": [],
+      "text": "J'active le Piège, Règne Rouge !"
+    },
+    "V0220_08_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15060
+      ],
+      "duelist": [],
+      "text": "J'active la Carte Règne Rouge depuis mon Cimetière !"
+    },
+    "V0220_08_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19019
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nGolem Démoniaque !"
+    },
+    "V0220_08_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14305
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie Jeu-Rapide ! \n !Mode Assaut Zéro !"
+    },
+    "V0220_08_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14305
+      ],
+      "duelist": [],
+      "text": "Je bannis Mode Assaut Zéro de mon Cimetière pour l'activer !"
+    },
+    "V0220_08_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14320
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège, Redémarrage d'Assaut !"
+    },
+    "V0220_08_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14320
+      ],
+      "duelist": [],
+      "text": "Je bannis Redémarrage d'Assaut de mon Cimetière pour utiliser son effet !"
+    },
+    "V0220_09_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Invoquer Spécialement Dragon Cramoisi me permet d'utiliser son effet !"
+    },
+    "V0220_09_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "La Carte Dragon Cramoisi active son effet !"
+    },
+    "V0220_09_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20400
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Esprit de la Terre Immortel Nova Rouge !"
+    },
+    "V0220_09_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14957
+      ],
+      "duelist": [],
+      "text": "La Carte Dragon Supernova Rouge active son effet !"
+    },
+    "V0220_09_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14957
+      ],
+      "duelist": [],
+      "text": "Une fois la Carte Dragon Supernova Rouge bannie, son effet s'active !"
+    },
+    "V0220_09_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22547
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Dragon Hypernova Rouge !"
+    },
+    "V0220_09_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19021
+      ],
+      "duelist": [],
+      "text": "La Carte Dragon Rouge Archdémon Meurtri active son effet !"
+    },
+    "V0220_09_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22545
+      ],
+      "duelist": [],
+      "text": "En Invoquant par Synchro Le Roi Cramoisi, je peux utiliser son effet !"
+    },
+    "V0220_09_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22545
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Le Roi Cramoisi !"
+    },
+    "V0220_09_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22546
+      ],
+      "duelist": [],
+      "text": "Invoquer par Synchro Dragon aux Épées Cramoisi me permet de faire ça !"
+    },
+    "V0220_09_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22546
+      ],
+      "duelist": [],
+      "text": "Et maintenant, l'effet de la Carte Dragon aux Épées Cramoisi !"
+    },
+    "V0220_09_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22513
+      ],
+      "duelist": [],
+      "text": "Je bannis Dragon Nova Rouge/Mode Assaut jusqu'à la End Phase !"
+    },
+    "V0220_09_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22513
+      ],
+      "duelist": [],
+      "text": "La Carte Dragon Nova Rouge/Mode Assaut s'active lorsqu'elle est détruite !"
+    },
+    "V0220_09_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22114
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Épéiste Cramoisi/Mode Assaut s'active depuis ma main !"
+    },
+    "V0220_09_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22114
+      ],
+      "duelist": [],
+      "text": "Détruire Épéiste Cramoisi/Mode Assaut active son effet !"
+    },
+    "V0220_09_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8156
+      ],
+      "duelist": [],
+      "text": "Comme j'ai Sacrifié un Dragon, Dragon Tornade gagne de l'ATK !"
+    },
+    "V0220_09_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22511
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Dragon Cruel Puissant s'active depuis ma main !"
+    },
+    "V0220_09_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22511
+      ],
+      "duelist": [],
+      "text": "Invoquer Spécialement Dragon Cruel Puissant me permet d'utiliser son effet !"
+    },
+    "V0220_09_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22512
+      ],
+      "duelist": [],
+      "text": "Si j'ai un Syntoniseur Démon, je peux Invoquer Spécialement ça !"
+    },
+    "V0220_09_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22512
+      ],
+      "duelist": [],
+      "text": "Invoquer Spécialement Golem Démon me permet d'utiliser son effet !"
+    },
+    "V0220_09_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22512
+      ],
+      "duelist": [],
+      "text": "J'ai envoyé Golem Démon au Cimetière pour une Invocation spéciale !"
+    },
+    "V0220_09_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8783
+      ],
+      "duelist": [],
+      "text": "La Carte Quaterback Archdémon active son effet !"
+    },
+    "V0220_09_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7709
+      ],
+      "duelist": [],
+      "text": "Détruire Défenseur à Double Boucliers active son effet !"
+    },
+    "V0220_09_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9085
+      ],
+      "duelist": [],
+      "text": "Utiliser Berserker Démoniaque pour Invoquer par Synchro active son effet !"
+    },
+    "V0220_09_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9087
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Briseur de Puissance s'active quand elle est détruite !"
+    },
+    "V0220_09_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7871
+      ],
+      "duelist": [],
+      "text": "Lorsque la Carte Archdémon Dément est attaquée, elle passe en Défense !"
+    },
+    "V0220_09_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9086
+      ],
+      "duelist": [],
+      "text": "La Carte Archdémon Lancier active son effet !"
+    },
+    "V0220_09_00_72_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8616
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Ogre de la Tristesse de Sang s'active depuis ma main !"
+    },
+    "V0220_09_00_73_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8616
+      ],
+      "duelist": [],
+      "text": "Comme Ogre de la Tristesse de Sang s'est Invoqué Spécialement, son effet s'active !"
+    },
+    "V0220_09_00_74_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19016
+      ],
+      "duelist": [],
+      "text": "Archdémon d'Os peut s'activer depuis la main ou le Cimetière !"
+    },
+    "V0220_09_00_75_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19016
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Archdémon d'Os !"
+    },
+    "V0220_09_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15002
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Familier Rouge !"
+    },
+    "V0220_09_00_77_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15002
+      ],
+      "duelist": [],
+      "text": "Je bannis Familier Rouge de mon Cimetière pour utiliser son effet !"
+    },
+    "V0220_09_00_78_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9015
+      ],
+      "duelist": [],
+      "text": "Je joue l'effet de la Carte Le Roi des Brasiers Crime Flame de ma main !"
+    },
+    "V0220_09_00_79_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9015
+      ],
+      "duelist": [],
+      "text": "En Invoquant Spécialement Le Roi des Brasiers Crime Flame, je peux activer son effet !"
+    },
+    "V0220_09_00_79_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Courant de flammes !"
+    },
+    "V0220_09_00_80_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9015
+      ],
+      "duelist": [],
+      "text": "Le Roi des Brasiers Crime Flame s'active si elle sert pour une Invocation Synchro !"
+    },
+    "V0220_09_00_81_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20038
+      ],
+      "duelist": [],
+      "text": "Si j'ai un Syntoniseur Démon, je peux Invoquer Spécialement ça !"
+    },
+    "V0220_09_00_82_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20038
+      ],
+      "duelist": [],
+      "text": "La Carte Le Roi du Feu Maudit Burst Cursed active son effet !"
+    },
+    "V0220_09_00_83_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20038
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Le Roi du Feu Maudit Burst Cursed s'active quand elle est détruite !"
+    },
+    "V0220_09_00_84_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9800
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Dragon Influence !"
+    },
+    "V0220_09_00_85_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8622
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Maître de l'Épée s'active depuis ma main !"
+    },
+    "V0220_09_00_86_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8619
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Anneau Magique de Golem !"
+    },
+    "V0220_09_00_87_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19014
+      ],
+      "duelist": [],
+      "text": "L'Invocation de la Carte Diapason de l'Âme active son effet !"
+    },
+    "V0220_09_00_88_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22510
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Diapason des Ténèbres Obscures depuis ma main !"
+    },
+    "V0220_09_00_89_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22510
+      ],
+      "duelist": [],
+      "text": "Invoquer Spécialement Diapason des Ténèbres Obscures me permet d'utiliser son effet !"
+    },
+    "V0220_09_00_90_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22510
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Diapason des Ténèbres Obscures !"
+    },
+    "V0220_09_00_91_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19015
+      ],
+      "duelist": [],
+      "text": "La Carte Diapason de la Vision s'active une fois envoyée au Cimetière !"
+    },
+    "V0220_09_00_92_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15003
+      ],
+      "duelist": [],
+      "text": "Quand je n'ai aucun monstre, je peux appeler Diapason Cramoisi !"
+    },
+    "V0220_09_00_93_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15003
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Diapason Cramoisi !"
+    },
+    "V0220_09_00_94_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9088
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Illusionniste Extra s'active depuis ma main !"
+    },
+    "V0220_09_00_95_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8010
+      ],
+      "duelist": [],
+      "text": "La Carte Bricoleur des Ténèbres s'active une fois envoyée au Cimetière !"
+    },
+    "V0220_09_00_96_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8784
+      ],
+      "duelist": [],
+      "text": "Détruire Dragon Rasta au combat active son effet !"
+    },
+    "V0220_09_00_97_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8618
+      ],
+      "duelist": [],
+      "text": "La Carte Enchanteur de Puissance active son effet !"
+    },
+    "V0220_09_00_98_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9091
+      ],
+      "duelist": [],
+      "text": "Absorbeur d'Attaque s'active si elle sert pour une Invocation Synchro !"
+    },
+    "V0220_09_00_99_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9089
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Soldat Synchro !"
+    },
+    "V0220_09_00_100_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8621
+      ],
+      "duelist": [],
+      "text": "La Carte Insecte des Ténèbres active son effet !"
+    },
+    "V0220_09_00_101_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14975
+      ],
+      "duelist": [],
+      "text": "L'Invocation de la Carte Roi Morph Stygi-Gel active son effet !"
+    },
+    "V0220_09_00_102_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14975
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Roi Morph Stygi-Gel !"
+    },
+    "V0220_09_00_103_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Dragon de l'Étoile Brillante depuis ma main !"
+    },
+    "V0220_09_00_104_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16190
+      ],
+      "duelist": [],
+      "text": "Je vais te montrer la carte piochée pour activer son effet !"
+    },
+    "V0220_13_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Dragon Cramoisi !\nPrête-moi ta force !"
+    },
+    "V0220_37_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20400
+      ],
+      "duelist": [],
+      "text": "Depuis les profondeurs, transforme ta souffrance en colère !"
+    },
+    "V0220_13_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        20400
+      ],
+      "duelist": [],
+      "text": "Viens à moi ! \nEsprit de la Terre Immortel Nova Rouge !"
+    },
+    "V0220_37_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14957
+      ],
+      "duelist": [],
+      "text": "Triple Syntonisation !"
+    },
+    "V0220_37_00_18_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Quand les trois accueillent le roi, le fou admet sa défaite."
+    },
+    "V0220_37_00_18_2": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0220_13_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14957
+      ],
+      "duelist": [],
+      "text": "Que ton âme marque l'heure de la création !"
+    },
+    "V0220_13_00_49_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [],
+      "duelist": [],
+      "text": "<card mrk=/> !"
+    },
+    "V0220_37_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22547
+      ],
+      "duelist": [],
+      "text": "Quadruple Syntonisation !"
+    },
+    "V0220_37_00_19_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "L'étoile pourpre et les blessures de la Terre se font écho !"
+    },
+    "V0220_37_00_19_2": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0220_13_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22547
+      ],
+      "duelist": [],
+      "text": "Quand les quatre s'unissent, une nouvelle étoile s'élève !"
+    },
+    "V0220_13_00_50_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [],
+      "duelist": [],
+      "text": "Dragon Hypernova Rouge !"
+    },
+    "V0220_37_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19021
+      ],
+      "duelist": [],
+      "text": "Laisse des traces éternelles sur ton passage !"
+    },
+    "V0220_37_00_20_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0220_13_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        19021
+      ],
+      "duelist": [],
+      "text": "Montre-toi !\nDragon Rouge Archdémon Meurtri !"
+    },
+    "V0220_37_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22545
+      ],
+      "duelist": [],
+      "text": "Tu verras que seul le pouvoir du roi est véritable !"
+    },
+    "V0220_37_00_21_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0220_13_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22545
+      ],
+      "duelist": [],
+      "text": "L'incarnation de mon âme !\nLe Roi Cramoisi !"
+    },
+    "V0220_13_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22546
+      ],
+      "duelist": [],
+      "text": "Apparais !\nDragon aux Épées Cramoisi !"
+    },
+    "V0220_13_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22513
+      ],
+      "duelist": [],
+      "text": "Dragon Nova Rouge/Mode Assaut !"
+    },
+    "V0220_37_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22114
+      ],
+      "duelist": [],
+      "text": "La divinité arrive, enveloppée d'une armure pourpre !"
+    },
+    "V0220_13_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22114
+      ],
+      "duelist": [],
+      "text": "Son âme a soif de combats !\nÉpéiste Cramoisi/Mode Assaut !"
+    },
+    "V0220_13_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        8156
+      ],
+      "duelist": [],
+      "text": "Allons-y !\nDragon Tornade !"
+    },
+    "V0220_13_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        9084
+      ],
+      "duelist": [],
+      "text": "Lève-toi !\nGéant de Puissance !"
+    },
+    "V0220_13_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        8620
+      ],
+      "duelist": [],
+      "text": "Viens ici !\nEnvahisseur Surpuissant !"
+    },
+    "V0220_13_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        22511
+      ],
+      "duelist": [],
+      "text": "Viens !\nDragon Cruel Puissant !"
+    },
+    "V0220_13_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        22512
+      ],
+      "duelist": [],
+      "text": "Va, Golem Démon !"
+    },
+    "V0220_13_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8783
+      ],
+      "duelist": [],
+      "text": "Quaterback Archdémon !"
+    },
+    "V0220_13_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7709
+      ],
+      "duelist": [],
+      "text": "Défenseur à Double Boucliers !"
+    },
+    "V0220_13_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8009
+      ],
+      "duelist": [],
+      "text": "Maraudeur aux Deux Épées !"
+    },
+    "V0220_13_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9296
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur Sprinteur Top !"
+    },
+    "V0220_13_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8008
+      ],
+      "duelist": [],
+      "text": "J'Invoque Spécialement mon monstre Syntoniseur !\nMangeur de Piège !"
+    },
+    "V0220_13_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9085
+      ],
+      "duelist": [],
+      "text": "Berserker Démoniaque !"
+    },
+    "V0220_13_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9087
+      ],
+      "duelist": [],
+      "text": "Briseur de Puissance !"
+    },
+    "V0220_13_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7871
+      ],
+      "duelist": [],
+      "text": "Archdémon Dément !"
+    },
+    "V0220_13_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9086
+      ],
+      "duelist": [],
+      "text": "Archdémon Lancier !"
+    },
+    "V0220_13_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8616
+      ],
+      "duelist": [],
+      "text": "Ogre de la Tristesse de Sang !"
+    },
+    "V0220_13_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19016
+      ],
+      "duelist": [],
+      "text": "Archdémon d'Os !"
+    },
+    "V0220_13_00_72_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15002
+      ],
+      "duelist": [],
+      "text": "Familier Rouge !"
+    },
+    "V0220_13_00_73_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9015
+      ],
+      "duelist": [],
+      "text": "Le Roi des Brasiers Crime Flame !"
+    },
+    "V0220_13_00_74_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20038
+      ],
+      "duelist": [],
+      "text": "Le Roi du Feu Maudit Burst Cursed !"
+    },
+    "V0220_13_00_75_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9800
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur Dragon Influence !"
+    },
+    "V0220_13_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8622
+      ],
+      "duelist": [],
+      "text": "Viens !\nMon Monstre Syntoniseur, Maître de l'Épée !"
+    },
+    "V0220_13_00_77_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8785
+      ],
+      "duelist": [],
+      "text": "Mon Monstre Syntoniseur, Gardien de la Paix !"
+    },
+    "V0220_13_00_78_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8619
+      ],
+      "duelist": [],
+      "text": "Anneau Magique de Golem !"
+    },
+    "V0220_13_00_79_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19014
+      ],
+      "duelist": [],
+      "text": "Voici mon Monstre Syntoniseur !\nDiapason de l'Âme !"
+    },
+    "V0220_13_00_80_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22510
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur Diapason des Ténèbres Obscures !"
+    },
+    "V0220_13_00_81_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19015
+      ],
+      "duelist": [],
+      "text": "Mon Monstre Syntoniseur !\nDiapason de la Vision !"
+    },
+    "V0220_13_00_82_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15003
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur Diapason Cramoisi !"
+    },
+    "V0220_13_00_83_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9088
+      ],
+      "duelist": [],
+      "text": "Illusionniste Extra !"
+    },
+    "V0220_13_00_84_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8010
+      ],
+      "duelist": [],
+      "text": "Mon Monstre Syntoniseur, Bricoleur des Ténèbres !"
+    },
+    "V0220_13_00_85_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8784
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur Dragon Rasta !"
+    },
+    "V0220_13_00_86_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8618
+      ],
+      "duelist": [],
+      "text": "Enchanteur de Puissance !"
+    },
+    "V0220_13_00_87_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9091
+      ],
+      "duelist": [],
+      "text": "Investis le Terrain !\nLe monstre Syntoniseur Absorbeur d'Attaque !"
+    },
+    "V0220_13_00_88_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9089
+      ],
+      "duelist": [],
+      "text": "Soldat Synchro !"
+    },
+    "V0220_13_00_89_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8621
+      ],
+      "duelist": [],
+      "text": "Insecte des Ténèbres !"
+    },
+    "V0220_13_00_90_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14975
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur Roi Morph Stygi-Gel !"
+    },
+    "V0220_13_00_91_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "Voici mon Monstre Syntoniseur !\nDragon de l'Étoile Brillante !"
+    },
+    "V0220_13_00_92_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16190
+      ],
+      "duelist": [],
+      "text": "Mon Monstre Syntoniseur !\nDragon de la Convergence des Volontés !"
+    },
+    "V0220_19_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Dragon Cramoisi !\nÀ l'attaque !"
+    },
+    "V0220_19_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20400
+      ],
+      "duelist": [],
+      "text": "Tu vas voir rouge !"
+    },
+    "V0220_19_00_48_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Esprit de la Terre Immortel Nova Rouge !\nÀ l'attaque !"
+    },
+    "V0220_19_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14957
+      ],
+      "duelist": [],
+      "text": "Attaque depuis l'aube des temps !"
+    },
+    "V0220_19_00_49_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Dragon Supernova Rouge !\nÀ l'attaque !"
+    },
+    "V0220_19_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22547
+      ],
+      "duelist": [],
+      "text": "Regarde le monde entier trembler !"
+    },
+    "V0220_19_00_50_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "À l'attaque, Dragon Hypernova Rouge !"
+    },
+    "V0220_19_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19021
+      ],
+      "duelist": [],
+      "text": "Disparais !\nAttaque, Dragon Rouge Archdémon Meurtri !"
+    },
+    "V0220_19_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22545
+      ],
+      "duelist": [],
+      "text": "Le Roi Cramoisi !\nÀ l'attaque !"
+    },
+    "V0220_19_00_52_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Il n'y a qu'un seul roi !\nEt c'est moi !"
+    },
+    "V0220_19_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22546
+      ],
+      "duelist": [],
+      "text": "Tu vas voir à quel point la lame du roi est aiguisée !"
+    },
+    "V0220_19_00_53_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Dragon aux Épées Cramoisi !\nÀ l'attaque !"
+    },
+    "V0220_19_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22513
+      ],
+      "duelist": [],
+      "text": "Dragon Nova Rouge/Mode Assaut !\nÀ l'attaque !"
+    },
+    "V0220_19_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22114
+      ],
+      "duelist": [],
+      "text": "Épéiste Cramoisi/Mode Assaut !\nÀ l'attaque !"
+    },
+    "V0220_19_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8156
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Dragon Tornade !"
+    },
+    "V0220_19_00_56_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ouragan puissant !"
+    },
+    "V0220_19_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9084
+      ],
+      "duelist": [],
+      "text": "Géant de Puissance !\nPercute l'adversaire !"
+    },
+    "V0220_19_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8620
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Envahisseur Surpuissant !"
+    },
+    "V0220_19_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22511
+      ],
+      "duelist": [],
+      "text": "Dragon Cruel Puissant !\nÀ l'attaque !"
+    },
+    "V0220_19_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22512
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Golem Démon !"
+    },
+    "V0220_19_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8783
+      ],
+      "duelist": [],
+      "text": "Quaterback Archdémon !\nÀ l'attaque !"
+    },
+    "V0220_19_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7709
+      ],
+      "duelist": [],
+      "text": "Défenseur à Double Boucliers !\nÀ l'attaque !"
+    },
+    "V0220_19_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8009
+      ],
+      "duelist": [],
+      "text": "Maraudeur aux Deux Épées !\nLacère l'adversaire !"
+    },
+    "V0220_19_00_63_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Double destruction du maraudeur !"
+    },
+    "V0220_19_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9296
+      ],
+      "duelist": [],
+      "text": "Sprinteur Top !\nFinis-en, et vite !"
+    },
+    "V0220_19_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8008
+      ],
+      "duelist": [],
+      "text": "Mangeur de Piège ! À l'attaque !"
+    },
+    "V0220_19_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9085
+      ],
+      "duelist": [],
+      "text": "Berserker Démoniaque !\nÀ l'attaque !"
+    },
+    "V0220_19_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9087
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Briseur de Puissance !"
+    },
+    "V0220_19_00_67_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Coup lacérant !"
+    },
+    "V0220_19_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7871
+      ],
+      "duelist": [],
+      "text": "Archdémon Dément !\nÀ l'attaque !"
+    },
+    "V0220_19_00_68_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Projection d'os !"
+    },
+    "V0220_19_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9086
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Archdémon Lancier !"
+    },
+    "V0220_19_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8616
+      ],
+      "duelist": [],
+      "text": "Ogre de la Tristesse de Sang !\nÀ l'attaque !"
+    },
+    "V0220_19_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19016
+      ],
+      "duelist": [],
+      "text": "Archdémon d'Os !\nÀ l'attaque !"
+    },
+    "V0220_19_00_72_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15002
+      ],
+      "duelist": [],
+      "text": "Familier Rouge !\nÀ l'attaque !"
+    },
+    "V0220_19_00_73_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9015
+      ],
+      "duelist": [],
+      "text": "Le Roi des Brasiers Crime Flame !\nÀ l'attaque !"
+    },
+    "V0220_19_00_74_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20038
+      ],
+      "duelist": [],
+      "text": "Le Roi du Feu Maudit Burst Cursed !\nÀ l'attaque !"
+    },
+    "V0220_19_00_75_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9800
+      ],
+      "duelist": [],
+      "text": "Dragon Influence !\nÀ l'attaque !"
+    },
+    "V0220_19_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8622
+      ],
+      "duelist": [],
+      "text": "Maître de l'Épée attaque !"
+    },
+    "V0220_19_00_76_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Coup de maître !"
+    },
+    "V0220_19_00_77_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8785
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Gardien de la Paix !"
+    },
+    "V0220_19_00_78_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8619
+      ],
+      "duelist": [],
+      "text": "Anneau Magique de Golem !\nÀ l'attaque !"
+    },
+    "V0220_19_00_79_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19014
+      ],
+      "duelist": [],
+      "text": "Diapason de l'Âme !\nÀ l'attaque !"
+    },
+    "V0220_19_00_80_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22510
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Diapason des Ténèbres Obscures !"
+    },
+    "V0220_19_00_81_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19015
+      ],
+      "duelist": [],
+      "text": "Diapason de la Vision !\nÀ l'attaque !"
+    },
+    "V0220_19_00_82_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15003
+      ],
+      "duelist": [],
+      "text": "Diapason Cramoisi attaque !"
+    },
+    "V0220_19_00_83_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9088
+      ],
+      "duelist": [],
+      "text": "Illusionniste Extra ! À l'attaque !"
+    },
+    "V0220_19_00_84_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8010
+      ],
+      "duelist": [],
+      "text": "Découpe-moi tout ça, Bricoleur des Ténèbres !"
+    },
+    "V0220_19_00_85_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8784
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Dragon Rasta !"
+    },
+    "V0220_19_00_86_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8618
+      ],
+      "duelist": [],
+      "text": "Enchanteur de Puissance !\nÀ l'attaque !"
+    },
+    "V0220_19_00_87_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9091
+      ],
+      "duelist": [],
+      "text": "Absorbeur d'Attaque !\nÀ l'attaque !"
+    },
+    "V0220_19_00_88_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9089
+      ],
+      "duelist": [],
+      "text": "Soldat Synchro !\nÀ l'attaque !"
+    },
+    "V0220_19_00_89_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8621
+      ],
+      "duelist": [],
+      "text": "Insecte des Ténèbres ! À l'attaque !"
+    },
+    "V0220_19_00_90_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14975
+      ],
+      "duelist": [],
+      "text": "Roi Morph Stygi-Gel !\nÀ l'attaque !"
+    },
+    "V0220_19_00_91_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "Dragon de l'Étoile Brillante !\nÀ l'attaque !"
+    },
+    "V0220_19_00_92_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16190
+      ],
+      "duelist": [],
+      "text": "Dragon de la Convergence des Volontés !\nÀ l'attaque !"
+    },
+    "V0220_48_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Commençons !"
+    },
+    "V0220_48_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est parti pour le rush !"
+    },
+    "V0220_51_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Jack Atlas !"
+    },
+    "V0220_51_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est l'heure du rush !"
+    },
+    "V0220_49_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Il n'y a qu'un seul dirigeant de la vitesse !\nMoi !"
+    },
+    "V0220_49_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Un Turbo Rush Duel !"
+    }
+  }
+}

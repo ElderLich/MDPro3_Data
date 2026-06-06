@@ -1,0 +1,1462 @@
+{
+  "_GRP_": "SN0860",
+  "_LNG_": "es-ES",
+  "info": {
+    "V0860_01_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Soy Presionina Terra del Imperio Subterráneo Shiatsu."
+    },
+    "V0860_01_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Trrr, trrr.\n¡Saludos, terrícolas!\n¡Soy Presionina Terra!"
+    },
+    "V0860_01_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "He venido a haceros polvo."
+    },
+    "V0860_01_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Sentiréis la potencia de mi estilo de lucha Shiatsu!"
+    },
+    "V0860_48_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Trrr, trrr."
+    },
+    "V0860_48_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Preparaos para sentir la emoción!"
+    },
+    "V0860_03_00_00_0": {
+      "face": 6,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Nadie da masajes tan fuertes como los míos!"
+    },
+    "V0860_03_00_00_1": {
+      "face": 6,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Me toca!"
+    },
+    "V0860_03_00_01_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Todo el estrés desaparecerá cuando acabé con vosotros."
+    },
+    "V0860_03_00_01_1": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Es mi turno!"
+    },
+    "V0860_04_00_00_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Robo!\nTrrr, trrr."
+    },
+    "V0860_03_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Me toca!"
+    },
+    "V0860_03_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Es hora de usar las manos!"
+    },
+    "V0860_03_00_03_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Es mi turno!"
+    },
+    "V0860_04_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Robo!"
+    },
+    "V0860_03_00_04_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ains...\nNo me siento nada revitalizada."
+    },
+    "V0860_03_00_04_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Me toca!"
+    },
+    "V0860_03_00_05_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡No podrás someterme!"
+    },
+    "V0860_03_00_05_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Trrr, trrr.\n¡Es mi turno!"
+    },
+    "V0860_04_00_02_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Robo!"
+    },
+    "V0860_05_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "¡Es hora de aumentar la presión!"
+    },
+    "V0860_05_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "¡Robooo!"
+    },
+    "V0860_06_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Trrr, trrr."
+    },
+    "V0860_06_01_01_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Está bien!"
+    },
+    "V0860_06_01_02_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Esto es lo que voy a hacer!"
+    },
+    "V0860_06_01_03_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Allá va!"
+    },
+    "V0860_07_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "De mi mano..."
+    },
+    "V0860_07_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo una Carta Mágica!"
+    },
+    "V0860_07_02_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo una Carta Mágica de Juego Rápido!"
+    },
+    "V0860_07_03_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo una Carta Mágica Continua!"
+    },
+    "V0860_07_04_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo una Carta Mágica de Equipo!"
+    },
+    "V0860_07_05_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo una Carta Mágica de Ritual!"
+    },
+    "V0860_07_06_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!"
+    },
+    "V0860_07_07_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa Continua!"
+    },
+    "V0860_07_08_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo mi Trampa de Contraefecto!"
+    },
+    "V0860_07_09_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Esta es la carta que coloco!"
+    },
+    "V0860_07_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Jugaré la carta que he Colocado!"
+    },
+    "V0860_07_10_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo el efecto de mi monstruo!"
+    },
+    "V0860_07_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo una Carta Mágica de Campo!"
+    },
+    "V0860_07_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo un efecto!"
+    },
+    "V0860_07_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Coloco la Escala de Péndulo!"
+    },
+    "V0860_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo un efecto de Péndulo!"
+    },
+    "V0860_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo una Carta Mágica de Ritual!"
+    },
+    "V0860_10_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Venga, sal!"
+    },
+    "V0860_10_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Llega desde el subsuelo!"
+    },
+    "V0860_10_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Trrr, trrr, trrr."
+    },
+    "V0860_10_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Adelante!"
+    },
+    "V0860_11_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo!"
+    },
+    "V0860_11_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo en Posición de Defensa!"
+    },
+    "V0860_11_02_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo de Modo Especial!"
+    },
+    "V0860_11_03_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Sacrificaré un monstruo!"
+    },
+    "V0860_11_04_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Sacrificio!"
+    },
+    "V0860_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Sacrificio!"
+    },
+    "V0860_11_05_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Fusión!"
+    },
+    "V0860_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Fusión!"
+    },
+    "V0860_11_06_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Ritual!"
+    },
+    "V0860_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Ritual!"
+    },
+    "V0860_11_07_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Sincronía!"
+    },
+    "V0860_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Sincronía!"
+    },
+    "V0860_11_08_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Xyz!"
+    },
+    "V0860_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación Xyz!"
+    },
+    "V0860_11_09_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Péndulo!"
+    },
+    "V0860_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Péndulo!"
+    },
+    "V0860_11_10_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Enlace!"
+    },
+    "V0860_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Enlace!"
+    },
+    "V0860_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo de Modo Máximo!"
+    },
+    "V0860_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación Máxima!"
+    },
+    "V0860_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Fusión!"
+    },
+    "V0860_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Fusión!"
+    },
+    "V0860_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Fusiono por Contacto un monstruo!"
+    },
+    "V0860_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Fusión de Contacto!"
+    },
+    "V0860_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Ritual!"
+    },
+    "V0860_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Ritual!"
+    },
+    "V0860_14_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Luchemos!"
+    },
+    "V0860_14_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Estoy deseando luchar!"
+    },
+    "V0860_15_00_00_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Directamente a los puntos doloridos!"
+    },
+    "V0860_15_00_01_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Trrr, trrr."
+    },
+    "V0860_15_00_02_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Toma esto!"
+    },
+    "V0860_17_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Mi monstruo ataca!"
+    },
+    "V0860_17_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Ataco con mi monstruo!"
+    },
+    "V0860_17_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Al ataque!"
+    },
+    "V0860_16_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Espero que vuelvas."
+    },
+    "V0860_16_00_01_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Buenas noches."
+    },
+    "V0860_18_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Siente el ardor!"
+    },
+    "V0860_18_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Ataque directo!"
+    },
+    "V0860_20_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Coloco una carta."
+    },
+    "V0860_20_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Voy a colocar una carta."
+    },
+    "V0860_20_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Coloco un monstruo."
+    },
+    "V0860_20_01_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Voy a colocar un monstruo."
+    },
+    "V0860_21_00_00_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Los masajes pueden ser agradables, pero también dolorosos."
+    },
+    "V0860_21_00_00_1": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Termino mi turno!"
+    },
+    "V0860_21_00_01_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¿No aguantas mi estilo Shiatsu?"
+    },
+    "V0860_21_00_01_1": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Termino mi turno!"
+    },
+    "V0860_21_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Trrr, trrr.\n¡Termino mi turno!"
+    },
+    "V0860_21_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Termino mi turno!"
+    },
+    "V0860_21_00_04_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Voy a echarme una siestecita."
+    },
+    "V0860_21_00_04_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Termino mi turno!"
+    },
+    "V0860_21_00_05_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Estás arrasando mis LP..."
+    },
+    "V0860_21_00_05_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Termino mi turno!"
+    },
+    "V0860_28_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¿Quién es Celestia?\n¿Qué es un ovni?"
+    },
+    "V0860_28_00_01_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ha sido un Duelo relajante.\n¡Como un masaje suavecito!"
+    },
+    "V0860_28_00_02_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Tengo las mejores manos del Imperio Shiatsu!"
+    },
+    "V0860_28_00_03_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Trrr, trrr.\n¡Todo listo!"
+    },
+    "V0860_29_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Con esto acaba mi turno.\n¡Adiós!"
+    },
+    "V0860_29_00_01_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "No voy a echar horas extra."
+    },
+    "V0860_29_00_02_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ahora que ha acabado el Duelo, me vuelvo a mi reino."
+    },
+    "V0860_29_00_03_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Trrr, trrr.\n¡Puah!"
+    },
+    "V0860_31_00_00_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¿Trrr?"
+    },
+    "V0860_31_00_01_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Oh, no!"
+    },
+    "V0860_33_00_00_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "¡Trrrrrrrrr!"
+    },
+    "V0860_33_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Trrr, trrr, trrr."
+    },
+    "V0860_33_00_02_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "¡El Shiatsu ganará!"
+    },
+    "V0860_30_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¿Puedes darte prisa?"
+    },
+    "V0860_30_00_01_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¿Cuánto voy a tener que esperar?"
+    },
+    "V0860_30_00_02_0": {
+      "face": 4,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¿Qué haces?"
+    },
+    "V0860_34_00_00_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¿Sabías que no hay dos huellas dactilares iguales?"
+    },
+    "V0860_34_00_01_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡El Imperio Shiatsu protege el subsuelo!"
+    },
+    "V0860_34_00_02_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "No hay nada mejor que un masaje para recuperar mis LP."
+    },
+    "V0860_34_00_03_0": {
+      "face": 6,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Mi estilo Shiatsu consigue presionar!"
+    },
+    "V0860_34_00_04_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pareces estar en tensión."
+    },
+    "V0860_34_00_05_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Puedo quitar cualquier contractura con los pulgares!"
+    },
+    "V0860_34_00_06_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Esta zona está blandita."
+    },
+    "V0860_34_00_07_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Saludos, terrícolas!"
+    },
+    "V0860_34_00_08_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Trrr, trrr, trrr."
+    },
+    "V0860_34_00_09_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Es hora de cerrar.\nMe voy a casa."
+    },
+    "V0860_32_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Yu-Gi-Oh! Duel Links\nTrrr, trrr."
+    },
+    "V0860_35_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Saludos, terrícolas, desde el Impero Subterráneo Shiatsu.\n¡Me llamo Presionina Terra!"
+    },
+    "V0860_35_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Trrr, trrr.\n¡Soy Presionina Terra!"
+    },
+    "V0860_36_00_00_0": {
+      "face": 6,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "He hecho un buen trabajo."
+    },
+    "V0860_36_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pulverízalos.\nTrrr, trrr."
+    },
+    "V0860_36_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Te toca."
+    },
+    "V0860_36_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Sigue el ritmo."
+    },
+    "V0860_36_00_04_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Los problemas de los terrícolas no me incumben."
+    },
+    "V0860_36_00_05_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "No hago horas extra, así que encárgate tú."
+    },
+    "V0860_08_00_00_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16181
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!\n¡Explosión de Presión de la Tierra!"
+    },
+    "V0860_08_00_01_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15913
+      ],
+      "duelist": [],
+      "text": "¡Ven a visitar el Impero Subterráneo Shiatsu!"
+    },
+    "V0860_08_00_01_1": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa Agujero Trampa!"
+    },
+    "V0860_08_00_02_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20880
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!\n¡Agujero Trampa de Ácido!"
+    },
+    "V0860_08_00_03_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21014
+      ],
+      "duelist": [],
+      "text": "Mi Carta de Trampa.\n¡Agujero Trampa Traicionero!"
+    },
+    "V0860_08_00_04_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17912
+      ],
+      "duelist": [],
+      "text": "¡Cuando se llega al Impero Shiatsu, ya no se puede salir!"
+    },
+    "V0860_08_00_04_1": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Gracias a la Carta de Trampa Cubierta de la Trampa!"
+    },
+    "V0860_08_00_05_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17204
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica!\n¡Aplastando el Suelo!"
+    },
+    "V0860_09_00_00_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16158
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Mantleveda Magmax!"
+    },
+    "V0860_09_00_00_1": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Incido en los puntos de presión!"
+    },
+    "V0860_09_00_01_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16157
+      ],
+      "duelist": [],
+      "text": "¡Ahora verás el efecto de Magmasaje!"
+    },
+    "V0860_09_00_01_1": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Me siento mucho mejor!"
+    },
+    "V0860_09_00_02_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16156
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Aromagmaoso!"
+    },
+    "V0860_09_00_02_1": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Le doy el visto bueno a este efecto!"
+    },
+    "V0860_09_00_03_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16155
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Anmagmaoso!"
+    },
+    "V0860_13_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        16158
+      ],
+      "duelist": [],
+      "text": "Del núcleo terrestre, llega una guardiana incandescente. "
+    },
+    "V0860_13_00_00_1": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "¡Derrite el mundo, Mantleveda Magmax!"
+    },
+    "V0860_13_00_01_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        16157
+      ],
+      "duelist": [],
+      "text": "¡Magmasaje!"
+    },
+    "V0860_13_00_02_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        16156
+      ],
+      "duelist": [],
+      "text": "¡Aromagmaoso!"
+    },
+    "V0860_13_00_03_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        16155
+      ],
+      "duelist": [],
+      "text": "¡Anmagmaoso!"
+    },
+    "V0860_13_00_04_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        16133
+      ],
+      "duelist": [],
+      "text": "¡Tsuvolcán!"
+    },
+    "V0860_19_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16158
+      ],
+      "duelist": [],
+      "text": "¡Mantleveda Magmax!\n¡Incide en todos los puntos de presión!"
+    },
+    "V0860_19_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Lanza Shiatsu!"
+    },
+    "V0860_19_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16157
+      ],
+      "duelist": [],
+      "text": "¡Magmasaje! ¡Al ataque!"
+    },
+    "V0860_19_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16156
+      ],
+      "duelist": [],
+      "text": "¡Aromagmaoso!\n¡Al ataque!"
+    },
+    "V0860_19_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16155
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Anmagmaoso!"
+    },
+    "V0860_19_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16133
+      ],
+      "duelist": [],
+      "text": "¡Tsuvolcán!\n¡Al ataque!"
+    },
+    "V0860_02_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Lucha!"
+    },
+    "V0860_49_00_00_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡A taladrar!"
+    },
+    "V0860_49_01_00_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Rush Duel Turbo!"
+    },
+    "V0860_22_00_00_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Trrr."
+    },
+    "V0860_22_00_01_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Trrrrrrrrr!"
+    },
+    "V0860_22_00_02_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Gaaaah!"
+    },
+    "V0860_26_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Trrr..."
+    },
+    "V0860_26_00_01_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Trrr, trrr..."
+    },
+    "V0860_26_00_02_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "He bajado la guardia."
+    },
+    "V0860_25_00_00_0": {
+      "face": 5,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Gaaaah!"
+    },
+    "V0860_25_00_01_0": {
+      "face": 5,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Aaahhh!"
+    },
+    "V0860_25_00_02_0": {
+      "face": 5,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Trrr, trrr."
+    },
+    "V0860_27_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Agh..."
+    },
+    "V0860_27_00_01_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¿Cómo puedes ser tan cruel?"
+    },
+    "V0860_27_00_02_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¿Ya ha acabado mi turno?"
+    },
+    "V0860_23_00_00_0": {
+      "face": 5,
+      "frame": 1,
+      "cutin": 3,
+      "card": [],
+      "duelist": [],
+      "text": "¡Trrrrrrrrr!"
+    }
+  }
+}

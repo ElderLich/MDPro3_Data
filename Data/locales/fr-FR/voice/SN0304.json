@@ -3252,6 +3252,1268 @@
       "card": [],
       "duelist": [],
       "text": "Duel Dimensionnel !"
+    },
+    "V0304_01_00_13_0": {
+      "face": 4,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        47
+      ],
+      "text": "Sérénité ?\nQu'est-ce que tu fais ici ?"
+    },
+    "V0304_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active un Effet Pendule !"
+    },
+    "V0304_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Magie Rituelle !"
+    },
+    "V0304_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Sacrifice !"
+    },
+    "V0304_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Fusion !"
+    },
+    "V0304_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Rituelle !"
+    },
+    "V0304_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0304_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Xyz !"
+    },
+    "V0304_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Pendule !"
+    },
+    "V0304_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Lien !"
+    },
+    "V0304_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Maximum !"
+    },
+    "V0304_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Maximum !"
+    },
+    "V0304_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Fusion !"
+    },
+    "V0304_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Fusion !"
+    },
+    "V0304_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je Contact Fusionne un monstre !"
+    },
+    "V0304_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Contact Fusion !"
+    },
+    "V0304_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque Rituellement un monstre !"
+    },
+    "V0304_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Rituelle !"
+    },
+    "V0304_28_00_12_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        47
+      ],
+      "text": "Tant que tu persévères, t'as toujours une chance de gagner !"
+    },
+    "V0304_29_00_12_0": {
+      "face": 4,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        47
+      ],
+      "text": "Ouah, Sérénité...\nC'était trop cool..."
+    },
+    "V0304_36_00_09_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        47
+      ],
+      "text": "La victoire est à notre portée !\nTu peux le faire, Sérénité !"
+    },
+    "V0304_36_00_10_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        47
+      ],
+      "text": "À toi de jouer, Sérénité.\nCrois en toi."
+    },
+    "V0304_36_00_11_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        47
+      ],
+      "text": "Ne baisse pas les bras, Sérénité !\nJ'suis à tes côtés !"
+    },
+    "V0304_48_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je me lance !"
+    },
+    "V0304_48_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est parti pour le Rush !"
+    },
+    "V0304_51_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Joey Wheeler !"
+    },
+    "V0304_51_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est l'heure du rush !"
+    },
+    "V0304_49_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ouais !\nJe suis né pour ça."
+    },
+    "V0304_49_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel !"
+    },
+    "V0304_08_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5904
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie, Agneaux Égarés !"
+    },
+    "V0304_08_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19729
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie Continue !\nRoyaumépées des Flammes !"
+    },
+    "V0304_08_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19729
+      ],
+      "duelist": [],
+      "text": "J'envoie un monstre au Cimetière pour activer Royaumépées des Flammes !"
+    },
+    "V0304_08_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19729
+      ],
+      "duelist": [],
+      "text": "J'espère que ça va marcher !\nJ'active l'effet de la Carte Royaumépées des Flammes !"
+    },
+    "V0304_08_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19730
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie d'Équipement !\nFusion Salamandra !"
+    },
+    "V0304_08_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19731
+      ],
+      "duelist": [],
+      "text": "C'est parti !\nLa Magie Jeu-Rapide, Épée des Flammes Combattante !"
+    },
+    "V0304_08_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19733
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Piège !\nDansépées des Flammes !"
+    },
+    "V0304_08_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19733
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Dansépées des Flammes depuis le Cimetière !"
+    },
+    "V0304_08_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19732
+      ],
+      "duelist": [],
+      "text": "J'active le Piège, Salamandra avec Chaîne !"
+    },
+    "V0304_08_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19732
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Salamandra avec Chaîne depuis le Cimetière !"
+    },
+    "V0304_08_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20547
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège, Métalmorphe Max !"
+    },
+    "V0304_08_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20812
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nRevêtement de Flamme Métalmorphe !"
+    },
+    "V0304_08_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20548
+      ],
+      "duelist": [],
+      "text": "J'active le Piège, Moteur à Voyager Dans le Temps !"
+    },
+    "V0304_08_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21580
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie d'Équipement !\nVENTS DE LA VICTOIRE !"
+    },
+    "V0304_08_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21579
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nPiège du Scorpion Venimeux !"
+    },
+    "V0304_09_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20481
+      ],
+      "duelist": [],
+      "text": "J'active Dragon de Métal Noir Entier aux Yeux Rouges depuis ma main !"
+    },
+    "V0304_09_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20481
+      ],
+      "duelist": [],
+      "text": "La Carte Dragon de Métal Noir Entier aux Yeux Rouges active son effet !"
+    },
+    "V0304_09_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17243
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Âme aux Yeux Rouges !"
+    },
+    "V0304_09_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17243
+      ],
+      "duelist": [],
+      "text": "Âme aux Yeux Rouges !\nAllez, inflige des dommages !"
+    },
+    "V0304_09_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21162
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Dragon de Griffes Métalliques aux Yeux Rouges s'active depuis ma main !"
+    },
+    "V0304_09_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21162
+      ],
+      "duelist": [],
+      "text": "La Carte Dragon de Griffes Métalliques aux Yeux Rouges active son effet !"
+    },
+    "V0304_09_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17388
+      ],
+      "duelist": [],
+      "text": "J'active Dragon Météore Noir aux Yeux Rouges depuis ma main !"
+    },
+    "V0304_09_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17388
+      ],
+      "duelist": [],
+      "text": "Dragon Météore Noir aux Yeux Rouges s'active depuis le Cimetière !"
+    },
+    "V0304_09_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14952
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Soldat Dragon Sombre aux Yeux Rouges !"
+    },
+    "V0304_09_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14801
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Gearfried Phénix Immortel s'active depuis ma main !"
+    },
+    "V0304_09_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14801
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Gearfried Phénix Immortel !"
+    },
+    "V0304_09_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8431
+      ],
+      "duelist": [],
+      "text": "Gearfried Phénix active son effet !"
+    },
+    "V0304_09_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6724
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Gilti-Gearfried le Chevalier d'Acier Magique !"
+    },
+    "V0304_09_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19727
+      ],
+      "duelist": [],
+      "text": "Spadassin des Flammes Ultime active son effet !"
+    },
+    "V0304_09_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20753
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Spadassin des Flammes Métalliques depuis ma main !"
+    },
+    "V0304_09_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14333
+      ],
+      "duelist": [],
+      "text": "Spadassin des Flammes Féroces active son effet !"
+    },
+    "V0304_09_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19724
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Spadassin des Flammes Combattant s'active !"
+    },
+    "V0304_09_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19724
+      ],
+      "duelist": [],
+      "text": "Spadassin des Flammes Combattant s'active en allant au Cimetière !"
+    },
+    "V0304_09_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19728
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Dragon des Flammes Combattant !"
+    },
+    "V0304_09_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15344
+      ],
+      "duelist": [],
+      "text": "J'active son effet depuis ma main !"
+    },
+    "V0304_09_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15344
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Jinzo la Menace Machine !"
+    },
+    "V0304_09_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16621
+      ],
+      "duelist": [],
+      "text": "Giltia, Chevalier des Ténèbres - Lance des Âmes va détruire son adversaire !"
+    },
+    "V0304_09_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16621
+      ],
+      "duelist": [],
+      "text": "Giltia, Chevalier des Ténèbres - Lance des Âmes !\nActive ton effet !"
+    },
+    "V0304_09_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15461
+      ],
+      "duelist": [],
+      "text": "La Carte Dragon Centenaire active son effet !"
+    },
+    "V0304_09_00_75_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19725
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Salamandra, le Dragon Volant des Flammes !"
+    },
+    "V0304_09_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20484
+      ],
+      "duelist": [],
+      "text": "La Carte Illusionniste Métallique active son effet !"
+    },
+    "V0304_09_00_78_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15462
+      ],
+      "duelist": [],
+      "text": "Magicien du Temps du Lendemain !\nTout dépend de toi !"
+    },
+    "V0304_09_00_78_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Roulette du Temps !"
+    },
+    "V0304_40_00_79_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15462
+      ],
+      "duelist": [],
+      "text": "Oh oui !"
+    },
+    "V0304_40_00_79_1": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Sorcellerie temporelle !"
+    },
+    "V0304_40_00_80_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15462
+      ],
+      "duelist": [],
+      "text": "Gah !\nSérieux ?!"
+    },
+    "V0304_13_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        20481
+      ],
+      "duelist": [],
+      "text": "Dragon de Métal Noir Entier aux Yeux Rouges !"
+    },
+    "V0304_13_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        17243
+      ],
+      "duelist": [],
+      "text": "Je mets tout mon cœur dans cette carte !"
+    },
+    "V0304_13_00_38_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [],
+      "duelist": [],
+      "text": "Âme aux Yeux Rouges !"
+    },
+    "V0304_13_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        21162
+      ],
+      "duelist": [],
+      "text": "Dragon de Griffes Métalliques aux Yeux Rouges !"
+    },
+    "V0304_13_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        17388
+      ],
+      "duelist": [],
+      "text": "Dragon Météore Noir aux Yeux Rouges !"
+    },
+    "V0304_13_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14952
+      ],
+      "duelist": [],
+      "text": "Soldat Dragon Sombre aux Yeux Rouges !"
+    },
+    "V0304_13_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14801
+      ],
+      "duelist": [],
+      "text": "Gearfried Phénix Immortel !"
+    },
+    "V0304_13_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        8431
+      ],
+      "duelist": [],
+      "text": "Gearfried Phénix !"
+    },
+    "V0304_13_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        6724
+      ],
+      "duelist": [],
+      "text": "Gilti-Gearfried le Chevalier d'Acier Magique !"
+    },
+    "V0304_13_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        19727
+      ],
+      "duelist": [],
+      "text": "Oh yeah !\nVoici Spadassin des Flammes Ultime !"
+    },
+    "V0304_13_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        20753
+      ],
+      "duelist": [],
+      "text": "Spadassin des Flammes Métalliques !"
+    },
+    "V0304_13_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        14333
+      ],
+      "duelist": [],
+      "text": "Regarde ça !\nSpadassin des Flammes Féroces !"
+    },
+    "V0304_13_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19724
+      ],
+      "duelist": [],
+      "text": "Spadassin des Flammes Combattant !"
+    },
+    "V0304_13_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        19728
+      ],
+      "duelist": [],
+      "text": "Apparais, Dragon des Flammes Combattant !"
+    },
+    "V0304_13_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        15344
+      ],
+      "duelist": [],
+      "text": "Jinzo la Menace Machine !"
+    },
+    "V0304_13_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        16621
+      ],
+      "duelist": [],
+      "text": "Giltia, Chevalier des Ténèbres - Lance des Âmes !"
+    },
+    "V0304_13_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        15462
+      ],
+      "duelist": [],
+      "text": "Je compte sur toi !\nMagicien du Temps du Lendemain !"
+    },
+    "V0304_13_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4074
+      ],
+      "duelist": [],
+      "text": "Ça fera l'affaire !\nGaroozis !"
+    },
+    "V0304_13_00_74_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        15461
+      ],
+      "duelist": [],
+      "text": "À toi de jouer !\nDragon Centenaire !"
+    },
+    "V0304_13_00_75_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4299
+      ],
+      "duelist": [],
+      "text": "Masaki le Spadassin Légendaire !"
+    },
+    "V0304_13_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4148
+      ],
+      "duelist": [],
+      "text": "Manipulateur de Flammes !\nÀ toi de jouer !"
+    },
+    "V0304_13_00_80_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19725
+      ],
+      "duelist": [],
+      "text": "Salamandra, le Dragon Volant des Flammes !"
+    },
+    "V0304_13_00_81_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20484
+      ],
+      "duelist": [],
+      "text": "C'est le moment parfait pour Illusionniste Métallique !"
+    },
+    "V0304_13_00_83_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3902
+      ],
+      "duelist": [],
+      "text": "J'Invoque Spécialement 1 Jeton Mouton !"
+    },
+    "V0304_13_00_84_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3918
+      ],
+      "duelist": [],
+      "text": "J'Invoque Spécialement 1 Jeton Agneau !"
+    },
+    "V0304_19_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20481
+      ],
+      "duelist": [],
+      "text": "Dragon de Métal Noir Entier aux Yeux Rouges !\nAttaque !"
+    },
+    "V0304_19_00_39_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Explosion Flash !"
+    },
+    "V0304_19_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17243
+      ],
+      "duelist": [],
+      "text": "Âme aux Yeux Rouges !\nAttaque-les !"
+    },
+    "V0304_19_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21162
+      ],
+      "duelist": [],
+      "text": "Dragon de Griffes Métalliques aux Yeux Rouges !\nDécoupe-moi tout ça !"
+    },
+    "V0304_19_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17388
+      ],
+      "duelist": [],
+      "text": "Dragon Météore Noir aux Yeux Rouges !\nAttaque !"
+    },
+    "V0304_19_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14952
+      ],
+      "duelist": [],
+      "text": "Soldat Dragon Sombre aux Yeux Rouges !\nFais ce que tu as à faire !"
+    },
+    "V0304_19_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14801
+      ],
+      "duelist": [],
+      "text": "Gearfried Phénix Immortel !\nAttaque !"
+    },
+    "V0304_19_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8431
+      ],
+      "duelist": [],
+      "text": "Gearfried Phénix attaque !"
+    },
+    "V0304_19_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6724
+      ],
+      "duelist": [],
+      "text": "Gilti-Gearfried le Chevalier d'Acier Magique !\nAttaque !"
+    },
+    "V0304_19_00_50_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Lame des Âmes !"
+    },
+    "V0304_19_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19727
+      ],
+      "duelist": [],
+      "text": "Spadassin des Flammes Ultime !\nAttaque !"
+    },
+    "V0304_19_00_52_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Épée Enflammée des Batailles !"
+    },
+    "V0304_19_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20753
+      ],
+      "duelist": [],
+      "text": "Spadassin des Flammes Métalliques !\nPasse à l'assaut !"
+    },
+    "V0304_19_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14333
+      ],
+      "duelist": [],
+      "text": "Spadassin des Flammes Féroces !\nAttaque !"
+    },
+    "V0304_19_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10864
+      ],
+      "duelist": [],
+      "text": "Lacère l'adversaire, Spadassin des Flammes Bleues !"
+    },
+    "V0304_19_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19724
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Spadassin des Flammes Combattant !"
+    },
+    "V0304_19_00_56_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Épée des Flammes Combattante !"
+    },
+    "V0304_19_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19728
+      ],
+      "duelist": [],
+      "text": "Dragon des Flammes Combattant attaque !"
+    },
+    "V0304_19_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15344
+      ],
+      "duelist": [],
+      "text": "Jinzo la Menace Machine attaque !"
+    },
+    "V0304_19_00_66_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Choc Énergétique Cyber menaçant !"
+    },
+    "V0304_19_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16621
+      ],
+      "duelist": [],
+      "text": "Giltia, Chevalier des Ténèbres - Lance des Âmes !\nAttaque !"
+    },
+    "V0304_19_00_70_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Lance des âmes !"
+    },
+    "V0304_19_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15462
+      ],
+      "duelist": [],
+      "text": "Magicien du Temps du Lendemain !\nAttaque !"
+    },
+    "V0304_19_00_73_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4074
+      ],
+      "duelist": [],
+      "text": "Garoozis ! Attaque !"
+    },
+    "V0304_19_00_73_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Frappe Quintuple !"
+    },
+    "V0304_19_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15461
+      ],
+      "duelist": [],
+      "text": "Dragon Centenaire ! Attaque !"
+    },
+    "V0304_19_00_76_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Souffle Toxique !"
+    },
+    "V0304_19_00_77_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4299
+      ],
+      "duelist": [],
+      "text": "Masaki le Spadassin Légendaire !\nAttaque !"
+    },
+    "V0304_19_00_78_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4148
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Manipulateur de Flammes !"
+    },
+    "V0304_19_00_82_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19725
+      ],
+      "duelist": [],
+      "text": "Salamandra, le Dragon Volant des Flammes !\nBrûle tout !"
+    },
+    "V0304_19_00_83_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20484
+      ],
+      "duelist": [],
+      "text": "Illusionniste Métallique !\nAttaque !"
+    },
+    "V0304_19_00_85_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3902
+      ],
+      "duelist": [],
+      "text": "Ma Carte Jeton Mouton attaque !"
+    },
+    "V0304_19_00_86_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3918
+      ],
+      "duelist": [],
+      "text": "J'attaque avec ma Carte Jeton Agneau !"
     }
   }
 }

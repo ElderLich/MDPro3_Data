@@ -56,7 +56,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei, ich möchte alles wissen."
     },
@@ -76,7 +77,9 @@
       "duelist": [
         202,
         203,
-        209
+        209,
+        220,
+        221
       ],
       "text": "Ich möchte dein Vertrauen gewinnen."
     },
@@ -2273,7 +2276,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Du hast mir beigebracht, dass meine Kraft ein Geschenk ist."
     },
@@ -2285,7 +2289,9 @@
       "duelist": [
         202,
         203,
-        209
+        209,
+        220,
+        221
       ],
       "text": "Ich werde meinen Teil tun und das Team nie im Stich lassen!"
     },
@@ -2364,7 +2370,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Das Zeichen macht mich nicht zur Hexe, es macht mich besonders."
     },
@@ -2384,7 +2391,9 @@
       "duelist": [
         202,
         203,
-        209
+        209,
+        220,
+        221
       ],
       "text": "Ich habe vielleicht verloren, aber ich komme stärker zurück!"
     },
@@ -2631,7 +2640,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei! Mit dir habe ich keine Angst vor niemandem!"
     },
@@ -2641,7 +2651,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei! Ich muss dich darum kümmern!"
     },
@@ -2651,7 +2662,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Es tut mir leid, Yusei.\nIch konnte nichts tun."
     },

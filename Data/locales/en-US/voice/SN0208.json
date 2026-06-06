@@ -64,7 +64,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "You don’t know how long I’ve been waiting for my revenge."
     },
@@ -82,7 +83,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Is it time for The Enforcers to ride again?"
     },
@@ -100,7 +102,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        203
+        203,
+        221
       ],
       "text": "I was once your friend, but I'm now your enemy!"
     },
@@ -1829,7 +1832,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "My dear old friend Yusei!\nYou're finished!"
     },
@@ -1871,7 +1875,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "This was not a satisfying ending."
     },

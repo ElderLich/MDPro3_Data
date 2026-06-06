@@ -1728,7 +1728,7 @@
         16715
       ],
       "duelist": [],
-      "text": "¡Activo mi Carta de Trampa !"
+      "text": "¡Activo mi Carta de Trampa Contador Psíquico!"
     },
     "V0704_09_00_00_0": {
       "face": 3,
@@ -1954,7 +1954,7 @@
         17680
       ],
       "duelist": [],
-      "text": "¡La carta  activa su efecto!"
+      "text": "¡La carta CAN:D ALL activa su efecto!"
     },
     "V0704_09_00_17_0": {
       "face": 3,
@@ -2012,7 +2012,7 @@
         17891
       ],
       "duelist": [],
-      "text": "¡La carta  activa su efecto!"
+      "text": "¡La carta Ama Osa Lilith activa su efecto!"
     },
     "V0704_09_00_22_0": {
       "face": 3,
@@ -2356,7 +2356,7 @@
         17680
       ],
       "duelist": [],
-      "text": "¡!"
+      "text": "¡CAN:D ALL!"
     },
     "V0704_37_00_06_0": {
       "face": 3,
@@ -2426,7 +2426,7 @@
         17891
       ],
       "duelist": [],
-      "text": "¡!"
+      "text": "¡Ama Osa Lilith!"
     },
     "V0704_13_00_19_0": {
       "face": 3,
@@ -2870,7 +2870,7 @@
         17680
       ],
       "duelist": [],
-      "text": "¡! ¡Ataca!"
+      "text": "¡CAN:D ALL! ¡Ataca!"
     },
     "V0704_19_00_14_0": {
       "face": 3,
@@ -2938,7 +2938,7 @@
         17891
       ],
       "duelist": [],
-      "text": "¡Ataca, !"
+      "text": "¡Ataca, Ama Osa Lilith!"
     },
     "V0704_19_00_20_0": {
       "face": 3,
@@ -3299,6 +3299,22 @@
       "card": [],
       "duelist": [],
       "text": "¡Aaaaaaaahhhh!"
+    },
+    "V0704_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Allá voy!"
+    },
+    "V0704_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Rush Duel Turbo!"
     }
   }
 }

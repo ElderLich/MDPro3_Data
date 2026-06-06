@@ -3152,7 +3152,7 @@
         21612
       ],
       "duelist": [],
-      "text": "Attivo la mia Magia Rapida!\n!"
+      "text": "Attivo la mia Magia Rapida!\nLo Sguardo di Timaeus!"
     },
     "V0001_09_00_05_0": {
       "face": 3,
@@ -3688,7 +3688,7 @@
         21610
       ],
       "duelist": [],
-      "text": " attiva il suo effetto!"
+      "text": "Mago Nero della Distruzione attiva il suo effetto!"
     },
     "V0001_09_00_53_0": {
       "face": 3,
@@ -3698,7 +3698,7 @@
         21611
       ],
       "duelist": [],
-      "text": "Attivo l'effetto di !"
+      "text": "Attivo l'effetto di Timaeus il Drago Magico Unito!"
     },
     "V0001_13_00_19_0": {
       "face": 3,
@@ -4308,7 +4308,7 @@
         21610
       ],
       "duelist": [],
-      "text": "Vieni a me!\n!"
+      "text": "Vieni a me!\nMago Nero della Distruzione!"
     },
     "V0001_13_00_75_0": {
       "face": 3,
@@ -4318,7 +4318,7 @@
         21611
       ],
       "duelist": [],
-      "text": "Rifatti gli occhi con !"
+      "text": "Rifatti gli occhi con Timaeus il Drago Magico Unito!"
     },
     "V0001_19_00_10_0": {
       "face": 3,
@@ -5101,7 +5101,7 @@
         21610
       ],
       "duelist": [],
-      "text": "!\nAttacca!"
+      "text": "Mago Nero della Distruzione!\nAttacca!"
     },
     "V0001_19_00_69_0": {
       "face": 3,
@@ -5111,7 +5111,7 @@
         21611
       ],
       "duelist": [],
-      "text": "!\nAttacca!"
+      "text": "Timaeus il Drago Magico Unito!\nAttacca!"
     }
   }
 }

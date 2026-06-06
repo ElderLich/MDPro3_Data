@@ -3152,7 +3152,7 @@
         21612
       ],
       "duelist": [],
-      "text": "Ativo minha Magia Rápida!\n!"
+      "text": "Ativo minha Magia Rápida!\nO Olhar de Timaeus!"
     },
     "V0001_09_00_05_0": {
       "face": 3,
@@ -3478,7 +3478,7 @@
         5002
       ],
       "duelist": [],
-      "text": "Valkyrion, o Guerreiro Imã!\nSe faça em pedaços!"
+      "text": "Valkyrion, o Guerreiro Ímã!\nSe faça em pedaços!"
     },
     "V0001_09_00_36_0": {
       "face": 3,
@@ -3688,7 +3688,7 @@
         21610
       ],
       "duelist": [],
-      "text": " ativa o efeito dele!"
+      "text": "Mago Negro da Destruição ativa o efeito dele!"
     },
     "V0001_09_00_53_0": {
       "face": 3,
@@ -3698,7 +3698,7 @@
         21611
       ],
       "duelist": [],
-      "text": "Ativo o efeito de !"
+      "text": "Ativo o efeito de Timaeus, o Dragão Mágico Unido!"
     },
     "V0001_13_00_19_0": {
       "face": 3,
@@ -4064,7 +4064,7 @@
       "cutin": 2,
       "card": [],
       "duelist": [],
-      "text": "Valkyrion, o Guerreiro Imã!"
+      "text": "Valkyrion, o Guerreiro Ímã!"
     },
     "V0001_13_00_53_0": {
       "face": 3,
@@ -4074,7 +4074,7 @@
         4744
       ],
       "duelist": [],
-      "text": "Alfa, o Guerreiro Imã!"
+      "text": "Alfa, o Guerreiro Ímã!"
     },
     "V0001_13_00_54_0": {
       "face": 3,
@@ -4084,7 +4084,7 @@
         4763
       ],
       "duelist": [],
-      "text": "Beta, o Guerreiro Imã!"
+      "text": "Beta, o Guerreiro Ímã!"
     },
     "V0001_13_00_55_0": {
       "face": 3,
@@ -4094,7 +4094,7 @@
         4792
       ],
       "duelist": [],
-      "text": "Gama, o Guerreiro Imã!"
+      "text": "Gama, o Guerreiro Ímã!"
     },
     "V0001_13_00_56_0": {
       "face": 3,
@@ -4308,7 +4308,7 @@
         21610
       ],
       "duelist": [],
-      "text": "Apareça!\n!"
+      "text": "Apareça!\nMago Negro da Destruição!"
     },
     "V0001_13_00_75_0": {
       "face": 3,
@@ -4318,7 +4318,7 @@
         21611
       ],
       "duelist": [],
-      "text": "Deleite-se com !"
+      "text": "Deleite-se com Timaeus, o Dragão Mágico Unido!"
     },
     "V0001_19_00_10_0": {
       "face": 3,
@@ -4825,7 +4825,7 @@
         5002
       ],
       "duelist": [],
-      "text": "Valkyrion, o Guerreiro Imã!\nAtacar!"
+      "text": "Valkyrion, o Guerreiro Ímã!\nAtacar!"
     },
     "V0001_19_00_46_1": {
       "face": 3,
@@ -4843,7 +4843,7 @@
         4744
       ],
       "duelist": [],
-      "text": "Alfa, o Guerreiro Imã!\nAtacar!"
+      "text": "Alfa, o Guerreiro Ímã!\nAtacar!"
     },
     "V0001_19_00_47_1": {
       "face": 3,
@@ -4861,7 +4861,7 @@
         4763
       ],
       "duelist": [],
-      "text": "Beta, o Guerreiro Imã!\nAtacar!"
+      "text": "Beta, o Guerreiro Ímã!\nAtacar!"
     },
     "V0001_19_00_49_0": {
       "face": 3,
@@ -4871,7 +4871,7 @@
         4792
       ],
       "duelist": [],
-      "text": "Gama, o Guerreiro Imã!\nAtacar!"
+      "text": "Gama, o Guerreiro Ímã!\nAtacar!"
     },
     "V0001_19_00_49_1": {
       "face": 3,
@@ -5101,7 +5101,7 @@
         21610
       ],
       "duelist": [],
-      "text": "!\nAtacar!"
+      "text": "Mago Negro da Destruição!\nAtacar!"
     },
     "V0001_19_00_69_0": {
       "face": 3,
@@ -5111,7 +5111,7 @@
         21611
       ],
       "duelist": [],
-      "text": "!\nAtacar!"
+      "text": "Timaeus, o Dragão Mágico Unido!\nAtacar!"
     }
   }
 }

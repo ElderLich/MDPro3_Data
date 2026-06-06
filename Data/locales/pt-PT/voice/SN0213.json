@@ -50,7 +50,10 @@
       "duelist": [
         201,
         202,
-        203
+        203,
+        219,
+        220,
+        221
       ],
       "text": "Fiz coisas para vocês das quais me arrependo... e não posso voltar atrás."
     },
@@ -1758,7 +1761,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Só você pensaria em Duelar para me salvar."
     },
@@ -1828,7 +1832,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Estou feliz por você ter sido quem acabou comigo, Yusei."
     },
@@ -1838,7 +1843,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Você não parece satisfeito com essa vitória, Jack."
     },
@@ -1848,7 +1854,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        203
+        203,
+        221
       ],
       "text": "Crow, fico feliz por poder Duelar com você na batalha final."
     },

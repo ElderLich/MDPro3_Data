@@ -636,6 +636,22 @@
       "duelist": [],
       "text": "Fusão de Contato!"
     },
+    "V0865_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação-Ritual de um monstro!"
+    },
+    "V0865_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Ritual!"
+    },
     "V0865_14_00_00_0": {
       "face": 1,
       "frame": 0,
@@ -1342,7 +1358,7 @@
         15811
       ],
       "duelist": [],
-      "text": "Ativo o efeito de ."
+      "text": "Ativo o efeito de Peixe-espada da Sobrevivência."
     },
     "V0865_09_00_04_0": {
       "face": 2,
@@ -1352,7 +1368,7 @@
         19982
       ],
       "duelist": [],
-      "text": " ativa seu efeito."
+      "text": "Peixe Dourado Voador ativa seu efeito."
     },
     "V0865_09_00_05_0": {
       "face": 2,
@@ -1450,7 +1466,7 @@
         15811
       ],
       "duelist": [],
-      "text": "Avante, ."
+      "text": "Avante, Peixe-espada da Sobrevivência."
     },
     "V0865_13_00_06_0": {
       "face": 2,
@@ -1460,7 +1476,7 @@
         19982
       ],
       "duelist": [],
-      "text": "Veja  voar."
+      "text": "Veja Peixe Dourado Voador voar."
     },
     "V0865_13_00_07_0": {
       "face": 2,
@@ -1500,7 +1516,7 @@
         17715
       ],
       "duelist": [],
-      "text": "Vamos, ."
+      "text": "Vamos, Carniçal das Sombras."
     },
     "V0865_13_00_11_0": {
       "face": 2,
@@ -1590,7 +1606,7 @@
         15811
       ],
       "duelist": [],
-      "text": "Ataque, ."
+      "text": "Ataque, Peixe-espada da Sobrevivência."
     },
     "V0865_19_00_06_0": {
       "face": 3,
@@ -1600,7 +1616,7 @@
         19982
       ],
       "duelist": [],
-      "text": "Ataque, ."
+      "text": "Ataque, Peixe Dourado Voador."
     },
     "V0865_19_00_07_0": {
       "face": 3,
@@ -1640,7 +1656,7 @@
         17715
       ],
       "duelist": [],
-      "text": "!\nAtacar!"
+      "text": "Carniçal das Sombras!\nAtacar!"
     },
     "V0865_19_00_11_0": {
       "face": 3,
@@ -1783,6 +1799,22 @@
       "card": [],
       "duelist": [],
       "text": "Aghhh...\nRuááááá!"
+    },
+    "V0865_49_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tudo pronto."
+    },
+    "V0865_49_01_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
     }
   }
 }

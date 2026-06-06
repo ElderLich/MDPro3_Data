@@ -50,7 +50,10 @@
       "duelist": [
         201,
         202,
-        203
+        203,
+        219,
+        220,
+        221
       ],
       "text": "Was ich dir antat, kann ich nur bereuen, nicht zurücknehmen."
     },
@@ -1758,7 +1761,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Nur du würdest an ein Duell denken, um mich zu retten."
     },
@@ -1828,7 +1832,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Ich bin froh, dass gerade du es beendet hast, Yusei."
     },
@@ -1838,7 +1843,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Du scheinst mit diesem Sieg nicht zufrieden zu sein, Jack."
     },
@@ -1848,7 +1854,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        203
+        203,
+        221
       ],
       "text": "Crow, ich bin froh, dass mein letzter Kampf ein Duell mit dir war."
     },

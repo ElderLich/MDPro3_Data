@@ -86,7 +86,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        906
       ],
       "text": "Salve, Immi Imimi!"
     },
@@ -96,7 +96,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        869
       ],
       "text": "Tu padroneggi il leggendario Stile Cagnolone Cattivo!"
     },
@@ -660,6 +660,22 @@
       "duelist": [],
       "text": "Fusione Contatto!"
     },
+    "V0901_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco un mostro tramite Rituale!"
+    },
+    "V0901_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Rituale!"
+    },
     "V0901_14_00_00_0": {
       "face": 1,
       "frame": 0,
@@ -1099,7 +1115,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        869
       ],
       "text": "Lo Stile Cagnolone Cattivo è una tecnica formidabile."
     },
@@ -3667,6 +3683,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaaaaaah!"
+    },
+    "V0901_49_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Cominciamo!"
+    },
+    "V0901_49_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Rush Duel Turbo!"
     }
   }
 }

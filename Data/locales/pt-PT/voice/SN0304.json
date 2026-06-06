@@ -3252,6 +3252,1268 @@
       "card": [],
       "duelist": [],
       "text": "Duelo Dimensional!"
+    },
+    "V0304_01_00_13_0": {
+      "face": 4,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        47
+      ],
+      "text": "Serenity?\nO que você tá fazendo aqui?"
+    },
+    "V0304_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ativo um Efeito de Pêndulo!"
+    },
+    "V0304_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ativo uma Magia de Ritual!"
+    },
+    "V0304_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Tributo!"
+    },
+    "V0304_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Fusão!"
+    },
+    "V0304_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Ritual!"
+    },
+    "V0304_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Sincro!"
+    },
+    "V0304_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Xyz!"
+    },
+    "V0304_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Pêndulo!"
+    },
+    "V0304_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Link!"
+    },
+    "V0304_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação-Máxima de um monstro!"
+    },
+    "V0304_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Máxima!"
+    },
+    "V0304_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação-Fusão de um monstro!"
+    },
+    "V0304_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Fusão!"
+    },
+    "V0304_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Fusão de Contato de um monstro!"
+    },
+    "V0304_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fusão de Contato!"
+    },
+    "V0304_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação-Ritual de um monstro!"
+    },
+    "V0304_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Ritual!"
+    },
+    "V0304_28_00_12_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        47
+      ],
+      "text": "Sempre tem uma chance de vencer se você nunca desistir!"
+    },
+    "V0304_29_00_12_0": {
+      "face": 4,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        47
+      ],
+      "text": "Uau, Serenity...\nFoi incrível..."
+    },
+    "V0304_36_00_09_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        47
+      ],
+      "text": "Estamos a um passo da vitória!\nVocê consegue, Serenity!"
+    },
+    "V0304_36_00_10_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        47
+      ],
+      "text": "Sua vez, Serenity.\nAcredita em si mesma."
+    },
+    "V0304_36_00_11_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        47
+      ],
+      "text": "Não desiste, Serenity!\nTô aqui com você!"
+    },
+    "V0304_48_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aqui vou eu!"
+    },
+    "V0304_48_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Se prepara pra acelerar!"
+    },
+    "V0304_51_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Joey Wheeler!"
+    },
+    "V0304_51_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Vamos pro Rush!"
+    },
+    "V0304_49_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Isso aí!\nEu nasci pra isso!"
+    },
+    "V0304_49_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
+    },
+    "V0304_08_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5904
+      ],
+      "duelist": [],
+      "text": "Ativo meu Card de Magia, Cordeiros Perdidos!"
+    },
+    "V0304_08_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19729
+      ],
+      "duelist": [],
+      "text": "Ativo minha Magia Contínua!\nReinoespada das Chamas!"
+    },
+    "V0304_08_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19729
+      ],
+      "duelist": [],
+      "text": "Envio um monstro ao Cemitério para ativar Reinoespada das Chamas!"
+    },
+    "V0304_08_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19729
+      ],
+      "duelist": [],
+      "text": "Espero que funcione!\nAtivo o efeito de Reinoespada das Chamas!"
+    },
+    "V0304_08_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19730
+      ],
+      "duelist": [],
+      "text": "Ativo minha Magia de Equipamento!\nFusão Salamandra!"
+    },
+    "V0304_08_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19731
+      ],
+      "duelist": [],
+      "text": "Aí vai!\nA Magia Rápida, Espada das Chamas Lutadora!"
+    },
+    "V0304_08_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19733
+      ],
+      "duelist": [],
+      "text": "Ativo meu Card de Armadilha!\nDançaespada das Chamas!"
+    },
+    "V0304_08_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19733
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Dançaespada das Chamas do Cemitério!"
+    },
+    "V0304_08_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19732
+      ],
+      "duelist": [],
+      "text": "Ativo a Armadilha, Salamandra com Corrente!"
+    },
+    "V0304_08_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19732
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Salamandra com Corrente do Cemitério!"
+    },
+    "V0304_08_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20547
+      ],
+      "duelist": [],
+      "text": "Ativo minha Armadilha, Metalmorfe Máximo!"
+    },
+    "V0304_08_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20812
+      ],
+      "duelist": [],
+      "text": "Ativo minha Armadilha!\nMetalmorfe Revestido em Chamas!"
+    },
+    "V0304_08_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20548
+      ],
+      "duelist": [],
+      "text": "Ativo a Armadilha, Motor do Tempo!"
+    },
+    "V0304_08_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21580
+      ],
+      "duelist": [],
+      "text": "Ativo minha Magia de Equipamento!\nVENTOS DA VITÓRIA!"
+    },
+    "V0304_08_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21579
+      ],
+      "duelist": [],
+      "text": "Ativo minha Armadilha!\nArmadilha do Escorpião Venenoso!"
+    },
+    "V0304_09_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20481
+      ],
+      "duelist": [],
+      "text": "Ativo Dragão Metálico Pleno Negro de Olhos Vermelhos da minha mão!"
+    },
+    "V0304_09_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20481
+      ],
+      "duelist": [],
+      "text": "Dragão Metálico Pleno Negro de Olhos Vermelhos ativa seu efeito!"
+    },
+    "V0304_09_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17243
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Alma de Olhos Vermelhos!"
+    },
+    "V0304_09_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17243
+      ],
+      "duelist": [],
+      "text": "Alma de Olhos Vermelhos!\nCause dano!"
+    },
+    "V0304_09_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21162
+      ],
+      "duelist": [],
+      "text": "O efeito de Dragão Garras de Metal de Olhos Vermelhos é ativado da minha mão!"
+    },
+    "V0304_09_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21162
+      ],
+      "duelist": [],
+      "text": "Dragão Garras de Metal de Olhos Vermelhos ativa seu efeito!"
+    },
+    "V0304_09_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17388
+      ],
+      "duelist": [],
+      "text": "Ativo Dragão Meteoro Negro de Olhos Vermelhos da minha mão!"
+    },
+    "V0304_09_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17388
+      ],
+      "duelist": [],
+      "text": "Dragão Meteoro Negro de Olhos Vermelhos ativa-se do Cemitério!"
+    },
+    "V0304_09_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14952
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Dragoon Negro de Olhos Vermelhos!"
+    },
+    "V0304_09_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14801
+      ],
+      "duelist": [],
+      "text": "O efeito de Gearfried Fênix Imortal é ativado da minha mão!"
+    },
+    "V0304_09_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14801
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Gearfried Fênix Imortal!"
+    },
+    "V0304_09_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8431
+      ],
+      "duelist": [],
+      "text": "Gearfried Fênix ativa o efeito dele!"
+    },
+    "V0304_09_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6724
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Gilti-Gearfried, o Cavaleiro de Aço Mágico!"
+    },
+    "V0304_09_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19727
+      ],
+      "duelist": [],
+      "text": "Espadachim das Chamas Definitivo ativa o efeito dele!"
+    },
+    "V0304_09_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20753
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Espadachim Metalchamas da minha mão!"
+    },
+    "V0304_09_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14333
+      ],
+      "duelist": [],
+      "text": "Espadachim da Chama Feroz ativa o efeito dele!"
+    },
+    "V0304_09_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19724
+      ],
+      "duelist": [],
+      "text": "O efeito de Espadachim das Chamas Lutador é ativado!"
+    },
+    "V0304_09_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19724
+      ],
+      "duelist": [],
+      "text": "Espadachim das Chamas Lutador ativa-se quando vai ao Cemitério!"
+    },
+    "V0304_09_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19728
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Dragão das Chamas Lutador!"
+    },
+    "V0304_09_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15344
+      ],
+      "duelist": [],
+      "text": "Vou ativar o efeito desse aqui da minha mão!"
+    },
+    "V0304_09_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15344
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Jinzo, a Máquina Ameaçadora!"
+    },
+    "V0304_09_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16621
+      ],
+      "duelist": [],
+      "text": "Giltia, o Cavaleiro D. - Lança da Alma vai derrubar o oponente dele!"
+    },
+    "V0304_09_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16621
+      ],
+      "duelist": [],
+      "text": "Giltia, o Cavaleiro D. - Lança da Alma!\nAtiva seu efeito!"
+    },
+    "V0304_09_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15461
+      ],
+      "duelist": [],
+      "text": "Dragão Secular ativa seu efeito!"
+    },
+    "V0304_09_00_75_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19725
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Salamandra, o Dragão das Chamas Voador!"
+    },
+    "V0304_09_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20484
+      ],
+      "duelist": [],
+      "text": "Ilusionista Metálico ativa seu efeito!"
+    },
+    "V0304_09_00_78_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15462
+      ],
+      "duelist": [],
+      "text": "Mago do Tempo do Amanhã!\nEstá em suas mãos!"
+    },
+    "V0304_09_00_78_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Roleta do Tempo!"
+    },
+    "V0304_40_00_79_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15462
+      ],
+      "duelist": [],
+      "text": "Isso aí!"
+    },
+    "V0304_40_00_79_1": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Feitiçaria do Tempo!"
+    },
+    "V0304_40_00_80_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15462
+      ],
+      "duelist": [],
+      "text": "Gah!\nSério mesmo?!"
+    },
+    "V0304_13_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        20481
+      ],
+      "duelist": [],
+      "text": "Dragão Metálico Pleno Negro de Olhos Vermelhos!"
+    },
+    "V0304_13_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        17243
+      ],
+      "duelist": [],
+      "text": "Meu coração tá nesse card!"
+    },
+    "V0304_13_00_38_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [],
+      "duelist": [],
+      "text": "Alma de Olhos Vermelhos!"
+    },
+    "V0304_13_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        21162
+      ],
+      "duelist": [],
+      "text": "Dragão Garras de Metal de Olhos Vermelhos!"
+    },
+    "V0304_13_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        17388
+      ],
+      "duelist": [],
+      "text": "Dragão Meteoro Negro de Olhos Vermelhos!"
+    },
+    "V0304_13_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14952
+      ],
+      "duelist": [],
+      "text": "Dragoon Negro de Olhos Vermelhos!"
+    },
+    "V0304_13_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14801
+      ],
+      "duelist": [],
+      "text": "Gearfried Fênix Imortal!"
+    },
+    "V0304_13_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        8431
+      ],
+      "duelist": [],
+      "text": "Gearfried Fênix!"
+    },
+    "V0304_13_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        6724
+      ],
+      "duelist": [],
+      "text": "Gilti-Gearfried, o Cavaleiro de Aço Mágico!"
+    },
+    "V0304_13_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        19727
+      ],
+      "duelist": [],
+      "text": "Isso aí!\nLá vai Espadachim das Chamas Definitivo!"
+    },
+    "V0304_13_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        20753
+      ],
+      "duelist": [],
+      "text": "Espadachim Metalchamas!"
+    },
+    "V0304_13_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        14333
+      ],
+      "duelist": [],
+      "text": "Olha isso!\nEspadachim da Chama Feroz!"
+    },
+    "V0304_13_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19724
+      ],
+      "duelist": [],
+      "text": "Espadachim das Chamas Lutador!"
+    },
+    "V0304_13_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        19728
+      ],
+      "duelist": [],
+      "text": "Apareça, Dragão das Chamas Lutador!"
+    },
+    "V0304_13_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        15344
+      ],
+      "duelist": [],
+      "text": "Jinzo, a Máquina Ameaçadora!"
+    },
+    "V0304_13_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        16621
+      ],
+      "duelist": [],
+      "text": "Giltia, o Cavaleiro D. - Lança da Alma!"
+    },
+    "V0304_13_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        15462
+      ],
+      "duelist": [],
+      "text": "Tô contando com você!\nMago do Tempo do Amanhã!"
+    },
+    "V0304_13_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4074
+      ],
+      "duelist": [],
+      "text": "Vai funcionar!\nGaroozis!"
+    },
+    "V0304_13_00_74_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        15461
+      ],
+      "duelist": [],
+      "text": "Apareça!\nDragão Secular!"
+    },
+    "V0304_13_00_75_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4299
+      ],
+      "duelist": [],
+      "text": "Masaki, o Espadachim Lendário!"
+    },
+    "V0304_13_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4148
+      ],
+      "duelist": [],
+      "text": "Manipulador de Chamas!\nSua vez!"
+    },
+    "V0304_13_00_80_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19725
+      ],
+      "duelist": [],
+      "text": "Salamandra, o Dragão das Chamas Voador!"
+    },
+    "V0304_13_00_81_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20484
+      ],
+      "duelist": [],
+      "text": "Agora é a hora perfeita para Ilusionista Metálico!"
+    },
+    "V0304_13_00_83_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3902
+      ],
+      "duelist": [],
+      "text": "Faço a Invocação-Especial de Ficha de Ovelha!"
+    },
+    "V0304_13_00_84_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3918
+      ],
+      "duelist": [],
+      "text": "Faço a Invocação-Especial de Ficha de Cordeiro!"
+    },
+    "V0304_19_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20481
+      ],
+      "duelist": [],
+      "text": "Dragão Metálico Pleno Negro de Olhos Vermelhos!\nAtacar!"
+    },
+    "V0304_19_00_39_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Golpe Devastador!"
+    },
+    "V0304_19_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17243
+      ],
+      "duelist": [],
+      "text": "Alma de Olhos Vermelhos!\nÉ pra atacar!"
+    },
+    "V0304_19_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21162
+      ],
+      "duelist": [],
+      "text": "Dragão Garras de Metal de Olhos Vermelhos!\nÉ pra arrasar!"
+    },
+    "V0304_19_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17388
+      ],
+      "duelist": [],
+      "text": "Dragão Meteoro Negro de Olhos Vermelhos!\nAtacar!"
+    },
+    "V0304_19_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14952
+      ],
+      "duelist": [],
+      "text": "Dragoon Negro de Olhos Vermelhos!\nMostra o que sabe!"
+    },
+    "V0304_19_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14801
+      ],
+      "duelist": [],
+      "text": "Gearfried Fênix Imortal!\nAtacar!"
+    },
+    "V0304_19_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8431
+      ],
+      "duelist": [],
+      "text": "Gearfried Fênix ataca!"
+    },
+    "V0304_19_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6724
+      ],
+      "duelist": [],
+      "text": "Gilti-Gearfried, o Cavaleiro de Aço Mágico!\nAtacar!"
+    },
+    "V0304_19_00_50_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Espada da Alma!"
+    },
+    "V0304_19_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19727
+      ],
+      "duelist": [],
+      "text": "Espadachim das Chamas Definitivo!\nAtacar!"
+    },
+    "V0304_19_00_52_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Espada Ardente de Batalha!"
+    },
+    "V0304_19_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20753
+      ],
+      "duelist": [],
+      "text": "Espadachim Metalchamas!\nÉ pra derrubar!"
+    },
+    "V0304_19_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14333
+      ],
+      "duelist": [],
+      "text": "Espadachim da Chama Feroz!\nAtacar!"
+    },
+    "V0304_19_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10864
+      ],
+      "duelist": [],
+      "text": "É pra fatiar, Espadachim da Chama Azul!"
+    },
+    "V0304_19_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19724
+      ],
+      "duelist": [],
+      "text": "Atacar, Espadachim das Chamas Lutador!"
+    },
+    "V0304_19_00_56_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Espada das Chamas Lutadora!"
+    },
+    "V0304_19_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19728
+      ],
+      "duelist": [],
+      "text": "Dragão das Chamas Lutador ataca!"
+    },
+    "V0304_19_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15344
+      ],
+      "duelist": [],
+      "text": "Jinzo, a Máquina Ameaçadora ataca!"
+    },
+    "V0304_19_00_66_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Choque de Ciber Energia Ameaçador!"
+    },
+    "V0304_19_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16621
+      ],
+      "duelist": [],
+      "text": "Giltia, o Cavaleiro D. - Lança da Alma!\nAtacar!"
+    },
+    "V0304_19_00_70_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Lança da Alma!"
+    },
+    "V0304_19_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15462
+      ],
+      "duelist": [],
+      "text": "Mago do Tempo do Amanhã!\nAtacar!"
+    },
+    "V0304_19_00_73_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4074
+      ],
+      "duelist": [],
+      "text": "Garoozis! Atacar!"
+    },
+    "V0304_19_00_73_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Golpe dos Cinco Cortes!"
+    },
+    "V0304_19_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15461
+      ],
+      "duelist": [],
+      "text": "Dragão Secular! Atacar!"
+    },
+    "V0304_19_00_76_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Vendaval das Narinas Tóxicas!"
+    },
+    "V0304_19_00_77_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4299
+      ],
+      "duelist": [],
+      "text": "Masaki, o Espadachim Lendário!\nAtacar!"
+    },
+    "V0304_19_00_78_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4148
+      ],
+      "duelist": [],
+      "text": "Atacar, Manipulador de Chamas!"
+    },
+    "V0304_19_00_82_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19725
+      ],
+      "duelist": [],
+      "text": "Salamandra, o Dragão das Chamas Voador!\nÉ pra incinerar!"
+    },
+    "V0304_19_00_83_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20484
+      ],
+      "duelist": [],
+      "text": "Ilusionista Metálico!\nAtacar!"
+    },
+    "V0304_19_00_85_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3902
+      ],
+      "duelist": [],
+      "text": "Ficha de Ovelha ataca!"
+    },
+    "V0304_19_00_86_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3918
+      ],
+      "duelist": [],
+      "text": "Ataco com Ficha de Cordeiro!"
     }
   }
 }

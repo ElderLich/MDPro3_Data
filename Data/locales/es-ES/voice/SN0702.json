@@ -1867,7 +1867,7 @@
         17060
       ],
       "duelist": [],
-      "text": "¡Activo el efecto de mi carta! ¡!"
+      "text": "¡Activo el efecto de mi carta! ¡Dragón Gaigias Almapotenciada!"
     },
     "V0702_09_00_11_1": {
       "face": 3,
@@ -1939,7 +1939,7 @@
         17239
       ],
       "duelist": [],
-      "text": "¡Activo el efecto de mi carta! ¡!"
+      "text": "¡Activo el efecto de mi carta! ¡Estallido de Megadragón Dragias Multiataque!"
     },
     "V0702_09_01_15_1": {
       "face": 3,
@@ -1957,7 +1957,7 @@
         17241
       ],
       "duelist": [],
-      "text": "¡El efecto de mi carta! ¡!"
+      "text": "¡El efecto de mi carta! ¡Estallido de Megadragón Dragias Multiataque!"
     },
     "V0702_09_01_16_1": {
       "face": 3,
@@ -2623,7 +2623,7 @@
         17060
       ],
       "duelist": [],
-      "text": "¡!"
+      "text": "¡Dragón Gaigias Almapotenciada!"
     },
     "V0702_37_00_10_0": {
       "face": 1,
@@ -2735,7 +2735,7 @@
         17240
       ],
       "duelist": [],
-      "text": "¡!"
+      "text": "¡Estallido de Megadragón Dragias Multiataque!"
     },
     "V0702_37_00_14_0": {
       "face": 1,
@@ -3499,7 +3499,7 @@
         17060
       ],
       "duelist": [],
-      "text": "¡Ataca! ¡!"
+      "text": "¡Ataca! ¡Dragón Gaigias Almapotenciada!"
     },
     "V0702_19_00_15_0": {
       "face": 3,
@@ -3583,7 +3583,7 @@
         17240
       ],
       "duelist": [],
-      "text": "¡!\n¡Adelante, ataca!"
+      "text": "¡Estallido de Megadragón Dragias Multiataque!\n¡Adelante, ataca!"
     },
     "V0702_19_01_20_1": {
       "face": 3,
@@ -4236,6 +4236,22 @@
       "card": [],
       "duelist": [],
       "text": "¡Aaaaaaaaah!"
+    },
+    "V0702_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Vamos a ello!"
+    },
+    "V0702_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Rush Duel Turbo!"
     }
   }
 }

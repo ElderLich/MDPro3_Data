@@ -40,7 +40,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei! \nYou gotta check out how much tougher I am now!"
     },
@@ -50,7 +51,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Jack, I won't let your Power Deck push me over!"
     },
@@ -2242,7 +2244,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei, you believe in yourself.\nSo I decided I would too!"
     },
@@ -2252,7 +2255,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "I'm gonna be as cool as you, Jack!"
     },
@@ -2382,7 +2386,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "I'm not the best yet, but my friends will help me improve!"
     },
@@ -2392,7 +2397,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Jack, you really are awesome!"
     },
@@ -2731,7 +2737,10 @@
         202,
         203,
         204,
-        209
+        209,
+        219,
+        220,
+        221
       ],
       "text": "I've set 'em up, so you can knock 'em down!"
     },
@@ -2745,7 +2754,10 @@
         202,
         203,
         204,
-        209
+        209,
+        219,
+        220,
+        221
       ],
       "text": "I'll do my best to help, so I know you got this!"
     },
@@ -2759,7 +2771,10 @@
         202,
         203,
         204,
-        209
+        209,
+        219,
+        220,
+        221
       ],
       "text": "We haven't lost yet!\nDon't give up hope!"
     },

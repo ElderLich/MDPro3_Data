@@ -430,7 +430,8 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          99999
+          422,
+          445
         ],
         "skills": null,
         "situations": null,
@@ -446,7 +447,8 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          99999
+          422,
+          445
         ],
         "skills": null,
         "situations": null,
@@ -472,7 +474,9 @@
           442,
           443,
           445,
-          446
+          446,
+          447,
+          448
         ],
         "skills": null,
         "situations": null,
@@ -498,7 +502,9 @@
           442,
           443,
           445,
-          446
+          446,
+          447,
+          448
         ],
         "skills": null,
         "situations": null,
@@ -2251,7 +2257,9 @@
         "cards": null,
         "duelists": [
           416,
-          417
+          447,
+          417,
+          448
         ],
         "skills": null,
         "situations": null,
@@ -2267,7 +2275,8 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          417
+          417,
+          448
         ],
         "skills": null,
         "situations": null,
@@ -2283,7 +2292,8 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          99999
+          422,
+          445
         ],
         "skills": null,
         "situations": null,
@@ -2492,7 +2502,8 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          99999
+          422,
+          445
         ],
         "skills": null,
         "situations": null,
@@ -2508,7 +2519,8 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          99999
+          422,
+          445
         ],
         "skills": null,
         "situations": null,
@@ -2524,7 +2536,8 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          416
+          416,
+          447
         ],
         "skills": null,
         "situations": null,
@@ -2540,7 +2553,8 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          417
+          417,
+          448
         ],
         "skills": null,
         "situations": null,
@@ -2688,7 +2702,7 @@
         "cards": null,
         "duelists": null,
         "skills": [
-          999999
+          1916
         ],
         "situations": null,
         "engineparams": null,
@@ -3085,7 +3099,8 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          416
+          416,
+          447
         ],
         "skills": null,
         "situations": [
@@ -3103,7 +3118,8 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          416
+          416,
+          447
         ],
         "skills": null,
         "situations": [
@@ -3121,7 +3137,8 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          416
+          416,
+          447
         ],
         "skills": null,
         "situations": [
@@ -3139,7 +3156,8 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          417
+          417,
+          448
         ],
         "skills": null,
         "situations": [
@@ -3157,7 +3175,8 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          417
+          417,
+          448
         ],
         "skills": null,
         "situations": [
@@ -3175,7 +3194,8 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          417
+          417,
+          448
         ],
         "skills": null,
         "situations": [

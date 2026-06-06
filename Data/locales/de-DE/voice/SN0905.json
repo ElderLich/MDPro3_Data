@@ -72,7 +72,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        869
       ],
       "text": "Wenn du mir nur auf diesem Weg verzeihst, nehme ich an."
     },
@@ -419,6 +419,14 @@
       "card": [],
       "duelist": [],
       "text": "Ich aktiviere einen Pendeleffekt!"
+    },
+    "V0905_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich aktiviere einen Ritualzauber!"
     },
     "V0905_10_00_00_0": {
       "face": 1,
@@ -922,7 +930,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        869
       ],
       "text": "Ich trat der Verschwiegenheit bei, um dich wiederzufinden.  "
     },
@@ -1054,7 +1062,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        869
       ],
       "text": "Wir sind immer noch Freunde, Gräber."
     },
@@ -1640,7 +1648,7 @@
         18614
       ],
       "duelist": [],
-      "text": " aktiviert den Effekt!"
+      "text": "Alchemikalisierte Salamandra aktiviert den Effekt!"
     },
     "V0905_09_00_07_1": {
       "face": 3,
@@ -2106,7 +2114,7 @@
         18614
       ],
       "duelist": [],
-      "text": "Sei geboren, !"
+      "text": "Sei geboren, Alchemikalisierte Salamandra!"
     },
     "V0905_37_00_04_0": {
       "face": 3,
@@ -2294,7 +2302,7 @@
         17958
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Barrierenstatue des Infernos!"
     },
     "V0905_13_00_19_0": {
       "face": 3,
@@ -2756,7 +2764,7 @@
         18614
       ],
       "duelist": [],
-      "text": "!\nAngriff!"
+      "text": "Alchemikalisierte Salamandra!\nAngriff!"
     },
     "V0905_19_00_07_1": {
       "face": 3,
@@ -2934,7 +2942,7 @@
         17958
       ],
       "duelist": [],
-      "text": " greift an!"
+      "text": "Barrierenstatue des Infernos greift an!"
     },
     "V0905_19_00_21_0": {
       "face": 3,
@@ -3339,6 +3347,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaaagh!"
+    },
+    "V0905_49_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Los geht’s!"
+    },
+    "V0905_49_01_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo-Rush-Duell!"
     }
   }
 }

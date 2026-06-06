@@ -26,7 +26,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Accepte ce Duel et je te prouverai ma supériorité !"
     },
@@ -913,7 +917,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Hé.\nAucun doute quant à l'issue de ce match."
     },
@@ -1017,7 +1025,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Toi..."
     },
@@ -1059,7 +1071,11 @@
         441,
         442,
         443,
-        444
+        444,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Impossible...\nComment quelqu'un peut-il résister à l'effet du Tachyon ?"
     },
@@ -1425,7 +1441,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        416
+        416,
+        447
       ],
       "text": "Nash !\nOccupe-toi de ça !"
     },

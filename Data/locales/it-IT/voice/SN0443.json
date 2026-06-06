@@ -26,7 +26,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Accetta il Duello, e ti dimostrerò che sono superiore a te!"
     },
@@ -913,7 +917,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Eh eh.\nCome se l'esito non fosse stato scontato."
     },
@@ -1017,7 +1025,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Tu..."
     },
@@ -1059,7 +1071,11 @@
         441,
         442,
         443,
-        444
+        444,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Impossibile...\nCome si può resistere all'effetto del mio drago?"
     },
@@ -1425,7 +1441,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        416
+        416,
+        447
       ],
       "text": "Nash!\nOccupatene tu!"
     },

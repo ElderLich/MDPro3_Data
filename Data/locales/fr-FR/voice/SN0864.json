@@ -48,7 +48,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        906
       ],
       "text": "Je n'ai jamais eu autant envie de baston et de ramens !"
     },
@@ -591,6 +591,22 @@
       "card": [],
       "duelist": [],
       "text": "Contact Fusion !"
+    },
+    "V0864_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Rituel !"
+    },
+    "V0864_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Rituelle !"
     },
     "V0864_14_00_00_0": {
       "face": 1,
@@ -1342,7 +1358,7 @@
         17005
       ],
       "duelist": [],
-      "text": " active son effet !"
+      "text": "Extra Meat, le Ninja Nouilles Spécial active son effet !"
     },
     "V0864_09_00_04_0": {
       "face": 3,
@@ -1352,7 +1368,7 @@
         17004
       ],
       "duelist": [],
-      "text": "J'active l'effet de la Carte  !"
+      "text": "J'active l'effet de la Carte Soupe Miso, le Ninja Nouilles Spécial !"
     },
     "V0864_09_00_05_0": {
       "face": 3,
@@ -1362,7 +1378,7 @@
         18598
       ],
       "duelist": [],
-      "text": "J'active l'effet de la Carte  !"
+      "text": "J'active l'effet de la Carte Fille aux Griffes de Chat !"
     },
     "V0864_37_00_00_0": {
       "face": 3,
@@ -1504,7 +1520,7 @@
         17005
       ],
       "duelist": [],
-      "text": "Voici...\n !"
+      "text": "Voici...\nExtra Meat, le Ninja Nouilles Spécial !"
     },
     "V0864_13_00_09_0": {
       "face": 3,
@@ -1514,7 +1530,7 @@
         17004
       ],
       "duelist": [],
-      "text": " !"
+      "text": "Soupe Miso, le Ninja Nouilles Spécial !"
     },
     "V0864_13_00_10_0": {
       "face": 3,
@@ -1524,7 +1540,7 @@
         16975
       ],
       "duelist": [],
-      "text": " !"
+      "text": "Medley le Ninja Nouilles d'Élite !"
     },
     "V0864_13_00_11_0": {
       "face": 3,
@@ -1574,7 +1590,7 @@
         18598
       ],
       "duelist": [],
-      "text": "Voilà  !"
+      "text": "Voilà Fille aux Griffes de Chat !"
     },
     "V0864_19_00_00_0": {
       "face": 3,
@@ -1676,7 +1692,7 @@
         17005
       ],
       "duelist": [],
-      "text": "À l'attaque,  !"
+      "text": "À l'attaque, Extra Meat, le Ninja Nouilles Spécial !"
     },
     "V0864_19_00_07_0": {
       "face": 3,
@@ -1686,7 +1702,7 @@
         17004
       ],
       "duelist": [],
-      "text": " attaque !"
+      "text": "Soupe Miso, le Ninja Nouilles Spécial attaque !"
     },
     "V0864_19_00_08_0": {
       "face": 3,
@@ -1696,7 +1712,7 @@
         16975
       ],
       "duelist": [],
-      "text": " !\nÀ l'attaque !"
+      "text": "Medley le Ninja Nouilles d'Élite !\nÀ l'attaque !"
     },
     "V0864_19_00_09_0": {
       "face": 3,
@@ -1736,7 +1752,7 @@
         18598
       ],
       "duelist": [],
-      "text": " !\nLacère l'adversaire !"
+      "text": "Fille aux Griffes de Chat !\nLacère l'adversaire !"
     },
     "V0864_02_00_00_0": {
       "face": 8,
@@ -1849,6 +1865,22 @@
       "card": [],
       "duelist": [],
       "text": "Raaameeens !"
+    },
+    "V0864_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Commençons !"
+    },
+    "V0864_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel !"
     }
   }
 }

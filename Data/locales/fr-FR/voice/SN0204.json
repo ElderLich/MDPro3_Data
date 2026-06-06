@@ -56,7 +56,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei, je veux tout savoir."
     },
@@ -76,7 +77,9 @@
       "duelist": [
         202,
         203,
-        209
+        209,
+        220,
+        221
       ],
       "text": "Je veux mériter ta confiance."
     },
@@ -2273,7 +2276,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Je sais que mon pouvoir est un cadeau, pas une malédiction."
     },
@@ -2285,7 +2289,9 @@
       "duelist": [
         202,
         203,
-        209
+        209,
+        220,
+        221
       ],
       "text": "Je ferai ma part et ne laisserai pas tomber l'équipe !"
     },
@@ -2364,7 +2370,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "La marque ne fait pas de moi une sorcière. Je suis spéciale."
     },
@@ -2384,7 +2391,9 @@
       "duelist": [
         202,
         203,
-        209
+        209,
+        220,
+        221
       ],
       "text": "J'ai peut-être perdu, mais cela me renforcera !"
     },
@@ -2631,7 +2640,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei ! Avec toi à mes côtés, je n'ai peur de rien !"
     },
@@ -2641,7 +2651,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei ! Il faut que tu t'occupes de ça !"
     },
@@ -2651,7 +2662,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Désolée, Yusei.\nJe n'ai rien pu faire."
     },

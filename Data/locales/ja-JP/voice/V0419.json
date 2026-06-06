@@ -350,7 +350,11 @@
           442,
           444,
           445,
-          446
+          446,
+          416,
+          447,
+          417,
+          448
         ],
         "skills": null,
         "situations": null,
@@ -2222,11 +2226,9 @@
         "shortName": "V0419_33_00_03",
         "voiceIdx": "0",
         "cards": null,
-        "duelists": [
-          "999999"
-        ],
+        "duelists": null,
         "skills": [
-          999999
+          1920
         ],
         "situations": null,
         "engineparams": null,

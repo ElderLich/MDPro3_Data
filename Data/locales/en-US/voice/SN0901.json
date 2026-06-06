@@ -86,7 +86,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        906
       ],
       "text": "Hello, Immi Imimi!"
     },
@@ -96,7 +96,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        869
       ],
       "text": "You are a practitioner of the legendary Mean Mutt Style!"
     },
@@ -660,6 +660,22 @@
       "duelist": [],
       "text": "Contact Fusion!"
     },
+    "V0901_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Ritual Summon a monster!"
+    },
+    "V0901_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ritual Summon!"
+    },
     "V0901_14_00_00_0": {
       "face": 1,
       "frame": 0,
@@ -1099,7 +1115,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        869
       ],
       "text": "The Mean Mutt Style is truly a formidable technique."
     },
@@ -3667,6 +3683,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaaahhhh!"
+    },
+    "V0901_49_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Let's begin!"
+    },
+    "V0901_49_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
     }
   }
 }

@@ -27,7 +27,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "È ora di giocarsi il tutto per tutto, Astral!"
     },
@@ -80,7 +84,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Energia al Massimo!"
     },
@@ -93,7 +101,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Duel Disk, attivazione! Duel Gazer, attivazione!"
     },
@@ -888,7 +900,13 @@
       "frame": 0,
       "cutin": 0,
       "card": [],
-      "duelist": [],
+      "duelist": [
+        0,
+        416,
+        417,
+        447,
+        448
+      ],
       "text": "Conosci davvero qualcuno solo quando ci duelli."
     },
     "V0401_28_00_01_1": {
@@ -921,7 +939,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Finché l'energia sarà al massimo, non mi arrenderò mai!"
     },
@@ -1048,7 +1070,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Per avere la stessa energia di mio padre, devo impegnarmi."
     },

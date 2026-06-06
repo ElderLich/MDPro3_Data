@@ -86,7 +86,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        906
       ],
       "text": "¡Hola, Immi Imimi!"
     },
@@ -96,7 +96,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        869
       ],
       "text": "¡Veo que practicas el legendario Perro Mezquino Style!"
     },
@@ -660,6 +660,22 @@
       "duelist": [],
       "text": "¡Fusión de Contacto!"
     },
+    "V0901_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Ritual!"
+    },
+    "V0901_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Ritual!"
+    },
     "V0901_14_00_00_0": {
       "face": 1,
       "frame": 0,
@@ -1099,7 +1115,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        869
       ],
       "text": "El Perro Mezquino Style es una técnica formidable."
     },
@@ -3667,6 +3683,22 @@
       "card": [],
       "duelist": [],
       "text": "¡Aaaaahhh!"
+    },
+    "V0901_49_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Empecemos!"
+    },
+    "V0901_49_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Rush Duel Turbo!"
     }
   }
 }

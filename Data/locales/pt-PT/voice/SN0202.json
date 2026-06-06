@@ -48,7 +48,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei!\nVou me dedicar de corpo e alma nesse duelo!"
     },
@@ -70,7 +71,8 @@
         204,
         205,
         206,
-        209
+        209,
+        221
       ],
       "text": "Como equipe, fizemos tudo o que foi possível."
     },
@@ -3090,7 +3092,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei!\nSó eu domino o duelo!\nComo o único rei verdadeiro!"
     },
@@ -3104,7 +3107,8 @@
         204,
         205,
         206,
-        209
+        209,
+        221
       ],
       "text": "Quero testar minhas habilidades no cenário mundial!"
     },
@@ -3159,7 +3163,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        213
+        213,
+        222
       ],
       "text": "Você é só um obstáculo no rumo ao meu verdadeiro oponente!"
     },
@@ -3240,7 +3245,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Então esse é o elo que você tem com seus monstros..."
     },
@@ -3261,7 +3267,8 @@
         203,
         204,
         206,
-        209
+        209,
+        221
       ],
       "text": "Parece que você me deu um motivo para voltar aqui."
     },
@@ -3549,7 +3556,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Acabe com esse duelo, Yusei!"
     },
@@ -3559,7 +3567,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Você cuida disso, Yusei!"
     },
@@ -3569,7 +3578,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei... Deixo o resto... com você..."
     },
@@ -3734,6 +3744,2281 @@
       "card": [],
       "duelist": [],
       "text": "Em suas marcas... Preparar... Duelo!"
+    },
+    "V0202_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ativo um Efeito de Pêndulo!"
+    },
+    "V0202_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ativo uma Magia de Ritual!"
+    },
+    "V0202_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Tributo!"
+    },
+    "V0202_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Fusão!"
+    },
+    "V0202_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Ritual!"
+    },
+    "V0202_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Sincro!"
+    },
+    "V0202_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Xyz!"
+    },
+    "V0202_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Pêndulo!"
+    },
+    "V0202_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Link!"
+    },
+    "V0202_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação Máxima de um monstro!"
+    },
+    "V0202_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação Máxima!"
+    },
+    "V0202_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação-Fusão de um monstro!"
+    },
+    "V0202_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Fusão!"
+    },
+    "V0202_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Fusão de Contato de um monstro!"
+    },
+    "V0202_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fusão de Contato!"
+    },
+    "V0202_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação-Ritual de um monstro!"
+    },
+    "V0202_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Ritual!"
+    },
+    "V0202_21_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Vou acabar com você em instantes!"
+    },
+    "V0202_21_00_03_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Termino meu turno!"
+    },
+    "V0202_21_00_04_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Isso encerra meu turno!"
+    },
+    "V0202_21_00_05_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Eu não vou ceder!"
+    },
+    "V0202_21_00_05_1": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Termino meu turno!"
+    },
+    "V0202_34_00_10_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Se você não se endireitar, eu vou endireitar você."
+    },
+    "V0202_34_00_11_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Se alguém merece o crédito, sou eu."
+    },
+    "V0202_34_00_12_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Você vai pagar por roubar o meu macarrão!"
+    },
+    "V0202_34_00_13_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Espere! Foi sem querer!"
+    },
+    "V0202_34_00_14_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "O doce aroma do Assado de Olhos Azuis. Nada melhor!"
+    },
+    "V0202_34_00_15_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Trabalho não é comigo. Dá trabalho demais, sabe?"
+    },
+    "V0202_36_00_11_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        213,
+        222
+      ],
+      "text": "Vai, Kalin!"
+    },
+    "V0202_08_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15048
+      ],
+      "duelist": [],
+      "text": "Ativo minha Magia Rápida!\nComandar Ressonador!"
+    },
+    "V0202_08_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22561
+      ],
+      "duelist": [],
+      "text": "Ativo o Card de Magia Chamado Carmesim!"
+    },
+    "V0202_08_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22561
+      ],
+      "duelist": [],
+      "text": "Faço o banimento de Chamado Carmesim do meu Cemitério para usar seu efeito!"
+    },
+    "V0202_08_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19018
+      ],
+      "duelist": [],
+      "text": "Ativo minha Magia Contínua!\nGaia Carmesim!"
+    },
+    "V0202_08_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19018
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Gaia Carmesim!"
+    },
+    "V0202_08_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19017
+      ],
+      "duelist": [],
+      "text": "Ativo a Magia Rápida Força de Poder Absoluta!"
+    },
+    "V0202_08_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20413
+      ],
+      "duelist": [],
+      "text": "Ativo a Magia de Equipamento!\nPunho da Alma!"
+    },
+    "V0202_08_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20413
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Punho da Alma!"
+    },
+    "V0202_08_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14979
+      ],
+      "duelist": [],
+      "text": "Ativo a Magia Rápida Alma Ardente!"
+    },
+    "V0202_08_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22157
+      ],
+      "duelist": [],
+      "text": "Ativo minha magia de campo!\nEvolução do Duelo - Zona de Ataque!"
+    },
+    "V0202_08_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22157
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Evolução do Duelo - Zona de Ataque!"
+    },
+    "V0202_08_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19202
+      ],
+      "duelist": [],
+      "text": "Ativo meu Card de Magia!\nEstrondo Sincro!"
+    },
+    "V0202_08_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22311
+      ],
+      "duelist": [],
+      "text": "Ativo meu Card de Magia!\nAfinação Excessiva!"
+    },
+    "V0202_08_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17251
+      ],
+      "duelist": [],
+      "text": "Ativo minha armadilha!\nHora de se Levantar!"
+    },
+    "V0202_08_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17251
+      ],
+      "duelist": [],
+      "text": "Faço o banimento de Hora de se Levantar do meu Cemitério para ativá-lo!"
+    },
+    "V0202_08_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22312
+      ],
+      "duelist": [],
+      "text": "Ativo meu Card de Armadilha!\nPulso do Campeão!"
+    },
+    "V0202_08_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22580
+      ],
+      "duelist": [],
+      "text": "Ativo minha armadilha!\nRessonância do Rei!"
+    },
+    "V0202_08_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19020
+      ],
+      "duelist": [],
+      "text": "Ativo minha Armadilha Contínua!\nZona Vermelha!"
+    },
+    "V0202_08_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19020
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Zona Vermelha!"
+    },
+    "V0202_08_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15060
+      ],
+      "duelist": [],
+      "text": "Ativo a Armadilha Reino Vermelho!"
+    },
+    "V0202_08_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15060
+      ],
+      "duelist": [],
+      "text": "Ativo Reino Vermelho do meu Cemitério!"
+    },
+    "V0202_08_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19019
+      ],
+      "duelist": [],
+      "text": "Ativo minha armadilha!\nGolem Demoníaco!"
+    },
+    "V0202_08_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14305
+      ],
+      "duelist": [],
+      "text": "Ativo minha Magia Rápida!\nModo de Ataque Zero!"
+    },
+    "V0202_08_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14305
+      ],
+      "duelist": [],
+      "text": "Faço o banimento de Modo de Ataque Zero do meu Cemitério para ativá-lo!"
+    },
+    "V0202_08_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14320
+      ],
+      "duelist": [],
+      "text": "Ativo minha Armadilha, Reinicialização de Ataque!"
+    },
+    "V0202_08_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14320
+      ],
+      "duelist": [],
+      "text": "Faço o banimento de Reinicialização de Ataque do meu Cemitério para usar seu efeito!"
+    },
+    "V0202_09_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Ao fazer a Invocação-Especial de Dragão Carmesim, eu posso usar seu efeito!"
+    },
+    "V0202_09_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Dragão Carmesim ativa seu efeito!"
+    },
+    "V0202_09_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20400
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Imortal Terrestre Vermelho Nova!"
+    },
+    "V0202_09_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14957
+      ],
+      "duelist": [],
+      "text": "Dragão Vermelho Super Nova ativa seu efeito!"
+    },
+    "V0202_09_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14957
+      ],
+      "duelist": [],
+      "text": "Quando Dragão Vermelho Super Nova é banido, seu efeito é ativado!"
+    },
+    "V0202_09_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22547
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Dragão Vermelho Hipernova!"
+    },
+    "V0202_09_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19021
+      ],
+      "duelist": [],
+      "text": "Dragão Vermelho Arquidemônio com Cicatriz ativa seu efeito!"
+    },
+    "V0202_09_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22545
+      ],
+      "duelist": [],
+      "text": "Ao Invocar O Rei Carmesim por Invocação-Sincro, posso usar seu efeito!"
+    },
+    "V0202_09_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22545
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de O Rei Carmesim!"
+    },
+    "V0202_09_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22546
+      ],
+      "duelist": [],
+      "text": "Invocar Dragão da Lâmina Carmesim por Invocação-Sincro me permite fazer isso!"
+    },
+    "V0202_09_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22546
+      ],
+      "duelist": [],
+      "text": "Agora o efeito de Dragão da Lâmina Carmesim!"
+    },
+    "V0202_09_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22513
+      ],
+      "duelist": [],
+      "text": "Eu faço o banimento de Dragão Vermelho Nova/Modo de Ataque até a Fase Final!"
+    },
+    "V0202_09_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22513
+      ],
+      "duelist": [],
+      "text": "Dragão Vermelho Nova/Modo de Ataque ativa-se após destruição!"
+    },
+    "V0202_09_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22114
+      ],
+      "duelist": [],
+      "text": "O efeito de Laminador Carmesim/Modo de Ataque é ativado da minha mão!"
+    },
+    "V0202_09_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22114
+      ],
+      "duelist": [],
+      "text": "Destruir Laminador Carmesim/Modo de Ataque ativa seu efeito!"
+    },
+    "V0202_09_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8156
+      ],
+      "duelist": [],
+      "text": "Como ofereci um Dragão como Tributo, Forte Dragão do Vento ganha ATK!"
+    },
+    "V0202_09_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22511
+      ],
+      "duelist": [],
+      "text": "O efeito de Poderoso Vice-Dragão é ativado da minha mão!"
+    },
+    "V0202_09_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22511
+      ],
+      "duelist": [],
+      "text": "Ao fazer a Invocação-Especial de Poderoso Vice-Dragão, eu posso usar seu efeito!"
+    },
+    "V0202_09_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22512
+      ],
+      "duelist": [],
+      "text": "Com Regulador do Tipo Demônio, faço uma Invocação-Especial!"
+    },
+    "V0202_09_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22512
+      ],
+      "duelist": [],
+      "text": "Ao fazer a Invocação-Especial de Golem de Fragmento Demônio, eu posso usar seu efeito!"
+    },
+    "V0202_09_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22512
+      ],
+      "duelist": [],
+      "text": "Eu enviei Golem de Fragmento Demônio ao Cemitério para fazer uma Invocação-Sincro!"
+    },
+    "V0202_09_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8783
+      ],
+      "duelist": [],
+      "text": "Interceptador Arquidemônio ativa seu efeito!"
+    },
+    "V0202_09_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7709
+      ],
+      "duelist": [],
+      "text": "Destruir Defensor de Escudo Duplo ativa seu efeito!"
+    },
+    "V0202_09_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9085
+      ],
+      "duelist": [],
+      "text": "Usar Berserker Feroz para uma Invocação-Sincro ativa seu efeito!"
+    },
+    "V0202_09_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9087
+      ],
+      "duelist": [],
+      "text": "O efeito de Rompedor do Poder é ativado mediante destruição!"
+    },
+    "V0202_09_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7871
+      ],
+      "duelist": [],
+      "text": "Quando Arquidemônio Louco for atacado, ele trocará para Defesa!"
+    },
+    "V0202_09_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9086
+      ],
+      "duelist": [],
+      "text": "Arquidemônio Lanceiro ativa seu efeito!"
+    },
+    "V0202_09_00_72_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8616
+      ],
+      "duelist": [],
+      "text": "O efeito de Ogro da Tristeza Escarlate é ativado da minha mão!"
+    },
+    "V0202_09_00_73_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8616
+      ],
+      "duelist": [],
+      "text": "Como Ogro da Tristeza Escarlate se invocou por Invocação-Especial, seu efeito ativa!"
+    },
+    "V0202_09_00_74_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19016
+      ],
+      "duelist": [],
+      "text": "Arquidemônio de Ossos pode ser ativado da mão ou do Cemitério!"
+    },
+    "V0202_09_00_75_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19016
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Arquidemônio de Ossos!"
+    },
+    "V0202_09_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15002
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Familiar Vermelho!"
+    },
+    "V0202_09_00_77_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15002
+      ],
+      "duelist": [],
+      "text": "Faço o banimento de Familiar Vermelho do Cemitério para usar seu efeito!"
+    },
+    "V0202_09_00_78_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9015
+      ],
+      "duelist": [],
+      "text": "Uso o efeito de Rei Lótus Vermelho, Crime das Chamas da minha mão!"
+    },
+    "V0202_09_00_79_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9015
+      ],
+      "duelist": [],
+      "text": "Ao Invocar Rei Lótus Vermelho, Crime das Chamas por Invocação-Especial, posso ativar seu efeito!"
+    },
+    "V0202_09_00_79_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fluxo de Chamas!"
+    },
+    "V0202_09_00_80_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9015
+      ],
+      "duelist": [],
+      "text": "Rei Lótus Vermelho, Crime das Chamas é ativado quando é usado para fazer uma Invocação-Sincro!"
+    },
+    "V0202_09_00_81_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20038
+      ],
+      "duelist": [],
+      "text": "Com Regulador do Tipo Demônio, faço uma Invocação-Especial!"
+    },
+    "V0202_09_00_82_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20038
+      ],
+      "duelist": [],
+      "text": "Amaldiçoado Rei de Fogo Explosão da Perdição ativa seu efeito!"
+    },
+    "V0202_09_00_83_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20038
+      ],
+      "duelist": [],
+      "text": "O efeito de Amaldiçoado Rei de Fogo Explosão da Perdição é ativado mediante destruição!"
+    },
+    "V0202_09_00_84_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9800
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Dragão Influência!"
+    },
+    "V0202_09_00_85_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8622
+      ],
+      "duelist": [],
+      "text": "O efeito de Mestre das Espadas é ativado da minha mão!"
+    },
+    "V0202_09_00_86_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8619
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Golem de Buraco Mágico!"
+    },
+    "V0202_09_00_87_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19014
+      ],
+      "duelist": [],
+      "text": "Invocar Ressonador da Alma ativa seu efeito!"
+    },
+    "V0202_09_00_88_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22510
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Ressonador das Trevas da minha mão!"
+    },
+    "V0202_09_00_89_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22510
+      ],
+      "duelist": [],
+      "text": "Ao fazer a Invocação-Especial de Ressonador das Trevas, eu posso usar seu efeito!"
+    },
+    "V0202_09_00_90_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22510
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Ressonador das Trevas!"
+    },
+    "V0202_09_00_91_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19015
+      ],
+      "duelist": [],
+      "text": "Ressonador da Visão é ativado quando é enviado ao Cemitério!"
+    },
+    "V0202_09_00_92_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15003
+      ],
+      "duelist": [],
+      "text": "Quando não tenho monstros, posso trazer Ressonador Carmesim para o campo!"
+    },
+    "V0202_09_00_93_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15003
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Ressonador Carmesim!"
+    },
+    "V0202_09_00_94_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9088
+      ],
+      "duelist": [],
+      "text": "O efeito de Ocultador Adicional é ativado da minha mão!"
+    },
+    "V0202_09_00_95_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8010
+      ],
+      "duelist": [],
+      "text": "Funileiro das Trevas é ativado quando é enviado ao Cemitério!"
+    },
+    "V0202_09_00_96_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8784
+      ],
+      "duelist": [],
+      "text": "Destruir Dragão de Dreadlock em batalha ativa seu efeito!"
+    },
+    "V0202_09_00_97_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8618
+      ],
+      "duelist": [],
+      "text": "Produtor de Poder ativa seu efeito!"
+    },
+    "V0202_09_00_98_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9091
+      ],
+      "duelist": [],
+      "text": "Captador de Ataque é ativado quando é usado para fazer uma Invocação-Sincro!"
+    },
+    "V0202_09_00_99_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9089
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Soldado Sincro!"
+    },
+    "V0202_09_00_100_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8621
+      ],
+      "duelist": [],
+      "text": "Inseto das Trevas ativa seu efeito!"
+    },
+    "V0202_09_00_101_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14975
+      ],
+      "duelist": [],
+      "text": "Invocar Stygi-Gel, o Rei Morfo ativa seu efeito!"
+    },
+    "V0202_09_00_102_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14975
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Stygi-Gel, o Rei Morfo!"
+    },
+    "V0202_09_00_103_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Dragão da Estrela Reluzente da minha mão!"
+    },
+    "V0202_09_00_104_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16190
+      ],
+      "duelist": [],
+      "text": "Vou revelar este Card que comprei para ativar o efeito dele!"
+    },
+    "V0202_13_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Dragão Carmesim!\nMe dê sua força!"
+    },
+    "V0202_37_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20400
+      ],
+      "duelist": [],
+      "text": "Selado nas profundezas, canalize seu sofrimento em fúria!"
+    },
+    "V0202_13_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        20400
+      ],
+      "duelist": [],
+      "text": "Venha!\nImortal Terrestre Vermelho Nova!"
+    },
+    "V0202_37_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14957
+      ],
+      "duelist": [],
+      "text": "Sintonia Tripla!"
+    },
+    "V0202_37_00_18_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Enquanto os três recebem o rei, o tolo recebe a derrota!"
+    },
+    "V0202_37_00_18_2": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Sincro!"
+    },
+    "V0202_13_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14957
+      ],
+      "duelist": [],
+      "text": "Que sua alma marque o tempo de toda a criação!"
+    },
+    "V0202_13_00_49_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [],
+      "duelist": [],
+      "text": "<card mrk=/>!"
+    },
+    "V0202_37_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22547
+      ],
+      "duelist": [],
+      "text": "Sintonia Quádrupla!"
+    },
+    "V0202_37_00_19_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "A estrela rubra e as cicatrizes da terra ressoam juntas!"
+    },
+    "V0202_37_00_19_2": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Sincro!"
+    },
+    "V0202_13_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22547
+      ],
+      "duelist": [],
+      "text": "Quando quatro se unem, uma nova estrela atinge o auge!"
+    },
+    "V0202_13_00_50_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [],
+      "duelist": [],
+      "text": "Dragão Vermelho Hipernova!"
+    },
+    "V0202_37_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19021
+      ],
+      "duelist": [],
+      "text": "Deixe cicatrizes na terra para saberem que você passou!"
+    },
+    "V0202_37_00_20_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Sincro!"
+    },
+    "V0202_13_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        19021
+      ],
+      "duelist": [],
+      "text": "Mostre-se!\nDragão Vermelho Arquidemônio com Cicatriz!"
+    },
+    "V0202_37_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22545
+      ],
+      "duelist": [],
+      "text": "Você vai aprender que só o rei detém o verdadeiro poder!"
+    },
+    "V0202_37_00_21_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Sincro!"
+    },
+    "V0202_13_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22545
+      ],
+      "duelist": [],
+      "text": "A encarnação da minha alma!\nO Rei Carmesim!"
+    },
+    "V0202_13_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22546
+      ],
+      "duelist": [],
+      "text": "Apareça!\nDragão da Lâmina Carmesim!"
+    },
+    "V0202_13_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22513
+      ],
+      "duelist": [],
+      "text": "Dragão Vermelho Nova/Modo de Ataque!"
+    },
+    "V0202_37_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22114
+      ],
+      "duelist": [],
+      "text": "A divindade chega envolta em armadura carmesim!"
+    },
+    "V0202_13_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22114
+      ],
+      "duelist": [],
+      "text": "Sua alma anseia pela batalha!\nLaminador Carmesim/Modo de Ataque!"
+    },
+    "V0202_13_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        8156
+      ],
+      "duelist": [],
+      "text": "Vamos!\nForte Dragão do Vento!"
+    },
+    "V0202_13_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        9084
+      ],
+      "duelist": [],
+      "text": "Desperte!\nGigante Poderoso!"
+    },
+    "V0202_13_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        8620
+      ],
+      "duelist": [],
+      "text": "Venha cá!\nInvasor de Poder!"
+    },
+    "V0202_13_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        22511
+      ],
+      "duelist": [],
+      "text": "Apareça!\nPoderoso Vice-Dragão!"
+    },
+    "V0202_13_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        22512
+      ],
+      "duelist": [],
+      "text": "Avante, Golem de Fragmento Demônio!"
+    },
+    "V0202_13_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8783
+      ],
+      "duelist": [],
+      "text": "Interceptador Arquidemônio!"
+    },
+    "V0202_13_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7709
+      ],
+      "duelist": [],
+      "text": "Defensor de Escudo Duplo!"
+    },
+    "V0202_13_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8009
+      ],
+      "duelist": [],
+      "text": "Saqueador das Espadas Gêmeas!"
+    },
+    "V0202_13_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9296
+      ],
+      "duelist": [],
+      "text": "O Monstro Regulador, Melhor Corredor!"
+    },
+    "V0202_13_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8008
+      ],
+      "duelist": [],
+      "text": "Faço a Invocação-Especial do meu Monstro Regulador!\nDevorador de Armadilhas!"
+    },
+    "V0202_13_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9085
+      ],
+      "duelist": [],
+      "text": "Berserker Feroz!"
+    },
+    "V0202_13_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9087
+      ],
+      "duelist": [],
+      "text": "Rompedor do Poder!"
+    },
+    "V0202_13_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7871
+      ],
+      "duelist": [],
+      "text": "Arquidemônio Louco!"
+    },
+    "V0202_13_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9086
+      ],
+      "duelist": [],
+      "text": "Arquidemônio Lanceiro!"
+    },
+    "V0202_13_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8616
+      ],
+      "duelist": [],
+      "text": "Ogro da Tristeza Escarlate!"
+    },
+    "V0202_13_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19016
+      ],
+      "duelist": [],
+      "text": "Arquidemônio de Ossos!"
+    },
+    "V0202_13_00_72_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15002
+      ],
+      "duelist": [],
+      "text": "Familiar Vermelho!"
+    },
+    "V0202_13_00_73_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9015
+      ],
+      "duelist": [],
+      "text": "Rei Lótus Vermelho, Crime das Chamas!"
+    },
+    "V0202_13_00_74_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20038
+      ],
+      "duelist": [],
+      "text": "Amaldiçoado Rei de Fogo Explosão da Perdição!"
+    },
+    "V0202_13_00_75_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9800
+      ],
+      "duelist": [],
+      "text": "O Monstro Regulador, Dragão Influência!"
+    },
+    "V0202_13_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8622
+      ],
+      "duelist": [],
+      "text": "Venha!\nMeu Monstro Regulador, Mestre das Espadas!"
+    },
+    "V0202_13_00_77_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8785
+      ],
+      "duelist": [],
+      "text": "Meu Monstro Regulador, Guardião Fiel!"
+    },
+    "V0202_13_00_78_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8619
+      ],
+      "duelist": [],
+      "text": "Golem de Buraco Mágico!"
+    },
+    "V0202_13_00_79_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19014
+      ],
+      "duelist": [],
+      "text": "Aqui está meu Monstro Regulador!\nRessonador da Alma!"
+    },
+    "V0202_13_00_80_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22510
+      ],
+      "duelist": [],
+      "text": "O Monstro Regulador, Ressonador das Trevas!"
+    },
+    "V0202_13_00_81_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19015
+      ],
+      "duelist": [],
+      "text": "Meu Monstro Regulador!\nRessonador da Visão!"
+    },
+    "V0202_13_00_82_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15003
+      ],
+      "duelist": [],
+      "text": "O Monstro Regulador, Ressonador Carmesim!"
+    },
+    "V0202_13_00_83_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9088
+      ],
+      "duelist": [],
+      "text": "Ocultador Adicional!"
+    },
+    "V0202_13_00_84_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8010
+      ],
+      "duelist": [],
+      "text": "Meu Monstro Regulador, Funileiro das Trevas!"
+    },
+    "V0202_13_00_85_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8784
+      ],
+      "duelist": [],
+      "text": "O Monstro Regulador, Dragão de Dreadlock!"
+    },
+    "V0202_13_00_86_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8618
+      ],
+      "duelist": [],
+      "text": "Produtor de Poder!"
+    },
+    "V0202_13_00_87_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9091
+      ],
+      "duelist": [],
+      "text": "Entre em campo!\nMonstro Regulador, Captador de Ataque!"
+    },
+    "V0202_13_00_88_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9089
+      ],
+      "duelist": [],
+      "text": "Soldado Sincro!"
+    },
+    "V0202_13_00_89_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8621
+      ],
+      "duelist": [],
+      "text": "Inseto das Trevas!"
+    },
+    "V0202_13_00_90_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14975
+      ],
+      "duelist": [],
+      "text": "O Monstro Regulador, Stygi-Gel, o Rei Morfo!"
+    },
+    "V0202_13_00_91_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "Aqui está meu Monstro Regulador!\nDragão da Estrela Reluzente!"
+    },
+    "V0202_13_00_92_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16190
+      ],
+      "duelist": [],
+      "text": "Meu Monstro Regulador!\nDragão das Vontades Convergentes!"
+    },
+    "V0202_19_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Dragão Carmesim!\nAtacar!"
+    },
+    "V0202_19_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20400
+      ],
+      "duelist": [],
+      "text": "Você vai ver vermelho!"
+    },
+    "V0202_19_00_48_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Imortal Terrestre Vermelho Nova!\nAtacar!"
+    },
+    "V0202_19_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14957
+      ],
+      "duelist": [],
+      "text": "Golpeie na aurora dos tempos!"
+    },
+    "V0202_19_00_49_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Dragão Vermelho Super Nova!\nAtacar!"
+    },
+    "V0202_19_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22547
+      ],
+      "duelist": [],
+      "text": "Veja o mundo inteiro tremer!"
+    },
+    "V0202_19_00_50_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Atacar, Dragão Vermelho Hipernova!"
+    },
+    "V0202_19_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19021
+      ],
+      "duelist": [],
+      "text": "Vá embora!\nAtaque, Dragão Vermelho Arquidemônio com Cicatriz!"
+    },
+    "V0202_19_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22545
+      ],
+      "duelist": [],
+      "text": "O Rei Carmesim!\nAtacar!"
+    },
+    "V0202_19_00_52_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Só há um Rei!\nE sou eu!"
+    },
+    "V0202_19_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22546
+      ],
+      "duelist": [],
+      "text": "Você vai aprender o quão afiada é a lâmina do rei!"
+    },
+    "V0202_19_00_53_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Dragão da Lâmina Carmesim!\nAtacar!"
+    },
+    "V0202_19_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22513
+      ],
+      "duelist": [],
+      "text": "Dragão Vermelho Nova/Modo de Ataque!\nAtacar!"
+    },
+    "V0202_19_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22114
+      ],
+      "duelist": [],
+      "text": "Laminador Carmesim/Modo de Ataque!\nAtacar!"
+    },
+    "V0202_19_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8156
+      ],
+      "duelist": [],
+      "text": "Atacar, Forte Dragão do Vento!"
+    },
+    "V0202_19_00_56_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Furacão Forte!"
+    },
+    "V0202_19_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9084
+      ],
+      "duelist": [],
+      "text": "Gigante Poderoso!\nArrebenta com eles!"
+    },
+    "V0202_19_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8620
+      ],
+      "duelist": [],
+      "text": "Atacar, Invasor de Poder!"
+    },
+    "V0202_19_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22511
+      ],
+      "duelist": [],
+      "text": "Poderoso Vice-Dragão!\nAtacar!"
+    },
+    "V0202_19_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22512
+      ],
+      "duelist": [],
+      "text": "Atacar, Golem de Fragmento Demônio!"
+    },
+    "V0202_19_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8783
+      ],
+      "duelist": [],
+      "text": "Interceptador Arquidemônio!\nAtacar!"
+    },
+    "V0202_19_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7709
+      ],
+      "duelist": [],
+      "text": "Defensor de Escudo Duplo!\nAtacar!"
+    },
+    "V0202_19_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8009
+      ],
+      "duelist": [],
+      "text": "Saqueador das Espadas Gêmeas!\nRetalhe-os!"
+    },
+    "V0202_19_00_63_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Massacre Saqueador Duplo!"
+    },
+    "V0202_19_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9296
+      ],
+      "duelist": [],
+      "text": "Melhor Corredor!\nAcabe logo com isso!"
+    },
+    "V0202_19_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8008
+      ],
+      "duelist": [],
+      "text": "Devorador de Armadilhas! Atacar!"
+    },
+    "V0202_19_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9085
+      ],
+      "duelist": [],
+      "text": "Berserker Feroz!\nAtacar!"
+    },
+    "V0202_19_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9087
+      ],
+      "duelist": [],
+      "text": "Atacar, Rompedor do Poder!"
+    },
+    "V0202_19_00_67_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Corte Poderoso!"
+    },
+    "V0202_19_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7871
+      ],
+      "duelist": [],
+      "text": "Arquidemônio Louco!\nAtacar!"
+    },
+    "V0202_19_00_68_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Rajada Óssea!"
+    },
+    "V0202_19_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9086
+      ],
+      "duelist": [],
+      "text": "Atacar, Arquidemônio Lanceiro!"
+    },
+    "V0202_19_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8616
+      ],
+      "duelist": [],
+      "text": "Ogro da Tristeza Escarlate!\nAtacar!"
+    },
+    "V0202_19_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19016
+      ],
+      "duelist": [],
+      "text": "Arquidemônio de Ossos!\nAtacar!"
+    },
+    "V0202_19_00_72_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15002
+      ],
+      "duelist": [],
+      "text": "Familiar Vermelho!\nAtacar!"
+    },
+    "V0202_19_00_73_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9015
+      ],
+      "duelist": [],
+      "text": "Rei Lótus Vermelho, Crime das Chamas!\nAtacar!"
+    },
+    "V0202_19_00_74_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20038
+      ],
+      "duelist": [],
+      "text": "Amaldiçoado Rei de Fogo Explosão da Perdição!\nAtacar!"
+    },
+    "V0202_19_00_75_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9800
+      ],
+      "duelist": [],
+      "text": "Dragão Influência!\nAtacar!"
+    },
+    "V0202_19_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8622
+      ],
+      "duelist": [],
+      "text": "Mestre das Espadas ataca!"
+    },
+    "V0202_19_00_76_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Corte Soberano!"
+    },
+    "V0202_19_00_77_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8785
+      ],
+      "duelist": [],
+      "text": "Atacar, Guardião Fiel!"
+    },
+    "V0202_19_00_78_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8619
+      ],
+      "duelist": [],
+      "text": "Golem de Buraco Mágico!\nAtacar!"
+    },
+    "V0202_19_00_79_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19014
+      ],
+      "duelist": [],
+      "text": "Ressonador da Alma!\nAtacar!"
+    },
+    "V0202_19_00_80_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22510
+      ],
+      "duelist": [],
+      "text": "Atacar, Ressonador das Trevas!"
+    },
+    "V0202_19_00_81_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19015
+      ],
+      "duelist": [],
+      "text": "Ressonador da Visão!\nAtacar!"
+    },
+    "V0202_19_00_82_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15003
+      ],
+      "duelist": [],
+      "text": "Ressonador Carmesim ataca!"
+    },
+    "V0202_19_00_83_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9088
+      ],
+      "duelist": [],
+      "text": "Ocultador Adicional! Atacar!"
+    },
+    "V0202_19_00_84_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8010
+      ],
+      "duelist": [],
+      "text": "Retalhe-os, Funileiro das Trevas!"
+    },
+    "V0202_19_00_85_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8784
+      ],
+      "duelist": [],
+      "text": "Atacar, Dragão de Dreadlock!"
+    },
+    "V0202_19_00_86_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8618
+      ],
+      "duelist": [],
+      "text": "Produtor de Poder!\nAtacar!"
+    },
+    "V0202_19_00_87_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9091
+      ],
+      "duelist": [],
+      "text": "Captador de Ataque!\nAtacar!"
+    },
+    "V0202_19_00_88_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9089
+      ],
+      "duelist": [],
+      "text": "Soldado Sincro!\nAtacar!"
+    },
+    "V0202_19_00_89_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8621
+      ],
+      "duelist": [],
+      "text": "Inseto das Trevas! Atacar!"
+    },
+    "V0202_19_00_90_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14975
+      ],
+      "duelist": [],
+      "text": "Stygi-Gel, o Rei Morfo!\nAtacar!"
+    },
+    "V0202_19_00_91_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "Dragão da Estrela Reluzente!\nAtacar!"
+    },
+    "V0202_19_00_92_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16190
+      ],
+      "duelist": [],
+      "text": "Dragão das Vontades Convergentes!\nAtacar!"
+    },
+    "V0202_48_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Vamos começar!"
+    },
+    "V0202_48_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Prepare-se para acelerar!"
+    },
+    "V0202_51_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Jack Atlas!"
+    },
+    "V0202_51_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Vá com tudo!"
+    },
+    "V0202_49_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Só existe um Mestre dos Mais Velozes!\nE sou eu!"
+    },
+    "V0202_49_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
     }
   }
 }

@@ -1467,7 +1467,7 @@
         16799
       ],
       "duelist": [],
-      "text": "Ich aktiviere den Spielfeldzauber !"
+      "text": "Ich aktiviere den Spielfeldzauber Immergrün von Glücktopia!"
     },
     "V0709_08_00_09_0": {
       "face": 3,
@@ -1799,7 +1799,7 @@
         16920
       ],
       "duelist": [],
-      "text": "Ich aktiviere den Effekt von !"
+      "text": "Ich aktiviere den Effekt von Aufsteigender Himmelsdrache des Segens & Katastrophe!"
     },
     "V0709_09_00_12_0": {
       "face": 3,
@@ -1859,7 +1859,7 @@
         16343
       ],
       "duelist": [],
-      "text": "Ich aktiviere den Effekt von !"
+      "text": "Ich aktiviere den Effekt von Spulendrache des Fruchtbaren Landes!"
     },
     "V0709_09_00_18_0": {
       "face": 3,
@@ -2101,7 +2101,7 @@
         16920
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Aufsteigender Himmelsdrache des Segens & Katastrophe!"
     },
     "V0709_37_00_07_0": {
       "face": 3,
@@ -2221,7 +2221,7 @@
         16343
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Spulendrache des Fruchtbaren Landes!"
     },
     "V0709_13_00_20_0": {
       "face": 3,
@@ -2405,7 +2405,7 @@
         16920
       ],
       "duelist": [],
-      "text": " greift an!"
+      "text": "Aufsteigender Himmelsdrache des Segens & Katastrophe greift an!"
     },
     "V0709_19_00_11_0": {
       "face": 3,
@@ -2523,7 +2523,7 @@
         16343
       ],
       "duelist": [],
-      "text": "!\nAngriff!"
+      "text": "Spulendrache des Fruchtbaren Landes!\nAngriff!"
     },
     "V0709_19_00_22_0": {
       "face": 3,
@@ -2646,6 +2646,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaaahhh!"
+    },
+    "V0709_49_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich freue mich schon darauf!"
+    },
+    "V0709_49_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo-Rush-Duel!"
     }
   }
 }

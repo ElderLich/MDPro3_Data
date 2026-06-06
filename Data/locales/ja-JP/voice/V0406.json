@@ -228,22 +228,6 @@
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
-      "V0406_01_00_01_0": {
-        "fullName": "V0406_01_00_01_0",
-        "shortName": "V0406_01_00_01",
-        "voiceIdx": "0",
-        "cards": null,
-        "duelists": null,
-        "skills": null,
-        "situations": null,
-        "engineparams": null,
-        "groupingKeys": null,
-        "homeTypes": [
-          1
-        ],
-        "subCategoryIndex": 0,
-        "patternIndex": 1
-      },
       "V0406_01_00_02_0": {
         "fullName": "V0406_01_00_02_0",
         "shortName": "V0406_01_00_02",
@@ -259,13 +243,45 @@
         ],
         "subCategoryIndex": 0,
         "patternIndex": 2
+      }
+    }
+  },
+  "BeforeDuelSp": {
+    "rawKvp": {
+      "V0406_01_00_01_0": {
+        "fullName": "V0406_01_00_01_0",
+        "shortName": "V0406_01_00_01",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": [
+          0,
+          416,
+          447,
+          417,
+          448
+        ],
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 1
       },
       "V0406_01_00_03_0": {
         "fullName": "V0406_01_00_03_0",
         "shortName": "V0406_01_00_03",
         "voiceIdx": "0",
         "cards": null,
-        "duelists": null,
+        "duelists": [
+          0,
+          416,
+          447,
+          417,
+          448
+        ],
         "skills": null,
         "situations": null,
         "engineparams": null,
@@ -275,11 +291,7 @@
         ],
         "subCategoryIndex": 0,
         "patternIndex": 3
-      }
-    }
-  },
-  "BeforeDuelSp": {
-    "rawKvp": {
+      },
       "V0406_01_00_04_0": {
         "fullName": "V0406_01_00_04_0",
         "shortName": "V0406_01_00_04",
@@ -3263,7 +3275,13 @@
         "fullName": "V0406_28_00_00_0",
         "shortName": "V0406_28_00_00",
         "voiceIdx": "0",
-        "cards": null,
+        "cards": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
         "duelists": null,
         "skills": null,
         "situations": null,
@@ -3417,7 +3435,13 @@
         "fullName": "V0406_29_00_03_0",
         "shortName": "V0406_29_00_03",
         "voiceIdx": "0",
-        "cards": null,
+        "cards": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
         "duelists": null,
         "skills": null,
         "situations": null,

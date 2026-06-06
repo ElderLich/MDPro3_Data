@@ -1728,7 +1728,7 @@
         16715
       ],
       "duelist": [],
-      "text": "Ativo meu Card de Armadilha, !"
+      "text": "Ativo meu Card de Armadilha, Marcador Psíquico!"
     },
     "V0704_09_00_00_0": {
       "face": 3,
@@ -1954,7 +1954,7 @@
         17680
       ],
       "duelist": [],
-      "text": " ativa o efeito dela!"
+      "text": "CAN:D ALL ativa o efeito dela!"
     },
     "V0704_09_00_17_0": {
       "face": 3,
@@ -2012,7 +2012,7 @@
         17891
       ],
       "duelist": [],
-      "text": " ativa o efeito dela!"
+      "text": "Amaurso Lilith ativa o efeito dela!"
     },
     "V0704_09_00_22_0": {
       "face": 3,
@@ -2356,7 +2356,7 @@
         17680
       ],
       "duelist": [],
-      "text": "!"
+      "text": "CAN:D ALL!"
     },
     "V0704_37_00_06_0": {
       "face": 3,
@@ -2426,7 +2426,7 @@
         17891
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Amaurso Lilith!"
     },
     "V0704_13_00_19_0": {
       "face": 3,
@@ -2870,7 +2870,7 @@
         17680
       ],
       "duelist": [],
-      "text": "! Atacar!"
+      "text": "CAN:D ALL! Atacar!"
     },
     "V0704_19_00_14_0": {
       "face": 3,
@@ -2938,7 +2938,7 @@
         17891
       ],
       "duelist": [],
-      "text": "Ao ataque, !"
+      "text": "Ao ataque, Amaurso Lilith!"
     },
     "V0704_19_00_20_0": {
       "face": 3,
@@ -3299,6 +3299,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaaaaahhhh!"
+    },
+    "V0704_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aqui vou eu!"
+    },
+    "V0704_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
     }
   }
 }

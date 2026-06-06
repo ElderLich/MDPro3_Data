@@ -27,7 +27,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "¡Es hora de tocar el cielo, Astral!"
     },
@@ -80,7 +84,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "¡Siento cómo fluye!"
     },
@@ -93,7 +101,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "¡Disco de Duelo, adelante!\n¡Duel Gazer, vamos!"
     },
@@ -888,7 +900,13 @@
       "frame": 0,
       "cutin": 0,
       "card": [],
-      "duelist": [],
+      "duelist": [
+        0,
+        416,
+        417,
+        447,
+        448
+      ],
       "text": "Puedes llegar a conocer a alguien muy bien en un Duelo."
     },
     "V0401_28_00_01_1": {
@@ -921,7 +939,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "¡Nunca me rendiré!\n¡Mientras sienta cómo fluye!"
     },
@@ -1048,7 +1070,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Tengo que mejorar para que todo fluya, como hacía mi padre."
     },

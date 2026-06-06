@@ -80,7 +80,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei, alles, woran du glaubst, ist gegen mich sinnlos."
     },
@@ -848,7 +849,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei Fudo, ich bin du in der Zukunft."
     },
@@ -866,7 +868,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Um eine Person zu retten, muss eine andere geopfert werden."
     },
@@ -959,7 +962,10 @@
         203,
         204,
         205,
-        206
+        206,
+        219,
+        220,
+        221
       ],
       "text": "Ich wünschte, ich könnte die Zukunft sehen, die du schaffst."
     },
@@ -969,7 +975,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei, nur du kannst die Menschheit führen.\nIch weiß es."
     },

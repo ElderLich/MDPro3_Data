@@ -165,7 +165,7 @@
       "text": "È il mio turno ora!"
     },
     "V0017_03_00_05_0": {
-      "face": 3,
+      "face": 7,
       "frame": 0,
       "cutin": 0,
       "card": [],
@@ -173,7 +173,7 @@
       "text": "Non può essere vero..."
     },
     "V0017_03_00_05_1": {
-      "face": 3,
+      "face": 7,
       "frame": 0,
       "cutin": 0,
       "card": [],
@@ -884,6 +884,24 @@
       "duelist": [],
       "text": "Hyozanryu!"
     },
+    "V0017_13_00_16_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10732
+      ],
+      "duelist": [],
+      "text": "Ih ih ih...\nSo che questo non ti piacerà per niente..."
+    },
+    "V0017_13_00_16_1": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Drago di Labradorite!"
+    },
     "V0017_14_00_00_0": {
       "face": 1,
       "frame": 0,
@@ -1202,6 +1220,16 @@
       "duelist": [],
       "text": "Devastazione di Diamante!"
     },
+    "V0017_19_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10732
+      ],
+      "duelist": [],
+      "text": "Drago di Labradorite! All'attacco!"
+    },
     "V0017_20_00_00_0": {
       "face": 0,
       "frame": 0,
@@ -1251,7 +1279,7 @@
       "text": "Ah ah ah!\nTermino il mio turno!"
     },
     "V0017_21_00_02_0": {
-      "face": 5,
+      "face": 7,
       "frame": 0,
       "cutin": 0,
       "card": [],
@@ -1333,7 +1361,7 @@
       "text": "Sei orgoglioso di me, Seto?"
     },
     "V0017_29_00_00_0": {
-      "face": 5,
+      "face": 7,
       "frame": 0,
       "cutin": 0,
       "card": [],
@@ -1349,7 +1377,7 @@
       "text": "Ehi, tu, imbecille...\nLa prossima volta non mi batterai!"
     },
     "V0017_29_00_02_0": {
-      "face": 5,
+      "face": 7,
       "frame": 0,
       "cutin": 0,
       "card": [],
@@ -1365,7 +1393,7 @@
       "text": "Non ci credo...\nLa mia strategia non faceva una piega!"
     },
     "V0017_29_00_04_0": {
-      "face": 5,
+      "face": 7,
       "frame": 0,
       "cutin": 0,
       "card": [],
@@ -1543,7 +1571,7 @@
       "text": "Un'altra vittoria in vista!"
     },
     "V0017_32_00_00_0": {
-      "face": 0,
+      "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
@@ -1551,7 +1579,7 @@
       "text": "Yu-Gi-Oh! Duel Links"
     },
     "V0017_32_00_01_0": {
-      "face": 0,
+      "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
@@ -1647,7 +1675,7 @@
       "text": "Gaaah!"
     },
     "V0017_27_00_00_0": {
-      "face": 5,
+      "face": 7,
       "frame": 0,
       "cutin": 0,
       "card": [],
@@ -1655,7 +1683,7 @@
       "text": "Non ci credo..."
     },
     "V0017_27_00_01_0": {
-      "face": 5,
+      "face": 7,
       "frame": 0,
       "cutin": 0,
       "card": [],
@@ -1663,7 +1691,7 @@
       "text": "Oh no..."
     },
     "V0017_27_00_02_0": {
-      "face": 5,
+      "face": 7,
       "frame": 0,
       "cutin": 0,
       "card": [],
@@ -1671,7 +1699,7 @@
       "text": "Per me è finita..."
     },
     "V0017_24_00_00_0": {
-      "face": 3,
+      "face": 7,
       "frame": 0,
       "cutin": 0,
       "card": [],
@@ -1703,7 +1731,7 @@
       "text": "Non abbassare la guardia! Nemmeno per un istante!"
     },
     "V0017_36_00_02_0": {
-      "face": 5,
+      "face": 7,
       "frame": 0,
       "cutin": 0,
       "card": [],
@@ -1739,7 +1767,7 @@
       "text": "Yugi!\nFai attenzione!"
     },
     "V0017_36_00_05_0": {
-      "face": 5,
+      "face": 7,
       "frame": 0,
       "cutin": 0,
       "card": [],
@@ -1818,6 +1846,206 @@
       ],
       "text": "Ti mostrerò che non sono più un bambino, Gozaburo!"
     },
+    "V0017_01_00_10_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        49,
+        50,
+        51,
+        52,
+        828
+      ],
+      "text": "La Kaiba Corporation non finirà mai nelle vostre mani!"
+    },
+    "V0017_01_00_11_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        50
+      ],
+      "text": "Fermati, Alister!\nQuello che stai facendo è sbagliato!"
+    },
+    "V0017_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo un Effetto Pendulum!"
+    },
+    "V0017_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo una Magia Rituale!"
+    },
+    "V0017_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Tributo!"
+    },
+    "V0017_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Fusione!"
+    },
+    "V0017_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Rituale!"
+    },
+    "V0017_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Evocazione!"
+    },
+    "V0017_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione Xyz!"
+    },
+    "V0017_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione Pendulum!"
+    },
+    "V0017_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione Link!"
+    },
+    "V0017_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco Maximum un mostro!"
+    },
+    "V0017_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione Maximum!"
+    },
+    "V0017_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco un mostro tramite Fusione!"
+    },
+    "V0017_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Fusione!"
+    },
+    "V0017_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco un mostro tramite Fusione Contatto!"
+    },
+    "V0017_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fusione Contatto!"
+    },
+    "V0017_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco un mostro tramite Rituale!"
+    },
+    "V0017_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Rituale!"
+    },
+    "V0017_21_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ti conviene arrenderti.\nNon mi batterai."
+    },
+    "V0017_21_00_03_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Termino il mio turno!"
+    },
+    "V0017_21_00_04_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Così si conclude il mio turno!"
+    },
+    "V0017_21_00_05_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Cosa dovrei fare..."
+    },
+    "V0017_21_00_05_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Termino il mio turno!"
+    },
     "V0017_28_00_07_0": {
       "face": 5,
       "frame": 0,
@@ -1857,6 +2085,16 @@
       ],
       "text": "Sono felice di non essere voi!\nPerché siete solo un branco di perdenti!"
     },
+    "V0017_28_00_10_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        50
+      ],
+      "text": "Basta così, Alister!\nStai solo rendendo triste tuo fratello!"
+    },
     "V0017_29_00_07_0": {
       "face": 5,
       "frame": 0,
@@ -1866,6 +2104,16 @@
         48
       ],
       "text": "No... Tu non sei Seto...\nMa..."
+    },
+    "V0017_29_00_08_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        50
+      ],
+      "text": "Fermati, Alister!"
     },
     "V0017_36_00_09_0": {
       "face": 1,
@@ -1896,6 +2144,772 @@
         48
       ],
       "text": "Cosa pensi di fare, Noah?"
+    },
+    "V0017_08_00_06_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10121
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Carta Magia!\nDragoconnessione!"
+    },
+    "V0017_08_00_07_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10561
+      ],
+      "duelist": [],
+      "text": "La mia Carta Trappola Dragoincarnato!"
+    },
+    "V0017_08_00_08_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4837
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Carta Magia!\nPolimerizzazione!"
+    },
+    "V0017_08_00_09_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12332
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Magia Equipaggiamento!\nRichiamo del Bianco!"
+    },
+    "V0017_08_00_10_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5347
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Carta Trappola Continua!\nRabbia del Drago!"
+    },
+    "V0017_08_00_11_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5550
+      ],
+      "duelist": [],
+      "text": "Ecco la Carta Trappola Tribù D.!"
+    },
+    "V0017_08_00_12_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5342
+      ],
+      "duelist": [],
+      "text": "La mia Carta Trappola Continua!\nLa Perla di Drago!"
+    },
+    "V0017_08_00_13_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5342
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di La Perla di Drago!"
+    },
+    "V0017_08_00_14_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5345
+      ],
+      "duelist": [],
+      "text": "Gioco la mia Carta Magia!\nDistruzione Schiacciante!"
+    },
+    "V0017_08_00_15_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12337
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Carta Magia!\nPre-Preparazione dei Riti!"
+    },
+    "V0017_08_00_16_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8492
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Carta Magia!\nPreparazione dei Riti!"
+    },
+    "V0017_08_00_17_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6272
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Magia Equipaggiamento!\nStipulazione di un Contratto!"
+    },
+    "V0017_08_00_18_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5607
+      ],
+      "duelist": [],
+      "text": "La Magia Rapida Intruglio dell'Anziano!"
+    },
+    "V0017_08_00_19_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5979
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Carta Magia!\nSoffio Esplosivo di Distruzione!"
+    },
+    "V0017_08_00_20_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12570
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Carta Magia!\nEsplosione Neutronica!"
+    },
+    "V0017_08_00_21_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13844
+      ],
+      "duelist": [],
+      "text": "Attivo la macchina del bingo definitiva!"
+    },
+    "V0017_08_00_21_1": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Macchina Tombola, Vai!!!!!!"
+    },
+    "V0017_08_00_22_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5343
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Carta Magia!\nIl Battito d'Ali del Drago Gigante!"
+    },
+    "V0017_08_00_23_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13642
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Carta Magia!\nRapsodia Rinascita del Drago!"
+    },
+    "V0017_08_00_24_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7508
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Carta Magia!\nLa Melodia del Drago che si Risveglia!"
+    },
+    "V0017_09_00_03_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16809
+      ],
+      "duelist": [],
+      "text": "Drago Jet Occhi Blu attiva il suo effetto!"
+    },
+    "V0017_09_00_04_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21432
+      ],
+      "duelist": [],
+      "text": "Kaibaman la Leggenda attiva il suo effetto!"
+    },
+    "V0017_09_00_05_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16810
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Dittatore di D.!"
+    },
+    "V0017_09_00_06_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13640
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di <card mrk='13640 '/>!"
+    },
+    "V0017_09_00_07_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16619
+      ],
+      "duelist": [],
+      "text": "Elfo Mistico - Fulmine Bianco!\nAttiva il tuo effetto!"
+    },
+    "V0017_09_00_08_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9648
+      ],
+      "duelist": [],
+      "text": "Draco Poki attiva il suo effetto!"
+    },
+    "V0017_09_00_09_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20207
+      ],
+      "duelist": [],
+      "text": "Si attiva l'effetto di Dora Dora!"
+    },
+    "V0017_09_00_10_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10459
+      ],
+      "duelist": [],
+      "text": "Il ragazzino sa il fatto suo!\nDrago Kidmodo attiva il suo effetto!"
+    },
+    "V0017_09_00_11_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21440
+      ],
+      "duelist": [],
+      "text": "Chiama lo chef perché sto attivando l'effetto di Hamburger Arrabbiato!"
+    },
+    "V0017_09_00_12_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21440
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Hamburger Arrabbiato!\nPreparati per i secondi!"
+    },
+    "V0017_09_00_13_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4930
+      ],
+      "duelist": [],
+      "text": "Pomodoro Mistico attiva il suo effetto!"
+    },
+    "V0017_09_00_14_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18898
+      ],
+      "duelist": [],
+      "text": "Si attiva l'effetto di Patata Mistica!"
+    },
+    "V0017_09_00_15_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4553
+      ],
+      "duelist": [],
+      "text": "Ahahah!\nSi attiva l'effetto di Griggle!"
+    },
+    "V0017_13_00_17_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        16809
+      ],
+      "duelist": [],
+      "text": "Volo verso la vittoria!\nDrago Jet Occhi Blu!"
+    },
+    "V0017_37_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4386
+      ],
+      "duelist": [],
+      "text": "I tre draghi più forti si combinano in uno solo!"
+    },
+    "V0017_13_00_18_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        4386
+      ],
+      "duelist": [],
+      "text": "Drago Occhi Blu Finale!"
+    },
+    "V0017_13_00_19_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        21432
+      ],
+      "duelist": [],
+      "text": "Arriva la leggenda, l'eroe di tutti noi!"
+    },
+    "V0017_13_00_19_1": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [],
+      "duelist": [],
+      "text": "Kaibaman la Leggenda!"
+    },
+    "V0017_13_00_20_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        16810
+      ],
+      "duelist": [],
+      "text": "Dittatore di D.!"
+    },
+    "V0017_13_00_21_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        13640
+      ],
+      "duelist": [],
+      "text": "<card mrk='13640 '/>!"
+    },
+    "V0017_13_00_22_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        16619
+      ],
+      "duelist": [],
+      "text": "Principessa Adena!\nMi farebbe comodo il tuo aiuto!"
+    },
+    "V0017_13_00_22_1": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Elfo Mistico - Fulmine Bianco!"
+    },
+    "V0017_13_00_23_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9648
+      ],
+      "duelist": [],
+      "text": "Fatti avanti, Draco Poki!"
+    },
+    "V0017_13_00_24_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20207
+      ],
+      "duelist": [],
+      "text": "Andiamo, Dora Dora!"
+    },
+    "V0017_13_00_25_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10459
+      ],
+      "duelist": [],
+      "text": "Drago Kidmodo!"
+    },
+    "V0017_13_00_26_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10059
+      ],
+      "duelist": [],
+      "text": "Signora di D.!"
+    },
+    "V0017_13_00_27_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        21440
+      ],
+      "duelist": [],
+      "text": "Questo pasto farà un boccone di te!"
+    },
+    "V0017_13_00_27_1": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [],
+      "duelist": [],
+      "text": "Hamburger Arrabbiato!"
+    },
+    "V0017_13_00_28_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4020
+      ],
+      "duelist": [],
+      "text": "Toro da Battaglia!\nTocca a te!"
+    },
+    "V0017_13_00_29_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4930
+      ],
+      "duelist": [],
+      "text": "Unisciti al Duello, Pomodoro Mistico!"
+    },
+    "V0017_13_00_30_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18898
+      ],
+      "duelist": [],
+      "text": "Patata Mistica!\nFatti avanti!"
+    },
+    "V0017_13_00_31_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4301
+      ],
+      "duelist": [],
+      "text": "Rivelati, Bio-Plant!"
+    },
+    "V0017_13_00_32_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4553
+      ],
+      "duelist": [],
+      "text": "Vieni qui, Griggle!"
+    },
+    "V0017_13_00_33_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        4198
+      ],
+      "duelist": [],
+      "text": "Earu mi guiderà!"
+    },
+    "V0017_13_00_33_1": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Mazza Chiave!"
+    },
+    "V0017_19_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16809
+      ],
+      "duelist": [],
+      "text": "Drago Jet Occhi Blu!\nAttacca!"
+    },
+    "V0017_19_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4386
+      ],
+      "duelist": [],
+      "text": "Drago Occhi Blu Finale!\nSpazzali via!"
+    },
+    "V0017_19_00_18_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Esplosione Neutronica all'attacco!"
+    },
+    "V0017_19_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21432
+      ],
+      "duelist": [],
+      "text": "Kaibaman la Leggenda!\nAttacca!"
+    },
+    "V0017_19_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16810
+      ],
+      "duelist": [],
+      "text": "Dittatore di D. attacca!"
+    },
+    "V0017_19_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13640
+      ],
+      "duelist": [],
+      "text": "<card mrk='13640 '/> attacca!"
+    },
+    "V0017_19_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16619
+      ],
+      "duelist": [],
+      "text": "Elfo Mistico - Fulmine Bianco!"
+    },
+    "V0017_19_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9648
+      ],
+      "duelist": [],
+      "text": "Attacca, Draco Poki!"
+    },
+    "V0017_19_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20207
+      ],
+      "duelist": [],
+      "text": "Dora Dora! Attacca!"
+    },
+    "V0017_19_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10459
+      ],
+      "duelist": [],
+      "text": "Drago Kidmodo!\nAttacca!"
+    },
+    "V0017_19_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10059
+      ],
+      "duelist": [],
+      "text": "Signora di D.!\nAttacca!"
+    },
+    "V0017_19_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21440
+      ],
+      "duelist": [],
+      "text": "Hamburger Arrabbiato!\nAttacca!"
+    },
+    "V0017_19_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4020
+      ],
+      "duelist": [],
+      "text": "Infilzali, Toro da Battaglia!"
+    },
+    "V0017_19_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4930
+      ],
+      "duelist": [],
+      "text": "Attacca, Pomodoro Mistico!"
+    },
+    "V0017_19_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18898
+      ],
+      "duelist": [],
+      "text": "Diamogli il ben servito, Patata Mistica!"
+    },
+    "V0017_19_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4301
+      ],
+      "duelist": [],
+      "text": "Bio-Plant!\nAttacca!"
+    },
+    "V0017_19_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4553
+      ],
+      "duelist": [],
+      "text": "Griggle! Attacca!"
+    },
+    "V0017_19_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4198
+      ],
+      "duelist": [],
+      "text": "Mazza Chiave!\nAttacca!"
+    },
+    "V0017_48_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evvai!"
+    },
+    "V0017_48_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Preparati per l'azione!"
+    },
+    "V0017_51_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mokuba Kaiba!"
+    },
+    "V0017_51_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Via col Rush!"
+    },
+    "V0017_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Non vedo l'ora di iniziare!"
+    },
+    "V0017_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Rush Duel Turbo!"
     }
   }
 }

@@ -2151,6 +2151,828 @@
       "card": [],
       "duelist": [],
       "text": "Dimensionsduell!"
+    },
+    "V0302_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich aktiviere einen Pendeleffekt!"
+    },
+    "V0302_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich aktiviere einen Ritualzauber!"
+    },
+    "V0302_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tributbeschwörung!"
+    },
+    "V0302_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fusionsbeschwörung!"
+    },
+    "V0302_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ritualbeschwörung!"
+    },
+    "V0302_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchrobeschwörung!"
+    },
+    "V0302_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Xyz-Beschwörung!"
+    },
+    "V0302_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pendelbeschwörung!"
+    },
+    "V0302_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Linkbeschwörung!"
+    },
+    "V0302_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Maximalbeschwörung!"
+    },
+    "V0302_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Maximalbeschwörung!"
+    },
+    "V0302_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Fusionsbeschwörung!"
+    },
+    "V0302_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fusionsbeschwörung!"
+    },
+    "V0302_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Kontaktfusion!"
+    },
+    "V0302_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Kontaktfusion!"
+    },
+    "V0302_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Ritualbeschwörung!"
+    },
+    "V0302_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ritualbeschwörung!"
+    },
+    "V0302_08_00_11_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5347
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere die Permanente Falle Drachenzorn!"
+    },
+    "V0302_08_00_12_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5342
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meine Permanente Falle!\nPerle des Drachen!"
+    },
+    "V0302_08_00_13_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5342
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Perle des Drachen!"
+    },
+    "V0302_08_00_14_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5550
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meine Falle!\nDrachenvolk!"
+    },
+    "V0302_08_00_15_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12570
+      ],
+      "duelist": [],
+      "text": "Nimm das!\nDie Zauberkarte Neutronenblitz!"
+    },
+    "V0302_08_00_16_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13947
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meine Zauberkarte!\nDonnerdrachen-Fusion!"
+    },
+    "V0302_08_00_17_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13947
+      ],
+      "duelist": [],
+      "text": "Ich verbanne Donnerdrachen-Fusion von meinem Friedhof!"
+    },
+    "V0302_08_00_18_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13959
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meine Falle!\nDie hundert Donner der Donnerdrachen!"
+    },
+    "V0302_08_00_19_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13960
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere die Permanente Falle Donnerdrachen-Entladung!"
+    },
+    "V0302_08_00_20_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13960
+      ],
+      "duelist": [],
+      "text": "Der Effekt von Donnerdrachen-Entladung wird aktiviert!"
+    },
+    "V0302_09_00_12_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16809
+      ],
+      "duelist": [],
+      "text": "Der Effekt von Blauäugiger Jetdrache wird aktiviert!"
+    },
+    "V0302_09_00_13_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12253
+      ],
+      "duelist": [],
+      "text": "Blauäugiger alternativer weißer Drache aktiviert den Effekt!"
+    },
+    "V0302_09_00_14_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21432
+      ],
+      "duelist": [],
+      "text": "Kaiba-Mann die Legende aktiviert seinen Effekt!"
+    },
+    "V0302_09_00_15_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21432
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Kaiba-Mann die Legende von meinem Friedhof!"
+    },
+    "V0302_09_00_16_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16810
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Diktator der Drachen!"
+    },
+    "V0302_09_00_17_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7247
+      ],
+      "duelist": [],
+      "text": "Köderdrache aktiviert den Effekt!"
+    },
+    "V0302_09_00_18_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13924
+      ],
+      "duelist": [],
+      "text": "Donnerdrachen-Titan!\nAktiviere deinen Effekt!"
+    },
+    "V0302_09_00_19_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15011
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Herr der Donnerdrachen!"
+    },
+    "V0302_09_00_20_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13909
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Donnerdrachen-Duo!"
+    },
+    "V0302_09_00_21_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13907
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Donnerdrachen-Falke von meiner Hand!"
+    },
+    "V0302_09_00_22_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13907
+      ],
+      "duelist": [],
+      "text": "Donnerdrachen-Falke aktiviert den Effekt!"
+    },
+    "V0302_09_00_23_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13908
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Donnerdrachen-Gebrüll von meiner Hand!"
+    },
+    "V0302_09_00_24_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13908
+      ],
+      "duelist": [],
+      "text": "Aktiviere deinen Effekt, Donnerdrachen-Gebrüll!"
+    },
+    "V0302_09_00_25_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13906
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Donnerdrachen-Finsternis von meiner Hand!"
+    },
+    "V0302_09_00_26_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13906
+      ],
+      "duelist": [],
+      "text": "Donnerdrachen-Finsternis aktiviert den Effekt!"
+    },
+    "V0302_09_00_27_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4431
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Donnerdrache von meiner Hand!"
+    },
+    "V0302_09_00_28_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13905
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Donnerdrachen-Matrix von meiner Hand!"
+    },
+    "V0302_09_00_29_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13905
+      ],
+      "duelist": [],
+      "text": "Der Effekt von Donnerdrachen-Matrix wird aktiviert!"
+    },
+    "V0302_09_00_30_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14195
+      ],
+      "duelist": [],
+      "text": "Donnerdrache Gewittersturmech aktiviert den Effekt!"
+    },
+    "V0302_13_00_22_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        16809
+      ],
+      "duelist": [],
+      "text": "Volle Kraft voraus!\nBlauäugiger Jetdrache!"
+    },
+    "V0302_13_00_23_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        12253
+      ],
+      "duelist": [],
+      "text": "Komm raus!\nBlauäugiger alternativer weißer Drache!"
+    },
+    "V0302_13_00_24_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        21432
+      ],
+      "duelist": [],
+      "text": "Kaiba-Mann die Legende!"
+    },
+    "V0302_13_00_25_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16810
+      ],
+      "duelist": [],
+      "text": "Diktator der Drachen!"
+    },
+    "V0302_13_00_26_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4096
+      ],
+      "duelist": [],
+      "text": "Gyakutenno Megami!"
+    },
+    "V0302_13_00_27_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7247
+      ],
+      "duelist": [],
+      "text": "Köderdrache!"
+    },
+    "V0302_13_00_28_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13924
+      ],
+      "duelist": [],
+      "text": "Steig auf!\nDonnerdrachen-Titan!"
+    },
+    "V0302_13_00_29_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13923
+      ],
+      "duelist": [],
+      "text": "Hier kommt Donnerdrachen-Koloss!"
+    },
+    "V0302_13_00_30_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        4619
+      ],
+      "duelist": [],
+      "text": "Zeig dich!\nDoppelköpfiger Donnerdrache!"
+    },
+    "V0302_13_00_31_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        15011
+      ],
+      "duelist": [],
+      "text": "Los geht’s!\nHerr der Donnerdrachen!"
+    },
+    "V0302_13_00_32_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13909
+      ],
+      "duelist": [],
+      "text": "Donnerdrachen-Duo!\nLos!"
+    },
+    "V0302_13_00_33_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        13907
+      ],
+      "duelist": [],
+      "text": "Donnerdrachen-Falke!"
+    },
+    "V0302_13_00_34_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        13908
+      ],
+      "duelist": [],
+      "text": "Donnerdrachen-Gebrüll!"
+    },
+    "V0302_13_00_35_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        13906
+      ],
+      "duelist": [],
+      "text": "Donnerdrachen-Finsternis!"
+    },
+    "V0302_13_00_36_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4431
+      ],
+      "duelist": [],
+      "text": "Donnerdrache!"
+    },
+    "V0302_13_00_37_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13905
+      ],
+      "duelist": [],
+      "text": "Donnerdrachen-Matrix!"
+    },
+    "V0302_13_00_38_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        14195
+      ],
+      "duelist": [],
+      "text": "Erscheine!\nDonnerdrache Gewittersturmech!"
+    },
+    "V0302_19_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16809
+      ],
+      "duelist": [],
+      "text": "Blauäugiger Jetdrache!\nAngriff!"
+    },
+    "V0302_19_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12253
+      ],
+      "duelist": [],
+      "text": "Angriff, Blauäugiger alternativer weißer Drache!"
+    },
+    "V0302_19_00_22_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Blauer Energiestrahl!"
+    },
+    "V0302_19_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21432
+      ],
+      "duelist": [],
+      "text": "Kaiba-Mann die Legende!\nAuf sie!"
+    },
+    "V0302_19_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16810
+      ],
+      "duelist": [],
+      "text": "Diktator der Drachen!\nAngriff!"
+    },
+    "V0302_19_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4096
+      ],
+      "duelist": [],
+      "text": "Gyakutenno Megami!\nAngriff!"
+    },
+    "V0302_19_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7247
+      ],
+      "duelist": [],
+      "text": "Köderdrache! Angriff!"
+    },
+    "V0302_19_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13924
+      ],
+      "duelist": [],
+      "text": "Angriff, Donnerdrachen-Titan!"
+    },
+    "V0302_19_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13923
+      ],
+      "duelist": [],
+      "text": "Donnerdrachen-Koloss!\nAngriff!"
+    },
+    "V0302_19_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4619
+      ],
+      "duelist": [],
+      "text": "Doppelköpfiger Donnerdrache!\nAngriff!"
+    },
+    "V0302_19_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15011
+      ],
+      "duelist": [],
+      "text": "Herr der Donnerdrachen!\nAngriff!"
+    },
+    "V0302_19_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13909
+      ],
+      "duelist": [],
+      "text": "Angriff, Donnerdrachen-Duo!"
+    },
+    "V0302_19_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13907
+      ],
+      "duelist": [],
+      "text": "Angriff, Donnerdrachen-Falke!"
+    },
+    "V0302_19_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13908
+      ],
+      "duelist": [],
+      "text": "Donnerdrachen-Gebrüll greift an!"
+    },
+    "V0302_19_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13906
+      ],
+      "duelist": [],
+      "text": "Donnerdrachen-Finsternis!\nAngriff!"
+    },
+    "V0302_19_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4431
+      ],
+      "duelist": [],
+      "text": "Angriff, Donnerdrache!"
+    },
+    "V0302_19_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13905
+      ],
+      "duelist": [],
+      "text": "Donnerdrachen-Matrix!\nAngriff!"
+    },
+    "V0302_19_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14195
+      ],
+      "duelist": [],
+      "text": "Donnerdrache Gewittersturmech!\nAngriff!"
+    },
+    "V0302_48_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Lass uns loslegen!"
+    },
+    "V0302_48_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mach dich bereit für den Rush!"
+    },
+    "V0302_51_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mokuba Kaiba!"
+    },
+    "V0302_51_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Go Rush!"
+    },
+    "V0302_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Und los!"
+    },
+    "V0302_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo-Rush-Duel!"
     }
   }
 }

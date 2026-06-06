@@ -3152,7 +3152,7 @@
         21612
       ],
       "duelist": [],
-      "text": "J'active ma Magie Jeu-Rapide !\n !"
+      "text": "J'active ma Magie Jeu-Rapide !\nLe Regard de Timée !"
     },
     "V0001_09_00_05_0": {
       "face": 3,
@@ -3688,7 +3688,7 @@
         21610
       ],
       "duelist": [],
-      "text": " active son effet !"
+      "text": "Magicien Sombre de la Destruction active son effet !"
     },
     "V0001_09_00_53_0": {
       "face": 3,
@@ -3698,7 +3698,7 @@
         21611
       ],
       "duelist": [],
-      "text": "J'active l'effet de la Carte  !"
+      "text": "J'active l'effet de la Carte Timée le Dragon Magique Uni !"
     },
     "V0001_13_00_19_0": {
       "face": 3,
@@ -4308,7 +4308,7 @@
         21610
       ],
       "duelist": [],
-      "text": "Apparais !\n !"
+      "text": "Apparais !\nMagicien Sombre de la Destruction !"
     },
     "V0001_13_00_75_0": {
       "face": 3,
@@ -4318,7 +4318,7 @@
         21611
       ],
       "duelist": [],
-      "text": "Admire  !"
+      "text": "Admire Timée le Dragon Magique Uni !"
     },
     "V0001_19_00_10_0": {
       "face": 3,
@@ -5101,7 +5101,7 @@
         21610
       ],
       "duelist": [],
-      "text": " !\nAttaque !"
+      "text": "Magicien Sombre de la Destruction !\nAttaque !"
     },
     "V0001_19_00_69_0": {
       "face": 3,
@@ -5111,7 +5111,7 @@
         21611
       ],
       "duelist": [],
-      "text": " !\nAttaque !"
+      "text": "Timée le Dragon Magique Uni !\nAttaque !"
     }
   }
 }

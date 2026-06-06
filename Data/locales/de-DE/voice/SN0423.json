@@ -68,7 +68,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        422,
+        445
       ],
       "text": "Du hast uns zum letzten Mal verraten, Vektor!"
     },
@@ -78,7 +79,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        422,
+        445
       ],
       "text": "Vektor!\nDu bist nur ein mieser verräterischer Schurke!"
     },
@@ -98,7 +100,9 @@
         442,
         443,
         445,
-        446
+        446,
+        447,
+        448
       ],
       "text": "Wir müssen nicht kämpfen.\nAber falls doch, gewinne ich!"
     },
@@ -118,7 +122,9 @@
         442,
         443,
         445,
-        446
+        446,
+        447,
+        448
       ],
       "text": "Ich bin dein Freund, aber ich kann auch dein Feind sein!"
     },
@@ -901,7 +907,9 @@
       "card": [],
       "duelist": [
         416,
-        417
+        447,
+        417,
+        448
       ],
       "text": "Ich schätze alle unsere gemeinsamen Momente."
     },
@@ -911,7 +919,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        417
+        417,
+        448
       ],
       "text": "Du und Nash, ihr bedeutet mir mehr, als du glaubst, Marin."
     },
@@ -921,7 +930,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        422,
+        445
       ],
       "text": "Hinfort, Vektor!"
     },
@@ -1048,7 +1058,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        422,
+        445
       ],
       "text": "Vektor …\nDu boshafter Wahnsinniger!"
     },
@@ -1058,7 +1069,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        422,
+        445
       ],
       "text": "Du sinkst auch unter jeden Tiefpunkt, Vektor!"
     },
@@ -1068,7 +1080,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        416
+        416,
+        447
       ],
       "text": "Beeindruckend, Nash."
     },
@@ -1086,7 +1099,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        417
+        417,
+        448
       ],
       "text": "Gut gemacht, Marin."
     },
@@ -1364,7 +1378,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        416
+        416,
+        447
       ],
       "text": "Nash, mein Freund!\nBring uns den Sieg!"
     },
@@ -1374,7 +1389,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        416
+        416,
+        447
       ],
       "text": "Das sollte für dich kein Problem sein, Nash."
     },
@@ -1384,7 +1400,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        416
+        416,
+        447
       ],
       "text": "Es tut mir leid, Nash …"
     },
@@ -1394,7 +1411,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        417
+        417,
+        448
       ],
       "text": "Gewinne, Marin!"
     },
@@ -1404,7 +1422,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        417
+        417,
+        448
       ],
       "text": "Marin!\nZeigen wir ihnen unser Teamwork!"
     },
@@ -1414,7 +1433,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        417
+        417,
+        448
       ],
       "text": "Marin, es tut mir leid, dass ich so schwach bin."
     },

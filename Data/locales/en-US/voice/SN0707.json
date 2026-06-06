@@ -2841,6 +2841,22 @@
       "card": [],
       "duelist": [],
       "text": "Uwaaaaaaaa!"
+    },
+    "V0707_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Let's do this!"
+    },
+    "V0707_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
     }
   }
 }

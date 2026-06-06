@@ -2151,6 +2151,828 @@
       "card": [],
       "duelist": [],
       "text": "¡Duelo Dimensional!"
+    },
+    "V0302_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo un efecto de Péndulo!"
+    },
+    "V0302_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo una Carta Mágica de Ritual!"
+    },
+    "V0302_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Sacrificio!"
+    },
+    "V0302_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Fusión!"
+    },
+    "V0302_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Ritual!"
+    },
+    "V0302_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Sincronía!"
+    },
+    "V0302_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación Xyz!"
+    },
+    "V0302_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Péndulo!"
+    },
+    "V0302_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Enlace!"
+    },
+    "V0302_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo de Modo Máximo!"
+    },
+    "V0302_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación Máxima!"
+    },
+    "V0302_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Fusión!"
+    },
+    "V0302_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Fusión!"
+    },
+    "V0302_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Fusiono por Contacto un monstruo!"
+    },
+    "V0302_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Fusión de Contacto!"
+    },
+    "V0302_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Ritual!"
+    },
+    "V0302_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Ritual!"
+    },
+    "V0302_08_00_11_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5347
+      ],
+      "duelist": [],
+      "text": "¡Activo la Carta de Trampa Continua \"La Furia del Dragón\"!"
+    },
+    "V0302_08_00_12_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5342
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa Continua!\n¡La Cuenta del Dragón!"
+    },
+    "V0302_08_00_13_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5342
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de La Cuenta del Dragón!"
+    },
+    "V0302_08_00_14_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5550
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!\n¡Tribu D.!"
+    },
+    "V0302_08_00_15_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12570
+      ],
+      "duelist": [],
+      "text": "¡Toma esto!\n¡La Carta Mágica \"Raja Neutrónica\"!"
+    },
+    "V0302_08_00_16_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13947
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica!\n¡Fusión del Dragón de Trueno!"
+    },
+    "V0302_08_00_17_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13947
+      ],
+      "duelist": [],
+      "text": "¡Destierro a Fusión del Dragón de Trueno de mi Cementerio!"
+    },
+    "V0302_08_00_18_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13959
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!\n¡Los Cien Truenos del Dragón de Trueno!"
+    },
+    "V0302_08_00_19_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13960
+      ],
+      "duelist": [],
+      "text": "¡Activo la Carta de Trampa Continua \"Descarga del Dragón de Trueno\"!"
+    },
+    "V0302_08_00_20_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13960
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Descarga del Dragón de Trueno se activa!"
+    },
+    "V0302_09_00_12_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16809
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Dragón Jet de Ojos Azules se activa!"
+    },
+    "V0302_09_00_13_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12253
+      ],
+      "duelist": [],
+      "text": "¡Dragón Blanco Alternativo de Ojos Azules activa su efecto!"
+    },
+    "V0302_09_00_14_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21432
+      ],
+      "duelist": [],
+      "text": "¡Kaibaman la Leyenda activa su efecto!"
+    },
+    "V0302_09_00_15_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21432
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Kaibaman la Leyenda de mi Cementerio!"
+    },
+    "V0302_09_00_16_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16810
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Dictador de D.!"
+    },
+    "V0302_09_00_17_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7247
+      ],
+      "duelist": [],
+      "text": "¡Dragón Señuelo activa su efecto!"
+    },
+    "V0302_09_00_18_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13924
+      ],
+      "duelist": [],
+      "text": "¡Titán Dragón de Trueno!\n¡Activa tu efecto!"
+    },
+    "V0302_09_00_19_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15011
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Señordragón de Trueno!"
+    },
+    "V0302_09_00_20_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13909
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Duodragón de Trueno!"
+    },
+    "V0302_09_00_21_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13907
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Halcondragón de Trueno de mi mano!"
+    },
+    "V0302_09_00_22_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13907
+      ],
+      "duelist": [],
+      "text": "¡Halcondragón de Trueno activa su efecto!"
+    },
+    "V0302_09_00_23_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13908
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Rugidodragón de Trueno de mi mano!"
+    },
+    "V0302_09_00_24_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13908
+      ],
+      "duelist": [],
+      "text": "¡Activa tu efecto, Rugidodragón de Trueno!"
+    },
+    "V0302_09_00_25_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13906
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Oscurodragón de Trueno de mi mano!"
+    },
+    "V0302_09_00_26_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13906
+      ],
+      "duelist": [],
+      "text": "¡Oscurodragón de Trueno activa su efecto!"
+    },
+    "V0302_09_00_27_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4431
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Dragón de Trueno de mi mano!"
+    },
+    "V0302_09_00_28_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13905
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Matrixdragón de Trueno de mi mano!"
+    },
+    "V0302_09_00_29_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13905
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Matrixdragón de Trueno se activa!"
+    },
+    "V0302_09_00_30_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14195
+      ],
+      "duelist": [],
+      "text": "¡Tormentamech Dragón de Trueno activa su efecto!"
+    },
+    "V0302_13_00_22_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        16809
+      ],
+      "duelist": [],
+      "text": "¡Propulsores al máximo!\n¡Dragón Jet de Ojos Azules!"
+    },
+    "V0302_13_00_23_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        12253
+      ],
+      "duelist": [],
+      "text": "¡Adelante!\n¡Dragón Blanco Alternativo de Ojos Azules!"
+    },
+    "V0302_13_00_24_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        21432
+      ],
+      "duelist": [],
+      "text": "¡Kaibaman la Leyenda!"
+    },
+    "V0302_13_00_25_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16810
+      ],
+      "duelist": [],
+      "text": "¡Dictador de D.!"
+    },
+    "V0302_13_00_26_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4096
+      ],
+      "duelist": [],
+      "text": "¡Gyakutenno Megami!"
+    },
+    "V0302_13_00_27_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7247
+      ],
+      "duelist": [],
+      "text": "¡Dragón Señuelo!"
+    },
+    "V0302_13_00_28_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13924
+      ],
+      "duelist": [],
+      "text": "¡Elévate!\n¡Titán Dragón de Trueno!"
+    },
+    "V0302_13_00_29_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13923
+      ],
+      "duelist": [],
+      "text": "¡Aquí viene Coloso Dragón de Trueno!"
+    },
+    "V0302_13_00_30_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        4619
+      ],
+      "duelist": [],
+      "text": "¡Muéstrate!\n¡Dragón de Trueno de Cabezas Gemelas!"
+    },
+    "V0302_13_00_31_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        15011
+      ],
+      "duelist": [],
+      "text": "¡Vamos!\n¡Señordragón de Trueno!"
+    },
+    "V0302_13_00_32_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13909
+      ],
+      "duelist": [],
+      "text": "¡Duodragón de Trueno!\n¡Adelante!"
+    },
+    "V0302_13_00_33_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        13907
+      ],
+      "duelist": [],
+      "text": "¡Halcondragón de Trueno!"
+    },
+    "V0302_13_00_34_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        13908
+      ],
+      "duelist": [],
+      "text": "¡Rugidodragón de Trueno!"
+    },
+    "V0302_13_00_35_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        13906
+      ],
+      "duelist": [],
+      "text": "¡Oscurodragón de Trueno!"
+    },
+    "V0302_13_00_36_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4431
+      ],
+      "duelist": [],
+      "text": "¡Dragón de Trueno!"
+    },
+    "V0302_13_00_37_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13905
+      ],
+      "duelist": [],
+      "text": "¡Matrixdragón de Trueno!"
+    },
+    "V0302_13_00_38_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        14195
+      ],
+      "duelist": [],
+      "text": "¡Muéstrate!\n¡Tormentamech Dragón de Trueno!"
+    },
+    "V0302_19_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16809
+      ],
+      "duelist": [],
+      "text": "¡Dragón Jet de Ojos Azules!\n¡Ataca!"
+    },
+    "V0302_19_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12253
+      ],
+      "duelist": [],
+      "text": "¡Al ataque, Dragón Blanco Alternativo de Ojos Azules!"
+    },
+    "V0302_19_00_22_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Relámpago Azul!"
+    },
+    "V0302_19_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21432
+      ],
+      "duelist": [],
+      "text": "¡Kaibaman la Leyenda!\n¡A por ellos!"
+    },
+    "V0302_19_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16810
+      ],
+      "duelist": [],
+      "text": "¡Dictador de D.!\n¡Ataca!"
+    },
+    "V0302_19_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4096
+      ],
+      "duelist": [],
+      "text": "¡Gyakutenno Megami!\n¡Ataca!"
+    },
+    "V0302_19_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7247
+      ],
+      "duelist": [],
+      "text": "¡Dragón Señuelo! ¡Ataca!"
+    },
+    "V0302_19_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13924
+      ],
+      "duelist": [],
+      "text": "¡Al ataque, Titán Dragón de Trueno!"
+    },
+    "V0302_19_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13923
+      ],
+      "duelist": [],
+      "text": "¡Coloso Dragón de Trueno!\n¡Ataca!"
+    },
+    "V0302_19_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4619
+      ],
+      "duelist": [],
+      "text": "¡Dragón de Trueno de Cabezas Gemelas!\n¡Ataca!"
+    },
+    "V0302_19_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15011
+      ],
+      "duelist": [],
+      "text": "¡Señordragón de Trueno!\n¡Ataca!"
+    },
+    "V0302_19_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13909
+      ],
+      "duelist": [],
+      "text": "¡Al ataque, Duodragón de Trueno!"
+    },
+    "V0302_19_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13907
+      ],
+      "duelist": [],
+      "text": "¡Al ataque, Halcondragón de Trueno!"
+    },
+    "V0302_19_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13908
+      ],
+      "duelist": [],
+      "text": "¡Rugidodragón de Trueno ataca!"
+    },
+    "V0302_19_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13906
+      ],
+      "duelist": [],
+      "text": "¡Oscurodragón de Trueno!\n¡Ataca!"
+    },
+    "V0302_19_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4431
+      ],
+      "duelist": [],
+      "text": "¡Al ataque, Dragón de Trueno!"
+    },
+    "V0302_19_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13905
+      ],
+      "duelist": [],
+      "text": "¡Matrixdragón de Trueno!\n¡Ataca!"
+    },
+    "V0302_19_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14195
+      ],
+      "duelist": [],
+      "text": "¡Tormentamech Dragón de Trueno!\n¡Ataca!"
+    },
+    "V0302_48_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Vamos allá!"
+    },
+    "V0302_48_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Prepárate para sentir la emoción!"
+    },
+    "V0302_51_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Mokuba Kaiba!"
+    },
+    "V0302_51_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Vamos allá!"
+    },
+    "V0302_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Allá va!"
+    },
+    "V0302_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Rush Duel Turbo!"
     }
   }
 }

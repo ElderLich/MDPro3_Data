@@ -1168,6 +1168,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaaaaaah!"
+    },
+    "V0856_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Andiamo!"
+    },
+    "V0856_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Duello Rush Turbo!"
     }
   }
 }

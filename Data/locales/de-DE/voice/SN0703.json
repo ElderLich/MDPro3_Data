@@ -1496,7 +1496,7 @@
         16698
       ],
       "duelist": [],
-      "text": "Ich aktiviere die Zauberkarte, !"
+      "text": "Ich aktiviere die Zauberkarte, Sturm des Dunklen Herrschers!"
     },
     "V0703_08_00_12_0": {
       "face": 3,
@@ -1576,7 +1576,7 @@
         16782
       ],
       "duelist": [],
-      "text": "Ich aktiviere die Fallenkarte, !"
+      "text": "Ich aktiviere die Fallenkarte, Schwerthieb des Dunklen Herrschers!"
     },
     "V0703_09_00_00_0": {
       "face": 3,
@@ -2933,6 +2933,22 @@
       "card": [],
       "duelist": [],
       "text": "Uwaaaahhhh!"
+    },
+    "V0703_49_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Los geht’s!"
+    },
+    "V0703_49_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo-Rush-Duel!"
     }
   }
 }

@@ -578,6 +578,22 @@
       "duelist": [],
       "text": "Contact Fusion !"
     },
+    "V0858_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Rituel !"
+    },
+    "V0858_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Rituelle !"
+    },
     "V0858_14_00_00_0": {
       "face": 1,
       "frame": 0,
@@ -1377,6 +1393,22 @@
       "card": [],
       "duelist": [],
       "text": "Beeeeuuuurk !"
+    },
+    "V0858_49_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Miam miam !"
+    },
+    "V0858_49_01_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel !"
     }
   }
 }

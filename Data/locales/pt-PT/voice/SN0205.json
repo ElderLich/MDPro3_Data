@@ -40,7 +40,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei! \nVocê precisa ver como fiquei mais forte agora!"
     },
@@ -50,7 +51,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Jack, não vou deixar seu deck poderoso me derrotar!"
     },
@@ -2242,7 +2244,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei, você acredita em si mesmo.\nEntão eu decidi fazer o mesmo!"
     },
@@ -2252,7 +2255,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Eu vou ser legal como você, Jack!"
     },
@@ -2382,7 +2386,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Ainda não sou o melhor, mas meus amigos vão me ajudar!"
     },
@@ -2392,7 +2397,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Jack, você é mesmo incrível!"
     },
@@ -2731,7 +2737,10 @@
         202,
         203,
         204,
-        209
+        209,
+        219,
+        220,
+        221
       ],
       "text": "Eu ajeitei eles para você derrubar!"
     },
@@ -2745,7 +2754,10 @@
         202,
         203,
         204,
-        209
+        209,
+        219,
+        220,
+        221
       ],
       "text": "Fiz de tudo para ajudar, então eu sei que você consegue!"
     },
@@ -2759,7 +2771,10 @@
         202,
         203,
         204,
-        209
+        209,
+        219,
+        220,
+        221
       ],
       "text": "Ainda não perdemos!\nNão desista!"
     },

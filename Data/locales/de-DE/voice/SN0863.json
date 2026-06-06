@@ -628,6 +628,22 @@
       "duelist": [],
       "text": "Kontaktfusion!"
     },
+    "V0863_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Ritualbeschwörung!"
+    },
+    "V0863_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ritualbeschwörung!"
+    },
     "V0863_14_00_00_0": {
       "face": 1,
       "frame": 0,
@@ -1643,6 +1659,22 @@
       "card": [],
       "duelist": [],
       "text": "Ich bin erledigt!"
+    },
+    "V0863_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Es ist so trocken …"
+    },
+    "V0863_49_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo-Rush-Duel!"
     }
   }
 }

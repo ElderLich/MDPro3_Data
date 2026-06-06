@@ -628,6 +628,22 @@
       "duelist": [],
       "text": "Fusione Contatto!"
     },
+    "V0866_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco un mostro tramite Rituale!"
+    },
+    "V0866_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Rituale!"
+    },
     "V0866_14_00_00_0": {
       "face": 1,
       "frame": 0,
@@ -1624,7 +1640,7 @@
         17560
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Commando Alieno!"
     },
     "V0866_37_00_03_0": {
       "face": 3,
@@ -1790,7 +1806,7 @@
         17560
       ],
       "duelist": [],
-      "text": "!\nAttacca!"
+      "text": "Commando Alieno!\nAttacca!"
     },
     "V0866_19_00_13_0": {
       "face": 3,
@@ -1921,6 +1937,22 @@
       "card": [],
       "duelist": [],
       "text": "Treeeeeeeeee!"
+    },
+    "V0866_49_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Terza Flatwood!\nPreparati!"
+    },
+    "V0866_49_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Rush Duel Turbo!"
     }
   }
 }

@@ -1496,7 +1496,7 @@
         16698
       ],
       "duelist": [],
-      "text": "J'active la Carte Magie  !"
+      "text": "J'active la Carte Magie Tempête du Seigneur des Ténèbres !"
     },
     "V0703_08_00_12_0": {
       "face": 3,
@@ -1576,7 +1576,7 @@
         16782
       ],
       "duelist": [],
-      "text": "J'active la Carte Piège,  !"
+      "text": "J'active la Carte Piège, Coup d'Épée du Seigneur des Ténèbres !"
     },
     "V0703_09_00_00_0": {
       "face": 3,
@@ -2933,6 +2933,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaah !"
+    },
+    "V0703_49_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'arrive !"
+    },
+    "V0703_49_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel !"
     }
   }
 }

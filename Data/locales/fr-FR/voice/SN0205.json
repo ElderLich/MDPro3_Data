@@ -40,7 +40,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei !\nTu vas voir, je suis bien plus fort maintenant !"
     },
@@ -50,7 +51,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Jack, je ne vais pas laisser ton Deck me submerger !"
     },
@@ -2242,7 +2244,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei, tu crois en toi-même.\nJ'ai décidé de faire pareil que toi !"
     },
@@ -2252,7 +2255,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Je vais devenir aussi stylé que toi, Jack !"
     },
@@ -2382,7 +2386,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Je ne suis pas encore le meilleur, mais mes amis m'aideront à m'améliorer !"
     },
@@ -2392,7 +2397,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Jack, tu es vraiment génial !"
     },
@@ -2731,7 +2737,10 @@
         202,
         203,
         204,
-        209
+        209,
+        219,
+        220,
+        221
       ],
       "text": "C'est bon, tu vas pouvoir les abattre !"
     },
@@ -2745,7 +2754,10 @@
         202,
         203,
         204,
-        209
+        209,
+        219,
+        220,
+        221
       ],
       "text": "Je vais faire de mon mieux, je sais que tu vas y arriver !"
     },
@@ -2759,7 +2771,10 @@
         202,
         203,
         204,
-        209
+        209,
+        219,
+        220,
+        221
       ],
       "text": "Nous n'avons pas encore perdu !\nNe perds pas espoir !"
     },

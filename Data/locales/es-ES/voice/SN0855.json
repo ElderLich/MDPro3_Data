@@ -848,7 +848,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        854
+        854,
+        719
       ],
       "text": "Aunque nos separen años luz, nuestro vínculo seguirá vivo para siempre."
     },
@@ -1311,6 +1312,22 @@
       "card": [],
       "duelist": [],
       "text": "¡Joo jaa jee jeeeeeee!"
+    },
+    "V0855_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Jee jee joo!"
+    },
+    "V0855_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Rush Duel Turbo!"
     }
   }
 }

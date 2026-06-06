@@ -64,7 +64,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "No sabes cuánto tiempo llevo esperando mi venganza."
     },
@@ -82,7 +83,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "¿Llegó la hora de que Los Ejecutores corran de nuevo?"
     },
@@ -100,7 +102,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        203
+        203,
+        221
       ],
       "text": "¡Fui tu amigo, pero ahora soy tu enemigo!"
     },
@@ -1829,7 +1832,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "¡Yusei, mi viejo amigo!\n¡Es tu fin!"
     },
@@ -1871,7 +1875,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Este fin no es satisfactorio."
     },

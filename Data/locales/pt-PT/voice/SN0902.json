@@ -664,6 +664,22 @@
       "duelist": [],
       "text": "Fusão de Contato!"
     },
+    "V0902_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aqui vou eu!"
+    },
+    "V0902_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
+    },
     "V0902_14_00_00_0": {
       "face": 1,
       "frame": 0,
@@ -1500,7 +1516,7 @@
         18639
       ],
       "duelist": [],
-      "text": "Ativo o Card de Armadilha !"
+      "text": "Ativo o Card de Armadilha Grande Muralha Unitec!"
     },
     "V0902_08_00_09_0": {
       "face": 3,
@@ -1520,7 +1536,7 @@
         17906
       ],
       "duelist": [],
-      "text": "Ativo meu Card de Armadilha!\n!"
+      "text": "Ativo meu Card de Armadilha!\nChoque de Energia!"
     },
     "V0902_08_00_11_0": {
       "face": 3,
@@ -1538,7 +1554,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "A Magia de Equipamento Lâmina-tecla Qwerty!"
+      "text": "A Magia de Equipamento Lâmina Teclado Qwerty!"
     },
     "V0902_08_00_12_0": {
       "face": 3,
@@ -1548,7 +1564,7 @@
         18625
       ],
       "duelist": [],
-      "text": "Ativo a Magia de Equipamento Garra de Rompimento!"
+      "text": "Ativo a Magia de Equipamento Garra Rachada!"
     },
     "V0902_08_00_13_0": {
       "face": 3,
@@ -1616,7 +1632,7 @@
         19322
       ],
       "duelist": [],
-      "text": "Ativo o efeito de Dragão Explosivo Unitec!"
+      "text": "Ativo o efeito de Dragão da Explosão Unitec!"
     },
     "V0902_09_00_02_0": {
       "face": 3,
@@ -1636,7 +1652,7 @@
         18965
       ],
       "duelist": [],
-      "text": "Ativo o efeito de !"
+      "text": "Ativo o efeito de Dragão da Explosão Tamabô!"
     },
     "V0902_09_00_04_0": {
       "face": 12,
@@ -1728,7 +1744,7 @@
         18373
       ],
       "duelist": [],
-      "text": "Ativo o efeito de !"
+      "text": "Ativo o efeito de Estegossilos Unitec!"
     },
     "V0902_09_00_08_0": {
       "face": 3,
@@ -1828,7 +1844,7 @@
         18579
       ],
       "duelist": [],
-      "text": " ativa seu efeito!"
+      "text": "Tamainabô ativa seu efeito!"
     },
     "V0902_09_00_18_0": {
       "face": 3,
@@ -1998,7 +2014,7 @@
         19322
       ],
       "duelist": [],
-      "text": "Vamos!\nDragão Explosivo Unitec!"
+      "text": "Vamos!\nDragão da Explosão Unitec!"
     },
     "V0902_37_00_03_0": {
       "face": 3,
@@ -2054,7 +2070,7 @@
         18965
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Dragão da Explosão Tamabô!"
     },
     "V0902_37_00_05_0": {
       "face": 3,
@@ -2134,7 +2150,7 @@
         18373
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Estegossilos Unitec!"
     },
     "V0902_13_00_09_0": {
       "face": 3,
@@ -2330,7 +2346,7 @@
         18579
       ],
       "duelist": [],
-      "text": "Comute, !"
+      "text": "Comute, Tamainabô!"
     },
     "V0902_37_00_10_0": {
       "face": 9,
@@ -2532,7 +2548,7 @@
         19322
       ],
       "duelist": [],
-      "text": "Dragão Explosivo Unitec!\nAtacar!"
+      "text": "Dragão da Explosão Unitec!\nAtacar!"
     },
     "V0902_19_00_01_1": {
       "face": 3,
@@ -2560,7 +2576,7 @@
         18965
       ],
       "duelist": [],
-      "text": "!\nAtacar!"
+      "text": "Dragão da Explosão Tamabô!\nAtacar!"
     },
     "V0902_19_00_03_1": {
       "face": 3,
@@ -2632,7 +2648,7 @@
         18373
       ],
       "duelist": [],
-      "text": "!\nAtacar!"
+      "text": "Estegossilos Unitec!\nAtacar!"
     },
     "V0902_19_00_08_0": {
       "face": 3,
@@ -2792,7 +2808,7 @@
         18579
       ],
       "duelist": [],
-      "text": " ataca!"
+      "text": "Tamainabô ataca!"
     },
     "V0902_19_00_24_0": {
       "face": 3,
@@ -3047,6 +3063,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaaaahhhhh!"
+    },
+    "V0902_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aí vai!"
+    },
+    "V0902_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
     }
   }
 }

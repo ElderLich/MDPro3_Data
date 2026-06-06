@@ -1563,7 +1563,7 @@
         15675
       ],
       "duelist": [],
-      "text": "Ativo minha Armadilha!\n!"
+      "text": "Ativo minha Armadilha!\nGrito de Rebelde!"
     },
     "V0706_09_00_00_0": {
       "face": 3,
@@ -2486,6 +2486,22 @@
       "card": [],
       "duelist": [],
       "text": "Gaaaaaahhh!"
+    },
+    "V0706_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ok!"
+    },
+    "V0706_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
     }
   }
 }

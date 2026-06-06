@@ -2151,6 +2151,828 @@
       "card": [],
       "duelist": [],
       "text": "Duello Dimensionale!"
+    },
+    "V0302_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo un Effetto Pendulum!"
+    },
+    "V0302_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo una Magia Rituale!"
+    },
+    "V0302_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Tributo!"
+    },
+    "V0302_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Fusione!"
+    },
+    "V0302_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Rituale!"
+    },
+    "V0302_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Evocazione!"
+    },
+    "V0302_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione Xyz!"
+    },
+    "V0302_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione Pendulum!"
+    },
+    "V0302_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione Link!"
+    },
+    "V0302_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco Maximum un mostro!"
+    },
+    "V0302_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione Maximum!"
+    },
+    "V0302_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco un mostro tramite Fusione!"
+    },
+    "V0302_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Fusione!"
+    },
+    "V0302_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco un mostro tramite Fusione Contatto!"
+    },
+    "V0302_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fusione Contatto!"
+    },
+    "V0302_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco un mostro tramite Rituale!"
+    },
+    "V0302_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Rituale!"
+    },
+    "V0302_08_00_11_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5347
+      ],
+      "duelist": [],
+      "text": "Attivo la Trappola Continua Rabbia del Drago!"
+    },
+    "V0302_08_00_12_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5342
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Trappola Continua!\nLa Perla di Drago!"
+    },
+    "V0302_08_00_13_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5342
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di La Perla di Drago!"
+    },
+    "V0302_08_00_14_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5550
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Trappola!\nTribù D.!"
+    },
+    "V0302_08_00_15_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12570
+      ],
+      "duelist": [],
+      "text": "Prendi questo!\nLa Carta Magia Esplosione Neutronica!"
+    },
+    "V0302_08_00_16_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13947
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Carta Magia!\nFusione Drago del Tuono!"
+    },
+    "V0302_08_00_17_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13947
+      ],
+      "duelist": [],
+      "text": "Bandisco Fusione Drago del Tuono dal mio Cimitero!"
+    },
+    "V0302_08_00_18_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13959
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Trappola!\nI Cento Tuoni dei Draghi del Tuono!"
+    },
+    "V0302_08_00_19_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13960
+      ],
+      "duelist": [],
+      "text": "Attivo la Trappola Continua Scarica Drago del Tuono!"
+    },
+    "V0302_08_00_20_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13960
+      ],
+      "duelist": [],
+      "text": "Si attiva l'effetto di Scarica Drago del Tuono!"
+    },
+    "V0302_09_00_12_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16809
+      ],
+      "duelist": [],
+      "text": "Si attiva l'effetto di Drago Jet Occhi Blu!"
+    },
+    "V0302_09_00_13_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12253
+      ],
+      "duelist": [],
+      "text": "Drago Bianco Alternativo Occhi Blu attiva il suo effetto!"
+    },
+    "V0302_09_00_14_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21432
+      ],
+      "duelist": [],
+      "text": "Kaibaman la Leggenda attiva il suo effetto!"
+    },
+    "V0302_09_00_15_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21432
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Kaibaman la Leggenda dal mio Cimitero!"
+    },
+    "V0302_09_00_16_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16810
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Dittatore di D.!"
+    },
+    "V0302_09_00_17_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7247
+      ],
+      "duelist": [],
+      "text": "Drago da Richiamo attiva il suo effetto!"
+    },
+    "V0302_09_00_18_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13924
+      ],
+      "duelist": [],
+      "text": "Titano Drago del Tuono!\nAttiva il tuo effetto!"
+    },
+    "V0302_09_00_19_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15011
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Signoredrago del Tuono!"
+    },
+    "V0302_09_00_20_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13909
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Duodrago del Tuono!"
+    },
+    "V0302_09_00_21_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13907
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Falcodrago del Tuono dalla mia mano!"
+    },
+    "V0302_09_00_22_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13907
+      ],
+      "duelist": [],
+      "text": "Falcodrago del Tuono attiva il suo effetto!"
+    },
+    "V0302_09_00_23_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13908
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Ruggitodrago del Tuono dalla mia mano!"
+    },
+    "V0302_09_00_24_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13908
+      ],
+      "duelist": [],
+      "text": "Attiva il tuo effetto, Ruggitodrago del Tuono!"
+    },
+    "V0302_09_00_25_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13906
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Oscurodrago del Tuono dalla mia mano!"
+    },
+    "V0302_09_00_26_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13906
+      ],
+      "duelist": [],
+      "text": "Oscurodrago del Tuono attiva il suo effetto!"
+    },
+    "V0302_09_00_27_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4431
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Drago del Tuono dalla mia mano!"
+    },
+    "V0302_09_00_28_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13905
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Matricedrago del Tuono dalla mia mano!"
+    },
+    "V0302_09_00_29_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13905
+      ],
+      "duelist": [],
+      "text": "Si attiva l'effetto di Matricedrago del Tuono!"
+    },
+    "V0302_09_00_30_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14195
+      ],
+      "duelist": [],
+      "text": "Drago del Tuono Tuonotempestamech attiva il suo effetto!"
+    },
+    "V0302_13_00_22_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        16809
+      ],
+      "duelist": [],
+      "text": "Propulsori al massimo!\nDrago Jet Occhi Blu!"
+    },
+    "V0302_13_00_23_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        12253
+      ],
+      "duelist": [],
+      "text": "Fatti vedere!\nDrago Bianco Alternativo Occhi Blu!"
+    },
+    "V0302_13_00_24_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        21432
+      ],
+      "duelist": [],
+      "text": "Kaibaman la Leggenda!"
+    },
+    "V0302_13_00_25_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16810
+      ],
+      "duelist": [],
+      "text": "Dittatore di D.!"
+    },
+    "V0302_13_00_26_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4096
+      ],
+      "duelist": [],
+      "text": "Gyakutenno Megami!"
+    },
+    "V0302_13_00_27_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7247
+      ],
+      "duelist": [],
+      "text": "Drago da Richiamo!"
+    },
+    "V0302_13_00_28_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13924
+      ],
+      "duelist": [],
+      "text": "Spicca il volo!\nTitano Drago del Tuono!"
+    },
+    "V0302_13_00_29_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13923
+      ],
+      "duelist": [],
+      "text": "Ecco Colosso Drago del Tuono!"
+    },
+    "V0302_13_00_30_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        4619
+      ],
+      "duelist": [],
+      "text": "Rivelati!\nDrago di Tuono Bifronte!"
+    },
+    "V0302_13_00_31_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        15011
+      ],
+      "duelist": [],
+      "text": "Andiamo!\nSignoredrago del Tuono!"
+    },
+    "V0302_13_00_32_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13909
+      ],
+      "duelist": [],
+      "text": "Duodrago del Tuono!\nVai!"
+    },
+    "V0302_13_00_33_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        13907
+      ],
+      "duelist": [],
+      "text": "Falcodrago del Tuono!"
+    },
+    "V0302_13_00_34_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        13908
+      ],
+      "duelist": [],
+      "text": "Ruggitodrago del Tuono!"
+    },
+    "V0302_13_00_35_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        13906
+      ],
+      "duelist": [],
+      "text": "Oscurodrago del Tuono!"
+    },
+    "V0302_13_00_36_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4431
+      ],
+      "duelist": [],
+      "text": "Drago del Tuono!"
+    },
+    "V0302_13_00_37_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13905
+      ],
+      "duelist": [],
+      "text": "Matricedrago del Tuono!"
+    },
+    "V0302_13_00_38_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        14195
+      ],
+      "duelist": [],
+      "text": "Vieni a me!\nDrago del Tuono Tuonotempestamech!"
+    },
+    "V0302_19_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16809
+      ],
+      "duelist": [],
+      "text": "Drago Jet Occhi Blu!\nAttacca!"
+    },
+    "V0302_19_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12253
+      ],
+      "duelist": [],
+      "text": "Attacca, Drago Bianco Alternativo Occhi Blu!"
+    },
+    "V0302_19_00_22_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fulmine Blu!"
+    },
+    "V0302_19_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21432
+      ],
+      "duelist": [],
+      "text": "Kaibaman la Leggenda!\nAll'assalto!"
+    },
+    "V0302_19_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16810
+      ],
+      "duelist": [],
+      "text": "Dittatore di D.!\nAttacca!"
+    },
+    "V0302_19_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4096
+      ],
+      "duelist": [],
+      "text": "Gyakutenno Megami!\nAttacca!"
+    },
+    "V0302_19_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7247
+      ],
+      "duelist": [],
+      "text": "Drago da Richiamo! Attacca!"
+    },
+    "V0302_19_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13924
+      ],
+      "duelist": [],
+      "text": "Attacca, Titano Drago del Tuono!"
+    },
+    "V0302_19_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13923
+      ],
+      "duelist": [],
+      "text": "Colosso Drago del Tuono!\nAttacca!"
+    },
+    "V0302_19_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4619
+      ],
+      "duelist": [],
+      "text": "Drago di Tuono Bifronte!\nAttacca!"
+    },
+    "V0302_19_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15011
+      ],
+      "duelist": [],
+      "text": "Signoredrago del Tuono!\nAttacca!"
+    },
+    "V0302_19_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13909
+      ],
+      "duelist": [],
+      "text": "Attacca, Duodrago del Tuono!"
+    },
+    "V0302_19_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13907
+      ],
+      "duelist": [],
+      "text": "Attacca, Falcodrago del Tuono!"
+    },
+    "V0302_19_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13908
+      ],
+      "duelist": [],
+      "text": "Ruggitodrago del Tuono attacca!"
+    },
+    "V0302_19_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13906
+      ],
+      "duelist": [],
+      "text": "Oscurodrago del Tuono!\nAttacca!"
+    },
+    "V0302_19_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4431
+      ],
+      "duelist": [],
+      "text": "Attacca, Drago del Tuono!"
+    },
+    "V0302_19_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13905
+      ],
+      "duelist": [],
+      "text": "Matricedrago del Tuono!\nAttacca!"
+    },
+    "V0302_19_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14195
+      ],
+      "duelist": [],
+      "text": "Drago del Tuono Tuonotempestamech!\nAttacca!"
+    },
+    "V0302_48_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Cominciamo!"
+    },
+    "V0302_48_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Preparati per l'azione!"
+    },
+    "V0302_51_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mokuba Kaiba!"
+    },
+    "V0302_51_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Via col Rush!"
+    },
+    "V0302_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ci siamo!"
+    },
+    "V0302_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Rush Duel Turbo!"
     }
   }
 }

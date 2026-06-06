@@ -648,6 +648,22 @@
       "duelist": [],
       "text": "¡Fusión de Contacto!"
     },
+    "V0717_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Ritual!"
+    },
+    "V0717_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Ritual!"
+    },
     "V0717_14_00_00_0": {
       "face": 1,
       "frame": 0,
@@ -1492,7 +1508,7 @@
         20860
       ],
       "duelist": [],
-      "text": "¡Activo mi Carta Mágica!\n¡!"
+      "text": "¡Activo mi Carta Mágica!\n¡Estrella de Acto Imaginario!"
     },
     "V0717_08_00_10_0": {
       "face": 3,
@@ -1502,7 +1518,7 @@
         20861
       ],
       "duelist": [],
-      "text": "¡Activo mi Carta de Trampa!\n¡!"
+      "text": "¡Activo mi Carta de Trampa!\n¡Sobrecarga de Acto Imaginario!"
     },
     "V0717_09_00_00_0": {
       "face": 3,
@@ -1636,7 +1652,7 @@
         20852
       ],
       "duelist": [],
-      "text": "¡Activo el primer efecto de mi !"
+      "text": "¡Activo el primer efecto de mi Metarión Meduestrella!"
     },
     "V0717_09_00_11_0": {
       "face": 3,
@@ -1646,7 +1662,7 @@
         20852
       ],
       "duelist": [],
-      "text": "¡Activo el segundo efecto de mi !"
+      "text": "¡Activo el segundo efecto de mi Metarión Meduestrella!"
     },
     "V0717_09_00_12_0": {
       "face": 3,
@@ -1676,7 +1692,7 @@
         20850
       ],
       "duelist": [],
-      "text": "¡Activo el primer efecto de mi !"
+      "text": "¡Activo el primer efecto de mi Supermetarión Ashurastrella!"
     },
     "V0717_09_00_15_0": {
       "face": 3,
@@ -1686,7 +1702,7 @@
         20850
       ],
       "duelist": [],
-      "text": "¡Activo el segundo efecto de mi !"
+      "text": "¡Activo el segundo efecto de mi Supermetarión Ashurastrella!"
     },
     "V0717_09_00_16_0": {
       "face": 3,
@@ -1696,7 +1712,7 @@
         20851
       ],
       "duelist": [],
-      "text": "¡Activo el primer efecto de mi !"
+      "text": "¡Activo el primer efecto de mi Supermetarión Vritrastrella!"
     },
     "V0717_09_00_17_0": {
       "face": 3,
@@ -1706,7 +1722,7 @@
         20851
       ],
       "duelist": [],
-      "text": "¡Activo el segundo efecto de mi !"
+      "text": "¡Activo el segundo efecto de mi Supermetarión Vritrastrella!"
     },
     "V0717_09_00_18_0": {
       "face": 3,
@@ -1736,7 +1752,7 @@
         20858
       ],
       "duelist": [],
-      "text": "¡Activo el efecto de la carta !"
+      "text": "¡Activo el efecto de la carta Actor Principal Imaginario!"
     },
     "V0717_09_00_21_0": {
       "face": 3,
@@ -1756,7 +1772,7 @@
         20856
       ],
       "duelist": [],
-      "text": "¡Activo el efecto de la carta !"
+      "text": "¡Activo el efecto de la carta Lanzadora Malvada!"
     },
     "V0717_09_00_23_0": {
       "face": 3,
@@ -1876,7 +1892,7 @@
         20852
       ],
       "duelist": [],
-      "text": "¡Mi , de Tipo Ciborg!"
+      "text": "¡Mi Metarión Meduestrella, de Tipo Ciborg!"
     },
     "V0717_13_00_06_0": {
       "face": 3,
@@ -1915,7 +1931,7 @@
         20850
       ],
       "duelist": [],
-      "text": "¡Mi , de Tipo Ciborg!"
+      "text": "¡Mi Supermetarión Ashurastrella, de Tipo Ciborg!"
     },
     "V0717_13_00_08_0": {
       "face": 3,
@@ -1925,7 +1941,7 @@
         20851
       ],
       "duelist": [],
-      "text": "¡Mi , de Tipo Ciborg!"
+      "text": "¡Mi Supermetarión Vritrastrella, de Tipo Ciborg!"
     },
     "V0717_13_00_09_0": {
       "face": 3,
@@ -2043,7 +2059,7 @@
         20858
       ],
       "duelist": [],
-      "text": "¡!"
+      "text": "¡Actor Principal Imaginario!"
     },
     "V0717_13_00_20_0": {
       "face": 3,
@@ -2063,7 +2079,7 @@
         20856
       ],
       "duelist": [],
-      "text": "¡!"
+      "text": "¡Lanzadora Malvada!"
     },
     "V0717_13_00_22_0": {
       "face": 3,
@@ -2167,7 +2183,7 @@
         20852
       ],
       "duelist": [],
-      "text": "¡Ataca la carta !"
+      "text": "¡Ataca la carta Metarión Meduestrella!"
     },
     "V0717_19_00_06_0": {
       "face": 3,
@@ -2187,7 +2203,7 @@
         20850
       ],
       "duelist": [],
-      "text": "¡!\n¡Al ataque!"
+      "text": "¡Supermetarión Ashurastrella!\n¡Al ataque!"
     },
     "V0717_19_00_08_0": {
       "face": 3,
@@ -2197,7 +2213,7 @@
         20851
       ],
       "duelist": [],
-      "text": "¡!\n¡Al ataque!"
+      "text": "¡Supermetarión Vritrastrella!\n¡Al ataque!"
     },
     "V0717_19_00_09_0": {
       "face": 3,
@@ -2305,7 +2321,7 @@
         20858
       ],
       "duelist": [],
-      "text": "¡!\n¡Al ataque!"
+      "text": "¡Actor Principal Imaginario!\n¡Al ataque!"
     },
     "V0717_19_00_19_0": {
       "face": 3,
@@ -2325,7 +2341,7 @@
         20856
       ],
       "duelist": [],
-      "text": "¡Ataca, !"
+      "text": "¡Ataca, Lanzadora Malvada!"
     },
     "V0717_19_00_21_0": {
       "face": 3,
@@ -2458,6 +2474,22 @@
       "card": [],
       "duelist": [],
       "text": "¡Aaaaaargh!"
+    },
+    "V0717_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Allá voy!"
+    },
+    "V0717_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Rush Duel Turbo!"
     }
   }
 }

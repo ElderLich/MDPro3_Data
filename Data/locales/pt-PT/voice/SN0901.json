@@ -86,7 +86,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        906
       ],
       "text": "Olá, Immi Imimi!"
     },
@@ -96,7 +96,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        869
       ],
       "text": "Você é praticante do lendário Estilo do Vira-lata Cruel!"
     },
@@ -660,6 +660,22 @@
       "duelist": [],
       "text": "Fusão de Contato!"
     },
+    "V0901_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação-Ritual de um monstro!"
+    },
+    "V0901_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Ritual!"
+    },
     "V0901_14_00_00_0": {
       "face": 1,
       "frame": 0,
@@ -1099,7 +1115,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        869
       ],
       "text": "O Estilo do Vira-lata Cruel é uma técnica formidável."
     },
@@ -3667,6 +3683,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaaahhhh!"
+    },
+    "V0901_49_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Vamos começar!"
+    },
+    "V0901_49_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
     }
   }
 }

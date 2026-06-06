@@ -40,7 +40,11 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219,
+        220,
+        221,
+        222
       ],
       "text": "Ti porterò in cella per l'interrogatorio!"
     },
@@ -1813,7 +1817,10 @@
         203,
         204,
         206,
-        209
+        209,
+        219,
+        220,
+        221
       ],
       "text": "I cittadini non dovrebbero fare affidamento su voi teppisti."
     },
@@ -1919,7 +1926,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei... Il giorno in cui ti ho incontrato, la mia vita è cambiata."
     },
@@ -1929,7 +1937,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Aaah! Noooo! Dovrei essere più veloce del Signore della Velocità!"
     },
@@ -1941,7 +1950,8 @@
       "duelist": [
         203,
         204,
-        209
+        209,
+        221
       ],
       "text": "Uff. I ragazzini crescono così in fretta oggigiorno..."
     },

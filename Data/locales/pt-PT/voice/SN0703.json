@@ -1496,7 +1496,7 @@
         16698
       ],
       "duelist": [],
-      "text": "Eu ativo o Card de Magia, !"
+      "text": "Eu ativo o Card de Magia, Tormenta do Governante Sombrio!"
     },
     "V0703_08_00_12_0": {
       "face": 3,
@@ -1576,7 +1576,7 @@
         16782
       ],
       "duelist": [],
-      "text": "Ativo o Card de Armadilha !"
+      "text": "Ativo o Card de Armadilha Talho de Espada do Governante Sombrio!"
     },
     "V0703_09_00_00_0": {
       "face": 3,
@@ -2933,6 +2933,22 @@
       "card": [],
       "duelist": [],
       "text": "Uwaaaaaahhhhh!"
+    },
+    "V0703_49_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aqui vou eu!"
+    },
+    "V0703_49_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
     }
   }
 }

@@ -1603,7 +1603,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "¡Activo la Carta Mágica !"
+      "text": "¡Activo la Carta Mágica Último Día de Bruja Hermosa!"
     },
     "V0705_08_00_06_0": {
       "face": 3,
@@ -1707,7 +1707,7 @@
         16360
       ],
       "duelist": [],
-      "text": "¡Tu diversión no puede durar para siempre! \n¡Juego la carta !"
+      "text": "¡Tu diversión no puede durar para siempre! \n¡Juego la carta Se acabaron las burbujas!"
     },
     "V0705_08_00_14_0": {
       "face": 1,
@@ -2432,6 +2432,22 @@
       "card": [],
       "duelist": [],
       "text": "¡Aaaaaah!\n¡Esto pinta mal!"
+    },
+    "V0705_49_00_00_0": {
+      "face": 11,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Em... ¿Qué es?"
+    },
+    "V0705_49_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡¿Rush Duel Turbo?!"
     }
   }
 }

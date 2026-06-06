@@ -62,7 +62,9 @@
       "card": [],
       "duelist": [
         404,
-        431
+        431,
+        416,
+        447
       ],
       "text": "Shark sarà anche un osso duro, ma io non sono da meno!"
     },
@@ -90,6 +92,17 @@
         412
       ],
       "text": "Ehm... Ehi, Rio... Ti andrebbe di... duellare?"
+    },
+    "V0405_01_00_10_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        417,
+        448
+      ],
+      "text": "Non mi importa l'aspetto che hai: per me sei ancora Rio!"
     },
     "V0405_02_00_00_0": {
       "face": 12,
@@ -2302,7 +2315,11 @@
       "frame": 0,
       "cutin": 0,
       "card": [],
-      "duelist": [],
+      "duelist": [
+        0,
+        416,
+        447
+      ],
       "text": "Evvai! Ho vinto!"
     },
     "V0405_28_00_04_0": {
@@ -2346,6 +2363,17 @@
       ],
       "text": "Rio, spero che presto duellerai ancora contro di me!"
     },
+    "V0405_28_00_08_0": {
+      "face": 13,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        417,
+        448
+      ],
+      "text": "Per me sei ancora Rio! Ora e sempre!"
+    },
     "V0405_29_00_00_0": {
       "face": 11,
       "frame": 0,
@@ -2367,7 +2395,11 @@
       "frame": 0,
       "cutin": 0,
       "card": [],
-      "duelist": [],
+      "duelist": [
+        0,
+        416,
+        447
+      ],
       "text": "La prossima volta non perderò!"
     },
     "V0405_29_00_03_0": {
@@ -2436,6 +2468,17 @@
         412
       ],
       "text": "Rio fa paura quando si impegna, ma è uno spettacolo."
+    },
+    "V0405_29_00_09_0": {
+      "face": 15,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        417,
+        448
+      ],
+      "text": "Avrei dovuto salvare Rio, ma non ce l'ho fatta..."
     },
     "V0405_31_00_00_0": {
       "face": 14,
@@ -2697,7 +2740,9 @@
       "card": [],
       "duelist": [
         412,
-        417
+        417,
+        417,
+        448
       ],
       "text": "Vai così, Rio!"
     },
@@ -2708,7 +2753,9 @@
       "card": [],
       "duelist": [
         412,
-        417
+        417,
+        417,
+        448
       ],
       "text": "Rio, fai attenzione!"
     },
@@ -2719,7 +2766,9 @@
       "card": [],
       "duelist": [
         412,
-        417
+        417,
+        417,
+        448
       ],
       "text": "Mi dispiace, Rio..."
     },

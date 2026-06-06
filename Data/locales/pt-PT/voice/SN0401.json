@@ -27,7 +27,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Hora de cumprimentar o céu, Astral!"
     },
@@ -80,7 +84,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Estou sentindo a vibração!"
     },
@@ -93,7 +101,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Disco de Duelo, vamos!\nVisor de Duelo, vamos nessa!"
     },
@@ -888,7 +900,13 @@
       "frame": 0,
       "cutin": 0,
       "card": [],
-      "duelist": [],
+      "duelist": [
+        0,
+        416,
+        417,
+        447,
+        448
+      ],
       "text": "Você pode conhecer alguém de verdade em um Duelo."
     },
     "V0401_28_00_01_1": {
@@ -921,7 +939,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Nunca desistirei!\nEnquanto eu sentir a vibração!"
     },
@@ -1048,7 +1070,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Eu preciso melhorar se quero sentir a vibração como meu pai."
     },

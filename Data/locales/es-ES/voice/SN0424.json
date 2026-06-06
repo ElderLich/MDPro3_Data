@@ -26,7 +26,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        447,
+        417,
+        448
       ],
       "text": "Acepta este duelo y podré demostrar que soy mejor que tú."
     },
@@ -74,7 +78,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        447,
+        417,
+        448
       ],
       "text": "¡Mi Disco de Duelo está listo!\n¡Prepárate para el enfrentamiento de tu vida!"
     },
@@ -913,7 +921,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        447,
+        417,
+        448
       ],
       "text": "Je.\nComo si esto pudiese acabar de otra forma."
     },
@@ -1017,7 +1029,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        447,
+        417,
+        448
       ],
       "text": "Tú..."
     },
@@ -1061,7 +1077,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        447,
+        417,
+        448
       ],
       "text": "Imposible...\n¿Cómo has podido superar el efecto de mi Taquiónico?"
     },
@@ -1435,7 +1455,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        416
+        416,
+        447
       ],
       "text": "¡Nash!\n¡Ocúpate de esto!"
     },

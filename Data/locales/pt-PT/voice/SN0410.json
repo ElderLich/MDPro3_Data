@@ -69,6 +69,32 @@
       ],
       "text": "Oh, você tem um Número.\nIsso vai ser divertido."
     },
+    "V0410_01_00_06_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        416,
+        447,
+        417,
+        448
+      ],
+      "text": "Você não é bariano.\nVocê é um de nós!"
+    },
+    "V0410_01_00_07_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        416,
+        447,
+        417,
+        448
+      ],
+      "text": "Eu sei que você ainda está aí, Tubarão.\nEu vou salvar você!"
+    },
     "V0410_02_00_00_0": {
       "face": 11,
       "frame": 1,
@@ -747,9 +773,22 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        412
+        412,
+        417,
+        448
       ],
       "text": "Acredite em mim quando eu digo que eu não queria isso."
+    },
+    "V0410_28_00_04_0": {
+      "face": 13,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        416,
+        447
+      ],
+      "text": "Volte para nós, Tubarão!"
     },
     "V0410_29_00_00_0": {
       "face": 19,
@@ -812,6 +851,30 @@
         412
       ],
       "text": "Se não for hoje, talvez você possa me perdoar um dia."
+    },
+    "V0410_29_00_06_0": {
+      "face": 15,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        416,
+        447,
+        417,
+        448
+      ],
+      "text": "Acho que é impossível mudar o destino."
+    },
+    "V0410_29_00_07_0": {
+      "face": 15,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        416,
+        447
+      ],
+      "text": "Estou feliz por você ter sido o oponente do meu Duelo final."
     },
     "V0410_31_00_00_0": {
       "face": 14,

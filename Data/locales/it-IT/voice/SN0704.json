@@ -1728,7 +1728,7 @@
         16715
       ],
       "duelist": [],
-      "text": "Attivo la Carta Trappola !"
+      "text": "Attivo la Carta Trappola Segnalino Psichico!"
     },
     "V0704_09_00_00_0": {
       "face": 3,
@@ -1954,7 +1954,7 @@
         17680
       ],
       "duelist": [],
-      "text": " attiva il suo effetto!"
+      "text": "CAN:D ALL attiva il suo effetto!"
     },
     "V0704_09_00_17_0": {
       "face": 3,
@@ -2012,7 +2012,7 @@
         17891
       ],
       "duelist": [],
-      "text": " attiva il suo effetto!"
+      "text": "Amaorsa Lilith attiva il suo effetto!"
     },
     "V0704_09_00_22_0": {
       "face": 3,
@@ -2356,7 +2356,7 @@
         17680
       ],
       "duelist": [],
-      "text": "!"
+      "text": "CAN:D ALL!"
     },
     "V0704_37_00_06_0": {
       "face": 3,
@@ -2426,7 +2426,7 @@
         17891
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Amaorsa Lilith!"
     },
     "V0704_13_00_19_0": {
       "face": 3,
@@ -2870,7 +2870,7 @@
         17680
       ],
       "duelist": [],
-      "text": "! Attacca!"
+      "text": "CAN:D ALL! Attacca!"
     },
     "V0704_19_00_14_0": {
       "face": 3,
@@ -2938,7 +2938,7 @@
         17891
       ],
       "duelist": [],
-      "text": "Attacca, !"
+      "text": "Attacca, Amaorsa Lilith!"
     },
     "V0704_19_00_20_0": {
       "face": 3,
@@ -3299,6 +3299,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaah!"
+    },
+    "V0704_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Eccomi che arrivo!"
+    },
+    "V0704_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Rush Duel Turbo!"
     }
   }
 }

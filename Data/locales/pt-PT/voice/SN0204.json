@@ -56,7 +56,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei, quero saber tudo."
     },
@@ -76,7 +77,9 @@
       "duelist": [
         202,
         203,
-        209
+        209,
+        220,
+        221
       ],
       "text": "Quero conquistar a sua confiança."
     },
@@ -2273,7 +2276,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Você me ensinou que meu poder é um dom e não uma maldição."
     },
@@ -2285,7 +2289,9 @@
       "duelist": [
         202,
         203,
-        209
+        209,
+        220,
+        221
       ],
       "text": "Vou cumprir minha parte: nunca vou desapontar a equipe!"
     },
@@ -2364,7 +2370,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Essa marca não faz de mim uma bruxa, ela me faz especial."
     },
@@ -2384,7 +2391,9 @@
       "duelist": [
         202,
         203,
-        209
+        209,
+        220,
+        221
       ],
       "text": "Posso ter perdido, mas voltarei mais forte!"
     },
@@ -2631,7 +2640,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei! Com você do meu lado, não tenho nada a temer!"
     },
@@ -2641,7 +2651,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei! Preciso que você cuide disso!"
     },
@@ -2651,7 +2662,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Me desculpe, Yusei.\nNão pude fazer nada."
     },

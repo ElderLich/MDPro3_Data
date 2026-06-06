@@ -72,7 +72,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        869
       ],
       "text": "Si c'est le seul moyen pour que tu me pardonnes, j'accepte."
     },
@@ -419,6 +419,14 @@
       "card": [],
       "duelist": [],
       "text": "J'active un Effet Pendule !"
+    },
+    "V0905_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Magie Rituelle !"
     },
     "V0905_10_00_00_0": {
       "face": 1,
@@ -922,7 +930,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        869
       ],
       "text": "J'ai rejoint Le Secret pour pouvoir te retrouver.  "
     },
@@ -1054,7 +1062,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        869
       ],
       "text": "Nous sommes toujours amis, Simtierre."
     },
@@ -1640,7 +1648,7 @@
         18614
       ],
       "duelist": [],
-      "text": "La Carte  active son effet !"
+      "text": "La Carte Salamandre Alchimique active son effet !"
     },
     "V0905_09_00_07_1": {
       "face": 3,
@@ -2106,7 +2114,7 @@
         18614
       ],
       "duelist": [],
-      "text": "Apparais,  !"
+      "text": "Apparais, Salamandre Alchimique !"
     },
     "V0905_37_00_04_0": {
       "face": 3,
@@ -2294,7 +2302,7 @@
         17958
       ],
       "duelist": [],
-      "text": " !"
+      "text": "Statue-Barrière des Enfers !"
     },
     "V0905_13_00_19_0": {
       "face": 3,
@@ -2756,7 +2764,7 @@
         18614
       ],
       "duelist": [],
-      "text": " !\nÀ l'attaque !"
+      "text": "Salamandre Alchimique !\nÀ l'attaque !"
     },
     "V0905_19_00_07_1": {
       "face": 3,
@@ -2934,7 +2942,7 @@
         17958
       ],
       "duelist": [],
-      "text": " attaque !"
+      "text": "Statue-Barrière des Enfers attaque !"
     },
     "V0905_19_00_21_0": {
       "face": 3,
@@ -3339,6 +3347,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaaaaaaaaargh !"
+    },
+    "V0905_49_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je me lance !"
+    },
+    "V0905_49_01_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel !"
     }
   }
 }

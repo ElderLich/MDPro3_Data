@@ -104,7 +104,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        906
       ],
       "text": "Ich werde dich an deine Wurzeln in dieser Stadt erinnern!"
     },
@@ -666,6 +666,22 @@
       "duelist": [],
       "text": "Kontaktfusion!"
     },
+    "V0903_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Ritualbeschwörung!"
+    },
+    "V0903_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ritualbeschwörung!"
+    },
     "V0903_14_00_00_0": {
       "face": 1,
       "frame": 0,
@@ -966,7 +982,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        906
       ],
       "text": "Weißt du noch, wie wir als Kinder deinen Text geübt haben?"
     },
@@ -976,7 +992,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        906
       ],
       "text": "Ich kenne den Dialog noch!\nAus deiner ersten großen Rolle!"
     },
@@ -1064,7 +1080,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        906
       ],
       "text": "Du bist die beste Schauspielerin im ganzen Universum, Immi!"
     },
@@ -1380,7 +1396,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        906
       ],
       "text": "Das hast du allein geschafft, Immi!"
     },
@@ -1400,7 +1416,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Der Ausrüstungszauber Qwerty-Schlüsselklinge!"
+      "text": "Der Ausrüstungszauber Qwerty-Tastaturklinge!"
     },
     "V0903_08_00_01_0": {
       "face": 3,
@@ -1410,7 +1426,7 @@
         18625
       ],
       "duelist": [],
-      "text": "Der Ausrüstungszauber Hacken-Klaue!"
+      "text": "Der Ausrüstungszauber Knackkralle!"
     },
     "V0903_08_00_02_0": {
       "face": 3,
@@ -1576,7 +1592,7 @@
         18639
       ],
       "duelist": [],
-      "text": "Ich aktiviere meine Fallenkarte!\n!"
+      "text": "Ich aktiviere meine Fallenkarte!\nGroße Verbindtech-Mauer!"
     },
     "V0903_08_00_17_0": {
       "face": 3,
@@ -1596,7 +1612,7 @@
         17906
       ],
       "duelist": [],
-      "text": "Ich aktiviere meine Fallenkarte!\n!"
+      "text": "Ich aktiviere meine Fallenkarte!\nStromschlag!"
     },
     "V0903_09_00_00_0": {
       "face": 3,
@@ -1754,7 +1770,7 @@
         18965
       ],
       "duelist": [],
-      "text": "Ich aktiviere den Effekt von !"
+      "text": "Ich aktiviere den Effekt von Tamabot-Sprengdrache!"
     },
     "V0903_09_00_12_0": {
       "face": 3,
@@ -1830,7 +1846,7 @@
         18373
       ],
       "duelist": [],
-      "text": "Ich aktiviere den Effekt von !"
+      "text": "Ich aktiviere den Effekt von Verbindtech-Stegosilos!"
     },
     "V0903_09_00_16_0": {
       "face": 3,
@@ -1930,7 +1946,7 @@
         18579
       ],
       "duelist": [],
-      "text": " aktiviert den Effekt!"
+      "text": "Tamainabot aktiviert den Effekt!"
     },
     "V0903_37_00_00_0": {
       "face": 3,
@@ -2180,7 +2196,7 @@
         18965
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Tamabot-Sprengdrache!"
     },
     "V0903_37_00_08_0": {
       "face": 3,
@@ -2260,7 +2276,7 @@
         18373
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Verbindtech-Stegosilos!"
     },
     "V0903_13_00_19_0": {
       "face": 3,
@@ -2456,7 +2472,7 @@
         18579
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Tamainabot!"
     },
     "V0903_19_00_00_0": {
       "face": 3,
@@ -2654,7 +2670,7 @@
         18965
       ],
       "duelist": [],
-      "text": " greift an!"
+      "text": "Tamabot-Sprengdrache greift an!"
     },
     "V0903_19_00_15_1": {
       "face": 3,
@@ -2726,7 +2742,7 @@
         18373
       ],
       "duelist": [],
-      "text": " greift an!"
+      "text": "Verbindtech-Stegosilos greift an!"
     },
     "V0903_19_00_20_0": {
       "face": 3,
@@ -2886,7 +2902,7 @@
         18579
       ],
       "duelist": [],
-      "text": "!\nAngriff!"
+      "text": "Tamainabot!\nAngriff!"
     },
     "V0903_02_00_00_0": {
       "face": 1,
@@ -2999,6 +3015,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaaahhhhh!"
+    },
+    "V0903_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Los geht’s!"
+    },
+    "V0903_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo-Rush-Duel!"
     }
   }
 }

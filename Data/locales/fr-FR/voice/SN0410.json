@@ -69,6 +69,32 @@
       ],
       "text": "Ooh, tu as un Numéro.\nOn va s'amuser."
     },
+    "V0410_01_00_06_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        416,
+        447,
+        417,
+        448
+      ],
+      "text": "Tu n'es pas un Barian.\nTu es l'un des nôtres !"
+    },
+    "V0410_01_00_07_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        416,
+        447,
+        417,
+        448
+      ],
+      "text": "Je sais que tu es toujours là, Shark.\nJe vais te sauver !"
+    },
     "V0410_02_00_00_0": {
       "face": 11,
       "frame": 1,
@@ -747,9 +773,22 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        412
+        412,
+        417,
+        448
       ],
       "text": "Crois-moi, ce n'est pas ce que je voulais."
+    },
+    "V0410_28_00_04_0": {
+      "face": 13,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        416,
+        447
+      ],
+      "text": "Reviens, Shark !"
     },
     "V0410_29_00_00_0": {
       "face": 19,
@@ -812,6 +851,30 @@
         412
       ],
       "text": "J'espère que tu finiras par me pardonner un jour."
+    },
+    "V0410_29_00_06_0": {
+      "face": 15,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        416,
+        447,
+        417,
+        448
+      ],
+      "text": "Je suppose qu'il est impossible de changer le destin."
+    },
+    "V0410_29_00_07_0": {
+      "face": 15,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        416,
+        447
+      ],
+      "text": "C'est un honneur de t'avoir affronté pour mon dernier Duel."
     },
     "V0410_31_00_00_0": {
       "face": 14,

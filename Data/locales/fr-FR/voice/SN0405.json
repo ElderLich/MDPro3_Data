@@ -62,7 +62,9 @@
       "card": [],
       "duelist": [
         404,
-        431
+        431,
+        416,
+        447
       ],
       "text": "Shark a beau être coriace, mais je le suis aussi !"
     },
@@ -90,6 +92,17 @@
         412
       ],
       "text": "Euh, Rio...\nTu veux faire un Duel ?"
+    },
+    "V0405_01_00_10_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        417,
+        448
+      ],
+      "text": "Peu importe ton apparence, tu resteras Rio pour moi !"
     },
     "V0405_02_00_00_0": {
       "face": 12,
@@ -2302,7 +2315,11 @@
       "frame": 0,
       "cutin": 0,
       "card": [],
-      "duelist": [],
+      "duelist": [
+        0,
+        416,
+        447
+      ],
       "text": "Ouais !\nJ'ai gagné !"
     },
     "V0405_28_00_04_0": {
@@ -2346,6 +2363,17 @@
       ],
       "text": "Rio, j'espère qu'on s'affrontera à nouveau un jour !"
     },
+    "V0405_28_00_08_0": {
+      "face": 13,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        417,
+        448
+      ],
+      "text": "Tu restes Rio pour moi !\nÀ tout jamais !"
+    },
     "V0405_29_00_00_0": {
       "face": 11,
       "frame": 0,
@@ -2367,7 +2395,11 @@
       "frame": 0,
       "cutin": 0,
       "card": [],
-      "duelist": [],
+      "duelist": [
+        0,
+        416,
+        447
+      ],
       "text": "Je gagnerai la prochaine fois !"
     },
     "V0405_29_00_03_0": {
@@ -2436,6 +2468,17 @@
         412
       ],
       "text": "Rio me fait peur quand elle s'emporte, mais c'est cool."
+    },
+    "V0405_29_00_09_0": {
+      "face": 15,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        417,
+        448
+      ],
+      "text": "Je devais sauver Rio...\nMais je n'ai pas été à la hauteur..."
     },
     "V0405_31_00_00_0": {
       "face": 14,
@@ -2697,7 +2740,9 @@
       "card": [],
       "duelist": [
         412,
-        417
+        417,
+        417,
+        448
       ],
       "text": "Tu peux le faire, Rio !"
     },
@@ -2708,7 +2753,9 @@
       "card": [],
       "duelist": [
         412,
-        417
+        417,
+        417,
+        448
       ],
       "text": "Rio ! Sois prudente !"
     },
@@ -2719,7 +2766,9 @@
       "card": [],
       "duelist": [
         412,
-        417
+        417,
+        417,
+        448
       ],
       "text": "Pardonne-moi, Rio..."
     },

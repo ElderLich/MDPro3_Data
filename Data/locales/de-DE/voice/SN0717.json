@@ -648,6 +648,22 @@
       "duelist": [],
       "text": "Kontaktfusion!"
     },
+    "V0717_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Ritualbeschwörung!"
+    },
+    "V0717_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ritualbeschwörung!"
+    },
     "V0717_14_00_00_0": {
       "face": 1,
       "frame": 0,
@@ -1492,7 +1508,7 @@
         20860
       ],
       "duelist": [],
-      "text": "Ich aktiviere meine Zauberkarte!\n!"
+      "text": "Ich aktiviere meine Zauberkarte!\nImaginäre Schauspieltalente!"
     },
     "V0717_08_00_10_0": {
       "face": 3,
@@ -1502,7 +1518,7 @@
         20861
       ],
       "duelist": [],
-      "text": "Ich aktiviere meine Falle!\n!"
+      "text": "Ich aktiviere meine Falle!\nImaginäre Schauspielwoge!"
     },
     "V0717_09_00_00_0": {
       "face": 3,
@@ -1636,7 +1652,7 @@
         20852
       ],
       "duelist": [],
-      "text": "Ich aktiviere den ersten Effekt von !"
+      "text": "Ich aktiviere den ersten Effekt von Metarion Medustar!"
     },
     "V0717_09_00_11_0": {
       "face": 3,
@@ -1646,7 +1662,7 @@
         20852
       ],
       "duelist": [],
-      "text": "Ich aktiviere den zweiten Effekt von !"
+      "text": "Ich aktiviere den zweiten Effekt von Metarion Medustar!"
     },
     "V0717_09_00_12_0": {
       "face": 3,
@@ -1676,7 +1692,7 @@
         20850
       ],
       "duelist": [],
-      "text": "Ich aktiviere den ersten Effekt von !"
+      "text": "Ich aktiviere den ersten Effekt von Vollmetarion Ashurastar!"
     },
     "V0717_09_00_15_0": {
       "face": 3,
@@ -1686,7 +1702,7 @@
         20850
       ],
       "duelist": [],
-      "text": "Ich aktiviere den zweiten Effekt von !"
+      "text": "Ich aktiviere den zweiten Effekt von Vollmetarion Ashurastar!"
     },
     "V0717_09_00_16_0": {
       "face": 3,
@@ -1696,7 +1712,7 @@
         20851
       ],
       "duelist": [],
-      "text": "Ich aktiviere den ersten Effekt von !"
+      "text": "Ich aktiviere den ersten Effekt von Vollmetarion Vritrastar!"
     },
     "V0717_09_00_17_0": {
       "face": 3,
@@ -1706,7 +1722,7 @@
         20851
       ],
       "duelist": [],
-      "text": "Ich aktiviere den zweiten Effekt von !"
+      "text": "Ich aktiviere den zweiten Effekt von Vollmetarion Vritrastar!"
     },
     "V0717_09_00_18_0": {
       "face": 3,
@@ -1736,7 +1752,7 @@
         20858
       ],
       "duelist": [],
-      "text": "Ich aktiviere den Effekt von !"
+      "text": "Ich aktiviere den Effekt von Imaginärer Schauspieler in der Hauptrolle!"
     },
     "V0717_09_00_21_0": {
       "face": 3,
@@ -1756,7 +1772,7 @@
         20856
       ],
       "duelist": [],
-      "text": "Ich aktiviere den Effekt von !"
+      "text": "Ich aktiviere den Effekt von Böse Werferin!"
     },
     "V0717_09_00_23_0": {
       "face": 3,
@@ -1876,7 +1892,7 @@
         20852
       ],
       "duelist": [],
-      "text": "Der Cyborg-Typ, !"
+      "text": "Der Cyborg-Typ, Metarion Medustar!"
     },
     "V0717_13_00_06_0": {
       "face": 3,
@@ -1915,7 +1931,7 @@
         20850
       ],
       "duelist": [],
-      "text": "Der Cyborg-Typ, !"
+      "text": "Der Cyborg-Typ, Vollmetarion Ashurastar!"
     },
     "V0717_13_00_08_0": {
       "face": 3,
@@ -1925,7 +1941,7 @@
         20851
       ],
       "duelist": [],
-      "text": "Der Cyborg-Typ, !"
+      "text": "Der Cyborg-Typ, Vollmetarion Vritrastar!"
     },
     "V0717_13_00_09_0": {
       "face": 3,
@@ -2043,7 +2059,7 @@
         20858
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Imaginärer Schauspieler in der Hauptrolle!"
     },
     "V0717_13_00_20_0": {
       "face": 3,
@@ -2063,7 +2079,7 @@
         20856
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Böse Werferin!"
     },
     "V0717_13_00_22_0": {
       "face": 3,
@@ -2167,7 +2183,7 @@
         20852
       ],
       "duelist": [],
-      "text": " greift an!"
+      "text": "Metarion Medustar greift an!"
     },
     "V0717_19_00_06_0": {
       "face": 3,
@@ -2187,7 +2203,7 @@
         20850
       ],
       "duelist": [],
-      "text": "!\nAngriff!"
+      "text": "Vollmetarion Ashurastar!\nAngriff!"
     },
     "V0717_19_00_08_0": {
       "face": 3,
@@ -2197,7 +2213,7 @@
         20851
       ],
       "duelist": [],
-      "text": "!\nAngriff!"
+      "text": "Vollmetarion Vritrastar!\nAngriff!"
     },
     "V0717_19_00_09_0": {
       "face": 3,
@@ -2305,7 +2321,7 @@
         20858
       ],
       "duelist": [],
-      "text": "!\nAngriff!"
+      "text": "Imaginärer Schauspieler in der Hauptrolle!\nAngriff!"
     },
     "V0717_19_00_19_0": {
       "face": 3,
@@ -2325,7 +2341,7 @@
         20856
       ],
       "duelist": [],
-      "text": "Greif an, !"
+      "text": "Greif an, Böse Werferin!"
     },
     "V0717_19_00_21_0": {
       "face": 3,
@@ -2458,6 +2474,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaaargh!"
+    },
+    "V0717_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Los geht’s!"
+    },
+    "V0717_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo-Rush-Duel!"
     }
   }
 }

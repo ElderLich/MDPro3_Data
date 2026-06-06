@@ -252,7 +252,9 @@
     "V0709_27_00_00": 1,
     "V0709_27_00_01": 1,
     "V0709_27_00_02": 1,
-    "V0709_23_00_00": 1
+    "V0709_23_00_00": 1,
+    "V0709_49_00_00": 1,
+    "V0709_49_01_00": 1
   },
   "labelver": 1,
   "BeforeDuel": {
@@ -4996,6 +4998,42 @@
         "groupingKeys": null,
         "homeTypes": null,
         "subCategoryIndex": 0,
+        "patternIndex": 0
+      }
+    }
+  },
+  "RidingRushDuelStart": {
+    "rawKvp": {
+      "V0709_49_00_00_0": {
+        "fullName": "V0709_49_00_00_0",
+        "shortName": "V0709_49_00_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 0
+      },
+      "V0709_49_01_00_0": {
+        "fullName": "V0709_49_01_00_0",
+        "shortName": "V0709_49_01_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 1,
         "patternIndex": 0
       }
     }

@@ -848,7 +848,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        854
+        854,
+        719
       ],
       "text": "Mesmo estando a anos-luz de distância, nosso vínculo durará para sempre."
     },
@@ -1311,6 +1312,22 @@
       "card": [],
       "duelist": [],
       "text": "Uoo, uaa, uee, ueee!"
+    },
+    "V0855_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Uee, uee, uoo!"
+    },
+    "V0855_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
     }
   }
 }

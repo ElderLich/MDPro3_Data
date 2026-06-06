@@ -50,7 +50,10 @@
       "duelist": [
         201,
         202,
-        203
+        203,
+        219,
+        220,
+        221
       ],
       "text": "Te hice cosas de las que me arrepiento y no puedo deshacer."
     },
@@ -1758,7 +1761,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Solo a ti se te podía ocurrir usar un Duelo para salvarme."
     },
@@ -1828,7 +1832,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Me alegro de que seas tú quien me ha derrotado, Yusei."
     },
@@ -1838,7 +1843,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "No pareces satisfecho con esta victoria, Jack."
     },
@@ -1848,7 +1854,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        203
+        203,
+        221
       ],
       "text": "Cuervo, me alegro que mi último combate haya sido contra ti."
     },

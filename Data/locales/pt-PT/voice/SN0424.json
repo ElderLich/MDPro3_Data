@@ -26,7 +26,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        447,
+        417,
+        448
       ],
       "text": "Aceite este Duelo para que eu possa provar que sou superior a você!"
     },
@@ -74,7 +78,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        447,
+        417,
+        448
       ],
       "text": "Meu Disco de Duelo está pronto!\nPrepare-se para a batalha da sua vida!"
     },
@@ -913,7 +921,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        447,
+        417,
+        448
       ],
       "text": "Hehe.\nComo se qualquer outro resultado fosse possível."
     },
@@ -1017,7 +1029,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        447,
+        417,
+        448
       ],
       "text": "Você..."
     },
@@ -1061,7 +1077,11 @@
         443,
         444,
         445,
-        446
+        446,
+        416,
+        447,
+        417,
+        448
       ],
       "text": "Impossível...\nComo alguém pode superar o efeito do Táquion?"
     },
@@ -1435,7 +1455,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        416
+        416,
+        447
       ],
       "text": "Nash!\nCuide disso!"
     },

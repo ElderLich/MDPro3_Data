@@ -72,7 +72,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        869
       ],
       "text": "Si esta es la única forma de conseguir tu perdón, acepto."
     },
@@ -419,6 +419,14 @@
       "card": [],
       "duelist": [],
       "text": "¡Activo un efecto de Péndulo!"
+    },
+    "V0905_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo una Carta Mágica de Ritual!"
     },
     "V0905_10_00_00_0": {
       "face": 1,
@@ -922,7 +930,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        869
       ],
       "text": "Me uní a La Discreción para poder encontrarte otra vez.  "
     },
@@ -1054,7 +1062,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        869
       ],
       "text": "Seguimos siendo amigos, Graves."
     },
@@ -1640,7 +1648,7 @@
         18614
       ],
       "duelist": [],
-      "text": "¡Mi  activa su efecto!"
+      "text": "¡Mi Salamandra Alquimicalizada activa su efecto!"
     },
     "V0905_09_00_07_1": {
       "face": 3,
@@ -2106,7 +2114,7 @@
         18614
       ],
       "duelist": [],
-      "text": "¡Nace, !"
+      "text": "¡Nace, Salamandra Alquimicalizada!"
     },
     "V0905_37_00_04_0": {
       "face": 3,
@@ -2294,7 +2302,7 @@
         17958
       ],
       "duelist": [],
-      "text": "¡!"
+      "text": "¡Estatua-Barrera del Infierno!"
     },
     "V0905_13_00_19_0": {
       "face": 3,
@@ -2756,7 +2764,7 @@
         18614
       ],
       "duelist": [],
-      "text": "¡!\n¡Ataca!"
+      "text": "¡Salamandra Alquimicalizada!\n¡Ataca!"
     },
     "V0905_19_00_07_1": {
       "face": 3,
@@ -2934,7 +2942,7 @@
         17958
       ],
       "duelist": [],
-      "text": "¡La  ataca!"
+      "text": "¡La Estatua-Barrera del Infierno ataca!"
     },
     "V0905_19_00_21_0": {
       "face": 3,
@@ -3339,6 +3347,22 @@
       "card": [],
       "duelist": [],
       "text": "¡Aaaaaaaaaagh!"
+    },
+    "V0905_49_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Allá voy!"
+    },
+    "V0905_49_01_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Rush Duel Turbo!"
     }
   }
 }

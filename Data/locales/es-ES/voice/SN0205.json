@@ -40,7 +40,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "¡Yusei!\n¡Ya verás que ahora soy mucho más fuerte!"
     },
@@ -50,7 +51,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "¡Jack! ¡Tu Deck de Poder no me intimida!"
     },
@@ -2242,7 +2244,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei, tú crees en ti mismo.\nAsí que yo también creo en mí."
     },
@@ -2252,7 +2255,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "¡Seré tan guay como tú, Jack!"
     },
@@ -2382,7 +2386,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Aún no soy el mejor, ¡pero mis amigos me ayudarán a mejorar!"
     },
@@ -2392,7 +2397,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "¡Jack, de verdad que eres increíble!"
     },
@@ -2731,7 +2737,10 @@
         202,
         203,
         204,
-        209
+        209,
+        219,
+        220,
+        221
       ],
       "text": "¡Te los he dejado a punto para que los destruyas!"
     },
@@ -2745,7 +2754,10 @@
         202,
         203,
         204,
-        209
+        209,
+        219,
+        220,
+        221
       ],
       "text": "Ayudaré tanto como pueda. ¡Sé que lo tienes todo controlado!"
     },
@@ -2759,7 +2771,10 @@
         202,
         203,
         204,
-        209
+        209,
+        219,
+        220,
+        221
       ],
       "text": "¡Aún no hemos perdido!\n¡No pierdas la esperanza!"
     },

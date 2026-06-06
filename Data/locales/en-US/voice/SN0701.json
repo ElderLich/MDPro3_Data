@@ -129,7 +129,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        854
+        854,
+        719
       ],
       "text": "Ready, Saburamen?\nLet's Rush Duel!"
     },
@@ -4140,6 +4141,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaaaahhhhhh!"
+    },
+    "V0701_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I'm ready for the rush!"
+    },
+    "V0701_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
     }
   }
 }

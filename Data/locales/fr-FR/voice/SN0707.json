@@ -1186,7 +1186,7 @@
         18286
       ],
       "duelist": [],
-      "text": "Voici ma Carte Magie !\nVérification de BŒU:F ! !!!"
+      "text": "Voici ma Carte Magie !\nVérification de BŒU:F ! !!!"
     },
     "V0707_08_00_12_0": {
       "face": 2,
@@ -1306,7 +1306,7 @@
         16715
       ],
       "duelist": [],
-      "text": "J'active ma Carte Piège !\n !"
+      "text": "J'active ma Carte Piège !\nCompteur Psychique !"
     },
     "V0707_09_00_00_0": {
       "face": 2,
@@ -1532,7 +1532,7 @@
         17680
       ],
       "duelist": [],
-      "text": " active son effet !"
+      "text": "TOTALEMENT CAN:D active son effet !"
     },
     "V0707_09_00_17_0": {
       "face": 2,
@@ -1590,7 +1590,7 @@
         17891
       ],
       "duelist": [],
-      "text": " active son effet !"
+      "text": "Amaours Lilith active son effet !"
     },
     "V0707_09_00_22_0": {
       "face": 2,
@@ -1924,7 +1924,7 @@
         17680
       ],
       "duelist": [],
-      "text": " !"
+      "text": "TOTALEMENT CAN:D !"
     },
     "V0707_37_00_06_0": {
       "face": 2,
@@ -1994,7 +1994,7 @@
         17891
       ],
       "duelist": [],
-      "text": " !"
+      "text": "Amaours Lilith !"
     },
     "V0707_13_00_18_0": {
       "face": 2,
@@ -2420,7 +2420,7 @@
         17680
       ],
       "duelist": [],
-      "text": " !\nDonne-leur tout ce que tu as !"
+      "text": "TOTALEMENT CAN:D !\nDonne-leur tout ce que tu as !"
     },
     "V0707_19_00_13_0": {
       "face": 2,
@@ -2488,7 +2488,7 @@
         17891
       ],
       "duelist": [],
-      "text": " !\nFais fuir l’adversaire pour de bon !"
+      "text": "Amaours Lilith !\nFais fuir l’adversaire pour de bon !"
     },
     "V0707_19_00_19_0": {
       "face": 2,
@@ -2841,6 +2841,22 @@
       "card": [],
       "duelist": [],
       "text": "Ouaaah !"
+    },
+    "V0707_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Allons-y !"
+    },
+    "V0707_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel !"
     }
   }
 }

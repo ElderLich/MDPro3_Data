@@ -3152,7 +3152,7 @@
         21612
       ],
       "duelist": [],
-      "text": "¡Activo mi Carta Mágica de Juego Rápido!\n¡!"
+      "text": "¡Activo mi Carta Mágica de Juego Rápido!\n¡La Mirada de Timaeus!"
     },
     "V0001_09_00_05_0": {
       "face": 3,
@@ -3688,7 +3688,7 @@
         21610
       ],
       "duelist": [],
-      "text": "¡ activa su efecto!"
+      "text": "¡Mago Oscuro de la Destrucción activa su efecto!"
     },
     "V0001_09_00_53_0": {
       "face": 3,
@@ -3698,7 +3698,7 @@
         21611
       ],
       "duelist": [],
-      "text": "¡Activo el efecto de !"
+      "text": "¡Activo el efecto de Timaeus el Dragón Mágico Unido!"
     },
     "V0001_13_00_19_0": {
       "face": 3,
@@ -4308,7 +4308,7 @@
         21610
       ],
       "duelist": [],
-      "text": "¡Manifiéstate!\n¡!"
+      "text": "¡Manifiéstate!\n¡Mago Oscuro de la Destrucción!"
     },
     "V0001_13_00_75_0": {
       "face": 3,
@@ -4318,7 +4318,7 @@
         21611
       ],
       "duelist": [],
-      "text": "¡Deléitate con la belleza de !"
+      "text": "¡Deléitate con la belleza de Timaeus el Dragón Mágico Unido!"
     },
     "V0001_19_00_10_0": {
       "face": 3,
@@ -5101,7 +5101,7 @@
         21610
       ],
       "duelist": [],
-      "text": "¡!\n¡Al ataque!"
+      "text": "¡Mago Oscuro de la Destrucción!\n¡Al ataque!"
     },
     "V0001_19_00_69_0": {
       "face": 3,
@@ -5111,7 +5111,7 @@
         21611
       ],
       "duelist": [],
-      "text": "¡!\n¡Al ataque!"
+      "text": "¡Timaeus el Dragón Mágico Unido!\n¡Al ataque!"
     }
   }
 }

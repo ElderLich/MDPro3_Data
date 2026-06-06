@@ -1867,7 +1867,7 @@
         17060
       ],
       "duelist": [],
-      "text": "Attivo l'effetto di !"
+      "text": "Attivo l'effetto di Drago Potenzianima Gaigias!"
     },
     "V0702_09_00_11_1": {
       "face": 3,
@@ -1939,7 +1939,7 @@
         17239
       ],
       "duelist": [],
-      "text": "Attivo l'effetto di !"
+      "text": "Attivo l'effetto di Mega Esplosione del Drago Multicolpo Dragias!"
     },
     "V0702_09_01_15_1": {
       "face": 3,
@@ -1957,7 +1957,7 @@
         17241
       ],
       "duelist": [],
-      "text": "Ecco l'effetto di !"
+      "text": "Ecco l'effetto di Mega Esplosione del Drago Multicolpo Dragias!"
     },
     "V0702_09_01_16_1": {
       "face": 3,
@@ -2623,7 +2623,7 @@
         17060
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Drago Potenzianima Gaigias!"
     },
     "V0702_37_00_10_0": {
       "face": 1,
@@ -2735,7 +2735,7 @@
         17240
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Mega Esplosione del Drago Multicolpo Dragias!"
     },
     "V0702_37_00_14_0": {
       "face": 1,
@@ -3499,7 +3499,7 @@
         17060
       ],
       "duelist": [],
-      "text": "Attacca, !"
+      "text": "Attacca, Drago Potenzianima Gaigias!"
     },
     "V0702_19_00_15_0": {
       "face": 3,
@@ -3583,7 +3583,7 @@
         17240
       ],
       "duelist": [],
-      "text": "!\nAttacca!"
+      "text": "Mega Esplosione del Drago Multicolpo Dragias!\nAttacca!"
     },
     "V0702_19_01_20_1": {
       "face": 3,
@@ -4236,6 +4236,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaaaaaah!"
+    },
+    "V0702_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Diamoci dentro!"
+    },
+    "V0702_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Duello Rush Turbo!"
     }
   }
 }

@@ -67,6 +67,8 @@
     "V0858_11_12_01": 1,
     "V0858_11_13_00": 1,
     "V0858_11_13_01": 1,
+    "V0858_11_14_00": 1,
+    "V0858_11_14_01": 1,
     "V0858_14_00_00": 1,
     "V0858_14_00_01": 1,
     "V0858_15_00_00": 1,
@@ -153,7 +155,9 @@
     "V0858_27_00_00": 1,
     "V0858_27_00_01": 1,
     "V0858_27_00_02": 1,
-    "V0858_23_00_00": 1
+    "V0858_23_00_00": 1,
+    "V0858_49_00_00": 1,
+    "V0858_49_01_00": 1
   },
   "labelver": 1,
   "BeforeDuel": {
@@ -1282,6 +1286,34 @@
         "groupingKeys": null,
         "homeTypes": null,
         "subCategoryIndex": 13,
+        "patternIndex": 1
+      },
+      "V0858_11_14_00_0": {
+        "fullName": "V0858_11_14_00_0",
+        "shortName": "V0858_11_14_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 14,
+        "patternIndex": 0
+      },
+      "V0858_11_14_01_0": {
+        "fullName": "V0858_11_14_01_0",
+        "shortName": "V0858_11_14_01",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 14,
         "patternIndex": 1
       }
     }
@@ -2752,6 +2784,38 @@
         "groupingKeys": null,
         "homeTypes": null,
         "subCategoryIndex": 0,
+        "patternIndex": 0
+      }
+    }
+  },
+  "RidingRushDuelStart": {
+    "rawKvp": {
+      "V0858_49_00_00_0": {
+        "fullName": "V0858_49_00_00_0",
+        "shortName": "V0858_49_00_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 0,
+        "patternIndex": 0
+      },
+      "V0858_49_01_00_0": {
+        "fullName": "V0858_49_01_00_0",
+        "shortName": "V0858_49_01_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 1,
         "patternIndex": 0
       }
     }

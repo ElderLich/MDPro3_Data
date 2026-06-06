@@ -40,7 +40,11 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219,
+        220,
+        221,
+        222
       ],
       "text": "Vou levar você para interrogatório na detenção!"
     },
@@ -1813,7 +1817,10 @@
         203,
         204,
         206,
-        209
+        209,
+        219,
+        220,
+        221
       ],
       "text": "Cidadãos não deviam confiar em vocês, bandidos."
     },
@@ -1919,7 +1926,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei...\nMinha vida mudou no dia em que te conheci."
     },
@@ -1929,7 +1937,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Ahhhh! Naaaão!\nEu devia ser mais rápido que o Mestre dos Mais Velozes!"
     },
@@ -1941,7 +1950,8 @@
       "duelist": [
         203,
         204,
-        209
+        209,
+        221
       ],
       "text": "Humpf.\nAs crianças crescem rápido hoje em dia..."
     },

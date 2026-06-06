@@ -40,7 +40,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Jack...\n¡Te mostraré que estoy en mi mejor momento!"
     },
@@ -53,7 +54,9 @@
         203,
         204,
         205,
-        206
+        206,
+        221,
+        221
       ],
       "text": "Luchar siempre nos ha llevado por el buen camino."
     },
@@ -89,7 +92,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        213
+        213,
+        222
       ],
       "text": "Para convencer a Kalin de que es un gran malentendido..."
     },
@@ -4279,7 +4283,14 @@
       "frame": 0,
       "cutin": 0,
       "card": [],
-      "duelist": [],
+      "duelist": [
+        203,
+        204,
+        205,
+        206,
+        221,
+        0
+      ],
       "text": "Como duelista, creo en todas mis cartas."
     },
     "V0201_28_00_03_1": {
@@ -4296,7 +4307,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Jack, tú me mostraste que hay algo que arde en mi alma."
     },
@@ -4309,7 +4321,8 @@
         203,
         204,
         205,
-        206
+        206,
+        221
       ],
       "text": "Da igual el resultado; nuestro vínculo es inquebrantable."
     },
@@ -4329,7 +4342,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        213
+        213,
+        222
       ],
       "text": "¡Al Kalin que conozco no le gustaría cómo has jugado!"
     },
@@ -4488,7 +4502,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Je...\nNo cambiamos nunca, ¿verdad?"
     },
@@ -4509,7 +4524,8 @@
         203,
         204,
         205,
-        206
+        206,
+        221
       ],
       "text": "Nuestro vínculo eterno nos da el coraje para viajar solos."
     },
@@ -4529,7 +4545,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        213
+        213,
+        222
       ],
       "text": "¿Qué me pasa?\nEsto no está a la altura de Kalin..."
     },
@@ -4845,7 +4862,9 @@
         204,
         205,
         206,
-        209
+        209,
+        220,
+        221
       ],
       "text": "¡Usa la fuerza de nuestra amistad para ganar!"
     },
@@ -4875,7 +4894,9 @@
         204,
         205,
         206,
-        209
+        209,
+        220,
+        221
       ],
       "text": "¡Yo siempre creo en ti!"
     },
@@ -4998,6 +5019,2682 @@
       "card": [],
       "duelist": [],
       "text": "Preparados... Listos... ¡A luchar!"
+    },
+    "V0201_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Activo un efecto de Péndulo."
+    },
+    "V0201_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo una Carta Mágica de Ritual!"
+    },
+    "V0201_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Sacrificio!"
+    },
+    "V0201_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Fusión!"
+    },
+    "V0201_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Ritual!"
+    },
+    "V0201_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Sincronía!"
+    },
+    "V0201_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación Xyz!"
+    },
+    "V0201_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Péndulo!"
+    },
+    "V0201_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Enlace!"
+    },
+    "V0201_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo de Modo Máximo!"
+    },
+    "V0201_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación Máxima!"
+    },
+    "V0201_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Fusión!"
+    },
+    "V0201_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Fusión!"
+    },
+    "V0201_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Fusiono por Contacto un monstruo!"
+    },
+    "V0201_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Fusión de Contacto!"
+    },
+    "V0201_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Ritual!"
+    },
+    "V0201_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Ritual!"
+    },
+    "V0201_21_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "No puedo bajar la guardia aún."
+    },
+    "V0201_21_00_03_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Acabo mi turno!"
+    },
+    "V0201_21_00_04_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Termino mi turno!"
+    },
+    "V0201_21_00_05_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Argh..."
+    },
+    "V0201_21_00_05_1": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Acabo mi turno!"
+    },
+    "V0201_34_00_11_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Impresionabas mucho más cuando eras un Portador Oscuro."
+    },
+    "V0201_34_00_12_0": {
+      "face": 4,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¿Por qué no te unes a tu Corredor de Duelo?"
+    },
+    "V0201_36_00_07_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        213,
+        222
+      ],
+      "text": "¡Cuento contigo, Kalin!"
+    },
+    "V0201_36_00_08_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        213,
+        222
+      ],
+      "text": "Cuando estamos juntos, nadie puede derrotarnos."
+    },
+    "V0201_08_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7901
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica!\n¡Girador de Carta!"
+    },
+    "V0201_08_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8977
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica de Juego Rápido!\n¡Ciclón Doble!"
+    },
+    "V0201_08_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7740
+      ],
+      "duelist": [],
+      "text": "¡Activo la Carta Mágica Continua \"Efecto Dominó\"!"
+    },
+    "V0201_08_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7740
+      ],
+      "duelist": [],
+      "text": "¡El efecto de la Carta Mágica Continua \"Efecto Dominó\" se activa!"
+    },
+    "V0201_08_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8040
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica de Equipo!\n¡Estrella de la Prevención!"
+    },
+    "V0201_08_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8040
+      ],
+      "duelist": [],
+      "text": "¡Estrella de la Prevención se activa cuando se manda al Cementerio!"
+    },
+    "V0201_08_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22562
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica de Juego Rápido!\n¡Señal de Basura!"
+    },
+    "V0201_08_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14918
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica Continua,\nPersecución Sincro!"
+    },
+    "V0201_08_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14918
+      ],
+      "duelist": [],
+      "text": "¡El efecto de la Carta Mágica Continua \"Persecución Sincro\" se activa!"
+    },
+    "V0201_08_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18435
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica de Juego Rápido!\n¡Cruza Final!"
+    },
+    "V0201_08_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17250
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica Continua!\n¡En sus Marcas, Listos, ¡DUELO!!"
+    },
+    "V0201_08_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17250
+      ],
+      "duelist": [],
+      "text": "¡El efecto de En sus Marcas, Listos, ¡DUELO! se activa!"
+    },
+    "V0201_08_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17250
+      ],
+      "duelist": [],
+      "text": "¡Mando a En sus Marcas, Listos, ¡DUELO! al Cementerio!"
+    },
+    "V0201_08_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16240
+      ],
+      "duelist": [],
+      "text": "¡Activo la Carta Mágica \"Iluminación de Polvo de Estrellas\"!"
+    },
+    "V0201_08_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16240
+      ],
+      "duelist": [],
+      "text": "¡Destierro a Iluminación de Polvo de Estrellas de mi Cementerio!"
+    },
+    "V0201_08_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16241
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica!\n¡Absorción Majestuosa!"
+    },
+    "V0201_08_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21905
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica!\n¡Comunidad Sincro!"
+    },
+    "V0201_08_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21905
+      ],
+      "duelist": [],
+      "text": "¡Destierro a Comunidad Sincro de mi Cementerio para usar su efecto!"
+    },
+    "V0201_08_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16256
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica!\n¡Adelantamiento de Sincronía!"
+    },
+    "V0201_08_00_72_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18837
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica!\n¡Superioridad de Sincronía!"
+    },
+    "V0201_08_00_73_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18837
+      ],
+      "duelist": [],
+      "text": "¡Destierro a Superioridad de Sincronía de mi Cementerio!"
+    },
+    "V0201_08_00_74_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16239
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica Continua,\nLlegada con Luz!"
+    },
+    "V0201_08_00_75_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16239
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Llegada con Luz se activa!"
+    },
+    "V0201_08_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7753
+      ],
+      "duelist": [],
+      "text": "¡Activo la Carta de Trampa \"Disparo de Equipo\"!"
+    },
+    "V0201_08_00_77_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7919
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!\n¡Señuelo de la Confusión!"
+    },
+    "V0201_08_00_78_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8582
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa Continua!\n¡Asalto Descartado!"
+    },
+    "V0201_08_00_79_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8582
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de la Carta de Trampa Continua \"Asalto Descartado\"!"
+    },
+    "V0201_08_00_80_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8994
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa Continua!\n¡Cambio Desesperado!"
+    },
+    "V0201_08_00_81_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8994
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Cambio Desesperado se activa!"
+    },
+    "V0201_08_00_82_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11626
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!\n¡Estatua de Chatarra!"
+    },
+    "V0201_08_00_83_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11626
+      ],
+      "duelist": [],
+      "text": "¡Estatua de Chatarra se activa cuando se manda al Cementerio!"
+    },
+    "V0201_08_00_84_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18855
+      ],
+      "duelist": [],
+      "text": "¡Activo la Carta de Trampa \"Sagrada Estatua de Chatarra\"!"
+    },
+    "V0201_08_00_85_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18855
+      ],
+      "duelist": [],
+      "text": "¡Sagrada Estatua de Chatarra se activa al destruirse!"
+    },
+    "V0201_08_00_86_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14219
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa Continua!\n¡Deseo de Polvo de Estrellas!"
+    },
+    "V0201_08_00_87_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14219
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Deseo de Polvo de Estrellas se activa!"
+    },
+    "V0201_08_00_88_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16259
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa Continua!\n¡Espejismo Majestuoso!"
+    },
+    "V0201_08_00_89_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16259
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Espejismo Majestuoso se activa!"
+    },
+    "V0201_09_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "¡Invocar de Modo Especial a Dragón Carmesí me permite usar este efecto!"
+    },
+    "V0201_09_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "¡Dragón Carmesí activa su efecto!"
+    },
+    "V0201_09_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18824
+      ],
+      "duelist": [],
+      "text": "¡Dragón del Quásar Cósmico activa su efecto!"
+    },
+    "V0201_09_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18824
+      ],
+      "duelist": [],
+      "text": "¡Destierro a Dragón del Quásar Cósmico para activar su efecto!"
+    },
+    "V0201_09_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16228
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Dragón Estelar Majestuoso Fugaz!"
+    },
+    "V0201_09_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16228
+      ],
+      "duelist": [],
+      "text": "¡Destierro a Dragón Estelar Majestuoso Fugaz para anular el efecto!"
+    },
+    "V0201_09_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14956
+      ],
+      "duelist": [],
+      "text": "¡Destierro a un Cantante del Cementerio para usar a Dragón de la Estrella Fugaz T.G. EX!"
+    },
+    "V0201_09_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14956
+      ],
+      "duelist": [],
+      "text": "¡Dragón de la Estrella Fugaz T.G. EX activa su efecto!"
+    },
+    "V0201_09_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14956
+      ],
+      "duelist": [],
+      "text": "¡Dragón de la Estrella Fugaz T.G. EX se activa del Cementerio!"
+    },
+    "V0201_09_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17253
+      ],
+      "duelist": [],
+      "text": "Al Invocar por Sincronía a Dragón de Polvo de Estrellas de Sincronía Accel..."
+    },
+    "V0201_09_00_72_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17253
+      ],
+      "duelist": [],
+      "text": "¡activo el efecto de Dragón de Polvo de Estrellas de Sincronía Accel!"
+    },
+    "V0201_09_00_73_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13714
+      ],
+      "duelist": [],
+      "text": "Al Invocar por Sincronía a Dragón del Elevador Fugaz, puedo hacer esto."
+    },
+    "V0201_09_00_74_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13714
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Dragón del Elevador Fugaz!"
+    },
+    "V0201_09_00_75_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22141
+      ],
+      "duelist": [],
+      "text": "¡Invocar de Modo Especial a Sacerdotisa Alanoche me permite usar su efecto!"
+    },
+    "V0201_09_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22141
+      ],
+      "duelist": [],
+      "text": "¡Descarto una carta para activar el efecto de Sacerdotisa Alanoche!"
+    },
+    "V0201_09_00_77_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14915
+      ],
+      "duelist": [],
+      "text": "¡Invocar por Sincronía a Guerrero del Satélite me permite usar su efecto!"
+    },
+    "V0201_09_00_78_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14915
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Guerrero del Satélite se activa al destruirse!"
+    },
+    "V0201_09_00_79_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21907
+      ],
+      "duelist": [],
+      "text": "¡Invocar por Sincronía a Guerrero de Basura Extremo le otorga un efecto!"
+    },
+    "V0201_09_00_80_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21907
+      ],
+      "duelist": [],
+      "text": "¡Destierro a Guerrero de Basura Extremo para activar su efecto!"
+    },
+    "V0201_09_00_81_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13868
+      ],
+      "duelist": [],
+      "text": "¡Invocar por Sincronía a Acelerador de Basura me permite usar su efecto!"
+    },
+    "V0201_09_00_82_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13868
+      ],
+      "duelist": [],
+      "text": "¡Invocar por Sincronía a mi Acelerador de Basura este turno activa su efecto!"
+    },
+    "V0201_09_00_83_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14218
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Guerrero de Señal se activa!"
+    },
+    "V0201_09_00_84_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14218
+      ],
+      "duelist": [],
+      "text": "¡Retiro los Contadores Señal para usar el efecto de Guerrero de Señal!"
+    },
+    "V0201_09_00_85_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21908
+      ],
+      "duelist": [],
+      "text": "¡Guerrero de Chatarra puede usar su efecto cuando se Invoca por Sincronía!"
+    },
+    "V0201_09_00_86_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22113
+      ],
+      "duelist": [],
+      "text": "¡Destruir a Guerrero de Basura/Modo de Ataque activa su efecto!"
+    },
+    "V0201_09_00_87_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18788
+      ],
+      "duelist": [],
+      "text": "¡Sincrón Rueda activa su efecto!"
+    },
+    "V0201_09_00_88_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18788
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Sincrón Rueda del Cementerio!"
+    },
+    "V0201_09_00_89_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8932
+      ],
+      "duelist": [],
+      "text": "¡Gigante del Terremoto activa su efecto!"
+    },
+    "V0201_09_00_90_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8438
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Guerrero Máximo se activa!"
+    },
+    "V0201_09_00_91_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16192
+      ],
+      "duelist": [],
+      "text": "¡Pista de Polvo de Estrellas se puede activar de mi mano o el Cementerio!"
+    },
+    "V0201_09_00_92_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16192
+      ],
+      "duelist": [],
+      "text": "¡Usar a Pista de Polvo de Estrellas en una Invocación por Sincronía activa su efecto!"
+    },
+    "V0201_09_00_93_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16191
+      ],
+      "duelist": [],
+      "text": "¡Sincrón de Polvo de Estrellas se puede activar de la mano o del Cementerio!"
+    },
+    "V0201_09_00_94_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16191
+      ],
+      "duelist": [],
+      "text": "¡Sincrón de Polvo de Estrellas activa su efecto!"
+    },
+    "V0201_09_00_95_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9802
+      ],
+      "duelist": [],
+      "text": "¡Dragón de la Estrella Brillante activa su efecto!"
+    },
+    "V0201_09_00_96_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8441
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Gardna Cero!"
+    },
+    "V0201_09_00_97_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7702
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Gardna Fantasma!"
+    },
+    "V0201_09_00_98_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7702
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Gardna Fantasma se activa al destruirse!"
+    },
+    "V0201_09_00_99_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7869
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Generador de Ondas Sanadoras!"
+    },
+    "V0201_09_00_99_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Oleada de Luz de Estrellas!"
+    },
+    "V0201_09_00_100_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8937
+      ],
+      "duelist": [],
+      "text": "¡Mando a Guardián de la Fortaleza de mi mano al Cementerio!"
+    },
+    "V0201_09_00_101_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8579
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Guerrero del Guantelete!"
+    },
+    "V0201_09_00_102_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7703
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Guerrero del Escudo de mi Cementerio!"
+    },
+    "V0201_09_00_103_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10310
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Sincrón de Vapor!"
+    },
+    "V0201_09_00_104_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18789
+      ],
+      "duelist": [],
+      "text": "¡Sincrón Revolución activa su efecto de mi Cementerio!"
+    },
+    "V0201_09_00_105_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8614
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Triciclo se activa al destruirse!"
+    },
+    "V0201_09_00_106_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8613
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Biciclo se activa al destruirse!"
+    },
+    "V0201_09_00_107_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9799
+      ],
+      "duelist": [],
+      "text": "¡Mandar a Guerrero Sónico al Cementerio activa su efecto!"
+    },
+    "V0201_09_00_108_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9293
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Guerrero Doble de mi mano!"
+    },
+    "V0201_09_00_109_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9293
+      ],
+      "duelist": [],
+      "text": "¡Usar a Guerrero Doble en una Invocación por Sincronía activa su efecto!"
+    },
+    "V0201_09_00_110_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14916
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Convertidor de Basura de mi mano!"
+    },
+    "V0201_09_00_111_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14916
+      ],
+      "duelist": [],
+      "text": "¡Usar a Convertidor de Basura en una Invocación por Sincronía activa su efecto!"
+    },
+    "V0201_09_00_112_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22514
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Guerrero Sónico de Ataque de mi mano!"
+    },
+    "V0201_09_00_113_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22514
+      ],
+      "duelist": [],
+      "text": "¡Invocar a Guerrero Sónico de Ataque me permite activar su efecto!"
+    },
+    "V0201_09_00_114_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22514
+      ],
+      "duelist": [],
+      "text": "¡Usé a Guerrero Sónico de Ataque para Invocar por Sincronía!"
+    },
+    "V0201_09_00_115_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21901
+      ],
+      "duelist": [],
+      "text": "¡Invocar a Guerrero de la Velocidad Máxima me permite activar su efecto!"
+    },
+    "V0201_09_00_116_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11621
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Guerrero del Apuro de mi mano!"
+    },
+    "V0201_09_00_117_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11621
+      ],
+      "duelist": [],
+      "text": "¡Destierro a Guerrero del Apuro del Cementerio para usar su efecto!"
+    },
+    "V0201_09_00_118_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18427
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Sincrón de Ataque de mi mano!"
+    },
+    "V0201_09_00_119_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18427
+      ],
+      "duelist": [],
+      "text": "¡Destierro a Sincrón de Ataque de mi Cementerio!"
+    },
+    "V0201_09_00_120_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14917
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Satélite Sincrón de mi mano!"
+    },
+    "V0201_09_00_121_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14917
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Satélite Sincrón!"
+    },
+    "V0201_09_00_122_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11622
+      ],
+      "duelist": [],
+      "text": "¡Sincrón Transportador activa su efecto!"
+    },
+    "V0201_09_00_123_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21902
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Erizo Anclapernos se activa del Cementerio!"
+    },
+    "V0201_09_00_124_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7986
+      ],
+      "duelist": [],
+      "text": "¡Usar a Equipo de Afinación en una Invocación por Sincronía activa su efecto!"
+    },
+    "V0201_09_00_125_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8440
+      ],
+      "duelist": [],
+      "text": "¡Devorador de Niveles activa su efecto de mi Cementerio!"
+    },
+    "V0201_09_00_126_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9078
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Espantapájaros Veloz de mi mano!"
+    },
+    "V0201_09_00_127_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21903
+      ],
+      "duelist": [],
+      "text": "¡Un Cantante mandado al Cementerio activa a Pollo Sónico de Encrucijada!"
+    },
+    "V0201_09_00_128_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8437
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Xiaolong de Polvo de Estrellas se activa de mi Cementerio!"
+    },
+    "V0201_09_00_129_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9294
+      ],
+      "duelist": [],
+      "text": "¡Fantasma de Polvo de Estrellas activa su efecto al destruirse!"
+    },
+    "V0201_09_00_130_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9294
+      ],
+      "duelist": [],
+      "text": "¡Destierro a Fantasma de Polvo de Estrellas de mi Cementerio!"
+    },
+    "V0201_09_00_131_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17387
+      ],
+      "duelist": [],
+      "text": "¡Sierpe de Polvo de Estrellas se puede activar de la mano o del Cementerio!"
+    },
+    "V0201_09_00_132_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17387
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Sierpe de Polvo de Estrellas!"
+    },
+    "V0201_09_00_133_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Dragón Estrella Brillante se activa de mi mano!"
+    },
+    "V0201_09_00_134_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16190
+      ],
+      "duelist": [],
+      "text": "La carta que robé fue...\nDragón de Voluntades Convergentes."
+    },
+    "V0201_09_00_134_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo el efecto de Dragón de Voluntades Convergentes!"
+    },
+    "V0201_13_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "¡Invoco tu ayuda,\nDragón Carmesí!"
+    },
+    "V0201_37_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18824
+      ],
+      "duelist": [],
+      "text": "¡Nuestras almas se unen para crear un nuevo futuro!"
+    },
+    "V0201_37_00_31_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Subamos revoluciones!\n¡Sincronía Acelerada Sobre el Límite!"
+    },
+    "V0201_13_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        18824
+      ],
+      "duelist": [],
+      "text": "¡La luz de la esperanza!\n¡Dragón del Quásar Cósmico!"
+    },
+    "V0201_37_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16228
+      ],
+      "duelist": [],
+      "text": "¡Nuestros corazones se unen para crear un brillante milagro!"
+    },
+    "V0201_37_00_32_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Vamos a subir revoluciones!\n¡Invocación por Sincronía!"
+    },
+    "V0201_13_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        16228
+      ],
+      "duelist": [],
+      "text": "¡Desciende de la luz,\nDragón Estelar Majestuoso Fugaz!"
+    },
+    "V0201_37_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14956
+      ],
+      "duelist": [],
+      "text": "¡Mi alma se vincula a los corazones de mis amigos!"
+    },
+    "V0201_37_00_33_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Ilumina nuestro futuro!\n¡Sincronía Acelerada!"
+    },
+    "V0201_13_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14956
+      ],
+      "duelist": [],
+      "text": "¡Nuestro vínculo renace!"
+    },
+    "V0201_13_00_58_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [],
+      "duelist": [],
+      "text": "¡Dragón de la Estrella Fugaz T.G. EX!"
+    },
+    "V0201_13_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        17253
+      ],
+      "duelist": [],
+      "text": "¡Alza el vuelo,\nDragón de Polvo de Estrellas de Sincronía Accel!"
+    },
+    "V0201_37_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13714
+      ],
+      "duelist": [],
+      "text": "¡Nuestras esperanzas convergen en una nueva órbita astral!"
+    },
+    "V0201_37_00_34_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Vamos a subir revoluciones!\n¡Invocación por Sincronía!"
+    },
+    "V0201_13_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13714
+      ],
+      "duelist": [],
+      "text": "¡Surca los cielos,\nDragón del Elevador Fugaz!"
+    },
+    "V0201_13_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22141
+      ],
+      "duelist": [],
+      "text": "¡Sal,\nSacerdotisa Alanoche!"
+    },
+    "V0201_13_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14915
+      ],
+      "duelist": [],
+      "text": "¡Toma el Campo,\nGuerrero del Satélite!"
+    },
+    "V0201_37_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21907
+      ],
+      "duelist": [],
+      "text": "¡Hasta la chatarra más insignificante tiene valor!"
+    },
+    "V0201_37_00_35_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Vamos a subir revoluciones!\n¡Invocación por Sincronía!"
+    },
+    "V0201_13_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        21907
+      ],
+      "duelist": [],
+      "text": "¡Manifiéstate,\nGuerrero de Basura Extremo!"
+    },
+    "V0201_37_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13868
+      ],
+      "duelist": [],
+      "text": "El viento sopla más rápido que la velocidad del viento."
+    },
+    "V0201_37_00_36_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Vamos a subir revoluciones!\n¡Invocación por Sincronía!"
+    },
+    "V0201_13_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        13868
+      ],
+      "duelist": [],
+      "text": "¡Corta el viento con tu furia,\nAcelerador de Basura!"
+    },
+    "V0201_13_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        14218
+      ],
+      "duelist": [],
+      "text": "¡Aquí viene Guerrero de Señal!"
+    },
+    "V0201_13_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        21908
+      ],
+      "duelist": [],
+      "text": "¡Adelante,\nGuerrero de Chatarra!"
+    },
+    "V0201_37_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22113
+      ],
+      "duelist": [],
+      "text": "Ataviado con su armadura, su fuerza supera lo imaginable."
+    },
+    "V0201_13_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        22113
+      ],
+      "duelist": [],
+      "text": "¡Manifiéstate,\nGuerrero de Basura/Modo de Ataque!"
+    },
+    "V0201_13_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8004
+      ],
+      "duelist": [],
+      "text": "¡Guerrero Torreta!"
+    },
+    "V0201_13_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8607
+      ],
+      "duelist": [],
+      "text": "¡Invoco de Modo Especial a \"Guerrero de Apoyo\"!"
+    },
+    "V0201_13_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18788
+      ],
+      "duelist": [],
+      "text": "¡El Monstruo Cantante \"Sincrón Rueda\"!"
+    },
+    "V0201_13_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8932
+      ],
+      "duelist": [],
+      "text": "¡Gigante del Terremoto!"
+    },
+    "V0201_13_00_72_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8006
+      ],
+      "duelist": [],
+      "text": "¡Mi Monstruo Cantante,\nHiper Sincrón!"
+    },
+    "V0201_13_00_73_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8438
+      ],
+      "duelist": [],
+      "text": "¡Guerrero Máximo!"
+    },
+    "V0201_13_00_74_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16192
+      ],
+      "duelist": [],
+      "text": "¡Pista de Polvo de Estrellas!"
+    },
+    "V0201_13_00_75_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16191
+      ],
+      "duelist": [],
+      "text": "¡Mi Monstruo Cantante \"Sincrón de Polvo de Estrellas\"!"
+    },
+    "V0201_13_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9802
+      ],
+      "duelist": [],
+      "text": "¡Dragón de la Estrella Brillante!"
+    },
+    "V0201_13_00_77_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8441
+      ],
+      "duelist": [],
+      "text": "¡Gardna Cero!"
+    },
+    "V0201_13_00_78_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7702
+      ],
+      "duelist": [],
+      "text": "¡Gardna Fantasma!"
+    },
+    "V0201_13_00_79_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7869
+      ],
+      "duelist": [],
+      "text": "¡Generador de Ondas Sanadoras!"
+    },
+    "V0201_13_00_80_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8937
+      ],
+      "duelist": [],
+      "text": "¡Guardián de la Fortaleza!"
+    },
+    "V0201_13_00_81_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8579
+      ],
+      "duelist": [],
+      "text": "¡Guerrero del Guantelete!"
+    },
+    "V0201_13_00_82_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7703
+      ],
+      "duelist": [],
+      "text": "¡Guerrero del Escudo!"
+    },
+    "V0201_13_00_83_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10310
+      ],
+      "duelist": [],
+      "text": "¡El Monstruo Cantante \"Sincrón de Vapor\"!"
+    },
+    "V0201_13_00_84_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8155
+      ],
+      "duelist": [],
+      "text": "¡Guerrero del Nivel!"
+    },
+    "V0201_13_00_85_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18789
+      ],
+      "duelist": [],
+      "text": "¡Aquí viene mi Monstruo Cantante,\nSincrón Revolución!"
+    },
+    "V0201_13_00_86_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8614
+      ],
+      "duelist": [],
+      "text": "¡Triciclo!"
+    },
+    "V0201_13_00_87_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8613
+      ],
+      "duelist": [],
+      "text": "¡Biciclo!"
+    },
+    "V0201_13_00_88_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8612
+      ],
+      "duelist": [],
+      "text": "¡Uniciclo!"
+    },
+    "V0201_13_00_89_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9799
+      ],
+      "duelist": [],
+      "text": "¡Guerrero Sónico!"
+    },
+    "V0201_13_00_90_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9293
+      ],
+      "duelist": [],
+      "text": "¡Guerrero Doble!"
+    },
+    "V0201_13_00_91_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7985
+      ],
+      "duelist": [],
+      "text": "¡Guerrero de la Fortaleza!"
+    },
+    "V0201_13_00_92_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8781
+      ],
+      "duelist": [],
+      "text": "¡Invoco de Modo Especial a \"Rompecartas\"!"
+    },
+    "V0201_13_00_93_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7990
+      ],
+      "duelist": [],
+      "text": "¡Ala Escudo!"
+    },
+    "V0201_13_00_94_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14916
+      ],
+      "duelist": [],
+      "text": "¡Convertidor de Basura!"
+    },
+    "V0201_13_00_95_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22514
+      ],
+      "duelist": [],
+      "text": "¡Guerrero Sónico de Ataque!"
+    },
+    "V0201_13_00_96_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21901
+      ],
+      "duelist": [],
+      "text": "¡Guerrero de la Velocidad Máxima!"
+    },
+    "V0201_13_00_97_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11621
+      ],
+      "duelist": [],
+      "text": "¡Guerrero del Apuro!"
+    },
+    "V0201_13_00_98_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18427
+      ],
+      "duelist": [],
+      "text": "¡El Monstruo Cantante \"Sincrón de Ataque\"!"
+    },
+    "V0201_13_00_99_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14917
+      ],
+      "duelist": [],
+      "text": "¡Mi Monstruo Cantante,\nSatélite Sincrón!"
+    },
+    "V0201_13_00_100_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11622
+      ],
+      "duelist": [],
+      "text": "¡Sincrón Transportador!"
+    },
+    "V0201_13_00_101_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21902
+      ],
+      "duelist": [],
+      "text": "¡Erizo Anclapernos!"
+    },
+    "V0201_13_00_102_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7986
+      ],
+      "duelist": [],
+      "text": "¡Equipo de Afinación!"
+    },
+    "V0201_13_00_103_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8440
+      ],
+      "duelist": [],
+      "text": "¡Devorador de Niveles!"
+    },
+    "V0201_13_00_104_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9078
+      ],
+      "duelist": [],
+      "text": "¡Espantapájaros Veloz!"
+    },
+    "V0201_13_00_105_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21903
+      ],
+      "duelist": [],
+      "text": "¡Pollo Sónico de Encrucijada!"
+    },
+    "V0201_13_00_106_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21904
+      ],
+      "duelist": [],
+      "text": "¡Mi Monstruo Cantante,\nSincrón de Chatarra!"
+    },
+    "V0201_13_00_107_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8437
+      ],
+      "duelist": [],
+      "text": "¡Xiaolong de Polvo de Estrellas!"
+    },
+    "V0201_13_00_108_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9294
+      ],
+      "duelist": [],
+      "text": "¡Fantasma de Polvo de Estrellas!"
+    },
+    "V0201_13_00_109_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17387
+      ],
+      "duelist": [],
+      "text": "¡Sierpe de Polvo de Estrellas!"
+    },
+    "V0201_13_00_110_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "¡El Monstruo Cantante \"Dragón Estrella Brillante\"!"
+    },
+    "V0201_13_00_111_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16190
+      ],
+      "duelist": [],
+      "text": "¡El Monstruo Cantante \"Dragón de Voluntades Convergentes\"!"
+    },
+    "V0201_19_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "¡Dragón Carmesí,\nataca!"
+    },
+    "V0201_19_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18824
+      ],
+      "duelist": [],
+      "text": "¡Ve, Dragón del Quásar Cósmico!\n¡Ataca!"
+    },
+    "V0201_19_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16228
+      ],
+      "duelist": [],
+      "text": "¡Dragón Estelar Majestuoso Fugaz,\nacaba con ellos!"
+    },
+    "V0201_19_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14956
+      ],
+      "duelist": [],
+      "text": "¡Dragón de la Estrella Fugaz T.G. EX,\nataca!"
+    },
+    "V0201_19_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17253
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Dragón de Polvo de Estrellas de Sincronía Accel!"
+    },
+    "V0201_19_00_59_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Resplandor Cósmico!"
+    },
+    "V0201_19_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13714
+      ],
+      "duelist": [],
+      "text": "¡Dragón del Elevador Fugaz,\nataca!"
+    },
+    "V0201_19_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22141
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Sacerdotisa Alanoche!"
+    },
+    "V0201_19_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14915
+      ],
+      "duelist": [],
+      "text": "¡Guerrero del Satélite ataca!"
+    },
+    "V0201_19_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21907
+      ],
+      "duelist": [],
+      "text": "¡Guerrero de Basura Extremo,\nataca!"
+    },
+    "V0201_19_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13868
+      ],
+      "duelist": [],
+      "text": "¡Acelerador de Basura, ataca!"
+    },
+    "V0201_19_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14218
+      ],
+      "duelist": [],
+      "text": "¡Guerrero de Señal,\nataca!"
+    },
+    "V0201_19_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21908
+      ],
+      "duelist": [],
+      "text": "¡Guerrero de Chatarra,\nmachácalos!"
+    },
+    "V0201_19_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22113
+      ],
+      "duelist": [],
+      "text": "¡Ve, Guerrero de Basura/Modo de Ataque!\n¡Ataca!"
+    },
+    "V0201_19_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8004
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Guerrero Torreta!"
+    },
+    "V0201_19_00_68_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Ráfaga Veloz Explosiva!"
+    },
+    "V0201_19_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8607
+      ],
+      "duelist": [],
+      "text": "¡Guerrero de Apoyo,\nataca!"
+    },
+    "V0201_19_00_69_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Ráfaga Veloz Explosiva!"
+    },
+    "V0201_19_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18788
+      ],
+      "duelist": [],
+      "text": "¡Sincrón Rueda,\nataca!"
+    },
+    "V0201_19_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8932
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Gigante del Terremoto!"
+    },
+    "V0201_19_00_72_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8006
+      ],
+      "duelist": [],
+      "text": "¡Hiper Sincrón ataca!"
+    },
+    "V0201_19_00_73_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8438
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Guerrero Máximo!"
+    },
+    "V0201_19_00_73_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Embestida Rauda!"
+    },
+    "V0201_19_00_74_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16192
+      ],
+      "duelist": [],
+      "text": "¡Pista de Polvo de Estrellas,\nataca!"
+    },
+    "V0201_19_00_75_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16191
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Sincrón de Polvo de Estrellas!"
+    },
+    "V0201_19_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9802
+      ],
+      "duelist": [],
+      "text": "¡Dragón de la Estrella Brillante,\nataca!"
+    },
+    "V0201_19_00_77_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8441
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Gardna Cero!"
+    },
+    "V0201_19_00_78_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7702
+      ],
+      "duelist": [],
+      "text": "¡Gardna Fantasma,\nataca!"
+    },
+    "V0201_19_00_79_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7869
+      ],
+      "duelist": [],
+      "text": "¡Generador de Ondas Sanadoras,\nataca!"
+    },
+    "V0201_19_00_80_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8937
+      ],
+      "duelist": [],
+      "text": "¡Guardián de la Fortaleza,\nataca!"
+    },
+    "V0201_19_00_81_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8579
+      ],
+      "duelist": [],
+      "text": "¡Guerrero del Guantelete,\nataca!"
+    },
+    "V0201_19_00_82_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7703
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Guerrero del Escudo!"
+    },
+    "V0201_19_00_83_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10310
+      ],
+      "duelist": [],
+      "text": "¡Sincrón de Vapor, ataca!"
+    },
+    "V0201_19_00_84_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8155
+      ],
+      "duelist": [],
+      "text": "¡Guerrero del Nivel ataca!"
+    },
+    "V0201_19_00_85_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18789
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Sincrón Revolución!"
+    },
+    "V0201_19_00_86_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8614
+      ],
+      "duelist": [],
+      "text": "¡Triciclo, ataca!"
+    },
+    "V0201_19_00_87_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8613
+      ],
+      "duelist": [],
+      "text": "¡Biciclo, ataca!"
+    },
+    "V0201_19_00_88_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8612
+      ],
+      "duelist": [],
+      "text": "¡Uniciclo, ataca!"
+    },
+    "V0201_19_00_89_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9799
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Guerrero Sónico!"
+    },
+    "V0201_19_00_90_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9293
+      ],
+      "duelist": [],
+      "text": "¡Guerrero Doble, ataca!"
+    },
+    "V0201_19_00_91_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7985
+      ],
+      "duelist": [],
+      "text": "¡Guerrero de la Fortaleza,\nataca!"
+    },
+    "V0201_19_00_92_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8781
+      ],
+      "duelist": [],
+      "text": "¡Mi Rompecartas ataca!"
+    },
+    "V0201_19_00_93_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7990
+      ],
+      "duelist": [],
+      "text": "¡Ala Escudo, ataca!"
+    },
+    "V0201_19_00_94_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14916
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Convertidor de Basura!"
+    },
+    "V0201_19_00_95_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22514
+      ],
+      "duelist": [],
+      "text": "¡Guerrero Sónico de Ataque,\nataca!"
+    },
+    "V0201_19_00_96_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21901
+      ],
+      "duelist": [],
+      "text": "¡Guerrero de la Velocidad Máxima,\nataca!"
+    },
+    "V0201_19_00_97_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11621
+      ],
+      "duelist": [],
+      "text": "¡Guerrero del Apuro,\nataca!"
+    },
+    "V0201_19_00_98_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18427
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Sincrón de Ataque!"
+    },
+    "V0201_19_00_99_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14917
+      ],
+      "duelist": [],
+      "text": "¡Satélite Sincrón,\nataca!"
+    },
+    "V0201_19_00_100_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11622
+      ],
+      "duelist": [],
+      "text": "¡Sincrón Transportador,\nataca!"
+    },
+    "V0201_19_00_101_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21902
+      ],
+      "duelist": [],
+      "text": "¡Erizo Anclapernos,\nataca!"
+    },
+    "V0201_19_00_102_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7986
+      ],
+      "duelist": [],
+      "text": "¡Equipo de Afinación,\nataca!"
+    },
+    "V0201_19_00_103_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8440
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Devorador de Niveles!"
+    },
+    "V0201_19_00_104_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9078
+      ],
+      "duelist": [],
+      "text": "¡Espantapájaros Veloz,\nataca!"
+    },
+    "V0201_19_00_105_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21903
+      ],
+      "duelist": [],
+      "text": "¡Pollo Sónico de Encrucijada,\nataca!"
+    },
+    "V0201_19_00_106_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21904
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Sincrón de Chatarra!"
+    },
+    "V0201_19_00_107_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8437
+      ],
+      "duelist": [],
+      "text": "¡Xiaolong de Polvo de Estrellas,\nataca!"
+    },
+    "V0201_19_00_108_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9294
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Fantasma de Polvo de Estrellas!"
+    },
+    "V0201_19_00_109_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17387
+      ],
+      "duelist": [],
+      "text": "¡Sierpe de Polvo de Estrellas,\nataca!"
+    },
+    "V0201_19_00_110_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "¡Dragón Estrella Brillante,\nataca!"
+    },
+    "V0201_19_00_111_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16190
+      ],
+      "duelist": [],
+      "text": "¡Dragón de Voluntades Convergentes,\nataca!"
+    },
+    "V0201_48_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Allá vamos!"
+    },
+    "V0201_48_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Prepárate para sentir la emoción!"
+    },
+    "V0201_51_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Yusei Fudo."
+    },
+    "V0201_51_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡A luchar!"
+    },
+    "V0201_49_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Vamos a subir de revoluciones!"
+    },
+    "V0201_49_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Rush Duel Turbo!"
     }
   }
 }

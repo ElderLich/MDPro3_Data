@@ -299,7 +299,11 @@
           443,
           444,
           445,
-          446
+          446,
+          416,
+          417,
+          447,
+          448
         ],
         "skills": null,
         "situations": null,
@@ -2234,7 +2238,11 @@
           443,
           444,
           445,
-          446
+          446,
+          416,
+          417,
+          447,
+          448
         ],
         "skills": null,
         "situations": null,
@@ -2398,7 +2406,11 @@
           443,
           444,
           445,
-          446
+          446,
+          416,
+          417,
+          447,
+          448
         ],
         "skills": null,
         "situations": null,
@@ -2430,7 +2442,11 @@
           441,
           442,
           443,
-          444
+          444,
+          416,
+          417,
+          447,
+          448
         ],
         "skills": null,
         "situations": null,
@@ -2676,7 +2692,7 @@
         "cards": null,
         "duelists": null,
         "skills": [
-          999999
+          1921
         ],
         "situations": null,
         "engineparams": null,
@@ -3160,7 +3176,8 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          416
+          416,
+          447
         ],
         "skills": null,
         "situations": [

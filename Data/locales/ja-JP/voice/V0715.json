@@ -3838,7 +3838,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
-        "homeTypes": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -3852,7 +3854,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
-        "homeTypes": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 1,
         "patternIndex": 0
       }

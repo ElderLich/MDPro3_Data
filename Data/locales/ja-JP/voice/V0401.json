@@ -501,7 +501,11 @@
           0,
           422,
           445,
-          446
+          446,
+          416,
+          417,
+          447,
+          448
         ],
         "skills": null,
         "situations": null,
@@ -522,7 +526,11 @@
           0,
           422,
           445,
-          446
+          446,
+          416,
+          417,
+          447,
+          448
         ],
         "skills": null,
         "situations": null,
@@ -543,7 +551,11 @@
           0,
           422,
           445,
-          446
+          446,
+          416,
+          417,
+          447,
+          448
         ],
         "skills": null,
         "situations": null,
@@ -2140,13 +2152,23 @@
         ],
         "subCategoryIndex": 0,
         "patternIndex": 0
-      },
+      }
+    }
+  },
+  "WinSp": {
+    "rawKvp": {
       "V0401_28_00_01_0": {
         "fullName": "V0401_28_00_01_0",
         "shortName": "V0401_28_00_01",
         "voiceIdx": "0",
         "cards": null,
-        "duelists": null,
+        "duelists": [
+          0,
+          416,
+          417,
+          447,
+          448
+        ],
         "skills": null,
         "situations": null,
         "engineparams": null,
@@ -2156,11 +2178,7 @@
         ],
         "subCategoryIndex": 0,
         "patternIndex": 1
-      }
-    }
-  },
-  "WinSp": {
-    "rawKvp": {
+      },
       "V0401_28_00_02_0": {
         "fullName": "V0401_28_00_02_0",
         "shortName": "V0401_28_00_02",
@@ -2191,7 +2209,11 @@
           0,
           422,
           445,
-          446
+          446,
+          416,
+          417,
+          447,
+          448
         ],
         "skills": null,
         "situations": null,
@@ -2370,7 +2392,11 @@
           0,
           422,
           445,
-          446
+          446,
+          416,
+          417,
+          447,
+          448
         ],
         "skills": null,
         "situations": null,

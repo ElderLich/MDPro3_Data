@@ -1603,7 +1603,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "J'active la Carte Magie  !"
+      "text": "J'active la Carte Magie Le Dernier Jour de la Belle Sorcière !"
     },
     "V0705_08_00_06_0": {
       "face": 3,
@@ -1707,7 +1707,7 @@
         16360
       ],
       "duelist": [],
-      "text": "Toutes les bonnes choses ont une fin ! \nJe joue  !"
+      "text": "Toutes les bonnes choses ont une fin ! \nJe joue Bulle qui Éclate !"
     },
     "V0705_08_00_14_0": {
       "face": 1,
@@ -2432,6 +2432,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaaaah !\nC'est pas le pied !"
+    },
+    "V0705_49_00_00_0": {
+      "face": 11,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Euh... C'est quoi ?"
+    },
+    "V0705_49_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel ?!"
     }
   }
 }

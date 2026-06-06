@@ -1304,7 +1304,7 @@
         16183
       ],
       "duelist": [],
-      "text": "Ativo minha Armadilha!\n!"
+      "text": "Ativo minha Armadilha!\nArte Secreta do Mundo Bestial - Punho Primal!"
     },
     "V0857_09_00_00_0": {
       "face": 3,
@@ -1709,6 +1709,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaahhhhh!"
+    },
+    "V0857_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Uhuuuu!"
+    },
+    "V0857_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
     }
   }
 }

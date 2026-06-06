@@ -40,7 +40,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei! Vedrai quanto sono migliorato!"
     },
@@ -50,7 +51,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Jack, non mi lascerò schiacciare dal tuo Deck potente!"
     },
@@ -2242,7 +2244,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei, tu credi in te stesso.Così ho deciso di farlo anch'io!"
     },
@@ -2252,7 +2255,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Sarò forte come te, Jack!"
     },
@@ -2382,7 +2386,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Non sono ancora il migliore, ma i miei amici mi aiuteranno a diventarlo!"
     },
@@ -2392,7 +2397,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Jack, sei davvero fantastico!"
     },
@@ -2731,7 +2737,10 @@
         202,
         203,
         204,
-        209
+        209,
+        219,
+        220,
+        221
       ],
       "text": "Io li ho scaldati, ora puoi cuocerli a puntino!"
     },
@@ -2745,7 +2754,10 @@
         202,
         203,
         204,
-        209
+        209,
+        219,
+        220,
+        221
       ],
       "text": "Farò del mio meglio per aiutarti, so che puoi farcela!"
     },
@@ -2759,7 +2771,10 @@
         202,
         203,
         204,
-        209
+        209,
+        219,
+        220,
+        221
       ],
       "text": "Non abbiamo ancora perso! Non perdere le speranze!"
     },

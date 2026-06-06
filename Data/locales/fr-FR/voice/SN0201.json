@@ -40,7 +40,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Jack....\nJe te montrerai que je suis au meilleur de ma forme."
     },
@@ -53,7 +54,9 @@
         203,
         204,
         205,
-        206
+        206,
+        221,
+        221
       ],
       "text": "Les Duels nous ont toujours mis sur la bonne voie."
     },
@@ -89,7 +92,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        213
+        213,
+        222
       ],
       "text": "Pour convaincre Kalin que tout est un malentendu..."
     },
@@ -4279,7 +4283,14 @@
       "frame": 0,
       "cutin": 0,
       "card": [],
-      "duelist": [],
+      "duelist": [
+        203,
+        204,
+        205,
+        206,
+        221,
+        0
+      ],
       "text": "Je suis un Duelliste, je crois en toutes mes cartes."
     },
     "V0201_28_00_03_1": {
@@ -4296,7 +4307,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Jack, tu m'as montré qu'un feu embrase aussi mon âme."
     },
@@ -4309,7 +4321,8 @@
         203,
         204,
         205,
-        206
+        206,
+        221
       ],
       "text": "Peu importe le résultat, notre lien est inaltérable."
     },
@@ -4329,7 +4342,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        213
+        213,
+        222
       ],
       "text": "Le Kalin que je connais n'aurais pas aimé jouer comme ça !"
     },
@@ -4488,7 +4502,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "Hé...\nNous ne changeons jamais, pas vrai ?"
     },
@@ -4509,7 +4524,8 @@
         203,
         204,
         205,
-        206
+        206,
+        221
       ],
       "text": "Notre lien éternel nous donne la force de continuer."
     },
@@ -4529,7 +4545,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        213
+        213,
+        222
       ],
       "text": "Qu'est-ce qui cloche ?\nCe n'est pas assez bien pour Kalin..."
     },
@@ -4845,7 +4862,9 @@
         204,
         205,
         206,
-        209
+        209,
+        220,
+        221
       ],
       "text": "Utilise la force de notre amitié pour l'emporter !"
     },
@@ -4875,7 +4894,9 @@
         204,
         205,
         206,
-        209
+        209,
+        220,
+        221
       ],
       "text": "Je crois en toi, camarade !"
     },
@@ -4998,6 +5019,2682 @@
       "card": [],
       "duelist": [],
       "text": "À vos marques... Prêt... Duel !"
+    },
+    "V0201_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active un Effet Pendule !"
+    },
+    "V0201_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Magie Rituelle !"
+    },
+    "V0201_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Sacrifice !"
+    },
+    "V0201_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Fusion !"
+    },
+    "V0201_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Rituelle !"
+    },
+    "V0201_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0201_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Xyz !"
+    },
+    "V0201_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Pendule !"
+    },
+    "V0201_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Lien !"
+    },
+    "V0201_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Maximum !"
+    },
+    "V0201_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Maximum !"
+    },
+    "V0201_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Fusion !"
+    },
+    "V0201_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Fusion !"
+    },
+    "V0201_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je Contact Fusionne un monstre !"
+    },
+    "V0201_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Contact Fusion !"
+    },
+    "V0201_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque Rituellement un monstre !"
+    },
+    "V0201_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Rituelle !"
+    },
+    "V0201_21_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je ne peux pas encore baisser ma garde."
+    },
+    "V0201_21_00_03_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je termine mon tour !"
+    },
+    "V0201_21_00_04_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Voilà qui termine mon tour !"
+    },
+    "V0201_21_00_05_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Argh..."
+    },
+    "V0201_21_00_05_1": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je termine mon tour !"
+    },
+    "V0201_34_00_11_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tu étais plus fort quand tu étais Pactisant des Ténèbres !"
+    },
+    "V0201_34_00_12_0": {
+      "face": 4,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pourquoi tu ne te fusionnes pas avec ton Duel Runner..."
+    },
+    "V0201_36_00_07_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        213,
+        222
+      ],
+      "text": "Je compte sur toi, Kalin !"
+    },
+    "V0201_36_00_08_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        213,
+        222
+      ],
+      "text": "Ensemble, on est imbattables !"
+    },
+    "V0201_08_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7901
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie !\nChambouleur de Cartes !"
+    },
+    "V0201_08_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8977
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie Jeu-Rapide ! \n !Double Cyclone !"
+    },
+    "V0201_08_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7740
+      ],
+      "duelist": [],
+      "text": "J'active la Carte Magie Continue Effet de Domino !"
+    },
+    "V0201_08_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7740
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Magie Continue Effet de Domino s'active !"
+    },
+    "V0201_08_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8040
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie d'Équipement ! \nÉtoile de Vigilance !"
+    },
+    "V0201_08_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8040
+      ],
+      "duelist": [],
+      "text": "La Carte Étoile de Vigilance s'active une fois envoyée au Cimetière !"
+    },
+    "V0201_08_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22562
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie Jeu-Rapide ! \n !Signal Robot !"
+    },
+    "V0201_08_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14918
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie Continue !\nPoursuite Synchro !"
+    },
+    "V0201_08_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14918
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Magie Continue Poursuite Synchro s'active !"
+    },
+    "V0201_08_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18435
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie Jeu-Rapide ! \n !Croix Finale !"
+    },
+    "V0201_08_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17250
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie Continue !\nÀ vos Marques, Prêts, DUEL ! !"
+    },
+    "V0201_08_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17250
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte À vos Marques, Prêts, DUEL ! s'active !"
+    },
+    "V0201_08_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17250
+      ],
+      "duelist": [],
+      "text": "J'envoie À vos Marques, Prêts, DUEL ! au Cimetière !"
+    },
+    "V0201_08_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16240
+      ],
+      "duelist": [],
+      "text": "J'active la Carte Magie Illumination Poussière d'Étoile !"
+    },
+    "V0201_08_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16240
+      ],
+      "duelist": [],
+      "text": "Je bannis Illumination Poussière d'Étoile de mon Cimetière !"
+    },
+    "V0201_08_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16241
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie !\nAbsorption Majestueuse !"
+    },
+    "V0201_08_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21905
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie !\nCamaraderie Synchro !"
+    },
+    "V0201_08_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21905
+      ],
+      "duelist": [],
+      "text": "Je bannis Camaraderie Synchro de mon Cimetière pour utiliser son effet !"
+    },
+    "V0201_08_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16256
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie !\nDépassement Synchro !"
+    },
+    "V0201_08_00_72_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18837
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie !\nSurpassement Synchro !"
+    },
+    "V0201_08_00_73_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18837
+      ],
+      "duelist": [],
+      "text": "Je bannis Surpassement Synchro de mon Cimetière !"
+    },
+    "V0201_08_00_74_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16239
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie Continue !\nArrivée dans la Lumière !"
+    },
+    "V0201_08_00_75_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16239
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Arrivée dans la Lumière s'active !"
+    },
+    "V0201_08_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7753
+      ],
+      "duelist": [],
+      "text": "J'active le Piège, Tir d'Équipement !"
+    },
+    "V0201_08_00_77_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7919
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Piège !\nLeurre de Confusion !"
+    },
+    "V0201_08_00_78_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8582
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège Continu !\nCapitulation Forcée !"
+    },
+    "V0201_08_00_79_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8582
+      ],
+      "duelist": [],
+      "text": "J'active le Piège Continu, l'effet de Capitulation Forcée !"
+    },
+    "V0201_08_00_80_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8994
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège Continu !\nChangement Désespéré !"
+    },
+    "V0201_08_00_81_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8994
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Changement Désespéré s'active !"
+    },
+    "V0201_08_00_82_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11626
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nStatue de Ferraille !"
+    },
+    "V0201_08_00_83_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11626
+      ],
+      "duelist": [],
+      "text": "La Carte Statue de Ferraille s'active une fois envoyée au Cimetière !"
+    },
+    "V0201_08_00_84_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18855
+      ],
+      "duelist": [],
+      "text": "J'active le Piège, Statue Sacrée de Ferraille !"
+    },
+    "V0201_08_00_85_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18855
+      ],
+      "duelist": [],
+      "text": "La Carte Statue Sacrée de Ferraille s'active lorsqu'elle est détruite !"
+    },
+    "V0201_08_00_86_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14219
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège Continu !\nSouhait de Poussière d'Étoile !"
+    },
+    "V0201_08_00_87_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14219
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Souhait de Poussière d'Étoile s'active !"
+    },
+    "V0201_08_00_88_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16259
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège Continu !\nMirage Majestueux !"
+    },
+    "V0201_08_00_89_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16259
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Mirage Majestueux s'active !"
+    },
+    "V0201_09_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Invoquer Spécialement Dragon Cramoisi me permet d'utiliser cet effet !"
+    },
+    "V0201_09_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "La Carte Dragon Cramoisi active son effet !"
+    },
+    "V0201_09_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18824
+      ],
+      "duelist": [],
+      "text": "La Carte Dragon Quasar Cosmique active son effet !"
+    },
+    "V0201_09_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18824
+      ],
+      "duelist": [],
+      "text": "Je bannis Dragon Quasar Cosmique pour activer son effet !"
+    },
+    "V0201_09_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16228
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Dragon des Étoiles Majestueux Tireur !"
+    },
+    "V0201_09_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16228
+      ],
+      "duelist": [],
+      "text": "Je bannis Dragon des Étoiles Majestueux Tireur pour annuler l'effet !"
+    },
+    "V0201_09_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14956
+      ],
+      "duelist": [],
+      "text": "Je bannis un Syntoniseur de mon Cimetière pour utiliser l'effet de Dragon Étoile Filante EX T.G. !"
+    },
+    "V0201_09_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14956
+      ],
+      "duelist": [],
+      "text": "La Carte Dragon Étoile Filante EX T.G. active son effet !"
+    },
+    "V0201_09_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14956
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Dragon Étoile Filante EX T.G. s'active depuis le Cimetière !"
+    },
+    "V0201_09_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17253
+      ],
+      "duelist": [],
+      "text": "Comme j'ai Invoqué par Synchro Dragon Poussière d'Étoile Accel Synchro..."
+    },
+    "V0201_09_00_72_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17253
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Dragon Poussière d'Étoile Accel Synchro !"
+    },
+    "V0201_09_00_73_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13714
+      ],
+      "duelist": [],
+      "text": "En Invoquant par Synchro Dragon Monteur Filant, je peux le faire !"
+    },
+    "V0201_09_00_74_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13714
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Dragon Monteur Filant !"
+    },
+    "V0201_09_00_75_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22141
+      ],
+      "duelist": [],
+      "text": "Invoquer Spécialement Clergesse aux Ailes Nocturnes me permet d'utiliser son effet !"
+    },
+    "V0201_09_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22141
+      ],
+      "duelist": [],
+      "text": "Je défausse 1 carte pour activer l'effet de la Carte Clergesse aux Ailes Nocturnes !"
+    },
+    "V0201_09_00_77_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14915
+      ],
+      "duelist": [],
+      "text": "Invoquer par Synchro Guerrier Satellite me permet d'utiliser son effet !"
+    },
+    "V0201_09_00_78_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14915
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Guerrier Satellite s'active quand elle est détruite !"
+    },
+    "V0201_09_00_79_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21907
+      ],
+      "duelist": [],
+      "text": "Invoquer par Synchro Robot Guerrier Extrême lui donne un effet !"
+    },
+    "V0201_09_00_80_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21907
+      ],
+      "duelist": [],
+      "text": "Je bannis Robot Guerrier Extrême pour activer son effet !"
+    },
+    "V0201_09_00_81_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13868
+      ],
+      "duelist": [],
+      "text": "Invoquer par Synchro Robot Rapide me permet d'utiliser son effet !"
+    },
+    "V0201_09_00_82_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13868
+      ],
+      "duelist": [],
+      "text": "Invoquer par Synchro Robot Rapide ce tour active son effet !"
+    },
+    "V0201_09_00_83_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14218
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Signal du Guerrier s'active !"
+    },
+    "V0201_09_00_84_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14218
+      ],
+      "duelist": [],
+      "text": "Je retire les Compteurs Signal pour utiliser l'effet de Signal du Guerrier !"
+    },
+    "V0201_09_00_85_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21908
+      ],
+      "duelist": [],
+      "text": "La Carte Guerrier de Ferraille peut utiliser son effet quand elle est Invoquée par Synchro."
+    },
+    "V0201_09_00_86_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22113
+      ],
+      "duelist": [],
+      "text": "Détruire Robot Guerrier/Mode Assaut active son effet !"
+    },
+    "V0201_09_00_87_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18788
+      ],
+      "duelist": [],
+      "text": "La Carte Roue Synchronique active son effet !"
+    },
+    "V0201_09_00_88_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18788
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Roue Synchronique depuis le Cimetière !"
+    },
+    "V0201_09_00_89_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8932
+      ],
+      "duelist": [],
+      "text": "La Carte Géant Sismique active son effet !"
+    },
+    "V0201_09_00_90_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8438
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Guerrier Maximum s'active !"
+    },
+    "V0201_09_00_91_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16192
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Éclat Poussière d'Étoile s'active !"
+    },
+    "V0201_09_00_92_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16192
+      ],
+      "duelist": [],
+      "text": "Utiliser Éclat Poussière d'Étoile pour Invoquer par Synchro active son effet !"
+    },
+    "V0201_09_00_93_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16191
+      ],
+      "duelist": [],
+      "text": "Poussière d'Étoile Synchronique peut s'activer depuis la main ou le Cimetière !"
+    },
+    "V0201_09_00_94_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16191
+      ],
+      "duelist": [],
+      "text": "La Carte Poussière d'Étoile Synchronique active son effet !"
+    },
+    "V0201_09_00_95_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9802
+      ],
+      "duelist": [],
+      "text": "La Carte Dragon Étoile Brillante active son effet !"
+    },
+    "V0201_09_00_96_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8441
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Gardien Zéro !"
+    },
+    "V0201_09_00_97_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7702
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Gardna Spectral !"
+    },
+    "V0201_09_00_98_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7702
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Gardna Spectral s'active quand elle est détruite !"
+    },
+    "V0201_09_00_99_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7869
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Générateur d'Onde de Guérison !"
+    },
+    "V0201_09_00_99_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Vague de lumière étoilée !"
+    },
+    "V0201_09_00_100_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8937
+      ],
+      "duelist": [],
+      "text": "J'envoie la Carte Gardien de la Citadelle depuis ma main au Cimetière !"
+    },
+    "V0201_09_00_101_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8579
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Guerrier au Gant de Force !"
+    },
+    "V0201_09_00_102_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7703
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Guerrier au Bouclier depuis mon Cimetière !"
+    },
+    "V0201_09_00_103_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10310
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Vapeur Synchronique !"
+    },
+    "V0201_09_00_104_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18789
+      ],
+      "duelist": [],
+      "text": "La Carte Révolution Synchronique active son effet depuis mon Cimetière !"
+    },
+    "V0201_09_00_105_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8614
+      ],
+      "duelist": [],
+      "text": "L'effet de Tricular s'active une fois détruite au combat !"
+    },
+    "V0201_09_00_106_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8613
+      ],
+      "duelist": [],
+      "text": "L'effet de Bicular s'active une fois détruite au combat !"
+    },
+    "V0201_09_00_107_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9799
+      ],
+      "duelist": [],
+      "text": "Envoyer Guerrier Sonique au Cimetière active son effet !"
+    },
+    "V0201_09_00_108_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9293
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Guerrier Double depuis ma main !"
+    },
+    "V0201_09_00_109_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9293
+      ],
+      "duelist": [],
+      "text": "Utiliser Guerrier Double pour Invoquer par Synchro active son effet !"
+    },
+    "V0201_09_00_110_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14916
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Robot Convertisseur depuis ma main !"
+    },
+    "V0201_09_00_111_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14916
+      ],
+      "duelist": [],
+      "text": "Utiliser Robot Convertisseur pour Invoquer par Synchro active son effet !"
+    },
+    "V0201_09_00_112_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22514
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Guerrier Sonique d'Assaut depuis ma main !"
+    },
+    "V0201_09_00_113_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22514
+      ],
+      "duelist": [],
+      "text": "Invoquer la Carte Guerrier Sonique d'Assaut me permet d'activer son effet !"
+    },
+    "V0201_09_00_114_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22514
+      ],
+      "duelist": [],
+      "text": "J'ai utilisé Guerrier Sonique d'Assaut pour une Invocation Synchro !"
+    },
+    "V0201_09_00_115_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21901
+      ],
+      "duelist": [],
+      "text": "Invoquer la Carte Guerrier de Célérité Maximale me permet d'activer son effet !"
+    },
+    "V0201_09_00_116_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11621
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Guerrier de Ruée depuis ma main !"
+    },
+    "V0201_09_00_117_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11621
+      ],
+      "duelist": [],
+      "text": "Je bannis Guerrier de Ruée de mon Cimetière pour utiliser son effet !"
+    },
+    "V0201_09_00_118_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18427
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Assaut Synchronique depuis ma main !"
+    },
+    "V0201_09_00_119_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18427
+      ],
+      "duelist": [],
+      "text": "Je bannis Assaut Synchronique de mon Cimetière !"
+    },
+    "V0201_09_00_120_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14917
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Satellite Synchronique depuis ma main !"
+    },
+    "V0201_09_00_121_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14917
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Satellite Synchronique !"
+    },
+    "V0201_09_00_122_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11622
+      ],
+      "duelist": [],
+      "text": "La Carte Transporteur Synchronique active son effet !"
+    },
+    "V0201_09_00_123_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21902
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Hérisson à Boulons d'Ancrage s'active depuis le Cimetière !"
+    },
+    "V0201_09_00_124_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7986
+      ],
+      "duelist": [],
+      "text": "Utiliser Casserole de Réglage pour Invoquer par Synchro active son effet !"
+    },
+    "V0201_09_00_125_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8440
+      ],
+      "duelist": [],
+      "text": "La Carte Dévoreur de Niveau active son effet depuis mon Cimetière !"
+    },
+    "V0201_09_00_126_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9078
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Attaque de l'Épouvantail depuis ma main !"
+    },
+    "V0201_09_00_127_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21903
+      ],
+      "duelist": [],
+      "text": "Un Syntoniseur au Cimetière active Bip Bip du Tournant !"
+    },
+    "V0201_09_00_128_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8437
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Xiaolong Poussière d'Étoile s'active depuis mon Cimetière !"
+    },
+    "V0201_09_00_129_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9294
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Fantôme Poussière d'Étoile s'active lorsqu'elle est détruite !"
+    },
+    "V0201_09_00_130_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9294
+      ],
+      "duelist": [],
+      "text": "Je bannis Fantôme Poussière d'Étoile de mon Cimetière !"
+    },
+    "V0201_09_00_131_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17387
+      ],
+      "duelist": [],
+      "text": "Wurm Poussière d'Étoile peut s'activer depuis la main ou le Cimetière !"
+    },
+    "V0201_09_00_132_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17387
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Wurm Poussière d'Étoile !"
+    },
+    "V0201_09_00_133_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Dragon de l'Étoile Brillante s'active depuis ma main !"
+    },
+    "V0201_09_00_134_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16190
+      ],
+      "duelist": [],
+      "text": "La carte que j'ai piochée était...\nDragon de la Convergence des Volontés !"
+    },
+    "V0201_09_00_134_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Dragon de la Convergence des Volontés !"
+    },
+    "V0201_13_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Aide-moi !\nDragon Cramoisi !"
+    },
+    "V0201_37_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18824
+      ],
+      "duelist": [],
+      "text": "Nos esprits s'unissent pour créer un nouvel avenir !"
+    },
+    "V0201_37_00_31_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je vais mettre les gaz !\nLimite de Synchro Axel !"
+    },
+    "V0201_13_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        18824
+      ],
+      "duelist": [],
+      "text": "Une lueur d'espoir !\nDragon Quasar Cosmique !"
+    },
+    "V0201_37_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16228
+      ],
+      "duelist": [],
+      "text": "Nos cœurs s'allient pour créer un miracle éblouissants !"
+    },
+    "V0201_37_00_32_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je vais mettre les gaz !\nInvocation Synchro !"
+    },
+    "V0201_13_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        16228
+      ],
+      "duelist": [],
+      "text": "Descends de la lumière !\nDragon des Étoiles Majestueux Tireur !"
+    },
+    "V0201_37_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14956
+      ],
+      "duelist": [],
+      "text": "Mon âme se lie à celles de mes amis !"
+    },
+    "V0201_37_00_33_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Illumine notre futur !\nSynchro Axel !"
+    },
+    "V0201_13_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14956
+      ],
+      "duelist": [],
+      "text": "Notre lien renaît !"
+    },
+    "V0201_13_00_58_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [],
+      "duelist": [],
+      "text": "Dragon Étoile Filante EX T.G. !"
+    },
+    "V0201_13_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        17253
+      ],
+      "duelist": [],
+      "text": "Envole-toi !\nDragon Poussière d'Étoile Accel Synchro !"
+    },
+    "V0201_37_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13714
+      ],
+      "duelist": [],
+      "text": "Nos espoirs créent une nouvelle orbite parmi des étoiles !"
+    },
+    "V0201_37_00_34_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je vais mettre les gaz !\nInvocation Synchro !"
+    },
+    "V0201_13_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13714
+      ],
+      "duelist": [],
+      "text": "Prends ton envol !\nDragon Monteur Filant !"
+    },
+    "V0201_13_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22141
+      ],
+      "duelist": [],
+      "text": "Viens !\nClergesse aux Ailes Nocturnes !"
+    },
+    "V0201_13_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14915
+      ],
+      "duelist": [],
+      "text": "Investis le Terrain !\nGuerrier Satellite !"
+    },
+    "V0201_37_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21907
+      ],
+      "duelist": [],
+      "text": "Même la plus petite ferraille a un potentiel infini !"
+    },
+    "V0201_37_00_35_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je vais mettre les gaz !\nInvocation Synchro !"
+    },
+    "V0201_13_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        21907
+      ],
+      "duelist": [],
+      "text": "Apparais !\nRobot Guerrier Extrême !"
+    },
+    "V0201_37_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13868
+      ],
+      "duelist": [],
+      "text": "Le vent tourne plus vite que la lumière !"
+    },
+    "V0201_37_00_36_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je vais mettre les gaz !\nInvocation Synchro !"
+    },
+    "V0201_13_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        13868
+      ],
+      "duelist": [],
+      "text": "Fends le vent !\nRobot Rapide !"
+    },
+    "V0201_13_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        14218
+      ],
+      "duelist": [],
+      "text": "Voici Signal du Guerrier !"
+    },
+    "V0201_13_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        21908
+      ],
+      "duelist": [],
+      "text": "Allons-y !\nGuerrier de Ferraille !"
+    },
+    "V0201_37_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22113
+      ],
+      "duelist": [],
+      "text": "Avec son armure, sa puissance devient inimaginable !"
+    },
+    "V0201_13_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        22113
+      ],
+      "duelist": [],
+      "text": "Apparais !\nRobot Guerrier/Mode Assaut !"
+    },
+    "V0201_13_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8004
+      ],
+      "duelist": [],
+      "text": "Guerrier Tourelle !"
+    },
+    "V0201_13_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8607
+      ],
+      "duelist": [],
+      "text": "J'Invoque Spécialement Guerrier de Réserve !"
+    },
+    "V0201_13_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18788
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur Roue Synchronique !"
+    },
+    "V0201_13_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8932
+      ],
+      "duelist": [],
+      "text": "Géant Sismique !"
+    },
+    "V0201_13_00_72_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8006
+      ],
+      "duelist": [],
+      "text": "Mon Monstre Syntoniseur, \nRobot Hyper Synchronique !"
+    },
+    "V0201_13_00_73_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8438
+      ],
+      "duelist": [],
+      "text": "Guerrier Maximum !"
+    },
+    "V0201_13_00_74_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16192
+      ],
+      "duelist": [],
+      "text": "Éclat Poussière d'Étoile !"
+    },
+    "V0201_13_00_75_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16191
+      ],
+      "duelist": [],
+      "text": "Mon Monstre Syntoniseur, Poussière d'Étoile Synchronique !"
+    },
+    "V0201_13_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9802
+      ],
+      "duelist": [],
+      "text": "Dragon Étoile Brillante !"
+    },
+    "V0201_13_00_77_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8441
+      ],
+      "duelist": [],
+      "text": "Gardien Zéro !"
+    },
+    "V0201_13_00_78_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7702
+      ],
+      "duelist": [],
+      "text": "Gardna Spectral !"
+    },
+    "V0201_13_00_79_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7869
+      ],
+      "duelist": [],
+      "text": "Générateur d'Onde de Guérison !"
+    },
+    "V0201_13_00_80_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8937
+      ],
+      "duelist": [],
+      "text": "Gardien de la Citadelle !"
+    },
+    "V0201_13_00_81_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8579
+      ],
+      "duelist": [],
+      "text": "Guerrier au Gant de Force !"
+    },
+    "V0201_13_00_82_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7703
+      ],
+      "duelist": [],
+      "text": "Guerrier au Bouclier !"
+    },
+    "V0201_13_00_83_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10310
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur Vapeur Synchronique !"
+    },
+    "V0201_13_00_84_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8155
+      ],
+      "duelist": [],
+      "text": "Manipulateur de Niveau !"
+    },
+    "V0201_13_00_85_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18789
+      ],
+      "duelist": [],
+      "text": "Voici mon Monstre Syntoniseur !\nRévolution Synchronique !"
+    },
+    "V0201_13_00_86_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8614
+      ],
+      "duelist": [],
+      "text": "Tricular !"
+    },
+    "V0201_13_00_87_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8613
+      ],
+      "duelist": [],
+      "text": "Bicular !"
+    },
+    "V0201_13_00_88_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8612
+      ],
+      "duelist": [],
+      "text": "Unicycular !"
+    },
+    "V0201_13_00_89_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9799
+      ],
+      "duelist": [],
+      "text": "Guerrier Sonique !"
+    },
+    "V0201_13_00_90_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9293
+      ],
+      "duelist": [],
+      "text": "Guerrier Double !"
+    },
+    "V0201_13_00_91_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7985
+      ],
+      "duelist": [],
+      "text": "Guerrier Forteresse !"
+    },
+    "V0201_13_00_92_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8781
+      ],
+      "duelist": [],
+      "text": "J'Invoque Spécialement Briseur de Carte !"
+    },
+    "V0201_13_00_93_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7990
+      ],
+      "duelist": [],
+      "text": "Ptérosaure Bouclier !"
+    },
+    "V0201_13_00_94_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14916
+      ],
+      "duelist": [],
+      "text": "Robot Convertisseur !"
+    },
+    "V0201_13_00_95_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22514
+      ],
+      "duelist": [],
+      "text": "Guerrier Sonique d'Assaut !"
+    },
+    "V0201_13_00_96_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21901
+      ],
+      "duelist": [],
+      "text": "Guerrier de Célérité Maximale !"
+    },
+    "V0201_13_00_97_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11621
+      ],
+      "duelist": [],
+      "text": "Guerrier de Ruée !"
+    },
+    "V0201_13_00_98_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18427
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur Assaut Synchronique !"
+    },
+    "V0201_13_00_99_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14917
+      ],
+      "duelist": [],
+      "text": "Mon Monstre Syntoniseur !\nSatellite Synchronique !"
+    },
+    "V0201_13_00_100_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11622
+      ],
+      "duelist": [],
+      "text": "Transporteur Synchronique !"
+    },
+    "V0201_13_00_101_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21902
+      ],
+      "duelist": [],
+      "text": "Hérisson à Boulons d'Ancrage !"
+    },
+    "V0201_13_00_102_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7986
+      ],
+      "duelist": [],
+      "text": "Casserole de Réglage !"
+    },
+    "V0201_13_00_103_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8440
+      ],
+      "duelist": [],
+      "text": "Dévoreur de Niveau !"
+    },
+    "V0201_13_00_104_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9078
+      ],
+      "duelist": [],
+      "text": "Attaque de l'Épouvantail !"
+    },
+    "V0201_13_00_105_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21903
+      ],
+      "duelist": [],
+      "text": "Bip Bip du Tournant !"
+    },
+    "V0201_13_00_106_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21904
+      ],
+      "duelist": [],
+      "text": "Mon Monstre Syntoniseur !\nFerraille Synchronique !"
+    },
+    "V0201_13_00_107_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8437
+      ],
+      "duelist": [],
+      "text": "Xiaolong Poussière d'Étoile !"
+    },
+    "V0201_13_00_108_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9294
+      ],
+      "duelist": [],
+      "text": "Fantôme Poussière d'Étoile !"
+    },
+    "V0201_13_00_109_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17387
+      ],
+      "duelist": [],
+      "text": "Wurm Poussière d'Étoile !"
+    },
+    "V0201_13_00_110_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur Dragon de l'Étoile Brillante !"
+    },
+    "V0201_13_00_111_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16190
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur Dragon de la Convergence des Volontés !"
+    },
+    "V0201_19_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Dragon Cramoisi !\nÀ l'attaque !"
+    },
+    "V0201_19_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18824
+      ],
+      "duelist": [],
+      "text": "Vas-y, Dragon Quasar Cosmique !\nAttaque !"
+    },
+    "V0201_19_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16228
+      ],
+      "duelist": [],
+      "text": "Dragon des Étoiles Majestueux Tireur !\nExplose l'adversaire !"
+    },
+    "V0201_19_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14956
+      ],
+      "duelist": [],
+      "text": "Dragon Étoile Filante EX T.G. !\nÀ l'attaque !"
+    },
+    "V0201_19_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17253
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Dragon Poussière d'Étoile Accel Synchro !"
+    },
+    "V0201_19_00_59_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Brasier cosmique !"
+    },
+    "V0201_19_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13714
+      ],
+      "duelist": [],
+      "text": "Dragon Monteur Filant !\nÀ l'attaque !"
+    },
+    "V0201_19_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22141
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Clergesse aux Ailes Nocturnes !"
+    },
+    "V0201_19_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14915
+      ],
+      "duelist": [],
+      "text": "Guerrier Satellite attaque !"
+    },
+    "V0201_19_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21907
+      ],
+      "duelist": [],
+      "text": "Robot Guerrier Extrême !\nÀ l'attaque !"
+    },
+    "V0201_19_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13868
+      ],
+      "duelist": [],
+      "text": "Robot Rapide ! À l'attaque !"
+    },
+    "V0201_19_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14218
+      ],
+      "duelist": [],
+      "text": "Signal du Guerrier !\nÀ l'attaque !"
+    },
+    "V0201_19_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21908
+      ],
+      "duelist": [],
+      "text": "Guerrier de Ferraille !\nRéduis-les en cendres !"
+    },
+    "V0201_19_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22113
+      ],
+      "duelist": [],
+      "text": "Vas-y, Robot Guerrier/Mode Assaut !\nAttaque !"
+    },
+    "V0201_19_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8004
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Guerrier Tourelle !"
+    },
+    "V0201_19_00_68_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Barrage explosif rapide !"
+    },
+    "V0201_19_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8607
+      ],
+      "duelist": [],
+      "text": "Guerrier de Réserve !\nÀ l'attaque !"
+    },
+    "V0201_19_00_69_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Barrage explosif rapide !"
+    },
+    "V0201_19_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18788
+      ],
+      "duelist": [],
+      "text": "Roue Synchronique !\nÀ l'attaque !"
+    },
+    "V0201_19_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8932
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Géant Sismique !"
+    },
+    "V0201_19_00_72_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8006
+      ],
+      "duelist": [],
+      "text": "Robot Hyper Synchronique attaque !"
+    },
+    "V0201_19_00_73_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8438
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Guerrier Maximum !"
+    },
+    "V0201_19_00_73_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ruée rapide !"
+    },
+    "V0201_19_00_74_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16192
+      ],
+      "duelist": [],
+      "text": "Éclat Poussière d'Étoile !\nÀ l'attaque !"
+    },
+    "V0201_19_00_75_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16191
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Poussière d'Étoile Synchronique !"
+    },
+    "V0201_19_00_76_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9802
+      ],
+      "duelist": [],
+      "text": "Dragon Étoile Brillante !\nÀ l'attaque !"
+    },
+    "V0201_19_00_77_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8441
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Gardien Zéro !"
+    },
+    "V0201_19_00_78_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7702
+      ],
+      "duelist": [],
+      "text": "Gardna Spectral !\nÀ l'attaque !"
+    },
+    "V0201_19_00_79_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7869
+      ],
+      "duelist": [],
+      "text": "Générateur d'Onde de Guérison !\nÀ l'attaque !"
+    },
+    "V0201_19_00_80_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8937
+      ],
+      "duelist": [],
+      "text": "Gardien de la Citadelle !\nÀ l'attaque !"
+    },
+    "V0201_19_00_81_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8579
+      ],
+      "duelist": [],
+      "text": "Guerrier au Gant de Force !\nÀ l'attaque !"
+    },
+    "V0201_19_00_82_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7703
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Guerrier au Bouclier !"
+    },
+    "V0201_19_00_83_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10310
+      ],
+      "duelist": [],
+      "text": "Vapeur Synchronique ! À l'attaque !"
+    },
+    "V0201_19_00_84_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8155
+      ],
+      "duelist": [],
+      "text": "Manipulateur de Niveau attaque !"
+    },
+    "V0201_19_00_85_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18789
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Révolution Synchronique !"
+    },
+    "V0201_19_00_86_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8614
+      ],
+      "duelist": [],
+      "text": "Tricular ! À l'attaque !"
+    },
+    "V0201_19_00_87_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8613
+      ],
+      "duelist": [],
+      "text": "Bicular ! À l'attaque !"
+    },
+    "V0201_19_00_88_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8612
+      ],
+      "duelist": [],
+      "text": "Unicycular ! À l'attaque !"
+    },
+    "V0201_19_00_89_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9799
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Guerrier Sonique !"
+    },
+    "V0201_19_00_90_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9293
+      ],
+      "duelist": [],
+      "text": "Guerrier Double ! À l'attaque !"
+    },
+    "V0201_19_00_91_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7985
+      ],
+      "duelist": [],
+      "text": "Guerrier Forteresse !\nÀ l'attaque !"
+    },
+    "V0201_19_00_92_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8781
+      ],
+      "duelist": [],
+      "text": "Ma Carte Briseur de Carte attaque !"
+    },
+    "V0201_19_00_93_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7990
+      ],
+      "duelist": [],
+      "text": "Ptérosaure Bouclier ! À l'attaque !"
+    },
+    "V0201_19_00_94_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14916
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Robot Convertisseur !"
+    },
+    "V0201_19_00_95_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22514
+      ],
+      "duelist": [],
+      "text": "Guerrier Sonique d'Assaut !\nÀ l'attaque !"
+    },
+    "V0201_19_00_96_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21901
+      ],
+      "duelist": [],
+      "text": "Guerrier de Célérité Maximale !\nÀ l'attaque !"
+    },
+    "V0201_19_00_97_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11621
+      ],
+      "duelist": [],
+      "text": "Guerrier de Ruée !\nÀ l'attaque !"
+    },
+    "V0201_19_00_98_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18427
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Assaut Synchronique !"
+    },
+    "V0201_19_00_99_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14917
+      ],
+      "duelist": [],
+      "text": "Satellite Synchronique !\nÀ l'attaque !"
+    },
+    "V0201_19_00_100_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11622
+      ],
+      "duelist": [],
+      "text": "Transporteur Synchronique !\nÀ l'attaque !"
+    },
+    "V0201_19_00_101_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21902
+      ],
+      "duelist": [],
+      "text": "Hérisson à Boulons d'Ancrage !\nÀ l'attaque !"
+    },
+    "V0201_19_00_102_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7986
+      ],
+      "duelist": [],
+      "text": "Casserole de Réglage !\nÀ l'attaque !"
+    },
+    "V0201_19_00_103_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8440
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Dévoreur de Niveau !"
+    },
+    "V0201_19_00_104_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9078
+      ],
+      "duelist": [],
+      "text": "Attaque de l'Épouvantail !\nÀ l'attaque !"
+    },
+    "V0201_19_00_105_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21903
+      ],
+      "duelist": [],
+      "text": "Bip Bip du Tournant !\nÀ l'attaque !"
+    },
+    "V0201_19_00_106_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21904
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Ferraille Synchronique !"
+    },
+    "V0201_19_00_107_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8437
+      ],
+      "duelist": [],
+      "text": "Xiaolong Poussière d'Étoile !\nÀ l'attaque !"
+    },
+    "V0201_19_00_108_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9294
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Fantôme Poussière d'Étoile !"
+    },
+    "V0201_19_00_109_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17387
+      ],
+      "duelist": [],
+      "text": "Wurm Poussière d'Étoile !\nÀ l'attaque !"
+    },
+    "V0201_19_00_110_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "Dragon de l'Étoile Brillante !\nÀ l'attaque !"
+    },
+    "V0201_19_00_111_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16190
+      ],
+      "duelist": [],
+      "text": "Dragon de la Convergence des Volontés !\nÀ l'attaque !"
+    },
+    "V0201_48_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est parti !"
+    },
+    "V0201_48_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est parti pour le rush !"
+    },
+    "V0201_51_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Yusei Fudo."
+    },
+    "V0201_51_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est l'heure du rush !"
+    },
+    "V0201_49_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je vais mettre les gaz !"
+    },
+    "V0201_49_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Un Turbo Rush Duel !"
     }
   }
 }

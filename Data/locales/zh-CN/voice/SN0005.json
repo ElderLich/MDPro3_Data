@@ -1216,6 +1216,54 @@
       "card": [],
       "duelist": [],
       "text": "黑龙爆！！"
+    },
+    "V0005_07_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "效果发动！"
+    },
+    "V0005_07_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "设置灵摆刻度！"
+    },
+    "V0005_11_10_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "连接召唤一只怪兽！"
+    },
+    "V0005_36_00_00_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "后面靠你啦！"
+    },
+    "V0005_36_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "好啦，到你了！"
+    },
+    "V0005_36_00_02_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "抱歉……加油！"
     }
   }
 }

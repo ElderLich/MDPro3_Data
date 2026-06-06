@@ -664,6 +664,22 @@
       "duelist": [],
       "text": "Kontaktfusion!"
     },
+    "V0902_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Los geht’s!"
+    },
+    "V0902_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo-Rush-Duel!"
+    },
     "V0902_14_00_00_0": {
       "face": 1,
       "frame": 0,
@@ -1500,7 +1516,7 @@
         18639
       ],
       "duelist": [],
-      "text": "Ich aktiviere die Fallenkarte !"
+      "text": "Ich aktiviere die Fallenkarte Große Verbindtech-Mauer!"
     },
     "V0902_08_00_09_0": {
       "face": 3,
@@ -1520,7 +1536,7 @@
         17906
       ],
       "duelist": [],
-      "text": "Ich aktiviere meine Fallenkarte!\n!"
+      "text": "Ich aktiviere meine Fallenkarte!\nStromschlag!"
     },
     "V0902_08_00_11_0": {
       "face": 3,
@@ -1538,7 +1554,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Der Ausrüstungszauber Qwerty-Schlüsselklinge!"
+      "text": "Der Ausrüstungszauber Qwerty-Tastaturklinge!"
     },
     "V0902_08_00_12_0": {
       "face": 3,
@@ -1548,7 +1564,7 @@
         18625
       ],
       "duelist": [],
-      "text": "Ich aktiviere den Ausrüstungszauber Hacken-Klaue!"
+      "text": "Ich aktiviere den Ausrüstungszauber Knackkralle!"
     },
     "V0902_08_00_13_0": {
       "face": 3,
@@ -1636,7 +1652,7 @@
         18965
       ],
       "duelist": [],
-      "text": "Ich aktiviere den Effekt von !"
+      "text": "Ich aktiviere den Effekt von Tamabot-Sprengdrache!"
     },
     "V0902_09_00_04_0": {
       "face": 12,
@@ -1728,7 +1744,7 @@
         18373
       ],
       "duelist": [],
-      "text": "Ich aktiviere den Effekt von !"
+      "text": "Ich aktiviere den Effekt von Verbindtech-Stegosilos!"
     },
     "V0902_09_00_08_0": {
       "face": 3,
@@ -1828,7 +1844,7 @@
         18579
       ],
       "duelist": [],
-      "text": " aktiviert den Effekt!"
+      "text": "Tamainabot aktiviert den Effekt!"
     },
     "V0902_09_00_18_0": {
       "face": 3,
@@ -2054,7 +2070,7 @@
         18965
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Tamabot-Sprengdrache!"
     },
     "V0902_37_00_05_0": {
       "face": 3,
@@ -2134,7 +2150,7 @@
         18373
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Verbindtech-Stegosilos!"
     },
     "V0902_13_00_09_0": {
       "face": 3,
@@ -2330,7 +2346,7 @@
         18579
       ],
       "duelist": [],
-      "text": "Schalte  ein!"
+      "text": "Schalte Tamainabot ein!"
     },
     "V0902_37_00_10_0": {
       "face": 9,
@@ -2560,7 +2576,7 @@
         18965
       ],
       "duelist": [],
-      "text": "!\nAngriff!"
+      "text": "Tamabot-Sprengdrache!\nAngriff!"
     },
     "V0902_19_00_03_1": {
       "face": 3,
@@ -2632,7 +2648,7 @@
         18373
       ],
       "duelist": [],
-      "text": "!\nAngriff!"
+      "text": "Verbindtech-Stegosilos!\nAngriff!"
     },
     "V0902_19_00_08_0": {
       "face": 3,
@@ -2792,7 +2808,7 @@
         18579
       ],
       "duelist": [],
-      "text": " greift an!"
+      "text": "Tamainabot greift an!"
     },
     "V0902_19_00_24_0": {
       "face": 3,
@@ -3047,6 +3063,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaaahhhhh!"
+    },
+    "V0902_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Und los!"
+    },
+    "V0902_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo-Rush-Duel!"
     }
   }
 }

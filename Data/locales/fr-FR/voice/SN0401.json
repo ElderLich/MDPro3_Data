@@ -27,7 +27,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Il est temps de répondre à l'appel du ciel, Astral !"
     },
@@ -80,7 +84,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Je ressens les flux !"
     },
@@ -93,7 +101,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Disque de Duel prêt !\nLunette de Duel aussi !"
     },
@@ -888,7 +900,13 @@
       "frame": 0,
       "cutin": 0,
       "card": [],
-      "duelist": [],
+      "duelist": [
+        0,
+        416,
+        417,
+        447,
+        448
+      ],
       "text": "Tu peux apprendre à connaître quelqu'un en l'affrontant."
     },
     "V0401_28_00_01_1": {
@@ -921,7 +939,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Je n'abandonne jamais !\nTant que je ressens les flux !"
     },
@@ -1048,7 +1070,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Je dois m'améliorer pour ressentir les flux comme mon père."
     },

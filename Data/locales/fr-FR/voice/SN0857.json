@@ -1709,6 +1709,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaah !"
+    },
+    "V0857_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Youhou !"
+    },
+    "V0857_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel !"
     }
   }
 }

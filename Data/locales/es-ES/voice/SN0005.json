@@ -1216,6 +1216,54 @@
       "card": [],
       "duelist": [],
       "text": "¡Explosión de Energía Oscura!"
+    },
+    "V0005_07_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo un efecto!"
+    },
+    "V0005_07_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Coloco la Escala de Péndulo!"
+    },
+    "V0005_11_10_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Uso una Invocación por Enlace!"
+    },
+    "V0005_36_00_00_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Tú puedes encargarte de lo demás!"
+    },
+    "V0005_36_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Te toca!"
+    },
+    "V0005_36_00_02_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Lo siento... ¡Pero yo creo en ti!"
     }
   }
 }

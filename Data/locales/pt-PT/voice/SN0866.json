@@ -628,6 +628,22 @@
       "duelist": [],
       "text": "Fusão de Contato!"
     },
+    "V0866_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação-Ritual de um monstro!"
+    },
+    "V0866_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Ritual!"
+    },
     "V0866_14_00_00_0": {
       "face": 1,
       "frame": 0,
@@ -1424,7 +1440,7 @@
         19295
       ],
       "duelist": [],
-      "text": "Ativo o efeito de Agente Equivocado!"
+      "text": "Ativo o efeito de Agente Desencontrado!"
     },
     "V0866_09_00_03_0": {
       "face": 3,
@@ -1444,7 +1460,7 @@
         19297
       ],
       "duelist": [],
-      "text": "Ativo o efeito de Agente Cafona!"
+      "text": "Ativo o efeito de Agente Descombinado!"
     },
     "V0866_09_00_05_0": {
       "face": 3,
@@ -1464,7 +1480,7 @@
         19298
       ],
       "duelist": [],
-      "text": "Ativo o efeito de Agente Perdido!"
+      "text": "Ativo o efeito de Agente Errôneo!"
     },
     "V0866_09_00_07_0": {
       "face": 3,
@@ -1544,7 +1560,7 @@
         19295
       ],
       "duelist": [],
-      "text": "Agente Equivocado!"
+      "text": "Agente Desencontrado!"
     },
     "V0866_13_00_04_0": {
       "face": 3,
@@ -1564,7 +1580,7 @@
         19297
       ],
       "duelist": [],
-      "text": "Agente Cafona!"
+      "text": "Agente Descombinado!"
     },
     "V0866_13_00_06_0": {
       "face": 3,
@@ -1584,7 +1600,7 @@
         19298
       ],
       "duelist": [],
-      "text": "Agente Perdido!"
+      "text": "Agente Errôneo!"
     },
     "V0866_13_00_08_0": {
       "face": 3,
@@ -1624,7 +1640,7 @@
         17560
       ],
       "duelist": [],
-      "text": "！"
+      "text": "Tropa de Choque Alienígena！"
     },
     "V0866_37_00_03_0": {
       "face": 3,
@@ -1710,7 +1726,7 @@
         19295
       ],
       "duelist": [],
-      "text": "Agente Equivocado! Atacar!"
+      "text": "Agente Desencontrado! Atacar!"
     },
     "V0866_19_00_05_0": {
       "face": 3,
@@ -1730,7 +1746,7 @@
         19297
       ],
       "duelist": [],
-      "text": "Agente Cafona!\nAtacar!"
+      "text": "Agente Descombinado!\nAtacar!"
     },
     "V0866_19_00_07_0": {
       "face": 3,
@@ -1750,7 +1766,7 @@
         19298
       ],
       "duelist": [],
-      "text": "Agente Perdido!\nAtacar!"
+      "text": "Agente Errôneo!\nAtacar!"
     },
     "V0866_19_00_09_0": {
       "face": 3,
@@ -1790,7 +1806,7 @@
         17560
       ],
       "duelist": [],
-      "text": "!\nAtacar!"
+      "text": "Tropa de Choque Alienígena!\nAtacar!"
     },
     "V0866_19_00_13_0": {
       "face": 3,
@@ -1921,6 +1937,22 @@
       "card": [],
       "duelist": [],
       "text": "Trêêêêêêês!"
+    },
+    "V0866_49_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Treza Flatwood!\nAqui vou eu!"
+    },
+    "V0866_49_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
     }
   }
 }

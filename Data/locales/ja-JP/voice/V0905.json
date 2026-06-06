@@ -45,6 +45,7 @@
     "V0905_07_12_00": 1,
     "V0905_07_13_00": 1,
     "V0905_07_14_00": 1,
+    "V0905_07_15_00": 1,
     "V0905_10_00_00": 1,
     "V0905_10_00_01": 1,
     "V0905_10_00_02": 1,
@@ -325,7 +326,9 @@
     "V0905_27_00_00": 1,
     "V0905_27_00_01": 1,
     "V0905_27_00_02": 1,
-    "V0905_23_00_00": 1
+    "V0905_23_00_00": 1,
+    "V0905_49_00_00": 1,
+    "V0905_49_01_00": 1
   },
   "labelver": 1,
   "BeforeDuel": {
@@ -452,7 +455,7 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          99999
+          869
         ],
         "skills": null,
         "situations": null,
@@ -1232,6 +1235,22 @@
         "groupingKeys": null,
         "homeTypes": null,
         "subCategoryIndex": 14,
+        "patternIndex": 0
+      },
+      "V0905_07_15_00_0": {
+        "fullName": "V0905_07_15_00_0",
+        "shortName": "V0905_07_15_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 15,
         "patternIndex": 0
       }
     }
@@ -2300,7 +2319,7 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          99999
+          869
         ],
         "skills": null,
         "situations": null,
@@ -2532,7 +2551,7 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          99999
+          869
         ],
         "skills": null,
         "situations": null,
@@ -6423,6 +6442,42 @@
         "groupingKeys": null,
         "homeTypes": null,
         "subCategoryIndex": 0,
+        "patternIndex": 0
+      }
+    }
+  },
+  "RidingRushDuelStart": {
+    "rawKvp": {
+      "V0905_49_00_00_0": {
+        "fullName": "V0905_49_00_00_0",
+        "shortName": "V0905_49_00_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 0
+      },
+      "V0905_49_01_00_0": {
+        "fullName": "V0905_49_01_00_0",
+        "shortName": "V0905_49_01_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 1,
         "patternIndex": 0
       }
     }
