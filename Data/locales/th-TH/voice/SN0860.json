@@ -1,64 +1,48 @@
 {
-  "_GRP_": "SN0855",
+  "_GRP_": "SN0860",
   "_LNG_": "en-US",
   "info": {
-    "V0855_01_00_00_0": {
+    "V0860_01_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Woo waa wee waa woo!\nWaa woo wee waa waa!"
+      "text": "I'm Terra Kneadalina from the underground Shiatsu Empire!"
     },
-    "V0855_01_00_01_0": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Woo waa wee woo!\nGreetings, Earthlings!"
-    },
-    "V0855_01_00_02_0": {
+    "V0860_01_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I'm Celestia Noodlina!\nFrom Planet Menmen in the Ra Nebula!"
+      "text": "*drill drill*\nGreetings, Terrestrials!\nI'm Terra Kneadalina!"
     },
-    "V0855_01_00_03_0": {
+    "V0860_01_00_02_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Would you like to taste the best ramen in the galaxy?"
+      "text": "I'm here to pulverize you into dirt!"
     },
-    "V0855_01_00_04_0": {
+    "V0860_01_00_03_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Waa woo? You're my opponent?\nThis should be interesting!"
+      "text": "You'll feel the pressure with my Shiatsu Dueling Style!"
     },
-    "V0855_01_00_05_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Okay!\nLet's Duel! Woo woo!"
-    },
-    "V0855_48_00_00_0": {
+    "V0860_48_00_00_0": {
       "face": 1,
       "frame": 1,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Wee woo waa!"
+      "text": "*drill drill*"
     },
-    "V0855_48_01_00_0": {
+    "V0860_48_01_00_0": {
       "face": 1,
       "frame": 1,
       "cutin": 0,
@@ -66,39 +50,47 @@
       "duelist": [],
       "text": "Get ready for the rush!"
     },
-    "V0855_03_00_00_0": {
-      "face": 2,
+    "V0860_03_00_00_0": {
+      "face": 6,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Waa wee woo!"
+      "text": "No one gives stronger massages than me!"
     },
-    "V0855_03_00_00_1": {
-      "face": 2,
+    "V0860_03_00_00_1": {
+      "face": 6,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
       "text": "It's my turn!"
     },
-    "V0855_03_00_01_0": {
+    "V0860_03_00_01_0": {
       "face": 8,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Our time together is coming to an end."
+      "text": "All your stress will melt away when I end you forever."
     },
-    "V0855_04_00_00_0": {
+    "V0860_03_00_01_1": {
       "face": 8,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I draw!"
+      "text": "My turn!"
     },
-    "V0855_03_00_02_0": {
+    "V0860_04_00_00_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I draw!\n*drill drill*"
+    },
+    "V0860_03_00_02_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -106,15 +98,15 @@
       "duelist": [],
       "text": "It's my turn!"
     },
-    "V0855_03_00_03_0": {
+    "V0860_03_00_03_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Woo wee!"
+      "text": "Time for my handywork!"
     },
-    "V0855_03_00_03_1": {
+    "V0860_03_00_03_1": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -122,103 +114,103 @@
       "duelist": [],
       "text": "My turn!"
     },
-    "V0855_04_00_01_0": {
+    "V0860_04_00_01_0": {
       "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I draw! Woo woo!"
-    },
-    "V0855_03_00_04_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Wee woo..."
-    },
-    "V0855_03_00_04_1": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I have to refocus this turn!"
-    },
-    "V0855_03_00_05_0": {
-      "face": 7,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Woo waa wee..."
-    },
-    "V0855_03_00_05_1": {
-      "face": 7,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "It's my turn..."
-    },
-    "V0855_04_00_02_0": {
-      "face": 3,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
       "text": "I draw!"
     },
-    "V0855_05_00_00_0": {
+    "V0860_03_00_04_0": {
       "face": 7,
-      "frame": 1,
-      "cutin": 1,
+      "frame": 0,
+      "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I have to gain control before I run out of fuel."
+      "text": "Sigh...\nI don't feel revitalized at all!"
     },
-    "V0855_05_00_00_1": {
+    "V0860_03_00_04_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "It's my turn!"
+    },
+    "V0860_03_00_05_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "You won't knead me into submission!"
+    },
+    "V0860_03_00_05_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "*drill drill*\nMy turn!"
+    },
+    "V0860_04_00_02_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I draw!"
+    },
+    "V0860_05_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
       "card": [],
       "duelist": [],
-      "text": "I draw!\nWee woo waa weeeee!"
+      "text": "Time to put on the pressure!"
     },
-    "V0855_06_01_00_0": {
-      "face": 2,
-      "frame": 1,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Waa wee woo waa wee!"
-    },
-    "V0855_06_01_01_0": {
-      "face": 8,
-      "frame": 1,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Now!"
-    },
-    "V0855_06_01_02_0": {
+    "V0860_05_00_00_1": {
       "face": 3,
       "frame": 1,
-      "cutin": 0,
+      "cutin": 1,
       "card": [],
       "duelist": [],
-      "text": "If you're doing that, I'm doing this!"
+      "text": "I drawww!"
     },
-    "V0855_06_01_03_0": {
-      "face": 8,
+    "V0860_06_01_00_0": {
+      "face": 1,
       "frame": 1,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Wee waa!"
+      "text": "*drill drill*"
     },
-    "V0855_07_00_00_0": {
+    "V0860_06_01_01_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Okay then!"
+    },
+    "V0860_06_01_02_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Here's what I'll do!"
+    },
+    "V0860_06_01_03_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Here goes!"
+    },
+    "V0860_07_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -226,87 +218,87 @@
       "duelist": [],
       "text": "From my hand..."
     },
-    "V0855_07_01_00_0": {
+    "V0860_07_01_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I activate a Spell Card! Woo!"
+      "text": "I activate a Spell Card!"
     },
-    "V0855_07_02_00_0": {
+    "V0860_07_02_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I activate a Quick-Play Spell! Waa!"
+      "text": "I activate a Quick-Play Spell!"
     },
-    "V0855_07_03_00_0": {
+    "V0860_07_03_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I activate a Continuous Spell! Wee!"
+      "text": "I activate a Continuous Spell!"
     },
-    "V0855_07_04_00_0": {
+    "V0860_07_04_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I activate an Equip Spell! Woo!"
+      "text": "I activate an Equip Spell!"
     },
-    "V0855_07_05_00_0": {
+    "V0860_07_05_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I activate a Ritual Spell! Waa!"
+      "text": "I activate a Ritual Spell!"
     },
-    "V0855_07_06_00_0": {
+    "V0860_07_06_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I activate a Trap! Woo!"
+      "text": "I activate my Trap!"
     },
-    "V0855_07_07_00_0": {
+    "V0860_07_07_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I activate a Continuous Trap! Wee!"
+      "text": "I activate my Continuous Trap!"
     },
-    "V0855_07_08_00_0": {
+    "V0860_07_08_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I activate a Counter Trap! Woo!"
+      "text": "I activate my Counter Trap!"
     },
-    "V0855_07_09_00_0": {
+    "V0860_07_09_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I'll play the card I Set earlier!"
+      "text": "Here's the card I Set!"
     },
-    "V0855_07_09_01_0": {
+    "V0860_07_09_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Here's my Set card!"
+      "text": "I'll play the card I Set!"
     },
-    "V0855_07_10_00_0": {
+    "V0860_07_10_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -314,23 +306,23 @@
       "duelist": [],
       "text": "I activate my monster's effect!"
     },
-    "V0855_07_11_00_0": {
+    "V0860_07_11_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I'm activating a Field Spell!"
+      "text": "I activate a Field Spell!"
     },
-    "V0855_07_12_00_0": {
+    "V0860_07_12_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I activate an effect! Wee!"
+      "text": "I activate an effect!"
     },
-    "V0855_07_13_00_0": {
+    "V0860_07_13_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -338,7 +330,7 @@
       "duelist": [],
       "text": "I set the Pendulum Scale!"
     },
-    "V0855_07_14_00_0": {
+    "V0860_07_14_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -346,39 +338,47 @@
       "duelist": [],
       "text": "I activate a Pendulum Effect!"
     },
-    "V0855_10_00_00_0": {
+    "V0860_07_15_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "This monster comes from the edge of the galaxy!"
+      "text": "I activate a Ritual Spell!"
     },
-    "V0855_10_00_01_0": {
+    "V0860_10_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Okay!"
+      "text": "Come on out!"
     },
-    "V0855_10_00_02_0": {
+    "V0860_10_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Come out! Waa woo!"
+      "text": "Arriving from the underground!"
     },
-    "V0855_10_00_03_0": {
+    "V0860_10_00_02_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Here goes! Woo woo!"
+      "text": "*drill drill drill*"
     },
-    "V0855_11_00_00_0": {
+    "V0860_10_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Go!"
+    },
+    "V0860_11_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -386,15 +386,15 @@
       "duelist": [],
       "text": "I Summon a monster!"
     },
-    "V0855_11_01_00_0": {
+    "V0860_11_01_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I Summon a monster in Defense Position! Woo!"
+      "text": "I Summon a monster in Defense Position!"
     },
-    "V0855_11_02_00_0": {
+    "V0860_11_02_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -402,15 +402,15 @@
       "duelist": [],
       "text": "I Special Summon a monster!"
     },
-    "V0855_11_03_00_0": {
+    "V0860_11_03_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I Tribute a monster!"
+      "text": "I'll Tribute a monster!"
     },
-    "V0855_11_04_00_0": {
+    "V0860_11_04_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -418,15 +418,15 @@
       "duelist": [],
       "text": "I Tribute Summon a monster!"
     },
-    "V0855_11_04_01_0": {
+    "V0860_11_04_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Tribute Summon! Waa woo!"
+      "text": "Tribute Summon!"
     },
-    "V0855_11_05_00_0": {
+    "V0860_11_05_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -434,15 +434,15 @@
       "duelist": [],
       "text": "I Fusion Summon a monster!"
     },
-    "V0855_11_05_01_0": {
+    "V0860_11_05_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Fusion Summon! Wee!"
+      "text": "Fusion Summon!"
     },
-    "V0855_11_06_00_0": {
+    "V0860_11_06_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -450,15 +450,15 @@
       "duelist": [],
       "text": "I Ritual Summon a monster!"
     },
-    "V0855_11_06_01_0": {
+    "V0860_11_06_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Ritual Summon! Wee woo!"
+      "text": "Ritual Summon!"
     },
-    "V0855_11_07_00_0": {
+    "V0860_11_07_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -466,15 +466,15 @@
       "duelist": [],
       "text": "I Synchro Summon a monster!"
     },
-    "V0855_11_07_01_0": {
+    "V0860_11_07_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Synchro Summon! Waa woo!"
+      "text": "Synchro Summon!"
     },
-    "V0855_11_08_00_0": {
+    "V0860_11_08_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -482,15 +482,15 @@
       "duelist": [],
       "text": "I Xyz Summon a monster!"
     },
-    "V0855_11_08_01_0": {
+    "V0860_11_08_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Xyz Summon! Wee woo!"
+      "text": "Xyz Summon!"
     },
-    "V0855_11_09_00_0": {
+    "V0860_11_09_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -498,15 +498,15 @@
       "duelist": [],
       "text": "I Pendulum Summon a monster!"
     },
-    "V0855_11_09_01_0": {
+    "V0860_11_09_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Pendulum Summon! Wee wee!"
+      "text": "Pendulum Summon!"
     },
-    "V0855_11_10_00_0": {
+    "V0860_11_10_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -514,15 +514,15 @@
       "duelist": [],
       "text": "I Link Summon a monster!"
     },
-    "V0855_11_10_01_0": {
+    "V0860_11_10_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Link Summon! Waa wee!"
+      "text": "Link Summon!"
     },
-    "V0855_11_11_00_0": {
+    "V0860_11_11_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -530,71 +530,103 @@
       "duelist": [],
       "text": "I Maximum Summon a monster!"
     },
-    "V0855_11_11_01_0": {
+    "V0860_11_11_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Maximum Summon! Waa wee!"
+      "text": "Maximum Summon!"
     },
-    "V0855_11_12_00_0": {
+    "V0860_11_12_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I'll Fusion Summon a monster!"
+      "text": "I Fusion Summon a monster!"
     },
-    "V0855_11_12_01_0": {
+    "V0860_11_12_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Fusion Summon! Woo!"
+      "text": "Fusion Summon!"
     },
-    "V0855_14_00_00_0": {
-      "face": 8,
+    "V0860_11_13_00_0": {
+      "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Let's battle! Woo woo!"
+      "text": "I Contact Fusion a monster!"
     },
-    "V0855_14_00_01_0": {
-      "face": 8,
+    "V0860_11_13_01_0": {
+      "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "It's time to battle!"
+      "text": "Contact Fusion!"
     },
-    "V0855_15_00_00_0": {
-      "face": 8,
+    "V0860_11_14_00_0": {
+      "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Heh!"
+      "text": "I Ritual Summon a monster!"
     },
-    "V0855_15_00_01_0": {
-      "face": 8,
+    "V0860_11_14_01_0": {
+      "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Woo! Next up..."
+      "text": "Ritual Summon!"
     },
-    "V0855_15_00_02_0": {
-      "face": 8,
+    "V0860_14_00_00_0": {
+      "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Let's serve 'em up!"
+      "text": "Let's battle!"
     },
-    "V0855_17_00_00_0": {
+    "V0860_14_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Can't wait to battle!"
+    },
+    "V0860_15_00_00_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Strike their sore spots!"
+    },
+    "V0860_15_00_01_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "*drill drill*"
+    },
+    "V0860_15_00_02_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Take this!"
+    },
+    "V0860_17_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -602,7 +634,7 @@
       "duelist": [],
       "text": "My monster attacks!"
     },
-    "V0855_17_00_01_0": {
+    "V0860_17_00_01_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -610,7 +642,7 @@
       "duelist": [],
       "text": "I attack with my monster!"
     },
-    "V0855_17_00_02_0": {
+    "V0860_17_00_02_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -618,47 +650,47 @@
       "duelist": [],
       "text": "Attack!"
     },
-    "V0855_16_00_00_0": {
-      "face": 8,
+    "V0860_16_00_00_0": {
+      "face": 2,
       "frame": 1,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "We've reached the end of the galaxy.\nNothing more ahead!"
+      "text": "Please come again."
     },
-    "V0855_16_00_01_0": {
-      "face": 1,
+    "V0860_16_00_01_0": {
+      "face": 2,
       "frame": 1,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I'll never forget you, Earthling."
+      "text": "Good night."
     },
-    "V0855_18_00_00_0": {
-      "face": 8,
-      "frame": 1,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I attack you directly!"
-    },
-    "V0855_18_00_01_0": {
+    "V0860_18_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Direct attaaaack!"
+      "text": "Feel the burn!"
     },
-    "V0855_20_00_00_0": {
+    "V0860_18_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Direct attack!"
+    },
+    "V0860_20_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I Set a card!"
+      "text": "I Set a card."
     },
-    "V0855_20_00_01_0": {
+    "V0860_20_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -666,39 +698,31 @@
       "duelist": [],
       "text": "I'm Setting a card."
     },
-    "V0855_20_01_00_0": {
+    "V0860_20_01_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I Set this extraterrestrial!"
+      "text": "I Set a monster."
     },
-    "V0855_20_01_01_0": {
+    "V0860_20_01_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I'll Set this monster."
+      "text": "I'll Set a monster."
     },
-    "V0855_21_00_00_0": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I end my turn!"
-    },
-    "V0855_21_00_01_0": {
+    "V0860_21_00_00_0": {
       "face": 8,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "This is your chance to surrender."
+      "text": "A massage can be soothing, but it can also be painful."
     },
-    "V0855_21_00_01_1": {
+    "V0860_21_00_00_1": {
       "face": 8,
       "frame": 0,
       "cutin": 0,
@@ -706,47 +730,47 @@
       "duelist": [],
       "text": "I end my turn!"
     },
-    "V0855_21_00_02_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I end my turn. Wee woo!"
-    },
-    "V0855_21_00_03_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "That ends my turn."
-    },
-    "V0855_21_00_04_0": {
-      "face": 7,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I end my turn..."
-    },
-    "V0855_21_00_04_1": {
+    "V0860_21_00_01_0": {
       "face": 2,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Oops - can't shut down now!\nI'm in the middle of a Duel!"
+      "text": "Is my Shiatsu Style too much to handle?"
     },
-    "V0855_21_00_05_0": {
+    "V0860_21_00_01_1": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I end my turn!"
+    },
+    "V0860_21_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "*drill drill*\nI end my turn!"
+    },
+    "V0860_21_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "That ends my turn!"
+    },
+    "V0860_21_00_04_0": {
       "face": 7,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "My energy core is running out of fuel..."
+      "text": "I'm going to take a nappy nap."
     },
-    "V0855_21_00_05_1": {
+    "V0860_21_00_04_1": {
       "face": 7,
       "frame": 0,
       "cutin": 0,
@@ -754,580 +778,685 @@
       "duelist": [],
       "text": "I end my turn!"
     },
-    "V0855_28_00_00_0": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Farewell, Earthlings."
-    },
-    "V0855_28_00_01_0": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "My real name is too difficult for you to pronounce."
-    },
-    "V0855_28_00_02_0": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Wanna' come to my planet?\nWe serve the best ramen!"
-    },
-    "V0855_28_00_03_0": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Outta' This World Ramen is the tastiest in the galaxy!"
-    },
-    "V0855_28_00_04_0": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I convert my UFO energy into LP during a Duel."
-    },
-    "V0855_29_00_00_0": {
-      "face": 4,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Wow!\nI didn't know Earthlings could cook too!"
-    },
-    "V0855_29_00_01_0": {
+    "V0860_21_00_05_0": {
       "face": 7,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Woo... Waa woo...\nDon't worry... I'm okay..."
+      "text": "You're kneading out my LP..."
     },
-    "V0855_29_00_02_0": {
+    "V0860_21_00_05_1": {
       "face": 7,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "That was a great Rush Duel.\nBut it's time for me to leave."
+      "text": "I end my turn!"
     },
-    "V0855_29_00_03_0": {
-      "face": 7,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I must return to my mothership to reenergize my core."
-    },
-    "V0855_29_00_04_0": {
+    "V0860_28_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Goodbye, Earthlings.\n'Til our spaceships meet again."
+      "text": "Who's Celestia?\nWhat's a UFO?"
     },
-    "V0855_29_00_05_0": {
+    "V0860_28_00_01_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "That was a relaxing Duel.\nLike a tender massage!"
+    },
+    "V0860_28_00_02_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I have the best thumbs in the Shiatsu Empire!"
+    },
+    "V0860_28_00_03_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "*drill drill*\nAll done!"
+    },
+    "V0860_29_00_00_0": {
       "face": 7,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Sorry for the mess..."
+      "text": "That ends my shift.\nBye bye!"
     },
-    "V0855_29_00_06_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        854,
-        719
-      ],
-      "text": "Even if we're light years apart, our bond will last forever."
-    },
-    "V0855_29_00_06_1": {
-      "face": 1,
+    "V0860_29_00_01_0": {
+      "face": 7,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "For you're a friend who loves ramen just as much as me."
+      "text": "I'm not going to work overtime."
     },
-    "V0855_31_00_00_0": {
+    "V0860_29_00_02_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Now that the Duel's over, I'm going home to my kingdom."
+    },
+    "V0860_29_00_03_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "*drill drill*\n*sputter*"
+    },
+    "V0860_31_00_00_0": {
       "face": 4,
       "frame": 1,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Waa woo!?"
+      "text": "Drill?"
     },
-    "V0855_31_00_01_0": {
+    "V0860_31_00_01_0": {
       "face": 4,
       "frame": 1,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Woo! Shocking!"
+      "text": "Oh no!"
     },
-    "V0855_33_00_00_0": {
+    "V0860_33_00_00_0": {
       "face": 8,
       "frame": 1,
       "cutin": 1,
       "card": [],
       "duelist": [],
-      "text": "Wee woo waa wee woo!"
+      "text": "Drilllllll!"
     },
-    "V0855_33_00_01_0": {
+    "V0860_33_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "*drill drill drill*"
+    },
+    "V0860_33_00_02_0": {
       "face": 8,
       "frame": 1,
       "cutin": 1,
       "card": [],
       "duelist": [],
-      "text": "My flavors will tantalize your taste buds!"
+      "text": "Shiatsu for the win!"
     },
-    "V0855_33_00_02_0": {
-      "face": 8,
-      "frame": 1,
-      "cutin": 1,
-      "card": [],
-      "duelist": [],
-      "text": "There's plenty of shockers in store!"
-    },
-    "V0855_30_00_00_0": {
-      "face": 7,
+    "V0860_30_00_00_0": {
+      "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I didn't mean to cause so much trouble."
+      "text": "Can you hurry up?"
     },
-    "V0855_30_00_01_0": {
-      "face": 2,
+    "V0860_30_00_01_0": {
+      "face": 3,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Don't worry about that. Keep going."
+      "text": "How long do I have to wait?"
     },
-    "V0855_30_00_02_0": {
+    "V0860_30_00_02_0": {
       "face": 4,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Waa woo?"
+      "text": "What are you doing?"
     },
-    "V0855_34_00_00_0": {
+    "V0860_34_00_00_0": {
       "face": 2,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Greetings, Duelists."
+      "text": "Did you know that no two fingerprints are the same?"
     },
-    "V0855_34_00_01_0": {
-      "face": 7,
+    "V0860_34_00_01_0": {
+      "face": 8,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I didn't know a Duelist like you existed on this planet!"
+      "text": "The Shiatsu Empire protects the underground!"
     },
-    "V0855_34_00_02_0": {
+    "V0860_34_00_02_0": {
       "face": 2,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "My mothership is here to take me home."
+      "text": "Nothing like a nice massage to regain my LP!"
     },
-    "V0855_32_00_00_0": {
-      "face": 1,
+    "V0860_34_00_03_0": {
+      "face": 6,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Yu-Gi-Oh! Duel Links! Wee woo!"
+      "text": "My Shiatsu Style really brings the pressure!"
     },
-    "V0855_35_00_00_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Wee woo waa woo wee!"
-    },
-    "V0855_35_00_01_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Greetings, Earthlings.\nI'm Celestia Noodlina! Waa woo!"
-    },
-    "V0855_36_00_00_0": {
+    "V0860_34_00_04_0": {
       "face": 2,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Finish 'em for me!"
+      "text": "You seem tense."
     },
-    "V0855_36_00_01_0": {
-      "face": 8,
+    "V0860_34_00_05_0": {
+      "face": 2,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "You got this! Woo woo!"
+      "text": "These two thumbs can break all your knots!"
     },
-    "V0855_36_00_02_0": {
+    "V0860_34_00_06_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "That spot's tender."
+    },
+    "V0860_34_00_07_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Greetings, Terrestrials!"
+    },
+    "V0860_34_00_08_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "*drill drill drill*"
+    },
+    "V0860_34_00_09_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "You're up. Waa woo!"
+      "text": "It's closing time.\nI'm going home."
     },
-    "V0855_36_00_03_0": {
+    "V0860_32_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "It's your turn. Woo!"
+      "text": "Yu-Gi-Oh! Duel Links\n*drill drill*"
     },
-    "V0855_36_00_04_0": {
+    "V0860_35_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Greetings, Terrestrials - from the underground Shiatsu Empire!\nMy name is Terra Kneadalina!"
+    },
+    "V0860_35_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "*drill drill*\nI'm Terra Kneadalina!"
+    },
+    "V0860_36_00_00_0": {
+      "face": 6,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "A job well done by me."
+    },
+    "V0860_36_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pulverize 'em.\n*drill drill*"
+    },
+    "V0860_36_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "You're up."
+    },
+    "V0860_36_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pick up the pace."
+    },
+    "V0860_36_00_04_0": {
       "face": 7,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Wee woo..."
+      "text": "Terrestrial problems are not my problem."
     },
-    "V0855_36_00_05_0": {
-      "face": 7,
+    "V0860_36_00_05_0": {
+      "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Sorry... Woo..."
+      "text": "I don't work overtime, so you deal with 'em."
     },
-    "V0855_08_00_00_0": {
+    "V0860_08_00_00_0": {
       "face": 8,
       "frame": 1,
       "cutin": 0,
       "card": [
-        15940
+        16181
       ],
       "duelist": [],
-      "text": "I activate my Field Spell!\nOuter Space!"
+      "text": "I activate my Trap Card!\nEarth Pressure Explosion!"
     },
-    "V0855_08_00_01_0": {
+    "V0860_08_00_01_0": {
       "face": 8,
       "frame": 1,
       "cutin": 0,
       "card": [
-        15941
+        15913
       ],
       "duelist": [],
-      "text": "Now's when I activate the Trap, Chashooting Star!"
+      "text": "Come visit the underground Shiatsu Empire!"
     },
-    "V0855_08_00_01_1": {
+    "V0860_08_00_01_1": {
       "face": 8,
       "frame": 1,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "It's filling my tummy with LP!"
+      "text": "I activate my Trap Card, Trap Hole!"
     },
-    "V0855_09_00_00_0": {
+    "V0860_08_00_02_0": {
       "face": 8,
       "frame": 1,
       "cutin": 0,
       "card": [
-        15936
+        20880
       ],
       "duelist": [],
-      "text": "When Outer Space is in play, I can use Noodryad's effect!"
+      "text": "I activate my Trap Card!\nAcid Trap Hole!"
     },
-    "V0855_09_00_00_1": {
-      "face": 3,
-      "frame": 1,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Black Hole Absorption!"
-    },
-    "V0855_09_00_01_0": {
+    "V0860_08_00_03_0": {
       "face": 8,
       "frame": 1,
       "cutin": 0,
       "card": [
-        15936
+        21014
       ],
       "duelist": [],
-      "text": "Noodryad's effect destroys all Level 7 or lower monsters!"
+      "text": "My Trap Card!\nTreacherous Trap Hole!"
     },
-    "V0855_09_00_01_1": {
-      "face": 3,
-      "frame": 1,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Black Hole Absorption!"
-    },
-    "V0855_09_00_02_0": {
+    "V0860_08_00_04_0": {
       "face": 8,
       "frame": 1,
       "cutin": 0,
       "card": [
-        15937
+        17912
       ],
       "duelist": [],
-      "text": "When in Outer Space, Topping Troll can use its effect!"
+      "text": "Once you're in the Shiatsu Empire, you can never leave!"
     },
-    "V0855_37_00_00_0": {
-      "face": 3,
-      "frame": 1,
-      "cutin": 0,
-      "card": [
-        15936
-      ],
-      "duelist": [],
-      "text": "The shining star I am orbiting is this beacon of light!"
-    },
-    "V0855_37_00_00_1": {
-      "face": 3,
+    "V0860_08_00_04_1": {
+      "face": 8,
       "frame": 1,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "I Tribute Summon!"
+      "text": "Not when I have the Trap Card, Trap Lid!"
     },
-    "V0855_13_00_00_0": {
-      "face": 3,
+    "V0860_08_00_05_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17204
+      ],
+      "duelist": [],
+      "text": "I activate my Spell Card!\nSmashing Ground!"
+    },
+    "V0860_09_00_00_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16158
+      ],
+      "duelist": [],
+      "text": "I activate Magmax Mantleveda's effect!"
+    },
+    "V0860_09_00_00_1": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pummeling Pressure Point!"
+    },
+    "V0860_09_00_01_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16157
+      ],
+      "duelist": [],
+      "text": "Now for Magmassage's effect!"
+    },
+    "V0860_09_00_01_1": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I feel all better!"
+    },
+    "V0860_09_00_02_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16156
+      ],
+      "duelist": [],
+      "text": "I activate Aromagmabear's effect!"
+    },
+    "V0860_09_00_02_1": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I give this effect a big thumbs up!"
+    },
+    "V0860_09_00_03_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16155
+      ],
+      "duelist": [],
+      "text": "I activate Anmagmabear's effect!"
+    },
+    "V0860_13_00_00_0": {
+      "face": 2,
       "frame": 1,
       "cutin": 1,
       "card": [
-        15936
+        16158
       ],
       "duelist": [],
-      "text": "Cosmic String Noodryad!"
+      "text": "From earth's molten core rises a protector who's white hot! "
     },
-    "V0855_13_00_01_0": {
-      "face": 8,
+    "V0860_13_00_00_1": {
+      "face": 2,
       "frame": 1,
-      "cutin": 0,
-      "card": [
-        15937
-      ],
+      "cutin": 1,
+      "card": [],
       "duelist": [],
-      "text": "Galaxy Topping Troll!"
+      "text": "Melt the world, Magmax Mantleveda!"
     },
-    "V0855_13_00_02_0": {
-      "face": 8,
+    "V0860_13_00_01_0": {
+      "face": 2,
       "frame": 1,
-      "cutin": 0,
+      "cutin": 1,
       "card": [
-        15938
+        16157
       ],
       "duelist": [],
-      "text": "Cosmoscallion!"
+      "text": "Magmassage!"
     },
-    "V0855_13_00_03_0": {
-      "face": 8,
+    "V0860_13_00_02_0": {
+      "face": 2,
       "frame": 1,
-      "cutin": 0,
+      "cutin": 1,
       "card": [
-        15939
+        16156
       ],
       "duelist": [],
-      "text": "Big Bang Egger!"
+      "text": "Aromagmabear!"
     },
-    "V0855_19_00_00_0": {
+    "V0860_13_00_03_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        16155
+      ],
+      "duelist": [],
+      "text": "Anmagmabear!"
+    },
+    "V0860_13_00_04_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        16133
+      ],
+      "duelist": [],
+      "text": "Tsuvolcano!"
+    },
+    "V0860_19_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
-        15936
+        16158
       ],
       "duelist": [],
-      "text": "Cosmic String Noodryad!\nAttack!"
+      "text": "Magmax Mantleveda!\nHit all their pressure points!"
     },
-    "V0855_19_00_00_1": {
+    "V0860_19_00_00_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Spiraling Noodle Assault!"
+      "text": "Shiatsu Spear!"
     },
-    "V0855_19_00_01_0": {
+    "V0860_19_00_01_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
-        15937
+        16157
       ],
       "duelist": [],
-      "text": "Galaxy Topping Troll!\nAttack!"
+      "text": "Magmassage! Attack!"
     },
-    "V0855_19_00_02_0": {
+    "V0860_19_00_02_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
-        15938
+        16156
       ],
       "duelist": [],
-      "text": "Attack, Cosmoscallion!"
+      "text": "Aromagmabear!\nAttack!"
     },
-    "V0855_19_00_03_0": {
+    "V0860_19_00_03_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
-        15939
+        16155
       ],
       "duelist": [],
-      "text": "Big Bang Egger attacks!"
+      "text": "Attack, Anmagmabear!"
     },
-    "V0855_02_00_00_0": {
-      "face": 1,
+    "V0860_19_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16133
+      ],
+      "duelist": [],
+      "text": "Tsuvolcano!\nAttack!"
+    },
+    "V0860_02_00_00_0": {
+      "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [],
       "duelist": [],
       "text": "Duel!"
     },
-    "V0855_22_00_00_0": {
-      "face": 5,
+    "V0860_49_00_00_0": {
+      "face": 8,
       "frame": 1,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Waa woo!"
+      "text": "Let's drill!"
     },
-    "V0855_22_00_01_0": {
-      "face": 5,
-      "frame": 1,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Woo wee!"
-    },
-    "V0855_22_00_02_0": {
-      "face": 5,
-      "frame": 1,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Woo! Woo woo!"
-    },
-    "V0855_26_00_00_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Wee woo..."
-    },
-    "V0855_26_00_01_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "It's not over yet!"
-    },
-    "V0855_26_00_02_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "You're pretty good!"
-    },
-    "V0855_25_00_00_0": {
-      "face": 5,
-      "frame": 1,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Woo wee... Woo!"
-    },
-    "V0855_25_00_01_0": {
-      "face": 5,
-      "frame": 1,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Wee wooooo!"
-    },
-    "V0855_25_00_02_0": {
-      "face": 5,
-      "frame": 1,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Waa waa wee!"
-    },
-    "V0855_27_00_00_0": {
-      "face": 7,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I lost a lot of fuel..."
-    },
-    "V0855_27_00_01_0": {
-      "face": 7,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Woo wee waa woo whoaaaa!"
-    },
-    "V0855_27_00_02_0": {
-      "face": 7,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Woo waa..."
-    },
-    "V0855_23_00_00_0": {
-      "face": 5,
-      "frame": 1,
-      "cutin": 3,
-      "card": [],
-      "duelist": [],
-      "text": "Woo waa wee weeeeeee!"
-    },
-    "V0855_49_00_00_0": {
-      "face": 1,
-      "frame": 1,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Wee wee woo!"
-    },
-    "V0855_49_01_00_0": {
-      "face": 1,
+    "V0860_49_01_00_0": {
+      "face": 8,
       "frame": 1,
       "cutin": 0,
       "card": [],
       "duelist": [],
       "text": "Turbo Rush Duel!"
+    },
+    "V0860_22_00_00_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "*drill*"
+    },
+    "V0860_22_00_01_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Drillllll!"
+    },
+    "V0860_22_00_02_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Gaaaa!"
+    },
+    "V0860_26_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Drill..."
+    },
+    "V0860_26_00_01_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Drill drill..."
+    },
+    "V0860_26_00_02_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I let my guard down."
+    },
+    "V0860_25_00_00_0": {
+      "face": 5,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Gwaaaa!"
+    },
+    "V0860_25_00_01_0": {
+      "face": 5,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aahhhh!"
+    },
+    "V0860_25_00_02_0": {
+      "face": 5,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "*drill drill*"
+    },
+    "V0860_27_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Agh..."
+    },
+    "V0860_27_00_01_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Why are you so mean?"
+    },
+    "V0860_27_00_02_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Isn't my shift over yet..."
+    },
+    "V0860_23_00_00_0": {
+      "face": 5,
+      "frame": 1,
+      "cutin": 3,
+      "card": [],
+      "duelist": [],
+      "text": "Drilllllllllll!"
     }
   }
 }

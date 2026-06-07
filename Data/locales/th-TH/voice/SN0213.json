@@ -50,7 +50,10 @@
       "duelist": [
         201,
         202,
-        203
+        203,
+        219,
+        220,
+        221
       ],
       "text": "I did things to you that I regret... and can’t take back."
     },
@@ -1758,7 +1761,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Only you would think of Dueling to save me."
     },
@@ -1828,7 +1832,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "I’m glad you’re the one who ended me, Yusei."
     },
@@ -1838,7 +1843,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        202
+        202,
+        220
       ],
       "text": "You don't seem satisfied with this victory, Jack."
     },
@@ -1848,7 +1854,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        203
+        203,
+        221
       ],
       "text": "Crow, I'm glad I was able to Duel you in my final battle."
     },

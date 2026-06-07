@@ -586,6 +586,22 @@
       "duelist": [],
       "text": "Contact Fusion!"
     },
+    "V0862_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Ritual Summon a monster!"
+    },
+    "V0862_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ritual Summon!"
+    },
     "V0862_14_00_00_0": {
       "face": 1,
       "frame": 0,
@@ -1795,6 +1811,22 @@
       "card": [],
       "duelist": [],
       "text": "Chupacabraaaaaaa!"
+    },
+    "V0862_49_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ha ha ha!"
+    },
+    "V0862_49_01_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
     }
   }
 }

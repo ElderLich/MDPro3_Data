@@ -1,202 +1,8 @@
 {
-  "_GRP_": "SN0201",
+  "_GRP_": "SN0219",
   "_LNG_": "en-US",
   "info": {
-    "V0201_01_00_00_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "With my cards and my friends by my side, I can't lose!"
-    },
-    "V0201_01_00_01_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Let's rev it up!"
-    },
-    "V0201_01_00_02_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I'll prove that nothing - and no one - is useless!"
-    },
-    "V0201_01_00_03_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Sure.\nI never turn down a Duel."
-    },
-    "V0201_01_00_04_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        202,
-        220
-      ],
-      "text": "Jack...\nI'll show you that I'm at the top of my game!"
-    },
-    "V0201_01_00_05_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        203,
-        204,
-        205,
-        206,
-        221,
-        221
-      ],
-      "text": "Dueling has always set us on the right path."
-    },
-    "V0201_01_00_05_1": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "So let's settle our differences in a Duel!"
-    },
-    "V0201_01_00_06_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        207
-      ],
-      "text": "Officer Trudge..."
-    },
-    "V0201_01_00_06_1": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "C'mon, let's Duel."
-    },
-    "V0201_01_00_07_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        213,
-        222
-      ],
-      "text": "To convince Kalin that it's all a big misunderstanding..."
-    },
-    "V0201_01_00_07_1": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I must face him head-on!"
-    },
-    "V0201_01_00_08_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        208
-      ],
-      "text": "I'll bring you back to the way you were, Kalin!"
-    },
-    "V0201_01_00_09_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        210,
-        231,
-        211,
-        9058,
-        9059,
-        9061,
-        9062
-      ],
-      "text": "Dark Signer!\nWe Signers will defeat you and save the world!"
-    },
-    "V0201_01_00_10_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        209
-      ],
-      "text": "Bruno...\nOr should I say Antinomy!\nI will surpass my limits!"
-    },
-    "V0201_01_00_12_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        215,
-        216,
-        217,
-        218,
-        235,
-        236
-      ],
-      "text": "Everyone is depending on me to save their future."
-    },
-    "V0201_01_00_12_1": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "And I won't let them down!"
-    },
-    "V0201_01_00_13_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        1,
-        331,
-        6,
-        41
-      ],
-      "text": "Yugi, please Duel me!"
-    },
-    "V0201_01_00_14_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        101,
-        115
-      ],
-      "text": "Jaden, I know you and I will have a fun Duel!"
-    },
-    "V0201_02_00_00_0": {
-      "face": 3,
-      "frame": 1,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Duel!"
-    },
-    "V0201_03_00_00_0": {
+    "V0219_03_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -204,7 +10,7 @@
       "duelist": [],
       "text": "Time to put the pedal to the metal!"
     },
-    "V0201_03_00_00_1": {
+    "V0219_03_00_00_1": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -212,7 +18,7 @@
       "duelist": [],
       "text": "My turn!"
     },
-    "V0201_03_00_01_0": {
+    "V0219_03_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -220,7 +26,7 @@
       "duelist": [],
       "text": "I won't let you win this Duel!"
     },
-    "V0201_03_00_01_1": {
+    "V0219_03_00_01_1": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -228,7 +34,7 @@
       "duelist": [],
       "text": "It's my turn!"
     },
-    "V0201_03_00_02_0": {
+    "V0219_03_00_02_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -236,7 +42,7 @@
       "duelist": [],
       "text": "It's go time!"
     },
-    "V0201_03_00_02_1": {
+    "V0219_03_00_02_1": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -244,7 +50,7 @@
       "duelist": [],
       "text": "My turn!"
     },
-    "V0201_03_00_03_0": {
+    "V0219_03_00_03_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -252,7 +58,7 @@
       "duelist": [],
       "text": "It's my turn!"
     },
-    "V0201_03_00_04_0": {
+    "V0219_03_00_04_0": {
       "face": 8,
       "frame": 0,
       "cutin": 0,
@@ -260,7 +66,7 @@
       "duelist": [],
       "text": "I knew you'd be a tough one to beat."
     },
-    "V0201_03_00_04_1": {
+    "V0219_03_00_04_1": {
       "face": 3,
       "frame": 0,
       "cutin": 0,
@@ -268,7 +74,7 @@
       "duelist": [],
       "text": "My turn!"
     },
-    "V0201_03_00_05_0": {
+    "V0219_03_00_05_0": {
       "face": 8,
       "frame": 0,
       "cutin": 0,
@@ -276,7 +82,7 @@
       "duelist": [],
       "text": "This is the perfect test to go beyond my limits!"
     },
-    "V0201_03_00_05_1": {
+    "V0219_03_00_05_1": {
       "face": 3,
       "frame": 0,
       "cutin": 0,
@@ -284,7 +90,7 @@
       "duelist": [],
       "text": "It's my turn!"
     },
-    "V0201_04_00_00_0": {
+    "V0219_04_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -292,7 +98,7 @@
       "duelist": [],
       "text": "I draw!"
     },
-    "V0201_04_00_01_0": {
+    "V0219_04_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -300,7 +106,7 @@
       "duelist": [],
       "text": "I draw!"
     },
-    "V0201_04_00_02_0": {
+    "V0219_04_00_02_0": {
       "face": 3,
       "frame": 0,
       "cutin": 0,
@@ -308,7 +114,7 @@
       "duelist": [],
       "text": "I draw!"
     },
-    "V0201_05_00_00_0": {
+    "V0219_05_00_00_0": {
       "face": 3,
       "frame": 0,
       "cutin": 1,
@@ -316,7 +122,7 @@
       "duelist": [],
       "text": "This draw will guide me to the future!"
     },
-    "V0201_05_00_00_1": {
+    "V0219_05_00_00_1": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -324,7 +130,7 @@
       "duelist": [],
       "text": "I draw!!!"
     },
-    "V0201_06_01_00_0": {
+    "V0219_06_01_00_0": {
       "face": 1,
       "frame": 1,
       "cutin": 0,
@@ -332,7 +138,7 @@
       "duelist": [],
       "text": "How's this for an answer?"
     },
-    "V0201_06_01_01_0": {
+    "V0219_06_01_01_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -340,7 +146,7 @@
       "duelist": [],
       "text": "There's still hope for me!"
     },
-    "V0201_06_01_02_0": {
+    "V0219_06_01_02_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -348,7 +154,7 @@
       "duelist": [],
       "text": "I knew you'd try that!"
     },
-    "V0201_06_01_03_0": {
+    "V0219_06_01_03_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -356,7 +162,7 @@
       "duelist": [],
       "text": "You're not the only one full of surprises."
     },
-    "V0201_07_00_00_0": {
+    "V0219_07_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -364,7 +170,7 @@
       "duelist": [],
       "text": "From my hand..."
     },
-    "V0201_07_01_00_0": {
+    "V0219_07_01_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -372,7 +178,7 @@
       "duelist": [],
       "text": "I activate a Spell Card!"
     },
-    "V0201_07_02_00_0": {
+    "V0219_07_02_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -380,7 +186,7 @@
       "duelist": [],
       "text": "I activate a Quick-Play Spell!"
     },
-    "V0201_07_03_00_0": {
+    "V0219_07_03_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -388,7 +194,7 @@
       "duelist": [],
       "text": "I activate a Continuous Spell!"
     },
-    "V0201_07_04_00_0": {
+    "V0219_07_04_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -396,7 +202,7 @@
       "duelist": [],
       "text": "I activate an Equip Spell!"
     },
-    "V0201_07_05_00_0": {
+    "V0219_07_05_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -404,7 +210,7 @@
       "duelist": [],
       "text": "I activate a Ritual Spell!"
     },
-    "V0201_07_06_00_0": {
+    "V0219_07_06_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -412,7 +218,7 @@
       "duelist": [],
       "text": "I activate my Trap Card!"
     },
-    "V0201_07_07_00_0": {
+    "V0219_07_07_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -420,7 +226,7 @@
       "duelist": [],
       "text": "I activate my Continuous Trap!"
     },
-    "V0201_07_08_00_0": {
+    "V0219_07_08_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -428,7 +234,7 @@
       "duelist": [],
       "text": "I activate my Counter Trap!"
     },
-    "V0201_07_09_00_0": {
+    "V0219_07_09_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -436,7 +242,7 @@
       "duelist": [],
       "text": "Here's my face-down card!"
     },
-    "V0201_07_09_01_0": {
+    "V0219_07_09_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -444,7 +250,7 @@
       "duelist": [],
       "text": "I flip over my face-down card!"
     },
-    "V0201_07_10_00_0": {
+    "V0219_07_10_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -452,7 +258,7 @@
       "duelist": [],
       "text": "I activate my monster's effect!"
     },
-    "V0201_07_11_00_0": {
+    "V0219_07_11_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -460,7 +266,7 @@
       "duelist": [],
       "text": "I activate a Field Spell!"
     },
-    "V0201_07_12_00_0": {
+    "V0219_07_12_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -468,7 +274,7 @@
       "duelist": [],
       "text": "I activate an effect!"
     },
-    "V0201_07_13_00_0": {
+    "V0219_07_13_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -476,7 +282,7 @@
       "duelist": [],
       "text": "I set the Pendulum Scale!"
     },
-    "V0201_08_00_00_0": {
+    "V0219_08_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -486,7 +292,7 @@
       "duelist": [],
       "text": "I activate my Spell Card!\nAdvance Draw!"
     },
-    "V0201_08_00_01_0": {
+    "V0219_08_00_01_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -496,7 +302,7 @@
       "duelist": [],
       "text": "I activate my Spell Card!\nSynchro Gift!"
     },
-    "V0201_08_00_02_0": {
+    "V0219_08_00_02_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -506,7 +312,7 @@
       "duelist": [],
       "text": "My Equip Spell, Junk Barrage!"
     },
-    "V0201_08_00_03_0": {
+    "V0219_08_00_03_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -516,7 +322,7 @@
       "duelist": [],
       "text": "My Quick-Play Spell, Cosmic Flare!"
     },
-    "V0201_08_00_04_0": {
+    "V0219_08_00_04_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -526,7 +332,7 @@
       "duelist": [],
       "text": "I activate my Spell Card!\nNecroid Synchro!"
     },
-    "V0201_08_00_05_0": {
+    "V0219_08_00_05_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -536,7 +342,7 @@
       "duelist": [],
       "text": "Here's my Quick-Play Spell!\nHalf Shut!"
     },
-    "V0201_08_00_06_0": {
+    "V0219_08_00_06_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -546,7 +352,7 @@
       "duelist": [],
       "text": "I activate my Spell Card, Parallel Twister!"
     },
-    "V0201_08_00_07_0": {
+    "V0219_08_00_07_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -556,7 +362,7 @@
       "duelist": [],
       "text": "My Equip Spell, Fighting Spirit!"
     },
-    "V0201_08_00_08_0": {
+    "V0219_08_00_08_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -566,7 +372,7 @@
       "duelist": [],
       "text": "I activate my Spell Card, One for One!"
     },
-    "V0201_08_00_09_0": {
+    "V0219_08_00_09_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -576,7 +382,7 @@
       "duelist": [],
       "text": "I activate my Spell Card!\nRelease Restraint Wave!"
     },
-    "V0201_08_00_10_0": {
+    "V0219_08_00_10_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -586,7 +392,7 @@
       "duelist": [],
       "text": "I activate my Quick-Play Spell!\nBlind Spot Strike!"
     },
-    "V0201_08_00_11_0": {
+    "V0219_08_00_11_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -596,7 +402,7 @@
       "duelist": [],
       "text": "I activate my Spell Card!\nTuning!"
     },
-    "V0201_08_00_12_0": {
+    "V0219_08_00_12_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -606,7 +412,7 @@
       "duelist": [],
       "text": "The Spell Card, Cards of Consonance!"
     },
-    "V0201_08_00_13_0": {
+    "V0219_08_00_13_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -616,7 +422,7 @@
       "duelist": [],
       "text": "I activate the Spell Card, Double Summon!"
     },
-    "V0201_08_00_13_1": {
+    "V0219_08_00_13_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -624,7 +430,7 @@
       "duelist": [],
       "text": "I'm allowed to Normal Summon twice this turn!"
     },
-    "V0201_08_00_14_0": {
+    "V0219_08_00_14_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -634,7 +440,7 @@
       "duelist": [],
       "text": "The Equip Spell, Silver Wing!"
     },
-    "V0201_08_00_15_0": {
+    "V0219_08_00_15_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -644,7 +450,7 @@
       "duelist": [],
       "text": "I activate my Spell Card!\nBattle Waltz!"
     },
-    "V0201_08_00_16_0": {
+    "V0219_08_00_16_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -654,7 +460,7 @@
       "duelist": [],
       "text": "The Field Spell, Starlight Junktion!"
     },
-    "V0201_08_00_17_0": {
+    "V0219_08_00_17_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -664,7 +470,7 @@
       "duelist": [],
       "text": "I activate my Quick-Play Spell!\nLimit Overdrive!"
     },
-    "V0201_08_00_18_0": {
+    "V0219_08_00_18_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -674,7 +480,7 @@
       "duelist": [],
       "text": "I activate this card on my Junk Warrior!"
     },
-    "V0201_08_00_18_1": {
+    "V0219_08_00_18_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -682,7 +488,7 @@
       "duelist": [],
       "text": "The Quick-Play Spell, Scrap Fist!"
     },
-    "V0201_08_00_20_0": {
+    "V0219_08_00_20_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -692,7 +498,7 @@
       "duelist": [],
       "text": "I reveal my Trap Card!\nD2 Shield!"
     },
-    "V0201_08_00_21_0": {
+    "V0219_08_00_21_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -702,7 +508,7 @@
       "duelist": [],
       "text": "I flip over my Trap Card!\nScrap-Iron Scarecrow!"
     },
-    "V0201_08_00_22_0": {
+    "V0219_08_00_22_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -712,7 +518,7 @@
       "duelist": [],
       "text": "The Continuous Trap, Graceful Revival!"
     },
-    "V0201_08_00_23_0": {
+    "V0219_08_00_23_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -722,7 +528,7 @@
       "duelist": [],
       "text": "I flip over my Trap Card!\nDefense Draw!"
     },
-    "V0201_08_00_24_0": {
+    "V0219_08_00_24_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -732,7 +538,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nGive and Take!"
     },
-    "V0201_08_00_25_0": {
+    "V0219_08_00_25_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -742,7 +548,7 @@
       "duelist": [],
       "text": "I play my Trap Card!\nShooting Star!"
     },
-    "V0201_08_00_26_0": {
+    "V0219_08_00_26_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -752,7 +558,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nSynchro Strike!"
     },
-    "V0201_08_00_27_0": {
+    "V0219_08_00_27_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -762,7 +568,7 @@
       "duelist": [],
       "text": "I activate the Trap, Synchro Barrier!"
     },
-    "V0201_08_00_28_0": {
+    "V0219_08_00_28_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -772,7 +578,7 @@
       "duelist": [],
       "text": "I activate my Trap, Synchro Material!"
     },
-    "V0201_08_00_29_0": {
+    "V0219_08_00_29_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -782,7 +588,7 @@
       "duelist": [],
       "text": "The Trap Card, Synchro Deflector!"
     },
-    "V0201_08_00_30_0": {
+    "V0219_08_00_30_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -792,7 +598,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nScramble Egg!"
     },
-    "V0201_08_00_31_0": {
+    "V0219_08_00_31_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -802,7 +608,7 @@
       "duelist": [],
       "text": "The Trap Card, Stardust Re-Spark!"
     },
-    "V0201_08_00_32_0": {
+    "V0219_08_00_32_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -812,7 +618,7 @@
       "duelist": [],
       "text": "The Trap Card, Starlight Road!"
     },
-    "V0201_08_00_33_0": {
+    "V0219_08_00_33_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -822,7 +628,7 @@
       "duelist": [],
       "text": "I activate my Trap, Spirit Force!"
     },
-    "V0201_08_00_34_0": {
+    "V0219_08_00_34_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -832,7 +638,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nSlip Summon!"
     },
-    "V0201_08_00_35_0": {
+    "V0219_08_00_35_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -842,7 +648,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nZero Force!"
     },
-    "V0201_08_00_36_0": {
+    "V0219_08_00_36_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -852,7 +658,7 @@
       "duelist": [],
       "text": "I flip over my Trap Card!\nTuner's Barrier!"
     },
-    "V0201_08_00_37_0": {
+    "V0219_08_00_37_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -862,7 +668,7 @@
       "duelist": [],
       "text": "I reveal my Trap Card!\nReinforce Truth!"
     },
-    "V0201_08_00_38_0": {
+    "V0219_08_00_38_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -872,7 +678,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nPower Frame!"
     },
-    "V0201_08_00_39_0": {
+    "V0219_08_00_39_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -882,7 +688,7 @@
       "duelist": [],
       "text": "The Trap Card, Limiter Overload!"
     },
-    "V0201_08_00_39_1": {
+    "V0219_08_00_39_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -890,7 +696,7 @@
       "duelist": [],
       "text": "When it's sent to the Grave, I Special Summon Speed Warrior!"
     },
-    "V0201_08_00_40_0": {
+    "V0219_08_00_40_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -900,7 +706,7 @@
       "duelist": [],
       "text": "Check out my Trap Card!\nDescending Lost Star!"
     },
-    "V0201_08_00_41_0": {
+    "V0219_08_00_41_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -910,7 +716,7 @@
       "duelist": [],
       "text": "I activate the Trap, Miracle's Wake!"
     },
-    "V0201_08_00_42_0": {
+    "V0219_08_00_42_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -920,7 +726,7 @@
       "duelist": [],
       "text": "I activate the Trap, Miracle Locus!"
     },
-    "V0201_08_00_43_0": {
+    "V0219_08_00_43_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -930,7 +736,7 @@
       "duelist": [],
       "text": "I activate my Trap, Hope for Escape!"
     },
-    "V0201_08_00_44_0": {
+    "V0219_08_00_44_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -940,7 +746,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nUrgent Tuning!"
     },
-    "V0201_08_00_45_0": {
+    "V0219_08_00_45_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -950,7 +756,7 @@
       "duelist": [],
       "text": "The Trap Card, Wild Tornado!"
     },
-    "V0201_08_00_46_0": {
+    "V0219_08_00_46_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -960,7 +766,7 @@
       "duelist": [],
       "text": "What to do...\nI play my Trap Card!\nCard of Sacrifice!"
     },
-    "V0201_08_00_47_0": {
+    "V0219_08_00_47_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -970,7 +776,7 @@
       "duelist": [],
       "text": "I haven't given up on the future!"
     },
-    "V0201_08_00_47_1": {
+    "V0219_08_00_47_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -978,7 +784,7 @@
       "duelist": [],
       "text": "I flip over my Trap Card!\nConverging Wishes!"
     },
-    "V0201_08_00_48_0": {
+    "V0219_08_00_48_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -988,7 +794,7 @@
       "duelist": [],
       "text": "Stardust Dragon embodies everyone's hopes and dreams!"
     },
-    "V0201_08_00_48_1": {
+    "V0219_08_00_48_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -996,7 +802,7 @@
       "duelist": [],
       "text": "And it won't let them down!\nConverging Wishes' other effect!"
     },
-    "V0201_08_00_49_0": {
+    "V0219_08_00_49_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1006,7 +812,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nStardust Flash!"
     },
-    "V0201_08_00_50_0": {
+    "V0219_08_00_50_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1016,7 +822,7 @@
       "duelist": [],
       "text": "My Trap activates!\nShining Silver Force!"
     },
-    "V0201_08_00_51_0": {
+    "V0219_08_00_51_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1026,7 +832,7 @@
       "duelist": [],
       "text": "This will show that you're not in control of this Duel!"
     },
-    "V0201_08_00_51_1": {
+    "V0219_08_00_51_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1034,7 +840,7 @@
       "duelist": [],
       "text": "I flip over my Trap Card, Remote Revenge!"
     },
-    "V0201_08_00_52_0": {
+    "V0219_08_00_52_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1044,43 +850,37 @@
       "duelist": [],
       "text": "I play my Trap!\nAssault Mode Activate!"
     },
-    "V0201_09_00_00_0": {
+    "V0219_09_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         11629
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Accel Synchron's effect activates!"
     },
-    "V0201_09_00_01_0": {
+    "V0219_09_00_01_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         7987
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Armory Arm's effect activates!"
     },
-    "V0201_09_00_02_0": {
+    "V0219_09_00_02_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         8933
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "I discard Effect Veiler from my hand to activate its effect!"
     },
-    "V0201_09_00_02_1": {
+    "V0219_09_00_02_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1088,31 +888,27 @@
       "duelist": [],
       "text": "It negates your monster's effects until the end of the turn!"
     },
-    "V0201_09_00_03_0": {
+    "V0219_09_00_03_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         8090
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Ancient Fairy Dragon's effect activates!"
     },
-    "V0201_09_00_04_0": {
+    "V0219_09_00_04_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         8090
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Ancient Fairy Dragon's effect activates!"
     },
-    "V0201_09_00_04_1": {
+    "V0219_09_00_04_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1120,19 +916,17 @@
       "duelist": [],
       "text": "Plain Back!"
     },
-    "V0201_09_00_05_0": {
+    "V0219_09_00_05_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         9552
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "I activate Catapult Warrior's effect!"
     },
-    "V0201_09_00_05_1": {
+    "V0219_09_00_05_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1140,31 +934,27 @@
       "duelist": [],
       "text": "Diving Catapult!"
     },
-    "V0201_09_00_06_0": {
+    "V0219_09_00_06_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         8746
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Quick-Span Knight's effect activates from the Graveyard!"
     },
-    "V0201_09_00_07_0": {
+    "V0219_09_00_07_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         9969
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Gravity Warrior gains ATK from the monsters on your Field!"
     },
-    "V0201_09_00_07_1": {
+    "V0219_09_00_07_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1172,19 +962,17 @@
       "duelist": [],
       "text": "Power Gravitation!"
     },
-    "V0201_09_00_08_0": {
+    "V0219_09_00_08_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         9969
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Gravity Warrior will force your monster to attack!"
     },
-    "V0201_09_00_08_1": {
+    "V0219_09_00_08_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1192,67 +980,57 @@
       "duelist": [],
       "text": "Duel G Field!"
     },
-    "V0201_09_00_09_0": {
+    "V0219_09_00_09_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         12998
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Cosmic Blazar Dragon's effect!"
     },
-    "V0201_09_00_10_0": {
+    "V0219_09_00_10_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         9709
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Shooting Quasar Dragon's effect!"
     },
-    "V0201_09_00_11_0": {
+    "V0219_09_00_11_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         9709
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "When Shooting Quasar Dragon leaves, this Dragon returns!"
     },
-    "V0201_09_00_12_0": {
+    "V0219_09_00_12_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         9117
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Shooting Star Dragon's effect activates!"
     },
-    "V0201_09_00_13_0": {
+    "V0219_09_00_13_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         8581
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "I activate Junk Archer's effect!"
     },
-    "V0201_09_00_13_1": {
+    "V0219_09_00_13_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1260,19 +1038,17 @@
       "duelist": [],
       "text": "Bull's Eye Banishing!"
     },
-    "V0201_09_00_14_0": {
+    "V0219_09_00_14_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         7696
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Junk Warrior gains the ATK of my Level 2 or lower monsters!"
     },
-    "V0201_09_00_14_1": {
+    "V0219_09_00_14_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1280,43 +1056,37 @@
       "duelist": [],
       "text": "The Power of Fellowship!"
     },
-    "V0201_09_00_15_0": {
+    "V0219_09_00_15_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         9045
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Junk Gardna's effect!"
     },
-    "V0201_09_00_16_0": {
+    "V0219_09_00_16_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         7687
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Junk Synchron's effect!"
     },
-    "V0201_09_00_17_0": {
+    "V0219_09_00_17_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         8860
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Junk Destroyer's effect activates!"
     },
-    "V0201_09_00_17_1": {
+    "V0219_09_00_17_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1324,31 +1094,27 @@
       "duelist": [],
       "text": "Tidal Sweep!"
     },
-    "V0201_09_00_18_0": {
+    "V0219_09_00_18_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         9508
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Junk Berserker's effect!"
     },
-    "V0201_09_00_19_0": {
+    "V0219_09_00_19_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         12256
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "I activate Junkuriboh's effect!"
     },
-    "V0201_09_00_19_1": {
+    "V0219_09_00_19_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1356,67 +1122,57 @@
       "duelist": [],
       "text": "I send it to the Graveyard to negate and destroy your card!"
     },
-    "V0201_09_00_20_0": {
+    "V0219_09_00_20_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         12087
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Stardust Assault Warrior's effect!"
     },
-    "V0201_09_00_21_0": {
+    "V0219_09_00_21_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         11627
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Check out Stardust Warrior's effect!"
     },
-    "V0201_09_00_22_0": {
+    "V0219_09_00_22_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         12257
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Stardust Charge Warrior's effect activates!"
     },
-    "V0201_09_00_23_0": {
+    "V0219_09_00_23_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         8091
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Stardust Dragon/Assault Mode's effect!"
     },
-    "V0201_09_00_24_0": {
+    "V0219_09_00_24_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         7734
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "I activate Stardust Dragon's effect!"
     },
-    "V0201_09_00_24_1": {
+    "V0219_09_00_24_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1424,31 +1180,27 @@
       "duelist": [],
       "text": "Victim's Sanctuary!"
     },
-    "V0201_09_00_25_0": {
+    "V0219_09_00_25_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         7734
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Stardust Dragon's effect activates!"
     },
-    "V0201_09_00_26_0": {
+    "V0219_09_00_26_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         7688
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "I activate Speed Warrior's effect!"
     },
-    "V0201_09_00_26_1": {
+    "V0219_09_00_26_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1456,19 +1208,17 @@
       "duelist": [],
       "text": "Its original ATK doubles until the end of the Battle Phase!"
     },
-    "V0201_09_00_27_0": {
+    "V0219_09_00_27_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         8475
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Here's Majestic Star Dragon's effect!"
     },
-    "V0201_09_00_27_1": {
+    "V0219_09_00_27_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1476,19 +1226,17 @@
       "duelist": [],
       "text": "Stardust Force!"
     },
-    "V0201_09_00_28_0": {
+    "V0219_09_00_28_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         8475
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Majestic Star Dragon's effect!"
     },
-    "V0201_09_00_28_1": {
+    "V0219_09_00_28_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1496,19 +1244,17 @@
       "duelist": [],
       "text": "Sublimation Drain!"
     },
-    "V0201_09_00_29_0": {
+    "V0219_09_00_29_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         8475
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Majestic Star Dragon's effect!"
     },
-    "V0201_09_00_29_1": {
+    "V0219_09_00_29_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1516,19 +1262,17 @@
       "duelist": [],
       "text": "By returning it to my Deck, I resurrect Stardust Dragon!"
     },
-    "V0201_09_00_30_0": {
+    "V0219_09_00_30_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         9194
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Seven Swords Warrior's effect activates!"
     },
-    "V0201_09_00_30_1": {
+    "V0219_09_00_30_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1536,31 +1280,27 @@
       "duelist": [],
       "text": "Equip Blast!"
     },
-    "V0201_09_00_31_0": {
+    "V0219_09_00_31_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         9194
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Seven Swords Warrior's effect activates!"
     },
-    "V0201_09_00_32_0": {
+    "V0219_09_00_32_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         7897
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Turbo Warrior's effect!"
     },
-    "V0201_09_00_32_1": {
+    "V0219_09_00_32_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1568,31 +1308,27 @@
       "duelist": [],
       "text": "Twin Fists of Fury!"
     },
-    "V0201_09_00_33_0": {
+    "V0219_09_00_33_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         7870
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Turbo Synchron's effect!"
     },
-    "V0201_09_00_34_0": {
+    "V0219_09_00_34_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         8005
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Here's Debris Dragon's effect!"
     },
-    "V0201_09_00_34_1": {
+    "V0219_09_00_34_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1600,43 +1336,37 @@
       "duelist": [],
       "text": "My monster with 500 or fewer ATK rises from my Grave!"
     },
-    "V0201_09_00_35_0": {
+    "V0219_09_00_35_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         8652
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Drill Warrior's effect!"
     },
-    "V0201_09_00_36_0": {
+    "V0219_09_00_36_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         8615
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Drill Synchron's effect!"
     },
-    "V0201_09_00_37_0": {
+    "V0219_09_00_37_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         7733
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Nitro Warrior's effect activates!"
     },
-    "V0201_09_00_37_1": {
+    "V0219_09_00_37_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1644,31 +1374,27 @@
       "duelist": [],
       "text": "Dynamite Impact!"
     },
-    "V0201_09_00_38_0": {
+    "V0219_09_00_38_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         7700
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Nitro Synchron's effect!"
     },
-    "V0201_09_00_39_0": {
+    "V0219_09_00_39_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         8137
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Power Tool Dragon's effect!"
     },
-    "V0201_09_00_39_1": {
+    "V0219_09_00_39_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1676,31 +1402,27 @@
       "duelist": [],
       "text": "Power Search!"
     },
-    "V0201_09_00_40_0": {
+    "V0219_09_00_40_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         9118
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Formula Synchron's effect activates!"
     },
-    "V0201_09_00_41_0": {
+    "V0219_09_00_41_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         7898
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "And Black Rose Dragon's effect activates!"
     },
-    "V0201_09_00_41_1": {
+    "V0219_09_00_41_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1708,19 +1430,17 @@
       "duelist": [],
       "text": "Go!\nBlack Rose Gale!"
     },
-    "V0201_09_00_42_0": {
+    "V0219_09_00_42_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         7898
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Black Rose Dragon's effect!"
     },
-    "V0201_09_00_42_1": {
+    "V0219_09_00_42_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1728,19 +1448,17 @@
       "duelist": [],
       "text": "Black Binding Bloom!"
     },
-    "V0201_09_00_43_0": {
+    "V0219_09_00_43_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         8815
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Black-Winged Dragon's effect!"
     },
-    "V0201_09_00_43_1": {
+    "V0219_09_00_43_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1748,31 +1466,27 @@
       "duelist": [],
       "text": "Black-Winged Burst!"
     },
-    "V0201_09_00_44_0": {
+    "V0219_09_00_44_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         7701
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "When I have a Tuner, I can bring back Quillbolt Hedgehog!"
     },
-    "V0201_09_00_45_0": {
+    "V0219_09_00_45_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         8775
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Take Mighty Warrior's effect!"
     },
-    "V0201_09_00_45_1": {
+    "V0219_09_00_45_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1780,31 +1494,27 @@
       "duelist": [],
       "text": "Rocket Knuckle!"
     },
-    "V0201_09_00_46_0": {
+    "V0219_09_00_46_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         8872
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Righty Driver's effect Special Summons Lefty Driver!"
     },
-    "V0201_09_00_47_0": {
+    "V0219_09_00_47_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         8736
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "I'm not done!\nTake Lightning Warrior's effect!"
     },
-    "V0201_09_00_47_1": {
+    "V0219_09_00_47_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1812,31 +1522,27 @@
       "duelist": [],
       "text": "Lightning Ray!"
     },
-    "V0201_09_00_48_0": {
+    "V0219_09_00_48_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         9509
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "By Synchro Summoning Life Stream Dragon, my LP become 4000!"
     },
-    "V0201_09_00_49_0": {
+    "V0219_09_00_49_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         7735
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Red Dragon Archfiend's effect!"
     },
-    "V0201_09_00_49_1": {
+    "V0219_09_00_49_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1844,43 +1550,37 @@
       "duelist": [],
       "text": "Fiend Meteor!"
     },
-    "V0201_09_00_50_0": {
+    "V0219_09_00_50_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         7735
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Red Dragon Archfiend's effect!"
     },
-    "V0201_09_00_51_0": {
+    "V0219_09_00_51_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         9251
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Lefty Driver's effect!"
     },
-    "V0201_09_00_52_0": {
+    "V0219_09_00_52_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         7679
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Road Warrior's effect activates!"
     },
-    "V0201_09_00_52_1": {
+    "V0219_09_00_52_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1888,31 +1588,27 @@
       "duelist": [],
       "text": "I Summon a Level 2 or lower Warrior or Machine from my deck!"
     },
-    "V0201_09_00_53_0": {
+    "V0219_09_00_53_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         7841
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Road Synchron's effect!"
     },
-    "V0201_09_00_54_0": {
+    "V0219_09_00_54_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         11944
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Stardust Chronicle Spark Dragon's effect activates!"
     },
-    "V0201_09_00_54_1": {
+    "V0219_09_00_54_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1920,19 +1616,17 @@
       "duelist": [],
       "text": "Sonic Guard!"
     },
-    "V0201_09_00_55_0": {
+    "V0219_09_00_55_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         11944
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "When Stardust Chronicle is destroyed, its effect activates!"
     },
-    "V0201_09_00_55_1": {
+    "V0219_09_00_55_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1940,19 +1634,17 @@
       "duelist": [],
       "text": "I Special Summon a Dragon-Type Synchro Monster!"
     },
-    "V0201_09_00_56_0": {
+    "V0219_09_00_56_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         11931
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Stardust Sifr Divine Dragon's effect!"
     },
-    "V0201_09_00_56_1": {
+    "V0219_09_00_56_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1960,19 +1652,17 @@
       "duelist": [],
       "text": "Sonic Shine Reversal!"
     },
-    "V0201_09_00_57_0": {
+    "V0219_09_00_57_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         11931
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Stardust Sifr's effect activates from my Graveyard!"
     },
-    "V0201_09_00_57_1": {
+    "V0219_09_00_57_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1980,19 +1670,17 @@
       "duelist": [],
       "text": "Resurrect, Stardust!"
     },
-    "V0201_09_00_58_0": {
+    "V0219_09_00_58_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         10479
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Stardust Spark Dragon's effect!"
     },
-    "V0201_09_00_58_1": {
+    "V0219_09_00_58_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2000,43 +1688,37 @@
       "duelist": [],
       "text": "Sonic Barrier!"
     },
-    "V0201_09_00_59_0": {
+    "V0219_09_00_59_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         8969
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Dragon Knight Draco-Equiste's effect activates!"
     },
-    "V0201_09_00_60_0": {
+    "V0219_09_00_60_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         11628
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Jet Warrior's effect!"
     },
-    "V0201_09_00_61_0": {
+    "V0219_09_00_61_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
         11620
       ],
-      "duelist": [
-        0
-      ],
+      "duelist": [],
       "text": "Jet Synchron's effect!"
     },
-    "V0201_10_00_00_0": {
+    "V0219_10_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2044,7 +1726,7 @@
       "duelist": [],
       "text": "Okay!"
     },
-    "V0201_10_00_01_0": {
+    "V0219_10_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2052,7 +1734,7 @@
       "duelist": [],
       "text": "I know what to do!"
     },
-    "V0201_10_00_02_0": {
+    "V0219_10_00_02_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2060,7 +1742,7 @@
       "duelist": [],
       "text": "I need your help!"
     },
-    "V0201_10_00_03_0": {
+    "V0219_10_00_03_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2068,7 +1750,7 @@
       "duelist": [],
       "text": "I'm counting on you!"
     },
-    "V0201_11_00_00_0": {
+    "V0219_11_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2076,7 +1758,7 @@
       "duelist": [],
       "text": "I Summon a monster!"
     },
-    "V0201_11_01_00_0": {
+    "V0219_11_01_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2084,7 +1766,7 @@
       "duelist": [],
       "text": "I Summon a monster in Defense Position!"
     },
-    "V0201_11_02_00_0": {
+    "V0219_11_02_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2092,7 +1774,7 @@
       "duelist": [],
       "text": "I Special Summon a monster!"
     },
-    "V0201_11_03_00_0": {
+    "V0219_11_03_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2100,7 +1782,7 @@
       "duelist": [],
       "text": "I Tribute a monster!"
     },
-    "V0201_11_04_00_0": {
+    "V0219_11_04_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2108,7 +1790,7 @@
       "duelist": [],
       "text": "I Tribute Summon a monster!"
     },
-    "V0201_11_05_00_0": {
+    "V0219_11_05_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2116,7 +1798,7 @@
       "duelist": [],
       "text": "I Fusion Summon a monster!"
     },
-    "V0201_11_06_00_0": {
+    "V0219_11_06_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2124,7 +1806,7 @@
       "duelist": [],
       "text": "I Ritual Summon a monster!"
     },
-    "V0201_11_07_00_0": {
+    "V0219_11_07_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2132,7 +1814,7 @@
       "duelist": [],
       "text": "I Synchro Summon a monster!"
     },
-    "V0201_11_08_00_0": {
+    "V0219_11_08_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2140,7 +1822,7 @@
       "duelist": [],
       "text": "I Xyz Summon a monster!"
     },
-    "V0201_11_09_00_0": {
+    "V0219_11_09_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2148,7 +1830,7 @@
       "duelist": [],
       "text": "I Pendulum Summon a monster!"
     },
-    "V0201_11_10_00_0": {
+    "V0219_11_10_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2156,7 +1838,7 @@
       "duelist": [],
       "text": "I Link Summon a monster!"
     },
-    "V0201_13_00_00_0": {
+    "V0219_13_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2166,7 +1848,7 @@
       "duelist": [],
       "text": "Come on in, Accel Synchron!"
     },
-    "V0201_13_00_01_0": {
+    "V0219_13_00_01_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2176,7 +1858,7 @@
       "duelist": [],
       "text": "Come on out, Armory Arm!"
     },
-    "V0201_13_00_02_0": {
+    "V0219_13_00_02_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2186,7 +1868,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Effect Veiler!"
     },
-    "V0201_37_00_00_0": {
+    "V0219_37_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2196,7 +1878,7 @@
       "duelist": [],
       "text": "The magic that lives in each creature merge and become one!"
     },
-    "V0201_37_00_00_1": {
+    "V0219_37_00_00_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2204,7 +1886,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0201_13_00_03_0": {
+    "V0219_13_00_03_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2214,7 +1896,7 @@
       "duelist": [],
       "text": "The mighty, the majestic...\nAncient Fairy Dragon!"
     },
-    "V0201_13_00_04_0": {
+    "V0219_13_00_04_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2224,7 +1906,7 @@
       "duelist": [],
       "text": "Level 5!\nCatapult Warrior!"
     },
-    "V0201_13_00_05_0": {
+    "V0219_13_00_05_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2234,7 +1916,7 @@
       "duelist": [],
       "text": "Here's the Tuner Monster, Quickdraw Synchron!"
     },
-    "V0201_13_00_06_0": {
+    "V0219_13_00_06_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2244,7 +1926,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Quick-Span Knight!"
     },
-    "V0201_37_00_01_0": {
+    "V0219_37_00_01_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2254,7 +1936,7 @@
       "duelist": [],
       "text": "Arrive from beyond the event horizon!"
     },
-    "V0201_37_00_01_1": {
+    "V0219_37_00_01_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2262,7 +1944,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0201_13_00_07_0": {
+    "V0219_13_00_07_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2272,7 +1954,7 @@
       "duelist": [],
       "text": "Gravity Warrior!"
     },
-    "V0201_37_00_02_0": {
+    "V0219_37_00_02_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2282,7 +1964,7 @@
       "duelist": [],
       "text": "It's time to rev it up!"
     },
-    "V0201_37_00_02_1": {
+    "V0219_37_00_02_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2290,7 +1972,7 @@
       "duelist": [],
       "text": "The stars unite to rush to the future!"
     },
-    "V0201_37_00_02_2": {
+    "V0219_37_00_02_2": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2298,7 +1980,7 @@
       "duelist": [],
       "text": "Form the road of light!\nDelta Accel Synchro!"
     },
-    "V0201_13_00_08_0": {
+    "V0219_13_00_08_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -2308,7 +1990,7 @@
       "duelist": [],
       "text": "Cosmic Blazar Dragon!"
     },
-    "V0201_37_00_03_0": {
+    "V0219_37_00_03_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2318,7 +2000,7 @@
       "duelist": [],
       "text": "I'll rev it up to blast through my limitations!"
     },
-    "V0201_37_00_03_1": {
+    "V0219_37_00_03_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2326,7 +2008,7 @@
       "duelist": [],
       "text": "The stars unite to brighten the future!"
     },
-    "V0201_37_00_03_2": {
+    "V0219_37_00_03_2": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2334,7 +2016,7 @@
       "duelist": [],
       "text": "Form the road of light!\nLimit Over Accel Synchro!"
     },
-    "V0201_13_00_09_0": {
+    "V0219_13_00_09_0": {
       "face": 3,
       "frame": 1,
       "cutin": 5,
@@ -2344,7 +2026,7 @@
       "duelist": [],
       "text": "The evolution of light!\nShooting Quasar Dragon!"
     },
-    "V0201_37_00_04_0": {
+    "V0219_37_00_04_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2354,7 +2036,7 @@
       "duelist": [],
       "text": "Let's rev it up!"
     },
-    "V0201_37_00_04_1": {
+    "V0219_37_00_04_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2362,7 +2044,7 @@
       "duelist": [],
       "text": "Spread your wings and soar to new heights!"
     },
-    "V0201_37_00_04_2": {
+    "V0219_37_00_04_2": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2370,7 +2052,7 @@
       "duelist": [],
       "text": "Be transformed by the winds of destiny!\nAccel Synchro!"
     },
-    "V0201_13_00_10_0": {
+    "V0219_13_00_10_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -2380,7 +2062,7 @@
       "duelist": [],
       "text": "Appear, Shooting Star Dragon!"
     },
-    "V0201_37_00_05_0": {
+    "V0219_37_00_05_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2390,7 +2072,7 @@
       "duelist": [],
       "text": "The spirits merge to form the arrow that pierces the sky!"
     },
-    "V0201_37_00_05_1": {
+    "V0219_37_00_05_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2398,7 +2080,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0201_13_00_11_0": {
+    "V0219_13_00_11_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2408,7 +2090,7 @@
       "duelist": [],
       "text": "Ready your bow, Junk Archer!"
     },
-    "V0201_37_00_06_0": {
+    "V0219_37_00_06_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2418,7 +2100,7 @@
       "duelist": [],
       "text": "Even the tiniest scrap has value!"
     },
-    "V0201_37_00_06_1": {
+    "V0219_37_00_06_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2426,7 +2108,7 @@
       "duelist": [],
       "text": "And this monster will prove it!\nSynchro Summon!"
     },
-    "V0201_13_00_12_0": {
+    "V0219_13_00_12_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -2436,7 +2118,7 @@
       "duelist": [],
       "text": "Appear, Junk Warrior!"
     },
-    "V0201_37_00_07_0": {
+    "V0219_37_00_07_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2446,7 +2128,7 @@
       "duelist": [],
       "text": "Fragments of steel merge into an impenetrable shield!"
     },
-    "V0201_37_00_07_1": {
+    "V0219_37_00_07_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2454,7 +2136,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0201_13_00_13_0": {
+    "V0219_13_00_13_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2464,7 +2146,7 @@
       "duelist": [],
       "text": "Come, Junk Gardna!"
     },
-    "V0201_13_00_14_0": {
+    "V0219_13_00_14_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2474,7 +2156,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Junk Synchron!"
     },
-    "V0201_37_00_08_0": {
+    "V0219_37_00_08_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2484,7 +2166,7 @@
       "duelist": [],
       "text": "Behold as sharp steel and ironclad alloy forge together!"
     },
-    "V0201_37_00_08_1": {
+    "V0219_37_00_08_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2492,7 +2174,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0201_13_00_15_0": {
+    "V0219_13_00_15_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2502,7 +2184,7 @@
       "duelist": [],
       "text": "Junk Destroyer has arrived to annihilate!"
     },
-    "V0201_37_00_09_0": {
+    "V0219_37_00_09_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2512,7 +2194,7 @@
       "duelist": [],
       "text": "The anger rages into an unquenchable fever!"
     },
-    "V0201_37_00_09_1": {
+    "V0219_37_00_09_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2520,7 +2202,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0201_13_00_16_0": {
+    "V0219_13_00_16_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2530,7 +2212,7 @@
       "duelist": [],
       "text": "Roar!\nJunk Berserker!"
     },
-    "V0201_13_00_17_0": {
+    "V0219_13_00_17_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2540,7 +2222,7 @@
       "duelist": [],
       "text": "Here comes Junkuriboh!"
     },
-    "V0201_37_00_10_0": {
+    "V0219_37_00_10_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2550,7 +2232,7 @@
       "duelist": [],
       "text": "Wearing the marks of endless wars, his spirit still burns!"
     },
-    "V0201_37_00_10_1": {
+    "V0219_37_00_10_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2558,7 +2240,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0201_13_00_18_0": {
+    "V0219_13_00_18_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2568,7 +2250,7 @@
       "duelist": [],
       "text": "Scarred Warrior!"
     },
-    "V0201_37_00_11_0": {
+    "V0219_37_00_11_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2578,7 +2260,7 @@
       "duelist": [],
       "text": "Wake the world as you lance the heavens!"
     },
-    "V0201_37_00_11_1": {
+    "V0219_37_00_11_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2586,7 +2268,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0201_13_00_19_0": {
+    "V0219_13_00_19_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2596,7 +2278,7 @@
       "duelist": [],
       "text": "Stardust Assault Warrior!"
     },
-    "V0201_37_00_12_0": {
+    "V0219_37_00_12_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2606,7 +2288,7 @@
       "duelist": [],
       "text": "Strike with the fist that crushes the strongest steel!"
     },
-    "V0201_37_00_12_1": {
+    "V0219_37_00_12_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2614,7 +2296,7 @@
       "duelist": [],
       "text": "Accel Synchro!"
     },
-    "V0201_13_00_20_0": {
+    "V0219_13_00_20_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -2624,7 +2306,7 @@
       "duelist": [],
       "text": "Appear! Stardust Warrior!"
     },
-    "V0201_37_00_13_0": {
+    "V0219_37_00_13_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2634,7 +2316,7 @@
       "duelist": [],
       "text": "Ride the wind and rain with your sacred wings!"
     },
-    "V0201_37_00_13_1": {
+    "V0219_37_00_13_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2642,7 +2324,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0201_13_00_21_0": {
+    "V0219_13_00_21_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2652,7 +2334,7 @@
       "duelist": [],
       "text": "Stardust Charge Warrior!"
     },
-    "V0201_13_00_22_0": {
+    "V0219_13_00_22_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2662,7 +2344,7 @@
       "duelist": [],
       "text": "Appear, Stardust Dragon/Assault Mode!"
     },
-    "V0201_37_00_14_0": {
+    "V0219_37_00_14_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2672,7 +2354,7 @@
       "duelist": [],
       "text": "The hopes of the world coalesce into a single star!"
     },
-    "V0201_37_00_14_1": {
+    "V0219_37_00_14_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2680,7 +2362,7 @@
       "duelist": [],
       "text": "Let's rev it up!\nSynchro Summon!"
     },
-    "V0201_13_00_23_0": {
+    "V0219_13_00_23_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -2690,7 +2372,7 @@
       "duelist": [],
       "text": "Take flight, Stardust Dragon!"
     },
-    "V0201_13_00_24_0": {
+    "V0219_13_00_24_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2700,7 +2382,7 @@
       "duelist": [],
       "text": "Sprint on in, Speed Warrior!"
     },
-    "V0201_37_00_15_0": {
+    "V0219_37_00_15_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2710,7 +2392,7 @@
       "duelist": [],
       "text": "When the stars shine as one, they point towards a miracle!"
     },
-    "V0201_37_00_15_1": {
+    "V0219_37_00_15_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2718,7 +2400,7 @@
       "duelist": [],
       "text": "Let's rev it up!\nSynchro Summon!"
     },
-    "V0201_13_00_25_0": {
+    "V0219_13_00_25_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -2728,7 +2410,7 @@
       "duelist": [],
       "text": "Come forth, Majestic Star Dragon!"
     },
-    "V0201_37_00_16_0": {
+    "V0219_37_00_16_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2738,7 +2420,7 @@
       "duelist": [],
       "text": "Cleave the light!\nSynchro Summon!"
     },
-    "V0201_13_00_26_0": {
+    "V0219_13_00_26_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2748,7 +2430,7 @@
       "duelist": [],
       "text": "Seven Swords Warrior!"
     },
-    "V0201_37_00_17_0": {
+    "V0219_37_00_17_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2758,7 +2440,7 @@
       "duelist": [],
       "text": "Watch as I shift my power to overdrive!"
     },
-    "V0201_37_00_17_1": {
+    "V0219_37_00_17_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2766,7 +2448,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0201_13_00_27_0": {
+    "V0219_13_00_27_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2776,7 +2458,7 @@
       "duelist": [],
       "text": "Rev your engines, Turbo Warrior!"
     },
-    "V0201_13_00_28_0": {
+    "V0219_13_00_28_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2786,7 +2468,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Turbo Synchron!"
     },
-    "V0201_13_00_29_0": {
+    "V0219_13_00_29_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2796,7 +2478,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Debris Dragon!"
     },
-    "V0201_37_00_18_0": {
+    "V0219_37_00_18_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2806,7 +2488,7 @@
       "duelist": [],
       "text": "Here's a gargantuan that grinds the greatest garrisons!"
     },
-    "V0201_37_00_18_1": {
+    "V0219_37_00_18_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2814,7 +2496,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0201_13_00_30_0": {
+    "V0219_13_00_30_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2824,7 +2506,7 @@
       "duelist": [],
       "text": "Drill Warrior's here to pulverize!"
     },
-    "V0201_13_00_31_0": {
+    "V0219_13_00_31_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2834,7 +2516,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Drill Synchron!"
     },
-    "V0201_37_00_19_0": {
+    "V0219_37_00_19_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2844,7 +2526,7 @@
       "duelist": [],
       "text": "Time to break down the barriers you've put in my path!"
     },
-    "V0201_37_00_19_1": {
+    "V0219_37_00_19_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2852,7 +2534,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0201_13_00_32_0": {
+    "V0219_13_00_32_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2862,7 +2544,7 @@
       "duelist": [],
       "text": "Burn, Nitro Warrior!"
     },
-    "V0201_13_00_33_0": {
+    "V0219_13_00_33_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2872,7 +2554,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Nitro Synchron!"
     },
-    "V0201_37_00_20_0": {
+    "V0219_37_00_20_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2882,7 +2564,7 @@
       "duelist": [],
       "text": "Machine and might combine to bring peace to the world!"
     },
-    "V0201_37_00_20_1": {
+    "V0219_37_00_20_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2890,7 +2572,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0201_13_00_34_0": {
+    "V0219_13_00_34_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2900,7 +2582,7 @@
       "duelist": [],
       "text": "The monster with some major motor!\nPower Tool Dragon!"
     },
-    "V0201_37_00_21_0": {
+    "V0219_37_00_21_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2910,7 +2592,7 @@
       "duelist": [],
       "text": "Power and speed surge towards each other!"
     },
-    "V0201_37_00_21_1": {
+    "V0219_37_00_21_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2918,7 +2600,7 @@
       "duelist": [],
       "text": "And collide to create pure might!\nSynchro Summon!"
     },
-    "V0201_13_00_35_0": {
+    "V0219_13_00_35_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2928,7 +2610,7 @@
       "duelist": [],
       "text": "The Synchro Tuner, Formula Synchron!"
     },
-    "V0201_37_00_22_0": {
+    "V0219_37_00_22_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2938,7 +2620,7 @@
       "duelist": [],
       "text": "A cold flame envelops the world!\nBlack flower, bloom!"
     },
-    "V0201_37_00_22_1": {
+    "V0219_37_00_22_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2946,7 +2628,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0201_13_00_36_0": {
+    "V0219_13_00_36_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2956,7 +2638,7 @@
       "duelist": [],
       "text": "Appear, Black Rose Dragon!"
     },
-    "V0201_37_00_23_0": {
+    "V0219_37_00_23_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2966,7 +2648,7 @@
       "duelist": [],
       "text": "The black whirlwind turns into wings to fly to the sky!"
     },
-    "V0201_37_00_23_1": {
+    "V0219_37_00_23_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2974,7 +2656,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0201_13_00_37_0": {
+    "V0219_13_00_37_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2984,7 +2666,7 @@
       "duelist": [],
       "text": "Soar to power, Black-Winged Dragon!"
     },
-    "V0201_13_00_38_0": {
+    "V0219_13_00_38_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2994,7 +2676,7 @@
       "duelist": [],
       "text": "Come, Quillbolt Hedgehog!"
     },
-    "V0201_13_00_39_0": {
+    "V0219_13_00_39_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -3004,7 +2686,7 @@
       "duelist": [],
       "text": "Level 6 Mighty Warrior!"
     },
-    "V0201_13_00_40_0": {
+    "V0219_13_00_40_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3014,7 +2696,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Righty Driver!"
     },
-    "V0201_13_00_41_0": {
+    "V0219_13_00_41_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -3024,7 +2706,7 @@
       "duelist": [],
       "text": "Present yourself, Lightning Warrior!"
     },
-    "V0201_37_00_24_0": {
+    "V0219_37_00_24_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3034,7 +2716,7 @@
       "duelist": [],
       "text": "Courage and power lead to a revolution for peace!"
     },
-    "V0201_37_00_24_1": {
+    "V0219_37_00_24_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3042,7 +2724,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0201_13_00_42_0": {
+    "V0219_13_00_42_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -3052,7 +2734,7 @@
       "duelist": [],
       "text": "Evolve!\nLife Stream Dragon!"
     },
-    "V0201_37_00_25_0": {
+    "V0219_37_00_25_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3062,7 +2744,7 @@
       "duelist": [],
       "text": "The pulse of the ruler roars through the heavens and earth!"
     },
-    "V0201_37_00_25_1": {
+    "V0219_37_00_25_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3070,7 +2752,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0201_13_00_43_0": {
+    "V0219_13_00_43_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -3080,7 +2762,7 @@
       "duelist": [],
       "text": "My friend's very soul!\nRed Dragon Archfiend!"
     },
-    "V0201_13_00_44_0": {
+    "V0219_13_00_44_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3090,7 +2772,7 @@
       "duelist": [],
       "text": "Come, Lefty Driver!"
     },
-    "V0201_37_00_26_0": {
+    "V0219_37_00_26_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3100,7 +2782,7 @@
       "duelist": [],
       "text": "This monster will blaze a path all the way to my victory!"
     },
-    "V0201_37_00_26_1": {
+    "V0219_37_00_26_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3108,7 +2790,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0201_13_00_45_0": {
+    "V0219_13_00_45_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -3118,7 +2800,7 @@
       "duelist": [],
       "text": "Floor it, Road Warrior!"
     },
-    "V0201_13_00_46_0": {
+    "V0219_13_00_46_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3128,7 +2810,7 @@
       "duelist": [],
       "text": "Here comes the Tuner Monster, Road Synchron!"
     },
-    "V0201_13_00_47_0": {
+    "V0219_13_00_47_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3138,7 +2820,7 @@
       "duelist": [],
       "text": "Speed on in, Sonic Chick!"
     },
-    "V0201_13_00_48_0": {
+    "V0219_13_00_48_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -3148,7 +2830,7 @@
       "duelist": [],
       "text": "This card will bring about a miracle!"
     },
-    "V0201_13_00_48_1": {
+    "V0219_13_00_48_1": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -3156,7 +2838,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Majestic Dragon!"
     },
-    "V0201_37_00_27_0": {
+    "V0219_37_00_27_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3166,7 +2848,7 @@
       "duelist": [],
       "text": "Fill this world with the tracks of shooting stars!"
     },
-    "V0201_37_00_27_1": {
+    "V0219_37_00_27_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3174,7 +2856,7 @@
       "duelist": [],
       "text": "Accel Synchro!"
     },
-    "V0201_13_00_49_0": {
+    "V0219_13_00_49_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -3184,7 +2866,7 @@
       "duelist": [],
       "text": "Stardust Chronicle Spark Dragon!"
     },
-    "V0201_37_00_28_0": {
+    "V0219_37_00_28_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3194,7 +2876,7 @@
       "duelist": [],
       "text": "The ancient stars purify the world!"
     },
-    "V0201_37_00_28_1": {
+    "V0219_37_00_28_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3202,7 +2884,7 @@
       "duelist": [],
       "text": "Accel Synchro!"
     },
-    "V0201_13_00_50_0": {
+    "V0219_13_00_50_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -3212,7 +2894,7 @@
       "duelist": [],
       "text": "Welcome Level 12 Stardust Sifr Divine Dragon!"
     },
-    "V0201_37_00_29_0": {
+    "V0219_37_00_29_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3222,7 +2904,7 @@
       "duelist": [],
       "text": "The single ray of light pierces through the ocean of stars!"
     },
-    "V0201_37_00_29_1": {
+    "V0219_37_00_29_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3230,7 +2912,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0201_13_00_51_0": {
+    "V0219_13_00_51_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -3240,7 +2922,7 @@
       "duelist": [],
       "text": "Stardust Spark Dragon!"
     },
-    "V0201_37_00_30_0": {
+    "V0219_37_00_30_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3250,7 +2932,7 @@
       "duelist": [],
       "text": "I've decided to unite your powers into one!"
     },
-    "V0201_37_00_30_1": {
+    "V0219_37_00_30_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3258,7 +2940,7 @@
       "duelist": [],
       "text": "Fusion Summon!"
     },
-    "V0201_13_00_52_0": {
+    "V0219_13_00_52_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -3268,7 +2950,7 @@
       "duelist": [],
       "text": "Come here!\nDragon Knight Draco-Equiste!"
     },
-    "V0201_13_00_53_0": {
+    "V0219_13_00_53_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3278,7 +2960,7 @@
       "duelist": [],
       "text": "Blast off, Jet Warrior!"
     },
-    "V0201_13_00_54_0": {
+    "V0219_13_00_54_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3288,7 +2970,7 @@
       "duelist": [],
       "text": "Here's my Tuner Monster, Jet Synchron!"
     },
-    "V0201_14_00_00_0": {
+    "V0219_14_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3296,7 +2978,7 @@
       "duelist": [],
       "text": "Battle!"
     },
-    "V0201_14_00_01_0": {
+    "V0219_14_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3304,7 +2986,7 @@
       "duelist": [],
       "text": "I'm not scared to attack! Let's battle!"
     },
-    "V0201_15_00_00_0": {
+    "V0219_15_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3312,7 +2994,7 @@
       "duelist": [],
       "text": "Take this!"
     },
-    "V0201_15_00_01_0": {
+    "V0219_15_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3320,7 +3002,7 @@
       "duelist": [],
       "text": "Go!"
     },
-    "V0201_15_00_02_0": {
+    "V0219_15_00_02_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3328,7 +3010,7 @@
       "duelist": [],
       "text": "Here I go!"
     },
-    "V0201_17_00_00_0": {
+    "V0219_17_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3336,7 +3018,7 @@
       "duelist": [],
       "text": "My monster attacks!"
     },
-    "V0201_17_00_01_0": {
+    "V0219_17_00_01_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3344,7 +3026,7 @@
       "duelist": [],
       "text": "I attack with my monster!"
     },
-    "V0201_17_00_02_0": {
+    "V0219_17_00_02_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3352,7 +3034,7 @@
       "duelist": [],
       "text": "Attack!"
     },
-    "V0201_16_00_00_0": {
+    "V0219_16_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3360,7 +3042,7 @@
       "duelist": [],
       "text": "This is the strength of our bond!"
     },
-    "V0201_16_00_01_0": {
+    "V0219_16_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3368,7 +3050,7 @@
       "duelist": [],
       "text": "This will end you!"
     },
-    "V0201_18_00_00_0": {
+    "V0219_18_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3376,7 +3058,7 @@
       "duelist": [],
       "text": "My monster attacks you directly!"
     },
-    "V0201_18_00_01_0": {
+    "V0219_18_00_01_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3384,7 +3066,7 @@
       "duelist": [],
       "text": "I attack you directly!"
     },
-    "V0201_19_00_00_0": {
+    "V0219_19_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3394,7 +3076,7 @@
       "duelist": [],
       "text": "Accel Synchron attacks!"
     },
-    "V0201_19_00_01_0": {
+    "V0219_19_00_01_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3404,7 +3086,7 @@
       "duelist": [],
       "text": "Attack, Armory Arm!"
     },
-    "V0201_19_00_02_0": {
+    "V0219_19_00_02_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3414,7 +3096,7 @@
       "duelist": [],
       "text": "Effect Veiler! Attack!"
     },
-    "V0201_19_00_03_0": {
+    "V0219_19_00_03_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3424,7 +3106,7 @@
       "duelist": [],
       "text": "Ancient Fairy Dragon attacks!"
     },
-    "V0201_19_00_03_1": {
+    "V0219_19_00_03_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3432,7 +3114,7 @@
       "duelist": [],
       "text": "Eternal Sunshine!"
     },
-    "V0201_19_00_04_0": {
+    "V0219_19_00_04_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3442,7 +3124,7 @@
       "duelist": [],
       "text": "Catapult Warrior attacks!"
     },
-    "V0201_19_00_05_0": {
+    "V0219_19_00_05_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3452,7 +3134,7 @@
       "duelist": [],
       "text": "Quickdraw Synchron attacks!"
     },
-    "V0201_19_00_06_0": {
+    "V0219_19_00_06_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3462,7 +3144,7 @@
       "duelist": [],
       "text": "My Quick-Span Knight attacks!"
     },
-    "V0201_19_00_07_0": {
+    "V0219_19_00_07_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3472,7 +3154,7 @@
       "duelist": [],
       "text": "Gravity Warrior attacks!"
     },
-    "V0201_19_00_07_1": {
+    "V0219_19_00_07_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3480,7 +3162,7 @@
       "duelist": [],
       "text": "Grand Cross!"
     },
-    "V0201_19_00_08_0": {
+    "V0219_19_00_08_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3490,7 +3172,7 @@
       "duelist": [],
       "text": "Attack, Cosmic Blazar Dragon!"
     },
-    "V0201_19_00_09_0": {
+    "V0219_19_00_09_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3500,7 +3182,7 @@
       "duelist": [],
       "text": "Attack, Shooting Quasar Dragon!"
     },
-    "V0201_19_00_09_1": {
+    "V0219_19_00_09_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3508,7 +3190,7 @@
       "duelist": [],
       "text": "The Burst of Creation!"
     },
-    "V0201_19_00_10_0": {
+    "V0219_19_00_10_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3518,7 +3200,7 @@
       "duelist": [],
       "text": "Shooting Star Dragon attacks!"
     },
-    "V0201_19_00_10_1": {
+    "V0219_19_00_10_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3526,7 +3208,7 @@
       "duelist": [],
       "text": "Falling Star Slam!"
     },
-    "V0201_19_00_11_0": {
+    "V0219_19_00_11_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3536,7 +3218,7 @@
       "duelist": [],
       "text": "Fire, Junk Archer!"
     },
-    "V0201_19_00_11_1": {
+    "V0219_19_00_11_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3544,7 +3226,7 @@
       "duelist": [],
       "text": "Scrap Arrow!"
     },
-    "V0201_19_00_12_0": {
+    "V0219_19_00_12_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3554,7 +3236,7 @@
       "duelist": [],
       "text": "Junk Warrior! Attack!"
     },
-    "V0201_19_00_12_1": {
+    "V0219_19_00_12_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3562,7 +3244,7 @@
       "duelist": [],
       "text": "Scrap Fist!"
     },
-    "V0201_19_00_13_0": {
+    "V0219_19_00_13_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3572,7 +3254,7 @@
       "duelist": [],
       "text": "Junk Gardna attacks!"
     },
-    "V0201_19_00_14_0": {
+    "V0219_19_00_14_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3582,7 +3264,7 @@
       "duelist": [],
       "text": "Junk Synchron attacks!"
     },
-    "V0201_19_00_15_0": {
+    "V0219_19_00_15_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3592,7 +3274,7 @@
       "duelist": [],
       "text": "Junk Destroyer attacks!"
     },
-    "V0201_19_00_15_1": {
+    "V0219_19_00_15_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3600,7 +3282,7 @@
       "duelist": [],
       "text": "Fists of Ferocity!"
     },
-    "V0201_19_00_16_0": {
+    "V0219_19_00_16_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3610,7 +3292,7 @@
       "duelist": [],
       "text": "Junk Berserker!\nSend 'em to the scrap heap!"
     },
-    "V0201_19_00_17_0": {
+    "V0219_19_00_17_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3620,7 +3302,7 @@
       "duelist": [],
       "text": "Junkuriboh attacks!"
     },
-    "V0201_19_00_18_0": {
+    "V0219_19_00_18_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3630,7 +3312,7 @@
       "duelist": [],
       "text": "Scarred Warrior! Attack!"
     },
-    "V0201_19_00_18_1": {
+    "V0219_19_00_18_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3638,7 +3320,7 @@
       "duelist": [],
       "text": "Brave Dagger!"
     },
-    "V0201_19_00_19_0": {
+    "V0219_19_00_19_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3648,7 +3330,7 @@
       "duelist": [],
       "text": "Stardust Assault Warrior attacks!"
     },
-    "V0201_19_00_19_1": {
+    "V0219_19_00_19_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3656,7 +3338,7 @@
       "duelist": [],
       "text": "Shooting Driver!"
     },
-    "V0201_19_00_20_0": {
+    "V0219_19_00_20_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3666,7 +3348,7 @@
       "duelist": [],
       "text": "Stardust Warrior attacks!"
     },
-    "V0201_19_00_21_0": {
+    "V0219_19_00_21_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3676,7 +3358,7 @@
       "duelist": [],
       "text": "Stardust Charge Warrior attacks!"
     },
-    "V0201_19_00_21_1": {
+    "V0219_19_00_21_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3684,7 +3366,7 @@
       "duelist": [],
       "text": "Shooting Crusher!"
     },
-    "V0201_19_00_22_0": {
+    "V0219_19_00_22_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3694,7 +3376,7 @@
       "duelist": [],
       "text": "Attack, Stardust Dragon/Assault Mode!"
     },
-    "V0201_19_00_22_1": {
+    "V0219_19_00_22_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3702,7 +3384,7 @@
       "duelist": [],
       "text": "Assault Sonic Burn!"
     },
-    "V0201_19_00_23_0": {
+    "V0219_19_00_23_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3712,7 +3394,7 @@
       "duelist": [],
       "text": "Attack, Stardust Dragon!"
     },
-    "V0201_19_00_23_1": {
+    "V0219_19_00_23_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3720,7 +3402,7 @@
       "duelist": [],
       "text": "Cosmic Flare!"
     },
-    "V0201_19_00_24_0": {
+    "V0219_19_00_24_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3730,7 +3412,7 @@
       "duelist": [],
       "text": "You have the green light, Speed Warrior! Attack!"
     },
-    "V0201_19_00_24_1": {
+    "V0219_19_00_24_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3738,7 +3420,7 @@
       "duelist": [],
       "text": "Hyper Sonic Slash!"
     },
-    "V0201_19_00_25_0": {
+    "V0219_19_00_25_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3748,7 +3430,7 @@
       "duelist": [],
       "text": "Majestic Star Dragon attacks!"
     },
-    "V0201_19_00_25_1": {
+    "V0219_19_00_25_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3756,7 +3438,7 @@
       "duelist": [],
       "text": "Sonic Blaster!"
     },
-    "V0201_19_00_26_0": {
+    "V0219_19_00_26_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3766,7 +3448,7 @@
       "duelist": [],
       "text": "Let's go, Seven Swords Warrior!"
     },
-    "V0201_19_00_26_1": {
+    "V0219_19_00_26_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3774,7 +3456,7 @@
       "duelist": [],
       "text": "Seven Sword Slash!"
     },
-    "V0201_19_00_27_0": {
+    "V0219_19_00_27_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3784,7 +3466,7 @@
       "duelist": [],
       "text": "Take 'em out, Turbo Warrior!"
     },
-    "V0201_19_00_27_1": {
+    "V0219_19_00_27_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3792,7 +3474,7 @@
       "duelist": [],
       "text": "Accel Slash!"
     },
-    "V0201_19_00_28_0": {
+    "V0219_19_00_28_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3802,7 +3484,7 @@
       "duelist": [],
       "text": "Turbo Synchron! Attack!"
     },
-    "V0201_19_00_29_0": {
+    "V0219_19_00_29_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3812,7 +3494,7 @@
       "duelist": [],
       "text": "Debris Dragon attacks!"
     },
-    "V0201_19_00_30_0": {
+    "V0219_19_00_30_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3822,7 +3504,7 @@
       "duelist": [],
       "text": "Attack, Drill Warrior!"
     },
-    "V0201_19_00_30_1": {
+    "V0219_19_00_30_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3830,7 +3512,7 @@
       "duelist": [],
       "text": "Whirlwind Winder!"
     },
-    "V0201_19_00_31_0": {
+    "V0219_19_00_31_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3840,7 +3522,7 @@
       "duelist": [],
       "text": "Drill Warrior attacks!"
     },
-    "V0201_19_00_32_0": {
+    "V0219_19_00_32_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3850,7 +3532,7 @@
       "duelist": [],
       "text": "Attack, Nitro Warrior!"
     },
-    "V0201_19_00_32_1": {
+    "V0219_19_00_32_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3858,7 +3540,7 @@
       "duelist": [],
       "text": "Dynamite Crunch!"
     },
-    "V0201_19_00_33_0": {
+    "V0219_19_00_33_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3868,7 +3550,7 @@
       "duelist": [],
       "text": "Nitro Synchron! Attack!"
     },
-    "V0201_19_00_34_0": {
+    "V0219_19_00_34_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3878,7 +3560,7 @@
       "duelist": [],
       "text": "Power Tool Dragon! Attack!"
     },
-    "V0201_19_00_34_1": {
+    "V0219_19_00_34_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3886,7 +3568,7 @@
       "duelist": [],
       "text": "Crafty Break!"
     },
-    "V0201_19_00_35_0": {
+    "V0219_19_00_35_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3896,7 +3578,7 @@
       "duelist": [],
       "text": "Attack, Formula Synchron!"
     },
-    "V0201_19_00_36_0": {
+    "V0219_19_00_36_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3906,7 +3588,7 @@
       "duelist": [],
       "text": "Black Rose Dragon attacks!"
     },
-    "V0201_19_00_36_1": {
+    "V0219_19_00_36_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3914,7 +3596,7 @@
       "duelist": [],
       "text": "Black Rose Flare!"
     },
-    "V0201_19_00_37_0": {
+    "V0219_19_00_37_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3924,7 +3606,7 @@
       "duelist": [],
       "text": "Attack, Black-Winged Dragon!"
     },
-    "V0201_19_00_37_1": {
+    "V0219_19_00_37_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3932,7 +3614,7 @@
       "duelist": [],
       "text": "Shadow Squall Blast!"
     },
-    "V0201_19_00_38_0": {
+    "V0219_19_00_38_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3942,7 +3624,7 @@
       "duelist": [],
       "text": "Quillbolt Hedgehog!\nStick it to 'em!"
     },
-    "V0201_19_00_39_0": {
+    "V0219_19_00_39_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3952,7 +3634,7 @@
       "duelist": [],
       "text": "Mighty Warrior attacks!"
     },
-    "V0201_19_00_39_1": {
+    "V0219_19_00_39_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3960,7 +3642,7 @@
       "duelist": [],
       "text": "Mighty Knuckle!"
     },
-    "V0201_19_00_40_0": {
+    "V0219_19_00_40_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3970,7 +3652,7 @@
       "duelist": [],
       "text": "Righty Driver attacks!"
     },
-    "V0201_19_00_41_0": {
+    "V0219_19_00_41_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3980,7 +3662,7 @@
       "duelist": [],
       "text": "Lightning Warrior! Attack!"
     },
-    "V0201_19_00_41_1": {
+    "V0219_19_00_41_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3988,7 +3670,7 @@
       "duelist": [],
       "text": "Lightning Punisher!"
     },
-    "V0201_19_00_42_0": {
+    "V0219_19_00_42_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3998,7 +3680,7 @@
       "duelist": [],
       "text": "Life Stream Dragon attacks!"
     },
-    "V0201_19_00_42_1": {
+    "V0219_19_00_42_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4006,7 +3688,7 @@
       "duelist": [],
       "text": "Beautiful Life!"
     },
-    "V0201_19_00_43_0": {
+    "V0219_19_00_43_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4016,7 +3698,7 @@
       "duelist": [],
       "text": "Red Dragon Archfiend attacks!"
     },
-    "V0201_19_00_43_1": {
+    "V0219_19_00_43_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4024,7 +3706,7 @@
       "duelist": [],
       "text": "Absolute Powerforce!"
     },
-    "V0201_19_00_44_0": {
+    "V0219_19_00_44_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4034,7 +3716,7 @@
       "duelist": [],
       "text": "Lefty Driver attacks!"
     },
-    "V0201_19_00_45_0": {
+    "V0219_19_00_45_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4044,7 +3726,7 @@
       "duelist": [],
       "text": "Road Warrior attacks!"
     },
-    "V0201_19_00_45_1": {
+    "V0219_19_00_45_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4052,7 +3734,7 @@
       "duelist": [],
       "text": "Lightning Claw!"
     },
-    "V0201_19_00_46_0": {
+    "V0219_19_00_46_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4062,7 +3744,7 @@
       "duelist": [],
       "text": "Road Synchron attacks!"
     },
-    "V0201_19_00_47_0": {
+    "V0219_19_00_47_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4072,7 +3754,7 @@
       "duelist": [],
       "text": "Sonic Chick attacks!"
     },
-    "V0201_19_00_48_0": {
+    "V0219_19_00_48_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4082,7 +3764,7 @@
       "duelist": [],
       "text": "Majestic Dragon attacks!"
     },
-    "V0201_19_00_49_0": {
+    "V0219_19_00_49_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4092,7 +3774,7 @@
       "duelist": [],
       "text": "Attack, Stardust Chronicle Spark Dragon!"
     },
-    "V0201_19_00_49_1": {
+    "V0219_19_00_49_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4100,7 +3782,7 @@
       "duelist": [],
       "text": "Shooting Shine Blast!"
     },
-    "V0201_19_00_50_0": {
+    "V0219_19_00_50_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4110,7 +3792,7 @@
       "duelist": [],
       "text": "Attack, Stardust Sifr Divine Dragon!"
     },
-    "V0201_19_00_50_1": {
+    "V0219_19_00_50_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4118,7 +3800,7 @@
       "duelist": [],
       "text": "Shooting Nova Blast!"
     },
-    "V0201_19_00_51_0": {
+    "V0219_19_00_51_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4128,7 +3810,7 @@
       "duelist": [],
       "text": "Stardust Spark Dragon attacks!"
     },
-    "V0201_19_00_51_1": {
+    "V0219_19_00_51_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4136,7 +3818,7 @@
       "duelist": [],
       "text": "Shooting Blast!"
     },
-    "V0201_19_00_52_0": {
+    "V0219_19_00_52_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4146,7 +3828,7 @@
       "duelist": [],
       "text": "Go, Dragon Knight Draco-Equiste!"
     },
-    "V0201_19_00_52_1": {
+    "V0219_19_00_52_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4154,7 +3836,7 @@
       "duelist": [],
       "text": "Spiral Javelin!"
     },
-    "V0201_19_00_53_0": {
+    "V0219_19_00_53_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4164,7 +3846,7 @@
       "duelist": [],
       "text": "Jet Warrior! Get 'em!"
     },
-    "V0201_19_00_54_0": {
+    "V0219_19_00_54_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4174,7 +3856,7 @@
       "duelist": [],
       "text": "Jet Synchron attacks!"
     },
-    "V0201_20_00_00_0": {
+    "V0219_20_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -4182,7 +3864,7 @@
       "duelist": [],
       "text": "I Set a card."
     },
-    "V0201_20_00_01_0": {
+    "V0219_20_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -4190,7 +3872,7 @@
       "duelist": [],
       "text": "I'll Set a card."
     },
-    "V0201_20_01_00_0": {
+    "V0219_20_01_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -4198,7 +3880,7 @@
       "duelist": [],
       "text": "I Set a monster."
     },
-    "V0201_20_01_01_0": {
+    "V0219_20_01_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -4206,7 +3888,7 @@
       "duelist": [],
       "text": "I'll Set a monster."
     },
-    "V0201_21_00_00_0": {
+    "V0219_21_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -4214,7 +3896,7 @@
       "duelist": [],
       "text": "Let's see what you can do."
     },
-    "V0201_21_00_00_1": {
+    "V0219_21_00_00_1": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -4222,7 +3904,7 @@
       "duelist": [],
       "text": "I end my turn."
     },
-    "V0201_21_00_01_0": {
+    "V0219_21_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -4230,7 +3912,7 @@
       "duelist": [],
       "text": "I end my turn."
     },
-    "V0201_21_00_02_0": {
+    "V0219_21_00_02_0": {
       "face": 8,
       "frame": 0,
       "cutin": 0,
@@ -4238,7 +3920,7 @@
       "duelist": [],
       "text": "I'm not giving up!"
     },
-    "V0201_21_00_02_1": {
+    "V0219_21_00_02_1": {
       "face": 8,
       "frame": 0,
       "cutin": 0,
@@ -4246,428 +3928,7 @@
       "duelist": [],
       "text": "I end my turn!"
     },
-    "V0201_28_00_00_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "The power of my bond over yours was the determining factor."
-    },
-    "V0201_28_00_01_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "This is the strength of our friendship!"
-    },
-    "V0201_28_00_02_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Growing up on the streets taught me everything has value."
-    },
-    "V0201_28_00_02_1": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "So every card and move led me to this victory!"
-    },
-    "V0201_28_00_03_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        203,
-        204,
-        205,
-        206,
-        221,
-        0
-      ],
-      "text": "As a Duelist, I believe in all my cards."
-    },
-    "V0201_28_00_03_1": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "And this belief was what allowed me to win."
-    },
-    "V0201_28_00_04_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        202,
-        220
-      ],
-      "text": "Jack, you showed me that a fire also burns in my soul."
-    },
-    "V0201_28_00_05_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        203,
-        204,
-        205,
-        206,
-        221
-      ],
-      "text": "No matter the outcome, we still have an unbreakable bond."
-    },
-    "V0201_28_00_06_0": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        207
-      ],
-      "text": "You need to drive faster if you want to arrest me, Trudge."
-    },
-    "V0201_28_00_07_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        213,
-        222
-      ],
-      "text": "The Kalin I know wouldn't be satisfied with how you played!"
-    },
-    "V0201_28_00_08_0": {
-      "face": 7,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        208
-      ],
-      "text": "Kalin!!"
-    },
-    "V0201_28_00_09_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        210,
-        231,
-        211,
-        9058,
-        9059,
-        9061,
-        9062
-      ],
-      "text": "The friendship I share will overcome any fate!"
-    },
-    "V0201_28_00_10_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        209
-      ],
-      "text": "I will exceed my limitations!\nThis I swear!"
-    },
-    "V0201_28_00_11_0": {
-      "face": 7,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        209
-      ],
-      "text": "Bruno...\nBrunooo!!"
-    },
-    "V0201_28_00_12_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        215,
-        216,
-        217,
-        218,
-        235,
-        236
-      ],
-      "text": "Everyone has the capability to change their future!"
-    },
-    "V0201_28_00_12_1": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Why can't you understand that?"
-    },
-    "V0201_28_00_13_0": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        1,
-        331,
-        6,
-        41
-      ],
-      "text": "You believe in your cards just as much as I do.\nIf not more."
-    },
-    "V0201_28_00_13_1": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Thank you for a great Duel, Yugi!"
-    },
-    "V0201_28_00_14_0": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        101,
-        115
-      ],
-      "text": "No matter how difficult the Duel, you faced it with a smile."
-    },
-    "V0201_28_00_14_1": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I will take that to heart, Jaden!"
-    },
-    "V0201_29_00_00_0": {
-      "face": 9,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Your faith in your cards led you to this victory."
-    },
-    "V0201_29_00_01_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Excellent Dueling!"
-    },
-    "V0201_29_00_02_0": {
-      "face": 7,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I never knew you were this powerful!"
-    },
-    "V0201_29_00_03_0": {
-      "face": 8,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "You may have knocked me down..."
-    },
-    "V0201_29_00_03_1": {
-      "face": 8,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "But it'll take more than that to knock me out!"
-    },
-    "V0201_29_00_04_0": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        202,
-        220
-      ],
-      "text": "Heh...\nWe never change, do we?"
-    },
-    "V0201_29_00_04_1": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "When we Duel, we always wear our pride on our sleeves."
-    },
-    "V0201_29_00_05_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        203,
-        204,
-        205,
-        206,
-        221
-      ],
-      "text": "Our eternal bond gives us the courage to journey on our own."
-    },
-    "V0201_29_00_06_0": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        207
-      ],
-      "text": "I trust that you and Sector Security will keep us safe."
-    },
-    "V0201_29_00_07_0": {
-      "face": 5,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        213,
-        222
-      ],
-      "text": "What's wrong with me?\nThis isn't good enough for Kalin..."
-    },
-    "V0201_29_00_08_0": {
-      "face": 8,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        208
-      ],
-      "text": "Kalin...\nThis isn't like you!"
-    },
-    "V0201_29_00_09_0": {
-      "face": 8,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        210,
-        231,
-        211,
-        9058,
-        9059,
-        9061,
-        9062
-      ],
-      "text": "No...\nIt can't end like this...\nI must believe in hope!"
-    },
-    "V0201_29_00_10_0": {
-      "face": 8,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        209
-      ],
-      "text": "Argh...\nAm I still afraid?"
-    },
-    "V0201_29_00_11_0": {
-      "face": 8,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        209
-      ],
-      "text": "He's so strong...\nDelta Accel Synchro is too much!"
-    },
-    "V0201_29_00_12_0": {
-      "face": 8,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        215,
-        216,
-        217,
-        218,
-        235,
-        236
-      ],
-      "text": "I can't give up!\nNot for me, not for my friends!"
-    },
-    "V0201_29_00_13_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        1,
-        331,
-        6,
-        41
-      ],
-      "text": "This is why you're still the greatest Duelist to this day!"
-    },
-    "V0201_29_00_14_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        101,
-        115
-      ],
-      "text": "So this was Jaden's Fusion strategy..."
-    },
-    "V0201_29_00_14_1": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "You've given me new ideas for my own tactics!"
-    },
-    "V0201_30_00_00_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "C'mon. Make your move."
-    },
-    "V0201_30_00_01_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "You talk too much."
-    },
-    "V0201_30_00_02_0": {
-      "face": 4,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Are you scared to Duel?"
-    },
-    "V0201_31_00_00_0": {
+    "V0219_31_00_00_0": {
       "face": 7,
       "frame": 1,
       "cutin": 0,
@@ -4675,7 +3936,7 @@
       "duelist": [],
       "text": "What?"
     },
-    "V0201_31_00_01_0": {
+    "V0219_31_00_01_0": {
       "face": 7,
       "frame": 1,
       "cutin": 0,
@@ -4683,119 +3944,7 @@
       "duelist": [],
       "text": "So this is what you were going for!"
     },
-    "V0201_33_00_00_0": {
-      "face": 3,
-      "frame": 1,
-      "cutin": 1,
-      "card": [],
-      "duelist": [],
-      "text": "Witness the bond with my cards!"
-    },
-    "V0201_33_00_01_0": {
-      "face": 3,
-      "frame": 1,
-      "cutin": 1,
-      "card": [],
-      "duelist": [],
-      "text": "Each card has power waiting to be unleashed."
-    },
-    "V0201_33_00_02_0": {
-      "face": 3,
-      "frame": 1,
-      "cutin": 1,
-      "card": [],
-      "duelist": [],
-      "text": "A Duelist's job is to give life to their cards!"
-    },
-    "V0201_34_00_00_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I got the card I need."
-    },
-    "V0201_34_00_01_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "All answers can be found during a Duel."
-    },
-    "V0201_34_00_02_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "You should learn to curb your ego."
-    },
-    "V0201_34_00_03_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "If you disrespect your cards, you're no Duelist!"
-    },
-    "V0201_34_00_04_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "When played correctly, every card has meaning!"
-    },
-    "V0201_34_00_05_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "This is getting exciting."
-    },
-    "V0201_34_00_06_0": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "You use some interesting cards."
-    },
-    "V0201_34_00_07_0": {
-      "face": 9,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Thing is... I don't dance."
-    },
-    "V0201_34_00_08_0": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Impressive."
-    },
-    "V0201_34_00_09_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Ready... Set... Duel!"
-    },
-    "V0201_34_00_10_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I'll have some milk."
-    },
-    "V0201_32_00_00_0": {
+    "V0219_32_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -4803,7 +3952,7 @@
       "duelist": [],
       "text": "Yu-Gi-Oh! Duel Links"
     },
-    "V0201_32_00_01_0": {
+    "V0219_32_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -4811,23 +3960,7 @@
       "duelist": [],
       "text": "Yu-Gi-Oh! Duel Links!\nLet's ride!"
     },
-    "V0201_35_00_00_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "There aren't many like me."
-    },
-    "V0201_35_00_01_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I believe in my cards!"
-    },
-    "V0201_36_00_00_0": {
+    "V0219_36_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -4835,7 +3968,7 @@
       "duelist": [],
       "text": "You can win this."
     },
-    "V0201_36_00_01_0": {
+    "V0219_36_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -4843,7 +3976,7 @@
       "duelist": [],
       "text": "I leave the rest to you."
     },
-    "V0201_36_00_02_0": {
+    "V0219_36_00_02_0": {
       "face": 8,
       "frame": 0,
       "cutin": 0,
@@ -4851,56 +3984,7 @@
       "duelist": [],
       "text": "Argh... I'm sorry..."
     },
-    "V0201_36_00_03_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        202,
-        203,
-        204,
-        205,
-        206,
-        209,
-        220,
-        221
-      ],
-      "text": "Use the strength of our friendship to win!"
-    },
-    "V0201_36_00_04_0": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        202,
-        203,
-        204,
-        205,
-        206,
-        209
-      ],
-      "text": "Let's show 'em Team 5D's teamwork!"
-    },
-    "V0201_36_00_05_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        202,
-        203,
-        204,
-        205,
-        206,
-        209,
-        220,
-        221
-      ],
-      "text": "I always believe in you, my friend!"
-    },
-    "V0201_22_00_00_0": {
+    "V0219_22_00_00_0": {
       "face": 4,
       "frame": 0,
       "cutin": 0,
@@ -4908,7 +3992,7 @@
       "duelist": [],
       "text": "Argh!"
     },
-    "V0201_22_00_01_0": {
+    "V0219_22_00_01_0": {
       "face": 4,
       "frame": 0,
       "cutin": 0,
@@ -4916,7 +4000,7 @@
       "duelist": [],
       "text": "Ergh..."
     },
-    "V0201_22_00_02_0": {
+    "V0219_22_00_02_0": {
       "face": 4,
       "frame": 0,
       "cutin": 0,
@@ -4924,7 +4008,7 @@
       "duelist": [],
       "text": "Oof..."
     },
-    "V0201_26_00_00_0": {
+    "V0219_26_00_00_0": {
       "face": 3,
       "frame": 0,
       "cutin": 0,
@@ -4932,7 +4016,7 @@
       "duelist": [],
       "text": "So that's your move..."
     },
-    "V0201_26_00_01_0": {
+    "V0219_26_00_01_0": {
       "face": 3,
       "frame": 0,
       "cutin": 0,
@@ -4940,7 +4024,7 @@
       "duelist": [],
       "text": "I can't let you push me around..."
     },
-    "V0201_26_00_02_0": {
+    "V0219_26_00_02_0": {
       "face": 3,
       "frame": 0,
       "cutin": 0,
@@ -4948,7 +4032,7 @@
       "duelist": [],
       "text": "Not bad!"
     },
-    "V0201_25_00_00_0": {
+    "V0219_25_00_00_0": {
       "face": 7,
       "frame": 1,
       "cutin": 0,
@@ -4956,7 +4040,7 @@
       "duelist": [],
       "text": "Ahhhh!"
     },
-    "V0201_25_00_01_0": {
+    "V0219_25_00_01_0": {
       "face": 7,
       "frame": 1,
       "cutin": 0,
@@ -4964,7 +4048,7 @@
       "duelist": [],
       "text": "Gwaaaa!"
     },
-    "V0201_25_00_02_0": {
+    "V0219_25_00_02_0": {
       "face": 7,
       "frame": 1,
       "cutin": 0,
@@ -4972,7 +4056,7 @@
       "duelist": [],
       "text": "Erghhh!"
     },
-    "V0201_27_00_00_0": {
+    "V0219_27_00_00_0": {
       "face": 8,
       "frame": 0,
       "cutin": 0,
@@ -4980,7 +4064,7 @@
       "duelist": [],
       "text": "Your power... is unbelievable..."
     },
-    "V0201_27_00_01_0": {
+    "V0219_27_00_01_0": {
       "face": 8,
       "frame": 0,
       "cutin": 0,
@@ -4988,7 +4072,7 @@
       "duelist": [],
       "text": "I... won't give up!"
     },
-    "V0201_27_00_02_0": {
+    "V0219_27_00_02_0": {
       "face": 8,
       "frame": 0,
       "cutin": 0,
@@ -4996,7 +4080,7 @@
       "duelist": [],
       "text": "You're the toughest I've faced..."
     },
-    "V0201_24_00_00_0": {
+    "V0219_24_00_00_0": {
       "face": 8,
       "frame": 0,
       "cutin": 0,
@@ -5004,7 +4088,7 @@
       "duelist": [],
       "text": "Arghhh..."
     },
-    "V0201_23_00_00_0": {
+    "V0219_23_00_00_0": {
       "face": 7,
       "frame": 1,
       "cutin": 3,
@@ -5012,7 +4096,7 @@
       "duelist": [],
       "text": "Ahhhhhhhhhh!"
     },
-    "V0201_38_00_00_0": {
+    "V0219_38_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5020,7 +4104,60 @@
       "duelist": [],
       "text": "Ready... Set... Duel!"
     },
-    "V0201_07_14_00_0": {
+    "V0219_01_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "When you face The Enforcers, you better get ready for war!"
+    },
+    "V0219_01_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Whoever loses this Duel will have their Duel Disk destroyed."
+    },
+    "V0219_01_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "You disrespect the Duel, you need to pay."
+    },
+    "V0219_01_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Enforcing is what we do."
+    },
+    "V0219_01_00_04_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        220,
+        221,
+        222,
+        213
+      ],
+      "text": "Isn't it funny that I Duel harder against my friends!"
+    },
+    "V0219_02_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Duel!"
+    },
+    "V0219_07_14_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -5028,7 +4165,7 @@
       "duelist": [],
       "text": "I activate a Pendulum Effect."
     },
-    "V0201_07_15_00_0": {
+    "V0219_07_15_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -5036,7 +4173,7 @@
       "duelist": [],
       "text": "I activate a Ritual Spell!"
     },
-    "V0201_11_04_01_0": {
+    "V0219_11_04_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -5044,7 +4181,7 @@
       "duelist": [],
       "text": "Tribute Summon!"
     },
-    "V0201_11_05_01_0": {
+    "V0219_11_05_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -5052,7 +4189,7 @@
       "duelist": [],
       "text": "Fusion Summon!"
     },
-    "V0201_11_06_01_0": {
+    "V0219_11_06_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -5060,7 +4197,7 @@
       "duelist": [],
       "text": "Ritual Summon!"
     },
-    "V0201_11_07_01_0": {
+    "V0219_11_07_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -5068,7 +4205,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0201_11_08_01_0": {
+    "V0219_11_08_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -5076,7 +4213,7 @@
       "duelist": [],
       "text": "Xyz Summon!"
     },
-    "V0201_11_09_01_0": {
+    "V0219_11_09_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -5084,7 +4221,7 @@
       "duelist": [],
       "text": "Pendulum Summon!"
     },
-    "V0201_11_10_01_0": {
+    "V0219_11_10_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -5092,7 +4229,7 @@
       "duelist": [],
       "text": "Link Summon!"
     },
-    "V0201_11_11_00_0": {
+    "V0219_11_11_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -5100,7 +4237,7 @@
       "duelist": [],
       "text": "I Maximum Summon a monster!"
     },
-    "V0201_11_11_01_0": {
+    "V0219_11_11_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -5108,7 +4245,7 @@
       "duelist": [],
       "text": "Maximum Summon!"
     },
-    "V0201_11_12_00_0": {
+    "V0219_11_12_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -5116,7 +4253,7 @@
       "duelist": [],
       "text": "I Fusion Summon a monster!"
     },
-    "V0201_11_12_01_0": {
+    "V0219_11_12_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -5124,7 +4261,7 @@
       "duelist": [],
       "text": "Fusion Summon!"
     },
-    "V0201_11_13_00_0": {
+    "V0219_11_13_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -5132,7 +4269,7 @@
       "duelist": [],
       "text": "I Contact Fusion a monster!"
     },
-    "V0201_11_13_01_0": {
+    "V0219_11_13_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -5140,7 +4277,7 @@
       "duelist": [],
       "text": "Contact Fusion!"
     },
-    "V0201_11_14_00_0": {
+    "V0219_11_14_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -5148,7 +4285,7 @@
       "duelist": [],
       "text": "I Ritual Summon a monster!"
     },
-    "V0201_11_14_01_0": {
+    "V0219_11_14_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -5156,7 +4293,7 @@
       "duelist": [],
       "text": "Ritual Summon!"
     },
-    "V0201_21_00_03_0": {
+    "V0219_21_00_03_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -5164,7 +4301,7 @@
       "duelist": [],
       "text": "I can't let my guard down yet."
     },
-    "V0201_21_00_03_1": {
+    "V0219_21_00_03_1": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -5172,7 +4309,7 @@
       "duelist": [],
       "text": "I end my turn!"
     },
-    "V0201_21_00_04_0": {
+    "V0219_21_00_04_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -5180,7 +4317,7 @@
       "duelist": [],
       "text": "That ends my turn!"
     },
-    "V0201_21_00_05_0": {
+    "V0219_21_00_05_0": {
       "face": 8,
       "frame": 0,
       "cutin": 0,
@@ -5188,7 +4325,7 @@
       "duelist": [],
       "text": "Argh..."
     },
-    "V0201_21_00_05_1": {
+    "V0219_21_00_05_1": {
       "face": 8,
       "frame": 0,
       "cutin": 0,
@@ -5196,45 +4333,239 @@
       "duelist": [],
       "text": "I end my turn!"
     },
-    "V0201_34_00_11_0": {
-      "face": 3,
+    "V0219_28_00_00_0": {
+      "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "You were more impressive when you were a Dark Signer!"
+      "text": "This is a victory for The Enforcers!"
     },
-    "V0201_34_00_12_0": {
-      "face": 4,
+    "V0219_28_00_01_0": {
+      "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Why aren't you combining with your Duel Runner..."
+      "text": "If you leave right now, I promise I won't end you."
     },
-    "V0201_36_00_07_0": {
+    "V0219_28_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "One of our goals is now complete."
+    },
+    "V0219_28_00_03_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [
-        213,
-        222
+        220,
+        221,
+        222,
+        213
       ],
-      "text": "I'm counting on you, Kalin!"
+      "text": "You'll never defeat the Duel gangs playing like that."
     },
-    "V0201_36_00_08_0": {
-      "face": 3,
+    "V0219_29_00_00_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Argh...\nSorry Jack... Crow... Kalin..."
+    },
+    "V0219_29_00_01_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I can't abandon my friends..."
+    },
+    "V0219_29_00_02_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I can't save anyone if I keep Dueling like this!"
+    },
+    "V0219_29_00_03_0": {
+      "face": 2,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [
-        213,
+        220,
+        221,
+        222,
+        213
+      ],
+      "text": "Heh... Nice."
+    },
+    "V0219_33_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Feel the strength of The Enforcers!"
+    },
+    "V0219_33_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Our fight ends here!"
+    },
+    "V0219_33_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "The first step is to win this Duel!"
+    },
+    "V0219_34_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Whoever loses will have their Duel Disk destroyed."
+    },
+    "V0219_34_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Until we have a winner, no one's going anywhere."
+    },
+    "V0219_34_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "You should never have disrespected Dueling."
+    },
+    "V0219_34_00_03_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "We were able to make Satellite safer one district at a time."
+    },
+    "V0219_34_00_04_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "We accomplished what we set out to do - but you wanted more."
+    },
+    "V0219_34_00_05_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Kalin craved the competition and got out of control."
+    },
+    "V0219_34_00_06_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "But I didn't have it in me to abandon him..."
+    },
+    "V0219_34_00_07_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "You wanna take on Sector Security!? That's crazy!"
+    },
+    "V0219_34_00_08_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I can't be a part of this plan.\nYou're not thinking clearly."
+    },
+    "V0219_34_00_09_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "If you're gonna do this, you'll have to do it on your own.  "
+    },
+    "V0219_34_00_10_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I should've known that nothing would change your mind."
+    },
+    "V0219_34_00_11_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I'm the leader of The Enforcers!\nI'll turn myself in!"
+    },
+    "V0219_35_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Let's clean up the streets!"
+    },
+    "V0219_35_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "The Enforcers are in control!"
+    },
+    "V0219_36_00_07_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        220,
+        221,
         222
       ],
-      "text": "When we're together, no one can defeat us!"
+      "text": "There's no team tougher than The Enforcers!"
     },
-    "V0201_08_00_53_0": {
+    "V0219_36_00_06_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        222
+      ],
+      "text": "Forget about me...\nEscape while you can!"
+    },
+    "V0219_08_00_53_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5244,7 +4575,7 @@
       "duelist": [],
       "text": "I activate my Spell Card!\nCard Rotator!"
     },
-    "V0201_08_00_54_0": {
+    "V0219_08_00_54_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5254,7 +4585,7 @@
       "duelist": [],
       "text": "I activate my Quick-Play Spell!\nDouble Cyclone!"
     },
-    "V0201_08_00_55_0": {
+    "V0219_08_00_55_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5264,7 +4595,7 @@
       "duelist": [],
       "text": "I activate the Continuous Spell, Domino Effect!"
     },
-    "V0201_08_00_56_0": {
+    "V0219_08_00_56_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5274,7 +4605,7 @@
       "duelist": [],
       "text": "The Continuous Spell, Domino Effect's effect activates!"
     },
-    "V0201_08_00_57_0": {
+    "V0219_08_00_57_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5284,7 +4615,7 @@
       "duelist": [],
       "text": "I activate my Equip Spell!\nPrevention Star!"
     },
-    "V0201_08_00_58_0": {
+    "V0219_08_00_58_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5294,7 +4625,7 @@
       "duelist": [],
       "text": "Prevention Star activates when it's sent to the Graveyard!"
     },
-    "V0201_08_00_59_0": {
+    "V0219_08_00_59_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5304,7 +4635,7 @@
       "duelist": [],
       "text": "I activate my Quick-Play Spell!\nJunk Signal!"
     },
-    "V0201_08_00_60_0": {
+    "V0219_08_00_60_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5314,7 +4645,7 @@
       "duelist": [],
       "text": "I activate my Continuous Spell!\nSynchro Chase!"
     },
-    "V0201_08_00_61_0": {
+    "V0219_08_00_61_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5324,7 +4655,7 @@
       "duelist": [],
       "text": "The Continuous Spell, Synchro Chase's effect activates!"
     },
-    "V0201_08_00_62_0": {
+    "V0219_08_00_62_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5334,7 +4665,7 @@
       "duelist": [],
       "text": "I activate my Quick-Play Spell!\nFinal Cross!"
     },
-    "V0201_08_00_63_0": {
+    "V0219_08_00_63_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5344,7 +4675,7 @@
       "duelist": [],
       "text": "I activate my Continuous Spell!\nOn Your Mark, Get Set, DUEL!"
     },
-    "V0201_08_00_64_0": {
+    "V0219_08_00_64_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5354,7 +4685,7 @@
       "duelist": [],
       "text": "On Your Mark, Get Set, DUEL!'s effect activates!"
     },
-    "V0201_08_00_65_0": {
+    "V0219_08_00_65_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5364,7 +4695,7 @@
       "duelist": [],
       "text": "I send On Your Mark, Get Set, DUEL! to the Graveyard!"
     },
-    "V0201_08_00_66_0": {
+    "V0219_08_00_66_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5374,7 +4705,7 @@
       "duelist": [],
       "text": "I activate the Spell Card, Stardust Illumination!"
     },
-    "V0201_08_00_67_0": {
+    "V0219_08_00_67_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5384,7 +4715,7 @@
       "duelist": [],
       "text": "I banish Stardust Illumination from my Graveyard!"
     },
-    "V0201_08_00_68_0": {
+    "V0219_08_00_68_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5394,7 +4725,7 @@
       "duelist": [],
       "text": "I activate my Spell Card!\nMajestic Absorption!"
     },
-    "V0201_08_00_69_0": {
+    "V0219_08_00_69_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5404,7 +4735,7 @@
       "duelist": [],
       "text": "I activate my Spell Card!\nSynchro Fellowship!"
     },
-    "V0201_08_00_70_0": {
+    "V0219_08_00_70_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5414,7 +4745,7 @@
       "duelist": [],
       "text": "I banish Synchro Fellowship from my Grave to use its effect!"
     },
-    "V0201_08_00_71_0": {
+    "V0219_08_00_71_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5424,7 +4755,7 @@
       "duelist": [],
       "text": "I activate my Spell Card!\nSynchro Overtake!"
     },
-    "V0201_08_00_72_0": {
+    "V0219_08_00_72_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5434,7 +4765,7 @@
       "duelist": [],
       "text": "I activate my Spell Card!\nSynchro Overtop!"
     },
-    "V0201_08_00_73_0": {
+    "V0219_08_00_73_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5444,7 +4775,7 @@
       "duelist": [],
       "text": "I banish Synchro Overtop from my Graveyard!"
     },
-    "V0201_08_00_74_0": {
+    "V0219_08_00_74_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5454,7 +4785,7 @@
       "duelist": [],
       "text": "I activate my Continuous Spell!\nArrive in Light!"
     },
-    "V0201_08_00_75_0": {
+    "V0219_08_00_75_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5464,7 +4795,7 @@
       "duelist": [],
       "text": "Arrive in Light's effect activates!"
     },
-    "V0201_08_00_76_0": {
+    "V0219_08_00_76_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5474,7 +4805,7 @@
       "duelist": [],
       "text": "I activate the Trap, Equip Shot!"
     },
-    "V0201_08_00_77_0": {
+    "V0219_08_00_77_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5484,7 +4815,7 @@
       "duelist": [],
       "text": "I activate my Trap Card!\nConfusion Chaff!"
     },
-    "V0201_08_00_78_0": {
+    "V0219_08_00_78_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5494,7 +4825,7 @@
       "duelist": [],
       "text": "I activate my Continuous Trap!\nScrubbed Raid!"
     },
-    "V0201_08_00_79_0": {
+    "V0219_08_00_79_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5504,7 +4835,7 @@
       "duelist": [],
       "text": "I activate the Continuous Trap, Scrubbed Raid's effect!"
     },
-    "V0201_08_00_80_0": {
+    "V0219_08_00_80_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5514,7 +4845,7 @@
       "duelist": [],
       "text": "I activate my Continuous Trap!\nDesperate Tag!"
     },
-    "V0201_08_00_81_0": {
+    "V0219_08_00_81_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5524,7 +4855,7 @@
       "duelist": [],
       "text": "Desperate Tag's effect activates!"
     },
-    "V0201_08_00_82_0": {
+    "V0219_08_00_82_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5534,7 +4865,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nScrap-Iron Statue!"
     },
-    "V0201_08_00_83_0": {
+    "V0219_08_00_83_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5544,7 +4875,7 @@
       "duelist": [],
       "text": "Scrap-Iron Statue activates when it's sent to the Graveyard!"
     },
-    "V0201_08_00_84_0": {
+    "V0219_08_00_84_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5554,7 +4885,7 @@
       "duelist": [],
       "text": "I activate the Trap, Scrap-Iron Sacred Statue!"
     },
-    "V0201_08_00_85_0": {
+    "V0219_08_00_85_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5564,7 +4895,7 @@
       "duelist": [],
       "text": "Scrap-Iron Sacred Statue activates when it's destroyed!"
     },
-    "V0201_08_00_86_0": {
+    "V0219_08_00_86_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5574,7 +4905,7 @@
       "duelist": [],
       "text": "I activate my Continuous Trap!\nStardust Wish!"
     },
-    "V0201_08_00_87_0": {
+    "V0219_08_00_87_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5584,7 +4915,7 @@
       "duelist": [],
       "text": "Stardust Wish's effect activates!"
     },
-    "V0201_08_00_88_0": {
+    "V0219_08_00_88_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5594,7 +4925,7 @@
       "duelist": [],
       "text": "I activate my Continuous Trap!\nMajestic Mirage!"
     },
-    "V0201_08_00_89_0": {
+    "V0219_08_00_89_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5604,7 +4935,7 @@
       "duelist": [],
       "text": "Majestic Mirage's effect activates!"
     },
-    "V0201_09_00_62_0": {
+    "V0219_09_00_62_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5614,7 +4945,7 @@
       "duelist": [],
       "text": "Special Summoning Crimson Dragon lets me use this effect!"
     },
-    "V0201_09_00_63_0": {
+    "V0219_09_00_63_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5624,7 +4955,7 @@
       "duelist": [],
       "text": "Crimson Dragon activates its effect!"
     },
-    "V0201_09_00_64_0": {
+    "V0219_09_00_64_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5634,7 +4965,7 @@
       "duelist": [],
       "text": "Cosmic Quasar Dragon activates its effect!"
     },
-    "V0201_09_00_65_0": {
+    "V0219_09_00_65_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5644,7 +4975,7 @@
       "duelist": [],
       "text": "I banish Cosmic Quasar Dragon to activate its effect!"
     },
-    "V0201_09_00_66_0": {
+    "V0219_09_00_66_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5654,7 +4985,7 @@
       "duelist": [],
       "text": "I activate Shooting Majestic Star Dragon's effect!"
     },
-    "V0201_09_00_67_0": {
+    "V0219_09_00_67_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5664,7 +4995,7 @@
       "duelist": [],
       "text": "I banish Shooting Majestic Star Dragon to negate the effect!"
     },
-    "V0201_09_00_68_0": {
+    "V0219_09_00_68_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5674,7 +5005,7 @@
       "duelist": [],
       "text": "I banish a Tuner from the Graveyard to use Tech Genus Expansion's effect!"
     },
-    "V0201_09_00_69_0": {
+    "V0219_09_00_69_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5684,7 +5015,7 @@
       "duelist": [],
       "text": "Shooting Star Dragon Tech Genus Expansion activates its effect!"
     },
-    "V0201_09_00_70_0": {
+    "V0219_09_00_70_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5694,7 +5025,7 @@
       "duelist": [],
       "text": "Shooting Star Dragon Tech Genus Expansion activates from the Graveyard!"
     },
-    "V0201_09_00_71_0": {
+    "V0219_09_00_71_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5704,7 +5035,7 @@
       "duelist": [],
       "text": "Since I Synchro Summoned Accel Synchro Stardust Dragon..."
     },
-    "V0201_09_00_72_0": {
+    "V0219_09_00_72_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5714,7 +5045,7 @@
       "duelist": [],
       "text": "I activate Accel Synchro Stardust Dragon's effect!"
     },
-    "V0201_09_00_73_0": {
+    "V0219_09_00_73_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5724,7 +5055,7 @@
       "duelist": [],
       "text": "By Synchro Summoning Shooting Riser Dragon, I can do this!"
     },
-    "V0201_09_00_74_0": {
+    "V0219_09_00_74_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5734,7 +5065,7 @@
       "duelist": [],
       "text": "I activate Shooting Riser Dragon's effect!"
     },
-    "V0201_09_00_75_0": {
+    "V0219_09_00_75_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5744,7 +5075,7 @@
       "duelist": [],
       "text": "Special Summoning Nightwinged Cleric lets me use her effect!"
     },
-    "V0201_09_00_76_0": {
+    "V0219_09_00_76_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5754,7 +5085,7 @@
       "duelist": [],
       "text": "I discard a card to activate Nightwinged Cleric's effect!"
     },
-    "V0201_09_00_77_0": {
+    "V0219_09_00_77_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5764,7 +5095,7 @@
       "duelist": [],
       "text": "Synchro Summoning Satellite Warrior lets me use its effect!"
     },
-    "V0201_09_00_78_0": {
+    "V0219_09_00_78_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5774,7 +5105,7 @@
       "duelist": [],
       "text": "Satellite Warrior's effect activates when it's destroyed!"
     },
-    "V0201_09_00_79_0": {
+    "V0219_09_00_79_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5784,7 +5115,7 @@
       "duelist": [],
       "text": "Synchro Summoning Junk Warrior Extreme gives it an effect!"
     },
-    "V0201_09_00_80_0": {
+    "V0219_09_00_80_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5794,7 +5125,7 @@
       "duelist": [],
       "text": "I banish Junk Warrior Extreme to activate its effect!"
     },
-    "V0201_09_00_81_0": {
+    "V0219_09_00_81_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5804,7 +5135,7 @@
       "duelist": [],
       "text": "Synchro Summoning Junk Speeder lets me use its effect!"
     },
-    "V0201_09_00_82_0": {
+    "V0219_09_00_82_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5814,7 +5145,7 @@
       "duelist": [],
       "text": "Synchro Summoning my Speeder this turn activates its effect!"
     },
-    "V0201_09_00_83_0": {
+    "V0219_09_00_83_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5824,7 +5155,7 @@
       "duelist": [],
       "text": "Signal Warrior's effect activates!"
     },
-    "V0201_09_00_84_0": {
+    "V0219_09_00_84_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5834,7 +5165,7 @@
       "duelist": [],
       "text": "I remove Signal Counters to use Signal Warrior's effect!"
     },
-    "V0201_09_00_85_0": {
+    "V0219_09_00_85_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5844,7 +5175,7 @@
       "duelist": [],
       "text": "Scrap Warrior can use its effect when it's Synchro Summoned!"
     },
-    "V0201_09_00_86_0": {
+    "V0219_09_00_86_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5854,7 +5185,7 @@
       "duelist": [],
       "text": "Destroying Junk Warrior/Assault Mode activates its effect!"
     },
-    "V0201_09_00_87_0": {
+    "V0219_09_00_87_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5864,7 +5195,7 @@
       "duelist": [],
       "text": "Wheel Synchron activates its effect!"
     },
-    "V0201_09_00_88_0": {
+    "V0219_09_00_88_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5874,7 +5205,7 @@
       "duelist": [],
       "text": "I activate Wheel Synchron's effect from the Graveyard!"
     },
-    "V0201_09_00_89_0": {
+    "V0219_09_00_89_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5884,7 +5215,7 @@
       "duelist": [],
       "text": "Earthquake Giant activates its effect!"
     },
-    "V0201_09_00_90_0": {
+    "V0219_09_00_90_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5894,7 +5225,7 @@
       "duelist": [],
       "text": "Max Warrior's effect activates!"
     },
-    "V0201_09_00_91_0": {
+    "V0219_09_00_91_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5904,7 +5235,7 @@
       "duelist": [],
       "text": "Stardust Trail can activate from my hand or Graveyard!"
     },
-    "V0201_09_00_92_0": {
+    "V0219_09_00_92_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5914,7 +5245,7 @@
       "duelist": [],
       "text": "Using Stardust Trail to Synchro Summon activates its effect!"
     },
-    "V0201_09_00_93_0": {
+    "V0219_09_00_93_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5924,7 +5255,7 @@
       "duelist": [],
       "text": "Stardust Synchron can activate from the hand or Graveyard!"
     },
-    "V0201_09_00_94_0": {
+    "V0219_09_00_94_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5934,7 +5265,7 @@
       "duelist": [],
       "text": "Stardust Synchron activates its effect!"
     },
-    "V0201_09_00_95_0": {
+    "V0219_09_00_95_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5944,7 +5275,7 @@
       "duelist": [],
       "text": "Bright Star Dragon activates its effect!"
     },
-    "V0201_09_00_96_0": {
+    "V0219_09_00_96_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5954,7 +5285,7 @@
       "duelist": [],
       "text": "I activate Zero Gardna's effect!"
     },
-    "V0201_09_00_97_0": {
+    "V0219_09_00_97_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5964,7 +5295,7 @@
       "duelist": [],
       "text": "I activate Ghost Gardna's effect!"
     },
-    "V0201_09_00_98_0": {
+    "V0219_09_00_98_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5974,7 +5305,7 @@
       "duelist": [],
       "text": "Ghost Gardna's effect activates when it's destroyed!"
     },
-    "V0201_09_00_99_0": {
+    "V0219_09_00_99_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5984,7 +5315,7 @@
       "duelist": [],
       "text": "I activate Healing Wave Generator's effect!"
     },
-    "V0201_09_00_99_1": {
+    "V0219_09_00_99_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5992,7 +5323,7 @@
       "duelist": [],
       "text": "Starlight Wave!"
     },
-    "V0201_09_00_100_0": {
+    "V0219_09_00_100_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6002,7 +5333,7 @@
       "duelist": [],
       "text": "I send Stronghold Guardian from my hand to the Graveyard!"
     },
-    "V0201_09_00_101_0": {
+    "V0219_09_00_101_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6012,7 +5343,7 @@
       "duelist": [],
       "text": "I activate Gauntlet Warrior's effect!"
     },
-    "V0201_09_00_102_0": {
+    "V0219_09_00_102_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6022,7 +5353,7 @@
       "duelist": [],
       "text": "I activate Shield Warrior's effect from my Graveyard!"
     },
-    "V0201_09_00_103_0": {
+    "V0219_09_00_103_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6032,7 +5363,7 @@
       "duelist": [],
       "text": "I activate Steam Synchron's effect!"
     },
-    "V0201_09_00_104_0": {
+    "V0219_09_00_104_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6042,7 +5373,7 @@
       "duelist": [],
       "text": "Revolution Synchron activates its effect from my Graveyard!"
     },
-    "V0201_09_00_105_0": {
+    "V0219_09_00_105_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6052,7 +5383,7 @@
       "duelist": [],
       "text": "Tricular's effect activates when it's destroyed in battle!"
     },
-    "V0201_09_00_106_0": {
+    "V0219_09_00_106_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6062,7 +5393,7 @@
       "duelist": [],
       "text": "Bicular's effect activates when it's destroyed in battle!"
     },
-    "V0201_09_00_107_0": {
+    "V0219_09_00_107_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6072,7 +5403,7 @@
       "duelist": [],
       "text": "Sending Sonic Warrior to the Graveyard activates its effect!"
     },
-    "V0201_09_00_108_0": {
+    "V0219_09_00_108_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6082,7 +5413,7 @@
       "duelist": [],
       "text": "I activate Doppelwarrior's effect from my hand!"
     },
-    "V0201_09_00_109_0": {
+    "V0219_09_00_109_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6092,7 +5423,7 @@
       "duelist": [],
       "text": "Using Doppelwarrior to Synchro Summon activates its effect!"
     },
-    "V0201_09_00_110_0": {
+    "V0219_09_00_110_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6102,7 +5433,7 @@
       "duelist": [],
       "text": "I activate Junk Converter's effect from my hand!"
     },
-    "V0201_09_00_111_0": {
+    "V0219_09_00_111_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6112,7 +5443,7 @@
       "duelist": [],
       "text": "Using Junk Converter to Synchro Summon activates its effect!"
     },
-    "V0201_09_00_112_0": {
+    "V0219_09_00_112_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6122,7 +5453,7 @@
       "duelist": [],
       "text": "I activate Assault Sonic Warrior's effect from my hand!"
     },
-    "V0201_09_00_113_0": {
+    "V0219_09_00_113_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6132,7 +5463,7 @@
       "duelist": [],
       "text": "Summoning Assault Sonic Warrior lets me activate its effect!"
     },
-    "V0201_09_00_114_0": {
+    "V0219_09_00_114_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6142,7 +5473,7 @@
       "duelist": [],
       "text": "I used Assault Sonic Warrior to Synchro Summon!"
     },
-    "V0201_09_00_115_0": {
+    "V0219_09_00_115_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6152,7 +5483,7 @@
       "duelist": [],
       "text": "Summoning Full-Speed Warrior lets me activate its effect!"
     },
-    "V0201_09_00_116_0": {
+    "V0219_09_00_116_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6162,7 +5493,7 @@
       "duelist": [],
       "text": "I activate Rush Warrior's effect from my hand!"
     },
-    "V0201_09_00_117_0": {
+    "V0219_09_00_117_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6172,7 +5503,7 @@
       "duelist": [],
       "text": "I banish Rush Warrior from the Graveyard to use its effect!"
     },
-    "V0201_09_00_118_0": {
+    "V0219_09_00_118_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6182,7 +5513,7 @@
       "duelist": [],
       "text": "I activate Assault Synchron's effect from my hand!"
     },
-    "V0201_09_00_119_0": {
+    "V0219_09_00_119_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6192,7 +5523,7 @@
       "duelist": [],
       "text": "I banish Assault Synchron from my Graveyard!"
     },
-    "V0201_09_00_120_0": {
+    "V0219_09_00_120_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6202,7 +5533,7 @@
       "duelist": [],
       "text": "I activate Satellite Synchron's effect from my hand!"
     },
-    "V0201_09_00_121_0": {
+    "V0219_09_00_121_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6212,7 +5543,7 @@
       "duelist": [],
       "text": "I activate Satellite Synchron's effect!"
     },
-    "V0201_09_00_122_0": {
+    "V0219_09_00_122_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6222,7 +5553,7 @@
       "duelist": [],
       "text": "Synchron Carrier activates its effect!"
     },
-    "V0201_09_00_123_0": {
+    "V0219_09_00_123_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6232,7 +5563,7 @@
       "duelist": [],
       "text": "Anchorbolt Hedgehog's effect activates from the Graveyard!"
     },
-    "V0201_09_00_124_0": {
+    "V0219_09_00_124_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6242,7 +5573,7 @@
       "duelist": [],
       "text": "Using Tuningware to Synchro Summon activates its effect!"
     },
-    "V0201_09_00_125_0": {
+    "V0219_09_00_125_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6252,7 +5583,7 @@
       "duelist": [],
       "text": "Level Eater activates its effect from my Graveyard!"
     },
-    "V0201_09_00_126_0": {
+    "V0219_09_00_126_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6262,7 +5593,7 @@
       "duelist": [],
       "text": "I activate Swift Scarecrow's effect from my hand!"
     },
-    "V0201_09_00_127_0": {
+    "V0219_09_00_127_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6272,7 +5603,7 @@
       "duelist": [],
       "text": "A Tuner to the Graveyard activates Crossroad Sonic Chick!"
     },
-    "V0201_09_00_128_0": {
+    "V0219_09_00_128_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6282,7 +5613,7 @@
       "duelist": [],
       "text": "Stardust Xiaolong's effect activates from my Graveyard!"
     },
-    "V0201_09_00_129_0": {
+    "V0219_09_00_129_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6292,7 +5623,7 @@
       "duelist": [],
       "text": "Stardust Phantom activates its effect when it's destroyed!"
     },
-    "V0201_09_00_130_0": {
+    "V0219_09_00_130_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6302,7 +5633,7 @@
       "duelist": [],
       "text": "I banish Stardust Phantom from my Graveyard!"
     },
-    "V0201_09_00_131_0": {
+    "V0219_09_00_131_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6312,7 +5643,7 @@
       "duelist": [],
       "text": "Stardust Wurm can activate from the hand or the Graveyard!"
     },
-    "V0201_09_00_132_0": {
+    "V0219_09_00_132_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6322,7 +5653,7 @@
       "duelist": [],
       "text": "I activate Stardust Wurm's effect!"
     },
-    "V0201_09_00_133_0": {
+    "V0219_09_00_133_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6332,7 +5663,7 @@
       "duelist": [],
       "text": "Shining Star Dragon activates its effect from my hand!"
     },
-    "V0201_09_00_134_0": {
+    "V0219_09_00_134_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6342,7 +5673,7 @@
       "duelist": [],
       "text": "The card I drew was...\nConverging Wills Dragon!"
     },
-    "V0201_09_00_134_1": {
+    "V0219_09_00_134_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6350,7 +5681,7 @@
       "duelist": [],
       "text": "I activate Converging Wills Dragon's effect!"
     },
-    "V0201_13_00_55_0": {
+    "V0219_13_00_55_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -6360,7 +5691,7 @@
       "duelist": [],
       "text": "I call upon your aid!\nCrimson Dragon!"
     },
-    "V0201_37_00_31_0": {
+    "V0219_37_00_31_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6370,7 +5701,7 @@
       "duelist": [],
       "text": "Our spirits unite to create a new future!"
     },
-    "V0201_37_00_31_1": {
+    "V0219_37_00_31_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6378,7 +5709,7 @@
       "duelist": [],
       "text": "Let's rev it up!\nLimit Over Accel Synchro!"
     },
-    "V0201_13_00_56_0": {
+    "V0219_13_00_56_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -6388,7 +5719,7 @@
       "duelist": [],
       "text": "The light of hope!\nCosmic Quasar Dragon!"
     },
-    "V0201_37_00_32_0": {
+    "V0219_37_00_32_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6398,7 +5729,7 @@
       "duelist": [],
       "text": "Our hearts combine into a brilliant miracle!"
     },
-    "V0201_37_00_32_1": {
+    "V0219_37_00_32_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6406,7 +5737,7 @@
       "duelist": [],
       "text": "Let's rev it up!\nSynchro Summon!"
     },
-    "V0201_13_00_57_0": {
+    "V0219_13_00_57_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -6416,7 +5747,7 @@
       "duelist": [],
       "text": "Descend from the light!\nShooting Majestic Star Dragon!"
     },
-    "V0201_37_00_33_0": {
+    "V0219_37_00_33_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6426,7 +5757,7 @@
       "duelist": [],
       "text": "My soul bonds with the hearts of my friends!"
     },
-    "V0201_37_00_33_1": {
+    "V0219_37_00_33_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6434,7 +5765,7 @@
       "duelist": [],
       "text": "Illuminate our future!\nAccel Synchro!"
     },
-    "V0201_13_00_58_0": {
+    "V0219_13_00_58_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -6444,7 +5775,7 @@
       "duelist": [],
       "text": "Our bond is reborn!"
     },
-    "V0201_13_00_58_1": {
+    "V0219_13_00_58_1": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -6452,7 +5783,7 @@
       "duelist": [],
       "text": "Shooting Star Dragon Tech Genus Expansion!"
     },
-    "V0201_13_00_59_0": {
+    "V0219_13_00_59_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -6462,7 +5793,7 @@
       "duelist": [],
       "text": "Take flight!\nAccel Synchro Stardust Dragon!"
     },
-    "V0201_37_00_34_0": {
+    "V0219_37_00_34_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6472,7 +5803,7 @@
       "duelist": [],
       "text": "Our hopes converge into a new orbit among the stars!"
     },
-    "V0201_37_00_34_1": {
+    "V0219_37_00_34_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6480,7 +5811,7 @@
       "duelist": [],
       "text": "Let's rev it up!\nSynchro Summon!"
     },
-    "V0201_13_00_60_0": {
+    "V0219_13_00_60_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -6490,7 +5821,7 @@
       "duelist": [],
       "text": "Soar to the heavens!\nShooting Riser Dragon!"
     },
-    "V0201_13_00_61_0": {
+    "V0219_13_00_61_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -6500,7 +5831,7 @@
       "duelist": [],
       "text": "Come out!\nNightwinged Cleric!"
     },
-    "V0201_13_00_62_0": {
+    "V0219_13_00_62_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -6510,7 +5841,7 @@
       "duelist": [],
       "text": "Take to the field!\nSatellite Warrior!"
     },
-    "V0201_37_00_35_0": {
+    "V0219_37_00_35_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6520,7 +5851,7 @@
       "duelist": [],
       "text": "Even the tiniest scrap has infinite promise!"
     },
-    "V0201_37_00_35_1": {
+    "V0219_37_00_35_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6528,7 +5859,7 @@
       "duelist": [],
       "text": "Let's rev it up!\nSynchro Summon!"
     },
-    "V0201_13_00_63_0": {
+    "V0219_13_00_63_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -6538,7 +5869,7 @@
       "duelist": [],
       "text": "Appear!\nJunk Warrior Extreme!"
     },
-    "V0201_37_00_36_0": {
+    "V0219_37_00_36_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6548,7 +5879,7 @@
       "duelist": [],
       "text": "The wind swirls faster than the speed of sound!"
     },
-    "V0201_37_00_36_1": {
+    "V0219_37_00_36_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6556,7 +5887,7 @@
       "duelist": [],
       "text": "Let's rev it up!\nSynchro Summon!"
     },
-    "V0201_13_00_64_0": {
+    "V0219_13_00_64_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -6566,7 +5897,7 @@
       "duelist": [],
       "text": "Rage through the winds!\nJunk Speeder!"
     },
-    "V0201_13_00_65_0": {
+    "V0219_13_00_65_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -6576,7 +5907,7 @@
       "duelist": [],
       "text": "Here comes Signal Warrior!"
     },
-    "V0201_13_00_66_0": {
+    "V0219_13_00_66_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -6586,7 +5917,7 @@
       "duelist": [],
       "text": "Let's go!\nScrap Warrior!"
     },
-    "V0201_37_00_37_0": {
+    "V0219_37_00_37_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6596,7 +5927,7 @@
       "duelist": [],
       "text": "Clad in armor, its strength evolves beyond the imaginable!"
     },
-    "V0201_13_00_67_0": {
+    "V0219_13_00_67_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -6606,7 +5937,7 @@
       "duelist": [],
       "text": "Appear!\nJunk Warrior/Assault Mode!"
     },
-    "V0201_13_00_68_0": {
+    "V0219_13_00_68_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6616,7 +5947,7 @@
       "duelist": [],
       "text": "Turret Warrior!"
     },
-    "V0201_13_00_69_0": {
+    "V0219_13_00_69_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6626,7 +5957,7 @@
       "duelist": [],
       "text": "I Special Summon Backup Warrior!"
     },
-    "V0201_13_00_70_0": {
+    "V0219_13_00_70_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6636,7 +5967,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Wheel Synchron!"
     },
-    "V0201_13_00_71_0": {
+    "V0219_13_00_71_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6646,7 +5977,7 @@
       "duelist": [],
       "text": "Earthquake Giant!"
     },
-    "V0201_13_00_72_0": {
+    "V0219_13_00_72_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6656,7 +5987,7 @@
       "duelist": [],
       "text": "My Tuner Monster!\nHyper Synchron!"
     },
-    "V0201_13_00_73_0": {
+    "V0219_13_00_73_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6666,7 +5997,7 @@
       "duelist": [],
       "text": "Max Warrior!"
     },
-    "V0201_13_00_74_0": {
+    "V0219_13_00_74_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6676,7 +6007,7 @@
       "duelist": [],
       "text": "Stardust Trail!"
     },
-    "V0201_13_00_75_0": {
+    "V0219_13_00_75_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6686,7 +6017,7 @@
       "duelist": [],
       "text": "My Tuner Monster, Stardust Synchron!"
     },
-    "V0201_13_00_76_0": {
+    "V0219_13_00_76_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6696,7 +6027,7 @@
       "duelist": [],
       "text": "Bright Star Dragon!"
     },
-    "V0201_13_00_77_0": {
+    "V0219_13_00_77_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6706,7 +6037,7 @@
       "duelist": [],
       "text": "Zero Gardna!"
     },
-    "V0201_13_00_78_0": {
+    "V0219_13_00_78_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6716,7 +6047,7 @@
       "duelist": [],
       "text": "Ghost Gardna!"
     },
-    "V0201_13_00_79_0": {
+    "V0219_13_00_79_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6726,7 +6057,7 @@
       "duelist": [],
       "text": "Healing Wave Generator!"
     },
-    "V0201_13_00_80_0": {
+    "V0219_13_00_80_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6736,7 +6067,7 @@
       "duelist": [],
       "text": "Stronghold Guardian!"
     },
-    "V0201_13_00_81_0": {
+    "V0219_13_00_81_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6746,7 +6077,7 @@
       "duelist": [],
       "text": "Gauntlet Warrior!"
     },
-    "V0201_13_00_82_0": {
+    "V0219_13_00_82_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6756,7 +6087,7 @@
       "duelist": [],
       "text": "Shield Warrior!"
     },
-    "V0201_13_00_83_0": {
+    "V0219_13_00_83_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6766,7 +6097,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Steam Synchron!"
     },
-    "V0201_13_00_84_0": {
+    "V0219_13_00_84_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6776,7 +6107,7 @@
       "duelist": [],
       "text": "Level Warrior!"
     },
-    "V0201_13_00_85_0": {
+    "V0219_13_00_85_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6786,7 +6117,7 @@
       "duelist": [],
       "text": "Here's my Tuner Monster!\nRevolution Synchron!"
     },
-    "V0201_13_00_86_0": {
+    "V0219_13_00_86_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6796,7 +6127,7 @@
       "duelist": [],
       "text": "Tricular!"
     },
-    "V0201_13_00_87_0": {
+    "V0219_13_00_87_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6806,7 +6137,7 @@
       "duelist": [],
       "text": "Bicular!"
     },
-    "V0201_13_00_88_0": {
+    "V0219_13_00_88_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6816,7 +6147,7 @@
       "duelist": [],
       "text": "Unicycular!"
     },
-    "V0201_13_00_89_0": {
+    "V0219_13_00_89_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6826,7 +6157,7 @@
       "duelist": [],
       "text": "Sonic Warrior!"
     },
-    "V0201_13_00_90_0": {
+    "V0219_13_00_90_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6836,7 +6167,7 @@
       "duelist": [],
       "text": "Doppelwarrior!"
     },
-    "V0201_13_00_91_0": {
+    "V0219_13_00_91_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6846,7 +6177,7 @@
       "duelist": [],
       "text": "Fortress Warrior!"
     },
-    "V0201_13_00_92_0": {
+    "V0219_13_00_92_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6856,7 +6187,7 @@
       "duelist": [],
       "text": "I Special Summon Card Breaker!"
     },
-    "V0201_13_00_93_0": {
+    "V0219_13_00_93_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6866,7 +6197,7 @@
       "duelist": [],
       "text": "Shield Wing!"
     },
-    "V0201_13_00_94_0": {
+    "V0219_13_00_94_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6876,7 +6207,7 @@
       "duelist": [],
       "text": "Junk Converter!"
     },
-    "V0201_13_00_95_0": {
+    "V0219_13_00_95_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6886,7 +6217,7 @@
       "duelist": [],
       "text": "Assault Sonic Warrior!"
     },
-    "V0201_13_00_96_0": {
+    "V0219_13_00_96_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6896,7 +6227,7 @@
       "duelist": [],
       "text": "Full-Speed Warrior!"
     },
-    "V0201_13_00_97_0": {
+    "V0219_13_00_97_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6906,7 +6237,7 @@
       "duelist": [],
       "text": "Rush Warrior!"
     },
-    "V0201_13_00_98_0": {
+    "V0219_13_00_98_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6916,7 +6247,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Assault Synchron!"
     },
-    "V0201_13_00_99_0": {
+    "V0219_13_00_99_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6926,7 +6257,7 @@
       "duelist": [],
       "text": "My Tuner Monster!\nSatellite Synchron!"
     },
-    "V0201_13_00_100_0": {
+    "V0219_13_00_100_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6936,7 +6267,7 @@
       "duelist": [],
       "text": "Synchron Carrier!"
     },
-    "V0201_13_00_101_0": {
+    "V0219_13_00_101_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6946,7 +6277,7 @@
       "duelist": [],
       "text": "Anchorbolt Hedgehog!"
     },
-    "V0201_13_00_102_0": {
+    "V0219_13_00_102_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6956,7 +6287,7 @@
       "duelist": [],
       "text": "Tuningware!"
     },
-    "V0201_13_00_103_0": {
+    "V0219_13_00_103_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6966,7 +6297,7 @@
       "duelist": [],
       "text": "Level Eater!"
     },
-    "V0201_13_00_104_0": {
+    "V0219_13_00_104_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6976,7 +6307,7 @@
       "duelist": [],
       "text": "Swift Scarecrow!"
     },
-    "V0201_13_00_105_0": {
+    "V0219_13_00_105_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6986,7 +6317,7 @@
       "duelist": [],
       "text": "Crossroad Sonic Chick!"
     },
-    "V0201_13_00_106_0": {
+    "V0219_13_00_106_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6996,7 +6327,7 @@
       "duelist": [],
       "text": "My Tuner Monster!\nScrap Synchron!"
     },
-    "V0201_13_00_107_0": {
+    "V0219_13_00_107_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7006,7 +6337,7 @@
       "duelist": [],
       "text": "Stardust Xiaolong!"
     },
-    "V0201_13_00_108_0": {
+    "V0219_13_00_108_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7016,7 +6347,7 @@
       "duelist": [],
       "text": "Stardust Phantom!"
     },
-    "V0201_13_00_109_0": {
+    "V0219_13_00_109_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7026,7 +6357,7 @@
       "duelist": [],
       "text": "Stardust Wurm!"
     },
-    "V0201_13_00_110_0": {
+    "V0219_13_00_110_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7036,7 +6367,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Shining Star Dragon!"
     },
-    "V0201_13_00_111_0": {
+    "V0219_13_00_111_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7046,7 +6377,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Converging Wills Dragon!"
     },
-    "V0201_19_00_55_0": {
+    "V0219_19_00_55_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7056,7 +6387,7 @@
       "duelist": [],
       "text": "Crimson Dragon!\nAttack!"
     },
-    "V0201_19_00_56_0": {
+    "V0219_19_00_56_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7066,7 +6397,7 @@
       "duelist": [],
       "text": "Go, Cosmic Quasar Dragon!\nAttack!"
     },
-    "V0201_19_00_57_0": {
+    "V0219_19_00_57_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7076,7 +6407,7 @@
       "duelist": [],
       "text": "Shooting Majestic Star Dragon!\nBlast 'em away!"
     },
-    "V0201_19_00_58_0": {
+    "V0219_19_00_58_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7086,7 +6417,7 @@
       "duelist": [],
       "text": "Shooting Star Dragon Tech Genus Expansion!\nAttack!"
     },
-    "V0201_19_00_59_0": {
+    "V0219_19_00_59_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7096,7 +6427,7 @@
       "duelist": [],
       "text": "Attack, Accel Synchro Stardust Dragon!"
     },
-    "V0201_19_00_59_1": {
+    "V0219_19_00_59_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7104,7 +6435,7 @@
       "duelist": [],
       "text": "Cosmic Flare!"
     },
-    "V0201_19_00_60_0": {
+    "V0219_19_00_60_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7114,7 +6445,7 @@
       "duelist": [],
       "text": "Shooting Riser Dragon!\nAttack!"
     },
-    "V0201_19_00_61_0": {
+    "V0219_19_00_61_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7124,7 +6455,7 @@
       "duelist": [],
       "text": "Attack, Nightwinged Cleric!"
     },
-    "V0201_19_00_62_0": {
+    "V0219_19_00_62_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7134,7 +6465,7 @@
       "duelist": [],
       "text": "Satellite Warrior attacks!"
     },
-    "V0201_19_00_63_0": {
+    "V0219_19_00_63_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7144,7 +6475,7 @@
       "duelist": [],
       "text": "Junk Warrior Extreme!\nAttack!"
     },
-    "V0201_19_00_64_0": {
+    "V0219_19_00_64_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7154,7 +6485,7 @@
       "duelist": [],
       "text": "Junk Speeder! Attack!"
     },
-    "V0201_19_00_65_0": {
+    "V0219_19_00_65_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7164,7 +6495,7 @@
       "duelist": [],
       "text": "Signal Warrior!\nAttack!"
     },
-    "V0201_19_00_66_0": {
+    "V0219_19_00_66_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7174,7 +6505,7 @@
       "duelist": [],
       "text": "Scrap Warrior!\nTurn 'em to scrap!"
     },
-    "V0201_19_00_67_0": {
+    "V0219_19_00_67_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7184,7 +6515,7 @@
       "duelist": [],
       "text": "Go, Junk Warrior/Assault Mode!\nAttack!"
     },
-    "V0201_19_00_68_0": {
+    "V0219_19_00_68_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7194,7 +6525,7 @@
       "duelist": [],
       "text": "Attack, Turret Warrior!"
     },
-    "V0201_19_00_68_1": {
+    "V0219_19_00_68_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7202,7 +6533,7 @@
       "duelist": [],
       "text": "Rapid Blast Barrage!"
     },
-    "V0201_19_00_69_0": {
+    "V0219_19_00_69_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7212,7 +6543,7 @@
       "duelist": [],
       "text": "Backup Warrior!\nAttack!"
     },
-    "V0201_19_00_69_1": {
+    "V0219_19_00_69_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7220,7 +6551,7 @@
       "duelist": [],
       "text": "Rapid Blast Barrage!"
     },
-    "V0201_19_00_70_0": {
+    "V0219_19_00_70_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7230,7 +6561,7 @@
       "duelist": [],
       "text": "Wheel Synchron!\nAttack!"
     },
-    "V0201_19_00_71_0": {
+    "V0219_19_00_71_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7240,7 +6571,7 @@
       "duelist": [],
       "text": "Attack, Earthquake Giant!"
     },
-    "V0201_19_00_72_0": {
+    "V0219_19_00_72_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7250,7 +6581,7 @@
       "duelist": [],
       "text": "Hyper Synchron attacks!"
     },
-    "V0201_19_00_73_0": {
+    "V0219_19_00_73_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7260,7 +6591,7 @@
       "duelist": [],
       "text": "Attack, Max Warrior!"
     },
-    "V0201_19_00_73_1": {
+    "V0219_19_00_73_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7268,7 +6599,7 @@
       "duelist": [],
       "text": "Swift Rush!"
     },
-    "V0201_19_00_74_0": {
+    "V0219_19_00_74_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7278,7 +6609,7 @@
       "duelist": [],
       "text": "Stardust Trail!\nAttack!"
     },
-    "V0201_19_00_75_0": {
+    "V0219_19_00_75_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7288,7 +6619,7 @@
       "duelist": [],
       "text": "Attack, Stardust Synchron!"
     },
-    "V0201_19_00_76_0": {
+    "V0219_19_00_76_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7298,7 +6629,7 @@
       "duelist": [],
       "text": "Bright Star Dragon!\nAttack!"
     },
-    "V0201_19_00_77_0": {
+    "V0219_19_00_77_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7308,7 +6639,7 @@
       "duelist": [],
       "text": "Attack, Zero Gardna!"
     },
-    "V0201_19_00_78_0": {
+    "V0219_19_00_78_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7318,7 +6649,7 @@
       "duelist": [],
       "text": "Ghost Gardna!\nAttack!"
     },
-    "V0201_19_00_79_0": {
+    "V0219_19_00_79_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7328,7 +6659,7 @@
       "duelist": [],
       "text": "Healing Wave Generator!\nAttack!"
     },
-    "V0201_19_00_80_0": {
+    "V0219_19_00_80_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7338,7 +6669,7 @@
       "duelist": [],
       "text": "Stronghold Guardian!\nAttack!"
     },
-    "V0201_19_00_81_0": {
+    "V0219_19_00_81_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7348,7 +6679,7 @@
       "duelist": [],
       "text": "Gauntlet Warrior!\nAttack!"
     },
-    "V0201_19_00_82_0": {
+    "V0219_19_00_82_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7358,7 +6689,7 @@
       "duelist": [],
       "text": "Attack, Shield Warrior!"
     },
-    "V0201_19_00_83_0": {
+    "V0219_19_00_83_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7368,7 +6699,7 @@
       "duelist": [],
       "text": "Steam Synchron! Attack!"
     },
-    "V0201_19_00_84_0": {
+    "V0219_19_00_84_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7378,7 +6709,7 @@
       "duelist": [],
       "text": "Level Warrior attacks!"
     },
-    "V0201_19_00_85_0": {
+    "V0219_19_00_85_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7388,7 +6719,7 @@
       "duelist": [],
       "text": "Attack, Revolution Synchron!"
     },
-    "V0201_19_00_86_0": {
+    "V0219_19_00_86_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7398,7 +6729,7 @@
       "duelist": [],
       "text": "Tricular! Attack!"
     },
-    "V0201_19_00_87_0": {
+    "V0219_19_00_87_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7408,7 +6739,7 @@
       "duelist": [],
       "text": "Bicular! Attack!"
     },
-    "V0201_19_00_88_0": {
+    "V0219_19_00_88_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7418,7 +6749,7 @@
       "duelist": [],
       "text": "Unicycular! Attack!"
     },
-    "V0201_19_00_89_0": {
+    "V0219_19_00_89_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7428,7 +6759,7 @@
       "duelist": [],
       "text": "Attack, Sonic Warrior!"
     },
-    "V0201_19_00_90_0": {
+    "V0219_19_00_90_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7438,7 +6769,7 @@
       "duelist": [],
       "text": "Doppelwarrior! Attack!"
     },
-    "V0201_19_00_91_0": {
+    "V0219_19_00_91_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7448,7 +6779,7 @@
       "duelist": [],
       "text": "Fortress Warrior!\nAttack!"
     },
-    "V0201_19_00_92_0": {
+    "V0219_19_00_92_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7458,7 +6789,7 @@
       "duelist": [],
       "text": "My Card Breaker attacks!"
     },
-    "V0201_19_00_93_0": {
+    "V0219_19_00_93_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7468,7 +6799,7 @@
       "duelist": [],
       "text": "Shield Wing! Attack!"
     },
-    "V0201_19_00_94_0": {
+    "V0219_19_00_94_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7478,7 +6809,7 @@
       "duelist": [],
       "text": "Attack, Junk Converter!"
     },
-    "V0201_19_00_95_0": {
+    "V0219_19_00_95_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7488,7 +6819,7 @@
       "duelist": [],
       "text": "Assault Sonic Warrior!\nAttack!"
     },
-    "V0201_19_00_96_0": {
+    "V0219_19_00_96_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7498,7 +6829,7 @@
       "duelist": [],
       "text": "Full-Speed Warrior!\nAttack!"
     },
-    "V0201_19_00_97_0": {
+    "V0219_19_00_97_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7508,7 +6839,7 @@
       "duelist": [],
       "text": "Rush Warrior!\nAttack!"
     },
-    "V0201_19_00_98_0": {
+    "V0219_19_00_98_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7518,7 +6849,7 @@
       "duelist": [],
       "text": "Attack, Assault Synchron!"
     },
-    "V0201_19_00_99_0": {
+    "V0219_19_00_99_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7528,7 +6859,7 @@
       "duelist": [],
       "text": "Satellite Synchron!\nAttack!"
     },
-    "V0201_19_00_100_0": {
+    "V0219_19_00_100_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7538,7 +6869,7 @@
       "duelist": [],
       "text": "Synchron Carrier!\nAttack!"
     },
-    "V0201_19_00_101_0": {
+    "V0219_19_00_101_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7548,7 +6879,7 @@
       "duelist": [],
       "text": "Anchorbolt Hedgehog!\nAttack!"
     },
-    "V0201_19_00_102_0": {
+    "V0219_19_00_102_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7558,7 +6889,7 @@
       "duelist": [],
       "text": "Tuningware!\nAttack!"
     },
-    "V0201_19_00_103_0": {
+    "V0219_19_00_103_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7568,7 +6899,7 @@
       "duelist": [],
       "text": "Attack, Level Eater!"
     },
-    "V0201_19_00_104_0": {
+    "V0219_19_00_104_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7578,7 +6909,7 @@
       "duelist": [],
       "text": "Swift Scarecrow!\nAttack!"
     },
-    "V0201_19_00_105_0": {
+    "V0219_19_00_105_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7588,7 +6919,7 @@
       "duelist": [],
       "text": "Crossroad Sonic Chick!\nAttack!"
     },
-    "V0201_19_00_106_0": {
+    "V0219_19_00_106_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7598,7 +6929,7 @@
       "duelist": [],
       "text": "Attack, Scrap Synchron!"
     },
-    "V0201_19_00_107_0": {
+    "V0219_19_00_107_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7608,7 +6939,7 @@
       "duelist": [],
       "text": "Stardust Xiaolong!\nAttack!"
     },
-    "V0201_19_00_108_0": {
+    "V0219_19_00_108_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7618,7 +6949,7 @@
       "duelist": [],
       "text": "Attack, Stardust Phantom!"
     },
-    "V0201_19_00_109_0": {
+    "V0219_19_00_109_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7628,7 +6959,7 @@
       "duelist": [],
       "text": "Stardust Wurm!\nAttack!"
     },
-    "V0201_19_00_110_0": {
+    "V0219_19_00_110_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7638,7 +6969,7 @@
       "duelist": [],
       "text": "Shining Star Dragon!\nAttack!"
     },
-    "V0201_19_00_111_0": {
+    "V0219_19_00_111_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7648,7 +6979,7 @@
       "duelist": [],
       "text": "Converging Wills Dragon!\nAttack!"
     },
-    "V0201_48_00_00_0": {
+    "V0219_48_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7656,7 +6987,7 @@
       "duelist": [],
       "text": "Here we go!"
     },
-    "V0201_48_01_00_0": {
+    "V0219_48_01_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7664,7 +6995,7 @@
       "duelist": [],
       "text": "Get ready for the rush!"
     },
-    "V0201_51_00_00_0": {
+    "V0219_51_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7672,7 +7003,7 @@
       "duelist": [],
       "text": "Yusei Fudo."
     },
-    "V0201_51_01_00_0": {
+    "V0219_51_01_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7680,7 +7011,7 @@
       "duelist": [],
       "text": "Go rush!"
     },
-    "V0201_49_00_00_0": {
+    "V0219_49_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -7688,7 +7019,7 @@
       "duelist": [],
       "text": "Let's rev it up!"
     },
-    "V0201_49_01_00_0": {
+    "V0219_49_01_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,

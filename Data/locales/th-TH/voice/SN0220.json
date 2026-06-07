@@ -1,160 +1,8 @@
 {
-  "_GRP_": "SN0202",
+  "_GRP_": "SN0220",
   "_LNG_": "en-US",
   "info": {
-    "V0202_01_00_00_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Heavy is the King's crown  - that's why only I can wear it!"
-    },
-    "V0202_01_00_01_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I'll show you that my soul still blazes!"
-    },
-    "V0202_01_00_02_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Remove your training wheels if you want to keep up with me!"
-    },
-    "V0202_01_00_02_1": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Or I'll send you in for a permanent pit stop!"
-    },
-    "V0202_01_00_03_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "If you have the guts to face me, you have the guts to lose!"
-    },
-    "V0202_01_00_04_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        201,
-        219
-      ],
-      "text": "Yusei!\nI'll put my very soul into this Duel!"
-    },
-    "V0202_01_00_04_1": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "So no one will pose a challenge!\nNot even you!"
-    },
-    "V0202_01_00_05_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        203,
-        204,
-        205,
-        206,
-        209,
-        221
-      ],
-      "text": "We've achieved all we can as a team."
-    },
-    "V0202_01_00_05_1": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "So I'll tackle new challenges solo from now on! "
-    },
-    "V0202_01_00_06_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        214
-      ],
-      "text": "An exclusive interview?"
-    },
-    "V0202_01_00_06_1": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "...Very well.\nI'll grant you a moment of the King's time."
-    },
-    "V0202_01_00_07_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        210,
-        231
-      ],
-      "text": "Carly...\nEven if it costs me everything, I will save you!"
-    },
-    "V0202_01_00_08_0": {
-      "face": 4,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        208
-      ],
-      "text": "You're... Kalin?"
-    },
-    "V0202_01_00_09_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        208,
-        211,
-        9058,
-        9059,
-        9061,
-        9062
-      ],
-      "text": "The Mark of the Dragon yearns to Duel a Dark Signer."
-    },
-    "V0202_01_00_09_1": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "And I shall grant its wish!"
-    },
-    "V0202_02_00_00_0": {
-      "face": 3,
-      "frame": 1,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Duel!"
-    },
-    "V0202_03_00_00_0": {
+    "V0220_03_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -162,7 +10,7 @@
       "duelist": [],
       "text": "There's nothing left you can do!"
     },
-    "V0202_03_00_00_1": {
+    "V0220_03_00_00_1": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -170,7 +18,7 @@
       "duelist": [],
       "text": "My turn!"
     },
-    "V0202_03_00_01_0": {
+    "V0220_03_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -178,7 +26,7 @@
       "duelist": [],
       "text": "The finish line is within sight!"
     },
-    "V0202_03_00_01_1": {
+    "V0220_03_00_01_1": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -186,7 +34,7 @@
       "duelist": [],
       "text": "It's my turn!"
     },
-    "V0202_03_00_02_0": {
+    "V0220_03_00_02_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -194,7 +42,7 @@
       "duelist": [],
       "text": "Don't expect me to slow down!"
     },
-    "V0202_03_00_02_1": {
+    "V0220_03_00_02_1": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -202,7 +50,7 @@
       "duelist": [],
       "text": "My turn!"
     },
-    "V0202_03_00_03_0": {
+    "V0220_03_00_03_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -210,7 +58,7 @@
       "duelist": [],
       "text": "It's my turn!"
     },
-    "V0202_03_00_04_0": {
+    "V0220_03_00_04_0": {
       "face": 3,
       "frame": 0,
       "cutin": 0,
@@ -218,7 +66,7 @@
       "duelist": [],
       "text": "Victory is to be taken, not given!"
     },
-    "V0202_03_00_04_1": {
+    "V0220_03_00_04_1": {
       "face": 3,
       "frame": 0,
       "cutin": 0,
@@ -226,7 +74,7 @@
       "duelist": [],
       "text": "My turn!"
     },
-    "V0202_03_00_05_0": {
+    "V0220_03_00_05_0": {
       "face": 3,
       "frame": 0,
       "cutin": 0,
@@ -234,7 +82,7 @@
       "duelist": [],
       "text": "Humph! Your moves are nothing special!"
     },
-    "V0202_03_00_05_1": {
+    "V0220_03_00_05_1": {
       "face": 3,
       "frame": 0,
       "cutin": 0,
@@ -242,7 +90,7 @@
       "duelist": [],
       "text": "It's my turn!"
     },
-    "V0202_04_00_00_0": {
+    "V0220_04_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -250,7 +98,7 @@
       "duelist": [],
       "text": "I draw!"
     },
-    "V0202_04_00_01_0": {
+    "V0220_04_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -258,7 +106,7 @@
       "duelist": [],
       "text": "I draw!"
     },
-    "V0202_04_00_02_0": {
+    "V0220_04_00_02_0": {
       "face": 3,
       "frame": 0,
       "cutin": 0,
@@ -266,7 +114,7 @@
       "duelist": [],
       "text": "I draw!"
     },
-    "V0202_05_00_00_0": {
+    "V0220_05_00_00_0": {
       "face": 3,
       "frame": 0,
       "cutin": 1,
@@ -274,7 +122,7 @@
       "duelist": [],
       "text": "Feast your eyes on King Jack Atlas's true power!"
     },
-    "V0202_05_00_00_1": {
+    "V0220_05_00_00_1": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -282,7 +130,7 @@
       "duelist": [],
       "text": "I draw!!!"
     },
-    "V0202_06_01_00_0": {
+    "V0220_06_01_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -290,7 +138,7 @@
       "duelist": [],
       "text": "Now!"
     },
-    "V0202_06_01_01_0": {
+    "V0220_06_01_01_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -298,7 +146,7 @@
       "duelist": [],
       "text": "You best try harder than that!"
     },
-    "V0202_06_01_02_0": {
+    "V0220_06_01_02_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -306,7 +154,7 @@
       "duelist": [],
       "text": "Pathetic."
     },
-    "V0202_06_01_03_0": {
+    "V0220_06_01_03_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -314,7 +162,7 @@
       "duelist": [],
       "text": "I know all your moves!"
     },
-    "V0202_07_00_00_0": {
+    "V0220_07_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -322,7 +170,7 @@
       "duelist": [],
       "text": "From my hand..."
     },
-    "V0202_07_01_00_0": {
+    "V0220_07_01_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -330,7 +178,7 @@
       "duelist": [],
       "text": "I activate a Spell Card!"
     },
-    "V0202_07_02_00_0": {
+    "V0220_07_02_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -338,7 +186,7 @@
       "duelist": [],
       "text": "I activate a Quick-Play Spell!"
     },
-    "V0202_07_03_00_0": {
+    "V0220_07_03_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -346,7 +194,7 @@
       "duelist": [],
       "text": "I activate a Continuous Spell!"
     },
-    "V0202_07_04_00_0": {
+    "V0220_07_04_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -354,7 +202,7 @@
       "duelist": [],
       "text": "I activate an Equip Spell!"
     },
-    "V0202_07_05_00_0": {
+    "V0220_07_05_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -362,7 +210,7 @@
       "duelist": [],
       "text": "I activate a Ritual Spell!"
     },
-    "V0202_07_06_00_0": {
+    "V0220_07_06_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -370,7 +218,7 @@
       "duelist": [],
       "text": "I activate my Trap Card!"
     },
-    "V0202_07_07_00_0": {
+    "V0220_07_07_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -378,7 +226,7 @@
       "duelist": [],
       "text": "I activate my Continuous Trap!"
     },
-    "V0202_07_08_00_0": {
+    "V0220_07_08_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -386,7 +234,7 @@
       "duelist": [],
       "text": "I activate my Counter Trap!"
     },
-    "V0202_07_09_00_0": {
+    "V0220_07_09_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -394,7 +242,7 @@
       "duelist": [],
       "text": "My face-down card!"
     },
-    "V0202_07_09_01_0": {
+    "V0220_07_09_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -402,7 +250,7 @@
       "duelist": [],
       "text": "I flip over my face-down card!"
     },
-    "V0202_07_10_00_0": {
+    "V0220_07_10_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -410,7 +258,7 @@
       "duelist": [],
       "text": "I activate my monster's effect!"
     },
-    "V0202_07_11_00_0": {
+    "V0220_07_11_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -418,7 +266,7 @@
       "duelist": [],
       "text": "I activate a Field Spell!"
     },
-    "V0202_07_12_00_0": {
+    "V0220_07_12_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -426,7 +274,7 @@
       "duelist": [],
       "text": "I activate an effect!"
     },
-    "V0202_07_13_00_0": {
+    "V0220_07_13_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -434,7 +282,7 @@
       "duelist": [],
       "text": "I set the Pendulum Scale!"
     },
-    "V0202_08_00_00_0": {
+    "V0220_08_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -444,7 +292,7 @@
       "duelist": [],
       "text": "I activate my Spell Card!\nScarlet Security!"
     },
-    "V0202_08_00_01_0": {
+    "V0220_08_00_01_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -454,7 +302,7 @@
       "duelist": [],
       "text": "I activate my Spell Card, Resonator Call!"
     },
-    "V0202_08_00_02_0": {
+    "V0220_08_00_02_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -464,7 +312,7 @@
       "duelist": [],
       "text": "My Spell Card, Tuner's High!"
     },
-    "V0202_08_00_03_0": {
+    "V0220_08_00_03_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -474,7 +322,7 @@
       "duelist": [],
       "text": "I activate my Spell Card!\nMind Trust!"
     },
-    "V0202_08_00_04_0": {
+    "V0220_08_00_04_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -484,7 +332,7 @@
       "duelist": [],
       "text": "I activate my Spell Card, Red Dragon Vase!"
     },
-    "V0202_08_00_05_0": {
+    "V0220_08_00_05_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -494,7 +342,7 @@
       "duelist": [],
       "text": "Here's my Spell Card!\nPolymerization!"
     },
-    "V0202_08_00_06_0": {
+    "V0220_08_00_06_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -504,7 +352,7 @@
       "duelist": [],
       "text": "The Continuous Spell, Resonant Destruction!"
     },
-    "V0202_08_00_07_0": {
+    "V0220_08_00_07_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -514,7 +362,7 @@
       "duelist": [],
       "text": "I activate my Spell Card!\nResonator Engine!"
     },
-    "V0202_08_00_08_0": {
+    "V0220_08_00_08_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -524,7 +372,7 @@
       "duelist": [],
       "text": "My Quick-Play Spell!\nAssault Overload!"
     },
-    "V0202_08_00_09_0": {
+    "V0220_08_00_09_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -534,7 +382,7 @@
       "duelist": [],
       "text": "I activate the Spell Card, Assault Teleport!"
     },
-    "V0202_08_00_10_0": {
+    "V0220_08_00_10_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -544,7 +392,7 @@
       "duelist": [],
       "text": "I activate my Quick-Play Spell!\nAssault Revival!"
     },
-    "V0202_08_00_11_0": {
+    "V0220_08_00_11_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -554,7 +402,7 @@
       "duelist": [],
       "text": "The Trap Card, Assault Spirits!"
     },
-    "V0202_08_00_12_0": {
+    "V0220_08_00_12_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -564,7 +412,7 @@
       "duelist": [],
       "text": "I activate my Continuous Trap!\nKing Scarlet!"
     },
-    "V0202_08_00_13_0": {
+    "V0220_08_00_13_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -574,7 +422,7 @@
       "duelist": [],
       "text": "My Counter Trap, Crimson Fire!"
     },
-    "V0202_08_00_14_0": {
+    "V0220_08_00_14_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -584,7 +432,7 @@
       "duelist": [],
       "text": "I reveal my Trap Card!\nSynchro Call!"
     },
-    "V0202_08_00_15_0": {
+    "V0220_08_00_15_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -594,7 +442,7 @@
       "duelist": [],
       "text": "I reveal my Trap Card!\nSynchro Deflector!"
     },
-    "V0202_08_00_16_0": {
+    "V0220_08_00_16_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -604,7 +452,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nRed Cocoon!"
     },
-    "V0202_08_00_17_0": {
+    "V0220_08_00_17_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -614,7 +462,7 @@
       "duelist": [],
       "text": "I activate my Continuous Trap, Red Screen!"
     },
-    "V0202_08_00_18_0": {
+    "V0220_08_00_18_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -624,7 +472,7 @@
       "duelist": [],
       "text": "I activate my Continuous Trap, Spacegate!"
     },
-    "V0202_08_00_19_0": {
+    "V0220_08_00_19_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -634,7 +482,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nChanging Destiny!"
     },
-    "V0202_08_00_20_0": {
+    "V0220_08_00_20_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -644,7 +492,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nTuner Capture!"
     },
-    "V0202_08_00_21_0": {
+    "V0220_08_00_21_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -654,7 +502,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nFiendish Chain!"
     },
-    "V0202_08_00_22_0": {
+    "V0220_08_00_22_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -664,7 +512,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nNightmare Archfiends!"
     },
-    "V0202_08_00_23_0": {
+    "V0220_08_00_23_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -674,7 +522,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nHalf or Nothing!"
     },
-    "V0202_08_00_24_0": {
+    "V0220_08_00_24_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -684,7 +532,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nAssault Mode Activate!"
     },
-    "V0202_08_00_25_0": {
+    "V0220_08_00_25_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -694,7 +542,7 @@
       "duelist": [],
       "text": "I flip over my Trap Card!\nPrideful Roar!"
     },
-    "V0202_08_00_26_0": {
+    "V0220_08_00_26_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -704,7 +552,7 @@
       "duelist": [],
       "text": "I activate my Trap, Reject Reborn!"
     },
-    "V0202_08_00_27_0": {
+    "V0220_08_00_27_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -714,7 +562,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nRevival Gift!"
     },
-    "V0202_08_00_28_0": {
+    "V0220_08_00_28_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -724,7 +572,7 @@
       "duelist": [],
       "text": "I activate the Trap, Red Supremacy!"
     },
-    "V0202_08_00_29_0": {
+    "V0220_08_00_29_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -734,7 +582,7 @@
       "duelist": [],
       "text": "I flip over my Trap Card!\nDescending Lost Star!"
     },
-    "V0202_08_00_30_0": {
+    "V0220_08_00_30_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -744,7 +592,7 @@
       "duelist": [],
       "text": "I activate my Continuous Trap, Shadow Spell!"
     },
-    "V0202_08_00_31_0": {
+    "V0220_08_00_31_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -754,7 +602,7 @@
       "duelist": [],
       "text": "I activate my Trap Card, King's Consonance!"
     },
-    "V0202_08_00_32_0": {
+    "V0220_08_00_32_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -764,7 +612,7 @@
       "duelist": [],
       "text": "My Trap activates!\nKing's Synchro!"
     },
-    "V0202_08_00_33_0": {
+    "V0220_08_00_33_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -774,7 +622,7 @@
       "duelist": [],
       "text": "I activate my Continuous Trap, Powerful Rebirth!"
     },
-    "V0202_08_00_34_0": {
+    "V0220_08_00_34_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -784,7 +632,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nLineage of Destruction!"
     },
-    "V0202_08_00_35_0": {
+    "V0220_08_00_35_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -794,7 +642,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nRed Carpet!"
     },
-    "V0202_08_00_36_0": {
+    "V0220_08_00_36_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -804,7 +652,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nAssault Slash!"
     },
-    "V0202_08_00_37_0": {
+    "V0220_08_00_37_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -814,7 +662,7 @@
       "duelist": [],
       "text": "My Counter Trap activates!\nAssault Counter!"
     },
-    "V0202_09_00_00_0": {
+    "V0220_09_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -824,7 +672,7 @@
       "duelist": [],
       "text": "Exploder Dragonwing's effect activates!"
     },
-    "V0202_09_00_01_0": {
+    "V0220_09_00_01_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -834,7 +682,7 @@
       "duelist": [],
       "text": "Crimson Blader's effect activates!"
     },
-    "V0202_09_00_02_0": {
+    "V0220_09_00_02_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -844,7 +692,7 @@
       "duelist": [],
       "text": "Synkron Resonator's effect activates!"
     },
-    "V0202_09_00_03_0": {
+    "V0220_09_00_03_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -854,7 +702,7 @@
       "duelist": [],
       "text": "Red Nova Dragon!\nActivate your effect!"
     },
-    "V0202_09_00_04_0": {
+    "V0220_09_00_04_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -864,7 +712,7 @@
       "duelist": [],
       "text": "Witness Stardust Dragon's effect!"
     },
-    "V0202_09_00_05_0": {
+    "V0220_09_00_05_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -874,7 +722,7 @@
       "duelist": [],
       "text": "Stardust Dragon's effect activates! Resurrect!"
     },
-    "V0202_09_00_06_0": {
+    "V0220_09_00_06_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -884,7 +732,7 @@
       "duelist": [],
       "text": "Here's Small Piece Golem's effect!"
     },
-    "V0202_09_00_07_0": {
+    "V0220_09_00_07_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -894,7 +742,7 @@
       "duelist": [],
       "text": "Majestic Red Dragon's effect!"
     },
-    "V0202_09_00_08_0": {
+    "V0220_09_00_08_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -904,7 +752,7 @@
       "duelist": [],
       "text": "Majestic Red Dragon's effect absorbs your monster's ATK!"
     },
-    "V0202_09_00_08_1": {
+    "V0220_09_00_08_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -912,7 +760,7 @@
       "duelist": [],
       "text": "Power Gain!"
     },
-    "V0202_09_00_09_0": {
+    "V0220_09_00_09_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -922,7 +770,7 @@
       "duelist": [],
       "text": "Sinister Sprocket's effect!"
     },
-    "V0202_09_00_10_0": {
+    "V0220_09_00_10_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -932,7 +780,7 @@
       "duelist": [],
       "text": "Double Resonator's effect activates!"
     },
-    "V0202_09_00_11_0": {
+    "V0220_09_00_11_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -942,7 +790,7 @@
       "duelist": [],
       "text": "Chain Resonator activates its effect!"
     },
-    "V0202_09_00_12_0": {
+    "V0220_09_00_12_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -952,7 +800,7 @@
       "duelist": [],
       "text": "Chaos King Archfiend's effect!"
     },
-    "V0202_09_00_13_0": {
+    "V0220_09_00_13_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -962,7 +810,7 @@
       "duelist": [],
       "text": "Battle Fader's effect!"
     },
-    "V0202_09_00_14_0": {
+    "V0220_09_00_14_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -972,7 +820,7 @@
       "duelist": [],
       "text": "I activate Barrier Resonator's effect from my hand!"
     },
-    "V0202_09_00_15_0": {
+    "V0220_09_00_15_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -982,7 +830,7 @@
       "duelist": [],
       "text": "Force Resonator's effect!"
     },
-    "V0202_09_00_16_0": {
+    "V0220_09_00_16_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -992,7 +840,7 @@
       "duelist": [],
       "text": "Multiple Piece Golem's effect activates!"
     },
-    "V0202_09_00_17_0": {
+    "V0220_09_00_17_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1002,7 +850,7 @@
       "duelist": [],
       "text": "Medium Piece Golem Special Summons a monster from my deck!"
     },
-    "V0202_09_00_18_0": {
+    "V0220_09_00_18_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1012,7 +860,7 @@
       "duelist": [],
       "text": "Mirror Resonator's effect activates!"
     },
-    "V0202_09_00_19_0": {
+    "V0220_09_00_19_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1022,7 +870,7 @@
       "duelist": [],
       "text": "Red Warg's effect activates!"
     },
-    "V0202_09_00_19_1": {
+    "V0220_09_00_19_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1030,7 +878,7 @@
       "duelist": [],
       "text": "I Special Summon it from my hand!"
     },
-    "V0202_09_00_20_0": {
+    "V0220_09_00_20_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1040,7 +888,7 @@
       "duelist": [],
       "text": "I send Red Gardna from my hand to the Graveyard!"
     },
-    "V0202_09_00_20_1": {
+    "V0220_09_00_20_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1048,7 +896,7 @@
       "duelist": [],
       "text": "Now your effects can't destroy my monsters this turn!"
     },
-    "V0202_09_00_21_0": {
+    "V0220_09_00_21_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1058,7 +906,7 @@
       "duelist": [],
       "text": "Red Sprinter's effect activates!"
     },
-    "V0202_09_00_21_1": {
+    "V0220_09_00_21_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1066,7 +914,7 @@
       "duelist": [],
       "text": "I Special Summon a Level 3 or lower Fiend-Type Tuner!"
     },
-    "V0202_09_00_22_0": {
+    "V0220_09_00_22_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1076,7 +924,7 @@
       "duelist": [],
       "text": "Scarlight Red Dragon Archfiend's effect activates!"
     },
-    "V0202_09_00_22_1": {
+    "V0220_09_00_22_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1084,7 +932,7 @@
       "duelist": [],
       "text": "Absolute Power Flame!"
     },
-    "V0202_09_00_23_0": {
+    "V0220_09_00_23_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1094,7 +942,7 @@
       "duelist": [],
       "text": "Tyrant Red Dragon Archfiend's effect activates!"
     },
-    "V0202_09_00_23_1": {
+    "V0220_09_00_23_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1102,7 +950,7 @@
       "duelist": [],
       "text": "Absolute Power Inferno!"
     },
-    "V0202_09_00_24_0": {
+    "V0220_09_00_24_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1112,7 +960,7 @@
       "duelist": [],
       "text": "Tyrant Red Dragon Archfiend's effect activates!"
     },
-    "V0202_09_00_25_0": {
+    "V0220_09_00_25_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1122,7 +970,7 @@
       "duelist": [],
       "text": "Red Dragon Archfiend/Assault Mode's effect activates!"
     },
-    "V0202_09_00_25_1": {
+    "V0220_09_00_25_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1130,7 +978,7 @@
       "duelist": [],
       "text": "Crimson End!"
     },
-    "V0202_09_00_26_0": {
+    "V0220_09_00_26_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1140,7 +988,7 @@
       "duelist": [],
       "text": "Red Dragon Archfiend/Assault Mode! Resurrect my monster!"
     },
-    "V0202_09_00_27_0": {
+    "V0220_09_00_27_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1150,7 +998,7 @@
       "duelist": [],
       "text": "Red Dragon Archfiend's effect!"
     },
-    "V0202_09_00_27_1": {
+    "V0220_09_00_27_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1158,7 +1006,7 @@
       "duelist": [],
       "text": "Fiend Meteor!"
     },
-    "V0202_09_00_28_0": {
+    "V0220_09_00_28_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1168,7 +1016,7 @@
       "duelist": [],
       "text": "Red Dragon Archfiend's effect activates!"
     },
-    "V0202_09_00_29_0": {
+    "V0220_09_00_29_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1178,7 +1026,7 @@
       "duelist": [],
       "text": "Red Nova's effect!"
     },
-    "V0202_09_00_30_0": {
+    "V0220_09_00_30_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1188,7 +1036,7 @@
       "duelist": [],
       "text": "Red Mirror's effect activates!"
     },
-    "V0202_09_00_31_0": {
+    "V0220_09_00_31_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1198,7 +1046,7 @@
       "duelist": [],
       "text": "Red Rising Dragon! Activate your effect!"
     },
-    "V0202_09_00_32_0": {
+    "V0220_09_00_32_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1208,7 +1056,7 @@
       "duelist": [],
       "text": "Red Resonator's effect activates!"
     },
-    "V0202_09_00_33_0": {
+    "V0220_09_00_33_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1218,7 +1066,7 @@
       "duelist": [],
       "text": "Red Wyvern destroys the monster with the most ATK!"
     },
-    "V0202_09_00_34_0": {
+    "V0220_09_00_34_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1228,7 +1076,7 @@
       "duelist": [],
       "text": "Hot Red Dragon Archfiend Abyss's effect activates!"
     },
-    "V0202_09_00_35_0": {
+    "V0220_09_00_35_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1238,7 +1086,7 @@
       "duelist": [],
       "text": "Hot Red Dragon Archfiend Bane's effect activates!"
     },
-    "V0202_09_00_36_0": {
+    "V0220_09_00_36_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1248,7 +1096,7 @@
       "duelist": [],
       "text": "Hot Red Dragon Archfiend's effect activates!"
     },
-    "V0202_09_00_36_1": {
+    "V0220_09_00_36_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1256,7 +1104,7 @@
       "duelist": [],
       "text": "Crimson Burn!"
     },
-    "V0202_09_00_37_0": {
+    "V0220_09_00_37_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1266,7 +1114,7 @@
       "duelist": [],
       "text": "Hot Red Dragon Archfiend King Calamity's effect activates!"
     },
-    "V0202_09_00_38_0": {
+    "V0220_09_00_38_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1276,7 +1124,7 @@
       "duelist": [],
       "text": "Hot Red Dragon Archfiend King Calamity's effect activates!"
     },
-    "V0202_09_00_38_1": {
+    "V0220_09_00_38_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1284,7 +1132,7 @@
       "duelist": [],
       "text": "Calamity Meteor!"
     },
-    "V0202_09_00_39_0": {
+    "V0220_09_00_39_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1294,7 +1142,7 @@
       "duelist": [],
       "text": "Gash the Dust Lord's effect!"
     },
-    "V0202_09_00_40_0": {
+    "V0220_09_00_40_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1304,7 +1152,7 @@
       "duelist": [],
       "text": "Magical King Moonstar's effect!"
     },
-    "V0202_09_00_41_0": {
+    "V0220_09_00_41_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1314,7 +1162,7 @@
       "duelist": [],
       "text": "Absolute King Back Jack's effect!"
     },
-    "V0202_09_00_42_0": {
+    "V0220_09_00_42_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1324,7 +1172,7 @@
       "duelist": [],
       "text": "Dark Highlander's effect!"
     },
-    "V0202_09_00_43_0": {
+    "V0220_09_00_43_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1334,7 +1182,7 @@
       "duelist": [],
       "text": "Celestial Wolf Lord, Blue Sirius's effect!"
     },
-    "V0202_09_00_43_1": {
+    "V0220_09_00_43_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1342,7 +1190,7 @@
       "duelist": [],
       "text": "Blue Sublimation!"
     },
-    "V0202_09_00_44_0": {
+    "V0220_09_00_44_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1352,7 +1200,7 @@
       "duelist": [],
       "text": "Wandering King Wildwind's effect!"
     },
-    "V0202_10_00_00_0": {
+    "V0220_10_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -1360,7 +1208,7 @@
       "duelist": [],
       "text": "......Heh."
     },
-    "V0202_10_00_01_0": {
+    "V0220_10_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -1368,7 +1216,7 @@
       "duelist": [],
       "text": "Come to me!"
     },
-    "V0202_10_00_02_0": {
+    "V0220_10_00_02_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -1376,7 +1224,7 @@
       "duelist": [],
       "text": "Come on out!"
     },
-    "V0202_10_00_03_0": {
+    "V0220_10_00_03_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -1384,7 +1232,7 @@
       "duelist": [],
       "text": "Watch this!"
     },
-    "V0202_11_00_00_0": {
+    "V0220_11_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -1392,7 +1240,7 @@
       "duelist": [],
       "text": "I Summon a monster!"
     },
-    "V0202_11_01_00_0": {
+    "V0220_11_01_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -1400,7 +1248,7 @@
       "duelist": [],
       "text": "I Summon a monster in Defense Position!"
     },
-    "V0202_11_02_00_0": {
+    "V0220_11_02_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -1408,7 +1256,7 @@
       "duelist": [],
       "text": "I Special Summon a monster!"
     },
-    "V0202_11_03_00_0": {
+    "V0220_11_03_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -1416,7 +1264,7 @@
       "duelist": [],
       "text": "I Tribute a monster!"
     },
-    "V0202_11_04_00_0": {
+    "V0220_11_04_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -1424,7 +1272,7 @@
       "duelist": [],
       "text": "I Tribute Summon a monster!"
     },
-    "V0202_11_05_00_0": {
+    "V0220_11_05_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -1432,7 +1280,7 @@
       "duelist": [],
       "text": "I Fusion Summon a monster!"
     },
-    "V0202_11_06_00_0": {
+    "V0220_11_06_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -1440,7 +1288,7 @@
       "duelist": [],
       "text": "I Ritual Summon a monster!"
     },
-    "V0202_11_07_00_0": {
+    "V0220_11_07_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -1448,7 +1296,7 @@
       "duelist": [],
       "text": "I Synchro Summon a monster!"
     },
-    "V0202_11_08_00_0": {
+    "V0220_11_08_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -1456,7 +1304,7 @@
       "duelist": [],
       "text": "I Xyz Summon a monster!"
     },
-    "V0202_11_09_00_0": {
+    "V0220_11_09_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -1464,7 +1312,7 @@
       "duelist": [],
       "text": "I Pendulum Summon a monster!"
     },
-    "V0202_11_10_00_0": {
+    "V0220_11_10_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -1472,7 +1320,7 @@
       "duelist": [],
       "text": "I Link Summon a monster!"
     },
-    "V0202_37_00_00_0": {
+    "V0220_37_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1482,7 +1330,7 @@
       "duelist": [],
       "text": "As the King roars, feel the crushing blow of victory!"
     },
-    "V0202_37_00_00_1": {
+    "V0220_37_00_00_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1490,7 +1338,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0202_13_00_00_0": {
+    "V0220_13_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -1500,7 +1348,7 @@
       "duelist": [],
       "text": "Spread your wings, Exploder Dragonwing!"
     },
-    "V0202_13_00_01_0": {
+    "V0220_13_00_01_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1510,7 +1358,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Creation Resonator!"
     },
-    "V0202_37_00_01_0": {
+    "V0220_37_00_01_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1520,7 +1368,7 @@
       "duelist": [],
       "text": "This red blade announces the King's verdict!"
     },
-    "V0202_37_00_01_1": {
+    "V0220_37_00_01_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1528,7 +1376,7 @@
       "duelist": [],
       "text": "Surge with the flames as I Synchro Summon!"
     },
-    "V0202_13_00_02_0": {
+    "V0220_13_00_02_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -1538,7 +1386,7 @@
       "duelist": [],
       "text": "The fire deity, Crimson Blader!"
     },
-    "V0202_13_00_03_0": {
+    "V0220_13_00_03_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1548,7 +1396,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Clock Resonator!"
     },
-    "V0202_13_00_04_0": {
+    "V0220_13_00_04_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1558,7 +1406,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Synkron Resonator!"
     },
-    "V0202_37_00_02_0": {
+    "V0220_37_00_02_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1568,7 +1416,7 @@
       "duelist": [],
       "text": "Behold as the stars high above in the sky..."
     },
-    "V0202_37_00_02_1": {
+    "V0220_37_00_02_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1576,7 +1424,7 @@
       "duelist": [],
       "text": "And the fire deep down below in the earth..."
     },
-    "V0202_37_00_02_2": {
+    "V0220_37_00_02_2": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1584,7 +1432,7 @@
       "duelist": [],
       "text": "Collide in a cosmic explosion to Synchro Summon!"
     },
-    "V0202_13_00_05_0": {
+    "V0220_13_00_05_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -1594,7 +1442,7 @@
       "duelist": [],
       "text": "Rise! Red Nova Dragon!"
     },
-    "V0202_37_00_03_0": {
+    "V0220_37_00_03_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1604,7 +1452,7 @@
       "duelist": [],
       "text": "With the wings of wind, I Synchro Summon!"
     },
-    "V0202_13_00_06_0": {
+    "V0220_13_00_06_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -1614,7 +1462,7 @@
       "duelist": [],
       "text": "Roar, Stardust Dragon!"
     },
-    "V0202_13_00_07_0": {
+    "V0220_13_00_07_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1624,7 +1472,7 @@
       "duelist": [],
       "text": "Come, Small Piece Golem!"
     },
-    "V0202_37_00_04_0": {
+    "V0220_37_00_04_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1634,7 +1482,7 @@
       "duelist": [],
       "text": "This light shines upon the land as its true conqueror!"
     },
-    "V0202_37_00_04_1": {
+    "V0220_37_00_04_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1642,7 +1490,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0202_13_00_08_0": {
+    "V0220_13_00_08_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -1652,7 +1500,7 @@
       "duelist": [],
       "text": "I give you Majestic Red Dragon!"
     },
-    "V0202_13_00_09_0": {
+    "V0220_13_00_09_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1662,7 +1510,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Sinister Sprocket!"
     },
-    "V0202_13_00_10_0": {
+    "V0220_13_00_10_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1672,7 +1520,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Dark Resonator!"
     },
-    "V0202_13_00_11_0": {
+    "V0220_13_00_11_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1682,7 +1530,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Double Resonator!"
     },
-    "V0202_13_00_12_0": {
+    "V0220_13_00_12_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1692,7 +1540,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Chain Resonator!"
     },
-    "V0202_37_00_05_0": {
+    "V0220_37_00_05_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1702,7 +1550,7 @@
       "duelist": [],
       "text": "The new sovereign emerges from the chaos!"
     },
-    "V0202_37_00_05_1": {
+    "V0220_37_00_05_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1710,7 +1558,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0202_13_00_13_0": {
+    "V0220_13_00_13_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -1720,7 +1568,7 @@
       "duelist": [],
       "text": "Chaos King Archfiend!"
     },
-    "V0202_13_00_14_0": {
+    "V0220_13_00_14_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1730,7 +1578,7 @@
       "duelist": [],
       "text": "Soar! Vice Dragon!"
     },
-    "V0202_13_00_15_0": {
+    "V0220_13_00_15_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1740,7 +1588,7 @@
       "duelist": [],
       "text": "Join me, Battle Fader!"
     },
-    "V0202_13_00_16_0": {
+    "V0220_13_00_16_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1750,7 +1598,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Barrier Resonator!"
     },
-    "V0202_13_00_17_0": {
+    "V0220_13_00_17_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1760,7 +1608,7 @@
       "duelist": [],
       "text": "Come out! Big Piece Golem!"
     },
-    "V0202_13_00_18_0": {
+    "V0220_13_00_18_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1770,7 +1618,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Force Resonator!"
     },
-    "V0202_13_00_19_0": {
+    "V0220_13_00_19_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1780,7 +1628,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Flare Resonator!"
     },
-    "V0202_13_00_20_0": {
+    "V0220_13_00_20_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1790,7 +1638,7 @@
       "duelist": [],
       "text": "Combine and form Multiple Piece Golem!"
     },
-    "V0202_13_00_21_0": {
+    "V0220_13_00_21_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1800,7 +1648,7 @@
       "duelist": [],
       "text": "Come, Medium Piece Golem!"
     },
-    "V0202_13_00_22_0": {
+    "V0220_13_00_22_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1810,7 +1658,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Mirror Resonator!"
     },
-    "V0202_13_00_23_0": {
+    "V0220_13_00_23_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1820,7 +1668,7 @@
       "duelist": [],
       "text": "Come out, Red Warg!"
     },
-    "V0202_13_00_24_0": {
+    "V0220_13_00_24_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1830,7 +1678,7 @@
       "duelist": [],
       "text": "Here comes Red Gardna!"
     },
-    "V0202_13_00_25_0": {
+    "V0220_13_00_25_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1840,7 +1688,7 @@
       "duelist": [],
       "text": "Here's Red Sprinter!"
     },
-    "V0202_37_00_06_0": {
+    "V0220_37_00_06_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1850,7 +1698,7 @@
       "duelist": [],
       "text": "From the ancient chasms of a lost world..."
     },
-    "V0202_37_00_06_1": {
+    "V0220_37_00_06_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1858,7 +1706,7 @@
       "duelist": [],
       "text": "I awake a great and terrible power!\nSynchro Summon!"
     },
-    "V0202_13_00_26_0": {
+    "V0220_13_00_26_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -1868,7 +1716,7 @@
       "duelist": [],
       "text": "Rise, my Scarlight Red Dragon Archfiend!"
     },
-    "V0202_37_00_07_0": {
+    "V0220_37_00_07_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1878,7 +1726,7 @@
       "duelist": [],
       "text": "I double tune!"
     },
-    "V0202_37_00_07_1": {
+    "V0220_37_00_07_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1886,7 +1734,7 @@
       "duelist": [],
       "text": "I call forth an absolute power destined to rule this Duel!"
     },
-    "V0202_37_00_07_2": {
+    "V0220_37_00_07_2": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1894,7 +1742,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0202_13_00_27_0": {
+    "V0220_13_00_27_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -1904,7 +1752,7 @@
       "duelist": [],
       "text": "Bow down in terror before Tyrant Red Dragon Archfiend!"
     },
-    "V0202_13_00_28_0": {
+    "V0220_13_00_28_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -1914,7 +1762,7 @@
       "duelist": [],
       "text": "The conqueror emerges, clad in scorching armor!"
     },
-    "V0202_13_00_28_1": {
+    "V0220_13_00_28_1": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -1922,7 +1770,7 @@
       "duelist": [],
       "text": "Appear before me, Red Dragon Archfiend/Assault Mode!"
     },
-    "V0202_37_00_08_0": {
+    "V0220_37_00_08_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1932,7 +1780,7 @@
       "duelist": [],
       "text": "Witness why I am known as the true King!"
     },
-    "V0202_37_00_08_1": {
+    "V0220_37_00_08_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1940,7 +1788,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0202_13_00_29_0": {
+    "V0220_13_00_29_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -1950,7 +1798,7 @@
       "duelist": [],
       "text": "My soul! Red Dragon Archfiend!"
     },
-    "V0202_13_00_30_0": {
+    "V0220_13_00_30_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1960,7 +1808,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Red Nova!"
     },
-    "V0202_13_00_31_0": {
+    "V0220_13_00_31_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1970,7 +1818,7 @@
       "duelist": [],
       "text": "Come out!\nRed Mirror!"
     },
-    "V0202_37_00_09_0": {
+    "V0220_37_00_09_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1980,7 +1828,7 @@
       "duelist": [],
       "text": "My crimson dragon shines upon the infernal path!"
     },
-    "V0202_37_00_09_1": {
+    "V0220_37_00_09_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1988,7 +1836,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0202_13_00_32_0": {
+    "V0220_13_00_32_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -1998,7 +1846,7 @@
       "duelist": [],
       "text": "Fly, Red Rising Dragon!"
     },
-    "V0202_13_00_33_0": {
+    "V0220_13_00_33_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2008,7 +1856,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Red Resonator!"
     },
-    "V0202_37_00_10_0": {
+    "V0220_37_00_10_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2018,7 +1866,7 @@
       "duelist": [],
       "text": "Quake before the king!"
     },
-    "V0202_37_00_10_1": {
+    "V0220_37_00_10_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2026,7 +1874,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0202_13_00_34_0": {
+    "V0220_13_00_34_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2036,7 +1884,7 @@
       "duelist": [],
       "text": "Rise, Red Wyvern!"
     },
-    "V0202_37_00_11_0": {
+    "V0220_37_00_11_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2046,7 +1894,7 @@
       "duelist": [],
       "text": "The king of the dark abyss unleashes its rage!"
     },
-    "V0202_37_00_11_1": {
+    "V0220_37_00_11_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2054,7 +1902,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0202_13_00_35_0": {
+    "V0220_13_00_35_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -2064,7 +1912,7 @@
       "duelist": [],
       "text": "Hot Red Dragon Archfiend Abyss!"
     },
-    "V0202_37_00_12_0": {
+    "V0220_37_00_12_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2074,7 +1922,7 @@
       "duelist": [],
       "text": "Mountains will crumble as the land is engulfed in flames!"
     },
-    "V0202_37_00_12_1": {
+    "V0220_37_00_12_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2082,7 +1930,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0202_13_00_36_0": {
+    "V0220_13_00_36_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -2092,7 +1940,7 @@
       "duelist": [],
       "text": "Hot Red Dragon Archfiend Bane!"
     },
-    "V0202_37_00_13_0": {
+    "V0220_37_00_13_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2102,7 +1950,7 @@
       "duelist": [],
       "text": "Scorch the earth and stand at the apex of existence!"
     },
-    "V0202_37_00_13_1": {
+    "V0220_37_00_13_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2110,7 +1958,7 @@
       "duelist": [],
       "text": "Rule over all of creation!\nSynchro Summon!"
     },
-    "V0202_13_00_37_0": {
+    "V0220_13_00_37_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -2120,7 +1968,7 @@
       "duelist": [],
       "text": "Hot Red Dragon Archfiend!"
     },
-    "V0202_37_00_14_0": {
+    "V0220_37_00_14_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2130,7 +1978,7 @@
       "duelist": [],
       "text": "I double tune!"
     },
-    "V0202_37_00_14_1": {
+    "V0220_37_00_14_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2138,7 +1986,7 @@
       "duelist": [],
       "text": "The ultimate destroyer arrives to bring your demise!"
     },
-    "V0202_37_00_14_2": {
+    "V0220_37_00_14_2": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2146,7 +1994,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0202_13_00_38_0": {
+    "V0220_13_00_38_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -2156,7 +2004,7 @@
       "duelist": [],
       "text": "Hot Red Dragon Archfiend King Calamity!"
     },
-    "V0202_13_00_39_0": {
+    "V0220_13_00_39_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2166,7 +2014,7 @@
       "duelist": [],
       "text": "Come forth, Gash the Dust Lord!"
     },
-    "V0202_13_00_40_0": {
+    "V0220_13_00_40_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2176,7 +2024,7 @@
       "duelist": [],
       "text": "Come! Magical King Moonstar!"
     },
-    "V0202_13_00_41_0": {
+    "V0220_13_00_41_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2186,7 +2034,7 @@
       "duelist": [],
       "text": "The Tuner Monster arrives!\nMajestic Dragon!"
     },
-    "V0202_13_00_42_0": {
+    "V0220_13_00_42_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2196,7 +2044,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Phantom King Hydride!"
     },
-    "V0202_13_00_43_0": {
+    "V0220_13_00_43_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2206,7 +2054,7 @@
       "duelist": [],
       "text": "Here comes Absolute King Back Jack!"
     },
-    "V0202_37_00_15_0": {
+    "V0220_37_00_15_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2216,7 +2064,7 @@
       "duelist": [],
       "text": "The star of doom comes to judge all living things!"
     },
-    "V0202_37_00_15_1": {
+    "V0220_37_00_15_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2224,7 +2072,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0202_13_00_44_0": {
+    "V0220_13_00_44_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -2234,7 +2082,7 @@
       "duelist": [],
       "text": "Descend!\nDark Highlander!"
     },
-    "V0202_37_00_16_0": {
+    "V0220_37_00_16_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2244,7 +2092,7 @@
       "duelist": [],
       "text": "The lone wolf with blue eyes incinerates the heavens!"
     },
-    "V0202_37_00_16_1": {
+    "V0220_37_00_16_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2252,7 +2100,7 @@
       "duelist": [],
       "text": "Show these lapdogs who bears the fangs!\nSynchro Summon!"
     },
-    "V0202_13_00_45_0": {
+    "V0220_13_00_45_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -2262,7 +2110,7 @@
       "duelist": [],
       "text": "Celestial Wolf Lord, Blue Sirius!"
     },
-    "V0202_13_00_46_0": {
+    "V0220_13_00_46_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2272,7 +2120,7 @@
       "duelist": [],
       "text": "Come!\nWandering King Wildwind!"
     },
-    "V0202_14_00_00_0": {
+    "V0220_14_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2280,7 +2128,7 @@
       "duelist": [],
       "text": "Battle!"
     },
-    "V0202_14_00_01_0": {
+    "V0220_14_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2288,7 +2136,7 @@
       "duelist": [],
       "text": "Let's battle!"
     },
-    "V0202_15_00_00_0": {
+    "V0220_15_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2296,7 +2144,7 @@
       "duelist": [],
       "text": "Take this!"
     },
-    "V0202_15_00_01_0": {
+    "V0220_15_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2304,7 +2152,7 @@
       "duelist": [],
       "text": "Out of my way!"
     },
-    "V0202_15_00_02_0": {
+    "V0220_15_00_02_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2312,7 +2160,7 @@
       "duelist": [],
       "text": "I will annihilate you!"
     },
-    "V0202_17_00_00_0": {
+    "V0220_17_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2320,7 +2168,7 @@
       "duelist": [],
       "text": "My monster attacks!"
     },
-    "V0202_17_00_01_0": {
+    "V0220_17_00_01_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2328,7 +2176,7 @@
       "duelist": [],
       "text": "I attack!"
     },
-    "V0202_17_00_02_0": {
+    "V0220_17_00_02_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2336,15 +2184,7 @@
       "duelist": [],
       "text": "Attack!"
     },
-    "V0202_16_00_00_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Kneel before your King!"
-    },
-    "V0202_16_00_01_0": {
+    "V0220_16_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2352,7 +2192,7 @@
       "duelist": [],
       "text": "Feel the roar of the mighty!"
     },
-    "V0202_18_00_00_0": {
+    "V0220_18_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2360,7 +2200,7 @@
       "duelist": [],
       "text": "I attack you directly!"
     },
-    "V0202_18_00_01_0": {
+    "V0220_18_00_01_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2368,7 +2208,7 @@
       "duelist": [],
       "text": "Take this direct attack!"
     },
-    "V0202_19_00_00_0": {
+    "V0220_19_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2378,7 +2218,7 @@
       "duelist": [],
       "text": "Exploder Dragonwing! Attack!"
     },
-    "V0202_19_00_00_1": {
+    "V0220_19_00_00_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2386,7 +2226,7 @@
       "duelist": [],
       "text": "King Storm!"
     },
-    "V0202_19_00_01_0": {
+    "V0220_19_00_01_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2396,7 +2236,7 @@
       "duelist": [],
       "text": "My Creation Resonator attacks!"
     },
-    "V0202_19_00_02_0": {
+    "V0220_19_00_02_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2406,7 +2246,7 @@
       "duelist": [],
       "text": "Crimson Blader attacks!"
     },
-    "V0202_19_00_02_1": {
+    "V0220_19_00_02_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2414,7 +2254,7 @@
       "duelist": [],
       "text": "Red Slayer!"
     },
-    "V0202_19_00_03_0": {
+    "V0220_19_00_03_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2424,7 +2264,7 @@
       "duelist": [],
       "text": "Clock Resonator attacks!"
     },
-    "V0202_19_00_04_0": {
+    "V0220_19_00_04_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2434,7 +2274,7 @@
       "duelist": [],
       "text": "Synkron Resonator attacks!"
     },
-    "V0202_19_00_05_0": {
+    "V0220_19_00_05_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2444,7 +2284,7 @@
       "duelist": [],
       "text": "Red Nova Dragon! Attack!"
     },
-    "V0202_19_00_05_1": {
+    "V0220_19_00_05_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2452,7 +2292,7 @@
       "duelist": [],
       "text": "Blazing Soul Strike!"
     },
-    "V0202_19_00_06_0": {
+    "V0220_19_00_06_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2462,7 +2302,7 @@
       "duelist": [],
       "text": "Stardust Dragon!\nI command you to attack!"
     },
-    "V0202_19_00_07_0": {
+    "V0220_19_00_07_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2472,7 +2312,7 @@
       "duelist": [],
       "text": "Small Piece Golem attacks!"
     },
-    "V0202_19_00_08_0": {
+    "V0220_19_00_08_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2482,7 +2322,7 @@
       "duelist": [],
       "text": "Majestic Red Dragon attacks!"
     },
-    "V0202_19_00_08_1": {
+    "V0220_19_00_08_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2490,7 +2330,7 @@
       "duelist": [],
       "text": "Ultimate Powerforce!"
     },
-    "V0202_19_00_09_0": {
+    "V0220_19_00_09_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2500,7 +2340,7 @@
       "duelist": [],
       "text": "Attack, Sinister Sprocket!"
     },
-    "V0202_19_00_10_0": {
+    "V0220_19_00_10_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2510,7 +2350,7 @@
       "duelist": [],
       "text": "Attack! Dark Resonator!"
     },
-    "V0202_19_00_11_0": {
+    "V0220_19_00_11_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2520,7 +2360,7 @@
       "duelist": [],
       "text": "Double Resonator attacks!"
     },
-    "V0202_19_00_12_0": {
+    "V0220_19_00_12_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2530,7 +2370,7 @@
       "duelist": [],
       "text": "My Chain Resonator attacks!"
     },
-    "V0202_19_00_13_0": {
+    "V0220_19_00_13_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2540,7 +2380,7 @@
       "duelist": [],
       "text": "Attack, Chaos King Archfiend!"
     },
-    "V0202_19_00_14_0": {
+    "V0220_19_00_14_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2550,7 +2390,7 @@
       "duelist": [],
       "text": "Turn 'em to ash, Vice Dragon!"
     },
-    "V0202_19_00_15_0": {
+    "V0220_19_00_15_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2560,7 +2400,7 @@
       "duelist": [],
       "text": "Battle Fader! Attack!"
     },
-    "V0202_19_00_16_0": {
+    "V0220_19_00_16_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2570,7 +2410,7 @@
       "duelist": [],
       "text": "Barrier Resonator attacks!"
     },
-    "V0202_19_00_17_0": {
+    "V0220_19_00_17_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2580,7 +2420,7 @@
       "duelist": [],
       "text": "Big Piece Golem attacks!"
     },
-    "V0202_19_00_17_1": {
+    "V0220_19_00_17_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2588,7 +2428,7 @@
       "duelist": [],
       "text": "Power Pressure!"
     },
-    "V0202_19_00_18_0": {
+    "V0220_19_00_18_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2598,7 +2438,7 @@
       "duelist": [],
       "text": "Force Resonator attacks!"
     },
-    "V0202_19_00_19_0": {
+    "V0220_19_00_19_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2608,7 +2448,7 @@
       "duelist": [],
       "text": "Flare Resonator attacks!"
     },
-    "V0202_19_00_20_0": {
+    "V0220_19_00_20_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2618,7 +2458,7 @@
       "duelist": [],
       "text": "Multiple Piece Golem!\nDestroy!"
     },
-    "V0202_19_00_21_0": {
+    "V0220_19_00_21_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2628,7 +2468,7 @@
       "duelist": [],
       "text": "Attack, Medium Piece Golem!"
     },
-    "V0202_19_00_22_0": {
+    "V0220_19_00_22_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2638,7 +2478,7 @@
       "duelist": [],
       "text": "Mirror Resonator attacks!"
     },
-    "V0202_19_00_23_0": {
+    "V0220_19_00_23_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2648,7 +2488,7 @@
       "duelist": [],
       "text": "Attack, Red Warg!"
     },
-    "V0202_19_00_24_0": {
+    "V0220_19_00_24_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2658,7 +2498,7 @@
       "duelist": [],
       "text": "Red Gardna attacks!"
     },
-    "V0202_19_00_25_0": {
+    "V0220_19_00_25_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2668,7 +2508,7 @@
       "duelist": [],
       "text": "My Red Sprinter attacks!"
     },
-    "V0202_19_00_26_0": {
+    "V0220_19_00_26_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2678,7 +2518,7 @@
       "duelist": [],
       "text": "Attack, Scarlight Red Dragon Archfiend!"
     },
-    "V0202_19_00_26_1": {
+    "V0220_19_00_26_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2686,7 +2526,7 @@
       "duelist": [],
       "text": "Molten Crimson Flare!"
     },
-    "V0202_19_00_27_0": {
+    "V0220_19_00_27_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2696,7 +2536,7 @@
       "duelist": [],
       "text": "Tyrant Red Dragon Archfiend attacks!"
     },
-    "V0202_19_00_27_1": {
+    "V0220_19_00_27_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2704,7 +2544,7 @@
       "duelist": [],
       "text": "Molten Crimson Tide!"
     },
-    "V0202_19_00_28_0": {
+    "V0220_19_00_28_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2714,7 +2554,7 @@
       "duelist": [],
       "text": "Attack, Red Dragon Archfiend/Assault Mode!"
     },
-    "V0202_19_00_28_1": {
+    "V0220_19_00_28_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2722,7 +2562,7 @@
       "duelist": [],
       "text": "Extreme Crimson Force!"
     },
-    "V0202_19_00_29_0": {
+    "V0220_19_00_29_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2732,7 +2572,7 @@
       "duelist": [],
       "text": "Attack, Red Dragon Archfiend!"
     },
-    "V0202_19_00_29_1": {
+    "V0220_19_00_29_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2740,7 +2580,7 @@
       "duelist": [],
       "text": "Absolute Powerforce!"
     },
-    "V0202_19_00_30_0": {
+    "V0220_19_00_30_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2750,7 +2590,7 @@
       "duelist": [],
       "text": "Red Nova attacks!"
     },
-    "V0202_19_00_31_0": {
+    "V0220_19_00_31_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2760,7 +2600,7 @@
       "duelist": [],
       "text": "Red Mirror attacks!"
     },
-    "V0202_19_00_32_0": {
+    "V0220_19_00_32_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2770,7 +2610,7 @@
       "duelist": [],
       "text": "Red Rising Dragon attacks!"
     },
-    "V0202_19_00_33_0": {
+    "V0220_19_00_33_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2780,7 +2620,7 @@
       "duelist": [],
       "text": "Red Resonator attacks!"
     },
-    "V0202_19_00_34_0": {
+    "V0220_19_00_34_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2790,7 +2630,7 @@
       "duelist": [],
       "text": "Red Wyvern! Go!"
     },
-    "V0202_19_00_35_0": {
+    "V0220_19_00_35_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2800,7 +2640,7 @@
       "duelist": [],
       "text": "Attack, Hot Red Dragon Archfiend Abyss!"
     },
-    "V0202_19_00_35_1": {
+    "V0220_19_00_35_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2808,7 +2648,7 @@
       "duelist": [],
       "text": "Abyss Rage Buster!"
     },
-    "V0202_19_00_36_0": {
+    "V0220_19_00_36_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2818,7 +2658,7 @@
       "duelist": [],
       "text": "Attack, Hot Red Dragon Archfiend Bane!"
     },
-    "V0202_19_00_36_1": {
+    "V0220_19_00_36_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2826,7 +2666,7 @@
       "duelist": [],
       "text": "Great Summit Breaker!"
     },
-    "V0202_19_00_37_0": {
+    "V0220_19_00_37_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2836,7 +2676,7 @@
       "duelist": [],
       "text": "Attack, Hot Red Dragon Archfiend!"
     },
-    "V0202_19_00_37_1": {
+    "V0220_19_00_37_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2844,7 +2684,7 @@
       "duelist": [],
       "text": "Absolute Dogma!"
     },
-    "V0202_19_00_38_0": {
+    "V0220_19_00_38_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2854,7 +2694,7 @@
       "duelist": [],
       "text": "Hot Red Dragon Archfiend King Calamity, break their spirit!"
     },
-    "V0202_19_00_38_1": {
+    "V0220_19_00_38_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2862,7 +2702,7 @@
       "duelist": [],
       "text": "Crimson Absolute Breaker!"
     },
-    "V0202_19_00_39_0": {
+    "V0220_19_00_39_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2872,7 +2712,7 @@
       "duelist": [],
       "text": "Gash the Dust Lord attacks!"
     },
-    "V0202_19_00_40_0": {
+    "V0220_19_00_40_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2882,7 +2722,7 @@
       "duelist": [],
       "text": "Magical King Moonstar! Attack!"
     },
-    "V0202_19_00_40_1": {
+    "V0220_19_00_40_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2890,7 +2730,7 @@
       "duelist": [],
       "text": "Star Flash!"
     },
-    "V0202_19_00_41_0": {
+    "V0220_19_00_41_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2900,7 +2740,7 @@
       "duelist": [],
       "text": "Majestic Dragon attacks!"
     },
-    "V0202_19_00_42_0": {
+    "V0220_19_00_42_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2910,7 +2750,7 @@
       "duelist": [],
       "text": "Attack, Phantom King Hydride!"
     },
-    "V0202_19_00_43_0": {
+    "V0220_19_00_43_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2920,7 +2760,7 @@
       "duelist": [],
       "text": "Absolute King Back Jack attacks!"
     },
-    "V0202_19_00_44_0": {
+    "V0220_19_00_44_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2930,7 +2770,7 @@
       "duelist": [],
       "text": "Dark Highlander!\nUnleash your judgment!"
     },
-    "V0202_19_00_44_1": {
+    "V0220_19_00_44_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2938,7 +2778,7 @@
       "duelist": [],
       "text": "Polar Slash!"
     },
-    "V0202_19_00_45_0": {
+    "V0220_19_00_45_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2948,7 +2788,7 @@
       "duelist": [],
       "text": "Celestial Wolf Lord, Blue Sirius attacks!"
     },
-    "V0202_19_00_45_1": {
+    "V0220_19_00_45_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2956,7 +2796,7 @@
       "duelist": [],
       "text": "Wolf's Fang!"
     },
-    "V0202_19_00_46_0": {
+    "V0220_19_00_46_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -2966,7 +2806,7 @@
       "duelist": [],
       "text": "Wandering King Wildwind attacks!"
     },
-    "V0202_20_00_00_0": {
+    "V0220_20_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2974,7 +2814,7 @@
       "duelist": [],
       "text": "I Set a card."
     },
-    "V0202_20_00_01_0": {
+    "V0220_20_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2982,7 +2822,7 @@
       "duelist": [],
       "text": "I'm Setting a card."
     },
-    "V0202_20_01_00_0": {
+    "V0220_20_01_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2990,7 +2830,7 @@
       "duelist": [],
       "text": "I Set a monster."
     },
-    "V0202_20_01_01_0": {
+    "V0220_20_01_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -2998,7 +2838,7 @@
       "duelist": [],
       "text": "I'm Setting a monster."
     },
-    "V0202_21_00_00_0": {
+    "V0220_21_00_00_0": {
       "face": 3,
       "frame": 0,
       "cutin": 0,
@@ -3006,7 +2846,7 @@
       "duelist": [],
       "text": "I end my turn!"
     },
-    "V0202_21_00_00_1": {
+    "V0220_21_00_00_1": {
       "face": 3,
       "frame": 0,
       "cutin": 0,
@@ -3014,7 +2854,7 @@
       "duelist": [],
       "text": "There's no escape route for you, except giving up!"
     },
-    "V0202_21_00_01_0": {
+    "V0220_21_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3022,7 +2862,7 @@
       "duelist": [],
       "text": "I end my turn."
     },
-    "V0202_21_00_01_1": {
+    "V0220_21_00_01_1": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3030,7 +2870,7 @@
       "duelist": [],
       "text": "Go ahead. Attack me!"
     },
-    "V0202_21_00_02_0": {
+    "V0220_21_00_02_0": {
       "face": 5,
       "frame": 0,
       "cutin": 0,
@@ -3038,7 +2878,7 @@
       "duelist": [],
       "text": "You dare leave me in the dust?"
     },
-    "V0202_21_00_02_1": {
+    "V0220_21_00_02_1": {
       "face": 5,
       "frame": 0,
       "cutin": 0,
@@ -3046,335 +2886,7 @@
       "duelist": [],
       "text": "I end my turn!"
     },
-    "V0202_28_00_00_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "There's only one Master of Faster! And that's me!"
-    },
-    "V0202_28_00_01_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "You've had your fun, but it's time for my victory lap!"
-    },
-    "V0202_28_00_02_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "With every Duel, my techniques are getting more powerful!"
-    },
-    "V0202_28_00_02_1": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "And one step closer to a perfect Duel!"
-    },
-    "V0202_28_00_03_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I'll Duel until my fire is extinguished!\nWhich is never!"
-    },
-    "V0202_28_00_04_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        201,
-        219
-      ],
-      "text": "Yusei!\nOnly I rule the Duel!\nAs the one true King!"
-    },
-    "V0202_28_00_05_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        203,
-        204,
-        205,
-        206,
-        209,
-        221
-      ],
-      "text": "I want to test my skills on the world stage!"
-    },
-    "V0202_28_00_05_1": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "And I'll defeat anyone who stands in my way!\nEven Team 5D's!"
-    },
-    "V0202_28_00_06_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        214
-      ],
-      "text": "Tell your editor to leave the front page open!"
-    },
-    "V0202_28_00_06_1": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "For a full-page spread on the Master of Faster, Jack Atlas!"
-    },
-    "V0202_28_00_07_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        210,
-        231
-      ],
-      "text": "You have to remember, Carly!"
-    },
-    "V0202_28_00_07_1": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "This dark scourge isn't you!"
-    },
-    "V0202_28_00_08_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        213,
-        222
-      ],
-      "text": "You're a mere speed bump on my way to my true opponent!"
-    },
-    "V0202_28_00_09_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        208,
-        211,
-        9058,
-        9059,
-        9061,
-        9062
-      ],
-      "text": "Earthbound Immortals are nothing against the true King!"
-    },
-    "V0202_29_00_00_0": {
-      "face": 5,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "This defeat isn't enough to break my Dueling spirit!"
-    },
-    "V0202_29_00_01_0": {
-      "face": 5,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Humph!\nI won't lose next time!"
-    },
-    "V0202_29_00_01_1": {
-      "face": 5,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I know what true power is, and I'll use it to crush you!"
-    },
-    "V0202_29_00_02_0": {
-      "face": 5,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "There never was a King... until I showed up!"
-    },
-    "V0202_29_00_02_1": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "So don't follow in my footsteps!\nCreate your own path!"
-    },
-    "V0202_29_00_03_0": {
-      "face": 5,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I won't give up on my power Dueling style!"
-    },
-    "V0202_29_00_03_1": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "It's the only way I know how to fight!"
-    },
-    "V0202_29_00_04_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        201,
-        219
-      ],
-      "text": "So this is the bond you have with your monsters..."
-    },
-    "V0202_29_00_04_1": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "You've woken something new inside me, Yusei!"
-    },
-    "V0202_29_00_05_0": {
-      "face": 7,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        203,
-        204,
-        206,
-        209,
-        221
-      ],
-      "text": "Seems you've given me a reason to come back here."
-    },
-    "V0202_29_00_05_1": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I'll win next time.\nHumph!"
-    },
-    "V0202_29_00_06_0": {
-      "face": 5,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        205
-      ],
-      "text": "Argh... Leo!\nDon't you dare think you're better than me!"
-    },
-    "V0202_29_00_06_1": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Not even for a moment!\nGot it?"
-    },
-    "V0202_29_00_07_0": {
-      "face": 7,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        214
-      ],
-      "text": "You say that as the King, I must now treat you as my queen?"
-    },
-    "V0202_29_00_07_1": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "......No, I can't do that!\nStop trying to trick me!"
-    },
-    "V0202_29_00_08_0": {
-      "face": 5,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        210,
-        231
-      ],
-      "text": "No... This can't be...\nFrom the depths of my heart..."
-    },
-    "V0202_29_00_08_1": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I'll find a way to save you yet..."
-    },
-    "V0202_29_00_09_0": {
-      "face": 5,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        208,
-        211,
-        9058,
-        9059,
-        9061,
-        9062
-      ],
-      "text": "This won't go unforgiven, Dark Signer!"
-    },
-    "V0202_30_00_00_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "There's only one King! And you're looking at him!"
-    },
-    "V0202_30_00_01_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Kneel before your King!"
-    },
-    "V0202_30_00_02_0": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "The King never lets an opportunity pass!"
-    },
-    "V0202_31_00_00_0": {
+    "V0220_31_00_00_0": {
       "face": 4,
       "frame": 1,
       "cutin": 0,
@@ -3382,7 +2894,7 @@
       "duelist": [],
       "text": "What!"
     },
-    "V0202_31_00_01_0": {
+    "V0220_31_00_01_0": {
       "face": 8,
       "frame": 1,
       "cutin": 0,
@@ -3390,143 +2902,7 @@
       "duelist": [],
       "text": "Impossible!"
     },
-    "V0202_33_00_00_0": {
-      "face": 3,
-      "frame": 1,
-      "cutin": 1,
-      "card": [],
-      "duelist": [],
-      "text": "Feel the fury of my soul!"
-    },
-    "V0202_33_00_01_0": {
-      "face": 3,
-      "frame": 1,
-      "cutin": 1,
-      "card": [],
-      "duelist": [],
-      "text": "There's only one way to Duel... and it's with power!"
-    },
-    "V0202_33_00_02_0": {
-      "face": 3,
-      "frame": 1,
-      "cutin": 1,
-      "card": [],
-      "duelist": [],
-      "text": "My soul burns!"
-    },
-    "V0202_34_00_00_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Only a fool doesn't comprehend my greatness."
-    },
-    "V0202_34_00_01_0": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I escape every scrape to energize the crowd!"
-    },
-    "V0202_34_00_02_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "I feel my soul raging with power!"
-    },
-    "V0202_34_00_03_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Never forget that the King is always three steps ahead!"
-    },
-    "V0202_34_00_04_0": {
-      "face": 2,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Can you keep up with the Master of Faster?"
-    },
-    "V0202_34_00_05_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "While you play, I master!"
-    },
-    "V0202_34_00_06_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "The King's Duel must always entertain!"
-    },
-    "V0202_34_00_07_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Well done."
-    },
-    "V0202_34_00_08_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Duel with your own style instead of copying others!"
-    },
-    "V0202_34_00_09_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Ready... Set... Duel!"
-    },
-    "V0202_32_00_00_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Yu-Gi-Oh! Duel Links"
-    },
-    "V0202_32_00_01_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Yu-Gi-Oh! Duel Links!\nLet's ride!"
-    },
-    "V0202_35_00_00_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Witness the King!\nJack Atlas!"
-    },
-    "V0202_35_00_01_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "This Duel's about to hit the fast lane with Jack Atlas!"
-    },
-    "V0202_36_00_00_0": {
+    "V0220_36_00_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3534,7 +2910,7 @@
       "duelist": [],
       "text": "Let them know that this Duel is over!"
     },
-    "V0202_36_00_01_0": {
+    "V0220_36_00_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3542,7 +2918,7 @@
       "duelist": [],
       "text": "You take care of this."
     },
-    "V0202_36_00_02_0": {
+    "V0220_36_00_02_0": {
       "face": 5,
       "frame": 0,
       "cutin": 0,
@@ -3550,82 +2926,7 @@
       "duelist": [],
       "text": "I leave my fate to you!"
     },
-    "V0202_36_00_03_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        201,
-        219
-      ],
-      "text": "End this Duel, Yusei!"
-    },
-    "V0202_36_00_04_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        201,
-        219
-      ],
-      "text": "You handle this, Yusei!"
-    },
-    "V0202_36_00_05_0": {
-      "face": 5,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        201,
-        219
-      ],
-      "text": "Yusei... I leave the rest... to you..."
-    },
-    "V0202_36_00_06_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        203,
-        204,
-        205,
-        206,
-        209
-      ],
-      "text": "Go!\nShow 'em the strength of Team 5D's!"
-    },
-    "V0202_36_00_07_0": {
-      "face": 1,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        203,
-        204,
-        205,
-        206,
-        209
-      ],
-      "text": "Get gritty!\nRemember - we fight together!"
-    },
-    "V0202_36_00_08_0": {
-      "face": 5,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [
-        203,
-        204,
-        205,
-        206,
-        209
-      ],
-      "text": "Don't give up!\nI believe in you!"
-    },
-    "V0202_22_00_00_0": {
+    "V0220_22_00_00_0": {
       "face": 4,
       "frame": 0,
       "cutin": 0,
@@ -3633,7 +2934,7 @@
       "duelist": [],
       "text": "Oof!"
     },
-    "V0202_22_00_01_0": {
+    "V0220_22_00_01_0": {
       "face": 4,
       "frame": 0,
       "cutin": 0,
@@ -3641,7 +2942,7 @@
       "duelist": [],
       "text": "Ergh!"
     },
-    "V0202_22_00_02_0": {
+    "V0220_22_00_02_0": {
       "face": 4,
       "frame": 0,
       "cutin": 0,
@@ -3649,7 +2950,7 @@
       "duelist": [],
       "text": "Humph!"
     },
-    "V0202_26_00_00_0": {
+    "V0220_26_00_00_0": {
       "face": 3,
       "frame": 0,
       "cutin": 0,
@@ -3657,7 +2958,7 @@
       "duelist": [],
       "text": "......Humph."
     },
-    "V0202_26_00_01_0": {
+    "V0220_26_00_01_0": {
       "face": 3,
       "frame": 0,
       "cutin": 0,
@@ -3665,7 +2966,7 @@
       "duelist": [],
       "text": "You think you're so smart!"
     },
-    "V0202_26_00_02_0": {
+    "V0220_26_00_02_0": {
       "face": 3,
       "frame": 0,
       "cutin": 0,
@@ -3673,7 +2974,7 @@
       "duelist": [],
       "text": "That's the best you got?"
     },
-    "V0202_25_00_00_0": {
+    "V0220_25_00_00_0": {
       "face": 8,
       "frame": 1,
       "cutin": 0,
@@ -3681,7 +2982,7 @@
       "duelist": [],
       "text": "Aaaaah!"
     },
-    "V0202_25_00_01_0": {
+    "V0220_25_00_01_0": {
       "face": 8,
       "frame": 1,
       "cutin": 0,
@@ -3689,7 +2990,7 @@
       "duelist": [],
       "text": "Urghhh!"
     },
-    "V0202_25_00_02_0": {
+    "V0220_25_00_02_0": {
       "face": 8,
       "frame": 1,
       "cutin": 0,
@@ -3697,7 +2998,7 @@
       "duelist": [],
       "text": "Grrrr!"
     },
-    "V0202_27_00_00_0": {
+    "V0220_27_00_00_0": {
       "face": 5,
       "frame": 0,
       "cutin": 0,
@@ -3705,7 +3006,7 @@
       "duelist": [],
       "text": "How dare you!"
     },
-    "V0202_27_00_01_0": {
+    "V0220_27_00_01_0": {
       "face": 5,
       "frame": 0,
       "cutin": 0,
@@ -3713,7 +3014,7 @@
       "duelist": [],
       "text": "I can take this..."
     },
-    "V0202_27_00_02_0": {
+    "V0220_27_00_02_0": {
       "face": 5,
       "frame": 0,
       "cutin": 0,
@@ -3721,7 +3022,7 @@
       "duelist": [],
       "text": "I... won't give up!"
     },
-    "V0202_24_00_00_0": {
+    "V0220_24_00_00_0": {
       "face": 5,
       "frame": 0,
       "cutin": 0,
@@ -3729,7 +3030,7 @@
       "duelist": [],
       "text": "Grr......"
     },
-    "V0202_23_00_00_0": {
+    "V0220_23_00_00_0": {
       "face": 8,
       "frame": 1,
       "cutin": 3,
@@ -3737,7 +3038,7 @@
       "duelist": [],
       "text": "Ahhhhhhhhhh!"
     },
-    "V0202_38_00_00_0": {
+    "V0220_38_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3745,7 +3046,59 @@
       "duelist": [],
       "text": "Ready... Set... Duel!"
     },
-    "V0202_07_14_00_0": {
+    "V0220_01_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "The Enforcers!\nLet's go!"
+    },
+    "V0220_01_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "The Enforcers rule the Duel!"
+    },
+    "V0220_01_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "If you were looking for a fight, you found one!"
+    },
+    "V0220_01_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Time to do some enforcing!"
+    },
+    "V0220_01_00_04_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        219,
+        221,
+        222
+      ],
+      "text": "I refuse to go easy on anyone!\nNot even my allies!"
+    },
+    "V0220_02_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Duel!"
+    },
+    "V0220_07_14_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3753,7 +3106,7 @@
       "duelist": [],
       "text": "I activate a Pendulum Effect!"
     },
-    "V0202_07_15_00_0": {
+    "V0220_07_15_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3761,7 +3114,7 @@
       "duelist": [],
       "text": "I activate a Ritual Spell!"
     },
-    "V0202_11_04_01_0": {
+    "V0220_11_04_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3769,7 +3122,7 @@
       "duelist": [],
       "text": "Tribute Summon!"
     },
-    "V0202_11_05_01_0": {
+    "V0220_11_05_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3777,7 +3130,7 @@
       "duelist": [],
       "text": "Fusion Summon!"
     },
-    "V0202_11_06_01_0": {
+    "V0220_11_06_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3785,7 +3138,7 @@
       "duelist": [],
       "text": "Ritual Summon!"
     },
-    "V0202_11_07_01_0": {
+    "V0220_11_07_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3793,7 +3146,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0202_11_08_01_0": {
+    "V0220_11_08_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3801,7 +3154,7 @@
       "duelist": [],
       "text": "Xyz Summon!"
     },
-    "V0202_11_09_01_0": {
+    "V0220_11_09_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3809,7 +3162,7 @@
       "duelist": [],
       "text": "Pendulum Summon!"
     },
-    "V0202_11_10_01_0": {
+    "V0220_11_10_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3817,7 +3170,7 @@
       "duelist": [],
       "text": "Link Summon!"
     },
-    "V0202_11_11_00_0": {
+    "V0220_11_11_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3825,7 +3178,7 @@
       "duelist": [],
       "text": "I Maximum Summon a monster!"
     },
-    "V0202_11_11_01_0": {
+    "V0220_11_11_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3833,7 +3186,7 @@
       "duelist": [],
       "text": "Maximum Summon!"
     },
-    "V0202_11_12_00_0": {
+    "V0220_11_12_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3841,7 +3194,7 @@
       "duelist": [],
       "text": "I Fusion Summon a monster!"
     },
-    "V0202_11_12_01_0": {
+    "V0220_11_12_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3849,7 +3202,7 @@
       "duelist": [],
       "text": "Fusion Summon!"
     },
-    "V0202_11_13_00_0": {
+    "V0220_11_13_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3857,7 +3210,7 @@
       "duelist": [],
       "text": "I Contact Fusion a monster!"
     },
-    "V0202_11_13_01_0": {
+    "V0220_11_13_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3865,7 +3218,7 @@
       "duelist": [],
       "text": "Contact Fusion!"
     },
-    "V0202_11_14_00_0": {
+    "V0220_11_14_00_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3873,7 +3226,7 @@
       "duelist": [],
       "text": "I Ritual Summon a monster!"
     },
-    "V0202_11_14_01_0": {
+    "V0220_11_14_01_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3881,7 +3234,15 @@
       "duelist": [],
       "text": "Ritual Summon!"
     },
-    "V0202_21_00_03_0": {
+    "V0220_16_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Kneel before The Enforcers!"
+    },
+    "V0220_21_00_03_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3889,7 +3250,7 @@
       "duelist": [],
       "text": "I'll finish you soon enough!"
     },
-    "V0202_21_00_03_1": {
+    "V0220_21_00_03_1": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3897,7 +3258,7 @@
       "duelist": [],
       "text": "I end my turn!"
     },
-    "V0202_21_00_04_0": {
+    "V0220_21_00_04_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
@@ -3905,7 +3266,7 @@
       "duelist": [],
       "text": "That ends my turn!"
     },
-    "V0202_21_00_05_0": {
+    "V0220_21_00_05_0": {
       "face": 5,
       "frame": 0,
       "cutin": 0,
@@ -3913,7 +3274,7 @@
       "duelist": [],
       "text": "I will not yield!"
     },
-    "V0202_21_00_05_1": {
+    "V0220_21_00_05_1": {
       "face": 5,
       "frame": 0,
       "cutin": 0,
@@ -3921,66 +3282,223 @@
       "duelist": [],
       "text": "I end my turn!"
     },
-    "V0202_34_00_10_0": {
-      "face": 3,
+    "V0220_28_00_00_0": {
+      "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "If you don't act right, I'll make you act right."
+      "text": "This district now belongs to The Enforcers!"
     },
-    "V0202_34_00_11_0": {
-      "face": 10,
+    "V0220_28_00_01_0": {
+      "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "If anyone deserves credit, it's me."
+      "text": "These ruffians will trouble us no more."
     },
-    "V0202_34_00_12_0": {
-      "face": 3,
+    "V0220_28_00_02_0": {
+      "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "You will pay for stealing my noodles!"
+      "text": "Be glad that the only thing you lost was your Duel Disk."
     },
-    "V0202_34_00_13_0": {
-      "face": 8,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Wait! This was an accident!"
-    },
-    "V0202_34_00_14_0": {
-      "face": 7,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "The sweet aroma of Blue-Eyes Roast. Nothing better!"
-    },
-    "V0202_34_00_15_0": {
-      "face": 3,
-      "frame": 0,
-      "cutin": 0,
-      "card": [],
-      "duelist": [],
-      "text": "Jobs aren't my thing. They're just so much work, you know?"
-    },
-    "V0202_36_00_11_0": {
+    "V0220_28_00_03_0": {
       "face": 1,
       "frame": 0,
       "cutin": 0,
       "card": [],
       "duelist": [
-        213,
+        219,
+        221,
         222
       ],
-      "text": "Go, Kalin!"
+      "text": "If you think that's good enough to rule, keep dreaming."
     },
-    "V0202_08_00_38_0": {
+    "V0220_29_00_00_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Argh...\nHow could we fail..."
+    },
+    "V0220_29_00_01_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "We won't be crushed like this...!"
+    },
+    "V0220_29_00_02_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I must hold on to whatever hope I have..."
+    },
+    "V0220_29_00_03_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        219,
+        221,
+        222
+      ],
+      "text": "Heh... Not bad!"
+    },
+    "V0220_33_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Witness the power of The Enforcers!"
+    },
+    "V0220_33_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "I'm the one who will conquer this Duel!"
+    },
+    "V0220_33_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Allow me to express my gratitude!"
+    },
+    "V0220_34_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Thank you for taking care of my friend."
+    },
+    "V0220_34_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "We were worried about him."
+    },
+    "V0220_34_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Please allow me to express my heartfelt gratitude!"
+    },
+    "V0220_34_00_03_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "In order to survive, you had to find friends and lay low."
+    },
+    "V0220_34_00_04_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Back then, I had Yusei and Crow... and Kalin."
+    },
+    "V0220_34_00_05_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "When I was growing up, Satellite was a rough place."
+    },
+    "V0220_34_00_06_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Kalin inspired us. He taught us to believe in ourselves."
+    },
+    "V0220_34_00_07_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Without Kalin, I don't know where I'd be today."
+    },
+    "V0220_34_00_08_0": {
+      "face": 4,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Get real and wake up!"
+    },
+    "V0220_34_00_09_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "You and I are no longer on the same page."
+    },
+    "V0220_35_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Nothing's more satisfying than ruling the Duel!"
+    },
+    "V0220_35_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "We're The Enforcers!"
+    },
+    "V0220_36_00_09_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        219,
+        221,
+        222
+      ],
+      "text": "Show 'em what The Enforcers can do!"
+    },
+    "V0220_36_00_10_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        219,
+        221,
+        222
+      ],
+      "text": "Don't let our dreams come to an end!"
+    },
+    "V0220_08_00_38_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -3990,7 +3508,7 @@
       "duelist": [],
       "text": "I activate my Quick-Play Spell!\nResonator Command!"
     },
-    "V0202_08_00_39_0": {
+    "V0220_08_00_39_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4000,7 +3518,7 @@
       "duelist": [],
       "text": "I activate the Spell Card, Crimson Call!"
     },
-    "V0202_08_00_40_0": {
+    "V0220_08_00_40_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4010,7 +3528,7 @@
       "duelist": [],
       "text": "I banish Crimson Call from my Graveyard to use its effect!"
     },
-    "V0202_08_00_41_0": {
+    "V0220_08_00_41_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4020,7 +3538,7 @@
       "duelist": [],
       "text": "I activate my Continuous Spell!\nCrimson Gaia!"
     },
-    "V0202_08_00_42_0": {
+    "V0220_08_00_42_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4030,7 +3548,7 @@
       "duelist": [],
       "text": "Crimson Gaia's effect activates!"
     },
-    "V0202_08_00_43_0": {
+    "V0220_08_00_43_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4040,7 +3558,7 @@
       "duelist": [],
       "text": "I activate the Quick-Play Spell, Absolute Powerforce!"
     },
-    "V0202_08_00_44_0": {
+    "V0220_08_00_44_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4050,7 +3568,7 @@
       "duelist": [],
       "text": "I activate my Equip Spell!\nSoul Fist!"
     },
-    "V0202_08_00_45_0": {
+    "V0220_08_00_45_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4060,7 +3578,7 @@
       "duelist": [],
       "text": "I activate Soul Fist's effect!"
     },
-    "V0202_08_00_46_0": {
+    "V0220_08_00_46_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4070,7 +3588,7 @@
       "duelist": [],
       "text": "I activate the Quick-Play Spell, Burning Soul!"
     },
-    "V0202_08_00_47_0": {
+    "V0220_08_00_47_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4080,7 +3598,7 @@
       "duelist": [],
       "text": "I activate my Field Spell!\nDuel Evolution - Assault Zone!"
     },
-    "V0202_08_00_48_0": {
+    "V0220_08_00_48_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4090,7 +3608,7 @@
       "duelist": [],
       "text": "Duel Evolution - Assault Zone's effect activates!"
     },
-    "V0202_08_00_49_0": {
+    "V0220_08_00_49_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4100,7 +3618,7 @@
       "duelist": [],
       "text": "I activate my Spell Card!\nSynchro Rumble!"
     },
-    "V0202_08_00_50_0": {
+    "V0220_08_00_50_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4110,7 +3628,7 @@
       "duelist": [],
       "text": "I activate my Spell Card!\nOver Tuning!"
     },
-    "V0202_08_00_51_0": {
+    "V0220_08_00_51_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4120,7 +3638,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nTime to Stand Up!"
     },
-    "V0202_08_00_52_0": {
+    "V0220_08_00_52_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4130,7 +3648,7 @@
       "duelist": [],
       "text": "I banish Time to Stand Up from my Graveyard to activate it!"
     },
-    "V0202_08_00_53_0": {
+    "V0220_08_00_53_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4140,7 +3658,7 @@
       "duelist": [],
       "text": "I activate my Trap Card!\nChampion's Pulse!"
     },
-    "V0202_08_00_54_0": {
+    "V0220_08_00_54_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4150,7 +3668,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nKing's Resonance!"
     },
-    "V0202_08_00_55_0": {
+    "V0220_08_00_55_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4160,7 +3678,7 @@
       "duelist": [],
       "text": "I activate my Continuous Trap!\nRed Zone!"
     },
-    "V0202_08_00_56_0": {
+    "V0220_08_00_56_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4170,7 +3688,7 @@
       "duelist": [],
       "text": "Red Zone's effect activates!"
     },
-    "V0202_08_00_57_0": {
+    "V0220_08_00_57_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4180,7 +3698,7 @@
       "duelist": [],
       "text": "I activate the Trap, Red Reign!"
     },
-    "V0202_08_00_58_0": {
+    "V0220_08_00_58_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4190,7 +3708,7 @@
       "duelist": [],
       "text": "I activate Red Reign from my Graveyard!"
     },
-    "V0202_08_00_59_0": {
+    "V0220_08_00_59_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4200,7 +3718,7 @@
       "duelist": [],
       "text": "I activate my Trap!\nFiendish Golem!"
     },
-    "V0202_08_00_60_0": {
+    "V0220_08_00_60_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4210,7 +3728,7 @@
       "duelist": [],
       "text": "I activate my Quick-Play Spell!\nAssault Mode Zero!"
     },
-    "V0202_08_00_61_0": {
+    "V0220_08_00_61_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4220,7 +3738,7 @@
       "duelist": [],
       "text": "I banish Assault Mode Zero from my Graveyard to activate it!"
     },
-    "V0202_08_00_62_0": {
+    "V0220_08_00_62_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4230,7 +3748,7 @@
       "duelist": [],
       "text": "I activate my Trap, Assault Reboot!"
     },
-    "V0202_08_00_63_0": {
+    "V0220_08_00_63_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4240,7 +3758,7 @@
       "duelist": [],
       "text": "I banish Assault Reboot from my Graveyard to use its effect!"
     },
-    "V0202_09_00_45_0": {
+    "V0220_09_00_45_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4250,7 +3768,7 @@
       "duelist": [],
       "text": "Special Summoning Crimson Dragon lets me use its effect!"
     },
-    "V0202_09_00_46_0": {
+    "V0220_09_00_46_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4260,7 +3778,7 @@
       "duelist": [],
       "text": "Crimson Dragon activates its effect!"
     },
-    "V0202_09_00_47_0": {
+    "V0220_09_00_47_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4270,7 +3788,7 @@
       "duelist": [],
       "text": "I activate Earthbound Immortal Red Nova's effect!"
     },
-    "V0202_09_00_48_0": {
+    "V0220_09_00_48_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4280,7 +3798,7 @@
       "duelist": [],
       "text": "Red Supernova Dragon activates its effect!"
     },
-    "V0202_09_00_49_0": {
+    "V0220_09_00_49_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4290,7 +3808,7 @@
       "duelist": [],
       "text": "When Red Supernova Dragon is banished, its effect activates!"
     },
-    "V0202_09_00_50_0": {
+    "V0220_09_00_50_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4300,7 +3818,7 @@
       "duelist": [],
       "text": "I activate Red Hypernova Dragon's effect!"
     },
-    "V0202_09_00_51_0": {
+    "V0220_09_00_51_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4310,7 +3828,7 @@
       "duelist": [],
       "text": "Scarred Dragon Archfiend activates its effect!"
     },
-    "V0202_09_00_52_0": {
+    "V0220_09_00_52_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4320,7 +3838,7 @@
       "duelist": [],
       "text": "By Synchro Summoning The Crimson King, I can use its effect!"
     },
-    "V0202_09_00_53_0": {
+    "V0220_09_00_53_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4330,7 +3848,7 @@
       "duelist": [],
       "text": "I activate The Crimson King's effect!"
     },
-    "V0202_09_00_54_0": {
+    "V0220_09_00_54_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4340,7 +3858,7 @@
       "duelist": [],
       "text": "Synchro Summoning Crimson Blade Dragon allows me to do this!"
     },
-    "V0202_09_00_55_0": {
+    "V0220_09_00_55_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4350,7 +3868,7 @@
       "duelist": [],
       "text": "Now for Crimson Blade Dragon's effect!"
     },
-    "V0202_09_00_56_0": {
+    "V0220_09_00_56_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4360,7 +3878,7 @@
       "duelist": [],
       "text": "I banish Red Nova Dragon/Assault Mode until the End Phase!"
     },
-    "V0202_09_00_57_0": {
+    "V0220_09_00_57_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4370,7 +3888,7 @@
       "duelist": [],
       "text": "Red Nova Dragon/Assault Mode activates when it's destroyed!"
     },
-    "V0202_09_00_58_0": {
+    "V0220_09_00_58_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4380,7 +3898,7 @@
       "duelist": [],
       "text": "Crimson Blader/Assault Mode's effect activates from my hand!"
     },
-    "V0202_09_00_59_0": {
+    "V0220_09_00_59_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4390,7 +3908,7 @@
       "duelist": [],
       "text": "Destroying Crimson Blader/Assault Mode activates its effect!"
     },
-    "V0202_09_00_60_0": {
+    "V0220_09_00_60_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4400,7 +3918,7 @@
       "duelist": [],
       "text": "Since I Tributed a Dragon, Strong Wind Dragon gains ATK!"
     },
-    "V0202_09_00_61_0": {
+    "V0220_09_00_61_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4410,7 +3928,7 @@
       "duelist": [],
       "text": "Power Vice Dragon's effect activates from my hand!"
     },
-    "V0202_09_00_62_0": {
+    "V0220_09_00_62_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4420,7 +3938,7 @@
       "duelist": [],
       "text": "Special Summoning Power Vice Dragon lets me use its effect!"
     },
-    "V0202_09_00_63_0": {
+    "V0220_09_00_63_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4430,7 +3948,7 @@
       "duelist": [],
       "text": "When I have a Fiend-Type Tuner, I can Special Summon this!"
     },
-    "V0202_09_00_64_0": {
+    "V0220_09_00_64_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4440,7 +3958,7 @@
       "duelist": [],
       "text": "Special Summoning Fiend Piece Golem lets me use its effect!"
     },
-    "V0202_09_00_65_0": {
+    "V0220_09_00_65_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4450,7 +3968,7 @@
       "duelist": [],
       "text": "I sent Fiend Piece Golem to the Graveyard to Synchro Summon!"
     },
-    "V0202_09_00_66_0": {
+    "V0220_09_00_66_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4460,7 +3978,7 @@
       "duelist": [],
       "text": "Archfiend Interceptor activates its effect!"
     },
-    "V0202_09_00_67_0": {
+    "V0220_09_00_67_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4470,7 +3988,7 @@
       "duelist": [],
       "text": "Destroying Twin-Shield Defender activates its effect!"
     },
-    "V0202_09_00_68_0": {
+    "V0220_09_00_68_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4480,7 +3998,7 @@
       "duelist": [],
       "text": "Using Vice Berserker to Synchro Summon activates its effect!"
     },
-    "V0202_09_00_69_0": {
+    "V0220_09_00_69_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4490,7 +4008,7 @@
       "duelist": [],
       "text": "Power Breaker's effect activates when it's destroyed!"
     },
-    "V0202_09_00_70_0": {
+    "V0220_09_00_70_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4500,7 +4018,7 @@
       "duelist": [],
       "text": "When Mad Archfiend is attacked, it switches to Defense!"
     },
-    "V0202_09_00_71_0": {
+    "V0220_09_00_71_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4510,7 +4028,7 @@
       "duelist": [],
       "text": "Lancer Archfiend activates its effect!"
     },
-    "V0202_09_00_72_0": {
+    "V0220_09_00_72_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4520,7 +4038,7 @@
       "duelist": [],
       "text": "Ogre of the Scarlet Sorrow's effect activates from my hand!"
     },
-    "V0202_09_00_73_0": {
+    "V0220_09_00_73_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4530,7 +4048,7 @@
       "duelist": [],
       "text": "Since my Ogre Special Summoned itself, its effect activates!"
     },
-    "V0202_09_00_74_0": {
+    "V0220_09_00_74_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4540,7 +4058,7 @@
       "duelist": [],
       "text": "Bone Archfiend can activate from the hand or Graveyard!"
     },
-    "V0202_09_00_75_0": {
+    "V0220_09_00_75_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4550,7 +4068,7 @@
       "duelist": [],
       "text": "I activate Bone Archfiend's effect!"
     },
-    "V0202_09_00_76_0": {
+    "V0220_09_00_76_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4560,7 +4078,7 @@
       "duelist": [],
       "text": "I activate Red Familiar's effect!"
     },
-    "V0202_09_00_77_0": {
+    "V0220_09_00_77_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4570,7 +4088,7 @@
       "duelist": [],
       "text": "I banish Red Familiar from the Graveyard to use its effect!"
     },
-    "V0202_09_00_78_0": {
+    "V0220_09_00_78_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4580,7 +4098,7 @@
       "duelist": [],
       "text": "I play Red Lotus King, Flame Crime's effect from my hand!"
     },
-    "V0202_09_00_79_0": {
+    "V0220_09_00_79_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4590,7 +4108,7 @@
       "duelist": [],
       "text": "By Special Summoning Flame Crime, I can activate its effect!"
     },
-    "V0202_09_00_79_1": {
+    "V0220_09_00_79_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4598,7 +4116,7 @@
       "duelist": [],
       "text": "Flame Stream!"
     },
-    "V0202_09_00_80_0": {
+    "V0220_09_00_80_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4608,7 +4126,7 @@
       "duelist": [],
       "text": "Flame Crime activates when it's used to Synchro Summon!"
     },
-    "V0202_09_00_81_0": {
+    "V0220_09_00_81_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4618,7 +4136,7 @@
       "duelist": [],
       "text": "When I have a Fiend-Type Tuner, I can Special Summon this!"
     },
-    "V0202_09_00_82_0": {
+    "V0220_09_00_82_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4628,7 +4146,7 @@
       "duelist": [],
       "text": "Doom Burst activates its effect!"
     },
-    "V0202_09_00_83_0": {
+    "V0220_09_00_83_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4638,7 +4156,7 @@
       "duelist": [],
       "text": "Doom Burst's effect activates when it's destroyed!"
     },
-    "V0202_09_00_84_0": {
+    "V0220_09_00_84_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4648,7 +4166,7 @@
       "duelist": [],
       "text": "I activate Influence Dragon's effect!"
     },
-    "V0202_09_00_85_0": {
+    "V0220_09_00_85_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4658,7 +4176,7 @@
       "duelist": [],
       "text": "Sword Master's effect activates from my hand!"
     },
-    "V0202_09_00_86_0": {
+    "V0220_09_00_86_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4668,7 +4186,7 @@
       "duelist": [],
       "text": "I activate Magic Hole Golem's effect!"
     },
-    "V0202_09_00_87_0": {
+    "V0220_09_00_87_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4678,7 +4196,7 @@
       "duelist": [],
       "text": "Summoning Soul Resonator activates its effect!"
     },
-    "V0202_09_00_88_0": {
+    "V0220_09_00_88_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4688,7 +4206,7 @@
       "duelist": [],
       "text": "I activate Darkness Resonator's effect from my hand!"
     },
-    "V0202_09_00_89_0": {
+    "V0220_09_00_89_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4698,7 +4216,7 @@
       "duelist": [],
       "text": "Special Summoning Darkness Resonator lets me use its effect!"
     },
-    "V0202_09_00_90_0": {
+    "V0220_09_00_90_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4708,7 +4226,7 @@
       "duelist": [],
       "text": "I activate Darkness Resonator's effect!"
     },
-    "V0202_09_00_91_0": {
+    "V0220_09_00_91_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4718,7 +4236,7 @@
       "duelist": [],
       "text": "Vision Resonator activates when it's sent to the Graveyard!"
     },
-    "V0202_09_00_92_0": {
+    "V0220_09_00_92_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4728,7 +4246,7 @@
       "duelist": [],
       "text": "When I have no monsters,  I can bring out Crimson Resonator!"
     },
-    "V0202_09_00_93_0": {
+    "V0220_09_00_93_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4738,7 +4256,7 @@
       "duelist": [],
       "text": "I activate Crimson Resonator's effect!"
     },
-    "V0202_09_00_94_0": {
+    "V0220_09_00_94_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4748,7 +4266,7 @@
       "duelist": [],
       "text": "Extra Veiler's effect activates from my hand!"
     },
-    "V0202_09_00_95_0": {
+    "V0220_09_00_95_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4758,7 +4276,7 @@
       "duelist": [],
       "text": "Dark Tinker activates when it's sent to the Graveyard!"
     },
-    "V0202_09_00_96_0": {
+    "V0220_09_00_96_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4768,7 +4286,7 @@
       "duelist": [],
       "text": "Destroying Dread Dragon in battle activates its effect!"
     },
-    "V0202_09_00_97_0": {
+    "V0220_09_00_97_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4778,7 +4296,7 @@
       "duelist": [],
       "text": "Power Supplier activates its effect!"
     },
-    "V0202_09_00_98_0": {
+    "V0220_09_00_98_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4788,7 +4306,7 @@
       "duelist": [],
       "text": "Attack Gainer activates when it's used to Synchro Summon!"
     },
-    "V0202_09_00_99_0": {
+    "V0220_09_00_99_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4798,7 +4316,7 @@
       "duelist": [],
       "text": "I activate Synchro Soldier's effect!"
     },
-    "V0202_09_00_100_0": {
+    "V0220_09_00_100_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4808,7 +4326,7 @@
       "duelist": [],
       "text": "Dark Bug activates its effect!"
     },
-    "V0202_09_00_101_0": {
+    "V0220_09_00_101_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4818,7 +4336,7 @@
       "duelist": [],
       "text": "Summoning Morph King Stygi-Gel activates its effect!"
     },
-    "V0202_09_00_102_0": {
+    "V0220_09_00_102_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4828,7 +4346,7 @@
       "duelist": [],
       "text": "I activate Morph King Stygi-Gel's effect!"
     },
-    "V0202_09_00_103_0": {
+    "V0220_09_00_103_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4838,7 +4356,7 @@
       "duelist": [],
       "text": "I activate Shining Star Dragon's effect from my hand!"
     },
-    "V0202_09_00_104_0": {
+    "V0220_09_00_104_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4848,7 +4366,7 @@
       "duelist": [],
       "text": "I'll show you this card I drew to activate its effect!"
     },
-    "V0202_13_00_47_0": {
+    "V0220_13_00_47_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -4858,7 +4376,7 @@
       "duelist": [],
       "text": "Crimson Dragon!\nLend me your strength!"
     },
-    "V0202_37_00_17_0": {
+    "V0220_37_00_17_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4868,7 +4386,7 @@
       "duelist": [],
       "text": "Sealed within the depths, channel your suffering into anger!"
     },
-    "V0202_13_00_48_0": {
+    "V0220_13_00_48_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -4878,7 +4396,7 @@
       "duelist": [],
       "text": "Come forth!\nEarthbound Immortal Red Nova!"
     },
-    "V0202_37_00_18_0": {
+    "V0220_37_00_18_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4888,7 +4406,7 @@
       "duelist": [],
       "text": "Triple Tuning!"
     },
-    "V0202_37_00_18_1": {
+    "V0220_37_00_18_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4896,7 +4414,7 @@
       "duelist": [],
       "text": "While the three welcome the king, the fool welcomes defeat!"
     },
-    "V0202_37_00_18_2": {
+    "V0220_37_00_18_2": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4904,7 +4422,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0202_13_00_49_0": {
+    "V0220_13_00_49_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -4914,7 +4432,7 @@
       "duelist": [],
       "text": "Let your soul mark the time of all creation!"
     },
-    "V0202_13_00_49_1": {
+    "V0220_13_00_49_1": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -4922,7 +4440,7 @@
       "duelist": [],
       "text": "Red Supernova Dragon!"
     },
-    "V0202_37_00_19_0": {
+    "V0220_37_00_19_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4932,7 +4450,7 @@
       "duelist": [],
       "text": "Quadruple Tuning!"
     },
-    "V0202_37_00_19_1": {
+    "V0220_37_00_19_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4940,7 +4458,7 @@
       "duelist": [],
       "text": "The crimson star and the scars of the earth resonate as one!"
     },
-    "V0202_37_00_19_2": {
+    "V0220_37_00_19_2": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4948,7 +4466,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0202_13_00_50_0": {
+    "V0220_13_00_50_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -4958,7 +4476,7 @@
       "duelist": [],
       "text": "When four unite, a new star reaches the peak of greatness!"
     },
-    "V0202_13_00_50_1": {
+    "V0220_13_00_50_1": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -4966,7 +4484,7 @@
       "duelist": [],
       "text": "Red Hypernova Dragon!"
     },
-    "V0202_37_00_20_0": {
+    "V0220_37_00_20_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4976,7 +4494,7 @@
       "duelist": [],
       "text": "Leave scars across the land to remind them you were here!"
     },
-    "V0202_37_00_20_1": {
+    "V0220_37_00_20_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -4984,7 +4502,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0202_13_00_51_0": {
+    "V0220_13_00_51_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -4994,7 +4512,7 @@
       "duelist": [],
       "text": "Show yourself!\nScarred Dragon Archfiend!"
     },
-    "V0202_37_00_21_0": {
+    "V0220_37_00_21_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5004,7 +4522,7 @@
       "duelist": [],
       "text": "You will learn that only the king wields true power!"
     },
-    "V0202_37_00_21_1": {
+    "V0220_37_00_21_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5012,7 +4530,7 @@
       "duelist": [],
       "text": "Synchro Summon!"
     },
-    "V0202_13_00_52_0": {
+    "V0220_13_00_52_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -5022,7 +4540,7 @@
       "duelist": [],
       "text": "The embodiment of my soul!\nThe Crimson King!"
     },
-    "V0202_13_00_53_0": {
+    "V0220_13_00_53_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -5032,7 +4550,7 @@
       "duelist": [],
       "text": "Appear!\nCrimson Blade Dragon!"
     },
-    "V0202_13_00_54_0": {
+    "V0220_13_00_54_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -5042,7 +4560,7 @@
       "duelist": [],
       "text": "Red Nova Dragon/Assault Mode!"
     },
-    "V0202_37_00_22_0": {
+    "V0220_37_00_22_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5052,7 +4570,7 @@
       "duelist": [],
       "text": "The deity arrives clad in crimson armor!"
     },
-    "V0202_13_00_55_0": {
+    "V0220_13_00_55_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
@@ -5062,7 +4580,7 @@
       "duelist": [],
       "text": "Its soul yearns for battle!\nCrimson Blader/Assault Mode!"
     },
-    "V0202_13_00_56_0": {
+    "V0220_13_00_56_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -5072,7 +4590,7 @@
       "duelist": [],
       "text": "Let's go!\nStrong Wind Dragon!"
     },
-    "V0202_13_00_57_0": {
+    "V0220_13_00_57_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -5082,7 +4600,7 @@
       "duelist": [],
       "text": "Rise up!\nPower Giant!"
     },
-    "V0202_13_00_58_0": {
+    "V0220_13_00_58_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -5092,7 +4610,7 @@
       "duelist": [],
       "text": "Come here!\nPower Invader!"
     },
-    "V0202_13_00_59_0": {
+    "V0220_13_00_59_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -5102,7 +4620,7 @@
       "duelist": [],
       "text": "Come out!\nPower Vice Dragon!"
     },
-    "V0202_13_00_60_0": {
+    "V0220_13_00_60_0": {
       "face": 3,
       "frame": 1,
       "cutin": 1,
@@ -5112,7 +4630,7 @@
       "duelist": [],
       "text": "Go, Fiend Piece Golem!"
     },
-    "V0202_13_00_61_0": {
+    "V0220_13_00_61_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5122,7 +4640,7 @@
       "duelist": [],
       "text": "Archfiend Interceptor!"
     },
-    "V0202_13_00_62_0": {
+    "V0220_13_00_62_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5132,7 +4650,7 @@
       "duelist": [],
       "text": "Twin-Shield Defender!"
     },
-    "V0202_13_00_63_0": {
+    "V0220_13_00_63_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5142,7 +4660,7 @@
       "duelist": [],
       "text": "Twin-Sword Marauder!"
     },
-    "V0202_13_00_64_0": {
+    "V0220_13_00_64_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5152,7 +4670,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Top Runner!"
     },
-    "V0202_13_00_65_0": {
+    "V0220_13_00_65_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5162,7 +4680,7 @@
       "duelist": [],
       "text": "I Special Summon my Tuner Monster!\nTrap Eater!"
     },
-    "V0202_13_00_66_0": {
+    "V0220_13_00_66_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5172,7 +4690,7 @@
       "duelist": [],
       "text": "Vice Berserker!"
     },
-    "V0202_13_00_67_0": {
+    "V0220_13_00_67_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5182,7 +4700,7 @@
       "duelist": [],
       "text": "Power Breaker!"
     },
-    "V0202_13_00_68_0": {
+    "V0220_13_00_68_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5192,7 +4710,7 @@
       "duelist": [],
       "text": "Mad Archfiend!"
     },
-    "V0202_13_00_69_0": {
+    "V0220_13_00_69_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5202,7 +4720,7 @@
       "duelist": [],
       "text": "Lancer Archfiend!"
     },
-    "V0202_13_00_70_0": {
+    "V0220_13_00_70_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5212,7 +4730,7 @@
       "duelist": [],
       "text": "Ogre of the Scarlet Sorrow!"
     },
-    "V0202_13_00_71_0": {
+    "V0220_13_00_71_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5222,7 +4740,7 @@
       "duelist": [],
       "text": "Bone Archfiend!"
     },
-    "V0202_13_00_72_0": {
+    "V0220_13_00_72_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5232,7 +4750,7 @@
       "duelist": [],
       "text": "Red Familiar!"
     },
-    "V0202_13_00_73_0": {
+    "V0220_13_00_73_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5242,7 +4760,7 @@
       "duelist": [],
       "text": "Red Lotus King, Flame Crime!"
     },
-    "V0202_13_00_74_0": {
+    "V0220_13_00_74_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5252,7 +4770,7 @@
       "duelist": [],
       "text": "Cursed Fire King Doom Burst!"
     },
-    "V0202_13_00_75_0": {
+    "V0220_13_00_75_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5262,7 +4780,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Influence Dragon!"
     },
-    "V0202_13_00_76_0": {
+    "V0220_13_00_76_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5272,7 +4790,7 @@
       "duelist": [],
       "text": "Come forth!\nMy Tuner Monster, Sword Master!"
     },
-    "V0202_13_00_77_0": {
+    "V0220_13_00_77_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5282,7 +4800,7 @@
       "duelist": [],
       "text": "My Tuner Monster, Trust Guardian!"
     },
-    "V0202_13_00_78_0": {
+    "V0220_13_00_78_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5292,7 +4810,7 @@
       "duelist": [],
       "text": "Magic Hole Golem!"
     },
-    "V0202_13_00_79_0": {
+    "V0220_13_00_79_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5302,7 +4820,7 @@
       "duelist": [],
       "text": "Here's my Tuner Monster!\nSoul Resonator!"
     },
-    "V0202_13_00_80_0": {
+    "V0220_13_00_80_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5312,7 +4830,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Darkness Resonator!"
     },
-    "V0202_13_00_81_0": {
+    "V0220_13_00_81_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5322,7 +4840,7 @@
       "duelist": [],
       "text": "My Tuner Monster!\nVision Resonator!"
     },
-    "V0202_13_00_82_0": {
+    "V0220_13_00_82_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5332,7 +4850,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Crimson Resonator!"
     },
-    "V0202_13_00_83_0": {
+    "V0220_13_00_83_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5342,7 +4860,7 @@
       "duelist": [],
       "text": "Extra Veiler!"
     },
-    "V0202_13_00_84_0": {
+    "V0220_13_00_84_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5352,7 +4870,7 @@
       "duelist": [],
       "text": "My Tuner Monster, Dark Tinker!"
     },
-    "V0202_13_00_85_0": {
+    "V0220_13_00_85_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5362,7 +4880,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Dread Dragon!"
     },
-    "V0202_13_00_86_0": {
+    "V0220_13_00_86_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5372,7 +4890,7 @@
       "duelist": [],
       "text": "Power Supplier!"
     },
-    "V0202_13_00_87_0": {
+    "V0220_13_00_87_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5382,7 +4900,7 @@
       "duelist": [],
       "text": "Take to the field!\nThe Tuner Monster, Attack Gainer!"
     },
-    "V0202_13_00_88_0": {
+    "V0220_13_00_88_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5392,7 +4910,7 @@
       "duelist": [],
       "text": "Synchro Soldier!"
     },
-    "V0202_13_00_89_0": {
+    "V0220_13_00_89_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5402,7 +4920,7 @@
       "duelist": [],
       "text": "Dark Bug!"
     },
-    "V0202_13_00_90_0": {
+    "V0220_13_00_90_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5412,7 +4930,7 @@
       "duelist": [],
       "text": "The Tuner Monster, Morph King Stygi-Gel!"
     },
-    "V0202_13_00_91_0": {
+    "V0220_13_00_91_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5422,7 +4940,7 @@
       "duelist": [],
       "text": "Here's my Tuner Monster!\nShining Star Dragon!"
     },
-    "V0202_13_00_92_0": {
+    "V0220_13_00_92_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5432,7 +4950,7 @@
       "duelist": [],
       "text": "My Tuner Monster!\nConverging Wills Dragon!"
     },
-    "V0202_19_00_47_0": {
+    "V0220_19_00_47_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5442,7 +4960,7 @@
       "duelist": [],
       "text": "Crimson Dragon!\nAttack!"
     },
-    "V0202_19_00_48_0": {
+    "V0220_19_00_48_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5452,7 +4970,7 @@
       "duelist": [],
       "text": "You'll be seeing red!"
     },
-    "V0202_19_00_48_1": {
+    "V0220_19_00_48_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5460,7 +4978,7 @@
       "duelist": [],
       "text": "Earthbound Immortal Red Nova!\nAttack!"
     },
-    "V0202_19_00_49_0": {
+    "V0220_19_00_49_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5470,7 +4988,7 @@
       "duelist": [],
       "text": "Strike at the dawn of time!"
     },
-    "V0202_19_00_49_1": {
+    "V0220_19_00_49_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5478,7 +4996,7 @@
       "duelist": [],
       "text": "Red Supernova Dragon!\nAttack!"
     },
-    "V0202_19_00_50_0": {
+    "V0220_19_00_50_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5488,7 +5006,7 @@
       "duelist": [],
       "text": "Watch as the whole world trembles!"
     },
-    "V0202_19_00_50_1": {
+    "V0220_19_00_50_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5496,7 +5014,7 @@
       "duelist": [],
       "text": "Attack, Red Hypernova Dragon!"
     },
-    "V0202_19_00_51_0": {
+    "V0220_19_00_51_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5506,7 +5024,7 @@
       "duelist": [],
       "text": "Be gone!\nAttack, Scarred Dragon Archfiend!"
     },
-    "V0202_19_00_52_0": {
+    "V0220_19_00_52_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5516,7 +5034,7 @@
       "duelist": [],
       "text": "The Crimson King!\nAttack!"
     },
-    "V0202_19_00_52_1": {
+    "V0220_19_00_52_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5524,7 +5042,7 @@
       "duelist": [],
       "text": "There's only one King!\nAnd that's me!"
     },
-    "V0202_19_00_53_0": {
+    "V0220_19_00_53_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5534,7 +5052,7 @@
       "duelist": [],
       "text": "You'll learn just how sharp the king's blade is!"
     },
-    "V0202_19_00_53_1": {
+    "V0220_19_00_53_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5542,7 +5060,7 @@
       "duelist": [],
       "text": "Crimson Blade Dragon!\nAttack!"
     },
-    "V0202_19_00_54_0": {
+    "V0220_19_00_54_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5552,7 +5070,7 @@
       "duelist": [],
       "text": "Red Nova Dragon/Assault Mode!\nAttack!"
     },
-    "V0202_19_00_55_0": {
+    "V0220_19_00_55_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5562,7 +5080,7 @@
       "duelist": [],
       "text": "Crimson Blader/Assault Mode!\nAttack!"
     },
-    "V0202_19_00_56_0": {
+    "V0220_19_00_56_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5572,7 +5090,7 @@
       "duelist": [],
       "text": "Attack, Strong Wind Dragon!"
     },
-    "V0202_19_00_56_1": {
+    "V0220_19_00_56_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5580,7 +5098,7 @@
       "duelist": [],
       "text": "Strong Hurricane!"
     },
-    "V0202_19_00_57_0": {
+    "V0220_19_00_57_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5590,7 +5108,7 @@
       "duelist": [],
       "text": "Power Giant!\nSlam 'em!"
     },
-    "V0202_19_00_58_0": {
+    "V0220_19_00_58_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5600,7 +5118,7 @@
       "duelist": [],
       "text": "Attack, Power Invader!"
     },
-    "V0202_19_00_59_0": {
+    "V0220_19_00_59_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5610,7 +5128,7 @@
       "duelist": [],
       "text": "Power Vice Dragon!\nAttack!"
     },
-    "V0202_19_00_60_0": {
+    "V0220_19_00_60_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5620,7 +5138,7 @@
       "duelist": [],
       "text": "Attack, Fiend Piece Golem!"
     },
-    "V0202_19_00_61_0": {
+    "V0220_19_00_61_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5630,7 +5148,7 @@
       "duelist": [],
       "text": "Archfiend Interceptor!\nAttack!"
     },
-    "V0202_19_00_62_0": {
+    "V0220_19_00_62_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5640,7 +5158,7 @@
       "duelist": [],
       "text": "Twin-Shield Defender!\nAttack!"
     },
-    "V0202_19_00_63_0": {
+    "V0220_19_00_63_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5650,7 +5168,7 @@
       "duelist": [],
       "text": "Twin-Sword Marauder!\nSlash 'em up!"
     },
-    "V0202_19_00_63_1": {
+    "V0220_19_00_63_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5658,7 +5176,7 @@
       "duelist": [],
       "text": "Double Marauder Mayhem!"
     },
-    "V0202_19_00_64_0": {
+    "V0220_19_00_64_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5668,7 +5186,7 @@
       "duelist": [],
       "text": "Top Runner!\nMake this quick!"
     },
-    "V0202_19_00_65_0": {
+    "V0220_19_00_65_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5678,7 +5196,7 @@
       "duelist": [],
       "text": "Trap Eater! Attack!"
     },
-    "V0202_19_00_66_0": {
+    "V0220_19_00_66_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5688,7 +5206,7 @@
       "duelist": [],
       "text": "Vice Berserker!\nAttack!"
     },
-    "V0202_19_00_67_0": {
+    "V0220_19_00_67_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5698,7 +5216,7 @@
       "duelist": [],
       "text": "Attack, Power Breaker!"
     },
-    "V0202_19_00_67_1": {
+    "V0220_19_00_67_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5706,7 +5224,7 @@
       "duelist": [],
       "text": "Power Slash!"
     },
-    "V0202_19_00_68_0": {
+    "V0220_19_00_68_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5716,7 +5234,7 @@
       "duelist": [],
       "text": "Mad Archfiend!\nAttack!"
     },
-    "V0202_19_00_68_1": {
+    "V0220_19_00_68_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5724,7 +5242,7 @@
       "duelist": [],
       "text": "Bone Splash!"
     },
-    "V0202_19_00_69_0": {
+    "V0220_19_00_69_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5734,7 +5252,7 @@
       "duelist": [],
       "text": "Attack, Lancer Archfiend!"
     },
-    "V0202_19_00_70_0": {
+    "V0220_19_00_70_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5744,7 +5262,7 @@
       "duelist": [],
       "text": "Ogre of the Scarlet Sorrow!\nAttack!"
     },
-    "V0202_19_00_71_0": {
+    "V0220_19_00_71_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5754,7 +5272,7 @@
       "duelist": [],
       "text": "Bone Archfiend!\nAttack!"
     },
-    "V0202_19_00_72_0": {
+    "V0220_19_00_72_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5764,7 +5282,7 @@
       "duelist": [],
       "text": "Red Familiar!\nAttack!"
     },
-    "V0202_19_00_73_0": {
+    "V0220_19_00_73_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5774,7 +5292,7 @@
       "duelist": [],
       "text": "Red Lotus King, Flame Crime!\nAttack!"
     },
-    "V0202_19_00_74_0": {
+    "V0220_19_00_74_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5784,7 +5302,7 @@
       "duelist": [],
       "text": "Cursed Fire King Doom Burst!\nAttack!"
     },
-    "V0202_19_00_75_0": {
+    "V0220_19_00_75_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5794,7 +5312,7 @@
       "duelist": [],
       "text": "Influence Dragon!\nAttack!"
     },
-    "V0202_19_00_76_0": {
+    "V0220_19_00_76_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5804,7 +5322,7 @@
       "duelist": [],
       "text": "Sword Master attacks!"
     },
-    "V0202_19_00_76_1": {
+    "V0220_19_00_76_1": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5812,7 +5330,7 @@
       "duelist": [],
       "text": "Master Slash!"
     },
-    "V0202_19_00_77_0": {
+    "V0220_19_00_77_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5822,7 +5340,7 @@
       "duelist": [],
       "text": "Attack, Trust Guardian!"
     },
-    "V0202_19_00_78_0": {
+    "V0220_19_00_78_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5832,7 +5350,7 @@
       "duelist": [],
       "text": "Magic Hole Golem!\nAttack!"
     },
-    "V0202_19_00_79_0": {
+    "V0220_19_00_79_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5842,7 +5360,7 @@
       "duelist": [],
       "text": "Soul Resonator!\nAttack!"
     },
-    "V0202_19_00_80_0": {
+    "V0220_19_00_80_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5852,7 +5370,7 @@
       "duelist": [],
       "text": "Attack, Darkness Resonator!"
     },
-    "V0202_19_00_81_0": {
+    "V0220_19_00_81_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5862,7 +5380,7 @@
       "duelist": [],
       "text": "Vision Resonator!\nAttack!"
     },
-    "V0202_19_00_82_0": {
+    "V0220_19_00_82_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5872,7 +5390,7 @@
       "duelist": [],
       "text": "Crimson Resonator attacks!"
     },
-    "V0202_19_00_83_0": {
+    "V0220_19_00_83_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5882,7 +5400,7 @@
       "duelist": [],
       "text": "Extra Veiler! Attack!"
     },
-    "V0202_19_00_84_0": {
+    "V0220_19_00_84_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5892,7 +5410,7 @@
       "duelist": [],
       "text": "Cut 'em up, Dark Tinker!"
     },
-    "V0202_19_00_85_0": {
+    "V0220_19_00_85_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5902,7 +5420,7 @@
       "duelist": [],
       "text": "Attack, Dread Dragon!"
     },
-    "V0202_19_00_86_0": {
+    "V0220_19_00_86_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5912,7 +5430,7 @@
       "duelist": [],
       "text": "Power Supplier!\nAttack!"
     },
-    "V0202_19_00_87_0": {
+    "V0220_19_00_87_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5922,7 +5440,7 @@
       "duelist": [],
       "text": "Attack Gainer!\nAttack!"
     },
-    "V0202_19_00_88_0": {
+    "V0220_19_00_88_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5932,7 +5450,7 @@
       "duelist": [],
       "text": "Synchro Soldier!\nAttack!"
     },
-    "V0202_19_00_89_0": {
+    "V0220_19_00_89_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5942,7 +5460,7 @@
       "duelist": [],
       "text": "Dark Bug! Attack!"
     },
-    "V0202_19_00_90_0": {
+    "V0220_19_00_90_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5952,7 +5470,7 @@
       "duelist": [],
       "text": "Morph King Stygi-Gel!\nAttack!"
     },
-    "V0202_19_00_91_0": {
+    "V0220_19_00_91_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5962,7 +5480,7 @@
       "duelist": [],
       "text": "Shining Star Dragon!\nAttack!"
     },
-    "V0202_19_00_92_0": {
+    "V0220_19_00_92_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5972,7 +5490,7 @@
       "duelist": [],
       "text": "Converging Wills Dragon!\nAttack!"
     },
-    "V0202_48_00_00_0": {
+    "V0220_48_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5980,7 +5498,7 @@
       "duelist": [],
       "text": "Let's begin!"
     },
-    "V0202_48_01_00_0": {
+    "V0220_48_01_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5988,7 +5506,7 @@
       "duelist": [],
       "text": "Get ready for the rush!"
     },
-    "V0202_51_00_00_0": {
+    "V0220_51_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -5996,7 +5514,7 @@
       "duelist": [],
       "text": "Jack Atlas!"
     },
-    "V0202_51_01_00_0": {
+    "V0220_51_01_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6004,7 +5522,7 @@
       "duelist": [],
       "text": "Go rush!"
     },
-    "V0202_49_00_00_0": {
+    "V0220_49_00_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
@@ -6012,7 +5530,7 @@
       "duelist": [],
       "text": "There's only one Master of Faster!\nAnd that's me!"
     },
-    "V0202_49_01_00_0": {
+    "V0220_49_01_00_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,

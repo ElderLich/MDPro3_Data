@@ -27,7 +27,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Time to high five the sky, Astral!"
     },
@@ -80,7 +84,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "I'm feelin' the flow!"
     },
@@ -93,7 +101,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "Duel Disk, go!\nDuel Gazer, let's roll!"
     },
@@ -888,7 +900,13 @@
       "frame": 0,
       "cutin": 0,
       "card": [],
-      "duelist": [],
+      "duelist": [
+        0,
+        416,
+        417,
+        447,
+        448
+      ],
       "text": "You can get to really know someone by Dueling."
     },
     "V0401_28_00_01_1": {
@@ -921,7 +939,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "I'll never give up!\nAs long as I feel the flow!"
     },
@@ -1048,7 +1070,11 @@
         0,
         422,
         445,
-        446
+        446,
+        416,
+        417,
+        447,
+        448
       ],
       "text": "I gotta do better if I wanna feel the flow like my dad."
     },

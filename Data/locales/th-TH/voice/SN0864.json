@@ -48,7 +48,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        906
       ],
       "text": "I've never been more ready for a ramen rumble!"
     },
@@ -591,6 +591,22 @@
       "card": [],
       "duelist": [],
       "text": "Contact Fusion!"
+    },
+    "V0864_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Ritual Summon a monster!"
+    },
+    "V0864_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ritual Summon!"
     },
     "V0864_14_00_00_0": {
       "face": 1,
@@ -1849,6 +1865,22 @@
       "card": [],
       "duelist": [],
       "text": "Noooooooodllllles!"
+    },
+    "V0864_49_00_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Let us begin!"
+    },
+    "V0864_49_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
     }
   }
 }

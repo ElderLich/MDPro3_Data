@@ -69,6 +69,32 @@
       ],
       "text": "Ooh, you have a Number.\nThis should be fun."
     },
+    "V0410_01_00_06_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        416,
+        447,
+        417,
+        448
+      ],
+      "text": "You're no Barian.\nYou're one of us!"
+    },
+    "V0410_01_00_07_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        416,
+        447,
+        417,
+        448
+      ],
+      "text": "I know you’re still in there, Shark.\nI’ll save you!"
+    },
     "V0410_02_00_00_0": {
       "face": 11,
       "frame": 1,
@@ -747,9 +773,22 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        412
+        412,
+        417,
+        448
       ],
       "text": "Believe me when I say that this isn't what I wanted."
+    },
+    "V0410_28_00_04_0": {
+      "face": 13,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        416,
+        447
+      ],
+      "text": "Come back to us, Shark!"
     },
     "V0410_29_00_00_0": {
       "face": 19,
@@ -812,6 +851,30 @@
         412
       ],
       "text": "If today's not the day, maybe you can forgive me someday."
+    },
+    "V0410_29_00_06_0": {
+      "face": 15,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        416,
+        447,
+        417,
+        448
+      ],
+      "text": "I guess it's impossible to change destiny."
+    },
+    "V0410_29_00_07_0": {
+      "face": 15,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        416,
+        447
+      ],
+      "text": "I'm glad you were the opponent for my final Duel."
     },
     "V0410_31_00_00_0": {
       "face": 14,

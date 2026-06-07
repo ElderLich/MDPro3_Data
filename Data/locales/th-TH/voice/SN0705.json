@@ -2432,6 +2432,22 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaaaah!\nThis is bogus!"
+    },
+    "V0705_49_00_00_0": {
+      "face": 11,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Uh... What's this?"
+    },
+    "V0705_49_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!?"
     }
   }
 }
