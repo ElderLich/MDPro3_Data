@@ -111,6 +111,9 @@ Quando un'organizzazione misteriosa la prende di mira, il suo destino inizia a c
 [IDS_ITEMDESC.ID1000039]
 Una ragazza che ha giurato di proteggere "<card mrk='14676'/>", malgrado la ragazza corriere fosse destinata a essere eliminata.
 Non sa ancora che il futuro minuscolo che difende condurrà il mondo in un caos ancora maggiore.
+[IDS_ITEMDESC.ID1000040]
+Un'arma meccanica equipaggiata con un super motore a doppia alimentazione.
+Combinando l'energia di fuoco ed elettricità, con il suo micidiale attacco a piena potenza può incenerire il campo di battaglia.
 [IDS_ITEMDESC.ID1000041]
 Una bestia demoniaca che dorme come un sasso.
 Per nutrirsi dei sogni altrui, emana un odore dal proprio corpo che provoca sonnolenza, ma finisce sempre per addormentare se stesso.
@@ -120,6 +123,9 @@ Prendi tutti i mostri Yummy che vivono in un mondo deliziosamente sciocco!
 [IDS_ITEMDESC.ID1000043]
 <category id='166'/> è noto per le sue corna distintive sulla testa.
 Sfrutta le sue potenti braccia per infliggere pugni devastanti e prese soffocanti.
+[IDS_ITEMDESC.ID1000046]
+Un giovane spadaccino <category id='174'/> che prende l'iniziativa.
+Ha deciso di prendersi cura di "<card mrk='17783'/>".
 [IDS_ITEMDESC.ID1001001]
 Una coppa di ramen istantaneo che sembra possa donarti il potere di Evocare tramite Fusione.
 Solo perché è ramen istantaneo, non significa che non sia buono!
@@ -784,6 +790,12 @@ Avvertendo il risveglio della dea che brandisce il potere della distruzione, ha 
 [IDS_ITEMDESC.ID1010142]
 Un'icona che raffigura <category id='059'/>, infusa con il potere di un Guardiano divino del sole.
 È in grado di abbattere anche i demoni più potenti.
+[IDS_ITEMDESC.ID1010143]
+Un'icona che raffigura una fata splendida e graziosa.
+Adora chi si prende cura della propria famiglia.
+[IDS_ITEMDESC.ID1010144]
+Un'icona che raffigura il nuovo membro di "<category id='174'/>".
+Rapidi nel crescere e nell'apprendere, sono destinati a diventare una forza temibile nelle battaglie future.
 [IDS_ITEMDESC.ID1010145]
 Un'icona che raffigura una ragazza che ha stipulato un contratto incompleto a causa di circostanze impreviste.
 Detiene solo una parte del potere della bestia divina.
@@ -1285,6 +1297,8 @@ Colpiti da un determinato evento, iniziarono ad ammirare la squadra e a voler en
 [IDS_ITEMDESC.ID1013013]
 Un'icona che raffigurano dei protagonisti di "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Tre Maghi che hanno aperto la porta per un altro reame. Sono diventati noti come i "Tre Saggi, i Magistus".
+[IDS_ITEMDESC.ID1013014]
+Un'icona esclusiva offerta in occasioni speciali.
 [IDS_ITEMDESC.ID1013015]
 Un'icona che raffigura l'amico online preferito di tutti.
 Si alza il sipario sul tuo viaggio per diventare un Duellante leggendario.
@@ -1938,6 +1952,12 @@ Un Duellante si rafforza adattandosi ai nuovi ambienti e continuando ad affronta
 [IDS_ITEMDESC.ID1020217]
 Un titolo dato ai Duellanti che hanno raggiunto risultati importanti nell'evento "Dice Rally ~ Maggio 2026 ~".
 Un futuro brillante attende coloro che sono abbastanza coraggiosi da credere in se stessi.
+[IDS_ITEMDESC.ID1020218]
+Un titolo dato ai Duellanti che hanno raggiunto risultati nel Festival "Fusione x Xyz+".
+L'orgoglio dei Duellanti viene risvegliato dalle carte a loro più care.
+[IDS_ITEMDESC.ID1020219]
+Titolo conferito ai Duellanti che hanno ottenuto risultati in una narrazione scelta con il potere di varie carte.
+Le storie raccontate in battaglia lasceranno qualcosa che risuonerà in molti Duellanti.
 [IDS_ITEMDESC.ID1021001]
 Un titolo conferito solo per un'occasione speciale.
 [IDS_ITEMDESC.ID1021002]
@@ -2150,6 +2170,9 @@ Una cornice icona che evoca un coro della foresta che intona canti sacri.
 [IDS_ITEMDESC.ID1031025]
 Una cornice icona che ricorda un drago la cui frenesia era stata placata.
 Il ragazzo ha ripreso i sensi grazie al potere della fiducia di chi lo circondava.
+[IDS_ITEMDESC.ID1031026]
+Una cornice icona che evoca un'arma meccanica con un meccanismo segreto di ultra trasformazione.
+Anche se la cornice, sfortunatamente, non può trasformarsi, è ricca di energia di fuoco ed elettricità.
 [IDS_ITEMDESC.ID1032001]
 Una cornice icona a forma di decorazione circolare, che viene usata in determinate regioni quando l'anno volge al termine.
 Vengono appese in segno di sincero augurio di felicità e gioia per il futuro.
@@ -2691,6 +2714,15 @@ Per coloro che combattono fianco a fianco con la propria cavalcatura volante.
 [IDS_ITEMDESC.ID1070167]
 Protettori che raffigurano qualcosa che assomiglia a un essere rivestito dal potere di un messaggero che ha contemplato il dio che veglia su un pianeta rosso infuocato.
 Per coloro che sono davvero impenetrabili.
+[IDS_ITEMDESC.ID1070168]
+Protettori che raffigurano una ragazza diventata l'apprendista di una scrittrice che ammirava.
+Per chi adora leggere.
+[IDS_ITEMDESC.ID1070169]
+Protettori che raffigurano la punta di diamante di "<category id='174'/>".
+Per chi sfodera tecniche segrete con una straordinaria maestria con la spada.
+[IDS_ITEMDESC.ID1070170]
+Protettori che raffigurano un'arma che sfrutta un'energia ibrida fuoco-elettricità.
+Per chi è sempre al massimo.
 [IDS_ITEMDESC.ID1070171]
 Protettori che raffigurano la forma di qualcosa di sovrannaturale e ultraterreno.
 Per coloro che si ritrovano nei suoi territori di caccia.
@@ -2700,6 +2732,18 @@ Per coloro che desiderano conquistare il trono.
 [IDS_ITEMDESC.ID1070173]
 Protettori che raffigurano <card mrk='22122'/> che reclamò il trono imperiale.
 Per coloro che desiderano conquistare il trono.
+[IDS_ITEMDESC.ID1070174]
+Protettori che raffigurano un drago ingordo che semina distruzione.
+Per chi vuole divorare l'intero mondo.
+[IDS_ITEMDESC.ID1070175]
+Protettori che raffigurano il re delle zucche intagliate.
+Per chi padroneggia Deck spettrali.
+[IDS_ITEMDESC.ID1070176]
+Protettori che raffigurano "<card mrk='11262'/>", al servizio di "<card mrk='11280'/>".
+Per chi protegge il pianeta.
+[IDS_ITEMDESC.ID1070177]
+Protettori che raffigurano un cannone su rotaia con una grande torretta.
+Per chi vuole eliminare i propri avversari con un colpo solo.
 [IDS_ITEMDESC.ID1070178]
 Protettori che raffigurano un mostro Illusione con un folto e spesso manto di pelliccia.
 Per gli amanti di tutto ciò che è morbido.
@@ -3762,6 +3806,9 @@ La situazione attuale potrebbe essere capovolta grazie all'elevata potenza e all
 [IDS_ITEMDESC.ID1111045]
 Uno stand dolce, ideale per assaporare un mondo zuccherato insieme agli animali che lo abitano.
 Attenzione alle possibili creature golose immerse nella propria merenda preferita.
+[IDS_ITEMDESC.ID1111046]
+Uno stand ispirato ai simboli usati dai ninja.
+Al calare dell'oscurità, una spada balena silenziosa dalle ombre.
 [IDS_ITEMDESC.ID1111047]
 Uno Stand modellato sullo stemma OSCURITÀ.
 Fin dall'alba dei tempi, la luce è sempre stata al fianco dell'oscurità.
@@ -4220,7 +4267,8 @@ Ha preso come sua Bestia Spirito l'uccello dal canto immortale della terra etern
 "<card mrk='21616'/>" balla per salvare "<card mrk='18482'/>".
 Kagura Mikanko, perfezionata tramite la competizione: finalmente i ballerini salgono sul palco.
 [IDS_ITEMDESC.ID1130102]
-coming soon
+Due ragazze legate da un destino crudele uniscono le proprie forze per colpire.
+Il potere di un forte legame può fare miracoli in tempi di crisi.
 [IDS_ITEMDESC.ID1130103]
 Sono le stelle a guidare il fulgore di questi draghi intrecciati.
 Evoca il potere dei draghi nelle tue mani.
@@ -4290,6 +4338,9 @@ A causa del fallimento dell'incantesimo, sono precipitati dal cielo ma la pianta
 [IDS_ITEMDESC.ID1130127]
 Una vita che richiede la purezza e la forza di un santo.
 Il legame di fiducia che hanno formato le ha fatte diventare come sorelle.
+[IDS_ITEMDESC.ID1130128]
+Gli armamenti aggiuntivi sulle spalle consentono attacchi a lunghissimo raggio.
+I suoi colpi a piena potenza eliminano persino i nemici molto distanti.
 [IDS_ITEMDESC.ID1130129]
 Un servitore di <card mrk='21936'/> che inganna i suoi bersagli assumendo un aspetto umano.
 Li manipola mentalmente e li rapisce per usarli come sacrifici.
@@ -4302,9 +4353,18 @@ Invasori, udite il Ruggito Tri-Brigata!
 [IDS_ITEMDESC.ID1130132]
 I suoi occhi vuoti non sembrano affatto quelli di una giovane ragazza.
 Immacolata, è tuttavia l'incarnazione del caos, figlia dell'amore e della disperazione.
+[IDS_ITEMDESC.ID1130133]
+Una scrittrice geniale e popolare, ma un po' svampita.
+I mondi unici che ha realizzato hanno conquistato i suoi fan più appassionati.
+[IDS_ITEMDESC.ID1130134]
+Un gruppo di giovani che segue le orme degli eroi.
+Portando un po' di novità a <category id='174'/>, presto esprimeranno tutto il loro vero potenziale.
 [IDS_ITEMDESC.ID1130135]
 Una forma di vita meccanica che porta il nome di un dio disceso a vigilare sul mondo nel corso di molti lunghi anni.
 Dal fonografo che ha sul braccio destro, emette onde elettromagnetiche in grado di disattivare i macchinari.
+[IDS_ITEMDESC.ID1130136]
+Un drago sacro che riempie il cosmo di suoni misteriosi.
+La magnifica creatura, avvolta attorno a un intero pianeta, emana un'aura davvero divina.
 [IDS_ITEMDESC.ID1132001]
 Non si capisce il motivo, ma ora il coniglio è un membro di una squadra di calcio.
 Si spera possa portare la sua squadra alla vittoria grazie alle sue abilità di supporto.
@@ -4380,6 +4440,9 @@ Quando ottieni le carte <category id='169'/>, si dice che le porte del Leggendar
 [IDS_ITEMDESC.ID1170014]
 Un Album del Collezionista per la storia di un ragazzo e una ragazza in balia di un destino capriccioso.
 Dicono che quando si ottiene <category id='031'/>, la porta verso nuovi incontri e avventure risplenderà.
+[IDS_ITEMDESC.ID1170015]
+Un Album del Collezionista basato su un racconto apprezzato in tutto il mondo.
+Dicono che quando si ottengono <category id='172'/> carte, la porta per gli incontri con le fate risplenderà.
 [IDS_ITEMDESC.ID1180001]
 Una moneta con il motivo del drago luminoso che dà vita a una nuova leggenda.
 I suoi occhi blu risplendono.
@@ -4447,7 +4510,8 @@ Gli armamenti sacri benedetti dalla grazia divina brillano intensamente.
 Una moneta il cui motivo è un ragazzo drago di un'altra dimensione.
 La sua determinazione nello sfidare il destino brilla intensamente.
 [IDS_ITEMDESC.ID1180024]
-coming soon
+Una moneta che raffigura delle fate di un piccolo regno dove i racconti sono pieni di spirito.
+Al suo interno risplendono storie di altri tempi e luoghi.
 [IDS_ITEMDESC.ID1190001]
 Il numero massimo di segnalibri che puoi possedere può essere aumentato.
 [IDS_ITEMDESC.ID0000]

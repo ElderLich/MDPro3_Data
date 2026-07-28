@@ -111,6 +111,9 @@ When a mysterious organization targets her, her fate begins to shift.
 [IDS_ITEMDESC.ID1000039]
 A girl swore to protect "<card mrk='14676'/>", despite the courier being targeted for elimination.
 She doesn't yet realize that the small future she protects will draw the world into even greater turmoil.
+[IDS_ITEMDESC.ID1000040]
+A mecha-weapon equipped with a super dual power engine.
+Combining fire and electric energy, it turns the battlefield to ashes with its deadly full-power attack.
 [IDS_ITEMDESC.ID1000041]
 A demonic beast that sleeps like mud.
 In order to eat others' dreams, it releases a sleep-inducing odor from its body, but it always puts itself to sleep.
@@ -120,6 +123,9 @@ Snatch up all the yummy-looking monsters who live in a scrumptiously silly world
 [IDS_ITEMDESC.ID1000043]
 <category id='166'/> is known for the distinct horns on its head.
 It uses its powerful arms to deliver bone-crushing punches and choke holds.
+[IDS_ITEMDESC.ID1000046]
+A young <category id='174'/> fencer who takes the lead.
+Took personal charge of "<card mrk='17783'/>".
 [IDS_ITEMDESC.ID1001001]
 A cup of instant noodles that look like they could grant you the power to Fusion Summon.
 Just because they're instant, doesn't mean they're bad!
@@ -784,6 +790,12 @@ Sensing the revival of the goddess wielding the power of destruction, he resolve
 [IDS_ITEMDESC.ID1010142]
 An Icon depicting <category id='059'/>, imbued with the power of a divine guardian of the sun.
 She can bring down even the mightiest of fiends.
+[IDS_ITEMDESC.ID1010143]
+An Icon depicting a beautiful, graceful fairy.
+Loves those who cherish their families.
+[IDS_ITEMDESC.ID1010144]
+An Icon depicting the newborn member of "<category id='174'/>".
+Quick to grow and learn, they are certain to become a force to be feared in battles to come.
 [IDS_ITEMDESC.ID1010145]
 An Icon depicting a girl who entered into an incomplete contract due to unforeseen circumstances.
 She wields only part of the divine beast's power.
@@ -1286,6 +1298,8 @@ Inspired by a certain event, they came to admire the team and set their sights o
 [IDS_ITEMDESC.ID1013013]
 An Icon featuring a key visual for "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Three magicians who unlocked the door to another realm. They came to be known as the "Three Sages, the Magistus".
+[IDS_ITEMDESC.ID1013014]
+An exclusive Icon offered on special occasions.
 [IDS_ITEMDESC.ID1013015]
 An Icon depicting everyone's favorite online buddy.
 The curtain rises on your journey to becoming a legendary Duelist.
@@ -1939,6 +1953,12 @@ A Duelist grows stronger by adapting to new environments and continuing to take 
 [IDS_ITEMDESC.ID1020217]
 A Title given to Duelists who achieved results in the "Dice Rally ~ May 2026 ~" event.
 A brilliant future awaits those courageous enough to trust themselves.
+[IDS_ITEMDESC.ID1020218]
+A Title given to Duelists who achieved results in the "Fusion x Xyz Festival+".
+The pride of Duelists is awoken by the cards they hold dearest.
+[IDS_ITEMDESC.ID1020219]
+A Title given to Duelists who achieved results in a chosen narrative with the power of various cards.
+The stories spun through battle will leave something that will resonate with many Duelists.
 [IDS_ITEMDESC.ID1021001]
 A Title only bestowed upon a special occasion.
 [IDS_ITEMDESC.ID1021002]
@@ -2151,6 +2171,9 @@ It is imbued with the magical power of fairies chosen by the trees.
 [IDS_ITEMDESC.ID1031025]
 An Icon Frame reminiscent of a dragon whose frenzy had been quelled.
 The boy recovered his senses thanks to the power of trust of those around him.
+[IDS_ITEMDESC.ID1031026]
+An Icon Frame that evokes a mecha-weapon with a secret ultra transformation mechanism.
+While the frame cannot, unfortunately, transform, it is imbued with plentiful fire and electric energy.
 [IDS_ITEMDESC.ID1032001]
 An Icon Frame in the shape of a circular decoration, which can be seen in a certain region as the year draws to a close.
 They are hung with the sincere wish for happiness and joy in times to come.
@@ -2692,6 +2715,15 @@ For those who fight as one with their flying mount.
 [IDS_ITEMDESC.ID1070167]
 Protectors depicting something resembling a being clad in the power of a messenger who beheld the god that guards a fiery red planet.
 For those who are truly unfathomable.
+[IDS_ITEMDESC.ID1070168]
+Protectors depicting a girl who became an apprentice of a writer she admired.
+For those who love to read.
+[IDS_ITEMDESC.ID1070169]
+Protectors depicting the powerhouse of "<category id='174'/>".
+For those who unleash secret techniques with stunning mastery of the blade.
+[IDS_ITEMDESC.ID1070170]
+Protectors depicting a weapon utilizing hybrid fire-and-electric energy.
+For those always at full throttle.
 [IDS_ITEMDESC.ID1070171]
 Protectors depicting the form of something supernatural and otherworldly.
 For those who find themselves in its feeding grounds.
@@ -2701,6 +2733,18 @@ For those who wish to seize the throne.
 [IDS_ITEMDESC.ID1070173]
 Protectors depicting <card mrk='22122'/> who laid claim to the imperial throne.
 For those who wish to seize the throne.
+[IDS_ITEMDESC.ID1070174]
+Protectors depicting a gluttonous dragon that brings destruction.
+For those who want to devour the whole world.
+[IDS_ITEMDESC.ID1070175]
+Protectors depicting the jack-o-lantern king.
+For those who wield ghostly Decks.
+[IDS_ITEMDESC.ID1070176]
+Protectors depicting "<card mrk='11262'/>", who serves "<card mrk='11280'/>".
+For those who protect the planet.
+[IDS_ITEMDESC.ID1070177]
+Protectors depicting a railway gun with a massive turret.
+For those who wipe out their opponents in a single shot.
 [IDS_ITEMDESC.ID1070178]
 Protectors featuring an Illusion monster with a thick, bushy coat of fur.
 For lovers of all things fluffy.
@@ -3763,6 +3807,9 @@ The current predicament may be reversed thanks to the reactor's high output and 
 [IDS_ITEMDESC.ID1111045]
 A sweet Stand suited for savoring a sugary world alongside its resident animals.
 You'll want to make sure there are no sweet-toothed creatures submerged inside your snack of choice.
+[IDS_ITEMDESC.ID1111046]
+A Stand inspired by symbols used by ninjas.
+As the curtain of darkness falls, a sword silently flashes from the shadows.
 [IDS_ITEMDESC.ID1111047]
 A Stand modeled on the DARK emblem.
 Since the dawn of time, light has always paired with darkness.
@@ -4221,7 +4268,8 @@ She claimed the ever-singing bird of the eternal land as her spirit beast.
 "<card mrk='21616'/>" dances to save "<card mrk='18482'/>".
 Mikanko Kagura, perfected through competition—at last, the dancers take to the stage.
 [IDS_ITEMDESC.ID1130102]
-coming soon
+Two girls bound by a cruel fate join forces and strike.
+The power of a strong bond can work miracles in times of crisis.
 [IDS_ITEMDESC.ID1130103]
 The stars themselves guide the brilliance of these interwoven dragons.
 Summon the dragons' power within your own hands.
@@ -4291,6 +4339,9 @@ The spell misfires, sending them falling from the sky above into the giant plant
 [IDS_ITEMDESC.ID1130127]
 A life which demands purity and strength of a saint.
 The bond of trust they formed made them like sisters.
+[IDS_ITEMDESC.ID1130128]
+The additional shoulder armaments enable ultra-long-range attacks.
+Its full-power shots obliterate even enemies far in the distance.
 [IDS_ITEMDESC.ID1130129]
 A minion of <card mrk='21936'/> that deceives its targets by mimicking a human appearance.
 It brainwashes and abducts them to use as sacrifices.
@@ -4303,9 +4354,18 @@ Invaders, hear the Tri-Brigade Roar!
 [IDS_ITEMDESC.ID1130132]
 Her empty eyes don't look like the eyes of a young girl at all.
 Immaculate, she is nevertheless the incarnation of chaos, daughter of love and despair.
+[IDS_ITEMDESC.ID1130133]
+A genius popular writer who's a bit of an airhead.
+The unique worlds she builds have won her ardent fans.
+[IDS_ITEMDESC.ID1130134]
+A group of youngsters following in the footsteps of heroes.
+Bringing a fresh wind to <category id='174'/>, they will soon come into their own.
 [IDS_ITEMDESC.ID1130135]
 A machine life form bearing the name of a god that came to oversee the world over the course of many long years.
 From the phonograph on its right arm, it emits electromagnetic waves that can disable machinery.
+[IDS_ITEMDESC.ID1130136]
+A holy dragon filling the cosmos with mysterious sounds.
+The magnificent beast, wrapped around an entire planet, has a truly divine aura.
 [IDS_ITEMDESC.ID1132001]
 It's not so sure why either, but the rabbit is now a member of a football club.
 It hopes to lead its team to victory with all its natural supportive skill.
@@ -4381,6 +4441,9 @@ When you collect <category id='169'/> cards, the doors of the legendary dragoon 
 [IDS_ITEMDESC.ID1170014]
 A Collector's File for the story of a boy and a girl toyed with by capricious fate.
 They say that when you gather <category id='031'/>, the door to new encounters and journeys will shine.
+[IDS_ITEMDESC.ID1170015]
+A Collector's File based on a tale loved worldwide.
+They say that when you gather <category id='172'/> cards, the door to encounters with fairies will shine.
 [IDS_ITEMDESC.ID1180001]
 A Coin whose motif is the luminous dragon who brings about a new legend.
 Its cerulean eyes glimmer.
@@ -4448,7 +4511,8 @@ The holy armaments blessed with divine grace shine brightly.
 A Coin whose motif is a dragon boy from another dimension.
 His determination in opposing his destiny shines brightly.
 [IDS_ITEMDESC.ID1180024]
-coming soon
+A Coin depicting fairies from a small kingdom where tales are imbued with spirit.
+Stories from across times and places shine within it.
 [IDS_ITEMDESC.ID1190001]
 The max. number of bookmarks you can possess can be increased.
 [IDS_ITEMDESC.ID0000]

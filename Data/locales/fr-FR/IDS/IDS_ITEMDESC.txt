@@ -111,6 +111,9 @@ Son existence bascule le jour où une organisation secrète la prend pour cible.
 [IDS_ITEMDESC.ID1000039]
 Une jeune femme a juré de protéger "<card mrk='14676'/>", malgré le fait que la messagère soit menacée d'élimination.
 Elle ne réalise pas encore que le futur qu'elle tente de protéger va encore plus plonger le monde dans le chaos.
+[IDS_ITEMDESC.ID1000040]
+Une arme mécanique équipée d'un super moteur à double alimentation.
+Alliant énergie thermique et électricité, elle réduit le champ de bataille en cendres grâce à son attaque mortelle surpuissante.
 [IDS_ITEMDESC.ID1000041]
 Une bête démoniaque profondément endormie.
 Afin de dévorer les rêves des autres, elle dégage une odeur somnifère de son corps, mais elle s'endort toujours elle-même.
@@ -120,6 +123,9 @@ Attrapez plein de monstres appétissants, qui vivent dans un monde aussi délira
 [IDS_ITEMDESC.ID1000043]
 <category id='166'/> est célèbre pour ses cornes.
 Ses bras puissants peuvent asséner des coups destructeurs et étrangler ses adversaires.
+[IDS_ITEMDESC.ID1000046]
+Un jeune bretteur <category id='174'/> qui prend les devants.
+Il s'est occupé personnellement de "<card mrk='17783'/>".
 [IDS_ITEMDESC.ID1001001]
 Des nouilles instantanées qui semblent capables de conférer le pouvoir de l'Invocation Fusion.
 Ce n'est pas parce qu'elles sont instantanées qu'elles sont mauvaises !
@@ -784,6 +790,12 @@ Sentant que la déesse manipulant le pouvoir de la destruction s'est réveillée
 [IDS_ITEMDESC.ID1010142]
 Une Icône représentant <category id='059'/>, dotée du pouvoir d'un gardien sacré du soleil.
 Elle peut venir à bout des ennemis les plus puissants.
+[IDS_ITEMDESC.ID1010143]
+Une Icône représentant une belle fée élégante.
+Elle adore ceux qui chérissent leurs familles.
+[IDS_ITEMDESC.ID1010144]
+Une Icône représentant le nouveau membre de "<category id='174'/>".
+Apprenant rapidement, il est certain de devenir une force redoutable lors les combats à venir.
 [IDS_ITEMDESC.ID1010145]
 Une Icône représentant une fille qui a conclu un contrat incomplet en raison de circonstances imprévues.
 Elle ne maîtrise qu'une partie du pouvoir de la Bête Divine.
@@ -1286,6 +1298,8 @@ Inspiré par un certain événement, il s'est pris d'admiration pour l'équipe e
 [IDS_ITEMDESC.ID1013013]
 Une icône affichant un visuel pour "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Trois magiciens qui ont ouvert la porte menant à un autre royaume. Ils sont connus sous le nom des "Trois Sages, les Magistus".
+[IDS_ITEMDESC.ID1013014]
+Une icône exclusive offerte lors d'occasions spéciales.
 [IDS_ITEMDESC.ID1013015]
 Une Icône représentant l'ami virtuel préféré de tous.
 Le rideau se lève sur votre parcours de Duelliste légendaire.
@@ -1939,6 +1953,12 @@ Un Duelliste devient plus fort en s'adaptant à de nouveaux environnements et en
 [IDS_ITEMDESC.ID1020217]
 Un titre donné aux Duellistes qui obtenu des résultats au cours de l'événement de Course de dés ~ Mai 2026 ~.
 L'avenir sourit à ceux qui ont le courage de croire en leurs capacités.
+[IDS_ITEMDESC.ID1020218]
+Un titre donné aux Duellistes qui ont obtenu des résultats remarquables dans le "Festival Fusion x Xyz+".
+Les Duellistes sont fiers des cartes auxquelles ils tiennent le plus.
+[IDS_ITEMDESC.ID1020219]
+Un titre donné aux Duellistes qui ont obtenu des résultats dans un récit choisi grâce au pouvoir de diverses cartes.
+Les histoires racontées au cours des combats laisseront des traces chez de nombreux Duellistes.
 [IDS_ITEMDESC.ID1021001]
 Un titre qui n'est décerné que lors d'une occasion spéciale.
 [IDS_ITEMDESC.ID1021002]
@@ -2151,6 +2171,9 @@ Il est imprégné du pouvoir magique des fées choisies par les arbres.
 [IDS_ITEMDESC.ID1031025]
 Un Cadre d'icône rappelant un dragon dont la folie a été neutralisée.
 Le garçon a retrouvé la raison grâce à la confiance de son entourage.
+[IDS_ITEMDESC.ID1031026]
+Un Cadre d'icône qui évoque une arme dotée d'un mécanisme secret d'ultra-transformation.
+Bien que ce cadre ne puisse malheureusement pas se transformer, il est imprégné de l'énergie du feu et de l'électricité.
 [IDS_ITEMDESC.ID1032001]
 Un Cadre d'icône de forme circulaire pouvant être aperçu dans certaines régions du monde lorsque l'année arrive à son terme.
 On l'accroche en faisant le vœu sincère que les jours à venir apportent joie et bonheur.
@@ -2692,6 +2715,15 @@ Pour ceux qui se battent avec leur monture volante.
 [IDS_ITEMDESC.ID1070167]
 Des Protège-cartes représentant un être enveloppé dans le pouvoir d'un messager contemplant le dieu gardien d'une planète rouge feu.
 Pour ceux qui sont vraiment insondables.
+[IDS_ITEMDESC.ID1070168]
+Des Protège-cartes représentant une fille qui est devenue l'apprentie d'un écrivain qu'elle admire.
+Pour les amateurs de lecture.
+[IDS_ITEMDESC.ID1070169]
+Des Protège-cartes représentant l'atout majeur de "<category id='174'/>".
+Pour ceux qui déchaînent des techniques secrètes à l'épée avec une maîtrise splendide.
+[IDS_ITEMDESC.ID1070170]
+Des Protège-cartes représentant une arme qui utilise une énergie hybride mi-feu, mi-électricité.
+Pour ceux qui sont toujours à fond.
 [IDS_ITEMDESC.ID1070171]
 Des Protège-cartes représentant quelque chose de surnaturel et hors du commun.
 Pour ceux qui se trouvent dans sa zone d'alimentation.
@@ -2701,6 +2733,18 @@ Pour ceux qui cherchent à s'emparer du trône.
 [IDS_ITEMDESC.ID1070173]
 Des Protège-cartes représentant <card mrk='22122'/>, qui revendique le trône impérial.
 Pour ceux qui cherchent à s'emparer du trône.
+[IDS_ITEMDESC.ID1070174]
+Des Protège-cartes représentant un dragon glouton qui sème la destruction.
+Pour ceux qui veulent dévorer le monde entier.
+[IDS_ITEMDESC.ID1070175]
+Des Protège-cartes représentant le roi des lanternes citrouilles.
+Pour ceux qui sont adeptes de Decks fantomatiques.
+[IDS_ITEMDESC.ID1070176]
+Des Protège-cartes représentant "<card mrk='11262'/>", qui sert "<card mrk='11280'/>".
+Pour ceux qui protègent la planète.
+[IDS_ITEMDESC.ID1070177]
+Des Protège-cartes représentant un canon ferroviaire doté d'une tourelle imposante.
+Pour ceux qui éliminent tous leurs adversaires d'un seul coup.
 [IDS_ITEMDESC.ID1070178]
 Des protège-cartes représentant un monstre Illusion avec une fourrure épaisse.
 Pour ceux qui aiment les créatures touffues.
@@ -3761,6 +3805,9 @@ La situation actuelle pourrait s'améliorer grâce au rendement élevé et à la
 [IDS_ITEMDESC.ID1111045]
 Un Stand exquis où savourer un monde de délices en compagnie des animaux qui y vivent.
 Vérifiez bien la friandise de votre choix au cas où il y ait une créature amatrice de sucre à l'intérieur.
+[IDS_ITEMDESC.ID1111046]
+Un Stand inspiré de symboles utilisés par les ninjas.
+Alors qu'un rideau d'obscurité s'abat, une épée scintille soudainement dans l'ombre.
 [IDS_ITEMDESC.ID1111047]
 Un Stand inspiré de l'emblème TÉNÈBRES.
 Depuis l'aube des temps, la lumière a toujours été associée aux ténèbres.
@@ -4219,7 +4266,8 @@ L'oiseau au chant infini des terres éternelles est son animal spirituel.
 "<card mrk='21616'/>" danse pour sauver "<card mrk='18482'/>".
 Kagura Mikanko, qui a atteint la perfection grâce à la compétition... Enfin, les danseurs montent sur scène.
 [IDS_ITEMDESC.ID1130102]
-coming soon
+Deux jeunes filles unies par un destin cruel s'allient pour passer à l'action.
+Un lien solide peut faire des miracles en temps de crise.
 [IDS_ITEMDESC.ID1130103]
 Les étoiles en personne guident l'éclat de ces dragons entremêlés.
 Invoquez la puissance des dragons au creux de votre main.
@@ -4289,6 +4337,9 @@ Mais le sort échoue et les fait tomber du ciel pour atterrir dans la plante gé
 [IDS_ITEMDESC.ID1130127]
 Une vie qui exige la pureté et la force d'un saint.
 Le lien de confiance qu'elles ont formé est semblable à celui qui existe entre deux sœurs.
+[IDS_ITEMDESC.ID1130128]
+L'artillerie supplémentaire au niveau des épaules permet de lancer des attaques à très longue portée.
+Ses tirs surpuissants anéantissent même les ennemis à distance.
 [IDS_ITEMDESC.ID1130129]
 Un sbire de "<card mrk='21936'/>" qui dupe ses proies en prenant l'apparence d'un humain.
 Il leur lave le cerveau et les enlève pour les utiliser comme sacrifices.
@@ -4301,9 +4352,18 @@ Envahisseurs, entendez le Rugissement Tri-Brigade !
 [IDS_ITEMDESC.ID1130132]
 Son regard vide ne ressemble en rien à celui d'une jeune fille.
 Immaculée, elle est néanmoins l'incarnation du chaos, fille de l'amour et du désespoir.
+[IDS_ITEMDESC.ID1130133]
+Une écrivaine de génie très populaire, mais un peu tête en l'air.
+Elle a beaucoup de fans inconditionnels en raison des univers uniques qu'elle crée.
+[IDS_ITEMDESC.ID1130134]
+Un groupe de jeunes qui marchent dans les pas des héros.
+Ils apportent un vent nouveau à <category id='174'/> et prendront bientôt leur envol.
 [IDS_ITEMDESC.ID1130135]
 Une forme de vie mécanique portant le nom d'un dieu qui a veillé sur le monde au fil de nombreuses années.
 Grâce au phonographe sur son bras droit, il émet des ondes électromagnétiques capables de mettre les machines hors service.
+[IDS_ITEMDESC.ID1130136]
+Un dragon sacré qui emplit le cosmos de sons mystérieux.
+Cette bête magnifique, enroulée autour d'une planète, dégage une aura divine.
 [IDS_ITEMDESC.ID1132001]
 Il ne sait pas très bien pourquoi, mais le lapin est désormais membre d'un club de foot.
 Il espère mener son équipe jusqu'à la victoire grâce à son talent naturel pour le soutien.
@@ -4379,6 +4439,9 @@ Quand vous obtenez des cartes <category id='169'/>, les portes du soldat dragon 
 [IDS_ITEMDESC.ID1170014]
 Un Dossier de Collectionneur pour l'histoire d'un garçon et d'une fille soumis aux caprices du destin.
 On dit que lorsque vous rassemblez des <category id='031'/>, les portes menant à de nouvelles rencontres et aventures brilleront de mille feux.
+[IDS_ITEMDESC.ID1170015]
+Un Dossier de Collectionneur inspiré par un conte adoré dans le monde entier.
+On dit que lorsque les cartes <category id='172'/> seront réunies, les portes qui mènent aux fées brilleront de mille feux.
 [IDS_ITEMDESC.ID1180001]
 Une pièce dont le motif est le dragon lumineux qui écrit une nouvelle légende.
 Ses yeux céruléens brillent.
@@ -4446,7 +4509,8 @@ L'armement divin béni par la grâce céleste brille intensément.
 Une Pièce dont le motif est un garçon dragon originaire d'une autre dimension.
 Sa volonté de s'opposer à son destin brille intensément.
 [IDS_ITEMDESC.ID1180024]
-coming soon
+Une Pièce représentant des fées issues d'un petit royaume où les contes sont empreints de magie.
+Des histoires de toutes les époques et de tous les horizons brillent de mille feux.
 [IDS_ITEMDESC.ID1190001]
 Le nombre maximum de marque-pages que vous pouvez posséder peut être augmenté.
 [IDS_ITEMDESC.ID0000]

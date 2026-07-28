@@ -76,12 +76,16 @@ coming soon
 아이:피 마스카레나
 [IDS_ITEM.ID1000039]
 에스:피 리틀나이트
+[IDS_ITEM.ID1000040]
+라이제올 데드네이더
 [IDS_ITEM.ID1000041]
 No.41 이수마수 바구스카
 [IDS_ITEM.ID1000042]
 야미★스내치
 [IDS_ITEM.ID1000043]
 다이너레슬러 판크라톱스
+[IDS_ITEM.ID1000046]
+공아단의 검사 비트
 [IDS_ITEM.ID1001001]
 인스턴트 퓨전
 [IDS_ITEM.ID1001002]
@@ -480,6 +484,10 @@ K9－17호 이즈나
 드래그니티－쿠이리누스
 [IDS_ITEM.ID1010142]
 엑소시스터 미카에리스
+[IDS_ITEM.ID1010143]
+페어리테일－백설
+[IDS_ITEM.ID1010144]
+공아단의 적하 렉스
 [IDS_ITEM.ID1010145]
 아르토메기아＝논피니토
 [IDS_ITEM.ID1010146]
@@ -816,6 +824,8 @@ eFootball™
 레스큐 고슴도치
 [IDS_ITEM.ID1013013]
 소환사 알레이스터
+[IDS_ITEM.ID1013014]
+Shadow Duelist Zester
 [IDS_ITEM.ID1013015]
 웜퍼스군
 [IDS_ITEM.ID1020001]
@@ -1252,6 +1262,10 @@ WCS2026 예선 DLv.MAX
 라이트닝 스톰
 [IDS_ITEM.ID1020217]
 모 아니면 도
+[IDS_ITEM.ID1020218]
+초노급
+[IDS_ITEM.ID1020219]
+정의의 집행자
 [IDS_ITEM.ID1021001]
 반석의 포진
 [IDS_ITEM.ID1021002]
@@ -1398,6 +1412,8 @@ P.U.N.K.JAM FEVER!
 엘펜노츠
 [IDS_ITEM.ID1031025]
 흑의룡 알비온
+[IDS_ITEM.ID1031026]
+팔마 라이제올
 [IDS_ITEM.ID1032001]
 축제의 오너먼트
 [IDS_ITEM.ID1032002]
@@ -1762,12 +1778,26 @@ R.B.브루트 블루스
 드래그니티 나이트－아레우스
 [IDS_ITEM.ID1070167]
 엑소시스터 카르마엘
+[IDS_ITEM.ID1070168]
+페어리테일을 이야기하는 자
+[IDS_ITEM.ID1070169]
+공아단의 대의 폴고
+[IDS_ITEM.ID1070170]
+라이제올 플러그인
 [IDS_ITEM.ID1070171]
 헤카톤케일 자우저
 [IDS_ITEM.ID1070172]
 데스 엠페러 데몬
 [IDS_ITEM.ID1070173]
 데스 레지나 데몬
+[IDS_ITEM.ID1070174]
+패왕폭룡 스타브 베놈 윙 드래곤
+[IDS_ITEM.ID1070175]
+묘지의 고스트 왕 펌프킹
+[IDS_ITEM.ID1070176]
+신성한 인자
+[IDS_ITEM.ID1070177]
+초노급포탑열차 저거너트 리베
 [IDS_ITEM.ID1070178]
 모코못코
 [IDS_ITEM.ID1071001]
@@ -2464,6 +2494,8 @@ coming soon
 레알 제넥스 튜링
 [IDS_ITEM.ID1111045]
 마돌체 표콜렛
+[IDS_ITEM.ID1111046]
+천지회명
 [IDS_ITEM.ID1111047]
 어둠 속성
 [IDS_ITEM.ID1111048]
@@ -2786,6 +2818,8 @@ K9－EX “Werewolf”
 오오히메의 미캉코
 [IDS_ITEM.ID1130101]
 미캉코신무－후타하시라노우즈노미코
+[IDS_ITEM.ID1130102]
+합체술식－인게이지 제로
 [IDS_ITEM.ID1130103]
 케투 드래곤테일
 [IDS_ITEM.ID1130104]
@@ -2832,6 +2866,8 @@ K9－EX “Werewolf”
 엘펜노츠~회향의 패러렐리즘~
 [IDS_ITEM.ID1130127]
 두 명의 성녀
+[IDS_ITEM.ID1130128]
+라이제올 매스 드라이버
 [IDS_ITEM.ID1130129]
 바이트 알 헤카톤케일
 [IDS_ITEM.ID1130130]
@@ -2840,8 +2876,14 @@ K9－EX “Werewolf”
 삼전의 호
 [IDS_ITEM.ID1130132]
 융합파병
+[IDS_ITEM.ID1130133]
+페어리테일을 엮는 자
+[IDS_ITEM.ID1130134]
+신풍의 공아단
 [IDS_ITEM.ID1130135]
 질로프소니아 고르곤
+[IDS_ITEM.ID1130136]
+피드라울리스＝하르모니아
 [IDS_ITEM.ID1132001]
 레스큐 래빗
 [IDS_ITEM.ID1132002]
@@ -2896,6 +2938,8 @@ K9(케이나인)
 드래그니티
 [IDS_ITEM.ID1170014]
 순백의 이야기
+[IDS_ITEM.ID1170015]
+페어리테일
 [IDS_ITEM.ID1180001]
 푸른 눈의 아백룡
 [IDS_ITEM.ID1180002]
@@ -2943,7 +2987,7 @@ K9(케이나인)
 [IDS_ITEM.ID1180023]
 알버스의 낙윤
 [IDS_ITEM.ID1180024]
-coming soon
+페어리테일
 [IDS_ITEM.ID1190001]
 북마크 슬롯
 [IDS_ITEM.ID0000]

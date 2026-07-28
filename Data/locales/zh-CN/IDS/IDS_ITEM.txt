@@ -76,12 +76,16 @@ coming soon
 I：P百变莱娜
 [IDS_ITEM.ID1000039]
 S：P小夜骑士
+[IDS_ITEM.ID1000040]
+雷热涡炉・绝命导爆
 [IDS_ITEM.ID1000041]
 编号41 泥睡魔兽 貘熟梦
 [IDS_ITEM.ID1000042]
 黯蜜★史拿奇
 [IDS_ITEM.ID1000043]
 恐龙摔跤手・潘克拉三角龙
+[IDS_ITEM.ID1000046]
+空牙团的剑士 比特
 [IDS_ITEM.ID1001001]
 简易结合
 [IDS_ITEM.ID1001002]
@@ -480,6 +484,10 @@ K9－17号 饭纲
 龙骑兵团－奎里纳斯
 [IDS_ITEM.ID1010142]
 驱魔姐妹・米迦以利斯
+[IDS_ITEM.ID1010143]
+妖精传姬－白雪
+[IDS_ITEM.ID1010144]
+空牙团的载货 雷克斯
 [IDS_ITEM.ID1010145]
 未竟神艺 智慧之少女
 [IDS_ITEM.ID1010146]
@@ -816,6 +824,8 @@ eFootball™
 救援刺猬
 [IDS_ITEM.ID1013013]
 召唤师 阿莱斯特
+[IDS_ITEM.ID1013014]
+Shadow Duelist Zester
 [IDS_ITEM.ID1013015]
 Wumpus
 [IDS_ITEM.ID1020001]
@@ -1252,6 +1262,10 @@ WCS2026 预选赛 DLv.MAX
 闪电风暴
 [IDS_ITEM.ID1020217]
 一天地六
+[IDS_ITEM.ID1020218]
+超重型
+[IDS_ITEM.ID1020219]
+正义的执行者
 [IDS_ITEM.ID1021001]
 磐石的布阵
 [IDS_ITEM.ID1021002]
@@ -1398,6 +1412,8 @@ K9－17号 饭纲
 耀圣
 [IDS_ITEM.ID1031025]
 黑衣龙 阿尔比昂
+[IDS_ITEM.ID1031026]
+脉离・雷热涡炉
 [IDS_ITEM.ID1032001]
 庆典装饰
 [IDS_ITEM.ID1032002]
@@ -1762,12 +1778,26 @@ R.B.布鲁特・布鲁斯
 龙骑兵团骑士－阿瑞斯
 [IDS_ITEM.ID1070167]
 驱魔姐妹・卡尔玛尔
+[IDS_ITEM.ID1070168]
+讲述妖精传姬之人
+[IDS_ITEM.ID1070169]
+空牙团之大义 风吼雷
+[IDS_ITEM.ID1070170]
+雷热涡炉・嵌能
 [IDS_ITEM.ID1070171]
 百臂无形神 迦乌撒
 [IDS_ITEM.ID1070172]
 死亡皇帝恶魔
 [IDS_ITEM.ID1070173]
 死亡女后恶魔
+[IDS_ITEM.ID1070174]
+霸王暴龙 凶饿猛毒透翼龙
+[IDS_ITEM.ID1070175]
+墓场的鬼魂王－南瓜王－
+[IDS_ITEM.ID1070176]
+神星之因子
+[IDS_ITEM.ID1070177]
+超重型炮塔列车 爱恋倾城炮
 [IDS_ITEM.ID1070178]
 毛可毛可
 [IDS_ITEM.ID1071001]
@@ -2464,6 +2494,8 @@ coming soon
 真次代机・图灵机
 [IDS_ITEM.ID1111045]
 魔幻甜点・巧克力哔哔
+[IDS_ITEM.ID1111046]
+天地晦冥
 [IDS_ITEM.ID1111047]
 暗属性
 [IDS_ITEM.ID1111048]
@@ -2786,6 +2818,8 @@ K9－EX “狼人”
 大日女之御巫
 [IDS_ITEM.ID1130101]
 御巫神舞－二贵子
+[IDS_ITEM.ID1130102]
+合体术式－交闪零式
 [IDS_ITEM.ID1130103]
 计都星宿
 [IDS_ITEM.ID1130104]
@@ -2832,6 +2866,8 @@ I：P百变莱娜 和 S：P小夜骑士
 耀圣诗章～归乡之排比句～
 [IDS_ITEM.ID1130127]
 两位圣女
+[IDS_ITEM.ID1130128]
+雷热涡炉・质量投击炮
 [IDS_ITEM.ID1130129]
 百臂无形引导手
 [IDS_ITEM.ID1130130]
@@ -2840,8 +2876,14 @@ I：P百变莱娜 和 S：P小夜骑士
 三战之号
 [IDS_ITEM.ID1130132]
 融合派兵
+[IDS_ITEM.ID1130133]
+编织妖精传姬之人
+[IDS_ITEM.ID1130134]
+新风的空牙团
 [IDS_ITEM.ID1130135]
 美丽的磁律机坏
+[IDS_ITEM.ID1130136]
+调和之天救龙
 [IDS_ITEM.ID1132001]
 救援兔
 [IDS_ITEM.ID1132002]
@@ -2892,6 +2934,8 @@ K9
 龙骑兵团
 [IDS_ITEM.ID1170014]
 白之故事
+[IDS_ITEM.ID1170015]
+妖精传姬
 [IDS_ITEM.ID1180001]
 青眼亚白龙
 [IDS_ITEM.ID1180002]
@@ -2939,7 +2983,7 @@ EM：P猫猫手榴弹
 [IDS_ITEM.ID1180023]
 阿尔白斯之落胤
 [IDS_ITEM.ID1180024]
-coming soon
+妖精传姬
 [IDS_ITEM.ID1190001]
 书签上限
 [IDS_ITEM.ID0000]

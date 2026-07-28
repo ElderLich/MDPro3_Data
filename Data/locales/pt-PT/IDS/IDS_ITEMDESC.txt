@@ -111,6 +111,9 @@ Quando ela entra na mira de uma organização misteriosa, seu destino começa a 
 [IDS_ITEMDESC.ID1000039]
 Uma garota jurou proteger "<card mrk='14676'/>", apesar de a mensageira ser alvo de extermínio.
 Ela ainda não sabe que o pequeno futuro que protege mergulhará o mundo em uma turbulência ainda maior.
+[IDS_ITEMDESC.ID1000040]
+Uma arma mecha equipada com um supermotor energético duplo.
+Combinando energia ígnea e elétrica, ela transforma o campo de batalha em cinzas com seu ataque letal de máxima potência.
 [IDS_ITEMDESC.ID1000041]
 Uma fera demoníaca que dorme como lama.
 Para comer os sonhos dos outros, ele libera um odor indutor de sono de seu corpo, mas sempre coloca a si mesmo para dormir.
@@ -120,6 +123,9 @@ Pegue todos os monstros de dar água na boca que vivem em um mundinho deliciosam
 [IDS_ITEMDESC.ID1000043]
 <category id='166'/> se destaca pelos distintos chifres na cabeça.
 Com braços poderosos, desfere socos destruidores e aplica estrangulamentos.
+[IDS_ITEMDESC.ID1000046]
+Jovem esgrimista <category id='174'/> que assume a liderança.
+Assumiu o comando de "<card mrk='17783'/>".
 [IDS_ITEMDESC.ID1001001]
 Um copo de macarrão instantâneo que parece conceder o poder da Invocação-Fusão.
 Só porque são instantâneos, não quer dizer que são ruins!
@@ -784,6 +790,12 @@ Ao sentir o retorno da deusa que empunha o poder da destruição, ele decide vol
 [IDS_ITEMDESC.ID1010142]
 Um Ícone que retrata <category id='059'/>, imbuída do poder de uma guardiã divina do sol.
 Ela pode derrotar até os demônios mais poderosos.
+[IDS_ITEMDESC.ID1010143]
+Um Ícone que retrata uma fada bela e graciosa.
+Adora aqueles que valorizam a família.
+[IDS_ITEMDESC.ID1010144]
+Ícone que retrata o membro recém-nascido de "<category id='174'/>".
+Como cresce e aprende muito rápido, será uma força temível em batalhas futuras.
 [IDS_ITEMDESC.ID1010145]
 Um Ícone que retrata uma garota que entrou em um contrato incompleto devido a circunstâncias imprevistas.
 Ela empunha apenas parte do poder da besta divina.
@@ -1286,6 +1298,8 @@ Inspirado por um certo acontecimento, ele passou a admirar a equipe e decidiu in
 [IDS_ITEMDESC.ID1013013]
 Um ícone com visual chave para "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Três magos que destravaram a porta para um outro reino. Eles passaram a ser conhecidos como os "Três Magos, os Magistus".
+[IDS_ITEMDESC.ID1013014]
+Ícone exclusivo, disponível em ocasiões especiais.
 [IDS_ITEMDESC.ID1013015]
 Um Ícone que retrata o colega virtual favorito de todo mundo.
 Erguem-se as cortinas da sua jornada para se tornar um Duelista lendário.
@@ -1939,6 +1953,12 @@ Um Duelista fica mais forte ao se adaptar a novos ambientes e continuar encarand
 [IDS_ITEMDESC.ID1020217]
 Um título concedido a Duelistas que obtiveram resultados no evento "Rally de Dados ~ Maio de 2026 ~".
 Um futuro brilhante aguarda todos aqueles que são corajosos o suficiente para confiar em si próprios.
+[IDS_ITEMDESC.ID1020218]
+Um Título concedido a Duelistas que obtiveram resultados notáveis no Festival Xyz x Fusão +.
+O orgulho dos Duelistas é despertado pelos cards que eles mais estimam.
+[IDS_ITEMDESC.ID1020219]
+Um Título dado aos Duelistas que alcançaram resultados em uma narrativa escolhida com o poder de vários cards.
+As histórias criadas em batalha deixarão algo que vai marcar muitos Duelistas.
 [IDS_ITEMDESC.ID1021001]
 Um título concedido apenas em uma ocasião especial.
 [IDS_ITEMDESC.ID1021002]
@@ -2151,6 +2171,9 @@ Ela é imbuída do poder mágico de fadas escolhidas pelas árvores.
 [IDS_ITEMDESC.ID1031025]
 Uma Moldura de Ícone que lembra um dragão cuja fúria havia sido contida.
 O garoto recuperou os sentidos graças à confiança daqueles ao seu redor.
+[IDS_ITEMDESC.ID1031026]
+Uma Moldura de Ícone que evoca uma arma mecha com um mecanismo secreto de ultratransformação.
+Infelizmente, a moldura não é capaz de se transformar, mas está repleta de energia ígnea e elétrica.
 [IDS_ITEMDESC.ID1032001]
 Uma Moldura de Ícone em forma de decoração circular que pode ser vista em uma certa região conforme o ano chega ao fim.
 São penduradas com o desejo sincero de felicidade e alegria nos tempos vindouros.
@@ -2693,6 +2716,15 @@ Para quem luta em sintonia com sua montaria voadora.
 [IDS_ITEMDESC.ID1070167]
 Protetores que retratam algo semelhante a um ser envolto no poder de um mensageiro que contemplou o deus que protege um planeta vermelho em chamas.
 Para aqueles que são realmente insondáveis.
+[IDS_ITEMDESC.ID1070168]
+Protetores que retratam uma garota que se tornou aprendiz de uma escritora que ela admirava.
+Para aqueles que amam ler.
+[IDS_ITEMDESC.ID1070169]
+Protetores que retratam a potência de "<category id='174'/>".
+Para quem desfere técnicas secretas com uma maestria impressionante da lâmina.
+[IDS_ITEMDESC.ID1070170]
+Protetores que retratam uma arma utilizando energia híbrida ígnea e elétrica.
+Para aqueles que estão sempre na potência máxima.
 [IDS_ITEMDESC.ID1070171]
 Protetores que retratam a forma de algo sobrenatural e de outro mundo.
 Para aqueles que se veem em seu território de caça.
@@ -2702,6 +2734,18 @@ Para aqueles que desejam tomar o trono.
 [IDS_ITEMDESC.ID1070173]
 Protetores que retratam <card mrk='22122'/>, que reivindicou o trono imperial.
 Para aqueles que desejam tomar o trono.
+[IDS_ITEMDESC.ID1070174]
+Protetores que retratam um dragão guloso que traz destruição.
+Para aqueles que querem devorar o mundo inteiro.
+[IDS_ITEMDESC.ID1070175]
+Protetores que retratam o rei das abóboras de Halloween.
+Para quem empunha Decks fantasmagóricos.
+[IDS_ITEMDESC.ID1070176]
+Protetores que retratam "<card mrk='11262'/>", que serve "<card mrk='11280'/>".
+Para aqueles que protegem o planeta.
+[IDS_ITEMDESC.ID1070177]
+Protetores que retratam um canhão ferroviário com uma torreta gigantesca.
+Para aqueles que eliminam seus oponentes com um único tiro.
 [IDS_ITEMDESC.ID1070178]
 Protetores com um monstro Ilusão de pelagem espessa e volumosa.
 Para os amantes de tudo que é fofinho.
@@ -3764,6 +3808,9 @@ A crise atual pode ser vencida graças à alta produção e à resistência do r
 [IDS_ITEMDESC.ID1111045]
 Um estande adocicado apropriado para saborear um mundo de doces ao lado de seus residentes animais.
 Você vai querer ter certeza de que não existam criaturas gulosas submersas no doce de sua preferência.
+[IDS_ITEMDESC.ID1111046]
+Um pedestal inspirado em símbolos ninjas.
+Ao cair da cortina da escuridão, uma espada relampeja silenciosamente das sombras.
 [IDS_ITEMDESC.ID1111047]
 Um Suporte inspirado no modelo do emblema de TREVAS.
 Desde o início dos tempos, a luz e a escuridão sempre estiveram associadas.
@@ -4222,7 +4269,8 @@ Ela tomou o pássaro do canto eterno como sua besta espiritual.
 "<card mrk='21616'/>" dança para salvar "<card mrk='18482'/>".
 Kagura Mikanko, aperfeiçoada pela competição. Finalmente, as dançarinas sobem ao palco.
 [IDS_ITEMDESC.ID1130102]
-coming soon
+Duas garotas conectadas por um destino cruel unem forças e atacam.
+O poder de uma conexão forte pode fazer milagres em momentos de crise.
 [IDS_ITEMDESC.ID1130103]
 As próprias estrelas guiam o brilho dos dragões entrelaçados.
 Invoque o poder dos dragões com as próprias mãos.
@@ -4292,6 +4340,9 @@ O feitiço, no entanto, falha, e todos despencam do céu para os braços da plan
 [IDS_ITEMDESC.ID1130127]
 Uma vida que exige a pureza e a força de uma santa.
 O laço de confiança que formaram fez com que fossem como irmãs.
+[IDS_ITEMDESC.ID1130128]
+Os armamentos de ombro adicionais permitem ataques de alcance ultralongo.
+Os disparos de máxima potência obliteram até mesmo inimigos muito distantes.
 [IDS_ITEMDESC.ID1130129]
 Um servo de <card mrk='21936'/> que engana seus alvos ao imitar uma aparência humana.
 Ele faz lavagem cerebral neles e os sequestra para usá-los como sacrifícios.
@@ -4304,9 +4355,18 @@ Invasores, ouçam o Rugido da Tri-Brigada!
 [IDS_ITEMDESC.ID1130132]
 Seus olhos vazios não se parecem nem um pouco com os de uma jovem garota.
 Imaculada, ela ainda assim é a encarnação do caos, filha do amor e do desespero.
+[IDS_ITEMDESC.ID1130133]
+Uma escritora genial e popular que é um pouco cabeça-de-vento.
+Os mundos únicos que ela constrói conquistaram fãs apaixonados.
+[IDS_ITEMDESC.ID1130134]
+Grupo de jovens seguindo os passos de heróis.
+Trazendo um novo ânimo a <category id='174'/>, logo encontrarão o caminho que devem seguir.
 [IDS_ITEMDESC.ID1130135]
 Uma forma de vida mecânica que carrega o nome de um deus que passou a supervisionar o mundo ao longo de muitos e longos anos.
 Do fonógrafo em seu braço direito, ela emite ondas eletromagnéticas capazes de desativar máquinas.
+[IDS_ITEMDESC.ID1130136]
+Um dragão sagrado que preenche o cosmo com sons misteriosos.
+Circundando um planeta inteiro, esta fera magnífica tem uma aura verdadeiramente divina.
 [IDS_ITEMDESC.ID1132001]
 Ele também não sabe muito bem por que, mas o coelho agora é membro de um clube de futebol.
 Seu objetivo é levar o time à vitória com suas habilidades naturais de suporte.
@@ -4382,6 +4442,9 @@ Dizem que, ao colecionar Cards <category id='169'/>, as portas do dragão lendá
 [IDS_ITEMDESC.ID1170014]
 Um Acervo de Colecionador sobre a história de um garoto e uma garota à mercê de um destino caprichoso.
 Dizem que, ao reunir <category id='031'/>, a porta para novos encontros e jornadas brilhará.
+[IDS_ITEMDESC.ID1170015]
+Um Acervo de Colecionador criado com base em um conto aclamado mundialmente.
+Dizem que, quando você reunir cards <category id='172'/>, a porta para encontros com fadas reluzirá.
 [IDS_ITEMDESC.ID1180001]
 Uma Moeda gravada com o dragão luminoso que dá início a uma nova lenda.
 Seus olhos cerúleos brilham.
@@ -4449,7 +4512,8 @@ Os armamentos sagrados abençoados pela graça divina brilham intensamente.
 Moeda cujo emblema é um garoto dragão de outra dimensão.
 Sua determinação para desafiar o próprio destino brilha intensamente.
 [IDS_ITEMDESC.ID1180024]
-coming soon
+Moeda representando fadas de um reino pequeno onde contos são imbuídos com espírito.
+Histórias de diferentes épocas e lugares reluzem dentro dela.
 [IDS_ITEMDESC.ID1190001]
 O número máximo de favoritos que você pode ter pode ser aumentado.
 [IDS_ITEMDESC.ID0000]

@@ -111,6 +111,9 @@ Als eine mysteriöse Organisation sie ins Visier nimmt, beginnt sich ihr Schicks
 [IDS_ITEMDESC.ID1000039]
 Ein Mädchen schwor, „<card mrk='14676'/>“ zu beschützen, obwohl die Kurierin eliminiert werden sollte.
 Sie ahnt noch nicht, dass die kleine Zukunft, die sie beschützt, die Welt in noch größere Turbulenzen stürzen wird.
+[IDS_ITEMDESC.ID1000040]
+Eine Mecha-Waffe, ausgestattet mit einem Super-Doppelkraftantrieb.
+Indem sie Feuer- und Elektroenergie vereint, legt sie das Schlachtfeld mit ihrem tödlichen Vollangriff in Schutt und Asche.
 [IDS_ITEMDESC.ID1000041]
 Ein dämonisches Ungeheuer, das schläft wie Schlamm.
 Um sich von den Träumen anderer zu ernähren, stößt es ein einschläferndes Aroma aus, schläft aber immer selbst ein.
@@ -120,6 +123,9 @@ Schnapp dir alle lecker aussehenden Monster, die in einer köstlich albernen Wel
 [IDS_ITEMDESC.ID1000043]
 <category id='166'/> ist bekannt für die markanten Hörner auf seinem Kopf.
 Es nutzt seine kräftigen Arme, um knochenbrechende Schläge und Würgegriffe auszuführen.
+[IDS_ITEMDESC.ID1000046]
+Ein junger <category id='174'/>-Fechter, der die Führung übernimmt.
+Er übernahm persönlich die Obhut von „<card mrk='17783'/>“.
 [IDS_ITEMDESC.ID1001001]
 Ein Becher mit Fertignudeln, die aussehen, als könnten sie dir die Macht der Fusionsbeschwörung gewähren.
 Es sind zwar Fertignudeln, aber das heißt nicht, dass sie nicht lecker sind!
@@ -784,6 +790,12 @@ Als er die Wiederbelebung der Göttin spürte, die die Macht der Zerstörung inn
 [IDS_ITEMDESC.ID1010142]
 Ein Symbol, das <category id='059'/> darstellt, erfüllt von der Macht eines göttlichen Wächters der Sonne.
 Sie kann selbst die mächtigsten Ungeheuer besiegen.
+[IDS_ITEMDESC.ID1010143]
+Ein Symbol, das eine wunderschöne, anmutige Fee darstellt.
+Sie liebt jene, die ihre Familien in Ehren halten.
+[IDS_ITEMDESC.ID1010144]
+Ein Symbol, das das neugeborene Mitglied von „<category id='174'/>“ darstellt.
+Da es schnell wächst und lernt, wird es in künftigen Kämpfen zweifellos zu einer gefürchteten Macht heranwachsen.
 [IDS_ITEMDESC.ID1010145]
 Ein Symbol, das ein Mädchen darstellt, das aufgrund unvorhergesehener Umstände einen unvollständigen Vertrag eingegangen ist.
 Sie verfügt nur über einen Teil der Macht des göttlichen Ungeheuers.
@@ -1286,6 +1298,8 @@ Inspiriert von einem bestimmten Ereignis, begannen es, das Team zu bewundern und
 [IDS_ITEMDESC.ID1013013]
 Ein Symbol, mit einem Hauptmotiv für „Yu-Gi-Oh! CARD GAME THE CHRONICLES“.
 Drei Magier, die die Tür zu einer anderen Welt öffneten. Sie wurden als die „Drei Weisen, die Magistus“ bekannt.
+[IDS_ITEMDESC.ID1013014]
+Ein exklusives Symbol, das zu besonderen Anlässen angeboten wird.
 [IDS_ITEMDESC.ID1013015]
 Ein Symbol, das jedermanns liebsten Online-Kumpel darstellt.
 Der Vorhang hebt sich für deine Reise auf dem Weg zum legendären Duellanten.
@@ -1939,6 +1953,12 @@ Ein Duellant wird stärker, indem er sich an neue Umgebungen anpasst und sich im
 [IDS_ITEMDESC.ID1020217]
 Ein Titel, der an Duellanten vergeben wird, die beim Festival „Würfel-Rallye ~ Mai 2026 ~“ Ergebnisse erzielt haben.
 Eine glänzende Zukunft wartet auf diejenigen, die mutig genug sind, sich selbst zu vertrauen.
+[IDS_ITEMDESC.ID1020218]
+Ein Titel, der Duellanten verliehen wird, die beim „Fusion x Xyz Festival+“ Erfolge erzielt haben.
+Der Stolz der Duellanten wird durch jene Karten erweckt, die ihnen am meisten am Herzen liegen.
+[IDS_ITEMDESC.ID1020219]
+Ein Titel, der an Duellanten vergeben wird, die mit der Kraft verschiedenster Karten Ergebnisse in einer ausgewählten Erzählungen erzielt haben.
+Die Geschichten, die durch Kämpfe erzählt werden, werden bei vielen Duellanten einen bleibenden Eindruck hinterlassen.
 [IDS_ITEMDESC.ID1021001]
 Ein Titel, der nur zu einem besonderen Anlass verliehen wird.
 [IDS_ITEMDESC.ID1021002]
@@ -2151,6 +2171,9 @@ Er ist erfüllt von der magischen Kraft der von den Bäumen auserwählten Feen.
 [IDS_ITEMDESC.ID1031025]
 Ein Symbol-Rahmen, der an einen Drachen erinnert, dessen Raserei besänftigt worden war.
 Der Junge fand dank der Kraft des Vertrauens der Menschen um ihn herum wieder zu sich.
+[IDS_ITEMDESC.ID1031026]
+Ein Symbol-Rahmen, der an eine Mecha-Waffe mit einem geheimen Ultra-Transformationsmechanismus erinnert.
+Obwohl sich der Rahmen leider nicht transformieren lässt, ist er mit reichlich Feuer- und Elektroenergie durchdrungen.
 [IDS_ITEMDESC.ID1032001]
 Ein Symbol-Rahmen in der Form einer runden Dekoration, die in manchen Regionen zum Jahresende zu sehen ist.
 Sie werden mit dem aufrichtigen Wunsch nach Glück und Freude in der kommenden Zeit aufgehängt.
@@ -2693,6 +2716,15 @@ Für diejenigen, die im Kampf eins mit ihrem fliegenden Reittier sind.
 [IDS_ITEMDESC.ID1070167]
 Kartenhüllen, die ein Wesen darstellen, das die Macht eines Boten ausstrahlt, der den Gott erblickte, der einen feuerroten Planeten bewacht.
 Für all jene, die wahrhaft unergründlich sind.
+[IDS_ITEMDESC.ID1070168]
+Kartenhüllen, die ein Mädchen darstellen, das Lehrling eines Schriftstellers wurde, den es bewunderte.
+Für alle, die gerne lesen.
+[IDS_ITEMDESC.ID1070169]
+Kartenhüllen, die die Kraft von „<category id='174'/>“ darstellen.
+Für alle, die geheime Techniken mit atemberaubender Klingenbeherrschung entfesseln.
+[IDS_ITEMDESC.ID1070170]
+Kartenhüllen, die eine Waffe darstellen, welche hybride Feuer- und Elektroenergie nutzt.
+Für alle, die immer Vollgas geben.
 [IDS_ITEMDESC.ID1070171]
 Kartenhüllen, die die Gestalt von etwas Übernatürlichem und Jenseitigem darstellen.
 Für all jene, die sich in seinem Nahrungsgebiet wiederfinden.
@@ -2702,6 +2734,18 @@ Für jene, die den Thron an sich reißen wollen.
 [IDS_ITEMDESC.ID1070173]
 Kartenhüllen, die <card mrk='22122'/> darstellen, der Anspruch auf den Kaiserthron erhob.
 Für jene, die den Thron an sich reißen wollen.
+[IDS_ITEMDESC.ID1070174]
+Kartenhüllen, die einen gefräßigen Drachen darstellen, der Zerstörung bringt.
+Für diejenigen, die die ganze Welt verschlingen wollen.
+[IDS_ITEMDESC.ID1070175]
+Kartenhüllen, die den Kürbiskönig darstellen.
+Für alle, die mit Geister-Decks spielen.
+[IDS_ITEMDESC.ID1070176]
+Kartenhüllen, die „<card mrk='11262'/>“ darstellen, der „<card mrk='11280'/>“ dient.
+Für jene, die den Planeten beschützen.
+[IDS_ITEMDESC.ID1070177]
+Kartenhüllen, die ein Eisenbahngeschütz mit einem massiven Geschützturm darstellen.
+Für diejenigen, die ihre Gegner mit einem einzigen Schuss ausschalten.
 [IDS_ITEMDESC.ID1070178]
 Kartenhüllen mit einem Illusionsmonster mit dichtem, buschigem Fell.
 Für diejenigen, die alles lieben, was flauschig ist.
@@ -3763,6 +3807,9 @@ Dank der hohen Leistung und Ausdauer des Reaktors könnte sich die gegenwärtige
 [IDS_ITEMDESC.ID1111045]
 Ein süßer Stand, der perfekt geeignet ist, um gemeinsam mit den dort lebenden Tieren eine zuckersüße Welt zu erleben.
 Achte darauf, dass sich in deinem Lieblingssnack keine Naschkatzen befinden.
+[IDS_ITEMDESC.ID1111046]
+Ein Stand, inspiriert von Symbolen, die von Ninjas verwendet werden.
+Während der Vorhang der Dunkelheit herabsinkt, blitzt lautlos ein Schwert aus den Schatten hervor.
 [IDS_ITEMDESC.ID1111047]
 Ein Stand nach dem Vorbild des FINSTERNIS Emblems.
 Seit Anbeginn der Zeit hat sich das Licht immer mit der Dunkelheit gepaart.
@@ -4220,7 +4267,8 @@ Sie erklärte den ewig singenden Vogel des ewigen Landes zu ihrem Geistungeheuer
 „<card mrk='21616'/>“ tanzt, um „<card mrk='18482'/>“ zu retten.
 Mikanko Kagura, perfektioniert durch Wettbewerbe – endlich betreten die Tänzer und Tänzerinnen die Bühne.
 [IDS_ITEMDESC.ID1130102]
-coming soon
+Zwei Mädchen, durch ein grausames Schicksal verbunden, schließen sich zusammen und schlagen zu.
+Die Kraft einer starken Bindung kann in Krisenzeiten Wunder wirken.
 [IDS_ITEMDESC.ID1130103]
 Die Sterne selbst lenken den Glanz dieser ineinander verschlungenen Drachen.
 Beschwöre die Macht der Drachen in deinen eigenen Händen.
@@ -4290,6 +4338,9 @@ Der Zauber schlägt fehl und sie stürzen vom Himmel direkt in die Arme der ries
 [IDS_ITEMDESC.ID1130127]
 Ein Leben, das die Reinheit und Stärke einer Heiligen verlangt.
 Das Band des Vertrauens, das sie knüpften, machte sie einander zu Schwestern.
+[IDS_ITEMDESC.ID1130128]
+Die zusätzlichen Schulterwaffen ermöglichen Angriffe aus extrem großer Reichweite.
+Seine Schüsse mit voller Kraft vernichten selbst Feinde in weiter Ferne.
 [IDS_ITEMDESC.ID1130129]
 Ein Handlanger von <card mrk='21936'/>, der seine Ziele durch Nachahmung eines menschlichen Aussehens täuscht.
 Es unterzieht sie einer Gehirnwäsche und entführt sie, um sie als Opfergaben zu missbrauchen.
@@ -4302,9 +4353,18 @@ Eindringlinge, hört das Gebrüll der Sta-Brigade!
 [IDS_ITEMDESC.ID1130132]
 Ihre leeren Augen wirken keineswegs wie die Augen eines jungen Mädchens.
 Makellos, ist sie dennoch die Inkarnation des Chaos, Tochter der Liebe und der Verzweiflung.
+[IDS_ITEMDESC.ID1130133]
+Eine geniale, populäre Autorin – wenn auch ein wenig wirr.
+Die einzigartigen Welten, die sie erschafft, haben ihr eine große Fangemeinde beschert.
+[IDS_ITEMDESC.ID1130134]
+Eine Gruppe junger Talente, die in die Fußstapfen ihrer Helden treten.
+Sie bringen frischen Wind in <category id='174'/> und werden bald ihr volles Potenzial entfalten.
 [IDS_ITEMDESC.ID1130135]
 Eine maschinelle Lebensform, die den Namen eines Gottes trug und die Welt über viele lange Jahre hinweg überwachte.
 Vom Phonographen an seinem rechten Arm sendet es elektromagnetische Wellen aus, die Maschinen lahmlegen können.
+[IDS_ITEMDESC.ID1130136]
+Ein heiliger Drache, der den Kosmos mit geheimnisvollen Klängen erfüllt.
+Das majestätische Wesen, das sich um einen ganzen Planeten windet, besitzt eine wahrhaft göttliche Aura.
 [IDS_ITEMDESC.ID1132001]
 Warum auch immer, aber das Kaninchen ist jetzt Mitglied in einem Fußballverein.
 Es hofft, sein Team mit all seinen angeborenen Führungsqualitäten zum Sieg zu führen.
@@ -4380,6 +4440,9 @@ Wenn man <category id='169'/>-Karten sammelt, sollen die Türen des legendären 
 [IDS_ITEMDESC.ID1170014]
 Ein Sammelordner zur Geschichte eines Jungen und eines Mädchens, mit denen das launische Schicksal Katz und Maus spielt.
 Man sagt: Wer <category id='031'/> sammelt, dem wird die Tür zu neuen Begegnungen und Reisen erstrahlen.
+[IDS_ITEMDESC.ID1170015]
+Ein Sammelordner, basierend auf einer weltweit geliebten Erzählung.
+Man sagt, wenn man <category id='172'/>-Karten sammelt, beginnt die Tür zu Begegnungen mit Feen zu leuchten.
 [IDS_ITEMDESC.ID1180001]
 Eine Münze, deren Motiv der leuchtende Drache ist, der eine neue Legende hervorbringt.
 Seine himmelblauen Augen schimmern.
@@ -4447,7 +4510,8 @@ Die heiligen Waffen, gesegnet mit göttlicher Gnade, erstrahlen hell.
 Eine Münze, deren Motiv einen Drachenjungen aus einer anderen Dimension zeigt.
 Seine Entschlossenheit, sich seinem Schicksal entgegenzustellen, strahlt hell.
 [IDS_ITEMDESC.ID1180024]
-coming soon
+Eine Münze, die Feen aus einem kleinen Königreich darstellt – einem Ort, an dem die Geschichten voller Leben sind.
+Geschichten aus allen Zeiten und Orten erstrahlen darin.
 [IDS_ITEMDESC.ID1190001]
 Die maximale Anzahl der Lesezeichen, die du besitzen kannst, kann erhöht werden.
 [IDS_ITEMDESC.ID0000]

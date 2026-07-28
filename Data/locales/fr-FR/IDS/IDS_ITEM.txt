@@ -76,12 +76,16 @@ Dingirsu, l'Orcust de l'Étoile du Berger
 I:P Masquerena
 [IDS_ITEM.ID1000039]
 S:P Petite Chevaleresse
+[IDS_ITEM.ID1000040]
+Détonateur Ryzéal
 [IDS_ITEM.ID1000041]
 Numéro 41 : Bagooska le Tapir Terriblement Fatigué
 [IDS_ITEM.ID1000042]
 Miammy★Attrapy
 [IDS_ITEM.ID1000043]
 Dinolutteur Pancraceratops
+[IDS_ITEM.ID1000046]
+Beat, Épéiste Mercefourrure
 [IDS_ITEM.ID1001001]
 Fusion Instantanée
 [IDS_ITEM.ID1001002]
@@ -480,6 +484,10 @@ Lucina des Notes Elfiques
 Quirinus Dragunité
 [IDS_ITEM.ID1010142]
 Exosœur Mikailis
+[IDS_ITEM.ID1010143]
+Animal Féérique - Blanche
+[IDS_ITEM.ID1010144]
+Rex, Fret Mercefourrure
 [IDS_ITEM.ID1010145]
 Non-Finito Artmage
 [IDS_ITEM.ID1010146]
@@ -816,6 +824,8 @@ Selene, Reine des Maîtres Magiciens
 Hérisson Sauveteur
 [IDS_ITEM.ID1013013]
 Aleister l'Invokhateur
+[IDS_ITEM.ID1013014]
+Duelliste de l'Ombre Zester
 [IDS_ITEM.ID1013015]
 Wumpus
 [IDS_ITEM.ID1020001]
@@ -1252,6 +1262,10 @@ DNV max lors des qualifications pour le WCS 2026
 Orage Foudroyant
 [IDS_ITEM.ID1020217]
 Lancer chanceux
+[IDS_ITEM.ID1020218]
+Cuirassé
+[IDS_ITEM.ID1020219]
+Justiciers
 [IDS_ITEM.ID1021001]
 Démarrage
 [IDS_ITEM.ID1021002]
@@ -1398,6 +1412,8 @@ Jardin des Roses Noires
 Notes Elfiques
 [IDS_ITEM.ID1031025]
 Albion le Dragon Obscur
+[IDS_ITEM.ID1031026]
+Paume Ryzéal
 [IDS_ITEM.ID1032001]
 Ornement festif
 [IDS_ITEM.ID1032002]
@@ -1762,12 +1778,26 @@ Regina des Notes Elfiques
 Chevalier Dragunité - Areus
 [IDS_ITEM.ID1070167]
 Exosœur Karmael
+[IDS_ITEM.ID1070168]
+Conteuse de l'Animal Féérique
+[IDS_ITEM.ID1070169]
+Folgo, Justice Mercefourrure
+[IDS_ITEM.ID1070170]
+Branchement Ryzéal
 [IDS_ITEM.ID1070171]
 Hécamains Jauzah
 [IDS_ITEM.ID1070172]
 Empereur Archdémon
 [IDS_ITEM.ID1070173]
 Matriarche Archdémon
+[IDS_ITEM.ID1070174]
+Dragon Ailé Venin Affamé
+[IDS_ITEM.ID1070175]
+Pumpking le Roi des Fantômes de la Tombe
+[IDS_ITEM.ID1070176]
+Stellnova Alpha
+[IDS_ITEM.ID1070177]
+Super Cuirassé Canon Ferroviaire Juggernaut Liebe
 [IDS_ITEM.ID1070178]
 Mokomoko
 [IDS_ITEM.ID1071001]
@@ -2464,6 +2494,8 @@ Contes de la Forêt Blanche
 Genex-R Turing
 [IDS_ITEM.ID1111045]
 Poussinocolats Magidolce
+[IDS_ITEM.ID1111046]
+Tenchi Kaimei
 [IDS_ITEM.ID1111047]
 TÉNÈBRES
 [IDS_ITEM.ID1111048]
@@ -2786,6 +2818,8 @@ K9-X "Loup-Garou"
 Ohime la Manifestation Mikanko
 [IDS_ITEM.ID1130101]
 Shinbu Mikanko - Jumelles Nobles
+[IDS_ITEM.ID1130102]
+Manœuvre Combinée - Attaque Zéro !
 [IDS_ITEM.ID1130103]
 Queudragon Ketu
 [IDS_ITEM.ID1130104]
@@ -2832,6 +2866,8 @@ Notes Elfiques : Aristie de Confiance
 Notes Elfiques : Bienvenue à la Maison
 [IDS_ITEM.ID1130127]
 Les Vertueuses Vestales
+[IDS_ITEM.ID1130128]
+Catapulte Électromagnétique Ryzéal
 [IDS_ITEM.ID1130129]
 Appât d'Hécamains
 [IDS_ITEM.ID1130130]
@@ -2840,8 +2876,14 @@ Junora le Mécène du Pouvoir de l'Accordage
 Poussée des Triples Tactiques
 [IDS_ITEM.ID1130132]
 Déploiement Fusion
+[IDS_ITEM.ID1130133]
+Tisserande de l'Animal Féérique
+[IDS_ITEM.ID1130134]
+Bleu Mercefourrure
 [IDS_ITEM.ID1130135]
 Gorgon de Zilofthonia
+[IDS_ITEM.ID1130136]
+Harmonie Fydraulis
 [IDS_ITEM.ID1132001]
 Lapin Sauveteur
 [IDS_ITEM.ID1132002]
@@ -2894,6 +2936,8 @@ Exosœur
 Dragunité
 [IDS_ITEM.ID1170014]
 Le Déchu et La Vertueuse
+[IDS_ITEM.ID1170015]
+Animal Féérique
 [IDS_ITEM.ID1180001]
 Dragon Blanc Alternatif aux Yeux Bleus
 [IDS_ITEM.ID1180002]
@@ -2941,7 +2985,7 @@ Exosœur
 [IDS_ITEM.ID1180023]
 Albaz le Déchu
 [IDS_ITEM.ID1180024]
-coming soon
+Animal Féérique
 [IDS_ITEM.ID1190001]
 Emplacements de marque-page
 [IDS_ITEM.ID0000]

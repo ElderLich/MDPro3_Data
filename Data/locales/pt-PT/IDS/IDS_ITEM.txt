@@ -76,12 +76,16 @@ Dingirsu, o Orcust da Estrela da Noite
 I:P Mascarena
 [IDS_ITEM.ID1000039]
 S:P Pequena Cavaleira
+[IDS_ITEM.ID1000040]
+Detonador de Ryzeal
 [IDS_ITEM.ID1000041]
 Número 41: Bagooska, a Anta Terrivelmente Cansada
 [IDS_ITEM.ID1000042]
 Nhamy★Garrinha
 [IDS_ITEM.ID1000043]
 Dinolutador Pancratops
+[IDS_ITEM.ID1000046]
+Beat, o Esgrimista de Peluguel
 [IDS_ITEM.ID1001001]
 Fusão Instantânea
 [IDS_ITEM.ID1001002]
@@ -480,6 +484,10 @@ Lucina de Elfnota
 Quirinus Dragunidade
 [IDS_ITEM.ID1010142]
 Exoirmã Mikailis
+[IDS_ITEM.ID1010143]
+Cauda de Fadas - Neves
+[IDS_ITEM.ID1010144]
+Rex, o Freteiro de Peluguel
 [IDS_ITEM.ID1010145]
 Non-Finito de Artmage
 [IDS_ITEM.ID1010146]
@@ -816,6 +824,8 @@ Selene, a Rainha dos Magos Mestre
 Ouriço de Socorro
 [IDS_ITEM.ID1013013]
 Aleister, Aquele que Invoka
+[IDS_ITEM.ID1013014]
+Duelista das Sombras Zester
 [IDS_ITEM.ID1013015]
 Wumpus
 [IDS_ITEM.ID1020001]
@@ -1252,6 +1262,10 @@ Eliminatórias do WCS 2026 - NvD MÁXIMO
 Tempestade de Relâmpagos
 [IDS_ITEM.ID1020217]
 Sorte ao Rolar
+[IDS_ITEM.ID1020218]
+Couraçado
+[IDS_ITEM.ID1020219]
+Executores da Justiça
 [IDS_ITEM.ID1021001]
 Começando
 [IDS_ITEM.ID1021002]
@@ -1398,6 +1412,8 @@ Jardim das Rosas Negras
 Elfnota
 [IDS_ITEM.ID1031025]
 Albion, o Dragão Encoberto
+[IDS_ITEM.ID1031026]
+Palma de Ryzeal
 [IDS_ITEM.ID1032001]
 Ornamento Festivo
 [IDS_ITEM.ID1032002]
@@ -1762,12 +1778,26 @@ Regina de Elfnota
 Cavaleiro Dragunidade - Areus
 [IDS_ITEM.ID1070167]
 Exoirmã Karmael
+[IDS_ITEM.ID1070168]
+Contadora de Cauda de Fadas
+[IDS_ITEM.ID1070169]
+Folgo, a Justiça de Peluguel
+[IDS_ITEM.ID1070170]
+Plugin de Ryzeal
 [IDS_ITEM.ID1070171]
 Hecamãos Jauzah
 [IDS_ITEM.ID1070172]
 Imperador Arquidemônio
 [IDS_ITEM.ID1070173]
 Matriarca Arquidemônio
+[IDS_ITEM.ID1070174]
+Dragão Alado de Peçonha Insaciável
+[IDS_ITEM.ID1070175]
+Pumpking, o Rei dos Fantasmas do Túmulo
+[IDS_ITEM.ID1070176]
+Alfa Novastelar
+[IDS_ITEM.ID1070177]
+Supercouraçado Canhão de Trilho Juggernaut Liebe
 [IDS_ITEM.ID1070178]
 Mokomoko
 [IDS_ITEM.ID1071001]
@@ -2464,6 +2494,8 @@ Contos da Floresta Branca
 Turing Genex-R
 [IDS_ITEM.ID1111045]
 Pintinhocolate Magidoce
+[IDS_ITEM.ID1111046]
+Tenchi Kaimei
 [IDS_ITEM.ID1111047]
 TREVAS
 [IDS_ITEM.ID1111048]
@@ -2786,6 +2818,8 @@ Eldlich, o Senhor Dourado
 Ohime, a Mikanko Manifesta
 [IDS_ITEM.ID1130101]
 Shinbu Mikanko - Gêmeas Nobres
+[IDS_ITEM.ID1130102]
+Manobra Combinada - Engajar Zero!
 [IDS_ITEM.ID1130103]
 Caudraco Ketu
 [IDS_ITEM.ID1130104]
@@ -2832,6 +2866,8 @@ Elfnotas: Aristeia da Confiança
 Elfnotas: Bem-vindo ao Lar
 [IDS_ITEM.ID1130127]
 As Virtuosas Vestais
+[IDS_ITEM.ID1130128]
+Acelerador de Massa de Ryzeal
 [IDS_ITEM.ID1130129]
 Isca de Hecamãos
 [IDS_ITEM.ID1130130]
@@ -2840,8 +2876,14 @@ Junora, o Patrono do Poder da Afinação
 Estocada da Tática Tripla
 [IDS_ITEM.ID1130132]
 Implantar Fusão
+[IDS_ITEM.ID1130133]
+Tecedora de Cauda de Fadas
+[IDS_ITEM.ID1130134]
+Novato de Peluguel
 [IDS_ITEM.ID1130135]
 Górgona de Zilofthonia
+[IDS_ITEM.ID1130136]
+Harmonia Fydraulis
 [IDS_ITEM.ID1132001]
 Coelho de Socorro
 [IDS_ITEM.ID1132002]
@@ -2894,6 +2936,8 @@ Exoirmã
 Dragunidade
 [IDS_ITEM.ID1170014]
 O Caído e a Virtuosa
+[IDS_ITEM.ID1170015]
+Cauda de Fadas
 [IDS_ITEM.ID1180001]
 Dragão Branco Alternativo de Olhos Azuis
 [IDS_ITEM.ID1180002]
@@ -2941,7 +2985,7 @@ Exoirmã
 [IDS_ITEM.ID1180023]
 Caído de Arbaz
 [IDS_ITEM.ID1180024]
-coming soon
+Cauda de Fadas
 [IDS_ITEM.ID1190001]
 Espaços de Favoritos
 [IDS_ITEM.ID0000]

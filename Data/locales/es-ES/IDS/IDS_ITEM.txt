@@ -76,12 +76,16 @@ Dingirsu, el Orcust de la Estrella Vespertina
 I:P Enmascarada
 [IDS_ITEM.ID1000039]
 S:P Pequeña Caballera
+[IDS_ITEM.ID1000040]
+Detonador Ryzeal
 [IDS_ITEM.ID1000041]
 Número 41: Bagooska el Tapir Terriblemente Cansado
 [IDS_ITEM.ID1000042]
 Yummy★Snatchy
 [IDS_ITEM.ID1000043]
 Dinoluchador Pancrateratops
+[IDS_ITEM.ID1000046]
+Beat, Espadachín Mascota a Sueldo
 [IDS_ITEM.ID1001001]
 Fusión Instantánea
 [IDS_ITEM.ID1001002]
@@ -480,6 +484,10 @@ Elfnota Lucina
 Dracounidad Quirinus
 [IDS_ITEM.ID1010142]
 Exormana Mikailis
+[IDS_ITEM.ID1010143]
+Colacuento - Nieves
+[IDS_ITEM.ID1010144]
+Rex, Carga Mascota a Sueldo
 [IDS_ITEM.ID1010145]
 Artmagia Non-Finito
 [IDS_ITEM.ID1010146]
@@ -816,6 +824,8 @@ Selene, Reina de los Magos Maestros
 Erizo Rescatador
 [IDS_ITEM.ID1013013]
 Aleister, el que Invoka
+[IDS_ITEM.ID1013014]
+Duelista de Sombra Zester
 [IDS_ITEM.ID1013015]
 Wumpus
 [IDS_ITEM.ID1020001]
@@ -1252,6 +1262,10 @@ DLv. MÁX en las eliminatorias del WCS 2026
 Tormenta de Relámpagos
 [IDS_ITEM.ID1020217]
 Dados de la Suerte
+[IDS_ITEM.ID1020218]
+Acorazado
+[IDS_ITEM.ID1020219]
+Los agentes de la justicia
 [IDS_ITEM.ID1021001]
 Comenzando
 [IDS_ITEM.ID1021002]
@@ -1398,6 +1412,8 @@ Jardín de la Rosa Negra
 Elfnota
 [IDS_ITEM.ID1031025]
 Albion el Dragón Velado
+[IDS_ITEM.ID1031026]
+Palma Ryzeal
 [IDS_ITEM.ID1032001]
 Ornamento Festivo
 [IDS_ITEM.ID1032002]
@@ -1762,12 +1778,26 @@ Elfnota Regina
 Caballero Dracounidad - Areus
 [IDS_ITEM.ID1070167]
 Exormana Karmael
+[IDS_ITEM.ID1070168]
+Cuentacuentos de Colacuentos
+[IDS_ITEM.ID1070169]
+Folgo, Juez Mascota a Sueldo
+[IDS_ITEM.ID1070170]
+Enchufe Ryzeal
 [IDS_ITEM.ID1070171]
 Hecamanos Jauzah
 [IDS_ITEM.ID1070172]
 Emperador Archidemonio
 [IDS_ITEM.ID1070173]
 Matriarca Archidemonio
+[IDS_ITEM.ID1070174]
+Dragón Alado Hambriento Venenoso
+[IDS_ITEM.ID1070175]
+Pumpking el Rey de los Fantasmas Lúgubres
+[IDS_ITEM.ID1070176]
+Alfa Novaestelar
+[IDS_ITEM.ID1070177]
+Supercañón de Rieles Acorazado Juggernaut Liebe
 [IDS_ITEM.ID1070178]
 Mukumuku
 [IDS_ITEM.ID1071001]
@@ -2464,6 +2494,8 @@ Cuentos del Bosque Blanco
 R-Genex Turing
 [IDS_ITEM.ID1111045]
 Chickolates Magidulce
+[IDS_ITEM.ID1111046]
+Tenchi Kaimei
 [IDS_ITEM.ID1111047]
 OSCURIDAD
 [IDS_ITEM.ID1111048]
@@ -2786,6 +2818,8 @@ K9-X "Hombre Lobo"
 Ohime Mikanko en Manifiesto
 [IDS_ITEM.ID1130101]
 Shinbu Mikanko - Gemelas Nobles
+[IDS_ITEM.ID1130102]
+Maniobra Combinada - ¡Ataque Cero!
 [IDS_ITEM.ID1130103]
 Ketu Dracocola
 [IDS_ITEM.ID1130104]
@@ -2832,6 +2866,8 @@ Elfnotas: Aristía de la Verdad
 Elfnotas: Bienvenidos a Casa
 [IDS_ITEM.ID1130127]
 Las Vestales Virtuosas
+[IDS_ITEM.ID1130128]
+Catapulta Electromagnética Ryzeal
 [IDS_ITEM.ID1130129]
 Cebo Hecamanos
 [IDS_ITEM.ID1130130]
@@ -2840,8 +2876,14 @@ Junora el Modelo de Poder de Afinación
 Impulso de Tácticas Triples
 [IDS_ITEM.ID1130132]
 Despliegue de Fusión
+[IDS_ITEM.ID1130133]
+Tejedora de Colacuentos
+[IDS_ITEM.ID1130134]
+Mascota a Sueldo Novata
 [IDS_ITEM.ID1130135]
 Gorgon de Zilofthonia
+[IDS_ITEM.ID1130136]
+Harmonía Fydraulis
 [IDS_ITEM.ID1132001]
 Conejo Rescatador
 [IDS_ITEM.ID1132002]
@@ -2894,6 +2936,8 @@ Exormana
 Dracounidad
 [IDS_ITEM.ID1170014]
 El Caído y La Virtuosa
+[IDS_ITEM.ID1170015]
+Colacuento
 [IDS_ITEM.ID1180001]
 Dragón Blanco Alternativo de Ojos Azules
 [IDS_ITEM.ID1180002]
@@ -2941,7 +2985,7 @@ Exormana
 [IDS_ITEM.ID1180023]
 Caído de Albaz
 [IDS_ITEM.ID1180024]
-coming soon
+Colacuento
 [IDS_ITEM.ID1190001]
 Casillas de marcadores
 [IDS_ITEM.ID0000]

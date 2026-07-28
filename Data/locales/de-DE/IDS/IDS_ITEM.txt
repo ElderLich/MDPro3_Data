@@ -76,12 +76,16 @@ Dingirsu, der Orcust des Abendsterns
 I:P Maskerena
 [IDS_ITEM.ID1000039]
 S:P Kleine Ritterin
+[IDS_ITEM.ID1000040]
+Ryzeal-Detonator
 [IDS_ITEM.ID1000041]
 Nummer 41: Bagooska der schrecklich müde Tapir
 [IDS_ITEM.ID1000042]
 Lecker★Greifi
 [IDS_ITEM.ID1000043]
 Dinowrestler Pankratops
+[IDS_ITEM.ID1000046]
+Beat, Klingenkämpfer-Fellsöldner
 [IDS_ITEM.ID1001001]
 Instantfusion
 [IDS_ITEM.ID1001002]
@@ -480,6 +484,10 @@ Elfnote Lucina
 Dracheneinheit Quirinus
 [IDS_ITEM.ID1010142]
 Exoschwester Mikailis
+[IDS_ITEM.ID1010143]
+Märchenschweif - Schnee
+[IDS_ITEM.ID1010144]
+Rex, Fracht-Fellsöldner
 [IDS_ITEM.ID1010145]
 Kunstmagus Non-Finito
 [IDS_ITEM.ID1010146]
@@ -816,6 +824,8 @@ Selene, Königin der Meistermagier
 Rettungsigel
 [IDS_ITEM.ID1013013]
 Aleister der Beschwörer
+[IDS_ITEM.ID1013014]
+Schattenduellant Zester
 [IDS_ITEM.ID1013015]
 Wumpus
 [IDS_ITEM.ID1020001]
@@ -1252,6 +1262,10 @@ WCS 2026 Qualifier DLv. MAX
 Blitzsturm
 [IDS_ITEM.ID1020217]
 Glückswurf
+[IDS_ITEM.ID1020218]
+Furchtloser
+[IDS_ITEM.ID1020219]
+Vollstrecker der Gerechtigkeit
 [IDS_ITEM.ID1021001]
 Einsteiger
 [IDS_ITEM.ID1021002]
@@ -1398,6 +1412,8 @@ Schwarzer Rosengarten
 Elfnote
 [IDS_ITEM.ID1031025]
 Albion der ummantelte Drache
+[IDS_ITEM.ID1031026]
+Handflächen-Ryzeal
 [IDS_ITEM.ID1032001]
 Festliches Ornament
 [IDS_ITEM.ID1032002]
@@ -1762,12 +1778,26 @@ Elfnote Regina
 Dracheneinheit-Ritter - Areus
 [IDS_ITEM.ID1070167]
 Exoschwester Karmael
+[IDS_ITEM.ID1070168]
+Erzählerin der Märchenschweife
+[IDS_ITEM.ID1070169]
+Folgo, Gerechtigkeits-Fellsöldner
+[IDS_ITEM.ID1070170]
+Ryzeal-Plugin
 [IDS_ITEM.ID1070171]
 Hekahände Jauzah
 [IDS_ITEM.ID1070172]
 Kaiser der Erzunterweltler
 [IDS_ITEM.ID1070173]
 Matriarchin der Erzunterweltler
+[IDS_ITEM.ID1070174]
+Hungergift-Flügeldrache
+[IDS_ITEM.ID1070175]
+Pumpking, Gräbergeisterkönig
+[IDS_ITEM.ID1070176]
+Sternennova-Alpha
+[IDS_ITEM.ID1070177]
+Superkanonen-Panzerzug Juggernaut Liebe
 [IDS_ITEM.ID1070178]
 Mokomoko
 [IDS_ITEM.ID1071001]
@@ -2464,6 +2494,8 @@ Geschichten vom Weißen Wald
 R-Genex-Turing
 [IDS_ITEM.ID1111045]
 Magidolce Kükolade
+[IDS_ITEM.ID1111046]
+Tenchi Kaimei
 [IDS_ITEM.ID1111047]
 FINSTERNIS
 [IDS_ITEM.ID1111048]
@@ -2786,6 +2818,8 @@ K9-X „Werewolf“
 Ohime die manifestierte Mikanko
 [IDS_ITEM.ID1130101]
 Mikanko-Shinbu - Edle Zwillinge
+[IDS_ITEM.ID1130102]
+Kombiniertes Manöver - Angriff Null!
 [IDS_ITEM.ID1130103]
 Ketu-Drachoschwanz
 [IDS_ITEM.ID1130104]
@@ -2832,6 +2866,8 @@ Elfnoten: Aristie des Vertrauens
 Elfnoten: Willkommen daheim
 [IDS_ITEM.ID1130127]
 Die tugendhaften Jungfrauen
+[IDS_ITEM.ID1130128]
+Ryzeal-Massentreiber
 [IDS_ITEM.ID1130129]
 Hekahände-Köder
 [IDS_ITEM.ID1130130]
@@ -2840,8 +2876,14 @@ Junora der Machtpatron der Abstimmung
 Stoß der drei Taktiken
 [IDS_ITEM.ID1130132]
 Fusionsentsendung
+[IDS_ITEM.ID1130133]
+Weberin der Märchenschweife
+[IDS_ITEM.ID1130134]
+Fellsöldner-Neuling
 [IDS_ITEM.ID1130135]
 Gorgon von Zilofthonia
+[IDS_ITEM.ID1130136]
+Fydraulis Harmonia
 [IDS_ITEM.ID1132001]
 Rettungskaninchen
 [IDS_ITEM.ID1132002]
@@ -2894,6 +2936,8 @@ Exoschwester
 Dracheneinheit
 [IDS_ITEM.ID1170014]
 Der Gefallene und die Tugendhafte
+[IDS_ITEM.ID1170015]
+Märchenschweif
 [IDS_ITEM.ID1180001]
 Blauäugiger alternativer weißer Drache
 [IDS_ITEM.ID1180002]
@@ -2941,7 +2985,7 @@ Exoschwester
 [IDS_ITEM.ID1180023]
 Gefallener von Albaz
 [IDS_ITEM.ID1180024]
-coming soon
+Märchenschweif
 [IDS_ITEM.ID1190001]
 Lesezeichen-Plätze
 [IDS_ITEM.ID0000]
