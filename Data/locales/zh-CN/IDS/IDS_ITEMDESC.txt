@@ -126,6 +126,8 @@ coming soon
 [IDS_ITEMDESC.ID1000046]
 身先士卒的<category id='174'/>年轻剑士。
 自告奋勇担负起照料“<card mrk='17783'/>”的工作。
+[IDS_ITEMDESC.ID1000047]
+coming soon
 [IDS_ITEMDESC.ID1001001]
 一杯似乎可以让你进行融合召唤的杯面。
 身为方便食品并不意味着它没其他东西好吃。
@@ -807,6 +809,12 @@ coming soon
 [IDS_ITEMDESC.ID1010148]
 描绘了目睹圣女雷霆后灵光一闪的天才少女的头像。
 创造超次世代能源的挑战就此展开。
+[IDS_ITEMDESC.ID1010149]
+coming soon
+[IDS_ITEMDESC.ID1010150]
+coming soon
+[IDS_ITEMDESC.ID1010160]
+coming soon
 [IDS_ITEMDESC.ID1011001]
 描绘了一个由黑色与白色的板子构成的球的头像。
 在决斗中连胜三场称不上帽子戏法。
@@ -1020,6 +1028,18 @@ Yu-Gi-Oh! World Championship 2025:Master Duel分赛参赛选手的纪念头像�
 [IDS_ITEMDESC.ID1011071]
 设计有闪耀着铜色光辉的“WCS2026 预选赛”标志的头像。
 授予在2026年度通向世界的预选赛中取得成绩的决斗者。
+[IDS_ITEMDESC.ID1011072]
+刻着荣誉与光辉的“融合杯”徽标的头像。
+赠予在融合杯中获胜的决斗者。
+[IDS_ITEMDESC.ID1011073]
+描绘了闪耀着金色光辉的“融合杯”标志的头像。
+颁发给在融合杯中取得最佳成绩的决斗者。
+[IDS_ITEMDESC.ID1011074]
+描绘了闪耀着银色光辉的“融合杯”标志的头像。
+颁发给在融合杯中取得优秀成绩的决斗者。
+[IDS_ITEMDESC.ID1011075]
+描绘了闪耀着铜色光辉的“融合杯”标志的头像。
+颁发给在融合杯中在多场决斗中取得胜利的决斗者。
 [IDS_ITEMDESC.ID1012001]
 描绘了一只某个星球中过量繁殖的“机怪虫”的上位个体的头像。
 它们会无情地破坏人类花费数代建成的文明。
@@ -1957,9 +1977,34 @@ coming soon
 [IDS_ITEMDESC.ID1020219]
 了解那些解开众多卡片背后的力量以及故事，并取得成果的决斗者的称号。
 通过战斗所演绎的故事，定会给决斗者留下些许影响吧。
+[IDS_ITEMDESC.ID1020220]
+在“融合杯”中获得冠军的决斗者将获得的称号。
+这是铭刻于《Yu-Gi-Oh! MASTER DUEL》历史中，登顶顶点者的象征。
+[IDS_ITEMDESC.ID1020221]
+授予在“融合杯”中，取得前10名次的决斗者的称号。
+为争夺唯一的最强王座，而创造出数场精彩对战的勇敢身姿，将永远被后人所称赞。
+[IDS_ITEMDESC.ID1020222]
+授予在“融合杯”中，取得前100名次的决斗者的称号。
+对于不少决斗者而言，拥有这一称号的人便是他们的目标。
+[IDS_ITEMDESC.ID1020223]
+授予在“融合杯”中，取得前500名次的决斗者的称号。
+在无数次艰苦卓绝的决斗中磨练出来的精神，只属于强者中的强者。
+[IDS_ITEMDESC.ID1020224]
+授予在“融合杯”中，取得前1000名次的决斗者的称号。
+献给不断磨炼试错牌组和战术，最终达到了这一境界的决斗者的赞誉。
+[IDS_ITEMDESC.ID1020225]
+授予在“融合杯”中，取得前10000名次的决斗者的称号。
+这是在充满激烈竞争的2nd STAGE中积累的许多胜利成果。
+[IDS_ITEMDESC.ID1020226]
+授予在“融合杯”中，晋级2nd STAGE的决斗者的称号。
+从众多决斗者角逐的1st STAGE中晋级的实力选手之证。
+[IDS_ITEMDESC.ID1020227]
+coming soon
 [IDS_ITEMDESC.ID1021001]
 特殊机会下提供的限定称号。
 [IDS_ITEMDESC.ID1021002]
+特殊机会下提供的限定称号。
+[IDS_ITEMDESC.ID1021003]
 特殊机会下提供的限定称号。
 [IDS_ITEMDESC.ID1022001]
 赠予荣获2026年举办的Yu-Gi-Oh! MASTER DUEL“日本第一高中生决胜赛”初代冠军决斗者的称号。
@@ -2172,6 +2217,8 @@ coming soon
 [IDS_ITEMDESC.ID1031026]
 让人联想起隐藏着超变形装置的机械兵器的头像边框。
 虽然很遗憾没有变形功能，但内部已填满了炎雷的能量。
+[IDS_ITEMDESC.ID1031027]
+coming soon
 [IDS_ITEMDESC.ID1032001]
 年关将至时，可以在各种地方看见的圆环形状的装饰品的头像边框。
 利用精致漂亮的装饰品，寄托自己希冀幸福时光更加长久的愿景。
@@ -2220,6 +2267,8 @@ coming soon
 [IDS_ITEMDESC.ID1033005]
 赠予Yu-Gi-Oh! World Championship 2025: MASTER DUEL分赛参赛者的头像边框。
 下一个战斗的舞台正等候着你！
+[IDS_ITEMDESC.ID1033007]
+coming soon
 [IDS_ITEMDESC.ID1070001]
 有着与《游戏王》实体卡片游戏中的卡片背面相同设计的卡套。
 献给注重事物原本样貌的你。
@@ -2747,6 +2796,14 @@ coming soon
 [IDS_ITEMDESC.ID1070178]
 设计有毛茸茸圆滚滚的幻想魔族的卡套。
 献给想体验毛茸茸的你。
+[IDS_ITEMDESC.ID1070179]
+coming soon
+[IDS_ITEMDESC.ID1070191]
+coming soon
+[IDS_ITEMDESC.ID1070192]
+coming soon
+[IDS_ITEMDESC.ID1070193]
+coming soon
 [IDS_ITEMDESC.ID1071001]
 以克服了心中因战斗失败而留下的疤痕并获得了成长的战士的姿态设计出的卡套。
 献给心中时刻挂念着伙伴并无比珍视伙伴的你。
@@ -2958,6 +3015,13 @@ coming soon
 [IDS_ITEMDESC.ID1073020]
 设计有“WCS2026 预选赛”标志的卡套。
 感谢您参加MASTER DUEL赛事，为其增添了一份活力。
+[IDS_ITEMDESC.ID1073021]
+coming soon
+[IDS_ITEMDESC.ID1073022]
+coming soon
+[IDS_ITEMDESC.ID1073023]
+以“融合杯”的标志设计出的卡套。
+献给参与了融合杯，并炒热活动气氛的你。
 [IDS_ITEMDESC.ID1075001]
 以《Yu-Gi-Oh! CARD GAME THE CHRONICLES》的场景设计出的卡套。
 在传说中的祭典会场里决斗者们高声欢庆。
@@ -3082,6 +3146,12 @@ coming soon
 [IDS_ITEMDESC.ID1080033]
 按照“<card mrk='20517'/>”的身姿设计出的牌组盒。
 再度降临的是那吞噬所有光芒的深渊之牙！
+[IDS_ITEMDESC.ID1080034]
+设计有“<card mrk='6397'/>”形象的牌组盒。
+电子流将持续进化，见证这绽放极致光辉的必杀一击吧。
+[IDS_ITEMDESC.ID1080035]
+设计有“<card mrk='21453'/>”形象的牌组盒。
+炽热牵绊交织之时，将以光之奇迹创造希望未来。
 [IDS_ITEMDESC.ID1082001]
 按照超量怪兽现身所在的宇宙的图案设计出的牌组盒。
 推荐用于超量战术为核心的牌组。
@@ -3865,9 +3935,13 @@ coming soon
 [IDS_ITEMDESC.ID1111077]
 模仿大自然中诞生的螺旋力量的基座。
 沐浴在其释放的磁场中，便能感受到源源不断的生命力。
+[IDS_ITEMDESC.ID1111078]
+coming soon
 [IDS_ITEMDESC.ID1111080]
 模仿以冠有“<category id='158'/>”之名的龙的基座。
 以压倒性的力量，打破这封闭的世界。
+[IDS_ITEMDESC.ID1111082]
+coming soon
 [IDS_ITEMDESC.ID1112001]
 设置于角斗场的基座。
 跳动闪烁的火焰，向矗立于此的战士致以最高荣誉。
@@ -3883,6 +3957,8 @@ Who will rise and lift the trophy of triumph side by side—the true champions?
 [IDS_ITEMDESC.ID1113003]
 纪念Yu-Gi-Oh! World Championship 2025 MASTER DUEL参赛的基座。
 严肃的设计充分体现了大赛的格调之高。
+[IDS_ITEMDESC.ID1113004]
+coming soon
 [IDS_ITEMDESC.ID1115001]
 模仿可以使用世界各地的俱乐部以及国家队来比赛的足球游戏的基座。
 蕴含着足球的历史与进化的轨迹。
@@ -3966,9 +4042,11 @@ Who will rise and lift the trophy of triumph side by side—the true champions?
 这是一套以连续部署水属性超量怪兽来进行战斗的“<category id='011'/>”牌组。
 首先善用“<card mrk='15005'/>”等卡片的效果在场上准备大量怪兽，并将它们作为素材来部署超量怪兽。其中最推荐的超量怪兽是“<card mrk='10332'/>”。通过其效果特殊召唤“<card mrk='20518'/>”，不仅能准备好“<card mrk='20544'/>”来应对对手的回合，还能衔接部署“<card mrk='19036'/>”相关的超量怪兽。并且作为王牌的“<card mrk='20517'/>”不仅拥有使对手怪兽失去战斗能力的强大效果，还具备1回合可进行2次攻击的特性，是性能极高的一只怪兽！此外，若以“<card mrk='21410'/>”作为超量素材，还能进一步干扰魔法/陷阱卡。只要成功进行超量召唤，就能一口气迈向胜利！
 [IDS_ITEMDESC.ID1120034]
-coming soon
+这是暗藏着突破逆境之力的“<category id='120'/>”牌组。
+首先召唤“<card mrk='10866'/>”将魔法卡“<category id='121'/>”加入手牌，并利用其效果集齐融合素材的怪兽。尤其要记得利用永续魔法“<card mrk='16298'/>”召唤到场上的“<card mrk='16296'/>”，能通过效果将“<card mrk='6398'/>”加入手牌，可以更轻松地继续融合召唤。准备就绪后就进行融合召唤吧。其中“<card mrk='11764'/>”是能破坏魔法/陷阱卡，并最多进行3次攻击的强力怪兽。利用连续攻击一口气决定胜负吧。
 [IDS_ITEMDESC.ID1120035]
-coming soon
+这是从零开拓未来的“<category id='123'/>”牌组。
+首要目标是在场上凑齐2只等级4怪兽。“<card mrk='21415'/>”通过自身效果特殊召唤时会变成等级4，还能利用效果将可从墓地特殊召唤的“<card mrk='21773'/>”等卡片送入墓地，是非常强力的怪兽，在手牌中可以积极地召唤上场。准备就绪后就超量召唤“<card mrk='21454'/>”吧。除了能利用其效果将“<card mrk='10953'/>”加入手牌进一步衔接部署，选择将“<card mrk='21485'/>”加入手牌来应对对手回合也是相当强力的战术。王牌怪兽“<card mrk='21453'/>”是以相同阶级的超量怪兽作为素材的特殊超量怪兽。只要有越多超量怪兽，其攻击力就越高，召唤大量的超量怪兽伙伴来赢下决斗吧。
 [IDS_ITEMDESC.ID1130001]
 与“青眼白龙”一同创造新的传说的白龙。
 在战斗之路上不断突进，决斗便能日益精进。
@@ -4364,6 +4442,12 @@ coming soon
 [IDS_ITEMDESC.ID1130136]
 用神秘音律充盈宇宙的神圣之龙。
 其笼罩行星的庄严姿态，散发着神圣光辉。
+[IDS_ITEMDESC.ID1130137]
+coming soon
+[IDS_ITEMDESC.ID1130138]
+coming soon
+[IDS_ITEMDESC.ID1130151]
+coming soon
 [IDS_ITEMDESC.ID1132001]
 意外加入了足球俱乐部的兔子。
 梦想以自己与生俱来的支援能力带领球队获胜。
@@ -4439,6 +4523,10 @@ coming soon
 [IDS_ITEMDESC.ID1170015]
 风靡全球的经典故事的收藏卡册。
 据说收集完<category id='172'/>后，与妖精相遇的门扉将散发光辉。
+[IDS_ITEMDESC.ID1170016]
+coming soon
+[IDS_ITEMDESC.ID1170017]
+coming soon
 [IDS_ITEMDESC.ID1180001]
 以创造新传说的白龙为原型的硬币。
 青色的眼睛闪耀着光芒。
@@ -4509,6 +4597,8 @@ D的象征闪烁着光芒。
 [IDS_ITEMDESC.ID1180024]
 以灵性故事中的小国妖精们为概念所设计的硬币。
 古今中外的故事闪烁着光芒。
+[IDS_ITEMDESC.ID1180025]
+coming soon
 [IDS_ITEMDESC.ID1190001]
 可以让你的书签上限增加一个。
 [IDS_ITEMDESC.ID0000]

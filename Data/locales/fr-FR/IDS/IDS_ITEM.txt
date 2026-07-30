@@ -86,6 +86,8 @@ Miammy★Attrapy
 Dinolutteur Pancraceratops
 [IDS_ITEM.ID1000046]
 Beat, Épéiste Mercefourrure
+[IDS_ITEM.ID1000047]
+coming soon
 [IDS_ITEM.ID1001001]
 Fusion Instantanée
 [IDS_ITEM.ID1001002]
@@ -202,6 +204,8 @@ Graveur Démonforgeron
 I:P Masquerena et Rappa Chiyomaru de la Force-S
 [IDS_ITEM.ID1003006]
 Albaz le Déchu
+[IDS_ITEM.ID1003007]
+coming soon
 [IDS_ITEM.ID1005001]
 Lapin Sauveteur
 [IDS_ITEM.ID1010001]
@@ -496,6 +500,20 @@ Numéro C101 : Honneur Silencieux TÉNÈBRES
 Déchu du Dragon Blanc
 [IDS_ITEM.ID1010148]
 Kitt Springans Tri-Brigade
+[IDS_ITEM.ID1010149]
+coming soon
+[IDS_ITEM.ID1010150]
+coming soon
+[IDS_ITEM.ID1010151]
+coming soon
+[IDS_ITEM.ID1010152]
+coming soon
+[IDS_ITEM.ID1010153]
+coming soon
+[IDS_ITEM.ID1010154]
+coming soon
+[IDS_ITEM.ID1010160]
+coming soon
 [IDS_ITEM.ID1011001]
 Ballon de foot
 [IDS_ITEM.ID1011002]
@@ -638,6 +656,22 @@ Finaliste Or des qualifications pour le WCS 2026
 Finaliste Argent des qualifications pour le WCS 2026
 [IDS_ITEM.ID1011071]
 Finaliste Bronze des qualifications pour le WCS 2026
+[IDS_ITEM.ID1011072]
+Finaliste Coupe Fusion Or
+[IDS_ITEM.ID1011073]
+Finaliste Coupe Fusion Argent
+[IDS_ITEM.ID1011074]
+Finaliste Coupe Fusion Bronze
+[IDS_ITEM.ID1011075]
+Champion de la Coupe Fusion
+[IDS_ITEM.ID1011079]
+coming soon
+[IDS_ITEM.ID1011080]
+coming soon
+[IDS_ITEM.ID1011081]
+coming soon
+[IDS_ITEM.ID1011082]
+coming soon
 [IDS_ITEM.ID1012001]
 Synaphusis X-Krawler
 [IDS_ITEM.ID1012002]
@@ -828,6 +862,8 @@ Aleister l'Invokhateur
 Duelliste de l'Ombre Zester
 [IDS_ITEM.ID1013015]
 Wumpus
+[IDS_ITEM.ID1013016]
+coming soon
 [IDS_ITEM.ID1020001]
 Duelliste novice
 [IDS_ITEM.ID1020002]
@@ -1266,10 +1302,34 @@ Lancer chanceux
 Cuirassé
 [IDS_ITEM.ID1020219]
 Justiciers
+[IDS_ITEM.ID1020220]
+Seigneur de Guerre Violet
+[IDS_ITEM.ID1020221]
+Top 10 Coupe Fusion
+[IDS_ITEM.ID1020222]
+Top 100 Coupe Fusion
+[IDS_ITEM.ID1020223]
+Top 500 Coupe Fusion
+[IDS_ITEM.ID1020224]
+Top 1000 Coupe Fusion
+[IDS_ITEM.ID1020225]
+Top 10000 Coupe Fusion
+[IDS_ITEM.ID1020226]
+Duelliste 2nd Stage Coupe Fusion
+[IDS_ITEM.ID1020228]
+coming soon
+[IDS_ITEM.ID1020229]
+coming soon
+[IDS_ITEM.ID1020230]
+coming soon
+[IDS_ITEM.ID1020231]
+coming soon
 [IDS_ITEM.ID1021001]
 Démarrage
 [IDS_ITEM.ID1021002]
 Meilleure performance
+[IDS_ITEM.ID1021003]
+Collectionneur de Points
 [IDS_ITEM.ID1022001]
 Champion du tournoi des lycéens 2026
 [IDS_ITEM.ID1022002]
@@ -1414,6 +1474,10 @@ Notes Elfiques
 Albion le Dragon Obscur
 [IDS_ITEM.ID1031026]
 Paume Ryzéal
+[IDS_ITEM.ID1031027]
+coming soon
+[IDS_ITEM.ID1031028]
+coming soon
 [IDS_ITEM.ID1032001]
 Ornement festif
 [IDS_ITEM.ID1032002]
@@ -1446,6 +1510,10 @@ Unité Habillée
 Anneau Synchro
 [IDS_ITEM.ID1033005]
 Fête du WCS 2025
+[IDS_ITEM.ID1033006]
+Plus Grande Polymérisation
+[IDS_ITEM.ID1033007]
+coming soon
 [IDS_ITEM.ID1070001]
 Jeu de cartes à collectionner Yu-Gi-Oh!
 [IDS_ITEM.ID1070002]
@@ -1800,6 +1868,22 @@ Stellnova Alpha
 Super Cuirassé Canon Ferroviaire Juggernaut Liebe
 [IDS_ITEM.ID1070178]
 Mokomoko
+[IDS_ITEM.ID1070179]
+coming soon
+[IDS_ITEM.ID1070180]
+coming soon
+[IDS_ITEM.ID1070184]
+coming soon
+[IDS_ITEM.ID1070189]
+coming soon
+[IDS_ITEM.ID1070190]
+coming soon
+[IDS_ITEM.ID1070191]
+coming soon
+[IDS_ITEM.ID1070192]
+coming soon
+[IDS_ITEM.ID1070193]
+coming soon
 [IDS_ITEM.ID1071001]
 Maximus Croisédia
 [IDS_ITEM.ID1071002]
@@ -1940,6 +2024,12 @@ Célébration de la DC 2025 DEC
 Célébration de la DC 2026 MAR
 [IDS_ITEM.ID1073020]
 Célébration des qualifications pour le WCS 2026
+[IDS_ITEM.ID1073021]
+coming soon
+[IDS_ITEM.ID1073022]
+coming soon
+[IDS_ITEM.ID1073023]
+Célébration de la Coupe Fusion
 [IDS_ITEM.ID1075001]
 JEU DE CARTES Yu-Gi-Oh! LES CHRONIQUES
 [IDS_ITEM.ID1075002]
@@ -2024,6 +2114,10 @@ Explosion Magique Sombre
 Étincelle Géante
 [IDS_ITEM.ID1080033]
 Rage Bleu Profond
+[IDS_ITEM.ID1080034]
+Cyber Kaiser
+[IDS_ITEM.ID1080035]
+Bâtir un Avenir
 [IDS_ITEM.ID1082001]
 Noir Xyz
 [IDS_ITEM.ID1082002]
@@ -2086,6 +2180,8 @@ Notes Elfiques
 Ravin des Dragons
 [IDS_ITEM.ID1082032]
 Exosœur
+[IDS_ITEM.ID1082034]
+coming soon
 [IDS_ITEM.ID1083001]
 Blanc et bleu
 [IDS_ITEM.ID1090001]
@@ -2282,6 +2378,8 @@ Tourbillons Jumeaux
 Sacrifice Inutile
 [IDS_ITEM.ID1101014]
 Tour d'Ossements Buveuse d'Ames
+[IDS_ITEM.ID1101015]
+coming soon
 [IDS_ITEM.ID1101016]
 Epine Magique
 [IDS_ITEM.ID1101017]
@@ -2316,6 +2414,8 @@ Bouée
 Fantôme d'Halloween
 [IDS_ITEM.ID1101041]
 Couronne
+[IDS_ITEM.ID1101044]
+coming soon
 [IDS_ITEM.ID1101045]
 TASSE DE RÉVEIL !
 [IDS_ITEM.ID1102001]
@@ -2456,26 +2556,8 @@ Limiter Removal
 Aquamiroir Gishki
 [IDS_ITEM.ID1111026]
 Souche d'arbre adorée
-[IDS_ITEM.ID1111027]
-coming soon
-[IDS_ITEM.ID1111028]
-coming soon
-[IDS_ITEM.ID1111029]
-coming soon
-[IDS_ITEM.ID1111030]
-coming soon
-[IDS_ITEM.ID1111031]
-coming soon
 [IDS_ITEM.ID1111032]
 Carte Monstre Xyz
-[IDS_ITEM.ID1111033]
-coming soon
-[IDS_ITEM.ID1111034]
-coming soon
-[IDS_ITEM.ID1111035]
-coming soon
-[IDS_ITEM.ID1111036]
-coming soon
 [IDS_ITEM.ID1111037]
 Carte de Monstre à Effet
 [IDS_ITEM.ID1111038]
@@ -2534,8 +2616,14 @@ Live☆Jumelle Lil-la Sucreries
 Dragon Rose Ronces
 [IDS_ITEM.ID1111077]
 Spirale Dominus
+[IDS_ITEM.ID1111078]
+coming soon
 [IDS_ITEM.ID1111080]
 borrelle
+[IDS_ITEM.ID1111081]
+coming soon
+[IDS_ITEM.ID1111082]
+coming soon
 [IDS_ITEM.ID1112001]
 Colisée
 [IDS_ITEM.ID1112002]
@@ -2548,6 +2636,8 @@ Fête du WCS 2023
 Fête du WCS 2024
 [IDS_ITEM.ID1113003]
 Fête du WCS 2025
+[IDS_ITEM.ID1113004]
+coming soon
 [IDS_ITEM.ID1115001]
 eFootball™
 [IDS_ITEM.ID1120001]
@@ -2617,9 +2707,9 @@ Explosion Magique Sombre
 [IDS_ITEM.ID1120033]
 Rage Bleu Profond
 [IDS_ITEM.ID1120034]
-coming soon
+Cyber Kaiser
 [IDS_ITEM.ID1120035]
-coming soon
+Bâtir un Avenir
 [IDS_ITEM.ID1130001]
 Dragon Blanc Alternatif aux Yeux Bleus
 [IDS_ITEM.ID1130002]
@@ -2884,6 +2974,18 @@ Bleu Mercefourrure
 Gorgon de Zilofthonia
 [IDS_ITEM.ID1130136]
 Harmonie Fydraulis
+[IDS_ITEM.ID1130137]
+coming soon
+[IDS_ITEM.ID1130138]
+coming soon
+[IDS_ITEM.ID1130139]
+coming soon
+[IDS_ITEM.ID1130140]
+coming soon
+[IDS_ITEM.ID1130150]
+coming soon
+[IDS_ITEM.ID1130151]
+coming soon
 [IDS_ITEM.ID1132001]
 Lapin Sauveteur
 [IDS_ITEM.ID1132002]
@@ -2938,6 +3040,14 @@ Dragunité
 Le Déchu et La Vertueuse
 [IDS_ITEM.ID1170015]
 Animal Féérique
+[IDS_ITEM.ID1170016]
+coming soon
+[IDS_ITEM.ID1170017]
+coming soon
+[IDS_ITEM.ID1170018]
+coming soon
+[IDS_ITEM.ID1170022]
+coming soon
 [IDS_ITEM.ID1180001]
 Dragon Blanc Alternatif aux Yeux Bleus
 [IDS_ITEM.ID1180002]
@@ -2986,6 +3096,8 @@ Exosœur
 Albaz le Déchu
 [IDS_ITEM.ID1180024]
 Animal Féérique
+[IDS_ITEM.ID1180025]
+coming soon
 [IDS_ITEM.ID1190001]
 Emplacements de marque-page
 [IDS_ITEM.ID0000]
@@ -3041,7 +3153,7 @@ Base du partenaire
 [IDS_ITEM.CATEGORY_0012]
 Deck de Structure
 [IDS_ITEM.CATEGORY_0013]
-Papier peint
+Fond d'écran
 [IDS_ITEM.CATEGORY_0014]
 Ticket de Pack
 [IDS_ITEM.CATEGORY_0015]

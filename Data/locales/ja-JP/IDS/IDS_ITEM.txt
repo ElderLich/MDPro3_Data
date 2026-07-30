@@ -576,6 +576,30 @@ CNo.101 S・H・Dark Knight
 白き竜の落胤
 [IDS_ITEM.ID1010148]
 鉄獣の炎工 キット
+[IDS_ITEM.ID1010149]
+coming soon
+[IDS_ITEM.ID1010150]
+coming soon
+[IDS_ITEM.ID1010151]
+coming soon
+[IDS_ITEM.ID1010152]
+coming soon
+[IDS_ITEM.ID1010153]
+coming soon
+[IDS_ITEM.ID1010154]
+coming soon
+[IDS_ITEM.ID1010155]
+coming soon
+[IDS_ITEM.ID1010156]
+coming soon
+[IDS_ITEM.ID1010157]
+coming soon
+[IDS_ITEM.ID1010158]
+coming soon
+[IDS_ITEM.ID1010159]
+coming soon
+[IDS_ITEM.ID1010160]
+coming soon
 [IDS_ITEM.ID1011001]
 サッカーボール
 [IDS_ITEM.ID1011002]
@@ -718,6 +742,28 @@ WCS2026予選　ゴールドファイナリスト
 WCS2026予選　シルバーファイナリスト
 [IDS_ITEM.ID1011071]
 WCS2026予選　ブロンズファイナリスト
+[IDS_ITEM.ID1011072]
+フュージョンカップ Champion
+[IDS_ITEM.ID1011073]
+フュージョンカップ　ゴールドファイナリスト
+[IDS_ITEM.ID1011074]
+フュージョンカップ　シルバーファイナリスト
+[IDS_ITEM.ID1011075]
+フュージョンカップ　ブロンズファイナリスト
+[IDS_ITEM.ID1011076]
+coming soon
+[IDS_ITEM.ID1011077]
+coming soon
+[IDS_ITEM.ID1011078]
+coming soon
+[IDS_ITEM.ID1011079]
+coming soon
+[IDS_ITEM.ID1011080]
+coming soon
+[IDS_ITEM.ID1011081]
+coming soon
+[IDS_ITEM.ID1011082]
+coming soon
 [IDS_ITEM.ID1012001]
 エクスクローラー・シナプシス
 [IDS_ITEM.ID1012002]
@@ -938,6 +984,14 @@ coming soon
 coming soon
 [IDS_ITEM.ID1013020]
 coming soon
+[IDS_ITEM.ID1014001]
+AIアイコン①
+[IDS_ITEM.ID1014002]
+AIアイコン②
+[IDS_ITEM.ID1014003]
+AIアイコン③
+[IDS_ITEM.ID1014004]
+AIアイコン④
 [IDS_ITEM.ID1020001]
 駆け出し決闘者
 [IDS_ITEM.ID1020002]
@@ -1376,12 +1430,50 @@ WCS2026予選 DLv.MAX
 超弩級
 [IDS_ITEM.ID1020219]
 正義の執行者
+[IDS_ITEM.ID1020220]
+紫紺の覇者
+[IDS_ITEM.ID1020221]
+フュージョンカップ TOP10
+[IDS_ITEM.ID1020222]
+フュージョンカップ TOP100
+[IDS_ITEM.ID1020223]
+フュージョンカップ TOP500
+[IDS_ITEM.ID1020224]
+フュージョンカップ TOP1000
+[IDS_ITEM.ID1020225]
+フュージョンカップ TOP10000
+[IDS_ITEM.ID1020226]
+フュージョンカップ 2nd STAGE進出
+[IDS_ITEM.ID1020227]
+coming soon
+[IDS_ITEM.ID1020228]
+coming soon
+[IDS_ITEM.ID1020229]
+coming soon
+[IDS_ITEM.ID1020230]
+coming soon
+[IDS_ITEM.ID1020231]
+coming soon
+[IDS_ITEM.ID1020232]
+coming soon
+[IDS_ITEM.ID1020233]
+coming soon
+[IDS_ITEM.ID1020234]
+coming soon
+[IDS_ITEM.ID1020235]
+coming soon
+[IDS_ITEM.ID1020236]
+coming soon
+[IDS_ITEM.ID1020237]
+coming soon
+[IDS_ITEM.ID1020238]
+coming soon
 [IDS_ITEM.ID1021001]
 盤石の布陣
 [IDS_ITEM.ID1021002]
 トップパフォーマー
 [IDS_ITEM.ID1021003]
-coming soon
+ポイントゲッター
 [IDS_ITEM.ID1022001]
 高校生大会2026 Champion
 [IDS_ITEM.ID1022002]
@@ -1580,6 +1672,12 @@ P.U.N.K.JAM FEVER！
 黒衣竜アルビオン
 [IDS_ITEM.ID1031026]
 パルマ・ライゼオル
+[IDS_ITEM.ID1031027]
+coming soon
+[IDS_ITEM.ID1031028]
+coming soon
+[IDS_ITEM.ID1031029]
+coming soon
 [IDS_ITEM.ID1032001]
 祝祭のオーナメント
 [IDS_ITEM.ID1032002]
@@ -1631,7 +1729,7 @@ WCS2024 出場記念
 [IDS_ITEM.ID1033005]
 WCS2025 出場記念
 [IDS_ITEM.ID1033006]
-coming soon
+大融合
 [IDS_ITEM.ID1033007]
 coming soon
 [IDS_ITEM.ID1033008]
@@ -1640,6 +1738,14 @@ coming soon
 coming soon
 [IDS_ITEM.ID1033010]
 coming soon
+[IDS_ITEM.ID1034001]
+AIフレーム①
+[IDS_ITEM.ID1034002]
+AIフレーム②
+[IDS_ITEM.ID1034003]
+AIフレーム③
+[IDS_ITEM.ID1034004]
+AIフレーム④
 [IDS_ITEM.ID1070001]
 遊戯王OCG
 [IDS_ITEM.ID1070002]
@@ -1996,6 +2102,38 @@ R.B.ブルート・ブルース
 超弩級砲塔列車ジャガーノート・リーベ
 [IDS_ITEM.ID1070178]
 モコモッコ
+[IDS_ITEM.ID1070179]
+coming soon
+[IDS_ITEM.ID1070180]
+coming soon
+[IDS_ITEM.ID1070181]
+coming soon
+[IDS_ITEM.ID1070182]
+coming soon
+[IDS_ITEM.ID1070183]
+coming soon
+[IDS_ITEM.ID1070184]
+coming soon
+[IDS_ITEM.ID1070185]
+coming soon
+[IDS_ITEM.ID1070186]
+coming soon
+[IDS_ITEM.ID1070187]
+coming soon
+[IDS_ITEM.ID1070188]
+coming soon
+[IDS_ITEM.ID1070189]
+coming soon
+[IDS_ITEM.ID1070190]
+coming soon
+[IDS_ITEM.ID1070191]
+coming soon
+[IDS_ITEM.ID1070192]
+coming soon
+[IDS_ITEM.ID1070193]
+coming soon
+[IDS_ITEM.ID1070194]
+coming soon
 [IDS_ITEM.ID1071001]
 天穹のパラディオン
 [IDS_ITEM.ID1071002]
@@ -2276,6 +2414,16 @@ DC2025 DEC 開催記念
 DC2026 MAR 開催記念
 [IDS_ITEM.ID1073020]
 WCS2026予選　開催記念
+[IDS_ITEM.ID1073021]
+coming soon
+[IDS_ITEM.ID1073022]
+coming soon
+[IDS_ITEM.ID1073023]
+フュージョンカップ 開催記念
+[IDS_ITEM.ID1073024]
+coming soon
+[IDS_ITEM.ID1073025]
+coming soon
 [IDS_ITEM.ID1075001]
 Yu-Gi-Oh! CARD GAME THE CHRONICLES
 [IDS_ITEM.ID1075002]
@@ -2294,6 +2442,8 @@ THE CHRONICLES 白の物語2
 THE CHRONICLES 精霊術の使い手
 [IDS_ITEM.ID1075009]
 THE CHRONICLES マギストス
+[IDS_ITEM.ID1075010]
+coming soon
 [IDS_ITEM.ID1080001]
 デュエリストカードケース　レッド
 [IDS_ITEM.ID1080002]
@@ -2361,9 +2511,9 @@ coming soon
 [IDS_ITEM.ID1080033]
 レイジ・オブ・ディープブルー
 [IDS_ITEM.ID1080034]
-coming soon
+カイザー・オブ・サイバー
 [IDS_ITEM.ID1080035]
-coming soon
+ゼロ・トゥ・フューチャー
 [IDS_ITEM.ID1080036]
 coming soon
 [IDS_ITEM.ID1080037]
@@ -2405,7 +2555,7 @@ ID=1081014
 [IDS_ITEM.ID1081015]
 シンクロカップ
 [IDS_ITEM.ID1081016]
-ID=1081016
+フュージョンカップ
 [IDS_ITEM.ID1081017]
 ID=1081017
 [IDS_ITEM.ID1081018]
@@ -2478,6 +2628,10 @@ Yum☆Yum☆ヤミーズ
 欠番
 [IDS_ITEM.ID1082032]
 エクソシスター
+[IDS_ITEM.ID1082033]
+coming soon
+[IDS_ITEM.ID1082034]
+coming soon
 [IDS_ITEM.ID1083001]
 ホワイト＆ブルー
 [IDS_ITEM.ID1090001]
@@ -2564,26 +2718,32 @@ coming soon
 ネオン瞬くサイバーシティ
 [IDS_ITEM.ID1090042]
 妖精領域 オラトリオ・ガーデン
+[IDS_ITEM.ID1090043]
+coming soon
+[IDS_ITEM.ID1090044]
+coming soon
+[IDS_ITEM.ID1090045]
+coming soon
 [IDS_ITEM.ID1092001]
 コロシアム
 [IDS_ITEM.ID1092002]
 WCS
 [IDS_ITEM.ID1092003]
-coming soon
+汎用スタジアム /芝：昼①
 [IDS_ITEM.ID1092004]
 高校生日本一決定戦
 [IDS_ITEM.ID1092005]
-coming soon
+汎用スタジアム /石：夜①
 [IDS_ITEM.ID1092006]
-coming soon
+汎用スタジアム /石：夜②
 [IDS_ITEM.ID1092007]
 coming soon
 [IDS_ITEM.ID1092008]
-coming soon
+WCS2025用
 [IDS_ITEM.ID1092009]
 coming soon
 [IDS_ITEM.ID1092010]
-coming soon
+WCS2026用（仮）
 [IDS_ITEM.ID1092011]
 coming soon
 [IDS_ITEM.ID1092012]
@@ -2595,7 +2755,7 @@ coming soon
 [IDS_ITEM.ID1092015]
 coming soon
 [IDS_ITEM.ID1095001]
-coming soon
+A
 [IDS_ITEM.ID1100001]
 森
 [IDS_ITEM.ID1100002]
@@ -2680,6 +2840,12 @@ coming soon
 ネオン瞬くサイバーシティ
 [IDS_ITEM.ID1100042]
 妖精領域 オラトリオ・ガーデン
+[IDS_ITEM.ID1100043]
+coming soon
+[IDS_ITEM.ID1100044]
+coming soon
+[IDS_ITEM.ID1100045]
+coming soon
 [IDS_ITEM.ID1101001]
 落とし穴
 [IDS_ITEM.ID1101002]
@@ -2772,6 +2938,10 @@ coming soon
 WAKE CUP！
 [IDS_ITEM.ID1101046]
 coming soon
+[IDS_ITEM.ID1101047]
+coming soon
+[IDS_ITEM.ID1101048]
+coming soon
 [IDS_ITEM.ID1102001]
 コロシアム
 [IDS_ITEM.ID1102002]
@@ -2787,11 +2957,11 @@ coming soon
 [IDS_ITEM.ID1102007]
 coming soon
 [IDS_ITEM.ID1102008]
-coming soon
+WCS2025用
 [IDS_ITEM.ID1102009]
 coming soon
 [IDS_ITEM.ID1102010]
-coming soon
+WCS2026用（仮）
 [IDS_ITEM.ID1102011]
 coming soon
 [IDS_ITEM.ID1102012]
@@ -2803,7 +2973,7 @@ coming soon
 [IDS_ITEM.ID1102015]
 coming soon
 [IDS_ITEM.ID1105001]
-coming soon
+A
 [IDS_ITEM.ID1110001]
 森
 [IDS_ITEM.ID1110002]
@@ -2888,6 +3058,12 @@ coming soon
 ネオン瞬くサイバーシティ
 [IDS_ITEM.ID1110042]
 妖精領域 オラトリオ・ガーデン
+[IDS_ITEM.ID1110043]
+coming soon
+[IDS_ITEM.ID1110044]
+coming soon
+[IDS_ITEM.ID1110045]
+coming soon
 [IDS_ITEM.ID1111001]
 ウィジャ盤
 [IDS_ITEM.ID1111002]
@@ -3052,6 +3228,10 @@ coming soon
 coming soon
 [IDS_ITEM.ID1111082]
 coming soon
+[IDS_ITEM.ID1111083]
+coming soon
+[IDS_ITEM.ID1111084]
+coming soon
 [IDS_ITEM.ID1112001]
 コロシアム
 [IDS_ITEM.ID1112002]
@@ -3067,11 +3247,11 @@ coming soon
 [IDS_ITEM.ID1112007]
 coming soon
 [IDS_ITEM.ID1112008]
-coming soon
+WCS2025用
 [IDS_ITEM.ID1112009]
 coming soon
 [IDS_ITEM.ID1112010]
-coming soon
+WCS2026用（仮）
 [IDS_ITEM.ID1112011]
 coming soon
 [IDS_ITEM.ID1112012]
@@ -3161,9 +3341,9 @@ eFootball™
 [IDS_ITEM.ID1120033]
 レイジ・オブ・ディープブルー
 [IDS_ITEM.ID1120034]
-coming soon
+カイザー・オブ・サイバー
 [IDS_ITEM.ID1120035]
-coming soon
+ゼロ・トゥ・フューチャー
 [IDS_ITEM.ID1130001]
 青眼の亜白龍
 [IDS_ITEM.ID1130002]
@@ -3436,6 +3616,36 @@ coming soon
 麗しき磁律機壊
 [IDS_ITEM.ID1130136]
 調和ノ天救竜
+[IDS_ITEM.ID1130137]
+coming soon
+[IDS_ITEM.ID1130138]
+coming soon
+[IDS_ITEM.ID1130139]
+coming soon
+[IDS_ITEM.ID1130140]
+coming soon
+[IDS_ITEM.ID1130141]
+coming soon
+[IDS_ITEM.ID1130142]
+coming soon
+[IDS_ITEM.ID1130143]
+coming soon
+[IDS_ITEM.ID1130144]
+coming soon
+[IDS_ITEM.ID1130145]
+coming soon
+[IDS_ITEM.ID1130146]
+coming soon
+[IDS_ITEM.ID1130147]
+coming soon
+[IDS_ITEM.ID1130148]
+coming soon
+[IDS_ITEM.ID1130149]
+coming soon
+[IDS_ITEM.ID1130150]
+coming soon
+[IDS_ITEM.ID1130151]
+coming soon
 [IDS_ITEM.ID1132001]
 レスキューラビット
 [IDS_ITEM.ID1132002]
@@ -3498,6 +3708,20 @@ D-HERO
 白の物語
 [IDS_ITEM.ID1170015]
 妖精伝姫
+[IDS_ITEM.ID1170016]
+coming soon
+[IDS_ITEM.ID1170017]
+coming soon
+[IDS_ITEM.ID1170018]
+coming soon
+[IDS_ITEM.ID1170019]
+coming soon
+[IDS_ITEM.ID1170020]
+coming soon
+[IDS_ITEM.ID1170021]
+coming soon
+[IDS_ITEM.ID1170022]
+coming soon
 [IDS_ITEM.ID1180001]
 青眼の亜白龍
 [IDS_ITEM.ID1180002]
@@ -3546,6 +3770,14 @@ D-HERO
 アルバスの落胤
 [IDS_ITEM.ID1180024]
 妖精伝姫
+[IDS_ITEM.ID1180025]
+coming soon
+[IDS_ITEM.ID1180026]
+coming soon
+[IDS_ITEM.ID1180027]
+coming soon
+[IDS_ITEM.ID1180028]
+coming soon
 [IDS_ITEM.ID1190001]
 ブックマーク枠
 [IDS_ITEM.ID0000]

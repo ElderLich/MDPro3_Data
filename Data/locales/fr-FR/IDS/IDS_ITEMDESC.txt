@@ -126,6 +126,8 @@ Ses bras puissants peuvent asséner des coups destructeurs et étrangler ses adv
 [IDS_ITEMDESC.ID1000046]
 Un jeune bretteur <category id='174'/> qui prend les devants.
 Il s'est occupé personnellement de "<card mrk='17783'/>".
+[IDS_ITEMDESC.ID1000047]
+coming soon
 [IDS_ITEMDESC.ID1001001]
 Des nouilles instantanées qui semblent capables de conférer le pouvoir de l'Invocation Fusion.
 Ce n'est pas parce qu'elles sont instantanées qu'elles sont mauvaises !
@@ -808,6 +810,12 @@ Est-ce un souvenir du début de la fin, ou la possibilité que la véritable fla
 [IDS_ITEMDESC.ID1010148]
 Une Icône représentant une jeune fille à l'intelligence surdéveloppée, illuminée par la foudre d'une divinité.
 C'est ainsi que débuta le défi de générer l'énergie du futur.
+[IDS_ITEMDESC.ID1010149]
+coming soon
+[IDS_ITEMDESC.ID1010150]
+coming soon
+[IDS_ITEMDESC.ID1010160]
+coming soon
 [IDS_ITEMDESC.ID1011001]
 Une icône représentant un ballon constitué de panneaux noirs et blancs.
 Remporter 3 Duels d'affilée ne s'appelle pas un coup du chapeau.
@@ -1021,6 +1029,18 @@ Une icône offerte à ceux qui ont obtenu des résultats impressionnants lors de
 [IDS_ITEMDESC.ID1011071]
 Une icône avec un logo couleur bronze "Qualifications pour le WCS 2026".
 Une icône offerte à ceux qui ont remporté de nombreux Duels lors des qualifications 2026 organisées face au reste du monde.
+[IDS_ITEMDESC.ID1011072]
+Une icône arborant le splendide et prestigieux logo de la Coupe Fusion.
+Elle est offerte au Duelliste qui remporte la Coupe Fusion.
+[IDS_ITEMDESC.ID1011073]
+Une icône avec un logo "Coupe Fusion" en or. 
+Offerte à ceux qui ont réalisé des exploits lors de la Coupe Fusion.
+[IDS_ITEMDESC.ID1011074]
+Une icône avec un logo "Coupe Fusion" en argent. 
+Offerte à ceux qui ont atteint des résultats brillants lors de la Coupe Fusion.
+[IDS_ITEMDESC.ID1011075]
+Une icône avec un logo "Coupe Fusion" en bronze. 
+Offerte à ceux qui ont remporté de nombreuses batailles lors de la Coupe Fusion.
 [IDS_ITEMDESC.ID1012001]
 Une icône représentant un "Krawler", des monstres ayant envahi un certain monde. Celui-ci fait partie de la classe supérieure.
 Ils s'efforcent de réduire à néant les efforts de la civilisation humaine qui perdure depuis des générations.
@@ -1959,9 +1979,34 @@ Les Duellistes sont fiers des cartes auxquelles ils tiennent le plus.
 [IDS_ITEMDESC.ID1020219]
 Un titre donné aux Duellistes qui ont obtenu des résultats dans un récit choisi grâce au pouvoir de diverses cartes.
 Les histoires racontées au cours des combats laisseront des traces chez de nombreux Duellistes.
+[IDS_ITEMDESC.ID1020220]
+Un titre décerné au Duelliste champion de la Coupe Fusion.
+La preuve que ce Duelliste a atteint le sommet et marqué l'histoire de Yu-Gi-Oh! MASTER DUEL.
+[IDS_ITEMDESC.ID1020221]
+Un titre donné aux Duellistes qui ont atteint le top 10 dans la Coupe Fusion.
+Les récits de leurs innombrables grands Duels et de leur bravoure dans la bataille pour le trône perdureront dans le temps.
+[IDS_ITEMDESC.ID1020222]
+Un titre donné aux Duellistes qui ont atteint le top 100 dans la Coupe Fusion.
+La preuve d'un exploit que de nombreux Duellistes essayent d'accomplir.
+[IDS_ITEMDESC.ID1020223]
+Un titre donné aux Duellistes qui ont atteint le top 500 dans la Coupe Fusion.
+Seul le plus fort peut posséder un cœur comme le votre, que les nombreux Duels acharnés ont permis de tempérer.
+[IDS_ITEMDESC.ID1020224]
+Un titre donné aux Duellistes qui ont atteint le top 1000 dans la Coupe Fusion.
+Bravo aux Duellistes qui ont continuellement perfectionné leurs Decks et leurs tactiques pour parvenir à ce résultat.
+[IDS_ITEMDESC.ID1020225]
+Un titre donné aux Duellistes qui ont atteint le top 10000 dans la Coupe Fusion.
+Remporté grâce à des victoires successives contre des concurrents féroces lors de la 2nd STAGE.
+[IDS_ITEMDESC.ID1020226]
+Un titre donné aux Duellistes qui ont atteint la 2nd Stage dans la Coupe Fusion.
+La preuve que vous avez réussi à passer la très disputée 1st Stage.
+[IDS_ITEMDESC.ID1020227]
+coming soon
 [IDS_ITEMDESC.ID1021001]
 Un titre qui n'est décerné que lors d'une occasion spéciale.
 [IDS_ITEMDESC.ID1021002]
+Un titre qui n'est décerné que lors d'une occasion spéciale.
+[IDS_ITEMDESC.ID1021003]
 Un titre qui n'est décerné que lors d'une occasion spéciale.
 [IDS_ITEMDESC.ID1022001]
 Un titre accordé aux Duellistes sacrés premiers champions du "Championnat des lycées au Japon 2026" de Yu-Gi-Oh! MASTER DUEL.
@@ -2174,6 +2219,8 @@ Le garçon a retrouvé la raison grâce à la confiance de son entourage.
 [IDS_ITEMDESC.ID1031026]
 Un Cadre d'icône qui évoque une arme dotée d'un mécanisme secret d'ultra-transformation.
 Bien que ce cadre ne puisse malheureusement pas se transformer, il est imprégné de l'énergie du feu et de l'électricité.
+[IDS_ITEMDESC.ID1031027]
+coming soon
 [IDS_ITEMDESC.ID1032001]
 Un Cadre d'icône de forme circulaire pouvant être aperçu dans certaines régions du monde lorsque l'année arrive à son terme.
 On l'accroche en faisant le vœu sincère que les jours à venir apportent joie et bonheur.
@@ -2222,6 +2269,8 @@ Une récompense pour les Duellistes qui ont obtenu de bons résultats lors de la
 [IDS_ITEMDESC.ID1033005]
 Un cadre d'icône décernée aux participants de l'événement MASTER DUEL du Yu-Gi-Oh! World Championship 2025.
 La prochaine étape vous attend !
+[IDS_ITEMDESC.ID1033007]
+coming soon
 [IDS_ITEMDESC.ID1070001]
 Un protège-cartes orné du même motif que le verso des cartes du jeu de cartes à collectionner Yu-Gi-Oh!
 Si ce n'est pas cassé, à quoi bon le réparer ?
@@ -2748,6 +2797,14 @@ Pour ceux qui éliminent tous leurs adversaires d'un seul coup.
 [IDS_ITEMDESC.ID1070178]
 Des protège-cartes représentant un monstre Illusion avec une fourrure épaisse.
 Pour ceux qui aiment les créatures touffues.
+[IDS_ITEMDESC.ID1070179]
+coming soon
+[IDS_ITEMDESC.ID1070191]
+coming soon
+[IDS_ITEMDESC.ID1070192]
+coming soon
+[IDS_ITEMDESC.ID1070193]
+coming soon
 [IDS_ITEMDESC.ID1071001]
 Des protège-cartes illustrant un guerrier qui a mûri et accepté les cicatrices gravées dans son cœur au cours des batailles. 
 Parfaits pour ceux qui veulent toujours le meilleur pour leurs amis.
@@ -2957,6 +3014,13 @@ Pour ceux qui ont participé à la Duelist Cup et qui ont fait de cet événemen
 [IDS_ITEMDESC.ID1073020]
 Un Protège-cartes avec un logo "Qualifications pour le WCS 2026".
 Pour ceux qui ont participé à la division MASTER DUEL et qui ont fait de cet événement un succès.
+[IDS_ITEMDESC.ID1073021]
+coming soon
+[IDS_ITEMDESC.ID1073022]
+coming soon
+[IDS_ITEMDESC.ID1073023]
+Des protège-cartes avec le logo de la Coupe Fusion.
+Pour ceux qui ont participé à la Coupe Fusion et qui ont fait de cet événement un succès.
 [IDS_ITEMDESC.ID1075001]
 Protège-cartes représentant une scène du "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Les Duellistes présents sur place ont ovationné cet événement prestigieux.
@@ -3081,6 +3145,12 @@ Parfait pour les Decks axés sur l'utilisation de la magie immortelle.
 [IDS_ITEMDESC.ID1080033]
 Une boîte de cartes illustrée avec "<card mrk='20517'/>".
 Le béhémoth des profondeurs cherche à occulter toute la lumière !
+[IDS_ITEMDESC.ID1080034]
+Une Boîte de cartes représentant "<card mrk='6397'/>".
+Le Style Cyber évolue. Contemplez l'éclat de son coup ultime.
+[IDS_ITEMDESC.ID1080035]
+Une Boîte de cartes représentant "<card mrk='21453'/>".
+Lorsque les destins s'entremêlent, un miracle de lumière ouvre la voie à un avenir plein d'espoir.
 [IDS_ITEMDESC.ID1082001]
 Une boîte de Deck qui s'inspire de la grande étendue galactique d'où proviennent les monstres Xyz. 
 Un excellent choix pour les Decks axés sur les Invocations Xyz !
@@ -3865,9 +3935,13 @@ De sombres flammes envahissent chaque recoin de ce monde maudit.
 [IDS_ITEMDESC.ID1111077]
 Un Stand inspiré d'une énergie tourbillonnante née de la nature.
 Recevoir l'aura qu'il émet vous remplit de vitalité.
+[IDS_ITEMDESC.ID1111078]
+coming soon
 [IDS_ITEMDESC.ID1111080]
 Un Stand inspiré d'un dragon nommé "<category id='158'/>".
 Une puissance écrasante ouvre une brèche dans un monde fermé.
+[IDS_ITEMDESC.ID1111082]
+coming soon
 [IDS_ITEMDESC.ID1112001]
 Un Stand issu d'un colisée.
 La flamme brillante danse comme si elle chantait les louanges des braves guerriers qui ont combattu ici.
@@ -3883,6 +3957,8 @@ Son design austère témoigne du caractère prestigieux du concours.
 [IDS_ITEMDESC.ID1113003]
 Un Stand commémorant la participation à l'événement MASTER DUEL du Yu-Gi-Oh! World Championship 2025.
 Son design austère témoigne du caractère prestigieux du concours.
+[IDS_ITEMDESC.ID1113004]
+coming soon
 [IDS_ITEMDESC.ID1115001]
 Un Stand inspiré d'un jeu de football qui vous permet d'organiser des matches entre des clubs et des équipes du monde entier.
 Contient les fondements de l'histoire et de l'évolution du football.
@@ -3966,9 +4042,11 @@ Un Deck "<category id='40'/>" basé sur le déploiement de monstres de Niveau/Ra
 Ce Deck "<category id='011'/>" Invoque par Xyz une ribambelle de Monstres Xyz EAU en combat.
 Pour commencer, utilisez les effets de "<card mrk='15005'/>" et d'autres cartes pour remplir votre Terrain de monstres, puis utilisez-les comme Matériels pour des Invocations Xyz. Un Monstre Xyz recommandé est "<card mrk='10332'/>". Si vous Invoquez Spécialement "<card mrk='20518'/>" avec son effet, vous pouvez préparer "<card mrk='20544'/>" pour le tour de votre adversaire, tout en préparant également des Monstres Xyz liés à "<card mrk='19036'/>". Votre atout, "<card mrk='20517'/>", est un monstre puissant qui peut à la fois neutraliser un monstre de votre adversaire et attaquer deux fois pendant le même tour. Si la carte "<card mrk='21410'/>" est attachée à lui comme Matériel Xyz, il peut aussi perturber les Cartes Magie/Piège, alors si vous parvenez à l'Invoquer par Xyz, vous vous rapprocherez de la victoire !
 [IDS_ITEMDESC.ID1120034]
-coming soon
+Un Deck "<category id='120'/>" qui a le pouvoir de retourner la situation quand l'adversaire attaque.
+Pour commencer, Invoquez "<card mrk='10866'/>" et utilisez les Magies "<category id='121'/>" qu'il peut ajouter à votre main pour rassembler des monstres à utiliser comme Matériaux de Fusion. N'oubliez pas que "<card mrk='16296'/>", qui peut être appelé avec l'effet de la Magie Continue "<card mrk='16298'/>", peut ajouter "<card mrk='6398'/>" à votre main avec son effet, rendant ainsi une Invocation Fusion plus facile. Quand tout est prêt, Invoquez par Fusion un monstre. "<card mrk='11764'/>" est un monstre particulièrement puissant qui peut détruire les Cartes Magie/Piège et attaquer jusqu'à 3 fois. Utilisez ses attaques consécutives pour remporter la victoire en un seul coup.
 [IDS_ITEMDESC.ID1120035]
-coming soon
+Un Deck "<category id='123'/>" qui part de zéro pour bâtir un avenir glorieux.
+Commencez par placer 2 monstres de Niveau 4 sur le Terrain. Quand vous Invoquez Spécialement "<card mrk='21415'/>" avec son propre effet, il devient de Niveau 4 et peut aussi envoyer au Cimetière "<card mrk='21773'/>", qui peut être Invoqué Spécialement depuis le Cimetière par son propre effet. Donc si vous l'avez dans votre main, tentez de le placer sur votre Terrain le plus vite possible. Une fois que tout est prêt, Invoquez par Xyz "<card mrk='21454'/>". Vous pouvez ensuite utiliser son effet pour ajouter "<card mrk='10953'/>" à votre main, et enchaîner plusieurs coups grâce à cette carte. Ou vous pouvez ajouter "<card mrk='21485'/>" à votre main pour vous préparer au tour de votre adversaire. Votre atout "<card mrk='21453'/>" est un Monstre Xyz spécial qui utilise des Monstres Xyz du même Rang comme Matériaux. Plus vous avez de Monstres Xyz, plus son ATK augmente, alors appelez-en le plus possible pour remporter une victoire spectaculaire.
 [IDS_ITEMDESC.ID1130001]
 Un dragon blanc qui va créer de nouvelles légendes avec "Dragon Blanc aux Yeux Bleus".
 Continuez de vous battre, et vos capacités de Duelliste évolueront de jour en jour.
@@ -4178,7 +4256,7 @@ Les malfaiteurs sont vaincus par le <card mrk='7553'/>, son attaque ultime de De
 "<card mrk='13670'/>" se retrouve soudain attaquée par un Assaut de l'Air - As au coloris noir.
 Changeant son armement pour "<card mrk='14132'/>", elle s'engage dans un combat au corps à corps.
 [IDS_ITEMDESC.ID1130072]
-Papier peint arborant le design de l'un des gagnants du Sondage de popularité d'illustrations de carte 2025.
+Fond d'écran arborant le design de l'un des gagnants du Sondage de popularité d'illustrations de carte 2025.
 Le Terrain peut sembler idyllique, mais il est recouvert d’une substance gluante.
 [IDS_ITEMDESC.ID1130073]
 "<card mrk='20749'/>" donne une série d'ordres précis.
@@ -4364,6 +4442,12 @@ Grâce au phonographe sur son bras droit, il émet des ondes électromagnétique
 [IDS_ITEMDESC.ID1130136]
 Un dragon sacré qui emplit le cosmos de sons mystérieux.
 Cette bête magnifique, enroulée autour d'une planète, dégage une aura divine.
+[IDS_ITEMDESC.ID1130137]
+coming soon
+[IDS_ITEMDESC.ID1130138]
+coming soon
+[IDS_ITEMDESC.ID1130151]
+coming soon
 [IDS_ITEMDESC.ID1132001]
 Il ne sait pas très bien pourquoi, mais le lapin est désormais membre d'un club de foot.
 Il espère mener son équipe jusqu'à la victoire grâce à son talent naturel pour le soutien.
@@ -4442,6 +4526,10 @@ On dit que lorsque vous rassemblez des <category id='031'/>, les portes menant �
 [IDS_ITEMDESC.ID1170015]
 Un Dossier de Collectionneur inspiré par un conte adoré dans le monde entier.
 On dit que lorsque les cartes <category id='172'/> seront réunies, les portes qui mènent aux fées brilleront de mille feux.
+[IDS_ITEMDESC.ID1170016]
+coming soon
+[IDS_ITEMDESC.ID1170017]
+coming soon
 [IDS_ITEMDESC.ID1180001]
 Une pièce dont le motif est le dragon lumineux qui écrit une nouvelle légende.
 Ses yeux céruléens brillent.
@@ -4511,6 +4599,8 @@ Sa volonté de s'opposer à son destin brille intensément.
 [IDS_ITEMDESC.ID1180024]
 Une Pièce représentant des fées issues d'un petit royaume où les contes sont empreints de magie.
 Des histoires de toutes les époques et de tous les horizons brillent de mille feux.
+[IDS_ITEMDESC.ID1180025]
+coming soon
 [IDS_ITEMDESC.ID1190001]
 Le nombre maximum de marque-pages que vous pouvez posséder peut être augmenté.
 [IDS_ITEMDESC.ID0000]

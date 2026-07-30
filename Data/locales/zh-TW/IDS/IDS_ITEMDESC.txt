@@ -127,6 +127,8 @@ coming soon
 [IDS_ITEMDESC.ID1000046]
 身先士卒的<category id='174'/>年輕劍士。
 自告奮勇擔負起照料「<card mrk='17783'/>」的工作。
+[IDS_ITEMDESC.ID1000047]
+coming soon
 [IDS_ITEMDESC.ID1001001]
 感覺可讓人發動融合召喚的杯子。
 雖然很簡易，但簡易不等於很差。
@@ -809,6 +811,12 @@ coming soon
 [IDS_ITEMDESC.ID1010148]
 上面畫著目睹聖女雷霆後靈光一閃的天才少女的頭像。
 創造超次世代能源的挑戰就此展開。
+[IDS_ITEMDESC.ID1010149]
+coming soon
+[IDS_ITEMDESC.ID1010150]
+coming soon
+[IDS_ITEMDESC.ID1010160]
+coming soon
 [IDS_ITEMDESC.ID1011001]
 上面畫著由黑白相間球面組成的足球頭像。
 即使在決鬥中三連勝也不能說那是帽子戲法。
@@ -1022,6 +1030,18 @@ Yu-Gi-Oh! World Championship 2024:MASTER DUEL參賽紀念頭像。
 [IDS_ITEMDESC.ID1011071]
 上面畫著散發銅色光芒的「WCS 2026 預選賽」LOGO頭像。
 在登頂世界第一步的2026年預賽中，贏得多場對戰的決鬥者們，可獲得此頭像。
+[IDS_ITEMDESC.ID1011072]
+上面畫著閃耀榮光之「融合盃」的LOGO頭像。
+於融合盃取得優勝的決鬥者可獲得此稱號。
+[IDS_ITEMDESC.ID1011073]
+上面畫著散發金色光芒的「融合盃」LOGO頭像。
+在融合盃中創下最佳成績的決鬥者，可獲得此頭像。
+[IDS_ITEMDESC.ID1011074]
+上面畫著散發銀色光芒的「融合盃」LOGO頭像。
+在融合盃中創下佳績的決鬥者，可獲得此頭像。
+[IDS_ITEMDESC.ID1011075]
+上面畫著散發銅色光芒的「融合盃」LOGO頭像。
+在融合盃中，贏得多場對戰的決鬥者，可獲得此頭像。
 [IDS_ITEMDESC.ID1012001]
 上面畫著充斥在某星球中的「機怪蟲」的其中一隻高階個體頭像。
 牠們會無情地破壞人類建造的一切事物。
@@ -1960,9 +1980,34 @@ Yu-Gi-Oh! World Championship 2025:MASTER DUEL中十二強決鬥者的稱號。
 [IDS_ITEMDESC.ID1020219]
 解開許多卡片中隱藏的能力和故事，留下佳績的決鬥者可獲得此稱號。
 透過對戰了解到的故事，應該會有一些令決鬥者覺得感動的地方吧。
+[IDS_ITEMDESC.ID1020220]
+於「融合盃」取得冠軍榮譽的決鬥者可獲得此稱號。
+在《Yu-Gi-Oh! MASTER DUEL》的歷史留名，站上頂點之人的證明。
+[IDS_ITEMDESC.ID1020221]
+在「融合盃」中，取得TOP10成績的決鬥者可獲得此稱號。
+在爭奪唯一最強寶座的各場對戰中，一定有無數精彩的對決，今後也會令人津津樂道吧。
+[IDS_ITEMDESC.ID1020222]
+在「融合盃」中，取得TOP100成績的決鬥者可獲得此稱號。
+這個稱號成為許多決鬥者追求之目標的證明。
+[IDS_ITEMDESC.ID1020223]
+在「融合盃」中，取得TOP500成績的決鬥者可獲得此稱號。
+或許只有強者中的強者，才能具備歷經無數激烈決鬥而鍛鍊出的精神。
+[IDS_ITEMDESC.ID1020224]
+在「融合盃」中，取得TOP1000成績的決鬥者可獲得此稱號。
+持續鑽研牌組和戰略，到達這個地步的決鬥們均值得稱許。
+[IDS_ITEMDESC.ID1020225]
+在「融合盃」中，取得TOP10000成績的決鬥者可獲得此稱號。
+這是在高手如雲的2nd STAGE中，累積許多勝利的成果。
+[IDS_ITEMDESC.ID1020226]
+在「融合盃」中，取得晉級2nd STAGE成績的決鬥者可獲得此稱號。
+戰勝眾多決鬥者，從1st STAGE勝出的實力證明。
+[IDS_ITEMDESC.ID1020227]
+coming soon
 [IDS_ITEMDESC.ID1021001]
 僅限特殊機會才能獲得的限定稱號。
 [IDS_ITEMDESC.ID1021002]
+僅限特殊機會才能獲得的限定稱號。
+[IDS_ITEMDESC.ID1021003]
 僅限特殊機會才能獲得的限定稱號。
 [IDS_ITEMDESC.ID1022001]
 2026年舉辦的Yu-Gi-Oh! MASTER DUEL「日本第一高中生決勝賽」中初代冠軍決鬥者獲贈的稱號。
@@ -2175,6 +2220,8 @@ Yu-Gi-Oh! World Championship 2025:MASTER DUEL中十二強決鬥者的稱號。
 [IDS_ITEMDESC.ID1031026]
 會讓人聯想到隱藏著超變形機構的機械兵器的頭像邊框。
 雖然很遺憾沒有變形功能，但內部已填滿了的炎雷能量。
+[IDS_ITEMDESC.ID1031027]
+coming soon
 [IDS_ITEMDESC.ID1032001]
 這個頭像邊框，讓人聯想起在歲末將近時，可在各地看到的環狀裝飾品。
 為了祈禱幸福降臨，誠心誠意地進行裝飾吧。
@@ -2223,6 +2270,8 @@ Yu-Gi-Oh! World Championship 2024:MASTER DUEL參賽紀念頭像邊框。
 [IDS_ITEMDESC.ID1033005]
 Yu-Gi-Oh! World Championship 2025:MASTER DUEL參賽紀念頭像邊框。
 還有下一個對戰在等你！
+[IDS_ITEMDESC.ID1033007]
+coming soon
 [IDS_ITEMDESC.ID1070001]
 和《遊戲王OCG》卡片背面圖案相同的卡套。
 獻給喜歡事物原始樣貌的你。
@@ -2751,6 +2800,14 @@ Yu-Gi-Oh! World Championship 2025:MASTER DUEL參賽紀念頭像邊框。
 [IDS_ITEMDESC.ID1070178]
 此卡套外面畫著毛茸茸又圓滾滾的幻想魔族。
 獻給想體驗毛茸茸的你。
+[IDS_ITEMDESC.ID1070179]
+coming soon
+[IDS_ITEMDESC.ID1070191]
+coming soon
+[IDS_ITEMDESC.ID1070192]
+coming soon
+[IDS_ITEMDESC.ID1070193]
+coming soon
 [IDS_ITEMDESC.ID1071001]
 此卡套外面畫著跨越心靈創傷後獲得成長的戰士。
 獻給很會替夥伴著想的你。
@@ -2962,6 +3019,13 @@ Yu-Gi-Oh! World Championship 2025:MASTER DUEL的視覺效果刻畫而成的卡�
 [IDS_ITEMDESC.ID1073020]
 此卡套外面畫著「WCS2026預選賽」的LOGO。
 獻給參加MASTER DUEL部門預選賽，炒熱活動氣氛的你。
+[IDS_ITEMDESC.ID1073021]
+coming soon
+[IDS_ITEMDESC.ID1073022]
+coming soon
+[IDS_ITEMDESC.ID1073023]
+此卡套外面畫著「融合盃」的LOGO。
+獻給挑戰融合盃，炒熱活動氣氛的你。
 [IDS_ITEMDESC.ID1075001]
 描繪著「Yu-Gi-Oh! CARD GAME THE CHRONICLES」景象的卡套。
 在傳說中的祭典會場上，決鬥者們發出了巨大的歡呼聲。
@@ -3086,6 +3150,12 @@ coming soon
 [IDS_ITEMDESC.ID1080033]
 此牌組卡盒外面畫著「<card mrk='20517'/>」的插圖。
 咬碎所有光芒的深淵之牙將再次誕生！
+[IDS_ITEMDESC.ID1080034]
+此卡盒外面畫著「<card mrk='6397'/>」的插圖。
+電子流將持續進化，見證這綻放極致光輝的必殺一擊吧。
+[IDS_ITEMDESC.ID1080035]
+此卡盒外面畫著「<card mrk='21453'/>」的插圖。
+熾熱羈絆交織之時，將以光之奇蹟創造希望未來。
 [IDS_ITEMDESC.ID1082001]
 此牌組卡盒外面畫著超量怪獸現身的宇宙形象。
 推薦給想要組建超量戰術牌組的決鬥者。
@@ -3874,9 +3944,13 @@ coming soon
 [IDS_ITEMDESC.ID1111077]
 以大自然中誕生的螺旋狀之力為靈感設計出的底座。
 沐浴在其釋放的氣場中，便能感受到源源不絕的生命力。
+[IDS_ITEMDESC.ID1111078]
+coming soon
 [IDS_ITEMDESC.ID1111080]
 以冠有「<category id='158'/>」之名的龍為靈感設計出的底座。
 以壓倒性的力量，打破這封閉的世界。
+[IDS_ITEMDESC.ID1111082]
+coming soon
 [IDS_ITEMDESC.ID1112001]
 設置於競技場中的底座。
 燦爛燃燒的火焰，向佇立於此的戰士致上最高榮譽。
@@ -3892,6 +3966,8 @@ Yu-Gi-Oh! World Championship 2024:MASTER DUEL參賽紀念底座。
 [IDS_ITEMDESC.ID1113003]
 Yu-Gi-Oh! World Championship 2025:MASTER DUEL參賽紀念底座。
 莊嚴的設計，表現出大賽的高規格。
+[IDS_ITEMDESC.ID1113004]
+coming soon
 [IDS_ITEMDESC.ID1115001]
 以能夠使用世界上各個俱樂部及國家隊來對戰之足球遊戲為靈感設計出的底座。
 上頭充滿了足球的歷史與進化的軌跡。
@@ -3973,9 +4049,11 @@ Yu-Gi-Oh! World Championship 2025:MASTER DUEL參賽紀念底座。
 這是一副以連續部署水屬性超量怪獸來進行戰鬥的「<category id='011'/>」牌組。
 首先善用「<card mrk='15005'/>」等卡片的效果在場上準備大量怪獸，並將它們作為素材來部署超量怪獸。其中最推薦的超量怪獸是「<card mrk='10332'/>」。透過其效果特殊召喚「<card mrk='20518'/>」，不僅能準備好「<card mrk='20544'/>」來應對對手的回合，還能直接串聯到部署「<card mrk='19036'/>」相關的超量怪獸。並且作為王牌的「<card mrk='20517'/>」不僅擁有使對方怪獸失去戰鬥能力的強大效果，還具備1回合可進行2次攻擊的特性，是性能極高的一隻怪獸！此外，若以「<card mrk='21410'/>」作為超量素材，還能進一步干擾魔法/陷阱卡。只要成功進行超量召喚，就能一口氣邁向勝利！
 [IDS_ITEMDESC.ID1120034]
-coming soon
+這是潛藏著突破逆境之力的「<category id='120'/>」牌組。
+首先召喚「<card mrk='10866'/>」將魔法卡「<category id='121'/>」加入手牌，並利用其效果集齊融合素材的怪獸。尤其要記得利用永續魔法「<card mrk='16298'/>」召喚到場上的「<card mrk='16296'/>」，能透過效果將「<card mrk='6398'/>」加入手牌，可以更輕鬆地繼續融合召喚。準備就緒後就進行融合召喚吧。其中「<card mrk='11764'/>」是能破壞魔法/陷阱卡，並最多進行3次攻擊的強力怪獸。利用連續攻擊一口氣決定勝負吧。
 [IDS_ITEMDESC.ID1120035]
-coming soon
+這是從零開拓未來的「<category id='123'/>」牌組。
+首要目標是在場上湊齊2隻等級4怪獸。「<card mrk='21415'/>」透過自身效果特殊召喚時會變成等級4，還能利用效果將可從墓地特殊召喚的「<card mrk='21773'/>」等卡片送入墓地，是非常強力的怪獸，在手牌中可以積極地召喚上場。準備就緒後就超量召喚「<card mrk='21454'/>」吧。除了能利用其效果將「<card mrk='10953'/>」加入手牌進一步銜接展開，選擇將「<card mrk='21485'/>」加入手牌來應對對手回合也是相當強力的戰術。王牌怪獸「<card mrk='21453'/>」是以相同階級的超量怪獸作為素材的特殊超量怪獸。只要有越多超量怪獸，其攻擊力就越高，召喚大量的超量怪獸夥伴來贏下決鬥吧。
 [IDS_ITEMDESC.ID1130001]
 與「青眼白龍」一起創造新傳說的白龍。在決鬥之路上持續前進，決鬥將日新月異。
 [IDS_ITEMDESC.ID1130002]
@@ -4370,6 +4448,12 @@ coming soon
 [IDS_ITEMDESC.ID1130136]
 以神秘音律盈滿宇宙的神聖之龍。
 其籠罩行星的莊嚴姿態，散發著神聖光輝。
+[IDS_ITEMDESC.ID1130137]
+coming soon
+[IDS_ITEMDESC.ID1130138]
+coming soon
+[IDS_ITEMDESC.ID1130151]
+coming soon
 [IDS_ITEMDESC.ID1132001]
 意外加入了足球俱樂部的兔子。
 夢想以自己與生俱來的支援能力帶領球隊獲勝。
@@ -4445,6 +4529,10 @@ coming soon
 [IDS_ITEMDESC.ID1170015]
 風靡全球的經典故事的蒐藏檔案。
 據說收集完<category id='172'/>後，與妖精相遇的門扉將散發光輝。
+[IDS_ITEMDESC.ID1170016]
+coming soon
+[IDS_ITEMDESC.ID1170017]
+coming soon
 [IDS_ITEMDESC.ID1180001]
 以創造新傳說的白龍為概念所設計的硬幣。
 青色的眼散發光芒。
@@ -4515,6 +4603,8 @@ D的象徵閃爍著光芒。
 [IDS_ITEMDESC.ID1180024]
 以靈性故事中的小國妖精們為概念所設計的硬幣。
 古今中外的故事閃爍著光芒。
+[IDS_ITEMDESC.ID1180025]
+coming soon
 [IDS_ITEMDESC.ID1190001]
 可提高收藏空位的數量上限。
 [IDS_ITEMDESC.ID0000]

@@ -126,6 +126,8 @@ Es nutzt seine kräftigen Arme, um knochenbrechende Schläge und Würgegriffe au
 [IDS_ITEMDESC.ID1000046]
 Ein junger <category id='174'/>-Fechter, der die Führung übernimmt.
 Er übernahm persönlich die Obhut von „<card mrk='17783'/>“.
+[IDS_ITEMDESC.ID1000047]
+coming soon
 [IDS_ITEMDESC.ID1001001]
 Ein Becher mit Fertignudeln, die aussehen, als könnten sie dir die Macht der Fusionsbeschwörung gewähren.
 Es sind zwar Fertignudeln, aber das heißt nicht, dass sie nicht lecker sind!
@@ -808,6 +810,12 @@ Ist sie eine Erinnerung an den Anfang vom Ende oder ein Abbild der wahrhaften er
 [IDS_ITEMDESC.ID1010148]
 Ein Symbol, das ein geniales Mädchen darstellt, erleuchtet vom Donner einer heiligen Jungfrau.
 So begann die Herausforderung, Energie der absoluten nächsten Generation zu erzeugen.
+[IDS_ITEMDESC.ID1010149]
+coming soon
+[IDS_ITEMDESC.ID1010150]
+coming soon
+[IDS_ITEMDESC.ID1010160]
+coming soon
 [IDS_ITEMDESC.ID1011001]
 Ein Symbol, das einen Ball, der aus schwarzen und weißen Panels besteht, darstellt.
 3 Duelle in Folge zu gewinnen nennt man nicht einen Hattrick.
@@ -1021,6 +1029,18 @@ Ein Symbol, das an diejenigen verliehen wird, die in den Qualifier-Runden 2026 g
 [IDS_ITEMDESC.ID1011071]
 Ein Symbol mit einem bronzenen „WCS 2026 Qualifier“-Logo.
 Ein Symbol, das an diejenigen verliehen wird, die in den Qualifier-Runden 2026 gegen die Welt zahlreiche Kämpfe gewonnen haben.
+[IDS_ITEMDESC.ID1011072]
+Ein Symbol mit dem prestigeträchtigen und prächtigen Fusion-Cup-Logo.
+Es wird an den siegreichen Duellanten im Fusion-Cup verliehen.
+[IDS_ITEMDESC.ID1011073]
+Ein Symbol mit einem goldenen „Fusion-Cup“-Logo. 
+Wurde an diejenigen verliehen, die beim Fusion-Cup überdurchschnittliche Leistungen erbracht haben.
+[IDS_ITEMDESC.ID1011074]
+Ein Symbol mit einem silbernen „Fusion-Cup“-Logo. 
+Wurde an diejenigen verliehen, die beim Fusion-Cup beachtliche Leistungen erbracht haben.
+[IDS_ITEMDESC.ID1011075]
+Ein Symbol mit einem bronzenen „Fusion-Cup“-Logo. 
+Wurde an diejenigen verliehen, die beim Fusion-Cup viele Kämpfe für sich entschieden haben.
 [IDS_ITEMDESC.ID1012001]
 Ein Symbol, das einen „Krawler“ darstellt; Monster, die eine bestimmte Welt überrannt haben. Dieser gehört der höheren Klasse an.
 Sie zerstörten gnadenlos alle Mühen der menschlichen Zivilisation, die sich für Jahrhunderte hielten.
@@ -1959,9 +1979,34 @@ Der Stolz der Duellanten wird durch jene Karten erweckt, die ihnen am meisten am
 [IDS_ITEMDESC.ID1020219]
 Ein Titel, der an Duellanten vergeben wird, die mit der Kraft verschiedenster Karten Ergebnisse in einer ausgewählten Erzählungen erzielt haben.
 Die Geschichten, die durch Kämpfe erzählt werden, werden bei vielen Duellanten einen bleibenden Eindruck hinterlassen.
+[IDS_ITEMDESC.ID1020220]
+Ein Titel, der dem im Fusion-Cup siegreichen Duellanten verliehen wird.
+Er ist der Beweis dafür, dass es der Duellant ganz nach oben geschafft und sich in die Annalen von Yu-Gi-Oh! MASTER DUEL eingetragen hat.
+[IDS_ITEMDESC.ID1020221]
+Ein Titel, der an Duellanten vergeben wird, die im Fusion-Cup die Top 10 erreicht haben.
+Die Geschichten über ihre vielen großartigen Duelle und ihre Tapferkeit im Kampf um den Thron werden noch viele Jahre lang erzählt werden.
+[IDS_ITEMDESC.ID1020222]
+Ein Titel, der an Duellanten vergeben wird, die im Fusion-Cup die Top 100 erreicht haben.
+Dies ist ein Beweis für eine Leistung, die viele Duellanten anstreben.
+[IDS_ITEMDESC.ID1020223]
+Ein Titel, der an Duellanten vergeben wird, die im Fusion-Cup die Top 500 erreicht haben.
+Nur die Stärksten der Starken können ein Herz wie das deine besitzen, das durch viele hart umkämpfte Duelle gestählt wurde.
+[IDS_ITEMDESC.ID1020224]
+Ein Titel, der an Duellanten vergeben wird, die im Fusion-Cup die Top 1.000 erreicht haben.
+Hut ab vor den Duellanten, die kontinuierlich an ihren Decks und Taktiken gefeilt haben, um dieses Ergebnis zu erreichen.
+[IDS_ITEMDESC.ID1020225]
+Ein Titel, der an Duellanten vergeben wird, die im Fusion-Cup die Top 10000 erreicht haben.
+Er wurde durch einen Sieg nach dem anderen gegen die harte Konkurrenz in der 2nd STAGE verdient.
+[IDS_ITEMDESC.ID1020226]
+Ein Titel, der an Duellanten vergeben wird, die die 2nd Stage des Fusion-Cup erreicht haben.
+Er ist der Beweis dafür, dass du es durch die heiß umkämpfte 1st Stage geschafft hast.
+[IDS_ITEMDESC.ID1020227]
+coming soon
 [IDS_ITEMDESC.ID1021001]
 Ein Titel, der nur zu einem besonderen Anlass verliehen wird.
 [IDS_ITEMDESC.ID1021002]
+Ein Titel, der nur zu einem besonderen Anlass verliehen wird.
+[IDS_ITEMDESC.ID1021003]
 Ein Titel, der nur zu einem besonderen Anlass verliehen wird.
 [IDS_ITEMDESC.ID1022001]
 Mit diesem Titel wurden die ersten Champions der Yu-Gi-Oh! MASTER DUEL „Japan High School Championship“ 2026 gekürt.
@@ -2174,6 +2219,8 @@ Der Junge fand dank der Kraft des Vertrauens der Menschen um ihn herum wieder zu
 [IDS_ITEMDESC.ID1031026]
 Ein Symbol-Rahmen, der an eine Mecha-Waffe mit einem geheimen Ultra-Transformationsmechanismus erinnert.
 Obwohl sich der Rahmen leider nicht transformieren lässt, ist er mit reichlich Feuer- und Elektroenergie durchdrungen.
+[IDS_ITEMDESC.ID1031027]
+coming soon
 [IDS_ITEMDESC.ID1032001]
 Ein Symbol-Rahmen in der Form einer runden Dekoration, die in manchen Regionen zum Jahresende zu sehen ist.
 Sie werden mit dem aufrichtigen Wunsch nach Glück und Freude in der kommenden Zeit aufgehängt.
@@ -2222,6 +2269,8 @@ Er wird an Duellanten verliehen, die im Synchro-Cup gute Ergebnisse erzielen kon
 [IDS_ITEMDESC.ID1033005]
 Ein Symbol-Rahmen, das den Teilnehmern des MASTER DUEL-Events der Yu-Gi-Oh! World Championship 2025 verliehen wird.
 Die nächste Stufe wartet auf dich!
+[IDS_ITEMDESC.ID1033007]
+coming soon
 [IDS_ITEMDESC.ID1070001]
 Kartenhüllen mit dem gleichen Design wie die Rückseiten von Yu-Gi-Oh! TCG-Karten.
 Wozu das Rad neu erfinden?
@@ -2749,6 +2798,14 @@ Für diejenigen, die ihre Gegner mit einem einzigen Schuss ausschalten.
 [IDS_ITEMDESC.ID1070178]
 Kartenhüllen mit einem Illusionsmonster mit dichtem, buschigem Fell.
 Für diejenigen, die alles lieben, was flauschig ist.
+[IDS_ITEMDESC.ID1070179]
+coming soon
+[IDS_ITEMDESC.ID1070191]
+coming soon
+[IDS_ITEMDESC.ID1070192]
+coming soon
+[IDS_ITEMDESC.ID1070193]
+coming soon
 [IDS_ITEMDESC.ID1071001]
 Kartenhüllen, die einen Krieger darstellen, der gereift ist und die Narben, die während der Kämpfe in sein Herz geätzt wurden, akzeptiert hat. 
 Perfekt für alle, die immer das Beste für ihre geliebten Freunde wollen.
@@ -2959,6 +3016,13 @@ Für Spieler, die am Duelist Cup teilgenommen und dem Event zu Erfolg verholfen 
 [IDS_ITEMDESC.ID1073020]
 Eine Kartenhülle mit einem „WCS 2026 Qualifier“-Logo.
 Für diejenigen, die in der MASTER DUEL Division teilgenommen und das Event zu einem Erfolg gemacht haben.
+[IDS_ITEMDESC.ID1073021]
+coming soon
+[IDS_ITEMDESC.ID1073022]
+coming soon
+[IDS_ITEMDESC.ID1073023]
+Kartenhüllen mit dem „Fusion-Cup“-Logo.
+Für Spieler, die am Fusion-Cup teilgenommen und dem Event zu Erfolg verholfen haben.
 [IDS_ITEMDESC.ID1075001]
 Ein Kartenhülle, auf der eine Szene aus „Yu-Gi-Oh! CARD GAME THE CHRONICLES“ abgebildet ist.
 Die Duellanten in der Szene jubeln zur Feier dieses prestigeträchtigen Events.
@@ -3083,6 +3147,12 @@ Perfekt für Decks voller unsterblicher Energie.
 [IDS_ITEMDESC.ID1080033]
 Ein Kartenetui, auf dem „<card mrk='20517'/>“ abgebildet ist.
 Das wiedergeborene Ungeheuer mit den Reißzähnen aus der Tiefe will alles Licht auslöschen!
+[IDS_ITEMDESC.ID1080034]
+Ein Kartenetui, auf dem „<card mrk='6397'/>“ abgebildet ist.
+Der Cyber-Stil entwickelt sich weiter. Bestaune den Glanz seines ultimativen Angriffs.
+[IDS_ITEMDESC.ID1080035]
+Ein Kartenetui, auf dem „<card mrk='21453'/>“ abgebildet ist.
+Wenn sich Schicksale verflechten, erschafft ein Wunder aus Licht eine hoffnungsvolle Zukunft.
 [IDS_ITEMDESC.ID1082001]
 Eine Deckbox mit einem Design, das von den großen galaktischen Weiten inspiriert ist, aus denen die Xyz-Monster stammen. 
 Perfekt für Decks, in denen sich alles um Xyz-Beschwörungen dreht!
@@ -3867,9 +3937,13 @@ Trauernde Flammen durchdringen jeden Winkel dieser verfluchten Welt.
 [IDS_ITEMDESC.ID1111077]
 Ein Stand, inspiriert von einer wirbelnden Energie, die aus der Natur stammt.
 Empfange die Aura, die er ausstrahlt, und werde mit Vitalität erfüllt.
+[IDS_ITEMDESC.ID1111078]
+coming soon
 [IDS_ITEMDESC.ID1111080]
 Ein Stand, inspiriert von einem Drachen mit dem Namen „<category id='158'/>“.
 Überwältigende Kraft reißt ein Loch in eine abgeschottete Welt.
+[IDS_ITEMDESC.ID1111082]
+coming soon
 [IDS_ITEMDESC.ID1112001]
 Der Stand eines Kolosseums.
 Die leuchtende Flamme tanzt, als ob sie die mutigen Krieger lobpreisen will, die hier kämpfen.
@@ -3885,6 +3959,8 @@ Das majestätische Design unterstreicht den prestigeträchtigen Charakter des We
 [IDS_ITEMDESC.ID1113003]
 Ein Symbol zum Andenken an die Teilnahme am MASTER DUEL-Event der Yu-Gi-Oh! World Championship 2025.
 Das majestätische Design unterstreicht den prestigeträchtigen Charakter des Wettbewerbs.
+[IDS_ITEMDESC.ID1113004]
+coming soon
 [IDS_ITEMDESC.ID1115001]
 Ein Stand, inspiriert von einem Fußballspiel, an dem du Spiele zwischen Clubs und Nationalmannschaften aus aller Welt veranstalten kannst.
 Enthält die Wurzeln der Geschichte und Entwicklung des Fußballs.
@@ -3967,9 +4043,11 @@ Ein „<category id='40'/>“-Deck, das sich um den Einsatz von Monstern von Stu
 [IDS_ITEMDESC.ID1120033]
 Dieses „<category id='011'/>“-Deck kämpft, indem es eine Reihe von WASSER-Xyz-Monstern durch Xyz-Beschwörung beschwört.Nutze zuerst die Effekte von „<card mrk='15005'/>“ und anderen Karten, um deine Spielfeldseite mit Monstern zu füllen, und verwende diese dann als Material für eine Xyz-Beschwörung. Ein empfohlenes Xyz-Monster ist „<card mrk='10332'/>“. Wenn du „<card mrk='20518'/>“ mit seinem Effekt als Spezialbeschwörung beschwörst, kannst du „<card mrk='20544'/>“ für den Zug deines Gegners vorbereiten und gleichzeitig Xyz-Monster beschwören, die mit „<card mrk='19036'/>“ in Verbindung stehen. Deine Signaturkarte, „<card mrk='20517'/>“, ist ein mächtiges Monster, das sowohl ein gegnerisches Monster neutralisieren als auch zweimal im selben Zug angreifen kann. Falls „<card mrk='21410'/>“ als Xyz-Material daran angehängt ist, kann es auch Zauber-/Fallenkarten stören. Wenn du es also als Xyz-Beschwörung beschwören kannst, bist du dem Sieg einen großen Schritt näher!
 [IDS_ITEMDESC.ID1120034]
-coming soon
+Ein „<category id='120'/>“-Deck mit der Kraft, das Blatt zu wenden, wenn es hart auf hart kommt.
+Beschwöre zunächst „<card mrk='10866'/>“ und nutze die „<category id='121'/>“ Zauberkarten, die es deiner Hand hinzufügen kann, um Monster als Fusionsmaterial zu sammeln. Denke daran, dass „<card mrk='16296'/>“, das durch den Effekt der Permanenten Zauberkarte „<card mrk='16298'/>“ aufs Spielfeld gerufen werden kann, seinerseits „<card mrk='6398'/>“ auf die Hand holen kann, dies erleichtert den Übergang zu einer Fusionsbeschwörung. Sobald alles bereit ist, führe eine Fusionsbeschwörung durch. „<card mrk='11764'/>“ ist ein besonders mächtiges Monster, das Zauber- und Fallenkarten zerstören und bis zu dreimal angreifen kann. Nutze diese Mehrfachangriffe, um den Sieg auf einen Schlag zu erringen.
 [IDS_ITEMDESC.ID1120035]
-coming soon
+Ein „<category id='123'/>“-Deck, das den Weg von Null auf Hundert in eine glanzvolle Zukunft ebnet.
+Beginne damit, 2 Monster der Stufe 4 aufs Spielfeld zu bringen. Wenn du „<card mrk='21415'/>“ durch seinen eigenen Effekt als Spezialbeschwörung beschwörst, wird es zu Stufe 4. Zudem kann dieses mächtige Monster „<card mrk='21773'/>“, das sich selbst vom Friedhof als Spezialbeschwörung beschwören kann, auf den Friedhof befördern. Solltest du es also in der Hand haben, versuche unbedingt, es so schnell wie möglich aufs Spielfeld zu bringen. Sobald alles bereit ist, führe eine Xyz-Beschwörung von „<card mrk='21454'/>“ durch. Du kannst dann dessen Effekt nutzen, um deiner Hand „<card mrk='10953'/>“ hinzuzufügen und von dort aus weitere Spielzüge einzuleiten. Alternativ kannst du „<card mrk='21485'/>“ deiner Hand hinzufügen und dich für den Spielzug deines Gegners wappnen. Dein Signaturmonster „<card mrk='21453'/>“ ist ein besonderes Xyz-Monster, das Xyz-Monster desselben Rangs als Material verwendet. Je mehr Xyz-Monster du besitzt, desto höher steigen seine ATK, beschwöre also so viele davon wie möglich und sichere dir einen spektakulären Sieg.
 [IDS_ITEMDESC.ID1130001]
 Ein weißer Drache, der gemeinsam mit dem „Blauäugigen w. Drache“ neue Legenden schaffen wird.
 Bleib auf deiner Duellreise beharrlich, und dein Duellstil wird sich mit jedem Tag weiterentwickeln.
@@ -4365,6 +4443,12 @@ Vom Phonographen an seinem rechten Arm sendet es elektromagnetische Wellen aus, 
 [IDS_ITEMDESC.ID1130136]
 Ein heiliger Drache, der den Kosmos mit geheimnisvollen Klängen erfüllt.
 Das majestätische Wesen, das sich um einen ganzen Planeten windet, besitzt eine wahrhaft göttliche Aura.
+[IDS_ITEMDESC.ID1130137]
+coming soon
+[IDS_ITEMDESC.ID1130138]
+coming soon
+[IDS_ITEMDESC.ID1130151]
+coming soon
 [IDS_ITEMDESC.ID1132001]
 Warum auch immer, aber das Kaninchen ist jetzt Mitglied in einem Fußballverein.
 Es hofft, sein Team mit all seinen angeborenen Führungsqualitäten zum Sieg zu führen.
@@ -4443,6 +4527,10 @@ Man sagt: Wer <category id='031'/> sammelt, dem wird die Tür zu neuen Begegnung
 [IDS_ITEMDESC.ID1170015]
 Ein Sammelordner, basierend auf einer weltweit geliebten Erzählung.
 Man sagt, wenn man <category id='172'/>-Karten sammelt, beginnt die Tür zu Begegnungen mit Feen zu leuchten.
+[IDS_ITEMDESC.ID1170016]
+coming soon
+[IDS_ITEMDESC.ID1170017]
+coming soon
 [IDS_ITEMDESC.ID1180001]
 Eine Münze, deren Motiv der leuchtende Drache ist, der eine neue Legende hervorbringt.
 Seine himmelblauen Augen schimmern.
@@ -4512,6 +4600,8 @@ Seine Entschlossenheit, sich seinem Schicksal entgegenzustellen, strahlt hell.
 [IDS_ITEMDESC.ID1180024]
 Eine Münze, die Feen aus einem kleinen Königreich darstellt – einem Ort, an dem die Geschichten voller Leben sind.
 Geschichten aus allen Zeiten und Orten erstrahlen darin.
+[IDS_ITEMDESC.ID1180025]
+coming soon
 [IDS_ITEMDESC.ID1190001]
 Die maximale Anzahl der Lesezeichen, die du besitzen kannst, kann erhöht werden.
 [IDS_ITEMDESC.ID0000]

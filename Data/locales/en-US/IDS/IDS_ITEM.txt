@@ -86,6 +86,8 @@ Yummy★Snatchy
 Dinowrestler Pankratops
 [IDS_ITEM.ID1000046]
 Beat, Bladesman Fur Hire
+[IDS_ITEM.ID1000047]
+coming soon
 [IDS_ITEM.ID1001001]
 Instant Fusion
 [IDS_ITEM.ID1001002]
@@ -202,6 +204,8 @@ Fiendsmith Engraver
 I:P Masquerena & S-Force Rappa Chiyomaru
 [IDS_ITEM.ID1003006]
 Fallen of Albaz
+[IDS_ITEM.ID1003007]
+coming soon
 [IDS_ITEM.ID1005001]
 Rescue Rabbit
 [IDS_ITEM.ID1010001]
@@ -496,6 +500,20 @@ Number C101: Silent Honor DARK
 Fallen of the White Dragon
 [IDS_ITEM.ID1010148]
 Tri-Brigade Springans Kitt
+[IDS_ITEM.ID1010149]
+coming soon
+[IDS_ITEM.ID1010150]
+coming soon
+[IDS_ITEM.ID1010151]
+coming soon
+[IDS_ITEM.ID1010152]
+coming soon
+[IDS_ITEM.ID1010153]
+coming soon
+[IDS_ITEM.ID1010154]
+coming soon
+[IDS_ITEM.ID1010160]
+coming soon
 [IDS_ITEM.ID1011001]
 Soccer Ball
 [IDS_ITEM.ID1011002]
@@ -638,6 +656,22 @@ WCS 2026 Qualifiers Gold Finalist
 WCS 2026 Qualifiers Silver Finalist
 [IDS_ITEM.ID1011071]
 WCS 2026 Qualifiers Bronze Finalist
+[IDS_ITEM.ID1011072]
+Fusion Cup Gold Finalist
+[IDS_ITEM.ID1011073]
+Fusion Cup Silver Finalist
+[IDS_ITEM.ID1011074]
+Fusion Cup Bronze Finalist
+[IDS_ITEM.ID1011075]
+Fusion Cup Champion
+[IDS_ITEM.ID1011079]
+coming soon
+[IDS_ITEM.ID1011080]
+coming soon
+[IDS_ITEM.ID1011081]
+coming soon
+[IDS_ITEM.ID1011082]
+coming soon
 [IDS_ITEM.ID1012001]
 X-Krawler Synaphysis
 [IDS_ITEM.ID1012002]
@@ -828,6 +862,8 @@ Aleister the Invoker
 Shadow Duelist Zester
 [IDS_ITEM.ID1013015]
 Wumpus
+[IDS_ITEM.ID1013016]
+coming soon
 [IDS_ITEM.ID1020001]
 Beginner Duelist
 [IDS_ITEM.ID1020002]
@@ -1266,10 +1302,34 @@ Luck of the Roll
 Dreadnought
 [IDS_ITEM.ID1020219]
 Enforcers of Justice
+[IDS_ITEM.ID1020220]
+Violet Overlord
+[IDS_ITEM.ID1020221]
+Fusion Cup Top 10
+[IDS_ITEM.ID1020222]
+Fusion Cup Top 100
+[IDS_ITEM.ID1020223]
+Fusion Cup Top 500
+[IDS_ITEM.ID1020224]
+Fusion Cup Top 1000
+[IDS_ITEM.ID1020225]
+Fusion Cup Top 10000
+[IDS_ITEM.ID1020226]
+Fusion Cup 2nd Stage Duelist
+[IDS_ITEM.ID1020228]
+coming soon
+[IDS_ITEM.ID1020229]
+coming soon
+[IDS_ITEM.ID1020230]
+coming soon
+[IDS_ITEM.ID1020231]
+coming soon
 [IDS_ITEM.ID1021001]
 Starting Out
 [IDS_ITEM.ID1021002]
 Top Performer
+[IDS_ITEM.ID1021003]
+Point Collector
 [IDS_ITEM.ID1022001]
 High School Tournament 2026 Champion
 [IDS_ITEM.ID1022002]
@@ -1414,6 +1474,10 @@ Elfnote
 Albion the Shrouded Dragon
 [IDS_ITEM.ID1031026]
 Palm Ryzeal
+[IDS_ITEM.ID1031027]
+coming soon
+[IDS_ITEM.ID1031028]
+coming soon
 [IDS_ITEM.ID1032001]
 Festive Ornament
 [IDS_ITEM.ID1032002]
@@ -1446,6 +1510,10 @@ Overlay Unit
 Synchro Ring
 [IDS_ITEM.ID1033005]
 WCS 2025 Party Favor
+[IDS_ITEM.ID1033006]
+Greater Polymerization
+[IDS_ITEM.ID1033007]
+coming soon
 [IDS_ITEM.ID1070001]
 Yu-Gi-Oh! Trading Card Game
 [IDS_ITEM.ID1070002]
@@ -1800,6 +1868,22 @@ Stellarnova Alpha
 Superdreadnought Rail Cannon Juggernaut Liebe
 [IDS_ITEM.ID1070178]
 Mokomoko
+[IDS_ITEM.ID1070179]
+coming soon
+[IDS_ITEM.ID1070180]
+coming soon
+[IDS_ITEM.ID1070184]
+coming soon
+[IDS_ITEM.ID1070189]
+coming soon
+[IDS_ITEM.ID1070190]
+coming soon
+[IDS_ITEM.ID1070191]
+coming soon
+[IDS_ITEM.ID1070192]
+coming soon
+[IDS_ITEM.ID1070193]
+coming soon
 [IDS_ITEM.ID1071001]
 Crusadia Maximus
 [IDS_ITEM.ID1071002]
@@ -1940,6 +2024,12 @@ DC 2025 DEC Celebration
 DC 2026 MAR Celebration
 [IDS_ITEM.ID1073020]
 WCS 2026 Qualifiers Celebration
+[IDS_ITEM.ID1073021]
+coming soon
+[IDS_ITEM.ID1073022]
+coming soon
+[IDS_ITEM.ID1073023]
+Fusion Cup Celebration
 [IDS_ITEM.ID1075001]
 Yu-Gi-Oh! CARD GAME THE CHRONICLES
 [IDS_ITEM.ID1075002]
@@ -2024,6 +2114,10 @@ Dark Magical Blast
 Gigantic Sparkle
 [IDS_ITEM.ID1080033]
 Rage of Deep Blue
+[IDS_ITEM.ID1080034]
+Cyber Kaiser
+[IDS_ITEM.ID1080035]
+Zero to Future
 [IDS_ITEM.ID1082001]
 Xyz Black
 [IDS_ITEM.ID1082002]
@@ -2086,6 +2180,8 @@ Elfnote
 Dragon Ravine
 [IDS_ITEM.ID1082032]
 Exosister
+[IDS_ITEM.ID1082034]
+coming soon
 [IDS_ITEM.ID1083001]
 White & Blue
 [IDS_ITEM.ID1090001]
@@ -2282,6 +2378,8 @@ Twin Twisters
 Foolish Burial
 [IDS_ITEM.ID1101014]
 Soul-Absorbing Bone Tower
+[IDS_ITEM.ID1101015]
+coming soon
 [IDS_ITEM.ID1101016]
 Magical Thorn
 [IDS_ITEM.ID1101017]
@@ -2316,6 +2414,8 @@ Swimming Ring
 Halloween Ghost
 [IDS_ITEM.ID1101041]
 Wreath
+[IDS_ITEM.ID1101044]
+coming soon
 [IDS_ITEM.ID1101045]
  WAKE CUP!
 [IDS_ITEM.ID1102001]
@@ -2456,26 +2556,8 @@ Limiter Removal
 Gishki Aquamirror
 [IDS_ITEM.ID1111026]
 Treasured Tree Stump
-[IDS_ITEM.ID1111027]
-coming soon
-[IDS_ITEM.ID1111028]
-coming soon
-[IDS_ITEM.ID1111029]
-coming soon
-[IDS_ITEM.ID1111030]
-coming soon
-[IDS_ITEM.ID1111031]
-coming soon
 [IDS_ITEM.ID1111032]
 Xyz Monster Card
-[IDS_ITEM.ID1111033]
-coming soon
-[IDS_ITEM.ID1111034]
-coming soon
-[IDS_ITEM.ID1111035]
-coming soon
-[IDS_ITEM.ID1111036]
-coming soon
 [IDS_ITEM.ID1111037]
 Effect Monster Card
 [IDS_ITEM.ID1111038]
@@ -2534,8 +2616,14 @@ Live☆Twin Lil-la Sweet
 Bramble Rose Dragon
 [IDS_ITEM.ID1111077]
 Dominus Spiral
+[IDS_ITEM.ID1111078]
+coming soon
 [IDS_ITEM.ID1111080]
 Borrel
+[IDS_ITEM.ID1111081]
+coming soon
+[IDS_ITEM.ID1111082]
+coming soon
 [IDS_ITEM.ID1112001]
 Colosseum
 [IDS_ITEM.ID1112002]
@@ -2548,6 +2636,8 @@ WCS 2023 Party Favor
 WCS 2024 Party Favor
 [IDS_ITEM.ID1113003]
 WCS 2025 Party Favor
+[IDS_ITEM.ID1113004]
+coming soon
 [IDS_ITEM.ID1115001]
 eFootball™
 [IDS_ITEM.ID1120001]
@@ -2617,9 +2707,9 @@ Gigantic Sparkle
 [IDS_ITEM.ID1120033]
 Rage of Deep Blue
 [IDS_ITEM.ID1120034]
-coming soon
+Cyber Kaiser
 [IDS_ITEM.ID1120035]
-coming soon
+Zero to Future
 [IDS_ITEM.ID1130001]
 Blue-Eyes Alternative White Dragon
 [IDS_ITEM.ID1130002]
@@ -2884,6 +2974,18 @@ Rookie Fur Hire
 Gorgon of Zilofthonia
 [IDS_ITEM.ID1130136]
 Fydraulis Harmonia
+[IDS_ITEM.ID1130137]
+coming soon
+[IDS_ITEM.ID1130138]
+coming soon
+[IDS_ITEM.ID1130139]
+coming soon
+[IDS_ITEM.ID1130140]
+coming soon
+[IDS_ITEM.ID1130150]
+coming soon
+[IDS_ITEM.ID1130151]
+coming soon
 [IDS_ITEM.ID1132001]
 Rescue Rabbit
 [IDS_ITEM.ID1132002]
@@ -2940,6 +3042,14 @@ Dragunity
 The Fallen & The Virtuous
 [IDS_ITEM.ID1170015]
 Fairy Tail
+[IDS_ITEM.ID1170016]
+coming soon
+[IDS_ITEM.ID1170017]
+coming soon
+[IDS_ITEM.ID1170018]
+coming soon
+[IDS_ITEM.ID1170022]
+coming soon
 [IDS_ITEM.ID1180001]
 Blue-Eyes Alternative White Dragon
 [IDS_ITEM.ID1180002]
@@ -2988,6 +3098,14 @@ Exosister
 Fallen of Albaz
 [IDS_ITEM.ID1180024]
 Fairy Tail
+[IDS_ITEM.ID1180025]
+coming soon
+[IDS_ITEM.ID1180026]
+coming soon
+[IDS_ITEM.ID1180027]
+coming soon
+[IDS_ITEM.ID1180028]
+coming soon
 [IDS_ITEM.ID1190001]
 Bookmark Slots
 [IDS_ITEM.ID0000]

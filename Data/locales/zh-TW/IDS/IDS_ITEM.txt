@@ -82,6 +82,8 @@ No.41 泥睡魔獸睡夢貘
 恐龍摔角手 潘克拉三角龍
 [IDS_ITEM.ID1000046]
 空牙團的劍士 比特
+[IDS_ITEM.ID1000047]
+coming soon
 [IDS_ITEM.ID1001001]
 簡易融合
 [IDS_ITEM.ID1001002]
@@ -198,6 +200,8 @@ DD 幽靈
 I:P 百變萊娜 & 超元特防隊 亂破小夜丸
 [IDS_ITEM.ID1003006]
 阿爾白斯之落胤
+[IDS_ITEM.ID1003007]
+coming soon
 [IDS_ITEM.ID1005001]
 救援兔
 [IDS_ITEM.ID1010001]
@@ -492,6 +496,20 @@ CNo.101 寂靜榮耀黑暗騎士
 白之落胤
 [IDS_ITEM.ID1010148]
 鐵獸守寶團 炎工之姬特
+[IDS_ITEM.ID1010149]
+coming soon
+[IDS_ITEM.ID1010150]
+coming soon
+[IDS_ITEM.ID1010151]
+coming soon
+[IDS_ITEM.ID1010152]
+coming soon
+[IDS_ITEM.ID1010153]
+coming soon
+[IDS_ITEM.ID1010154]
+coming soon
+[IDS_ITEM.ID1010160]
+coming soon
 [IDS_ITEM.ID1011001]
 足球
 [IDS_ITEM.ID1011002]
@@ -634,6 +652,22 @@ WCS 2026 預選賽 金牌戰贏家
 WCS 2026 預選賽 銀牌戰贏家
 [IDS_ITEM.ID1011071]
 WCS 2026 預選賽 銅牌戰贏家
+[IDS_ITEM.ID1011072]
+融合盃 金牌戰贏家
+[IDS_ITEM.ID1011073]
+融合盃 銀牌戰贏家
+[IDS_ITEM.ID1011074]
+融合盃 銅牌戰贏家
+[IDS_ITEM.ID1011075]
+融合盃冠軍
+[IDS_ITEM.ID1011079]
+coming soon
+[IDS_ITEM.ID1011080]
+coming soon
+[IDS_ITEM.ID1011081]
+coming soon
+[IDS_ITEM.ID1011082]
+coming soon
 [IDS_ITEM.ID1012001]
 超機怪蟲・對觀突觸
 [IDS_ITEM.ID1012002]
@@ -824,6 +858,8 @@ eFootball™
 Shadow Duelist Zester
 [IDS_ITEM.ID1013015]
 Wumpus
+[IDS_ITEM.ID1013016]
+coming soon
 [IDS_ITEM.ID1020001]
 初出茅廬的決鬥者
 [IDS_ITEM.ID1020002]
@@ -1262,10 +1298,34 @@ WCS 2026 預選賽 DLv.MAX
 超重量型
 [IDS_ITEM.ID1020219]
 正義執行者
+[IDS_ITEM.ID1020220]
+紫紺的霸者
+[IDS_ITEM.ID1020221]
+融合盃 TOP10
+[IDS_ITEM.ID1020222]
+融合盃 TOP100
+[IDS_ITEM.ID1020223]
+融合盃 TOP500
+[IDS_ITEM.ID1020224]
+融合盃 TOP1000
+[IDS_ITEM.ID1020225]
+融合盃 TOP10000
+[IDS_ITEM.ID1020226]
+融合盃 2nd STAGE晉級者
+[IDS_ITEM.ID1020228]
+coming soon
+[IDS_ITEM.ID1020229]
+coming soon
+[IDS_ITEM.ID1020230]
+coming soon
+[IDS_ITEM.ID1020231]
+coming soon
 [IDS_ITEM.ID1021001]
 穩固陣型
 [IDS_ITEM.ID1021002]
 頂尖表演者
+[IDS_ITEM.ID1021003]
+得分好手
 [IDS_ITEM.ID1022001]
 高中生大賽2026 Champion
 [IDS_ITEM.ID1022002]
@@ -1410,6 +1470,10 @@ K9－17號 飯綱
 黑衣龍 阿爾比昂
 [IDS_ITEM.ID1031026]
 脈離・雷熱渦爐
+[IDS_ITEM.ID1031027]
+coming soon
+[IDS_ITEM.ID1031028]
+coming soon
 [IDS_ITEM.ID1032001]
 節日裝飾
 [IDS_ITEM.ID1032002]
@@ -1442,6 +1506,10 @@ WCS2024參賽紀念
 同步之環
 [IDS_ITEM.ID1033005]
 WCS2025參賽紀念
+[IDS_ITEM.ID1033006]
+大融合
+[IDS_ITEM.ID1033007]
+coming soon
 [IDS_ITEM.ID1070001]
 遊戲王OCG
 [IDS_ITEM.ID1070002]
@@ -1796,6 +1864,22 @@ R.B.布魯特・布魯斯
 超弩級砲塔列車 愛戀傾城砲
 [IDS_ITEM.ID1070178]
 毛可毛可
+[IDS_ITEM.ID1070179]
+coming soon
+[IDS_ITEM.ID1070180]
+coming soon
+[IDS_ITEM.ID1070184]
+coming soon
+[IDS_ITEM.ID1070189]
+coming soon
+[IDS_ITEM.ID1070190]
+coming soon
+[IDS_ITEM.ID1070191]
+coming soon
+[IDS_ITEM.ID1070192]
+coming soon
+[IDS_ITEM.ID1070193]
+coming soon
 [IDS_ITEM.ID1071001]
 天穹之聖騎聯盟
 [IDS_ITEM.ID1071002]
@@ -1936,6 +2020,12 @@ DC2025 DEC 開賽紀念
 DC2026 MAR 開賽紀念
 [IDS_ITEM.ID1073020]
 WCS 2026 預選賽 開賽紀念
+[IDS_ITEM.ID1073021]
+coming soon
+[IDS_ITEM.ID1073022]
+coming soon
+[IDS_ITEM.ID1073023]
+融合盃開放紀念
 [IDS_ITEM.ID1075001]
 Yu-Gi-Oh! CARD GAME THE CHRONICLES
 [IDS_ITEM.ID1075002]
@@ -2020,6 +2110,10 @@ coming soon
 巨大電光火花
 [IDS_ITEM.ID1080033]
 深藍之怒
+[IDS_ITEM.ID1080034]
+電子帝王
+[IDS_ITEM.ID1080035]
+從零開始的未來
 [IDS_ITEM.ID1082001]
 超量‧黑
 [IDS_ITEM.ID1082002]
@@ -2082,6 +2176,8 @@ coming soon
 龍之溪谷
 [IDS_ITEM.ID1082032]
 驅魔姐妹
+[IDS_ITEM.ID1082034]
+coming soon
 [IDS_ITEM.ID1083001]
 白色＆藍色
 [IDS_ITEM.ID1090001]
@@ -2278,6 +2374,8 @@ TG1－EM1
 愚蠢的埋葬
 [IDS_ITEM.ID1101014]
 吸收精氣的骨塔
+[IDS_ITEM.ID1101015]
+coming soon
 [IDS_ITEM.ID1101016]
 魔力之棘
 [IDS_ITEM.ID1101017]
@@ -2312,6 +2410,8 @@ TG1－EM1
 萬聖節鬼魂
 [IDS_ITEM.ID1101041]
 花圈
+[IDS_ITEM.ID1101044]
+coming soon
 [IDS_ITEM.ID1101045]
 威咖杯！
 [IDS_ITEM.ID1102001]
@@ -2452,26 +2552,8 @@ coming soon
 咒儀的儀水鏡
 [IDS_ITEM.ID1111026]
 最喜愛的樹墩
-[IDS_ITEM.ID1111027]
-coming soon
-[IDS_ITEM.ID1111028]
-coming soon
-[IDS_ITEM.ID1111029]
-coming soon
-[IDS_ITEM.ID1111030]
-coming soon
-[IDS_ITEM.ID1111031]
-coming soon
 [IDS_ITEM.ID1111032]
 超量怪獸卡片
-[IDS_ITEM.ID1111033]
-coming soon
-[IDS_ITEM.ID1111034]
-coming soon
-[IDS_ITEM.ID1111035]
-coming soon
-[IDS_ITEM.ID1111036]
-coming soon
 [IDS_ITEM.ID1111037]
 效果怪獸卡片
 [IDS_ITEM.ID1111038]
@@ -2530,8 +2612,14 @@ coming soon
 黑破滅薔薇龍
 [IDS_ITEM.ID1111077]
 命主王之螺旋
+[IDS_ITEM.ID1111078]
+coming soon
 [IDS_ITEM.ID1111080]
 槍管
+[IDS_ITEM.ID1111081]
+coming soon
+[IDS_ITEM.ID1111082]
+coming soon
 [IDS_ITEM.ID1112001]
 競技場
 [IDS_ITEM.ID1112002]
@@ -2544,6 +2632,8 @@ WCS2023參賽紀念
 WCS2024參賽紀念
 [IDS_ITEM.ID1113003]
 WCS2025參賽紀念
+[IDS_ITEM.ID1113004]
+coming soon
 [IDS_ITEM.ID1115001]
 eFootball™
 [IDS_ITEM.ID1120001]
@@ -2613,9 +2703,9 @@ eFootball™
 [IDS_ITEM.ID1120033]
 深藍之怒
 [IDS_ITEM.ID1120034]
-coming soon
+電子帝王
 [IDS_ITEM.ID1120035]
-coming soon
+從零開始的未來
 [IDS_ITEM.ID1130001]
 青眼亞白龍
 [IDS_ITEM.ID1130002]
@@ -2880,6 +2970,18 @@ I:P 百變萊娜 & S：P小夜騎士
 美麗的磁律機壞
 [IDS_ITEM.ID1130136]
 調和之天救龍
+[IDS_ITEM.ID1130137]
+coming soon
+[IDS_ITEM.ID1130138]
+coming soon
+[IDS_ITEM.ID1130139]
+coming soon
+[IDS_ITEM.ID1130140]
+coming soon
+[IDS_ITEM.ID1130150]
+coming soon
+[IDS_ITEM.ID1130151]
+coming soon
 [IDS_ITEM.ID1132001]
 救援兔
 [IDS_ITEM.ID1132002]
@@ -2932,6 +3034,14 @@ K9
 白之故事
 [IDS_ITEM.ID1170015]
 妖精傳姬
+[IDS_ITEM.ID1170016]
+coming soon
+[IDS_ITEM.ID1170017]
+coming soon
+[IDS_ITEM.ID1170018]
+coming soon
+[IDS_ITEM.ID1170022]
+coming soon
 [IDS_ITEM.ID1180001]
 青眼亞白龍
 [IDS_ITEM.ID1180002]
@@ -2980,6 +3090,8 @@ EM：P榴彈貓
 阿爾白斯之落胤
 [IDS_ITEM.ID1180024]
 妖精傳姬
+[IDS_ITEM.ID1180025]
+coming soon
 [IDS_ITEM.ID1190001]
 收藏空位
 [IDS_ITEM.ID0000]

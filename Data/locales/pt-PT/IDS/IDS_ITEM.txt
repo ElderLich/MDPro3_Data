@@ -86,6 +86,8 @@ Nhamy★Garrinha
 Dinolutador Pancratops
 [IDS_ITEM.ID1000046]
 Beat, o Esgrimista de Peluguel
+[IDS_ITEM.ID1000047]
+coming soon
 [IDS_ITEM.ID1001001]
 Fusão Instantânea
 [IDS_ITEM.ID1001002]
@@ -202,6 +204,8 @@ Gravador Criademônio
 I:P Mascarena & Força-S Rappa Chiyomaru
 [IDS_ITEM.ID1003006]
 Caído de Arbaz
+[IDS_ITEM.ID1003007]
+coming soon
 [IDS_ITEM.ID1005001]
 Coelho de Socorro
 [IDS_ITEM.ID1010001]
@@ -496,6 +500,20 @@ Número C101: OBSCURO da Honra Silenciosa
 Caído do Dragão Branco
 [IDS_ITEM.ID1010148]
 Springans Kitt da Tri-Brigada
+[IDS_ITEM.ID1010149]
+coming soon
+[IDS_ITEM.ID1010150]
+coming soon
+[IDS_ITEM.ID1010151]
+coming soon
+[IDS_ITEM.ID1010152]
+coming soon
+[IDS_ITEM.ID1010153]
+coming soon
+[IDS_ITEM.ID1010154]
+coming soon
+[IDS_ITEM.ID1010160]
+coming soon
 [IDS_ITEM.ID1011001]
 Bola de Futebol
 [IDS_ITEM.ID1011002]
@@ -638,6 +656,22 @@ Finalista de Ouro das Eliminatórias do WCS 2026
 Finalista de Prata das Eliminatórias do WCS 2026
 [IDS_ITEM.ID1011071]
 Finalista de Bronze das Eliminatórias do WCS 2026
+[IDS_ITEM.ID1011072]
+Finalista Ouro da Copa Fusão
+[IDS_ITEM.ID1011073]
+Finalista Prata da Copa Fusão
+[IDS_ITEM.ID1011074]
+Finalista Bronze da Copa Fusão
+[IDS_ITEM.ID1011075]
+Campeão da Copa Fusão
+[IDS_ITEM.ID1011079]
+coming soon
+[IDS_ITEM.ID1011080]
+coming soon
+[IDS_ITEM.ID1011081]
+coming soon
+[IDS_ITEM.ID1011082]
+coming soon
 [IDS_ITEM.ID1012001]
 Sinaphysis X-Krawler
 [IDS_ITEM.ID1012002]
@@ -828,6 +862,8 @@ Aleister, Aquele que Invoka
 Duelista das Sombras Zester
 [IDS_ITEM.ID1013015]
 Wumpus
+[IDS_ITEM.ID1013016]
+coming soon
 [IDS_ITEM.ID1020001]
 Duelista Iniciante
 [IDS_ITEM.ID1020002]
@@ -1266,10 +1302,34 @@ Sorte ao Rolar
 Couraçado
 [IDS_ITEM.ID1020219]
 Executores da Justiça
+[IDS_ITEM.ID1020220]
+Suserano Violeta
+[IDS_ITEM.ID1020221]
+Top 10 da Copa Fusão
+[IDS_ITEM.ID1020222]
+Top 100 da Copa Fusão
+[IDS_ITEM.ID1020223]
+Top 500 da Copa Fusão
+[IDS_ITEM.ID1020224]
+Top 1000 da Copa Fusão
+[IDS_ITEM.ID1020225]
+Top 10000 da Copa Fusão
+[IDS_ITEM.ID1020226]
+Duelista de 2nd Stage do Copa Fusão
+[IDS_ITEM.ID1020228]
+coming soon
+[IDS_ITEM.ID1020229]
+coming soon
+[IDS_ITEM.ID1020230]
+coming soon
+[IDS_ITEM.ID1020231]
+coming soon
 [IDS_ITEM.ID1021001]
 Começando
 [IDS_ITEM.ID1021002]
 Melhor desempenho
+[IDS_ITEM.ID1021003]
+Colecionador de Pontos
 [IDS_ITEM.ID1022001]
 Campeão do Torneio de Ensino Médio 2026
 [IDS_ITEM.ID1022002]
@@ -1414,6 +1474,10 @@ Elfnota
 Albion, o Dragão Encoberto
 [IDS_ITEM.ID1031026]
 Palma de Ryzeal
+[IDS_ITEM.ID1031027]
+coming soon
+[IDS_ITEM.ID1031028]
+coming soon
 [IDS_ITEM.ID1032001]
 Ornamento Festivo
 [IDS_ITEM.ID1032002]
@@ -1446,6 +1510,10 @@ Unidade de Sobreposição
 Anel de Sincronização
 [IDS_ITEM.ID1033005]
 Favorecimento de Grupo do WCS 2025
+[IDS_ITEM.ID1033006]
+Polimerização Maior
+[IDS_ITEM.ID1033007]
+coming soon
 [IDS_ITEM.ID1070001]
 Jogo de Cards Colecionáveis Yu-Gi-Oh!
 [IDS_ITEM.ID1070002]
@@ -1800,6 +1868,22 @@ Alfa Novastelar
 Supercouraçado Canhão de Trilho Juggernaut Liebe
 [IDS_ITEM.ID1070178]
 Mokomoko
+[IDS_ITEM.ID1070179]
+coming soon
+[IDS_ITEM.ID1070180]
+coming soon
+[IDS_ITEM.ID1070184]
+coming soon
+[IDS_ITEM.ID1070189]
+coming soon
+[IDS_ITEM.ID1070190]
+coming soon
+[IDS_ITEM.ID1070191]
+coming soon
+[IDS_ITEM.ID1070192]
+coming soon
+[IDS_ITEM.ID1070193]
+coming soon
 [IDS_ITEM.ID1071001]
 Crusadia Maximus
 [IDS_ITEM.ID1071002]
@@ -1940,6 +2024,12 @@ Celebração da DC 2025 DEC
 Celebração da DC 2026 MAR
 [IDS_ITEM.ID1073020]
 Celebração das Eliminatórias do WCS 2026
+[IDS_ITEM.ID1073021]
+coming soon
+[IDS_ITEM.ID1073022]
+coming soon
+[IDS_ITEM.ID1073023]
+Celebração da Copa Fusão
 [IDS_ITEM.ID1075001]
 Yu-Gi-Oh! CARD GAME THE CHRONICLES
 [IDS_ITEM.ID1075002]
@@ -2024,6 +2114,10 @@ Raio Mágico das Trevas
 Centelha Gigantesca
 [IDS_ITEM.ID1080033]
 Fúria do Azul Profundo
+[IDS_ITEM.ID1080034]
+Kaiser Cibernético
+[IDS_ITEM.ID1080035]
+Do Zero ao Futuro
 [IDS_ITEM.ID1082001]
 Preto Xyz
 [IDS_ITEM.ID1082002]
@@ -2086,6 +2180,8 @@ Elfnota
 Ravina de Dragões
 [IDS_ITEM.ID1082032]
 Exoirmã
+[IDS_ITEM.ID1082034]
+coming soon
 [IDS_ITEM.ID1083001]
 Branco e Azul
 [IDS_ITEM.ID1090001]
@@ -2282,6 +2378,8 @@ Tornados Gêmeos
 Enterro Tolo
 [IDS_ITEM.ID1101014]
 Torre de Ossos que Absorve Almas
+[IDS_ITEM.ID1101015]
+coming soon
 [IDS_ITEM.ID1101016]
 Espinho Mágico
 [IDS_ITEM.ID1101017]
@@ -2316,6 +2414,8 @@ Anel de Natação
 Fantasma de Dia das Bruxas
 [IDS_ITEM.ID1101041]
 Grinalda
+[IDS_ITEM.ID1101044]
+coming soon
 [IDS_ITEM.ID1101045]
 DESPERTAÇA!
 [IDS_ITEM.ID1102001]
@@ -2456,26 +2556,8 @@ Remover Limites
 Aqua-espelhado Gishki
 [IDS_ITEM.ID1111026]
 Toco de Árvore Estimado
-[IDS_ITEM.ID1111027]
-coming soon
-[IDS_ITEM.ID1111028]
-coming soon
-[IDS_ITEM.ID1111029]
-coming soon
-[IDS_ITEM.ID1111030]
-coming soon
-[IDS_ITEM.ID1111031]
-coming soon
 [IDS_ITEM.ID1111032]
 Card de Monstro Xyz
-[IDS_ITEM.ID1111033]
-coming soon
-[IDS_ITEM.ID1111034]
-coming soon
-[IDS_ITEM.ID1111035]
-coming soon
-[IDS_ITEM.ID1111036]
-coming soon
 [IDS_ITEM.ID1111037]
 Card de Monstro de Efeito
 [IDS_ITEM.ID1111038]
@@ -2534,8 +2616,14 @@ Live☆Gêmea Lil-la Doce
 Dragão da Rosa Espinhosa
 [IDS_ITEM.ID1111077]
 Espiral Dominus
+[IDS_ITEM.ID1111078]
+coming soon
 [IDS_ITEM.ID1111080]
 Callibre
+[IDS_ITEM.ID1111081]
+coming soon
+[IDS_ITEM.ID1111082]
+coming soon
 [IDS_ITEM.ID1112001]
 Coliseu
 [IDS_ITEM.ID1112002]
@@ -2548,6 +2636,8 @@ Favorecimento de Grupo do WCS 2023
 Favorecimento de Grupo do WCS 2024
 [IDS_ITEM.ID1113003]
 Favorecimento de Grupo do WCS 2025
+[IDS_ITEM.ID1113004]
+coming soon
 [IDS_ITEM.ID1115001]
 eFootball™
 [IDS_ITEM.ID1120001]
@@ -2617,9 +2707,9 @@ Centelha Gigantesca
 [IDS_ITEM.ID1120033]
 Fúria do Azul Profundo
 [IDS_ITEM.ID1120034]
-coming soon
+Kaiser Cibernético
 [IDS_ITEM.ID1120035]
-coming soon
+Do Zero ao Futuro
 [IDS_ITEM.ID1130001]
 Dragão Branco Alternativo de Olhos Azuis
 [IDS_ITEM.ID1130002]
@@ -2884,6 +2974,18 @@ Novato de Peluguel
 Górgona de Zilofthonia
 [IDS_ITEM.ID1130136]
 Harmonia Fydraulis
+[IDS_ITEM.ID1130137]
+coming soon
+[IDS_ITEM.ID1130138]
+coming soon
+[IDS_ITEM.ID1130139]
+coming soon
+[IDS_ITEM.ID1130140]
+coming soon
+[IDS_ITEM.ID1130150]
+coming soon
+[IDS_ITEM.ID1130151]
+coming soon
 [IDS_ITEM.ID1132001]
 Coelho de Socorro
 [IDS_ITEM.ID1132002]
@@ -2938,6 +3040,14 @@ Dragunidade
 O Caído e a Virtuosa
 [IDS_ITEM.ID1170015]
 Cauda de Fadas
+[IDS_ITEM.ID1170016]
+coming soon
+[IDS_ITEM.ID1170017]
+coming soon
+[IDS_ITEM.ID1170018]
+coming soon
+[IDS_ITEM.ID1170022]
+coming soon
 [IDS_ITEM.ID1180001]
 Dragão Branco Alternativo de Olhos Azuis
 [IDS_ITEM.ID1180002]
@@ -2986,6 +3096,8 @@ Exoirmã
 Caído de Arbaz
 [IDS_ITEM.ID1180024]
 Cauda de Fadas
+[IDS_ITEM.ID1180025]
+coming soon
 [IDS_ITEM.ID1190001]
 Espaços de Favoritos
 [IDS_ITEM.ID0000]

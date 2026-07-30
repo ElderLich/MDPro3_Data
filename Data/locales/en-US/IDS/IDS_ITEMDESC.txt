@@ -126,6 +126,8 @@ It uses its powerful arms to deliver bone-crushing punches and choke holds.
 [IDS_ITEMDESC.ID1000046]
 A young <category id='174'/> fencer who takes the lead.
 Took personal charge of "<card mrk='17783'/>".
+[IDS_ITEMDESC.ID1000047]
+coming soon
 [IDS_ITEMDESC.ID1001001]
 A cup of instant noodles that look like they could grant you the power to Fusion Summon.
 Just because they're instant, doesn't mean they're bad!
@@ -808,6 +810,12 @@ Is a memory of the beginning of the end, or a likeness of the true awakened flam
 [IDS_ITEMDESC.ID1010148]
 An Icon depicting a genius girl enlightened by a holy maiden's thunder.
 Thus, the challenge to generate ultra-next-gen energy began.
+[IDS_ITEMDESC.ID1010149]
+coming soon
+[IDS_ITEMDESC.ID1010150]
+coming soon
+[IDS_ITEMDESC.ID1010160]
+coming soon
 [IDS_ITEMDESC.ID1011001]
 An Icon depicting a ball made of black and white panels.
 Winning 3 Duels in a row is not called a hat-trick.
@@ -1021,6 +1029,18 @@ An Icon given to those who left impressive results in the qualifier round held i
 [IDS_ITEMDESC.ID1011071]
 An Icon with a bronze "WCS 2026 Qualifiers" logo.
 An Icon given to those who won numerous battles in the qualifier round held in 2026 against the world.
+[IDS_ITEMDESC.ID1011072]
+An Icon with the prestigious and splendorous Fusion Cup logo.
+This is awarded to the winning Duelist in the Fusion Cup.
+[IDS_ITEMDESC.ID1011073]
+An Icon with a golden "Fusion Cup" logo. 
+Given to those who performed above and beyond in the Fusion Cup.
+[IDS_ITEMDESC.ID1011074]
+An Icon with a silver "Fusion Cup" logo. 
+Given to those who achieved considerable results in the Fusion Cup.
+[IDS_ITEMDESC.ID1011075]
+An Icon with a bronze "Fusion Cup" logo. 
+Given to those who conquered numerous battles in the Fusion Cup.
 [IDS_ITEMDESC.ID1012001]
 An Icon depicting a "Krawler," Monsters who have overrun a certain world. This one is part of the higher class.
 They mercilessly destroy the efforts of human civilization that have lasted generations.
@@ -1959,9 +1979,34 @@ The pride of Duelists is awoken by the cards they hold dearest.
 [IDS_ITEMDESC.ID1020219]
 A Title given to Duelists who achieved results in a chosen narrative with the power of various cards.
 The stories spun through battle will leave something that will resonate with many Duelists.
+[IDS_ITEMDESC.ID1020220]
+A Title awarded to the champion Duelist of the Fusion Cup.
+It is proof that this Duelist reached the top, making their mark in Yu-Gi-Oh! MASTER DUEL history.
+[IDS_ITEMDESC.ID1020221]
+A Title given to Duelists who made it to the top 10 in Fusion Cup.
+Tales of their many great Duels and their bravery in competing for the throne will continue to be told for years to come.
+[IDS_ITEMDESC.ID1020222]
+A Title given to Duelists who made it to the top 100 in Fusion Cup.
+This is proof of a feat that many Duelists strive to achieve.
+[IDS_ITEMDESC.ID1020223]
+A Title given to Duelists who made it to the top 500 in Fusion Cup.
+Only the strongest of the strong may possess a heart like yours, tempered by many hard-fought Duels.
+[IDS_ITEMDESC.ID1020224]
+A Title given to Duelists who made it to the top 1,000 in Fusion Cup.
+Kudos to the Duelists who have continuously polished their Decks and tactics to achieve this result.
+[IDS_ITEMDESC.ID1020225]
+A Title given to Duelists who made it to the top 10000 in Fusion Cup.
+It was earned through victory after victory against fierce competitors in the 2nd STAGE.
+[IDS_ITEMDESC.ID1020226]
+A Title given to Duelists who made it to the 2nd Stage in Fusion Cup.
+It is proof of your accomplishment in making it through the hotly contested 1st Stage.
+[IDS_ITEMDESC.ID1020227]
+coming soon
 [IDS_ITEMDESC.ID1021001]
 A Title only bestowed upon a special occasion.
 [IDS_ITEMDESC.ID1021002]
+A Title only bestowed upon a special occasion.
+[IDS_ITEMDESC.ID1021003]
 A Title only bestowed upon a special occasion.
 [IDS_ITEMDESC.ID1022001]
 A Title awarded to the Duelists crowned the first-ever champions of the 2026 Yu-Gi-Oh! MASTER DUEL "Japan High School Championship".
@@ -2174,6 +2219,8 @@ The boy recovered his senses thanks to the power of trust of those around him.
 [IDS_ITEMDESC.ID1031026]
 An Icon Frame that evokes a mecha-weapon with a secret ultra transformation mechanism.
 While the frame cannot, unfortunately, transform, it is imbued with plentiful fire and electric energy.
+[IDS_ITEMDESC.ID1031027]
+coming soon
 [IDS_ITEMDESC.ID1032001]
 An Icon Frame in the shape of a circular decoration, which can be seen in a certain region as the year draws to a close.
 They are hung with the sincere wish for happiness and joy in times to come.
@@ -2222,6 +2269,8 @@ An Icon Frame reminiscent of the rings of light visible when Synchro Summoning.
 [IDS_ITEMDESC.ID1033005]
 An Icon awarded to the participants in the MASTER DUEL event of the Yu-Gi-Oh! World Championship 2025.
 The next stage is waiting for you!
+[IDS_ITEMDESC.ID1033007]
+coming soon
 [IDS_ITEMDESC.ID1070001]
 Card Sleeves that bear the same design as the backs of Yu-Gi-Oh! TCG Cards.
 If it ain't broke, why fix it?
@@ -2748,6 +2797,14 @@ For those who wipe out their opponents in a single shot.
 [IDS_ITEMDESC.ID1070178]
 Protectors featuring an Illusion monster with a thick, bushy coat of fur.
 For lovers of all things fluffy.
+[IDS_ITEMDESC.ID1070179]
+coming soon
+[IDS_ITEMDESC.ID1070191]
+coming soon
+[IDS_ITEMDESC.ID1070192]
+coming soon
+[IDS_ITEMDESC.ID1070193]
+coming soon
 [IDS_ITEMDESC.ID1071001]
 Protectors that illustrate a warrior who has matured and taken the scars etched in his heart during battles. 
 Perfect for those who always want the best for their dear friends.
@@ -2958,6 +3015,13 @@ For those who participated in the Duelist Cup and made the event a success.
 [IDS_ITEMDESC.ID1073020]
 A Protector with a "WCS 2026 Qualifiers" logo.
 To those who participated in the MASTER DUEL division and made the event a success.
+[IDS_ITEMDESC.ID1073021]
+coming soon
+[IDS_ITEMDESC.ID1073022]
+coming soon
+[IDS_ITEMDESC.ID1073023]
+Protectors with the "Fusion Cup" logo.
+ For those who participated in the Fusion Cup and made the event a success.
 [IDS_ITEMDESC.ID1075001]
 Protectors depicting a scene from "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 The Duelists at the venue let out a great cheer to mark this prestigious event.
@@ -3082,6 +3146,12 @@ Perfect for Decks packed with immortal energy.
 [IDS_ITEMDESC.ID1080033]
 A Card Case depicting "<card mrk='20517'/>".
 Reborn, the fanged behemoth of the deep seeks to blot out all light!
+[IDS_ITEMDESC.ID1080034]
+A Card Case depicting "<card mrk='6397'/>".
+The Cyber Style evolves. Behold the radiance of its ultimate strike.
+[IDS_ITEMDESC.ID1080035]
+A Card Case depicting "<card mrk='21453'/>".
+When fates intertwine, a miracle of light creates a future filled with hope.
 [IDS_ITEMDESC.ID1082001]
 A Deck Case with a design inspired by the great galactic expanse from which Xyz Monsters appear. 
 A great fit for Decks that revolve around Xyz Summoning!
@@ -3867,9 +3937,13 @@ Sorrowful flames pierce every corner of this accursed world.
 [IDS_ITEMDESC.ID1111077]
 A Stand inspired by a swirling energy born from nature.
 Receive the aura it emits and be filled with vitality.
+[IDS_ITEMDESC.ID1111078]
+coming soon
 [IDS_ITEMDESC.ID1111080]
 A Stand inspired by a dragon bearing the name "<category id='158'/>".
 Overwhelming power blasts a hole in a closed-off world.
+[IDS_ITEMDESC.ID1111082]
+coming soon
 [IDS_ITEMDESC.ID1112001]
 A Stand from a Colosseum.
 The brilliant flame dances as if singing the praise of the brave warriors who battle here.
@@ -3885,6 +3959,8 @@ Its austere design speaks to the prestigious nature of the competition.
 [IDS_ITEMDESC.ID1113003]
 A Stand commemorating participation in the MASTER DUEL event of the Yu-Gi-Oh! World Championship 2025.
 Its austere design speaks to the prestigious nature of the competition.
+[IDS_ITEMDESC.ID1113004]
+coming soon
 [IDS_ITEMDESC.ID1115001]
 A Stand inspired by a soccer game where you can set up matches between clubs and national teams from all around the world.
 Contains the roots of soccer's history and evolution.
@@ -3968,9 +4044,11 @@ A "<category id='40'/>" Deck that revolves around deploying Level/Rank/Link 2 mo
 This "<category id='011'/>" Deck battles by Xyz Summoning a string of WATER Xyz Monsters.
 First, use the effects of "<card mrk='15005'/>" and other cards to swarm your field with monsters, then use them as materials to Xyz Summon. One recommended Xyz Monster is "<card mrk='10332'/>". If you Special Summon "<card mrk='20518'/>" with its effect, you can set up "<card mrk='20544'/>" for your opponent's turn while also setting up for Xyz Monsters related to "<card mrk='19036'/>". Your ace, "<card mrk='20517'/>", is a powerful monster that can both neutralize an opponent's monster and attack twice in the same turn. If "<card mrk='21410'/>" is attached to it as Xyz Material, it can also disrupt Spell/Trap Cards, so if you can Xyz Summon it, you'll be one big step closer to victory!
 [IDS_ITEMDESC.ID1120034]
-coming soon
+A "<category id='120'/>" Deck with the power to turn the tide when adversity strikes.
+First, summon "<card mrk='10866'/>" and use the "<category id='121'/>" Spells it can add to your hand to gather monsters to use as Fusion Materials. Keep in mind that "<card mrk='16296'/>", which can be brought out by the effect of the Continuous Spell "<card mrk='16298'/>", can add "<card mrk='6398'/>" to your hand with its effect, making it easier to lead into a Fusion Summon. When you have everything ready, Fusion Summon a monster. "<card mrk='11764'/>" is an especially powerful monster that can destroy Spell/Trap Cards and attack up to 3 times. Use its consecutive attacks to claim victory in one fell swoop.
 [IDS_ITEMDESC.ID1120035]
-coming soon
+A "<category id='123'/>" Deck that paves the way from zero to a glorious future.
+Start by getting 2 Level 4 monsters on the field. When you Special Summon "<card mrk='21415'/>" with its own effect, it becomes Level 4, and this powerful monster can also send "<card mrk='21773'/>", which can be Special Summoned from the Graveyard with its own effect, to the Graveyard, so if you have it in your hand, do your best to get it on your field as soon as possible. Once everything is ready, Xyz Summon "<card mrk='21454'/>". You can then use its effect to add "<card mrk='10953'/>" to your hand, from which you can chain further moves. Or you could add "<card mrk='21485'/>" to your hand and get yourself set up for when your opponent takes their turn. Your ace "<card mrk='21453'/>" is a special Xyz Monster which uses Xyz Monsters of the same Rank as material. The more Xyz Monsters you have, the higher its ATK will become, so call forth as many of them as you can and go for a spectacular win.
 [IDS_ITEMDESC.ID1130001]
 A white dragon that will create new legends with "Blue-Eyes White Dragon."
 Persevere on your journey of battles and your Dueling will evolve by the day.
@@ -4366,6 +4444,12 @@ From the phonograph on its right arm, it emits electromagnetic waves that can di
 [IDS_ITEMDESC.ID1130136]
 A holy dragon filling the cosmos with mysterious sounds.
 The magnificent beast, wrapped around an entire planet, has a truly divine aura.
+[IDS_ITEMDESC.ID1130137]
+coming soon
+[IDS_ITEMDESC.ID1130138]
+coming soon
+[IDS_ITEMDESC.ID1130151]
+coming soon
 [IDS_ITEMDESC.ID1132001]
 It's not so sure why either, but the rabbit is now a member of a football club.
 It hopes to lead its team to victory with all its natural supportive skill.
@@ -4444,6 +4528,10 @@ They say that when you gather <category id='031'/>, the door to new encounters a
 [IDS_ITEMDESC.ID1170015]
 A Collector's File based on a tale loved worldwide.
 They say that when you gather <category id='172'/> cards, the door to encounters with fairies will shine.
+[IDS_ITEMDESC.ID1170016]
+coming soon
+[IDS_ITEMDESC.ID1170017]
+coming soon
 [IDS_ITEMDESC.ID1180001]
 A Coin whose motif is the luminous dragon who brings about a new legend.
 Its cerulean eyes glimmer.
@@ -4513,6 +4601,8 @@ His determination in opposing his destiny shines brightly.
 [IDS_ITEMDESC.ID1180024]
 A Coin depicting fairies from a small kingdom where tales are imbued with spirit.
 Stories from across times and places shine within it.
+[IDS_ITEMDESC.ID1180025]
+coming soon
 [IDS_ITEMDESC.ID1190001]
 The max. number of bookmarks you can possess can be increased.
 [IDS_ITEMDESC.ID0000]

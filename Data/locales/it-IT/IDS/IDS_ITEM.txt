@@ -86,6 +86,8 @@ Yummy★Snatchy
 Dinowrestler Pankratopo
 [IDS_ITEM.ID1000046]
 Beat, Schermidore Pelliccia Mercenaria
+[IDS_ITEM.ID1000047]
+coming soon
 [IDS_ITEM.ID1001001]
 Fusione Istantanea
 [IDS_ITEM.ID1001002]
@@ -202,6 +204,8 @@ Demonefabbro Incisore
 I:P Masquerena e S-Forza Rappa Chiyomaru
 [IDS_ITEM.ID1003006]
 Caduto di Albaz
+[IDS_ITEM.ID1003007]
+coming soon
 [IDS_ITEM.ID1005001]
 Coniglio da Soccorso
 [IDS_ITEM.ID1010001]
@@ -496,6 +500,20 @@ Numero C101: OSCURITÀ Onore Silente
 Caduto del Drago Bianco
 [IDS_ITEM.ID1010148]
 Tri-Brigata Springans Kitt
+[IDS_ITEM.ID1010149]
+coming soon
+[IDS_ITEM.ID1010150]
+coming soon
+[IDS_ITEM.ID1010151]
+coming soon
+[IDS_ITEM.ID1010152]
+coming soon
+[IDS_ITEM.ID1010153]
+coming soon
+[IDS_ITEM.ID1010154]
+coming soon
+[IDS_ITEM.ID1010160]
+coming soon
 [IDS_ITEM.ID1011001]
 Pallone da calcio
 [IDS_ITEM.ID1011002]
@@ -638,6 +656,22 @@ Finalista Oro "Qualificazioni del WCS 2026"
 Finalista Argento "Qualificazioni del WCS 2026"
 [IDS_ITEM.ID1011071]
 Finalista Bronzo "Qualificazioni del WCS 2026"
+[IDS_ITEM.ID1011072]
+Finalista Oro Coppa Fusione
+[IDS_ITEM.ID1011073]
+Finalista Argento Coppa Fusione
+[IDS_ITEM.ID1011074]
+Finalista Bronzo Coppa Fusione
+[IDS_ITEM.ID1011075]
+Campione Coppa Fusione
+[IDS_ITEM.ID1011079]
+coming soon
+[IDS_ITEM.ID1011080]
+coming soon
+[IDS_ITEM.ID1011081]
+coming soon
+[IDS_ITEM.ID1011082]
+coming soon
 [IDS_ITEM.ID1012001]
 X-Krawler Sinapsisi
 [IDS_ITEM.ID1012002]
@@ -828,6 +862,8 @@ Aleister l'Invocatore
 Duellante Ombra Zester
 [IDS_ITEM.ID1013015]
 Wumpus
+[IDS_ITEM.ID1013016]
+coming soon
 [IDS_ITEM.ID1020001]
 Duellante principiante
 [IDS_ITEM.ID1020002]
@@ -1266,10 +1302,34 @@ Questione di Fortuna
 Dreadnought
 [IDS_ITEM.ID1020219]
 I giustizieri
+[IDS_ITEM.ID1020220]
+Sovrano Viola
+[IDS_ITEM.ID1020221]
+Top 10 Coppa Fusione
+[IDS_ITEM.ID1020222]
+Top 100 Coppa Fusione
+[IDS_ITEM.ID1020223]
+Top 500 Coppa Fusione
+[IDS_ITEM.ID1020224]
+Top 1000 Coppa Fusione
+[IDS_ITEM.ID1020225]
+Top 10000 Coppa Fusione
+[IDS_ITEM.ID1020226]
+Duellante 2nd stage Coppa Fusione
+[IDS_ITEM.ID1020228]
+coming soon
+[IDS_ITEM.ID1020229]
+coming soon
+[IDS_ITEM.ID1020230]
+coming soon
+[IDS_ITEM.ID1020231]
+coming soon
 [IDS_ITEM.ID1021001]
 Alle prime armi
 [IDS_ITEM.ID1021002]
 Talento assoluto
+[IDS_ITEM.ID1021003]
+Collezionista di punti
 [IDS_ITEM.ID1022001]
 Campione 2026 del Torneo delle scuole superiori
 [IDS_ITEM.ID1022002]
@@ -1414,6 +1474,10 @@ Elfnote
 Albion il Drago Ammantato
 [IDS_ITEM.ID1031026]
 Ryzeal Palmo
+[IDS_ITEM.ID1031027]
+coming soon
+[IDS_ITEM.ID1031028]
+coming soon
 [IDS_ITEM.ID1032001]
 Ornamento festivo
 [IDS_ITEM.ID1032002]
@@ -1446,6 +1510,10 @@ Unità Sovrapposta
 Anello Synchro
 [IDS_ITEM.ID1033005]
 Premio di partecipazione al "WCS 2025"
+[IDS_ITEM.ID1033006]
+Polimerizzazione Maggiore
+[IDS_ITEM.ID1033007]
+coming soon
 [IDS_ITEM.ID1070001]
 Yu-Gi-Oh! Gioco di Carte Collezionabili
 [IDS_ITEM.ID1070002]
@@ -1800,6 +1868,22 @@ Alfa Stellnova
 Cannone Ferroviario Supercorazzato Juggernaut Liebe
 [IDS_ITEM.ID1070178]
 Mokomoko
+[IDS_ITEM.ID1070179]
+coming soon
+[IDS_ITEM.ID1070180]
+coming soon
+[IDS_ITEM.ID1070184]
+coming soon
+[IDS_ITEM.ID1070189]
+coming soon
+[IDS_ITEM.ID1070190]
+coming soon
+[IDS_ITEM.ID1070191]
+coming soon
+[IDS_ITEM.ID1070192]
+coming soon
+[IDS_ITEM.ID1070193]
+coming soon
 [IDS_ITEM.ID1071001]
 Crociatia Maximus
 [IDS_ITEM.ID1071002]
@@ -1940,6 +2024,12 @@ Celebrazione DC 2025 DEC
 Celebrazione DC 2026 MAR
 [IDS_ITEM.ID1073020]
 Celebrazione delle "Qualificazioni del WCS 2026"
+[IDS_ITEM.ID1073021]
+coming soon
+[IDS_ITEM.ID1073022]
+coming soon
+[IDS_ITEM.ID1073023]
+Celebrazione della Coppa Fusione
 [IDS_ITEM.ID1075001]
 Yu-Gi-Oh! CARD GAME THE CHRONICLES
 [IDS_ITEM.ID1075002]
@@ -2024,6 +2114,10 @@ Ondata Magica Oscura
 Gigantesca Scintilla
 [IDS_ITEM.ID1080033]
 Rabbia del Blu Profondo
+[IDS_ITEM.ID1080034]
+Kaiser Cyber
+[IDS_ITEM.ID1080035]
+Da Zero al Futuro
 [IDS_ITEM.ID1082001]
 Nero Xyz
 [IDS_ITEM.ID1082002]
@@ -2086,6 +2180,8 @@ Elfnote
 Gola Drago
 [IDS_ITEM.ID1082032]
 Esosorella
+[IDS_ITEM.ID1082034]
+coming soon
 [IDS_ITEM.ID1083001]
 Bianco e Blu
 [IDS_ITEM.ID1090001]
@@ -2282,6 +2378,8 @@ Turbini Gemelli
 Sepoltura Sciocca
 [IDS_ITEM.ID1101014]
 Torre d'Ossa Assorbi-Anima
+[IDS_ITEM.ID1101015]
+coming soon
 [IDS_ITEM.ID1101016]
 Spina Magica
 [IDS_ITEM.ID1101017]
@@ -2316,6 +2414,8 @@ Salvagente
 Fantasma di Halloween
 [IDS_ITEM.ID1101041]
 Ghirlanda
+[IDS_ITEM.ID1101044]
+coming soon
 [IDS_ITEM.ID1101045]
 WAKE CUP!
 [IDS_ITEM.ID1102001]
@@ -2456,26 +2556,8 @@ Rimozione di Limite
 Acquaspecchio Gishki
 [IDS_ITEM.ID1111026]
 Amato Troncone
-[IDS_ITEM.ID1111027]
-coming soon
-[IDS_ITEM.ID1111028]
-coming soon
-[IDS_ITEM.ID1111029]
-coming soon
-[IDS_ITEM.ID1111030]
-coming soon
-[IDS_ITEM.ID1111031]
-coming soon
 [IDS_ITEM.ID1111032]
 Carta Mostro Xyz
-[IDS_ITEM.ID1111033]
-coming soon
-[IDS_ITEM.ID1111034]
-coming soon
-[IDS_ITEM.ID1111035]
-coming soon
-[IDS_ITEM.ID1111036]
-coming soon
 [IDS_ITEM.ID1111037]
 Carta Mostro con Effetto
 [IDS_ITEM.ID1111038]
@@ -2534,8 +2616,14 @@ Live☆Gemella Lil-la Dolce
 Drago Rosa Rovo
 [IDS_ITEM.ID1111077]
 Spirale Dominus
+[IDS_ITEM.ID1111078]
+coming soon
 [IDS_ITEM.ID1111080]
 Callibro
+[IDS_ITEM.ID1111081]
+coming soon
+[IDS_ITEM.ID1111082]
+coming soon
 [IDS_ITEM.ID1112001]
 Colosseo
 [IDS_ITEM.ID1112002]
@@ -2548,6 +2636,8 @@ Premio di partecipazione al "WCS 2023"
 Premio di partecipazione al "WCS 2024"
 [IDS_ITEM.ID1113003]
 Premio di partecipazione al "WCS 2025"
+[IDS_ITEM.ID1113004]
+coming soon
 [IDS_ITEM.ID1115001]
 eFootball™
 [IDS_ITEM.ID1120001]
@@ -2617,9 +2707,9 @@ Gigantesca Scintilla
 [IDS_ITEM.ID1120033]
 Rabbia del Blu Profondo
 [IDS_ITEM.ID1120034]
-coming soon
+Kaiser Cyber
 [IDS_ITEM.ID1120035]
-coming soon
+Da Zero al Futuro
 [IDS_ITEM.ID1130001]
 Drago Bianco Alternativo Occhi Blu
 [IDS_ITEM.ID1130002]
@@ -2884,6 +2974,18 @@ Recluta Pelliccia Mercenaria
 Zilofthonia Gorgon
 [IDS_ITEM.ID1130136]
 Fydraulis Harmonia
+[IDS_ITEM.ID1130137]
+coming soon
+[IDS_ITEM.ID1130138]
+coming soon
+[IDS_ITEM.ID1130139]
+coming soon
+[IDS_ITEM.ID1130140]
+coming soon
+[IDS_ITEM.ID1130150]
+coming soon
+[IDS_ITEM.ID1130151]
+coming soon
 [IDS_ITEM.ID1132001]
 Coniglio da Soccorso
 [IDS_ITEM.ID1132002]
@@ -2938,6 +3040,14 @@ Dragunità
 Il Caduto & La Virtuosa
 [IDS_ITEM.ID1170015]
 Codafavola
+[IDS_ITEM.ID1170016]
+coming soon
+[IDS_ITEM.ID1170017]
+coming soon
+[IDS_ITEM.ID1170018]
+coming soon
+[IDS_ITEM.ID1170022]
+coming soon
 [IDS_ITEM.ID1180001]
 Drago Bianco Alternativo Occhi Blu
 [IDS_ITEM.ID1180002]
@@ -2986,6 +3096,8 @@ Esosorella
 Caduto di Albaz
 [IDS_ITEM.ID1180024]
 Codafavola
+[IDS_ITEM.ID1180025]
+coming soon
 [IDS_ITEM.ID1190001]
 Slot Segnalibro
 [IDS_ITEM.ID0000]

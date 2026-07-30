@@ -126,6 +126,8 @@ Usa sus poderosos brazos para asestar demoledores puñetazos y llaves estrangula
 [IDS_ITEMDESC.ID1000046]
 Joven esgrimista <category id='174'/> que siempre toma la iniciativa.
 Se encargó personalmente de "<card mrk='17783'/>".
+[IDS_ITEMDESC.ID1000047]
+coming soon
 [IDS_ITEMDESC.ID1001001]
 Una taza de fideos instantáneos que parece que te otorgaran el poder de Invocar por Fusión.
 ¡No porque sean instantáneos significa que sean malos!
@@ -808,6 +810,12 @@ Un icono que representa una escena del alma de <card mrk='18498'/>.
 [IDS_ITEMDESC.ID1010148]
 Un icono que representa a una chica prodigiosa iluminada por el rayo de una doncella sagrada.
 Así comenzó el reto de producir energía de ultimísima generación.
+[IDS_ITEMDESC.ID1010149]
+coming soon
+[IDS_ITEMDESC.ID1010150]
+coming soon
+[IDS_ITEMDESC.ID1010160]
+coming soon
 [IDS_ITEMDESC.ID1011001]
 Un icono que representa una pelota con cuadros negros y blancos.
 Ganar 3 Duelos seguidos no se llama "hat-trick".
@@ -1021,6 +1029,18 @@ Un icono que se entrega a quienes han logrado unos resultados impresionantes en 
 [IDS_ITEMDESC.ID1011071]
 Un icono con un logotipo de bronce de las eliminatorias del WCS 2026.
 Un icono que se entrega a quienes han ganado numerosas batallas en la ronda eliminatoria celebrada en 2026 contra el mundo.
+[IDS_ITEMDESC.ID1011072]
+Un icono con el prestigioso y esplendoroso logotipo de la Copa Fusión.
+Se otorga al duelista que gana la Copa Fusión.
+[IDS_ITEMDESC.ID1011073]
+Un icono con el logotipo dorado de la Copa Fusión. 
+Se concede a quienes han destacado por encima del resto en la Copa Fusión.
+[IDS_ITEMDESC.ID1011074]
+Un icono con el logotipo plateado de la Copa Fusión. 
+Se concede a quienes han logrado grandes resultados en la Copa Fusión.
+[IDS_ITEMDESC.ID1011075]
+Un icono con el logotipo broncíneo de la Copa Fusión. 
+Se concede a quienes han triunfado en numerosas batallas en la Copa Fusión.
 [IDS_ITEMDESC.ID1012001]
 Un icono que representa a un Krawler, monstruos que han invadido cierto mundo. Este forma parte de la nobleza.
 Destruyen sin piedad los esfuerzos de la civilización humana que lleva generaciones en pie.
@@ -1958,9 +1978,34 @@ El orgullo de los duelistas despierta a causa de las cartas que más atesoran.
 [IDS_ITEMDESC.ID1020219]
 Un título que se otorga a los duelistas que han logrado buenos resultados en una determinada historia con el poder de varias cartas.
 Las historias hiladas en torno a la batalla dejan algo que cala en muchos duelistas.
+[IDS_ITEMDESC.ID1020220]
+Un título que se concede al duelista campeón de la Copa Fusión.
+Es una prueba de que este duelista alcanzó la cima y dejó su huella en la historia de Yu-Gi-Oh! MASTER DUEL.
+[IDS_ITEMDESC.ID1020221]
+Un título otorgado a los duelistas que hayan logrado estar entre los 10 primeros en la Copa Fusión.
+Las historias de sus numerosos e impresionantes duelos, así como de su valentía al competir por el trono perdurarán en el tiempo.
+[IDS_ITEMDESC.ID1020222]
+Un título otorgado a los duelistas que hayan logrado estar entre los 100 primeros en la Copa Fusión.
+Es la prueba de un logro al que muchos duelistas aspiran.
+[IDS_ITEMDESC.ID1020223]
+Un título otorgado a los duelistas que hayan logrado estar entre los 500 primeros en la Copa Fusión.
+Solo los que se alzan victoriosos de entre los más fuertes pueden poseer un corazón como el tuyo, templado por muchos Duelos reñidos.
+[IDS_ITEMDESC.ID1020224]
+Un título otorgado a los duelistas que hayan logrado estar entre los 1000 primeros en la Copa Fusión.
+Enhorabuena a los duelistas que han seguido desarrollando sus Decks y sus tácticas hasta alcanzar este objetivo.
+[IDS_ITEMDESC.ID1020225]
+Un título otorgado a los duelistas que hayan logrado estar entre los 10000 primeros en la Copa Fusión.
+Ganado victoria tras victoria frente a feroces competidores en la 2nd STAGE.
+[IDS_ITEMDESC.ID1020226]
+Un título otorgado a los duelistas que llegaron a la 2nd Stage en la Copa Fusión.
+Es la prueba de tu logro de haber superado la reñida 1st Stage.
+[IDS_ITEMDESC.ID1020227]
+coming soon
 [IDS_ITEMDESC.ID1021001]
 Un título que solo se otorga en una ocasión especial.
 [IDS_ITEMDESC.ID1021002]
+Un título que solo se otorga en una ocasión especial.
+[IDS_ITEMDESC.ID1021003]
 Un título que solo se otorga en una ocasión especial.
 [IDS_ITEMDESC.ID1022001]
 Un título otorgado a los duelistas coronados como los primeros líderes del "Campeonato de institutos de Japón" de Yu-Gi-Oh! MASTER DUEL de 2026.
@@ -2173,6 +2218,8 @@ El chico recuperó el sentido gracias al poder de la confianza de quienes lo rod
 [IDS_ITEMDESC.ID1031026]
 Un marco de icono que evoca un arma "mecha" con un mecanismo de transformación ultrasecreto.
 Aunque, por desgracia, su armazón no puede transformarse, rebosa energía de fuego y rayo.
+[IDS_ITEMDESC.ID1031027]
+coming soon
 [IDS_ITEMDESC.ID1032001]
 Un marco de icono con forma de adorno circular que se puede ver en ciertas regiones a medida que el año se acerca a su fin.
 Se cuelgan con un deseo sincero de felicidad y alegría para los tiempos venideros.
@@ -2221,6 +2268,8 @@ Se otorga a los duelistas que consiguieron buenos resultados en la Copa Sincron�
 [IDS_ITEMDESC.ID1033005]
 Marco de icono que se otorga a los participantes del evento MASTER DUEL del Yu-Gi-Oh! World Championship 2025.
 ¡Te espera la siguiente fase!
+[IDS_ITEMDESC.ID1033007]
+coming soon
 [IDS_ITEMDESC.ID1070001]
 Fundas de cartas con el mismo diseño que el reverso de las cartas de Yu-Gi-Oh! Juego de cartas intercambiables.
 Si no está roto, ¿por qué arreglarlo?
@@ -2748,6 +2797,14 @@ Para los que liquidan a sus adversarios de un disparo.
 [IDS_ITEMDESC.ID1070178]
 Protectores que muestran a un monstruo Ilusión con un tupido y frondoso pelaje.
 Para quienes les gustan los peluches.
+[IDS_ITEMDESC.ID1070179]
+coming soon
+[IDS_ITEMDESC.ID1070191]
+coming soon
+[IDS_ITEMDESC.ID1070192]
+coming soon
+[IDS_ITEMDESC.ID1070193]
+coming soon
 [IDS_ITEMDESC.ID1071001]
 Protectores que ilustran a un guerrero que ha madurado y guarda en su corazón las cicatrices de las batallas. 
 Perfectos para los que siempre quieren lo mejor para sus amigos.
@@ -2958,6 +3015,13 @@ Para los que participaron la Duelist Cup e hicieron que el evento sea todo un é
 [IDS_ITEMDESC.ID1073020]
 Un protector con el logotipo de las eliminatorias del WCS 2026.
 Para los que habéis participado en la sección de MASTER DUEL y habéis hecho que el evento sea todo un éxito.
+[IDS_ITEMDESC.ID1073021]
+coming soon
+[IDS_ITEMDESC.ID1073022]
+coming soon
+[IDS_ITEMDESC.ID1073023]
+Protectores con el logotipo de la "Copa Fusión".
+Para los que participaron en la Copa Fusión e hicieron que el evento fuera todo un éxito.
 [IDS_ITEMDESC.ID1075001]
 Protectores que representan una escena de "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Los duelistas del lugar profirieron un grito de alegría para conmemorar este prestigioso evento.
@@ -3082,6 +3146,12 @@ Perfecta para Decks cargados de energía inmortal.
 [IDS_ITEMDESC.ID1080033]
 Una caja de cartas que representa a "<card mrk='20517'/>".
 ¡El coloso colmilludo de las profundidades ha renacido para extinguir toda luz!
+[IDS_ITEMDESC.ID1080034]
+Una caja de cartas que representa a "<card mrk='6397'/>".
+El Ciberestilo evoluciona. Contempla el resplandor de su ataque definitivo.
+[IDS_ITEMDESC.ID1080035]
+Una caja de cartas que representa a "<card mrk='21453'/>".
+Cuando los destinos se entrelazan, un milagro de luz crea un futuro repleto de esperanza.
 [IDS_ITEMDESC.ID1082001]
 Una caja para Decks con un diseño inspirado en la gran extensión galáctica de la que provienen los Monstruos Xyz. 
 Ideal para los Decks que se centran en la Invocación por Xyz.
@@ -3866,9 +3936,13 @@ Llamas hirientes asolan cada rincón de este mundo maldito.
 [IDS_ITEMDESC.ID1111077]
 Un enclave inspirado en una turbulenta energía que surge de la naturaleza.
 Recibe el aura que emite y rebosarás vitalidad.
+[IDS_ITEMDESC.ID1111078]
+coming soon
 [IDS_ITEMDESC.ID1111080]
 Un enclave inspirado en un dragón que porta el nombre de "<category id='158'/>".
 Su poder abrumador puede abrir un agujero hacia un mundo cerrado.
+[IDS_ITEMDESC.ID1111082]
+coming soon
 [IDS_ITEMDESC.ID1112001]
 Un enclave de un Coliseo.
 El fuego brillante baila como si cantara las alabanzas de los valientes guerreros que allí combaten.
@@ -3884,6 +3958,8 @@ Su diseño austero pone de manifiesto el prestigio de la competición.
 [IDS_ITEMDESC.ID1113003]
 Un enclave que conmemora la participación en el evento MASTER DUEL del Yu-Gi-Oh! World Championship 2025.
 Su diseño austero pone de manifiesto el prestigio de la competición.
+[IDS_ITEMDESC.ID1113004]
+coming soon
 [IDS_ITEMDESC.ID1115001]
 Un Enclave inspirado en un juego de fútbol en el que puedes crear partidos entre clubes y selecciones nacionales de todo el mundo.
 Contiene las raíces de la historia y la evolución del fútbol.
@@ -3967,9 +4043,11 @@ Un Deck "<category id='40'/>" que se basa en desplegar monstruos de Nivel/Rango/
 Este Deck "<category id='011'/>" lucha Invocando por Xyz una cadena de Monstruos Xyz de AGUA.
 Primero, usa los efectos de "<card mrk='15005'/>" y de otras cartas para llenar el Campo de monstruos y úsalos como materiales para Invocar por Xyz. Un Monstruo Xyz recomendado sería "<card mrk='10332'/>". Si Invocas de Modo Especial a "<card mrk='20518'/>" con su efecto, puedes preparar a "<card mrk='20544'/>" para el turno de tu adversario a la vez que preparas Monstruos Xyz relacionados con "<card mrk='19036'/>". Tu monstruo insignia, "<card mrk='20517'/>", es un poderoso monstruo que puede neutralizar a un monstruo del adversario y atacar dos veces en el mismo turno. Al acoplarle a "<card mrk='21410'/>" como Material Xyz, también puede contrarrestar Cartas Mágicas/de Trampa, así que, si puedes Invocarlo por Xyz, estarás un paso más cerca de la victoria.
 [IDS_ITEMDESC.ID1120034]
-coming soon
+Un Deck "<category id='120'/>" con el poder de girar las tornas cuando la adversidad aprieta.
+Primero, invoca a "<card mrk='10866'/>" y usa las Cartas Mágicas "<category id='121'/>" que añade a tu mano para reunir monstruos y usarlos como Materiales de Fusión. Ten en cuenta que "<card mrk='16296'/>", que se puede sacar con el efecto de la Carta Mágica Continua "<card mrk='16298'/>", puede añadir a "<card mrk='6398'/>" a tu mano con su efecto, lo que facilita iniciar una Invocación por Fusión. Cuando tengas todo listo, Invoca por Fusión un monstruo. "<card mrk='11764'/>" es un monstruo especialmente poderoso que puede destruir Cartas Mágicas/de Trampa y atacar hasta 3 veces. Usa sus ataques consecutivos para hacerte con la victoria de un plumazo.
 [IDS_ITEMDESC.ID1120035]
-coming soon
+Un Deck "<category id='123'/>" que allana el camino desde cero a un futuro glorioso.
+Comienza consiguiendo 2 monstruos de Nivel 4 en el Campo. Al Invocar de Modo Especial a "<card mrk='21415'/>" con su propio efecto, pasa a ser de Nivel 4. Este poderoso monstruo también puede mandar a "<card mrk='21773'/>", que se puede Invocar de Modo Especial del Cementerio con su propio efecto, al Cementerio, así que, si lo tienes en tu mano, haz todo lo que puedas para ponerlo en tu Campo lo antes posible. Cuando tengas todo listo, Invoca por Xyz a "<card mrk='21454'/>". Después, puedes usar su efecto para añadir a "<card mrk='10953'/>" a tu mano, con lo que podrás encadenar jugadas adicionales. También puedes añadir a "<card mrk='21485'/>" a tu mano y prepararte para cuando sea el turno de tu adversario. Tu monstruo insignia "<card mrk='21453'/>" es un Monstruos Xyz especial que usa Monstruos Xyz del mismo Rango como materiales. Cuantos más Monstruos Xyz tengas, mayor será su ATK, así que convoca a todos los que puedas lo antes posible y hazte con una victoria espectacular.
 [IDS_ITEMDESC.ID1130001]
 Un dragón blanco que dará origen a nuevas leyendas con el "Dragón Blanco de Ojos Azules".
 No pares de participar en enfrentamientos y tu técnica de Duelo irá mejorando día a día.
@@ -4365,6 +4443,12 @@ El fonógrafo que lleva en el brazo derecho emite ondas electromagnéticas que p
 [IDS_ITEMDESC.ID1130136]
 Un dragón sagrado que llena el cosmos con sus misteriosos sonidos.
 Esta majestuosa bestia, que envuelve a un planeta entero, tiene un aura realmente divina.
+[IDS_ITEMDESC.ID1130137]
+coming soon
+[IDS_ITEMDESC.ID1130138]
+coming soon
+[IDS_ITEMDESC.ID1130151]
+coming soon
 [IDS_ITEMDESC.ID1132001]
 Él tampoco tiene muy claro por qué, pero ahora el conejo es miembro de un club de fútbol.
 Espera poder liderar a su equipo hasta la victoria con toda su habilidad de apoyo natural.
@@ -4443,6 +4527,10 @@ Dicen que, si reúnes <category id='031'/>, se iluminará una puerta hacia nuevo
 [IDS_ITEMDESC.ID1170015]
 Un Archivo de Coleccionista basado en un cuento apreciado en todo el mundo.
 Dicen que al reunir cartas <category id='172'/>, brillará la puerta que te reunirá con las hadas.
+[IDS_ITEMDESC.ID1170016]
+coming soon
+[IDS_ITEMDESC.ID1170017]
+coming soon
 [IDS_ITEMDESC.ID1180001]
 Una moneda en la que aparece el dragón brillante que trae una nueva leyenda.
 Sus ojos celestes resplandecen.
@@ -4511,6 +4599,8 @@ Su voluntad férrea para luchar contra su destino brilla intensamente.
 [IDS_ITEMDESC.ID1180024]
 Una moneda que representa a las hadas de un pequeño reino en el que los cuentos están llenos de magia.
 Historias de todos los tiempos y lugares resplandecen en él.
+[IDS_ITEMDESC.ID1180025]
+coming soon
 [IDS_ITEMDESC.ID1190001]
 El número máximo de marcadores que puedes tener se puede aumentar.
 [IDS_ITEMDESC.ID0000]

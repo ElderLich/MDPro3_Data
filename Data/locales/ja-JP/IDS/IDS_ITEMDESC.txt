@@ -821,6 +821,30 @@ coming soon
 [IDS_ITEMDESC.ID1010148]
 聖女の雷霆を見て閃く天才少女の姿が描かれたアイコン。
 超次世代エネルギーを生み出すための挑戦が始まった。
+[IDS_ITEMDESC.ID1010149]
+coming soon
+[IDS_ITEMDESC.ID1010150]
+coming soon
+[IDS_ITEMDESC.ID1010151]
+coming soon
+[IDS_ITEMDESC.ID1010152]
+coming soon
+[IDS_ITEMDESC.ID1010153]
+coming soon
+[IDS_ITEMDESC.ID1010154]
+coming soon
+[IDS_ITEMDESC.ID1010155]
+coming soon
+[IDS_ITEMDESC.ID1010156]
+coming soon
+[IDS_ITEMDESC.ID1010157]
+coming soon
+[IDS_ITEMDESC.ID1010158]
+coming soon
+[IDS_ITEMDESC.ID1010159]
+coming soon
+[IDS_ITEMDESC.ID1010160]
+coming soon
 [IDS_ITEMDESC.ID1011001]
 白と黒のパネルで構成されたボールが描かれたアイコン。
 デュエルで３連勝してもハットトリックとは言わない。
@@ -1034,6 +1058,32 @@ Yu-Gi-Oh! World Championship 2025 ：マスターデュエル出場を記念し�
 [IDS_ITEMDESC.ID1011071]
 銅色に輝く「WCS2026予選」のロゴが描かれたアイコン。
 2026年、世界へ挑む第一歩となる予選で、数々の戦いに打ち勝ったデュエリストたちに贈られる。
+[IDS_ITEMDESC.ID1011072]
+栄誉ある輝かしい「フュージョンカップ」のロゴが描かれたアイコン。
+フュージョンカップで、優勝したデュエリストに贈られる。
+[IDS_ITEMDESC.ID1011073]
+金色に輝く「フュージョンカップ」のロゴが描かれたアイコン。
+フュージョンカップで、最も優れた結果を残したデュエリストたちに贈られる。
+[IDS_ITEMDESC.ID1011074]
+銀色に輝く「フュージョンカップ」のロゴが描かれたアイコン。
+フュージョンカップで、優れた結果を残したデュエリストたちに贈られる。
+[IDS_ITEMDESC.ID1011075]
+銅色に輝く「フュージョンカップ」のロゴが描かれたアイコン。
+フュージョンカップで、数々の戦いに打ち勝ったデュエリストたちに贈られる。
+[IDS_ITEMDESC.ID1011076]
+coming soon
+[IDS_ITEMDESC.ID1011077]
+coming soon
+[IDS_ITEMDESC.ID1011078]
+coming soon
+[IDS_ITEMDESC.ID1011079]
+coming soon
+[IDS_ITEMDESC.ID1011080]
+coming soon
+[IDS_ITEMDESC.ID1011081]
+coming soon
+[IDS_ITEMDESC.ID1011082]
+coming soon
 [IDS_ITEMDESC.ID1012001]
 とある星にあふれる機怪蟲「クローラー」の上位個体の一体が描かれたアイコン。
 彼らは無慈悲に人類の築いたものを破壊する。
@@ -1345,6 +1395,14 @@ coming soon
 [IDS_ITEMDESC.ID1013019]
 coming soon
 [IDS_ITEMDESC.ID1013020]
+coming soon
+[IDS_ITEMDESC.ID1014001]
+coming soon
+[IDS_ITEMDESC.ID1014002]
+coming soon
+[IDS_ITEMDESC.ID1014003]
+coming soon
+[IDS_ITEMDESC.ID1014004]
 coming soon
 [IDS_ITEMDESC.ID1020001]
 「遊戯王 マスターデュエル」をきっかけにデュエリストとなった者に贈られる称号。
@@ -2002,12 +2060,57 @@ Yu-Gi-Oh! World Championship 2025 ：マスターデュエルにおいて、BEST
 [IDS_ITEMDESC.ID1020219]
 数々のカードに秘められた力と物語を紐解き、結果を残したデュエリストに贈られる称号。
 戦いを通して紡がれた物語は、多くのデュエリストに響く何かを残すだろう。
+[IDS_ITEMDESC.ID1020220]
+「フュージョンカップ」において、チャンピオンに輝いたデュエリストに贈られる称号。
+「遊戯王 マスターデュエル」の歴史に名を刻み、頂点を極めた者の証だ。
+[IDS_ITEMDESC.ID1020221]
+「フュージョンカップ」において、TOP10という結果を残したデュエリストに贈られる称号。
+最強という、たった一つの椅子を懸け、数々の名勝負を生み出したその勇姿は、この先も讃えられることだろう。
+[IDS_ITEMDESC.ID1020222]
+「フュージョンカップ」において、TOP100という結果を残したデュエリストに贈られる称号。
+多くのデュエリストたちにとって、目標となる存在であることの証だ。
+[IDS_ITEMDESC.ID1020223]
+「フュージョンカップ」において、TOP500という結果を残したデュエリストに贈られる称号。
+幾多にわたる激闘のデュエルを経て磨かれたその魂は、強者の中の強者にしか宿らないものだろう。
+[IDS_ITEMDESC.ID1020224]
+「フュージョンカップ」において、TOP1000という結果を残したデュエリストに贈られる称号。
+デッキとタクティクスを研鑽し続け、ここまで到達したデュエリストたちに称賛を送る。
+[IDS_ITEMDESC.ID1020225]
+「フュージョンカップ」において、TOP10000という結果を残したデュエリストに贈られる称号。
+猛者ぞろいの2nd STAGEにおいて、多くの勝ち星を積み上げた成果だ。
+[IDS_ITEMDESC.ID1020226]
+「フュージョンカップ」において、2nd STAGE進出という結果を残したデュエリストに贈られる称号。
+数多くのデュエリストが争う1st STAGEを勝ち抜き、実力を示した証。
+[IDS_ITEMDESC.ID1020227]
+coming soon
+[IDS_ITEMDESC.ID1020228]
+coming soon
+[IDS_ITEMDESC.ID1020229]
+coming soon
+[IDS_ITEMDESC.ID1020230]
+coming soon
+[IDS_ITEMDESC.ID1020231]
+coming soon
+[IDS_ITEMDESC.ID1020232]
+coming soon
+[IDS_ITEMDESC.ID1020233]
+coming soon
+[IDS_ITEMDESC.ID1020234]
+coming soon
+[IDS_ITEMDESC.ID1020235]
+coming soon
+[IDS_ITEMDESC.ID1020236]
+coming soon
+[IDS_ITEMDESC.ID1020237]
+coming soon
+[IDS_ITEMDESC.ID1020238]
+coming soon
 [IDS_ITEMDESC.ID1021001]
 特別な機会に提供される限定称号。
 [IDS_ITEMDESC.ID1021002]
 特別な機会に提供される限定称号。
 [IDS_ITEMDESC.ID1021003]
-coming soon
+特別な機会に提供される限定称号。
 [IDS_ITEMDESC.ID1022001]
 2026年開催の、遊戯王 マスターデュエル 「高校生日本一決定戦」において、初代チャンピオンに輝いたデュエリストに贈られる称号。
 すべてを懸けて辿り着いたこの頂は、友と紡いだ青春の証。未来への扉は、ここから大きく開かれる。
@@ -2273,6 +2376,12 @@ coming soon
 [IDS_ITEMDESC.ID1031026]
 超変形機構を秘めたマシン兵器を想起させるアイコンフレーム。
 こちらは残念ながら変形しないが、炎雷のエネルギーは充填されている。
+[IDS_ITEMDESC.ID1031027]
+coming soon
+[IDS_ITEMDESC.ID1031028]
+coming soon
+[IDS_ITEMDESC.ID1031029]
+coming soon
 [IDS_ITEMDESC.ID1032001]
 一年の終わりが迫る頃に様々な場所で見受けられる、輪の形をした装飾品のアイコンフレーム。
 幸福な時が訪れることを願うために、心を込めて煌びやかに飾り付けるのだ。
@@ -2340,7 +2449,8 @@ Yu-Gi-Oh! World Championship 2024 ：マスターデュエル出場を記念し�
 Yu-Gi-Oh! World Championship 2025 ：マスターデュエル出場を記念したアイコンフレーム。
 次なる戦いの舞台がキミを待っている！
 [IDS_ITEMDESC.ID1033006]
-coming soon
+三体のモンスターが融合する瞬間を想起させるアイコンフレーム。
+フュージョンカップで、好成績を収めたデュエリストに贈られる。
 [IDS_ITEMDESC.ID1033007]
 coming soon
 [IDS_ITEMDESC.ID1033008]
@@ -2348,6 +2458,14 @@ coming soon
 [IDS_ITEMDESC.ID1033009]
 coming soon
 [IDS_ITEMDESC.ID1033010]
+coming soon
+[IDS_ITEMDESC.ID1034001]
+coming soon
+[IDS_ITEMDESC.ID1034002]
+coming soon
+[IDS_ITEMDESC.ID1034003]
+coming soon
+[IDS_ITEMDESC.ID1034004]
 coming soon
 [IDS_ITEMDESC.ID1070001]
 「遊戯王OCG」のカード裏面と同様のデザインのプロテクター。
@@ -2879,6 +2997,38 @@ coming soon
 [IDS_ITEMDESC.ID1070178]
 毛並みが厚く膨らんだ幻想魔族の姿がデザインされたプロテクター。
 もこもこしたいあなたに。
+[IDS_ITEMDESC.ID1070179]
+coming soon
+[IDS_ITEMDESC.ID1070180]
+coming soon
+[IDS_ITEMDESC.ID1070181]
+coming soon
+[IDS_ITEMDESC.ID1070182]
+coming soon
+[IDS_ITEMDESC.ID1070183]
+coming soon
+[IDS_ITEMDESC.ID1070184]
+coming soon
+[IDS_ITEMDESC.ID1070185]
+coming soon
+[IDS_ITEMDESC.ID1070186]
+coming soon
+[IDS_ITEMDESC.ID1070187]
+coming soon
+[IDS_ITEMDESC.ID1070188]
+coming soon
+[IDS_ITEMDESC.ID1070189]
+coming soon
+[IDS_ITEMDESC.ID1070190]
+coming soon
+[IDS_ITEMDESC.ID1070191]
+coming soon
+[IDS_ITEMDESC.ID1070192]
+coming soon
+[IDS_ITEMDESC.ID1070193]
+coming soon
+[IDS_ITEMDESC.ID1070194]
+coming soon
 [IDS_ITEMDESC.ID1071001]
 心に負った傷を乗り越えて成長した戦士の姿がデザインされたプロテクター。
 仲間を思いやる気持ちを大切にするあなたに。
@@ -3230,6 +3380,17 @@ Yu-Gi-Oh! World Championship 2025 ：マスターデュエルのビジュアル�
 [IDS_ITEMDESC.ID1073020]
 「WCS2026予選」のロゴがデザインされたプロテクター。
 マスターデュエルの部予選に参加し、イベントを盛り上げたあなたに。
+[IDS_ITEMDESC.ID1073021]
+coming soon
+[IDS_ITEMDESC.ID1073022]
+coming soon
+[IDS_ITEMDESC.ID1073023]
+「フュージョンカップ」のロゴがデザインされたプロテクター。
+フュージョンカップに参加し、イベントを盛り上げたあなたに。
+[IDS_ITEMDESC.ID1073024]
+coming soon
+[IDS_ITEMDESC.ID1073025]
+coming soon
 [IDS_ITEMDESC.ID1075001]
 「Yu-Gi-Oh! CARD GAME THE CHRONICLES」の場面がデザインされたプロテクター。
 伝説の祭典会場では決闘者たちの大きな歓声が上がった。
@@ -3256,6 +3417,8 @@ Yu-Gi-Oh! World Championship 2025 ：マスターデュエルのビジュアル�
 [IDS_ITEMDESC.ID1075009]
 「Yu-Gi-Oh! CARD GAME THE CHRONICLES」のキービジュアルがデザインされたプロテクター。
 異界への扉を開きし三人の魔法使い。彼らは「三賢者」と呼ばれた。
+[IDS_ITEMDESC.ID1075010]
+coming soon
 [IDS_ITEMDESC.ID1080001]
 赤を基調にしたシンプルなデザインのカードケース。
 初めて手にしたカードケースには愛着が湧く。
@@ -3355,9 +3518,11 @@ coming soon
 「<card mrk='20517'/>」の姿がデザインされたカードケース。
 再誕するは、全ての光をかみ砕く深淵の牙！
 [IDS_ITEMDESC.ID1080034]
-coming soon
+「<card mrk='6397'/>」の姿がデザインされたカードケース。
+サイバー流は進化する。見よ、最高の輝きが放つ必殺の一撃を。
 [IDS_ITEMDESC.ID1080035]
-coming soon
+「<card mrk='21453'/>」の姿がデザインされたカードケース。
+熱き絆で結ばれし時、光の奇跡で希望の未来を創造する。
 [IDS_ITEMDESC.ID1080036]
 coming soon
 [IDS_ITEMDESC.ID1080037]
@@ -3503,6 +3668,10 @@ coming soon
 [IDS_ITEMDESC.ID1082032]
 魔を祓う<category id='059'/>のイメージがデザインされたカードケース。
 悪魔との熾烈な戦いを繰り広げるデッキにおススメ。
+[IDS_ITEMDESC.ID1082033]
+coming soon
+[IDS_ITEMDESC.ID1082034]
+coming soon
 [IDS_ITEMDESC.ID1083001]
 特別な機会に提供される限定カードケース。
 [IDS_ITEMDESC.ID1090001]
@@ -3630,6 +3799,12 @@ coming soon
 [IDS_ITEMDESC.ID1090042]
 妖精領域 オラトリオ・ガーデンのフィールド。
 妖精たちは巨大な蕾に眠る未知の存在が森に奇跡をもたらすと信じている。
+[IDS_ITEMDESC.ID1090043]
+coming soon
+[IDS_ITEMDESC.ID1090044]
+coming soon
+[IDS_ITEMDESC.ID1090045]
+coming soon
 [IDS_ITEMDESC.ID1092001]
 激しい戦いを潜り抜けた強者がぶつかり合う決闘場のフィールド。
 今こそ、雌雄を決する時！
@@ -3786,6 +3961,12 @@ coming soon
 [IDS_ITEMDESC.ID1100042]
 妖精領域 オラトリオ・ガーデンに設けられたフィールドパーツ。
 誇り高き耀聖の詩による祈りの儀式に大妖精が応えることで願いは叶えられる。
+[IDS_ITEMDESC.ID1100043]
+coming soon
+[IDS_ITEMDESC.ID1100044]
+coming soon
+[IDS_ITEMDESC.ID1100045]
+coming soon
 [IDS_ITEMDESC.ID1101001]
 落とし穴を象ったフィールドパーツ。
 仕掛けられたトラップは、狡猾か？それとも姑息か？
@@ -3908,6 +4089,12 @@ coming soon
 [IDS_ITEMDESC.ID1101045]
 朝の飲み物に住む精霊たちを模したフィールドパーツ。
 朝からティーパーティーで気分スッキリ。
+[IDS_ITEMDESC.ID1101046]
+coming soon
+[IDS_ITEMDESC.ID1101047]
+coming soon
+[IDS_ITEMDESC.ID1101048]
+coming soon
 [IDS_ITEMDESC.ID1102001]
 コロシアムに設けられたフィールドパーツ。
 ここに収められることを悲しむことはない。それは誇り高く闘いに殉じた結果だからだ。
@@ -4065,6 +4252,12 @@ coming soon
 [IDS_ITEMDESC.ID1110042]
 妖精領域 オラトリオ・ガーデンに設けられた台座。
 巨大な蕾に捧げる聖なる詩を紡ぐ森の聖歌隊は、羽が発現した者しかなれない。
+[IDS_ITEMDESC.ID1110043]
+coming soon
+[IDS_ITEMDESC.ID1110044]
+coming soon
+[IDS_ITEMDESC.ID1110045]
+coming soon
 [IDS_ITEMDESC.ID1111001]
 降霊術などに用いられる文字盤を模した台座。
 配置すると闇の怨霊らしき存在が垣間見えるような気がする。
@@ -4288,6 +4481,10 @@ coming soon
 coming soon
 [IDS_ITEMDESC.ID1111082]
 coming soon
+[IDS_ITEMDESC.ID1111083]
+coming soon
+[IDS_ITEMDESC.ID1111084]
+coming soon
 [IDS_ITEMDESC.ID1112001]
 コロシアムに設けられた台座。
 煌々と燃える炎は、そこに立つ者の栄誉を称える。
@@ -4416,9 +4613,11 @@ coming soon
 水属性のXモンスターを連続展開して戦う「<category id='011'/>」デッキだ。
 まずは「<card mrk='15005'/>」などの効果を活用してフィールドにモンスターを多数用意し、それらを素材にXモンスターを展開していこう。おすすめのXモンスターは「<card mrk='10332'/>」。その効果で「<card mrk='20518'/>」を特殊召喚すれば、相手ターンへの備えとなる「<card mrk='20544'/>」を用意できるうえ、そのまま「<card mrk='19036'/>」に関連するXモンスターの展開にもつながるぞ。また、切り札の「<card mrk='20517'/>」は相手モンスターを無力化する効果に加えて、1ターンに2回攻撃できる効果も併せ持つ高性能なモンスターだ。さらに「<card mrk='21410'/>」をX素材としていれば魔法・罠カードを妨害することもできるので、X召喚できれば一気に勝利へ近づくぞ！
 [IDS_ITEMDESC.ID1120034]
-coming soon
+窮地を突破する力を秘めた「<category id='120'/>」デッキだ。
+まずは「<card mrk='10866'/>」を召喚すると手札に加えられる「<category id='121'/>」魔法などを駆使して融合素材となるモンスターを集めよう。特に永続魔法「<card mrk='16298'/>」の効果でフィールドに呼び出せる「<card mrk='16296'/>」はその効果で「<card mrk='6398'/>」を手札に加えられ、融合召喚へつなげやすくなるので覚えておこう。準備が整ったらモンスターを融合召喚しよう。特に「<card mrk='11764'/>」は魔法・罠カードを破壊しつつ最大3回の攻撃が行える強力なモンスターだ。連続攻撃で一気に勝負を決めてしまおう。
 [IDS_ITEMDESC.ID1120035]
-coming soon
+ゼロから未来を切り開く「<category id='123'/>」デッキだ。
+まず目指すのはレベル4モンスターをフィールドに2体そろえること。「<card mrk='21415'/>」は自身の効果で特殊召喚すればレベル4になるうえ、自身の効果で墓地から特殊召喚できる「<card mrk='21773'/>」などを墓地へ送れる強力なモンスターなので、手札にいたら積極的に呼び出そう。準備が整ったら「<card mrk='21454'/>」をX(エクシーズ)召喚しよう。その効果で「<card mrk='10953'/>」を手札に加えればさらなる展開に繋げられるほか、代わりに「<card mrk='21485'/>」を手札に加えて相手ターンに備える戦術も強力だ。切り札の「<card mrk='21453'/>」は同じランクのXモンスターを素材とする特殊なXモンスター。Xモンスターがいればいるほど攻撃力が上がるので、仲間のXモンスターを大勢呼び出して勝負を決めよう。
 [IDS_ITEMDESC.ID1130001]
 「青眼の白龍」と共に、新たな伝説を創る白きドラゴン。
 闘いのロードを突き進み、デュエルは日々進化する。
@@ -4818,6 +5017,36 @@ coming soon
 [IDS_ITEMDESC.ID1130136]
 神秘の音で宇宙を満たす神聖なる竜。
 惑星を包む荘厳なる姿が神々しい。
+[IDS_ITEMDESC.ID1130137]
+coming soon
+[IDS_ITEMDESC.ID1130138]
+coming soon
+[IDS_ITEMDESC.ID1130139]
+coming soon
+[IDS_ITEMDESC.ID1130140]
+coming soon
+[IDS_ITEMDESC.ID1130141]
+coming soon
+[IDS_ITEMDESC.ID1130142]
+coming soon
+[IDS_ITEMDESC.ID1130143]
+coming soon
+[IDS_ITEMDESC.ID1130144]
+coming soon
+[IDS_ITEMDESC.ID1130145]
+coming soon
+[IDS_ITEMDESC.ID1130146]
+coming soon
+[IDS_ITEMDESC.ID1130147]
+coming soon
+[IDS_ITEMDESC.ID1130148]
+coming soon
+[IDS_ITEMDESC.ID1130149]
+coming soon
+[IDS_ITEMDESC.ID1130150]
+coming soon
+[IDS_ITEMDESC.ID1130151]
+coming soon
 [IDS_ITEMDESC.ID1132001]
 ひょんなことからフットボールクラブに所属することになったうさぎ。
 持ち前のサポート力でチームを勝利へ導く夢を見ている。
@@ -4902,6 +5131,20 @@ coming soon
 [IDS_ITEMDESC.ID1170015]
 世界中から愛された物語のコレクトファイル。
 <category id='172'/>を集めし時、妖精に会える扉が輝くという。
+[IDS_ITEMDESC.ID1170016]
+coming soon
+[IDS_ITEMDESC.ID1170017]
+coming soon
+[IDS_ITEMDESC.ID1170018]
+coming soon
+[IDS_ITEMDESC.ID1170019]
+coming soon
+[IDS_ITEMDESC.ID1170020]
+coming soon
+[IDS_ITEMDESC.ID1170021]
+coming soon
+[IDS_ITEMDESC.ID1170022]
+coming soon
 [IDS_ITEMDESC.ID1180001]
 新たな伝説を創る白きドラゴンをモチーフとしたコイン。
 青き眼がキラリと光る。
@@ -4972,6 +5215,14 @@ Dのシンボルがキラリと光る。
 [IDS_ITEMDESC.ID1180024]
 魂が宿る物語の小さな国の妖精たちをモチーフとしたコイン。
 古今東西の物語がキラリと光る。
+[IDS_ITEMDESC.ID1180025]
+coming soon
+[IDS_ITEMDESC.ID1180026]
+coming soon
+[IDS_ITEMDESC.ID1180027]
+coming soon
+[IDS_ITEMDESC.ID1180028]
+coming soon
 [IDS_ITEMDESC.ID1190001]
 ブックマークの上限を増やすことができる。
 [IDS_ITEMDESC.ID0000]
