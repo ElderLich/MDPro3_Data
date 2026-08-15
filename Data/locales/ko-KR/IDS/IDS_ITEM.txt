@@ -87,7 +87,7 @@ No.41 이수마수 바구스카
 [IDS_ITEM.ID1000046]
 공아단의 검사 비트
 [IDS_ITEM.ID1000047]
-coming soon
+펭귄 솔저
 [IDS_ITEM.ID1001001]
 인스턴트 퓨전
 [IDS_ITEM.ID1001002]
@@ -205,7 +205,7 @@ A·O·J 카타스톨
 [IDS_ITEM.ID1003006]
 알버스의 낙윤
 [IDS_ITEM.ID1003007]
-coming soon
+엘리멘틀 히어로 네오스
 [IDS_ITEM.ID1005001]
 레스큐 래빗
 [IDS_ITEM.ID1010001]
@@ -501,17 +501,17 @@ CNo.101 사일런트 아너즈 다크 나이트
 [IDS_ITEM.ID1010148]
 트라이브리게이드 스프리건즈 키트
 [IDS_ITEM.ID1010149]
-coming soon
+페이버릿 히어로 프레임 윙맨
 [IDS_ITEM.ID1010150]
-coming soon
+황혼의 타락천사 루시퍼
 [IDS_ITEM.ID1010151]
-coming soon
+레브섀도르 퓨전
 [IDS_ITEM.ID1010152]
-coming soon
+GMX - ALLOS
 [IDS_ITEM.ID1010153]
-coming soon
+퍼스트 펭귄
 [IDS_ITEM.ID1010154]
-coming soon
+신의 충고
 [IDS_ITEM.ID1010160]
 coming soon
 [IDS_ITEM.ID1011001]
@@ -657,13 +657,13 @@ WCS2026 예선 실버 파이널리스트
 [IDS_ITEM.ID1011071]
 WCS2026 예선 브론즈 파이널리스트
 [IDS_ITEM.ID1011072]
-퓨전 컵 골드 파이널 리스트
-[IDS_ITEM.ID1011073]
-퓨전 컵 실버 파이널 리스트
-[IDS_ITEM.ID1011074]
-퓨전 컵 브론즈 파이널 리스트
-[IDS_ITEM.ID1011075]
 퓨전 컵 Champion
+[IDS_ITEM.ID1011073]
+퓨전 컵 골드 파이널 리스트
+[IDS_ITEM.ID1011074]
+퓨전 컵 실버 파이널 리스트
+[IDS_ITEM.ID1011075]
+퓨전 컵 브론즈 파이널 리스트
 [IDS_ITEM.ID1011079]
 coming soon
 [IDS_ITEM.ID1011080]
@@ -863,7 +863,7 @@ Shadow Duelist Zester
 [IDS_ITEM.ID1013015]
 웜퍼스군
 [IDS_ITEM.ID1013016]
-coming soon
+흑마녀 디아벨스타
 [IDS_ITEM.ID1020001]
 새내기 듀얼리스트
 [IDS_ITEM.ID1020002]
@@ -1316,6 +1316,8 @@ WCS2026 예선 DLv.MAX
 퓨전 컵 TOP 10000
 [IDS_ITEM.ID1020226]
 퓨전 컵 2nd STAGE 진출
+[IDS_ITEM.ID1020227]
+마이 페이버릿
 [IDS_ITEM.ID1020228]
 coming soon
 [IDS_ITEM.ID1020229]
@@ -1422,6 +1424,8 @@ A·O·J 코즈믹 클로저
 미미구르 플라워
 [IDS_ITEM.ID1030043]
 옐로 & 블랙 프레임
+[IDS_ITEM.ID1030044]
+라임 & 핑크 프레임
 [IDS_ITEM.ID1031001]
 푸른 섬도 장착 회로
 [IDS_ITEM.ID1031002]
@@ -1475,9 +1479,9 @@ P.U.N.K.JAM FEVER!
 [IDS_ITEM.ID1031026]
 팔마 라이제올
 [IDS_ITEM.ID1031027]
-coming soon
+금지된 성관
 [IDS_ITEM.ID1031028]
-coming soon
+싱크로 링크 β
 [IDS_ITEM.ID1032001]
 축제의 오너먼트
 [IDS_ITEM.ID1032002]
@@ -1511,7 +1515,7 @@ WCS2024 출전 기념
 [IDS_ITEM.ID1033005]
 WCS2025 출전 기념
 [IDS_ITEM.ID1033006]
-대융합
+퓨전 볼텍스
 [IDS_ITEM.ID1033007]
 coming soon
 [IDS_ITEM.ID1070001]
@@ -1869,13 +1873,13 @@ R.B.브루트 블루스
 [IDS_ITEM.ID1070178]
 모코못코
 [IDS_ITEM.ID1070179]
-coming soon
+페이버릿 히어로
 [IDS_ITEM.ID1070180]
-coming soon
+엘섀도르 네피림
 [IDS_ITEM.ID1070184]
-coming soon
+융합
 [IDS_ITEM.ID1070189]
-coming soon
+다섯 번째 희망
 [IDS_ITEM.ID1070190]
 coming soon
 [IDS_ITEM.ID1070191]
@@ -2415,7 +2419,7 @@ coming soon
 [IDS_ITEM.ID1101041]
 리스
 [IDS_ITEM.ID1101044]
-coming soon
+금지된 성관
 [IDS_ITEM.ID1101045]
 WAKE CUP!
 [IDS_ITEM.ID1102001]
@@ -2617,11 +2621,11 @@ Live☆Twin 리일라 스위트
 [IDS_ITEM.ID1111077]
 도미나스 스파이럴
 [IDS_ITEM.ID1111078]
-coming soon
+드로우빵
 [IDS_ITEM.ID1111080]
 바렐
 [IDS_ITEM.ID1111081]
-coming soon
+섀도르 퓨전
 [IDS_ITEM.ID1111082]
 coming soon
 [IDS_ITEM.ID1112001]
@@ -2975,15 +2979,15 @@ K9－EX “Werewolf”
 [IDS_ITEM.ID1130136]
 피드라울리스＝하르모니아
 [IDS_ITEM.ID1130137]
-coming soon
+페이버릿 히어로 프레임 윙맨
 [IDS_ITEM.ID1130138]
-coming soon
+황혼의 타락천사 루시퍼
 [IDS_ITEM.ID1130139]
-coming soon
+엘섀도르 미도라시
 [IDS_ITEM.ID1130140]
-coming soon
+도미나스 스파크
 [IDS_ITEM.ID1130150]
-coming soon
+A－GMX 최종검증
 [IDS_ITEM.ID1130151]
 coming soon
 [IDS_ITEM.ID1132001]
@@ -3043,11 +3047,11 @@ K9(케이나인)
 [IDS_ITEM.ID1170015]
 페어리테일
 [IDS_ITEM.ID1170016]
-coming soon
+엘리멘틀 히어로
 [IDS_ITEM.ID1170017]
-coming soon
+타락천사
 [IDS_ITEM.ID1170018]
-coming soon
+섀도르
 [IDS_ITEM.ID1170022]
 coming soon
 [IDS_ITEM.ID1180001]
@@ -3099,7 +3103,7 @@ K9(케이나인)
 [IDS_ITEM.ID1180024]
 페어리테일
 [IDS_ITEM.ID1180025]
-coming soon
+엘리멘틀 히어로
 [IDS_ITEM.ID1190001]
 북마크 슬롯
 [IDS_ITEM.ID0000]

@@ -87,7 +87,7 @@ Dinowrestler Pankratops
 [IDS_ITEM.ID1000046]
 Beat, Klingenkämpfer-Fellsöldner
 [IDS_ITEM.ID1000047]
-coming soon
+Pinguinsoldat
 [IDS_ITEM.ID1001001]
 Instantfusion
 [IDS_ITEM.ID1001002]
@@ -205,7 +205,7 @@ I:P Maskerena und S-Kraft Rappa Chiyomaru
 [IDS_ITEM.ID1003006]
 Gefallener von Albaz
 [IDS_ITEM.ID1003007]
-coming soon
+Elementar-HELD Neos
 [IDS_ITEM.ID1005001]
 Rettungskaninchen
 [IDS_ITEM.ID1010001]
@@ -501,17 +501,17 @@ Gefallener des weißen Drachen
 [IDS_ITEM.ID1010148]
 Sta-Brigade Springans Kitt
 [IDS_ITEM.ID1010149]
-coming soon
+Lieblings-HELD Flammenflügelmann
 [IDS_ITEM.ID1010150]
-coming soon
+Finsterlord Abendstern
 [IDS_ITEM.ID1010151]
-coming soon
+Lev-Schattenpuppen-Fusion
 [IDS_ITEM.ID1010152]
-coming soon
+GMX - ALLOS
 [IDS_ITEM.ID1010153]
-coming soon
+Erster Pinguin
 [IDS_ITEM.ID1010154]
-coming soon
+Ernste Predigt
 [IDS_ITEM.ID1010160]
 coming soon
 [IDS_ITEM.ID1011001]
@@ -657,13 +657,13 @@ WCS 2026 Qualifier: Silber-Finalist
 [IDS_ITEM.ID1011071]
 WCS 2026 Qualifier: Bronze-Finalist
 [IDS_ITEM.ID1011072]
-Fusion-Cup Gold-Finalist
-[IDS_ITEM.ID1011073]
-Fusion-Cup Silber-Finalist
-[IDS_ITEM.ID1011074]
-Fusion-Cup Bronze-Finalist
-[IDS_ITEM.ID1011075]
 Fusion-Cup-Champion
+[IDS_ITEM.ID1011073]
+Fusion-Cup Gold-Finalist
+[IDS_ITEM.ID1011074]
+Fusion-Cup Silber-Finalist
+[IDS_ITEM.ID1011075]
+Fusion-Cup Bronze-Finalist
 [IDS_ITEM.ID1011079]
 coming soon
 [IDS_ITEM.ID1011080]
@@ -863,7 +863,7 @@ Schattenduellant Zester
 [IDS_ITEM.ID1013015]
 Wumpus
 [IDS_ITEM.ID1013016]
-coming soon
+Diabellstar die schwarze Hexe
 [IDS_ITEM.ID1020001]
 Anfänger
 [IDS_ITEM.ID1020002]
@@ -1316,6 +1316,8 @@ Top 1000 im Fusion-Cup
 Top 10000 im Fusion-Cup
 [IDS_ITEM.ID1020226]
 Duellant des Fusion-Cup 2nd Stage
+[IDS_ITEM.ID1020227]
+Mein Favorit
 [IDS_ITEM.ID1020228]
 coming soon
 [IDS_ITEM.ID1020229]
@@ -1422,6 +1424,8 @@ Rot-Weiß-Rahmen
 Mimighul Blume
 [IDS_ITEM.ID1030043]
 Gelb-schwarzer Rahmen
+[IDS_ITEM.ID1030044]
+Limettengrüner & Rosa Rahmen
 [IDS_ITEM.ID1031001]
 Der Weg des Blauen Himmelsjägers
 [IDS_ITEM.ID1031002]
@@ -1475,9 +1479,9 @@ Albion der ummantelte Drache
 [IDS_ITEM.ID1031026]
 Handflächen-Ryzeal
 [IDS_ITEM.ID1031027]
-coming soon
+Verbotene Krone
 [IDS_ITEM.ID1031028]
-coming soon
+Synchro-Ring β
 [IDS_ITEM.ID1032001]
 Festliches Ornament
 [IDS_ITEM.ID1032002]
@@ -1511,7 +1515,7 @@ Synchro-Ring
 [IDS_ITEM.ID1033005]
 Geschenk zur WCS 2025
 [IDS_ITEM.ID1033006]
-Größere Polymerisation
+Fusionswirbel
 [IDS_ITEM.ID1033007]
 coming soon
 [IDS_ITEM.ID1070001]
@@ -1869,13 +1873,13 @@ Superkanonen-Panzerzug Juggernaut Liebe
 [IDS_ITEM.ID1070178]
 Mokomoko
 [IDS_ITEM.ID1070179]
-coming soon
+Lieblingsheld
 [IDS_ITEM.ID1070180]
-coming soon
+El Schattenpuppe Konstrukt
 [IDS_ITEM.ID1070184]
-coming soon
+Polymerisation
 [IDS_ITEM.ID1070189]
-coming soon
+Fünfte Hoffnung
 [IDS_ITEM.ID1070190]
 coming soon
 [IDS_ITEM.ID1070191]
@@ -2415,7 +2419,7 @@ Halloween-Geist
 [IDS_ITEM.ID1101041]
 Kranz
 [IDS_ITEM.ID1101044]
-coming soon
+Verbotene Krone
 [IDS_ITEM.ID1101045]
 WACH AUF!
 [IDS_ITEM.ID1102001]
@@ -2617,11 +2621,11 @@ Dornen-Rosendrache
 [IDS_ITEM.ID1111077]
 Dominus-Spirale
 [IDS_ITEM.ID1111078]
-coming soon
+Sandwich-Tag
 [IDS_ITEM.ID1111080]
 Kalliber
 [IDS_ITEM.ID1111081]
-coming soon
+Schattenpuppen-Fusion
 [IDS_ITEM.ID1111082]
 coming soon
 [IDS_ITEM.ID1112001]
@@ -2975,15 +2979,15 @@ Gorgon von Zilofthonia
 [IDS_ITEM.ID1130136]
 Fydraulis Harmonia
 [IDS_ITEM.ID1130137]
-coming soon
+Lieblings-HELD Flammenflügelmann
 [IDS_ITEM.ID1130138]
-coming soon
+Finsterlord Abendstern
 [IDS_ITEM.ID1130139]
-coming soon
+El Schattenpuppe Winda
 [IDS_ITEM.ID1130140]
-coming soon
+Dominus-Funke
 [IDS_ITEM.ID1130150]
-coming soon
+Letztes Anti-GMX-Experiment
 [IDS_ITEM.ID1130151]
 coming soon
 [IDS_ITEM.ID1132001]
@@ -3041,11 +3045,11 @@ Der Gefallene und die Tugendhafte
 [IDS_ITEM.ID1170015]
 Märchenschweif
 [IDS_ITEM.ID1170016]
-coming soon
+Elementar-HELD
 [IDS_ITEM.ID1170017]
-coming soon
+Finsterlord
 [IDS_ITEM.ID1170018]
-coming soon
+Schattenpuppe
 [IDS_ITEM.ID1170022]
 coming soon
 [IDS_ITEM.ID1180001]
@@ -3097,7 +3101,7 @@ Gefallener von Albaz
 [IDS_ITEM.ID1180024]
 Märchenschweif
 [IDS_ITEM.ID1180025]
-coming soon
+Elementar-HELD
 [IDS_ITEM.ID1190001]
 Lesezeichen-Plätze
 [IDS_ITEM.ID0000]

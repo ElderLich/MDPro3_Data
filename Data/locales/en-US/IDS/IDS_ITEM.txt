@@ -87,7 +87,7 @@ Dinowrestler Pankratops
 [IDS_ITEM.ID1000046]
 Beat, Bladesman Fur Hire
 [IDS_ITEM.ID1000047]
-coming soon
+Penguin Soldier
 [IDS_ITEM.ID1001001]
 Instant Fusion
 [IDS_ITEM.ID1001002]
@@ -205,7 +205,7 @@ I:P Masquerena & S-Force Rappa Chiyomaru
 [IDS_ITEM.ID1003006]
 Fallen of Albaz
 [IDS_ITEM.ID1003007]
-coming soon
+Elemental HERO Neos
 [IDS_ITEM.ID1005001]
 Rescue Rabbit
 [IDS_ITEM.ID1010001]
@@ -501,17 +501,17 @@ Fallen of the White Dragon
 [IDS_ITEM.ID1010148]
 Tri-Brigade Springans Kitt
 [IDS_ITEM.ID1010149]
-coming soon
+Favorite HERO Flame Wingman
 [IDS_ITEM.ID1010150]
-coming soon
+Darklord Eveningstar
 [IDS_ITEM.ID1010151]
-coming soon
+Lev Shaddoll Fusion
 [IDS_ITEM.ID1010152]
-coming soon
+GMX - ALLOS
 [IDS_ITEM.ID1010153]
-coming soon
+First Penguin
 [IDS_ITEM.ID1010154]
-coming soon
+Solemn Scolding
 [IDS_ITEM.ID1010160]
 coming soon
 [IDS_ITEM.ID1011001]
@@ -657,13 +657,13 @@ WCS 2026 Qualifiers Silver Finalist
 [IDS_ITEM.ID1011071]
 WCS 2026 Qualifiers Bronze Finalist
 [IDS_ITEM.ID1011072]
-Fusion Cup Gold Finalist
-[IDS_ITEM.ID1011073]
-Fusion Cup Silver Finalist
-[IDS_ITEM.ID1011074]
-Fusion Cup Bronze Finalist
-[IDS_ITEM.ID1011075]
 Fusion Cup Champion
+[IDS_ITEM.ID1011073]
+Fusion Cup Gold Finalist
+[IDS_ITEM.ID1011074]
+Fusion Cup Silver Finalist
+[IDS_ITEM.ID1011075]
+Fusion Cup Bronze Finalist
 [IDS_ITEM.ID1011079]
 coming soon
 [IDS_ITEM.ID1011080]
@@ -863,7 +863,7 @@ Shadow Duelist Zester
 [IDS_ITEM.ID1013015]
 Wumpus
 [IDS_ITEM.ID1013016]
-coming soon
+Diabellstar the Black Witch
 [IDS_ITEM.ID1020001]
 Beginner Duelist
 [IDS_ITEM.ID1020002]
@@ -1316,6 +1316,8 @@ Fusion Cup Top 1000
 Fusion Cup Top 10000
 [IDS_ITEM.ID1020226]
 Fusion Cup 2nd Stage Duelist
+[IDS_ITEM.ID1020227]
+My Favorite
 [IDS_ITEM.ID1020228]
 coming soon
 [IDS_ITEM.ID1020229]
@@ -1422,6 +1424,8 @@ Red & White Frame
 Mimighoul Flower
 [IDS_ITEM.ID1030043]
 Yellow & Black Frame
+[IDS_ITEM.ID1030044]
+Lime & Pink Frame
 [IDS_ITEM.ID1031001]
 The Path of the Blue Sky Striker
 [IDS_ITEM.ID1031002]
@@ -1475,9 +1479,9 @@ Albion the Shrouded Dragon
 [IDS_ITEM.ID1031026]
 Palm Ryzeal
 [IDS_ITEM.ID1031027]
-coming soon
+Forbidden Crown
 [IDS_ITEM.ID1031028]
-coming soon
+Synchro Ring β
 [IDS_ITEM.ID1032001]
 Festive Ornament
 [IDS_ITEM.ID1032002]
@@ -1511,7 +1515,7 @@ Synchro Ring
 [IDS_ITEM.ID1033005]
 WCS 2025 Party Favor
 [IDS_ITEM.ID1033006]
-Greater Polymerization
+Fusion Vortex
 [IDS_ITEM.ID1033007]
 coming soon
 [IDS_ITEM.ID1070001]
@@ -1869,13 +1873,13 @@ Superdreadnought Rail Cannon Juggernaut Liebe
 [IDS_ITEM.ID1070178]
 Mokomoko
 [IDS_ITEM.ID1070179]
-coming soon
+Favorite Hero
 [IDS_ITEM.ID1070180]
-coming soon
+El Shaddoll Construct
 [IDS_ITEM.ID1070184]
-coming soon
+Polymerization
 [IDS_ITEM.ID1070189]
-coming soon
+Fifth Hope
 [IDS_ITEM.ID1070190]
 coming soon
 [IDS_ITEM.ID1070191]
@@ -2415,7 +2419,7 @@ Halloween Ghost
 [IDS_ITEM.ID1101041]
 Wreath
 [IDS_ITEM.ID1101044]
-coming soon
+Forbidden Crown
 [IDS_ITEM.ID1101045]
  WAKE CUP!
 [IDS_ITEM.ID1102001]
@@ -2617,11 +2621,11 @@ Bramble Rose Dragon
 [IDS_ITEM.ID1111077]
 Dominus Spiral
 [IDS_ITEM.ID1111078]
-coming soon
+Sandwich Day
 [IDS_ITEM.ID1111080]
 Borrel
 [IDS_ITEM.ID1111081]
-coming soon
+Shaddoll Fusion
 [IDS_ITEM.ID1111082]
 coming soon
 [IDS_ITEM.ID1112001]
@@ -2975,15 +2979,15 @@ Gorgon of Zilofthonia
 [IDS_ITEM.ID1130136]
 Fydraulis Harmonia
 [IDS_ITEM.ID1130137]
-coming soon
+Favorite HERO Flame Wingman
 [IDS_ITEM.ID1130138]
-coming soon
+Darklord Eveningstar
 [IDS_ITEM.ID1130139]
-coming soon
+El Shaddoll Winda
 [IDS_ITEM.ID1130140]
-coming soon
+Dominus Spark
 [IDS_ITEM.ID1130150]
-coming soon
+Anti-GMX Final Experiment
 [IDS_ITEM.ID1130151]
 coming soon
 [IDS_ITEM.ID1132001]
@@ -3043,11 +3047,11 @@ The Fallen & The Virtuous
 [IDS_ITEM.ID1170015]
 Fairy Tail
 [IDS_ITEM.ID1170016]
-coming soon
+Elemental HERO
 [IDS_ITEM.ID1170017]
-coming soon
+Darklord
 [IDS_ITEM.ID1170018]
-coming soon
+Shaddoll
 [IDS_ITEM.ID1170022]
 coming soon
 [IDS_ITEM.ID1180001]
@@ -3099,7 +3103,7 @@ Fallen of Albaz
 [IDS_ITEM.ID1180024]
 Fairy Tail
 [IDS_ITEM.ID1180025]
-coming soon
+Elemental HERO
 [IDS_ITEM.ID1180026]
 coming soon
 [IDS_ITEM.ID1180027]

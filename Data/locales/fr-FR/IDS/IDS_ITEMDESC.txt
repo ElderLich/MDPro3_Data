@@ -127,7 +127,8 @@ Ses bras puissants peuvent asséner des coups destructeurs et étrangler ses adv
 Un jeune bretteur <category id='174'/> qui prend les devants.
 Il s'est occupé personnellement de "<card mrk='17783'/>".
 [IDS_ITEMDESC.ID1000047]
-coming soon
+Un soldat Pingouin de faible rang qui manie une épée.
+Ils attaquent en groupe.
 [IDS_ITEMDESC.ID1001001]
 Des nouilles instantanées qui semblent capables de conférer le pouvoir de l'Invocation Fusion.
 Ce n'est pas parce qu'elles sont instantanées qu'elles sont mauvaises !
@@ -361,7 +362,8 @@ Ce soir, la course-poursuite recommence sous les néons.
 Un garçon dont le pouvoir draconique se réveille quand il est en difficulté.
 Son nom fait-il référence à un passé enfoui dans les ténèbres ou à un avenir radieux ?
 [IDS_ITEMDESC.ID1003007]
-coming soon
+Un HÉROS venu du Néo-Space.
+Son mystérieux pouvoir recèle de possibilités infinies et on dit qu'il est capable d'accomplir des miracles.
 [IDS_ITEMDESC.ID1003008]
 coming soon
 [IDS_ITEMDESC.ID1003009]
@@ -811,9 +813,23 @@ Est-ce un souvenir du début de la fin, ou la possibilité que la véritable fla
 Une Icône représentant une jeune fille à l'intelligence surdéveloppée, illuminée par la foudre d'une divinité.
 C'est ainsi que débuta le défi de générer l'énergie du futur.
 [IDS_ITEMDESC.ID1010149]
-coming soon
+Une Icône représentant <card mrk='14913'/>, un HÉROS intemporel.
+Sur la plus grande scène qui soit, l'effervescence est infinie.
 [IDS_ITEMDESC.ID1010150]
-coming soon
+Une Icône représentant un homme qui prétend posséder la force d'autres <category id='185'/> pour éliminer Dieu.
+Il cherche à obtenir plus de pouvoir par tous les moyens nécessaires afin d'atteindre son objectif.
+[IDS_ITEMDESC.ID1010151]
+Une Icône représentant "<card mrk='14968'/>" tenant un bâton volé.
+En exploitant toute la puissance de son bâton, elle passe au niveau supérieur.
+[IDS_ITEMDESC.ID1010152]
+Une Icône représentant "<card mrk='22337'/>" dans sa forme modifiée.
+Déjà doté d'un physique musclé, il est devenu encore plus fort grâce à "<card mrk='22342'/>".
+[IDS_ITEMDESC.ID1010153]
+Une Icône représentant le premier des oiseaux à s'être jeté dans l'océan périlleux.
+Quelles que soient les circonstances, c'est un pionnier qui mérite le respect.
+[IDS_ITEMDESC.ID1010154]
+Une Icône représentant des dieux qui vivent au paradis.
+Voler l'un de leurs trésors interdits provoquerait la colère des cieux.
 [IDS_ITEMDESC.ID1010160]
 coming soon
 [IDS_ITEMDESC.ID1011001]
@@ -1323,6 +1339,9 @@ Une icône exclusive offerte lors d'occasions spéciales.
 [IDS_ITEMDESC.ID1013015]
 Une Icône représentant l'ami virtuel préféré de tous.
 Le rideau se lève sur votre parcours de Duelliste légendaire.
+[IDS_ITEMDESC.ID1013016]
+Une Icône représentant un visuel clé pour "JEU DE CARTES Yu-Gi-Oh! LES CHRONIQUES".
+La jeune fille qui a tout perdu se lance dans une lutte pour tout récupérer.
 [IDS_ITEMDESC.ID1020001]
 Un titre donné aux Duellistes ayant commencé leur aventure dans Yu-Gi-Oh! MASTER DUEL.
 Il n'est jamais trop tard pour se mettre aux Duels.
@@ -2001,7 +2020,8 @@ Remporté grâce à des victoires successives contre des concurrents féroces lo
 Un titre donné aux Duellistes qui ont atteint la 2nd Stage dans la Coupe Fusion.
 La preuve que vous avez réussi à passer la très disputée 1st Stage.
 [IDS_ITEMDESC.ID1020227]
-coming soon
+Un titre donné aux Duellistes ayant maîtrisé le pouvoir des monstres légendaires et s'étant fait un nom.
+Une nouvelle légende naît de la rencontre et du Duel avec le plus grand des Duellistes.
 [IDS_ITEMDESC.ID1021001]
 Un titre qui n'est décerné que lors d'une occasion spéciale.
 [IDS_ITEMDESC.ID1021002]
@@ -2141,6 +2161,9 @@ De nombreux pièges attendent les aventuriers aveuglés par l'appât du gain.
 [IDS_ITEMDESC.ID1030043]
 Un Cadre d'icône jaune et noir dont le contraste marqué évoque le danger.
 Dans la nature, ces couleurs servent de signal d'alerte pour éloigner les prédateurs.
+[IDS_ITEMDESC.ID1030044]
+Un Cadre d'icône citron vert et rose qui évoque la lumière des néons et les saveurs tropicales.
+Ces couleurs vives apportent une touche de fraîcheur.
 [IDS_ITEMDESC.ID1031001]
 Un Cadre d'icône qui évoque le portail utilisé par l'Assaut de l'Air afin de transférer leur armement.
 Lorsque la voie s'ouvre à ceux qui luttent pour la paix, un nouveau pouvoir pour surmonter les épreuves s'éveille.
@@ -2220,7 +2243,11 @@ Le garçon a retrouvé la raison grâce à la confiance de son entourage.
 Un Cadre d'icône qui évoque une arme dotée d'un mécanisme secret d'ultra-transformation.
 Bien que ce cadre ne puisse malheureusement pas se transformer, il est imprégné de l'énergie du feu et de l'électricité.
 [IDS_ITEMDESC.ID1031027]
-coming soon
+Un Cadre d'icône évoquant un trésor interdit.
+La colère divine s'abattra sur ceux qui cherchent le pouvoir profane.
+[IDS_ITEMDESC.ID1031028]
+Un Cadre d'icône qui évoque les cercles de lumière visibles lors d'une Invocation Synchro.
+Pour ceux qui suivent la voie de la lumière avec une détermination sans faille.
 [IDS_ITEMDESC.ID1032001]
 Un Cadre d'icône de forme circulaire pouvant être aperçu dans certaines régions du monde lorsque l'année arrive à son terme.
 On l'accroche en faisant le vœu sincère que les jours à venir apportent joie et bonheur.
@@ -2269,6 +2296,9 @@ Une récompense pour les Duellistes qui ont obtenu de bons résultats lors de la
 [IDS_ITEMDESC.ID1033005]
 Un cadre d'icône décernée aux participants de l'événement MASTER DUEL du Yu-Gi-Oh! World Championship 2025.
 La prochaine étape vous attend !
+[IDS_ITEMDESC.ID1033006]
+Un Cadre d'icône qui évoque le moment où plusieurs monstres fusionnent.
+Il est offert aux Duellistes qui ont obtenu de bons résultats lors de la Coupe Fusion.
 [IDS_ITEMDESC.ID1033007]
 coming soon
 [IDS_ITEMDESC.ID1070001]
@@ -2798,7 +2828,17 @@ Pour ceux qui éliminent tous leurs adversaires d'un seul coup.
 Des protège-cartes représentant un monstre Illusion avec une fourrure épaisse.
 Pour ceux qui aiment les créatures touffues.
 [IDS_ITEMDESC.ID1070179]
-coming soon
+Des Protège-cartes représentant <card mrk='14913'/> en train d'exécuter son coup emblématique.
+Pour ceux qui aiment les Duels plus que tout au monde.
+[IDS_ITEMDESC.ID1070180]
+Des Protège-cartes représentant un <category id='152'/> géant d'où partent d'innombrables fils.
+Pour ceux qui sont tombés dans les ténèbres.
+[IDS_ITEMDESC.ID1070184]
+Des Protège-cartes représentant un tourbillon créé par la fusion de monstres.
+Pour ceux dont les stratégies s'articulent autour des Invocations Fusion.
+[IDS_ITEMDESC.ID1070189]
+Des Protège-cartes qui représentent des champions de la justice répondant à des appels au secours.
+Pour ceux dont l'espoir ne vacille jamais.
 [IDS_ITEMDESC.ID1070191]
 coming soon
 [IDS_ITEMDESC.ID1070192]
@@ -3609,7 +3649,8 @@ coming soon
 [IDS_ITEMDESC.ID1101043]
 coming soon
 [IDS_ITEMDESC.ID1101044]
-coming soon
+Des Parties de Terrain inspirées d'un trésor interdit.
+Même si c'est une réplique, mieux vaut les manipuler avec précaution.
 [IDS_ITEMDESC.ID1101045]
 Des Parties de Terrain inspirées d'esprits qui s'attardent sur les boissons matinales.
 Un thé de bon matin est idéal pour se sentir revigoré.
@@ -3936,10 +3977,14 @@ De sombres flammes envahissent chaque recoin de ce monde maudit.
 Un Stand inspiré d'une énergie tourbillonnante née de la nature.
 Recevoir l'aura qu'il émet vous remplit de vitalité.
 [IDS_ITEMDESC.ID1111078]
-coming soon
+Un Stand inspiré du pain vendu dans la boutique d'une certaine école.
+La garniture est aléatoire, et il semblerait que celle à l'œuf soit la plus appréciée.
 [IDS_ITEMDESC.ID1111080]
 Un Stand inspiré d'un dragon nommé "<category id='158'/>".
 Une puissance écrasante ouvre une brèche dans un monde fermé.
+[IDS_ITEMDESC.ID1111081]
+Un Stand inspiré de "<card mrk='11268'/>".
+Les êtres possédés perdent l'esprit, devenant des coquilles vides.
 [IDS_ITEMDESC.ID1111082]
 coming soon
 [IDS_ITEMDESC.ID1112001]
@@ -4443,9 +4488,20 @@ Grâce au phonographe sur son bras droit, il émet des ondes électromagnétique
 Un dragon sacré qui emplit le cosmos de sons mystérieux.
 Cette bête magnifique, enroulée autour d'une planète, dégage une aura divine.
 [IDS_ITEMDESC.ID1130137]
-coming soon
+Le légendaire <card mrk='14913'/>.
+À chaque HÉROS correspond une scène à la hauteur de sa puissance.
 [IDS_ITEMDESC.ID1130138]
-coming soon
+L'homme a accepté <card mrk='22169'/> dans un seul but : éliminer Dieu.
+Et ainsi, les ailes noires se sont déployées, s'élevant dans le crépuscule pour fendre les cieux une troisième fois.
+[IDS_ITEMDESC.ID1130139]
+Prise dans les événements liés au retour de "<card mrk='9997'/>", "<card mrk='9167'/>" a absorbé des ondes divines.
+Elle a été ramenée à la vie intentionnellement par "<card mrk='12762'/>".
+[IDS_ITEMDESC.ID1130140]
+Elle lève la main et libère un éclair de lumière bleue.
+Roi de tous les éclairs, il anéantit tout ce qu'il touche.
+[IDS_ITEMDESC.ID1130150]
+"<card mrk='22932'/>" affronte "<card mrk='22934'/>".
+Cette contre-attaque désespérée suffira-t-elle à mettre fin à cette folie ?
 [IDS_ITEMDESC.ID1130151]
 coming soon
 [IDS_ITEMDESC.ID1132001]
@@ -4527,9 +4583,14 @@ On dit que lorsque vous rassemblez des <category id='031'/>, les portes menant �
 Un Dossier de Collectionneur inspiré par un conte adoré dans le monde entier.
 On dit que lorsque les cartes <category id='172'/> seront réunies, les portes qui mènent aux fées brilleront de mille feux.
 [IDS_ITEMDESC.ID1170016]
-coming soon
+Un Dossier de Collectionneur consacré aux nobles héros de la justice qui excellent dans l'art de l'Invocation Fusion.
+On raconte que les <category id='197'/> seront rassemblés, les portes menant à un pouvoir inconnu brilleront de mille feux.
 [IDS_ITEMDESC.ID1170017]
-coming soon
+Un Dossier de Collectionneur consacré aux anges tombés du paradis.
+On raconte que les <category id='185'/> seront rassemblés, les portes interdites brilleront de mille feux.
+[IDS_ITEMDESC.ID1170018]
+Un Dossier de Collectionneur consacré à ceux qui ont perdu la vie lors de la grande guerre.
+On raconte que les <category id='152'/> seront rassemblées, les portes qui se sont enfoncées dans les ténèbres brilleront de mille feux.
 [IDS_ITEMDESC.ID1180001]
 Une pièce dont le motif est le dragon lumineux qui écrit une nouvelle légende.
 Ses yeux céruléens brillent.
@@ -4600,7 +4661,8 @@ Sa volonté de s'opposer à son destin brille intensément.
 Une Pièce représentant des fées issues d'un petit royaume où les contes sont empreints de magie.
 Des histoires de toutes les époques et de tous les horizons brillent de mille feux.
 [IDS_ITEMDESC.ID1180025]
-coming soon
+Une Pièce représentant l'emblème de la noble justice.
+Sa lueur scintille en quête de salut.
 [IDS_ITEMDESC.ID1190001]
 Le nombre maximum de marque-pages que vous pouvez posséder peut être augmenté.
 [IDS_ITEMDESC.ID0000]

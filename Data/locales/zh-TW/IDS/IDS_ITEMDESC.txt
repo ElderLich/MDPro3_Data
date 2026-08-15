@@ -128,7 +128,8 @@ coming soon
 身先士卒的<category id='174'/>年輕劍士。
 自告奮勇擔負起照料「<card mrk='17783'/>」的工作。
 [IDS_ITEMDESC.ID1000047]
-coming soon
+持劍擺出架式的企鵝下級士兵。
+會成群結隊地展開攻擊。
 [IDS_ITEMDESC.ID1001001]
 感覺可讓人發動融合召喚的杯子。
 雖然很簡易，但簡易不等於很差。
@@ -362,7 +363,8 @@ coming soon
 對抗逆境而覺醒體內龍之力的少年。
 其名所指向的是深鎖於黑暗的過去，還是光輝的未來？
 [IDS_ITEMDESC.ID1003007]
-coming soon
+從新宇宙降臨的英雄。
+潛藏無限可能的未知力量，據說將會創造奇蹟。
 [IDS_ITEMDESC.ID1003008]
 coming soon
 [IDS_ITEMDESC.ID1003009]
@@ -812,9 +814,23 @@ coming soon
 上面畫著目睹聖女雷霆後靈光一閃的天才少女的頭像。
 創造超次世代能源的挑戰就此展開。
 [IDS_ITEMDESC.ID1010149]
-coming soon
+上面畫著永遠的<card mrk='14913'/>的頭像。
+極致的舞台讓人興奮不已。
 [IDS_ITEMDESC.ID1010150]
-coming soon
+上面畫著為了弒神而吸收其他<category id='185'/>的男子頭像。
+為達目的將不擇手段尋求力量。
+[IDS_ITEMDESC.ID1010151]
+上面畫著手持奪來的權杖並將其高舉的「<card mrk='14968'/>」頭像。
+將權杖的力量發揮至極致，邁向更高層次的進化。
+[IDS_ITEMDESC.ID1010152]
+上面畫著容貌跟過去判若兩人的「<card mrk='22337'/>」頭像。
+本就強悍的肉體，在<card mrk='22342'/>之下又進一步獲得強化。
+[IDS_ITEMDESC.ID1010153]
+上面畫著率先躍入險惡大海的企鵝頭像。
+無論牠縱身而下的原因為何，都是一位值得敬佩的先驅。
+[IDS_ITEMDESC.ID1010154]
+上面畫著住在樂園的神的頭像。
+那裡有無數的禁忌寶具，據說帶走它們的人將會觸怒神明。
 [IDS_ITEMDESC.ID1010160]
 coming soon
 [IDS_ITEMDESC.ID1011001]
@@ -1324,6 +1340,9 @@ Yu-Gi-Oh! World Championship 2024:MASTER DUEL參賽紀念頭像。
 [IDS_ITEMDESC.ID1013015]
 上面畫著大家最要好的線上好友的頭像。
 屬於你的傳說決鬥者之路，就此揭開序幕。
+[IDS_ITEMDESC.ID1013016]
+「Yu-Gi-Oh! CARD GAME THE CHRONICLES」的主視覺效果刻畫而成的頭像。
+一無所有的少女展開了奪取一切的戰爭。
 [IDS_ITEMDESC.ID1020001]
 玩過《Yu-Gi-Oh! MASTER DUEL》而成為決鬥者的玩家，可獲得此稱號。
 不管什麼時候開始挑戰決鬥都不嫌晚。
@@ -2002,7 +2021,8 @@ Yu-Gi-Oh! World Championship 2025:MASTER DUEL中十二強決鬥者的稱號。
 在「融合盃」中，取得晉級2nd STAGE成績的決鬥者可獲得此稱號。
 戰勝眾多決鬥者，從1st STAGE勝出的實力證明。
 [IDS_ITEMDESC.ID1020227]
-coming soon
+將傳說怪獸運用到極致，留下佳績的決鬥者可獲得此稱號。
+與各式各樣的決鬥者相遇、對戰，將創造出新的傳說。
 [IDS_ITEMDESC.ID1021001]
 僅限特殊機會才能獲得的限定稱號。
 [IDS_ITEMDESC.ID1021002]
@@ -2142,6 +2162,9 @@ coming soon
 [IDS_ITEMDESC.ID1030043]
 以強烈對比令人聯想起危險性的黃色＆黑色頭像邊框。
 在自然界中也能起到警示作用，令捕食者有所顧忌。
+[IDS_ITEMDESC.ID1030044]
+會讓人聯想到流行霓虹與熱帶糖果的萊姆＆粉紅色的頭像邊框。
+明亮且富有躍動感的色調，散發著清新的活力。
 [IDS_ITEMDESC.ID1031001]
 這個頭像邊框，讓人聯想起祈禱和平的戰士在傳送「閃刀」武器時所使用的傳送門。
 當門開啟時，突破困境的新力量將會覺醒。
@@ -2221,7 +2244,11 @@ coming soon
 會讓人聯想到隱藏著超變形機構的機械兵器的頭像邊框。
 雖然很遺憾沒有變形功能，但內部已填滿了的炎雷能量。
 [IDS_ITEMDESC.ID1031027]
-coming soon
+會讓人聯想到禁忌寶具的頭像邊框。
+染指禁忌之力即會觸怒神明。
+[IDS_ITEMDESC.ID1031028]
+會讓人聯想到同步召喚時可見之光圈的頭像邊框。
+從中能感受到奔馳於光輝照耀道路的強烈意志。
 [IDS_ITEMDESC.ID1032001]
 這個頭像邊框，讓人聯想起在歲末將近時，可在各地看到的環狀裝飾品。
 為了祈禱幸福降臨，誠心誠意地進行裝飾吧。
@@ -2270,6 +2297,9 @@ Yu-Gi-Oh! World Championship 2024:MASTER DUEL參賽紀念頭像邊框。
 [IDS_ITEMDESC.ID1033005]
 Yu-Gi-Oh! World Championship 2025:MASTER DUEL參賽紀念頭像邊框。
 還有下一個對戰在等你！
+[IDS_ITEMDESC.ID1033006]
+會讓人聯想到複數怪獸融合瞬間的頭像邊框。
+於融合盃留下佳績的決鬥者可獲得此頭像邊框。
 [IDS_ITEMDESC.ID1033007]
 coming soon
 [IDS_ITEMDESC.ID1070001]
@@ -2801,7 +2831,17 @@ coming soon
 此卡套外面畫著毛茸茸又圓滾滾的幻想魔族。
 獻給想體驗毛茸茸的你。
 [IDS_ITEMDESC.ID1070179]
-coming soon
+此卡套外面畫著<card mrk='14913'/>施放必殺技的模樣。
+獻給比任何人都享受決鬥的你。
+[IDS_ITEMDESC.ID1070180]
+此卡套外面畫著伸出無數絲線的巨大<category id='152'/>之姿。
+獻給墮落於影的你。
+[IDS_ITEMDESC.ID1070184]
+此卡套外面畫著怪獸融合之際的漩渦。
+獻給以融合召喚為戰術核心的你。
+[IDS_ITEMDESC.ID1070189]
+此卡套外面畫著回應求救呼喚挺身而出的正義英雄們。
+獻給無論何時都抱持希望的你。
 [IDS_ITEMDESC.ID1070191]
 coming soon
 [IDS_ITEMDESC.ID1070192]
@@ -3616,7 +3656,8 @@ coming soon
 [IDS_ITEMDESC.ID1101043]
 coming soon
 [IDS_ITEMDESC.ID1101044]
-coming soon
+仿造禁忌寶具的場地配件。
+縱使是贗品，不輕易觸碰才是明智之舉。
 [IDS_ITEMDESC.ID1101045]
 仿造棲息於晨間飲品的精靈們的場地配件。
 早晨的茶會令人神清氣爽。
@@ -3945,10 +3986,14 @@ coming soon
 以大自然中誕生的螺旋狀之力為靈感設計出的底座。
 沐浴在其釋放的氣場中，便能感受到源源不絕的生命力。
 [IDS_ITEMDESC.ID1111078]
-coming soon
+以某福利社販賣的麵包為靈感設計出的底座。
+隨機的內餡似乎還有機會抽中黃金雞蛋口味。
 [IDS_ITEMDESC.ID1111080]
 以冠有「<category id='158'/>」之名的龍為靈感設計出的底座。
 以壓倒性的力量，打破這封閉的世界。
+[IDS_ITEMDESC.ID1111081]
+以「<card mrk='11268'/>」為靈感設計出的底座。
+據說被吸收者會失去自我，僅剩肉體存在於現世之中。
 [IDS_ITEMDESC.ID1111082]
 coming soon
 [IDS_ITEMDESC.ID1112001]
@@ -4449,9 +4494,20 @@ coming soon
 以神秘音律盈滿宇宙的神聖之龍。
 其籠罩行星的莊嚴姿態，散發著神聖光輝。
 [IDS_ITEMDESC.ID1130137]
-coming soon
+永遠的<card mrk='14913'/>。
+英雄就要有英雄專屬的戰鬥舞台。
 [IDS_ITEMDESC.ID1130138]
-coming soon
+男人僅為弒神而接受了<card mrk='22169'/>。
+翻騰的黑翼三度撕裂蒼穹，踏向黃昏的征途。
+[IDS_ITEMDESC.ID1130139]
+受「<card mrk='9997'/>」復活的波及，進而感受到神之波動的「<card mrk='9167'/>」。
+其復活也是在「<card mrk='12762'/>」的計畫之中。
+[IDS_ITEMDESC.ID1130140]
+舉起的手掌前端迸裂出蒼藍閃光。
+那一擊是足以殲滅萬物的王之雷光。
+[IDS_ITEMDESC.ID1130150]
+迫近的「<card mrk='22934'/>」及與之對抗的「<card mrk='22932'/>」。
+這孤注一擲的行動，是否能抵抗那可怕的狂氣！
 [IDS_ITEMDESC.ID1130151]
 coming soon
 [IDS_ITEMDESC.ID1132001]
@@ -4530,9 +4586,14 @@ coming soon
 風靡全球的經典故事的蒐藏檔案。
 據說收集完<category id='172'/>後，與妖精相遇的門扉將散發光輝。
 [IDS_ITEMDESC.ID1170016]
-coming soon
+擅長融合召喚的高潔正義英雄們的蒐藏檔案。
+據說收集完<category id='197'/>後，未知力量之門將散發光輝。
 [IDS_ITEMDESC.ID1170017]
-coming soon
+從樂園墮落至凡間的天使們的蒐藏檔案。
+據說收集完<category id='185'/>後，禁忌之門將散發光輝。
+[IDS_ITEMDESC.ID1170018]
+在前次大戰中喪命之人的蒐藏檔案。
+據說收集完<category id='152'/>後，墮影之門將散發光輝。
 [IDS_ITEMDESC.ID1180001]
 以創造新傳說的白龍為概念所設計的硬幣。
 青色的眼散發光芒。
@@ -4604,7 +4665,8 @@ D的象徵閃爍著光芒。
 以靈性故事中的小國妖精們為概念所設計的硬幣。
 古今中外的故事閃爍著光芒。
 [IDS_ITEMDESC.ID1180025]
-coming soon
+以高潔的正義標誌為概念所設計的硬幣。
+求救信號閃爍著光芒。
 [IDS_ITEMDESC.ID1190001]
 可提高收藏空位的數量上限。
 [IDS_ITEMDESC.ID0000]

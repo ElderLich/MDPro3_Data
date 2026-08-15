@@ -91,7 +91,7 @@ coming soon
 [IDS_ITEM.ID1000046]
 空牙団の剣士 ビート
 [IDS_ITEM.ID1000047]
-coming soon
+ペンギン・ソルジャー
 [IDS_ITEM.ID1000048]
 coming soon
 [IDS_ITEM.ID1000049]
@@ -271,7 +271,7 @@ coming soon
 [IDS_ITEM.ID1003006]
 アルバスの落胤
 [IDS_ITEM.ID1003007]
-coming soon
+E・HERO ネオス
 [IDS_ITEM.ID1003008]
 coming soon
 [IDS_ITEM.ID1003009]
@@ -577,17 +577,17 @@ CNo.101 S・H・Dark Knight
 [IDS_ITEM.ID1010148]
 鉄獣の炎工 キット
 [IDS_ITEM.ID1010149]
-coming soon
+F・HERO フレイム・ウィングマン
 [IDS_ITEM.ID1010150]
-coming soon
+黄昏の堕天使ルシファー
 [IDS_ITEM.ID1010151]
-coming soon
+凍てし心が映す神影
 [IDS_ITEM.ID1010152]
-coming soon
+GMX－ALLOS
 [IDS_ITEM.ID1010153]
-coming soon
+ファースト・ペンギン
 [IDS_ITEM.ID1010154]
-coming soon
+神の忠告
 [IDS_ITEM.ID1010155]
 coming soon
 [IDS_ITEM.ID1010156]
@@ -975,7 +975,7 @@ Shadow Duelist Zester
 [IDS_ITEM.ID1013015]
 ワンパスくん
 [IDS_ITEM.ID1013016]
-coming soon
+黒魔女ディアベルスター
 [IDS_ITEM.ID1013017]
 coming soon
 [IDS_ITEM.ID1013018]
@@ -1445,7 +1445,7 @@ WCS2026予選 DLv.MAX
 [IDS_ITEM.ID1020226]
 フュージョンカップ 2nd STAGE進出
 [IDS_ITEM.ID1020227]
-coming soon
+マイフェイバリット
 [IDS_ITEM.ID1020228]
 coming soon
 [IDS_ITEM.ID1020229]
@@ -1567,7 +1567,7 @@ coming soon
 [IDS_ITEM.ID1030043]
 イエロー&ブラックフレーム
 [IDS_ITEM.ID1030044]
-coming soon
+ライム&ピンクフレーム
 [IDS_ITEM.ID1030045]
 coming soon
 [IDS_ITEM.ID1030046]
@@ -1673,9 +1673,9 @@ P.U.N.K.JAM FEVER！
 [IDS_ITEM.ID1031026]
 パルマ・ライゼオル
 [IDS_ITEM.ID1031027]
-coming soon
+禁じられた聖冠
 [IDS_ITEM.ID1031028]
-coming soon
+シンクロリング β
 [IDS_ITEM.ID1031029]
 coming soon
 [IDS_ITEM.ID1032001]
@@ -1729,7 +1729,7 @@ WCS2024 出場記念
 [IDS_ITEM.ID1033005]
 WCS2025 出場記念
 [IDS_ITEM.ID1033006]
-大融合
+フュージョン・ボルテックス
 [IDS_ITEM.ID1033007]
 coming soon
 [IDS_ITEM.ID1033008]
@@ -2103,9 +2103,9 @@ R.B.ブルート・ブルース
 [IDS_ITEM.ID1070178]
 モコモッコ
 [IDS_ITEM.ID1070179]
-coming soon
+フェイバリット・ヒーロー
 [IDS_ITEM.ID1070180]
-coming soon
+エルシャドール・ネフィリム
 [IDS_ITEM.ID1070181]
 coming soon
 [IDS_ITEM.ID1070182]
@@ -2113,7 +2113,7 @@ coming soon
 [IDS_ITEM.ID1070183]
 coming soon
 [IDS_ITEM.ID1070184]
-coming soon
+融合
 [IDS_ITEM.ID1070185]
 coming soon
 [IDS_ITEM.ID1070186]
@@ -2123,7 +2123,7 @@ coming soon
 [IDS_ITEM.ID1070188]
 coming soon
 [IDS_ITEM.ID1070189]
-coming soon
+ホープ・オブ・フィフス
 [IDS_ITEM.ID1070190]
 coming soon
 [IDS_ITEM.ID1070191]
@@ -2933,7 +2933,7 @@ coming soon
 [IDS_ITEM.ID1101043]
 coming soon
 [IDS_ITEM.ID1101044]
-coming soon
+禁じられた聖冠
 [IDS_ITEM.ID1101045]
 WAKE CUP！
 [IDS_ITEM.ID1101046]
@@ -3219,13 +3219,13 @@ coming soon
 [IDS_ITEM.ID1111077]
 命王の螺旋
 [IDS_ITEM.ID1111078]
-coming soon
+ドローパン
 [IDS_ITEM.ID1111079]
 coming soon
 [IDS_ITEM.ID1111080]
 ヴァレル
 [IDS_ITEM.ID1111081]
-coming soon
+影依融合
 [IDS_ITEM.ID1111082]
 coming soon
 [IDS_ITEM.ID1111083]
@@ -3617,13 +3617,13 @@ coming soon
 [IDS_ITEM.ID1130136]
 調和ノ天救竜
 [IDS_ITEM.ID1130137]
-coming soon
+F・HERO フレイム・ウィングマン
 [IDS_ITEM.ID1130138]
-coming soon
+黄昏の堕天使ルシファー
 [IDS_ITEM.ID1130139]
-coming soon
+エルシャドール・ミドラーシュ
 [IDS_ITEM.ID1130140]
-coming soon
+霆王の閃光
 [IDS_ITEM.ID1130141]
 coming soon
 [IDS_ITEM.ID1130142]
@@ -3643,7 +3643,7 @@ coming soon
 [IDS_ITEM.ID1130149]
 coming soon
 [IDS_ITEM.ID1130150]
-coming soon
+A－GMX最終検証
 [IDS_ITEM.ID1130151]
 coming soon
 [IDS_ITEM.ID1132001]
@@ -3709,11 +3709,11 @@ D-HERO
 [IDS_ITEM.ID1170015]
 妖精伝姫
 [IDS_ITEM.ID1170016]
-coming soon
+E・HERO
 [IDS_ITEM.ID1170017]
-coming soon
+堕天使
 [IDS_ITEM.ID1170018]
-coming soon
+シャドール
 [IDS_ITEM.ID1170019]
 coming soon
 [IDS_ITEM.ID1170020]
@@ -3771,7 +3771,7 @@ D-HERO
 [IDS_ITEM.ID1180024]
 妖精伝姫
 [IDS_ITEM.ID1180025]
-coming soon
+E・HERO
 [IDS_ITEM.ID1180026]
 coming soon
 [IDS_ITEM.ID1180027]

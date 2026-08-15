@@ -127,7 +127,8 @@ coming soon
 身先士卒的<category id='174'/>年轻剑士。
 自告奋勇担负起照料“<card mrk='17783'/>”的工作。
 [IDS_ITEMDESC.ID1000047]
-coming soon
+手里拿着剑的企鹅低级士兵。
+会成群结队地展开攻击。
 [IDS_ITEMDESC.ID1001001]
 一杯似乎可以让你进行融合召唤的杯面。
 身为方便食品并不意味着它没其他东西好吃。
@@ -361,7 +362,8 @@ coming soon
 对抗逆境而觉醒体内龙之力的少年。
 其名所指向的是深锁于黑暗的过去，还是光辉的未来？
 [IDS_ITEMDESC.ID1003007]
-coming soon
+从新宇空间到来的英雄。
+潜藏无限可能的未知力量，据说将会创造奇迹。
 [IDS_ITEMDESC.ID1003008]
 coming soon
 [IDS_ITEMDESC.ID1003009]
@@ -810,9 +812,23 @@ coming soon
 描绘了目睹圣女雷霆后灵光一闪的天才少女的头像。
 创造超次世代能源的挑战就此展开。
 [IDS_ITEMDESC.ID1010149]
-coming soon
+描绘了永远的<card mrk='14913'/>的头像。
+极致的舞台让人兴奋不已。
 [IDS_ITEMDESC.ID1010150]
-coming soon
+描绘了为弑神而吸收其他<category id='185'/>的男人的头像。
+为达目的将不择手段寻求力量。
+[IDS_ITEMDESC.ID1010151]
+描绘了“<card mrk='14968'/>”手持夺来的权杖并高高举起的头像。
+将权杖的力量发挥到极致，迈向更高层次的进化。
+[IDS_ITEMDESC.ID1010152]
+描绘了容貌和过去判若两人的“<card mrk='22337'/>”的头像。
+本就强悍的身躯，在<card mrk='22342'/>之下又进一步获得强化。
+[IDS_ITEMDESC.ID1010153]
+描绘了率先跃入险峻大海的企鹅的头像。
+无论它纵身而下的原因为何，都是一位值得敬佩的先驱。
+[IDS_ITEMDESC.ID1010154]
+描绘了住在乐园的神的头像。
+那里有无数的禁忌宝具，据说带走它们的人会触怒神明。
 [IDS_ITEMDESC.ID1010160]
 coming soon
 [IDS_ITEMDESC.ID1011001]
@@ -1322,6 +1338,9 @@ Yu-Gi-Oh! World Championship 2025:Master Duel分赛参赛选手的纪念头像�
 [IDS_ITEMDESC.ID1013015]
 描绘了大家最要好的线上好友的头像。
 属于你的传说决斗者之路，就此揭开序幕。
+[IDS_ITEMDESC.ID1013016]
+《Yu-Gi-Oh! CARD GAME THE CHRONICLES》主视觉设计的头像。
+一无所有的少女展开了夺取一切的战争。
 [IDS_ITEMDESC.ID1020001]
 授予因《Yu-Gi-Oh! MASTER DUEL》而成为决斗者的玩家的称号。
 挑战决斗的时间永远不会太晚。
@@ -1999,7 +2018,8 @@ coming soon
 授予在“融合杯”中，晋级2nd STAGE的决斗者的称号。
 从众多决斗者角逐的1st STAGE中晋级的实力选手之证。
 [IDS_ITEMDESC.ID1020227]
-coming soon
+赠予驱使传说中的怪物，并取得成果的决斗者的称号。
+与众多决斗者的邂逅和战斗创造了新的传说。
 [IDS_ITEMDESC.ID1021001]
 特殊机会下提供的限定称号。
 [IDS_ITEMDESC.ID1021002]
@@ -2139,6 +2159,9 @@ coming soon
 [IDS_ITEMDESC.ID1030043]
 强烈对比令人联想起危险性的黄黑头像边框。
 在自然界中也能起到警示作用，令捕食者有所顾忌。
+[IDS_ITEMDESC.ID1030044]
+让人联想到时尚的霓虹和热带糖果的柠檬绿&粉色头像边框。
+明亮且富有跃动感的色调，散发着清新的活力。
 [IDS_ITEMDESC.ID1031001]
 令人联想到为了和平而战的人们转运“闪刀”装备时使用的传送门的头像边框。
 当他们的前方道路被打开之时，便能觉醒为了克服一切苦难的崭新力量。
@@ -2218,7 +2241,11 @@ coming soon
 让人联想起隐藏着超变形装置的机械兵器的头像边框。
 虽然很遗憾没有变形功能，但内部已填满了炎雷的能量。
 [IDS_ITEMDESC.ID1031027]
-coming soon
+让人联想到禁忌宝具的头像边框。
+染指禁忌之力即会触怒神明。
+[IDS_ITEMDESC.ID1031028]
+让人联想到同步召唤时出现的光圈的头像边框。
+从中能感受到奔驰于光辉照耀道路的强烈意志。
 [IDS_ITEMDESC.ID1032001]
 年关将至时，可以在各种地方看见的圆环形状的装饰品的头像边框。
 利用精致漂亮的装饰品，寄托自己希冀幸福时光更加长久的愿景。
@@ -2267,6 +2294,9 @@ coming soon
 [IDS_ITEMDESC.ID1033005]
 赠予Yu-Gi-Oh! World Championship 2025: MASTER DUEL分赛参赛者的头像边框。
 下一个战斗的舞台正等候着你！
+[IDS_ITEMDESC.ID1033006]
+让人联想到多只怪兽融合瞬间的头像边框。
+于融合杯留下佳绩的决斗者可获得此头像边框。
 [IDS_ITEMDESC.ID1033007]
 coming soon
 [IDS_ITEMDESC.ID1070001]
@@ -2797,7 +2827,17 @@ coming soon
 设计有毛茸茸圆滚滚的幻想魔族的卡套。
 献给想体验毛茸茸的你。
 [IDS_ITEMDESC.ID1070179]
-coming soon
+设计有<card mrk='14913'/>施放必杀技的模样的卡套。
+献给比任何人都享受决斗的你。
+[IDS_ITEMDESC.ID1070180]
+设计有伸出无数丝线的巨大<category id='152'/>的卡套。
+献给堕落于影的你。
+[IDS_ITEMDESC.ID1070184]
+设计有怪兽融合之际的漩涡的卡套。
+献给以融合召唤为战术核心的你。
+[IDS_ITEMDESC.ID1070189]
+设计有正义英雄们在求救声中挺身而出的卡套。
+献给无论何时都心怀希望的你。
 [IDS_ITEMDESC.ID1070191]
 coming soon
 [IDS_ITEMDESC.ID1070192]
@@ -3609,7 +3649,8 @@ coming soon
 [IDS_ITEMDESC.ID1101043]
 coming soon
 [IDS_ITEMDESC.ID1101044]
-coming soon
+模仿禁忌宝具的场地配件。
+纵使是赝品，不轻易触碰才是明智之举。
 [IDS_ITEMDESC.ID1101045]
 以栖息于晨间饮品的精灵们为原型制作的场地配件。
 早晨的茶会令人神清气爽。
@@ -3936,10 +3977,14 @@ coming soon
 模仿大自然中诞生的螺旋力量的基座。
 沐浴在其释放的磁场中，便能感受到源源不断的生命力。
 [IDS_ITEMDESC.ID1111078]
-coming soon
+模仿某小卖部出售的面包的基座。
+馅料随机，似乎还有机会抽中金蛋口味。
 [IDS_ITEMDESC.ID1111080]
 模仿以冠有“<category id='158'/>”之名的龙的基座。
 以压倒性的力量，打破这封闭的世界。
+[IDS_ITEMDESC.ID1111081]
+模仿“<card mrk='11268'/>”的基座。
+据说被吸收者会失去自我，仅剩肉体存在于现世之中。
 [IDS_ITEMDESC.ID1111082]
 coming soon
 [IDS_ITEMDESC.ID1112001]
@@ -4443,9 +4488,20 @@ coming soon
 用神秘音律充盈宇宙的神圣之龙。
 其笼罩行星的庄严姿态，散发着神圣光辉。
 [IDS_ITEMDESC.ID1130137]
-coming soon
+永远的<card mrk='14913'/>。
+英雄就要有英雄专属的战斗舞台。
 [IDS_ITEMDESC.ID1130138]
-coming soon
+男人仅为弑神而接受了<card mrk='22169'/>。
+翻腾的黑翼三度撕裂苍穹，迈向黄昏的征途。
+[IDS_ITEMDESC.ID1130139]
+受“<card mrk='9997'/>”复活的波及，进而感受到神之波动的“<card mrk='9167'/>”。
+其复活也是在“<card mrk='12762'/>”的计划之中。
+[IDS_ITEMDESC.ID1130140]
+举起的手掌前端迸裂出苍蓝闪光。
+那一击是足以歼灭万物的王之雷光。
+[IDS_ITEMDESC.ID1130150]
+迫近的“<card mrk='22934'/>”和与之对抗的“<card mrk='22932'/>”。
+这孤注一掷的行动，是否能抵抗那可怕的狂气！
 [IDS_ITEMDESC.ID1130151]
 coming soon
 [IDS_ITEMDESC.ID1132001]
@@ -4524,9 +4580,14 @@ coming soon
 风靡全球的经典故事的收藏卡册。
 据说收集完<category id='172'/>后，与妖精相遇的门扉将散发光辉。
 [IDS_ITEMDESC.ID1170016]
-coming soon
+擅长融合召唤的高尚正义英雄们的收藏卡册。
+据说收集完<category id='197'/>后，未知力量之门将散发光辉。
 [IDS_ITEMDESC.ID1170017]
-coming soon
+从乐园堕落至凡间的天使们的收藏卡册。
+据说收集完<category id='185'/>后，禁忌之门将散发光辉。
+[IDS_ITEMDESC.ID1170018]
+在先前大战中丧命之人的收藏卡册。
+据说收集完<category id='152'/>后，堕影之门将散发光辉。
 [IDS_ITEMDESC.ID1180001]
 以创造新传说的白龙为原型的硬币。
 青色的眼睛闪耀着光芒。
@@ -4598,7 +4659,8 @@ D的象征闪烁着光芒。
 以灵性故事中的小国妖精们为概念所设计的硬币。
 古今中外的故事闪烁着光芒。
 [IDS_ITEMDESC.ID1180025]
-coming soon
+以高尚的正义标志为概念所设计的硬币。
+求救信号闪烁着光芒。
 [IDS_ITEMDESC.ID1190001]
 可以让你的书签上限增加一个。
 [IDS_ITEMDESC.ID0000]

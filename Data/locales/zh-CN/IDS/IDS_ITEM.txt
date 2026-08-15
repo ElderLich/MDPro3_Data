@@ -87,7 +87,7 @@ S：P小夜骑士
 [IDS_ITEM.ID1000046]
 空牙团的剑士 比特
 [IDS_ITEM.ID1000047]
-coming soon
+企鹅士兵
 [IDS_ITEM.ID1001001]
 简易结合
 [IDS_ITEM.ID1001002]
@@ -205,7 +205,7 @@ I：P百变莱娜 和 超元特防队 乱破小夜丸
 [IDS_ITEM.ID1003006]
 阿尔白斯之落胤
 [IDS_ITEM.ID1003007]
-coming soon
+元素－英雄 新宇侠
 [IDS_ITEM.ID1005001]
 救援兔
 [IDS_ITEM.ID1010001]
@@ -501,17 +501,17 @@ K9－17号 饭纲
 [IDS_ITEM.ID1010148]
 铁兽守宝团 炎工之姬特
 [IDS_ITEM.ID1010149]
-coming soon
+至爱－英雄 火焰翼人
 [IDS_ITEM.ID1010150]
-coming soon
+黄昏的堕天使 路西法
 [IDS_ITEM.ID1010151]
-coming soon
+心影依结合
 [IDS_ITEM.ID1010152]
-coming soon
+GMX－异特种ALLOS
 [IDS_ITEM.ID1010153]
-coming soon
+先驱企鹅
 [IDS_ITEM.ID1010154]
-coming soon
+神之忠告
 [IDS_ITEM.ID1010160]
 coming soon
 [IDS_ITEM.ID1011001]
@@ -657,13 +657,13 @@ WCS2026 预选赛　银奖决赛选手
 [IDS_ITEM.ID1011071]
 WCS2026 预选赛　铜奖决赛选手
 [IDS_ITEM.ID1011072]
-融合杯 金奖决赛选手
-[IDS_ITEM.ID1011073]
-融合杯 银奖决赛选手
-[IDS_ITEM.ID1011074]
-融合杯 青铜奖决赛选手
-[IDS_ITEM.ID1011075]
 融合杯 冠军
+[IDS_ITEM.ID1011073]
+融合杯 金奖决赛选手
+[IDS_ITEM.ID1011074]
+融合杯 银奖决赛选手
+[IDS_ITEM.ID1011075]
+融合杯 青铜奖决赛选手
 [IDS_ITEM.ID1011079]
 coming soon
 [IDS_ITEM.ID1011080]
@@ -863,7 +863,7 @@ Shadow Duelist Zester
 [IDS_ITEM.ID1013015]
 Wumpus
 [IDS_ITEM.ID1013016]
-coming soon
+黑魔女 迪亚贝尔斯塔
 [IDS_ITEM.ID1020001]
 初出茅庐的决斗者
 [IDS_ITEM.ID1020002]
@@ -1316,6 +1316,8 @@ WCS2026 预选赛 DLv.MAX
 融合杯 TOP 10000
 [IDS_ITEM.ID1020226]
 融合杯 2nd STAGE入围
+[IDS_ITEM.ID1020227]
+我的至爱
 [IDS_ITEM.ID1020228]
 coming soon
 [IDS_ITEM.ID1020229]
@@ -1422,6 +1424,8 @@ coming soon
 迷拟宝箱鬼・食人花
 [IDS_ITEM.ID1030043]
 黄黑边框
+[IDS_ITEM.ID1030044]
+柠檬绿&粉色边框
 [IDS_ITEM.ID1031001]
 青色闪刀装路
 [IDS_ITEM.ID1031002]
@@ -1475,9 +1479,9 @@ K9－17号 饭纲
 [IDS_ITEM.ID1031026]
 脉离・雷热涡炉
 [IDS_ITEM.ID1031027]
-coming soon
+禁忌的圣冠
 [IDS_ITEM.ID1031028]
-coming soon
+同步环β
 [IDS_ITEM.ID1032001]
 庆典装饰
 [IDS_ITEM.ID1032002]
@@ -1511,7 +1515,7 @@ WCS2024参赛纪念
 [IDS_ITEM.ID1033005]
 WCS2025参赛纪念
 [IDS_ITEM.ID1033006]
-大融合
+融合漩涡
 [IDS_ITEM.ID1033007]
 coming soon
 [IDS_ITEM.ID1070001]
@@ -1869,13 +1873,13 @@ R.B.布鲁特・布鲁斯
 [IDS_ITEM.ID1070178]
 毛可毛可
 [IDS_ITEM.ID1070179]
-coming soon
+至爱英雄
 [IDS_ITEM.ID1070180]
-coming soon
+神影依・拿非利
 [IDS_ITEM.ID1070184]
-coming soon
+融合
 [IDS_ITEM.ID1070189]
-coming soon
+第五希望
 [IDS_ITEM.ID1070190]
 coming soon
 [IDS_ITEM.ID1070191]
@@ -2415,7 +2419,7 @@ coming soon
 [IDS_ITEM.ID1101041]
 花环
 [IDS_ITEM.ID1101044]
-coming soon
+禁忌的圣冠
 [IDS_ITEM.ID1101045]
 威咖杯！
 [IDS_ITEM.ID1102001]
@@ -2617,11 +2621,11 @@ coming soon
 [IDS_ITEM.ID1111077]
 命主王之螺旋
 [IDS_ITEM.ID1111078]
-coming soon
+抽牌面包
 [IDS_ITEM.ID1111080]
 枪管
 [IDS_ITEM.ID1111081]
-coming soon
+影依融合
 [IDS_ITEM.ID1111082]
 coming soon
 [IDS_ITEM.ID1112001]
@@ -2975,15 +2979,15 @@ I：P百变莱娜 和 S：P小夜骑士
 [IDS_ITEM.ID1130136]
 调和之天救龙
 [IDS_ITEM.ID1130137]
-coming soon
+至爱－英雄 火焰翼人
 [IDS_ITEM.ID1130138]
-coming soon
+黄昏的堕天使 路西法
 [IDS_ITEM.ID1130139]
-coming soon
+神影依・米德拉什
 [IDS_ITEM.ID1130140]
-coming soon
+霆主王之闪光
 [IDS_ITEM.ID1130150]
-coming soon
+反GMX最终验证
 [IDS_ITEM.ID1130151]
 coming soon
 [IDS_ITEM.ID1132001]
@@ -3039,11 +3043,11 @@ K9
 [IDS_ITEM.ID1170015]
 妖精传姬
 [IDS_ITEM.ID1170016]
-coming soon
+元素－英雄
 [IDS_ITEM.ID1170017]
-coming soon
+堕天使
 [IDS_ITEM.ID1170018]
-coming soon
+影依
 [IDS_ITEM.ID1170022]
 coming soon
 [IDS_ITEM.ID1180001]
@@ -3095,7 +3099,7 @@ EM：P猫猫手榴弹
 [IDS_ITEM.ID1180024]
 妖精传姬
 [IDS_ITEM.ID1180025]
-coming soon
+元素－英雄
 [IDS_ITEM.ID1190001]
 书签上限
 [IDS_ITEM.ID0000]

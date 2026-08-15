@@ -127,7 +127,8 @@ It uses its powerful arms to deliver bone-crushing punches and choke holds.
 A young <category id='174'/> fencer who takes the lead.
 Took personal charge of "<card mrk='17783'/>".
 [IDS_ITEMDESC.ID1000047]
-coming soon
+A low-ranking Penguin soldier wielding a sword.
+They attack all at once as a group.
 [IDS_ITEMDESC.ID1001001]
 A cup of instant noodles that look like they could grant you the power to Fusion Summon.
 Just because they're instant, doesn't mean they're bad!
@@ -361,7 +362,8 @@ Tonight, the neon-lit chase begins anew.
 A boy whose dragon power awakens when he lands in a tight spot.
 Does his name refer to a past, buried in darkness, or to a bright future?
 [IDS_ITEMDESC.ID1003007]
-coming soon
+A HERO who came from Neo Space.
+His mysterious power holds endless possibilities and is said to bring about miracles.
 [IDS_ITEMDESC.ID1003008]
 coming soon
 [IDS_ITEMDESC.ID1003009]
@@ -811,9 +813,23 @@ Is a memory of the beginning of the end, or a likeness of the true awakened flam
 An Icon depicting a genius girl enlightened by a holy maiden's thunder.
 Thus, the challenge to generate ultra-next-gen energy began.
 [IDS_ITEMDESC.ID1010149]
-coming soon
+An Icon depicting <card mrk='14913'/>, a timeless HERO.
+On the greatest stage, the excitement never ends.
 [IDS_ITEMDESC.ID1010150]
-coming soon
+An Icon depicting a man who claimed the strength of other <category id='185'/> to slay God.
+He seeks power by any means necessary to achieve his goal.
+[IDS_ITEMDESC.ID1010151]
+An Icon depicting "<card mrk='14968'/>" holding up a stolen staff.
+Drawing out the staff's maximum power, she evolves to the next level.
+[IDS_ITEMDESC.ID1010152]
+An Icon depicting "<card mrk='22337'/>" in his changed form.
+Boasting a muscular body to begin with, he became even stronger thanks to "<card mrk='22342'/>".
+[IDS_ITEMDESC.ID1010153]
+An Icon depicting the first of the birds to leap into the dangerous ocean.
+Regardless of the circumstances, he is a pioneer who deserves respect.
+[IDS_ITEMDESC.ID1010154]
+An Icon depicting gods who live in paradise.
+Stealing any of the forbidden treasures therein is certain to incur divine wrath.
 [IDS_ITEMDESC.ID1010160]
 coming soon
 [IDS_ITEMDESC.ID1011001]
@@ -1323,6 +1339,9 @@ An exclusive Icon offered on special occasions.
 [IDS_ITEMDESC.ID1013015]
 An Icon depicting everyone's favorite online buddy.
 The curtain rises on your journey to becoming a legendary Duelist.
+[IDS_ITEMDESC.ID1013016]
+An Icon featuring a key visual for "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
+The girl who lost everything begins a battle to claw it all back.
 [IDS_ITEMDESC.ID1020001]
 A Title given to Duelists who began their Dueling journey with Yu-Gi-Oh! MASTER DUEL.
 It's never too late to start Dueling.
@@ -2001,7 +2020,8 @@ It was earned through victory after victory against fierce competitors in the 2n
 A Title given to Duelists who made it to the 2nd Stage in Fusion Cup.
 It is proof of your accomplishment in making it through the hotly contested 1st Stage.
 [IDS_ITEMDESC.ID1020227]
-coming soon
+A Title given to Duelists who have harnessed the power of Legendary Monsters and made a name for themselves.
+A new legend is created from meeting and Dueling the greatest of Duelists.
 [IDS_ITEMDESC.ID1021001]
 A Title only bestowed upon a special occasion.
 [IDS_ITEMDESC.ID1021002]
@@ -2141,6 +2161,9 @@ Countless traps await adventurers blinded by allure of gold and treasure.
 [IDS_ITEMDESC.ID1030043]
 A yellow-and-black Icon Frame whose strong contrast evokes danger.
 In nature, these colors serve as a warning sign that wards off predators.
+[IDS_ITEMDESC.ID1030044]
+A lime-and-pink Icon Frame that evokes funky neon lights and tropical candy.
+The bright, vibrant colors add refreshing energy.
 [IDS_ITEMDESC.ID1031001]
 An Icon Frame that is reminiscent of the gate used by Sky Strikers, to transfer their armaments.
 When the path opens to those who fight for peace, a new power to overcome hardship awakens.
@@ -2220,7 +2243,11 @@ The boy recovered his senses thanks to the power of trust of those around him.
 An Icon Frame that evokes a mecha-weapon with a secret ultra transformation mechanism.
 While the frame cannot, unfortunately, transform, it is imbued with plentiful fire and electric energy.
 [IDS_ITEMDESC.ID1031027]
-coming soon
+An Icon Frame evoking forbidden treasure.
+The price of profane power is the wrath of the divine.
+[IDS_ITEMDESC.ID1031028]
+An Icon Frame that evokes the rings of light visible when Synchro Summoning.
+For those who follow the path of light with an unwavering resolve.
 [IDS_ITEMDESC.ID1032001]
 An Icon Frame in the shape of a circular decoration, which can be seen in a certain region as the year draws to a close.
 They are hung with the sincere wish for happiness and joy in times to come.
@@ -2269,6 +2296,9 @@ An Icon Frame reminiscent of the rings of light visible when Synchro Summoning.
 [IDS_ITEMDESC.ID1033005]
 An Icon awarded to the participants in the MASTER DUEL event of the Yu-Gi-Oh! World Championship 2025.
 The next stage is waiting for you!
+[IDS_ITEMDESC.ID1033006]
+An Icon Frame that evokes the moment when multiple monsters fuse together.
+This is awarded to Duelists who achieved good results in the Fusion Cup.
 [IDS_ITEMDESC.ID1033007]
 coming soon
 [IDS_ITEMDESC.ID1070001]
@@ -2798,7 +2828,17 @@ For those who wipe out their opponents in a single shot.
 Protectors featuring an Illusion monster with a thick, bushy coat of fur.
 For lovers of all things fluffy.
 [IDS_ITEMDESC.ID1070179]
-coming soon
+Protectors depicting <card mrk='14913'/> unleashing its signature move.
+For those who enjoy Dueling more than anyone.
+[IDS_ITEMDESC.ID1070180]
+Protectors depicting a giant <category id='152'/> from which countless strings stretch out.
+For those who have fallen into the shadows.
+[IDS_ITEMDESC.ID1070184]
+Protectors depicting the whirlpool of monster fusion.
+For those whose tactics revolve around Fusion Summons.
+[IDS_ITEMDESC.ID1070189]
+Protectors that depict champions of justice answering calls for help.
+For those whose hope never wavers.
 [IDS_ITEMDESC.ID1070191]
 coming soon
 [IDS_ITEMDESC.ID1070192]
@@ -3611,7 +3651,8 @@ coming soon
 [IDS_ITEMDESC.ID1101043]
 coming soon
 [IDS_ITEMDESC.ID1101044]
-coming soon
+Field Parts modeled on forbidden treasure.
+Replica or not, it would be wise to handle it with care.
 [IDS_ITEMDESC.ID1101045]
 Field Parts modeled on spirits who dwell in morning beverages.
 A morning tea party makes everyone feel refreshed.
@@ -3938,10 +3979,14 @@ Sorrowful flames pierce every corner of this accursed world.
 A Stand inspired by a swirling energy born from nature.
 Receive the aura it emits and be filled with vitality.
 [IDS_ITEMDESC.ID1111078]
-coming soon
+A Stand inspired by bread sold at a certain school store.
+The filling inside is random, and it seems the golden egg is the winning pull.
 [IDS_ITEMDESC.ID1111080]
 A Stand inspired by a dragon bearing the name "<category id='158'/>".
 Overwhelming power blasts a hole in a closed-off world.
+[IDS_ITEMDESC.ID1111081]
+A Stand inspired by "<card mrk='11268'/>".
+The possessed lose their mind, becoming empty bodies.
 [IDS_ITEMDESC.ID1111082]
 coming soon
 [IDS_ITEMDESC.ID1112001]
@@ -4445,9 +4490,20 @@ From the phonograph on its right arm, it emits electromagnetic waves that can di
 A holy dragon filling the cosmos with mysterious sounds.
 The magnificent beast, wrapped around an entire planet, has a truly divine aura.
 [IDS_ITEMDESC.ID1130137]
-coming soon
+The legendary <card mrk='14913'/>.
+For every HERO, there is a stage worthy of their might.
 [IDS_ITEMDESC.ID1130138]
-coming soon
+The man accepted <card mrk='22169'/> for one purpose alone: to slay God.
+And so the black wings unfurled, soaring through the twilight to rend the heavens for a third time.
+[IDS_ITEMDESC.ID1130139]
+Caught up in the events surrounding the revival of "<card mrk='9997'/>", "<card mrk='9167'/>" absorbed divine waves.
+She has been intentionally brought back to life by "<card mrk='12762'/>".
+[IDS_ITEMDESC.ID1130140]
+She raises her hand and unleashes a flash of blue light.
+The king of all lightning, it annihilates anything it strikes.
+[IDS_ITEMDESC.ID1130150]
+"<card mrk='22932'/>" confronts the attacking "<card mrk='22934'/>".
+Will the desperate counterattack be enough to stop the madness?
 [IDS_ITEMDESC.ID1130151]
 coming soon
 [IDS_ITEMDESC.ID1132001]
@@ -4529,9 +4585,14 @@ They say that when you gather <category id='031'/>, the door to new encounters a
 A Collector's File based on a tale loved worldwide.
 They say that when you gather <category id='172'/> cards, the door to encounters with fairies will shine.
 [IDS_ITEMDESC.ID1170016]
-coming soon
+A Collector's File for noble heroes of justice who excel at Fusion Summoning.
+It is said that when one gathers <category id='197'/>, the door to unknown power will shine.
 [IDS_ITEMDESC.ID1170017]
-coming soon
+A Collector's File for angels who fell from paradise.
+It is said that when one gathers <category id='185'/>, the forbidden door will shine.
+[IDS_ITEMDESC.ID1170018]
+A Collector's File of those who lost their lives in the earlier great war.
+It is said that when one gathers <category id='152'/>, the door which had fallen into the shadows will shine.
 [IDS_ITEMDESC.ID1180001]
 A Coin whose motif is the luminous dragon who brings about a new legend.
 Its cerulean eyes glimmer.
@@ -4602,7 +4663,8 @@ His determination in opposing his destiny shines brightly.
 A Coin depicting fairies from a small kingdom where tales are imbued with spirit.
 Stories from across times and places shine within it.
 [IDS_ITEMDESC.ID1180025]
-coming soon
+A Coin depicting after the emblem of noble justice.
+The signal sparkles in search of salvation.
 [IDS_ITEMDESC.ID1190001]
 The max. number of bookmarks you can possess can be increased.
 [IDS_ITEMDESC.ID0000]

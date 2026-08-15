@@ -87,7 +87,7 @@ Dinolutador Pancratops
 [IDS_ITEM.ID1000046]
 Beat, o Esgrimista de Peluguel
 [IDS_ITEM.ID1000047]
-coming soon
+Soldado Pinguim
 [IDS_ITEM.ID1001001]
 Fusão Instantânea
 [IDS_ITEM.ID1001002]
@@ -205,7 +205,7 @@ I:P Mascarena & Força-S Rappa Chiyomaru
 [IDS_ITEM.ID1003006]
 Caído de Arbaz
 [IDS_ITEM.ID1003007]
-coming soon
+Neos, o HERÓI do Elemento
 [IDS_ITEM.ID1005001]
 Coelho de Socorro
 [IDS_ITEM.ID1010001]
@@ -501,17 +501,17 @@ Caído do Dragão Branco
 [IDS_ITEM.ID1010148]
 Springans Kitt da Tri-Brigada
 [IDS_ITEM.ID1010149]
-coming soon
+Homem-Alado das Chamas, o HERÓI Favorito
 [IDS_ITEM.ID1010150]
-coming soon
+Senhor Obscuro Estrela da Noite
 [IDS_ITEM.ID1010151]
-coming soon
+Fusão Lev Sombraneco
 [IDS_ITEM.ID1010152]
-coming soon
+GMX - ALLOS
 [IDS_ITEM.ID1010153]
-coming soon
+Primeiro Pinguim
 [IDS_ITEM.ID1010154]
-coming soon
+Censura Solene
 [IDS_ITEM.ID1010160]
 coming soon
 [IDS_ITEM.ID1011001]
@@ -657,13 +657,13 @@ Finalista de Prata das Eliminatórias do WCS 2026
 [IDS_ITEM.ID1011071]
 Finalista de Bronze das Eliminatórias do WCS 2026
 [IDS_ITEM.ID1011072]
-Finalista Ouro da Copa Fusão
-[IDS_ITEM.ID1011073]
-Finalista Prata da Copa Fusão
-[IDS_ITEM.ID1011074]
-Finalista Bronze da Copa Fusão
-[IDS_ITEM.ID1011075]
 Campeão da Copa Fusão
+[IDS_ITEM.ID1011073]
+Finalista Ouro da Copa Fusão
+[IDS_ITEM.ID1011074]
+Finalista Prata da Copa Fusão
+[IDS_ITEM.ID1011075]
+Finalista Bronze da Copa Fusão
 [IDS_ITEM.ID1011079]
 coming soon
 [IDS_ITEM.ID1011080]
@@ -863,7 +863,7 @@ Duelista das Sombras Zester
 [IDS_ITEM.ID1013015]
 Wumpus
 [IDS_ITEM.ID1013016]
-coming soon
+Diabellstar, a Bruxa Negra
 [IDS_ITEM.ID1020001]
 Duelista Iniciante
 [IDS_ITEM.ID1020002]
@@ -1316,6 +1316,8 @@ Top 1000 da Copa Fusão
 Top 10000 da Copa Fusão
 [IDS_ITEM.ID1020226]
 Duelista de 2nd Stage do Copa Fusão
+[IDS_ITEM.ID1020227]
+Meus Favoritos
 [IDS_ITEM.ID1020228]
 coming soon
 [IDS_ITEM.ID1020229]
@@ -1422,6 +1424,8 @@ Moldura Vermelha e Branca
 Flor Mimicarniçal
 [IDS_ITEM.ID1030043]
 Moldura Amarela e Preta
+[IDS_ITEM.ID1030044]
+Moldura verde-limão e rosa
 [IDS_ITEM.ID1031001]
 O Caminho da Força Celeste Azul
 [IDS_ITEM.ID1031002]
@@ -1475,9 +1479,9 @@ Albion, o Dragão Encoberto
 [IDS_ITEM.ID1031026]
 Palma de Ryzeal
 [IDS_ITEM.ID1031027]
-coming soon
+Coroa Proibida
 [IDS_ITEM.ID1031028]
-coming soon
+Anel de Sincronização β
 [IDS_ITEM.ID1032001]
 Ornamento Festivo
 [IDS_ITEM.ID1032002]
@@ -1511,7 +1515,7 @@ Anel de Sincronização
 [IDS_ITEM.ID1033005]
 Favorecimento de Grupo do WCS 2025
 [IDS_ITEM.ID1033006]
-Polimerização Maior
+Vórtice de Fusão
 [IDS_ITEM.ID1033007]
 coming soon
 [IDS_ITEM.ID1070001]
@@ -1869,13 +1873,13 @@ Supercouraçado Canhão de Trilho Juggernaut Liebe
 [IDS_ITEM.ID1070178]
 Mokomoko
 [IDS_ITEM.ID1070179]
-coming soon
+Herói Favorito
 [IDS_ITEM.ID1070180]
-coming soon
+El Sombraneco Construtor
 [IDS_ITEM.ID1070184]
-coming soon
+Polimerização
 [IDS_ITEM.ID1070189]
-coming soon
+Quinta Esperança
 [IDS_ITEM.ID1070190]
 coming soon
 [IDS_ITEM.ID1070191]
@@ -2415,7 +2419,7 @@ Fantasma de Dia das Bruxas
 [IDS_ITEM.ID1101041]
 Grinalda
 [IDS_ITEM.ID1101044]
-coming soon
+Coroa Proibida
 [IDS_ITEM.ID1101045]
 DESPERTAÇA!
 [IDS_ITEM.ID1102001]
@@ -2617,11 +2621,11 @@ Dragão da Rosa Espinhosa
 [IDS_ITEM.ID1111077]
 Espiral Dominus
 [IDS_ITEM.ID1111078]
-coming soon
+Dia do Sanduíche
 [IDS_ITEM.ID1111080]
 Callibre
 [IDS_ITEM.ID1111081]
-coming soon
+Fusão Sombraneco
 [IDS_ITEM.ID1111082]
 coming soon
 [IDS_ITEM.ID1112001]
@@ -2975,15 +2979,15 @@ Górgona de Zilofthonia
 [IDS_ITEM.ID1130136]
 Harmonia Fydraulis
 [IDS_ITEM.ID1130137]
-coming soon
+Homem-Alado das Chamas, o HERÓI Favorito
 [IDS_ITEM.ID1130138]
-coming soon
+Senhor Obscuro Estrela da Noite
 [IDS_ITEM.ID1130139]
-coming soon
+El Sombraneco Winda
 [IDS_ITEM.ID1130140]
-coming soon
+Centelha Dominus
 [IDS_ITEM.ID1130150]
-coming soon
+Experimento Final Anti-GMX
 [IDS_ITEM.ID1130151]
 coming soon
 [IDS_ITEM.ID1132001]
@@ -3041,11 +3045,11 @@ O Caído e a Virtuosa
 [IDS_ITEM.ID1170015]
 Cauda de Fadas
 [IDS_ITEM.ID1170016]
-coming soon
+HERÓI do Elemento
 [IDS_ITEM.ID1170017]
-coming soon
+Senhor(a) Obscuro(a)
 [IDS_ITEM.ID1170018]
-coming soon
+Sombraneco
 [IDS_ITEM.ID1170022]
 coming soon
 [IDS_ITEM.ID1180001]
@@ -3097,7 +3101,7 @@ Caído de Arbaz
 [IDS_ITEM.ID1180024]
 Cauda de Fadas
 [IDS_ITEM.ID1180025]
-coming soon
+HERÓI do Elemento
 [IDS_ITEM.ID1190001]
 Espaços de Favoritos
 [IDS_ITEM.ID0000]

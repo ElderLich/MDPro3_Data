@@ -127,7 +127,8 @@ Es nutzt seine kräftigen Arme, um knochenbrechende Schläge und Würgegriffe au
 Ein junger <category id='174'/>-Fechter, der die Führung übernimmt.
 Er übernahm persönlich die Obhut von „<card mrk='17783'/>“.
 [IDS_ITEMDESC.ID1000047]
-coming soon
+Ein rangniedriger Pinguinsoldat mit einem Schwert.
+Sie greifen alle gleichzeitig als Gruppe an.
 [IDS_ITEMDESC.ID1001001]
 Ein Becher mit Fertignudeln, die aussehen, als könnten sie dir die Macht der Fusionsbeschwörung gewähren.
 Es sind zwar Fertignudeln, aber das heißt nicht, dass sie nicht lecker sind!
@@ -361,7 +362,8 @@ Heute Abend beginnt die neonbeleuchtete Jagd von neuem.
 Ein Junge, dessen Drachenkraft erwacht, wenn er in eine brenzlige Lage gerät.
 Bezieht sich sein Name auf eine in Finsternis gehüllte Vergangenheit oder eine leuchtende Zukunft?
 [IDS_ITEMDESC.ID1003007]
-coming soon
+Ein HELD, der aus dem Neo-Weltraum stammt.
+Seine geheimnisvolle Kraft birgt unendliche Möglichkeiten und soll Wunder bewirken.
 [IDS_ITEMDESC.ID1003008]
 coming soon
 [IDS_ITEMDESC.ID1003009]
@@ -811,9 +813,23 @@ Ist sie eine Erinnerung an den Anfang vom Ende oder ein Abbild der wahrhaften er
 Ein Symbol, das ein geniales Mädchen darstellt, erleuchtet vom Donner einer heiligen Jungfrau.
 So begann die Herausforderung, Energie der absoluten nächsten Generation zu erzeugen.
 [IDS_ITEMDESC.ID1010149]
-coming soon
+Ein Symbol, das <card mrk='14913'/>, einen zeitlosen HELDEN, darstellt.
+Auf der ganz großen Bühne nimmt die Begeisterung kein Ende.
 [IDS_ITEMDESC.ID1010150]
-coming soon
+Ein Symbol, das einen Mann darstellt, der die Kraft anderer <category id='185'/> beanspruchte, um Gott zu erschlagen.
+Er strebt mit allen Mitteln nach Macht, um sein Ziel zu erreichen.
+[IDS_ITEMDESC.ID1010151]
+Ein Symbol, das „<card mrk='14968'/>“ darstellt, wie sie einen gestohlenen Stab emporhält.
+Indem sie die volle Kraft des Stabs entfesselt, entwickelt sie sich zur nächsten Stufe weiter.
+[IDS_ITEMDESC.ID1010152]
+Ein Symbol, das „<card mrk='22337'/>“ in seiner veränderten Gestalt darstellt.
+Ursprünglich bereits mit einem muskulösen Körper ausgestattet, wurde er dank „<card mrk='22342'/>“ noch stärker.
+[IDS_ITEMDESC.ID1010153]
+Ein Symbol, das den ersten der Vögel darstellt, die sich in den gefährlichen Ozean stürzten.
+Unabhängig von den Umständen ist er ein Pionier, der Respekt verdient.
+[IDS_ITEMDESC.ID1010154]
+Ein Symbol, das im Paradies lebende Götter darstellt.
+Wer auch nur einen der dortigen verbotenen Schätze stiehlt, zieht mit Sicherheit den Zorn der Götter auf sich.
 [IDS_ITEMDESC.ID1010160]
 coming soon
 [IDS_ITEMDESC.ID1011001]
@@ -1323,6 +1339,9 @@ Ein exklusives Symbol, das zu besonderen Anlässen angeboten wird.
 [IDS_ITEMDESC.ID1013015]
 Ein Symbol, das jedermanns liebsten Online-Kumpel darstellt.
 Der Vorhang hebt sich für deine Reise auf dem Weg zum legendären Duellanten.
+[IDS_ITEMDESC.ID1013016]
+Ein Symbol mit einem Hauptmotiv für „Yu-Gi-Oh! CARD GAME THE CHRONICLES“.
+Das Mädchen, das alles verloren hat, beginnt einen Kampf, um sich alles zurückzuholen.
 [IDS_ITEMDESC.ID1020001]
 Ein Titel, der Duellanten verliehen wird, die ihre Duellantenreise mit Yu-Gi-Oh! MASTER DUEL.
 Es ist nie zu spät, das Duellieren zu erlernen.
@@ -2001,7 +2020,8 @@ Er wurde durch einen Sieg nach dem anderen gegen die harte Konkurrenz in der 2nd
 Ein Titel, der an Duellanten vergeben wird, die die 2nd Stage des Fusion-Cup erreicht haben.
 Er ist der Beweis dafür, dass du es durch die heiß umkämpfte 1st Stage geschafft hast.
 [IDS_ITEMDESC.ID1020227]
-coming soon
+Ein Titel, der Duellanten verliehen wird, die die Macht der legendären Monster genutzt und sich einen Namen gemacht haben.
+Eine neue Legende wird erschaffen, wenn man die größten Duellanten trifft und sich mit ihnen duelliert.
 [IDS_ITEMDESC.ID1021001]
 Ein Titel, der nur zu einem besonderen Anlass verliehen wird.
 [IDS_ITEMDESC.ID1021002]
@@ -2141,6 +2161,9 @@ Unzählige Fallen erwarten Abenteurer, die vom Glanz des Goldes und der Schätze
 [IDS_ITEMDESC.ID1030043]
 Ein gelb-schwarzer Symbol-Rahmen, dessen starker Kontrast Gefahr suggeriert.
 In der Natur dienen diese Farben als Warnsignal, das Fressfeinde abschreckt.
+[IDS_ITEMDESC.ID1030044]
+Ein Symbol-Rahmen in Limettengrün und Rosa, der an ausgefallene Neonlichter und tropische Süßigkeiten erinnert.
+Die leuchtenden, kräftigen Farben sorgen für erfrischende Energie.
 [IDS_ITEMDESC.ID1031001]
 Ein Symbol-Rahmen, der an das Tor erinnert, das die Himmelsjäger benutzen, um ihre Ausrüstung zu transferieren.
 Wenn sich der Weg für diejenigen öffnet, die für den Frieden kämpfen, erwacht eine neue Kraft zur Überwindung der Not.
@@ -2220,7 +2243,11 @@ Der Junge fand dank der Kraft des Vertrauens der Menschen um ihn herum wieder zu
 Ein Symbol-Rahmen, der an eine Mecha-Waffe mit einem geheimen Ultra-Transformationsmechanismus erinnert.
 Obwohl sich der Rahmen leider nicht transformieren lässt, ist er mit reichlich Feuer- und Elektroenergie durchdrungen.
 [IDS_ITEMDESC.ID1031027]
-coming soon
+Ein Symbol-Rahmen, der an verbotene Schätze erinnert.
+Der Preis für gewöhnliche Macht ist der Zorn des Göttlichen.
+[IDS_ITEMDESC.ID1031028]
+Ein Symbol-Rahmen, der an die Lichtringe erinnert, die bei einer Synchrobeschwörung sichtbar werden.
+Für alle, die den Pfad des Lichts mit unerschütterlicher Entschlossenheit beschreiten.
 [IDS_ITEMDESC.ID1032001]
 Ein Symbol-Rahmen in der Form einer runden Dekoration, die in manchen Regionen zum Jahresende zu sehen ist.
 Sie werden mit dem aufrichtigen Wunsch nach Glück und Freude in der kommenden Zeit aufgehängt.
@@ -2269,6 +2296,9 @@ Er wird an Duellanten verliehen, die im Synchro-Cup gute Ergebnisse erzielen kon
 [IDS_ITEMDESC.ID1033005]
 Ein Symbol-Rahmen, das den Teilnehmern des MASTER DUEL-Events der Yu-Gi-Oh! World Championship 2025 verliehen wird.
 Die nächste Stufe wartet auf dich!
+[IDS_ITEMDESC.ID1033006]
+Ein Symbol-Rahmen, der an den Moment erinnert, in dem mehrere Monster miteinander verschmelzen.
+Er wird an Duellanten verliehen, die beim Fusion-Cup gute Ergebnisse erzielt haben.
 [IDS_ITEMDESC.ID1033007]
 coming soon
 [IDS_ITEMDESC.ID1070001]
@@ -2799,7 +2829,17 @@ Für diejenigen, die ihre Gegner mit einem einzigen Schuss ausschalten.
 Kartenhüllen mit einem Illusionsmonster mit dichtem, buschigem Fell.
 Für diejenigen, die alles lieben, was flauschig ist.
 [IDS_ITEMDESC.ID1070179]
-coming soon
+Kartenhüllen, die <card mrk='14913'/> bei der Ausführung seiner Spezialattacke darstellen.
+Für alle, die das Duellieren über alles lieben.
+[IDS_ITEMDESC.ID1070180]
+Kartenhüllen, die einen riesigen <category id='152'/> darstellen, von dem unzählige Fäden ausgehen.
+Für alle, die den Schatten verfallen sind.
+[IDS_ITEMDESC.ID1070184]
+Kartenhüllen, die den Strudel der Monsterfusion darstellen.
+Für alle, deren Taktik auf Fusionsbeschwörungen basiert.
+[IDS_ITEMDESC.ID1070189]
+Kartenhüllen, die als Verfechter der Gerechtigkeit auf Hilferufe reagieren.
+Für alle, deren Hoffnung niemals wankt.
 [IDS_ITEMDESC.ID1070191]
 coming soon
 [IDS_ITEMDESC.ID1070192]
@@ -3611,7 +3651,8 @@ coming soon
 [IDS_ITEMDESC.ID1101043]
 coming soon
 [IDS_ITEMDESC.ID1101044]
-coming soon
+Spielfeldteile, die einem verbotenen Schatz nachempfunden sind.
+Ob Nachbildung oder nicht, es wäre ratsam, vorsichtig damit umzugehen.
 [IDS_ITEMDESC.ID1101045]
 Spielfeldteile, die Geistern nachempfunden sind, welche in morgendlichen Getränken hausen.
 Eine morgendliche Teeparty verleiht jedem ein Gefühl der Erfrischung.
@@ -3938,10 +3979,14 @@ Trauernde Flammen durchdringen jeden Winkel dieser verfluchten Welt.
 Ein Stand, inspiriert von einer wirbelnden Energie, die aus der Natur stammt.
 Empfange die Aura, die er ausstrahlt, und werde mit Vitalität erfüllt.
 [IDS_ITEMDESC.ID1111078]
-coming soon
+Ein Stand, inspiriert von dem Brot, das in einem bestimmten Schulkiosk verkauft wird.
+Die Füllung ist zufällig und das goldene Ei scheint der Hauptgewinn zu sein.
 [IDS_ITEMDESC.ID1111080]
 Ein Stand, inspiriert von einem Drachen mit dem Namen „<category id='158'/>“.
 Überwältigende Kraft reißt ein Loch in eine abgeschottete Welt.
+[IDS_ITEMDESC.ID1111081]
+Ein Stand, inspiriert von „<card mrk='11268'/>“.
+Die Besessenen verlieren den Verstand und werden zu leeren Hüllen.
 [IDS_ITEMDESC.ID1111082]
 coming soon
 [IDS_ITEMDESC.ID1112001]
@@ -4444,9 +4489,20 @@ Vom Phonographen an seinem rechten Arm sendet es elektromagnetische Wellen aus, 
 Ein heiliger Drache, der den Kosmos mit geheimnisvollen Klängen erfüllt.
 Das majestätische Wesen, das sich um einen ganzen Planeten windet, besitzt eine wahrhaft göttliche Aura.
 [IDS_ITEMDESC.ID1130137]
-coming soon
+Der legendäre <card mrk='14913'/>.
+Für jeden HELDEN gibt es eine Bühne, die seiner Macht würdig ist.
 [IDS_ITEMDESC.ID1130138]
-coming soon
+Der Mann nahm <card mrk='22169'/> aus einem einzigen Grund an: um Gott zu erschlagen.
+Und so entfalteten sich die schwarzen Schwingen und erhoben sich durch die Dämmerung, um den Himmel ein drittes Mal zu zerreißen.
+[IDS_ITEMDESC.ID1130139]
+Inmitten der Ereignisse rund um die Wiederbelebung von „<card mrk='9997'/>“ nahm „<card mrk='9167'/>“ göttliche Wellen in sich auf.
+Sie wurde von „<card mrk='12762'/>“ gezielt wieder zum Leben erweckt.
+[IDS_ITEMDESC.ID1130140]
+Sie hebt die Hand und entfesselt einen Blitz aus blauem Licht.
+Als König aller Blitze vernichtet er alles, was er trifft.
+[IDS_ITEMDESC.ID1130150]
+„<card mrk='22932'/>“ stellt sich dem angreifenden „<card mrk='22934'/>“.
+Wird der verzweifelte Gegenangriff ausreichen, um den Wahnsinn zu stoppen?
 [IDS_ITEMDESC.ID1130151]
 coming soon
 [IDS_ITEMDESC.ID1132001]
@@ -4528,9 +4584,14 @@ Man sagt: Wer <category id='031'/> sammelt, dem wird die Tür zu neuen Begegnung
 Ein Sammelordner, basierend auf einer weltweit geliebten Erzählung.
 Man sagt, wenn man <category id='172'/>-Karten sammelt, beginnt die Tür zu Begegnungen mit Feen zu leuchten.
 [IDS_ITEMDESC.ID1170016]
-coming soon
+Ein Sammelordner für edle Helden der Gerechtigkeit, die sich auf Fusionsbeschwörungen spezialisieren.
+Es heißt, dass das Tor zu unbekannter Macht erstrahlt, sobald man genügend <category id='197'/> gesammelt hat.
 [IDS_ITEMDESC.ID1170017]
-coming soon
+Ein Sammelordner für Engel, die aus dem Paradies gefallen sind.
+Es heißt, dass das verbotene Tor erstrahlt, wenn man <category id='185'/> sammelt.
+[IDS_ITEMDESC.ID1170018]
+Eine Sammelordner über jene, die im früheren großen Krieg ihr Leben ließen.
+Es heißt, dass die Tür, die in den Schatten versunken war, zu leuchten beginnt, sobald man <category id='152'/> gesammelt hat.
 [IDS_ITEMDESC.ID1180001]
 Eine Münze, deren Motiv der leuchtende Drache ist, der eine neue Legende hervorbringt.
 Seine himmelblauen Augen schimmern.
@@ -4601,7 +4662,8 @@ Seine Entschlossenheit, sich seinem Schicksal entgegenzustellen, strahlt hell.
 Eine Münze, die Feen aus einem kleinen Königreich darstellt – einem Ort, an dem die Geschichten voller Leben sind.
 Geschichten aus allen Zeiten und Orten erstrahlen darin.
 [IDS_ITEMDESC.ID1180025]
-coming soon
+Eine Münze, die das Emblem der edlen Gerechtigkeit darstellt.
+Das Zeichen funkelt auf der Suche nach Erlösung.
 [IDS_ITEMDESC.ID1190001]
 Die maximale Anzahl der Lesezeichen, die du besitzen kannst, kann erhöht werden.
 [IDS_ITEMDESC.ID0000]

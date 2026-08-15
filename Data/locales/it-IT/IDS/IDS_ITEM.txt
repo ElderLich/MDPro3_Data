@@ -87,7 +87,7 @@ Dinowrestler Pankratopo
 [IDS_ITEM.ID1000046]
 Beat, Schermidore Pelliccia Mercenaria
 [IDS_ITEM.ID1000047]
-coming soon
+Soldato Pinguino
 [IDS_ITEM.ID1001001]
 Fusione Istantanea
 [IDS_ITEM.ID1001002]
@@ -205,7 +205,7 @@ I:P Masquerena e S-Forza Rappa Chiyomaru
 [IDS_ITEM.ID1003006]
 Caduto di Albaz
 [IDS_ITEM.ID1003007]
-coming soon
+Neos EROE Elementale
 [IDS_ITEM.ID1005001]
 Coniglio da Soccorso
 [IDS_ITEM.ID1010001]
@@ -501,17 +501,17 @@ Caduto del Drago Bianco
 [IDS_ITEM.ID1010148]
 Tri-Brigata Springans Kitt
 [IDS_ITEM.ID1010149]
-coming soon
+Uomo Alato della Fiamma EROE Preferito
 [IDS_ITEM.ID1010150]
-coming soon
+Signore Oscuro Stella della Sera
 [IDS_ITEM.ID1010151]
-coming soon
+Fusione Lev Bambolaombra
 [IDS_ITEM.ID1010152]
-coming soon
+GMX - ALLOS
 [IDS_ITEM.ID1010153]
-coming soon
+Primo Pinguino
 [IDS_ITEM.ID1010154]
-coming soon
+Rimprovero Solenne
 [IDS_ITEM.ID1010160]
 coming soon
 [IDS_ITEM.ID1011001]
@@ -657,13 +657,13 @@ Finalista Argento "Qualificazioni del WCS 2026"
 [IDS_ITEM.ID1011071]
 Finalista Bronzo "Qualificazioni del WCS 2026"
 [IDS_ITEM.ID1011072]
-Finalista Oro Coppa Fusione
-[IDS_ITEM.ID1011073]
-Finalista Argento Coppa Fusione
-[IDS_ITEM.ID1011074]
-Finalista Bronzo Coppa Fusione
-[IDS_ITEM.ID1011075]
 Campione Coppa Fusione
+[IDS_ITEM.ID1011073]
+Finalista Oro Coppa Fusione
+[IDS_ITEM.ID1011074]
+Finalista Argento Coppa Fusione
+[IDS_ITEM.ID1011075]
+Finalista Bronzo Coppa Fusione
 [IDS_ITEM.ID1011079]
 coming soon
 [IDS_ITEM.ID1011080]
@@ -863,7 +863,7 @@ Duellante Ombra Zester
 [IDS_ITEM.ID1013015]
 Wumpus
 [IDS_ITEM.ID1013016]
-coming soon
+Diabellstar la Strega Nera
 [IDS_ITEM.ID1020001]
 Duellante principiante
 [IDS_ITEM.ID1020002]
@@ -1316,6 +1316,8 @@ Top 1000 Coppa Fusione
 Top 10000 Coppa Fusione
 [IDS_ITEM.ID1020226]
 Duellante 2nd stage Coppa Fusione
+[IDS_ITEM.ID1020227]
+Il Mio Preferito
 [IDS_ITEM.ID1020228]
 coming soon
 [IDS_ITEM.ID1020229]
@@ -1422,6 +1424,8 @@ Cornice rossa e bianca
 Mimighoul Fiore
 [IDS_ITEM.ID1030043]
 Cornice gialla e nera
+[IDS_ITEM.ID1030044]
+Cornice lime e rosa
 [IDS_ITEM.ID1031001]
 Il cammino dell'Assaltatrice del Cielo blu
 [IDS_ITEM.ID1031002]
@@ -1475,9 +1479,9 @@ Albion il Drago Ammantato
 [IDS_ITEM.ID1031026]
 Ryzeal Palmo
 [IDS_ITEM.ID1031027]
-coming soon
+Corona Proibita
 [IDS_ITEM.ID1031028]
-coming soon
+Anello Synchro β
 [IDS_ITEM.ID1032001]
 Ornamento festivo
 [IDS_ITEM.ID1032002]
@@ -1511,7 +1515,7 @@ Anello Synchro
 [IDS_ITEM.ID1033005]
 Premio di partecipazione al "WCS 2025"
 [IDS_ITEM.ID1033006]
-Polimerizzazione Maggiore
+Vortice di Fusione
 [IDS_ITEM.ID1033007]
 coming soon
 [IDS_ITEM.ID1070001]
@@ -1869,13 +1873,13 @@ Cannone Ferroviario Supercorazzato Juggernaut Liebe
 [IDS_ITEM.ID1070178]
 Mokomoko
 [IDS_ITEM.ID1070179]
-coming soon
+Eroe Preferito
 [IDS_ITEM.ID1070180]
-coming soon
+El Bambolaombra Costrutto
 [IDS_ITEM.ID1070184]
-coming soon
+Polimerizzazione
 [IDS_ITEM.ID1070189]
-coming soon
+Quinta Speranza
 [IDS_ITEM.ID1070190]
 coming soon
 [IDS_ITEM.ID1070191]
@@ -2415,7 +2419,7 @@ Fantasma di Halloween
 [IDS_ITEM.ID1101041]
 Ghirlanda
 [IDS_ITEM.ID1101044]
-coming soon
+Corona Proibita
 [IDS_ITEM.ID1101045]
 WAKE CUP!
 [IDS_ITEM.ID1102001]
@@ -2617,11 +2621,11 @@ Drago Rosa Rovo
 [IDS_ITEM.ID1111077]
 Spirale Dominus
 [IDS_ITEM.ID1111078]
-coming soon
+Giorno del Panino
 [IDS_ITEM.ID1111080]
 Callibro
 [IDS_ITEM.ID1111081]
-coming soon
+Fusione Bambolaombra
 [IDS_ITEM.ID1111082]
 coming soon
 [IDS_ITEM.ID1112001]
@@ -2975,15 +2979,15 @@ Zilofthonia Gorgon
 [IDS_ITEM.ID1130136]
 Fydraulis Harmonia
 [IDS_ITEM.ID1130137]
-coming soon
+Uomo Alato della Fiamma EROE Preferito
 [IDS_ITEM.ID1130138]
-coming soon
+Signore Oscuro Stella della Sera
 [IDS_ITEM.ID1130139]
-coming soon
+El Bambolaombra Winda
 [IDS_ITEM.ID1130140]
-coming soon
+Scintilla Dominus
 [IDS_ITEM.ID1130150]
-coming soon
+Anti-GMX Esperimento Finale
 [IDS_ITEM.ID1130151]
 coming soon
 [IDS_ITEM.ID1132001]
@@ -3041,11 +3045,11 @@ Il Caduto & La Virtuosa
 [IDS_ITEM.ID1170015]
 Codafavola
 [IDS_ITEM.ID1170016]
-coming soon
+EROE Elementale
 [IDS_ITEM.ID1170017]
-coming soon
+Signore Oscuro
 [IDS_ITEM.ID1170018]
-coming soon
+Bambolaombra
 [IDS_ITEM.ID1170022]
 coming soon
 [IDS_ITEM.ID1180001]
@@ -3097,7 +3101,7 @@ Caduto di Albaz
 [IDS_ITEM.ID1180024]
 Codafavola
 [IDS_ITEM.ID1180025]
-coming soon
+EROE Elementale
 [IDS_ITEM.ID1190001]
 Slot Segnalibro
 [IDS_ITEM.ID0000]

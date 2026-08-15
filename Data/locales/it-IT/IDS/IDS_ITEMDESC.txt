@@ -127,7 +127,8 @@ Sfrutta le sue potenti braccia per infliggere pugni devastanti e prese soffocant
 Un giovane spadaccino <category id='174'/> che prende l'iniziativa.
 Ha deciso di prendersi cura di "<card mrk='17783'/>".
 [IDS_ITEMDESC.ID1000047]
-coming soon
+Un soldato Pinguino di basso rango che impugna una spada.
+Attaccano tutti insieme come un gruppo.
 [IDS_ITEMDESC.ID1001001]
 Una coppa di ramen istantaneo che sembra possa donarti il potere di Evocare tramite Fusione.
 Solo perché è ramen istantaneo, non significa che non sia buono!
@@ -361,7 +362,8 @@ Questa notte, ricomincia l'inseguimento illuminato dai neon.
 Un ragazzo il cui potere del drago si risveglia quando si trova in una situazione difficile.
 Il suo nome si riferisce al passato, sepolto nell'oscurità, o a un radioso futuro?
 [IDS_ITEMDESC.ID1003007]
-coming soon
+Un EROE giunto dal Neo-Spazio,
+Il suo potere misterioso racchiude infinite possibilità e si dice che possa compiere miracoli.
 [IDS_ITEMDESC.ID1003008]
 coming soon
 [IDS_ITEMDESC.ID1003009]
@@ -811,9 +813,23 @@ Un'icona che raffigura una scena dall'anima di <card mrk='18498'/>.
 Un'icona che raffigura una ragazza geniale illuminata dal fulmine di una fanciulla sacra.
 Così iniziò la sfida per produrre un'energia di nuova generazione avanzatissima.
 [IDS_ITEMDESC.ID1010149]
-coming soon
+Un'icona che raffigura <card mrk='14913'/>, un EROE senza tempo.
+Sul più grande dei palcoscenici, l'emozione non finisce mai.
 [IDS_ITEMDESC.ID1010150]
-coming soon
+Un'icona che raffigura un uomo che ha rivendicato la forza di altri <category id='185'/> per uccidere Dio.
+È disposto a tutto pur di ottenere il potere e raggiungere il suo obiettivo.
+[IDS_ITEMDESC.ID1010151]
+Un'icona che raffigura "<card mrk='14968'/>" che brandisce un bastone rubato.
+Sfruttandone tutto il potere, si evolve al livello successivo.
+[IDS_ITEMDESC.ID1010152]
+Un'icona che raffigura "<card mrk='22337'/>" nella sua forma mutata.
+Pur avendo un fisico già muscoloso, è diventato ancora più forte grazie a "<card mrk='22342'/>".
+[IDS_ITEMDESC.ID1010153]
+Un'icona che raffigura il primo degli uccelli a balzare nel pericoloso oceano.
+Indipendentemente dalle circostanze, è un pioniere degno di rispetto.
+[IDS_ITEMDESC.ID1010154]
+Un'icona che raffigura degli dei che vivono nel paradiso.
+Rubare uno qualsiasi dei tesori proibiti al suo interno attirerà sicuramente l'ira divina.
 [IDS_ITEMDESC.ID1010160]
 coming soon
 [IDS_ITEMDESC.ID1011001]
@@ -1322,6 +1338,9 @@ Un'icona esclusiva offerta in occasioni speciali.
 [IDS_ITEMDESC.ID1013015]
 Un'icona che raffigura l'amico online preferito di tutti.
 Si alza il sipario sul tuo viaggio per diventare un Duellante leggendario.
+[IDS_ITEMDESC.ID1013016]
+Un'icona che raffigura l'immagine principale di "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
+La ragazza che ha perso tutto inizia una battaglia per riconquistarlo.
 [IDS_ITEMDESC.ID1020001]
 Un titolo dato ai Duellanti che hanno iniziato il loro viaggio nel mondo dei Duelli con Yu-Gi-Oh! MASTER DUEL.
 Non è mai troppo tardi per iniziare a Duellare.
@@ -2000,7 +2019,8 @@ Ottenuto grazie a una vittoria dopo l'altra contro avversari agguerriti nella 2�
 Titolo conferito ai Duellanti che hanno raggiunto la 2ª fase nella Coppa Fusione.
 Questa è la prova del superamento della combattutissima 1ª fase.
 [IDS_ITEMDESC.ID1020227]
-coming soon
+Un titolo dato ai Duellanti che hanno padroneggiato il potere dei Mostri Leggendari e si sono fatti un nome.
+Dall'incontro e dallo scontro dei duellanti migliori nascerà una nuova leggenda.
 [IDS_ITEMDESC.ID1021001]
 Un titolo conferito solo per un'occasione speciale.
 [IDS_ITEMDESC.ID1021002]
@@ -2140,6 +2160,9 @@ Innumerevoli trappole attendono gli avventurieri abbagliati dal fascino dell'oro
 [IDS_ITEMDESC.ID1030043]
 Una Cornice icona gialla e nera il cui forte contrasto trasmette un senso di pericolo.
 In natura, questi colori sono un segno di avvertimento che tiene alla larga i predatori.
+[IDS_ITEMDESC.ID1030044]
+Una cornice icona lime e rosa che evoca vivaci luci al neon e dolci tropicali.
+I colori brillanti e vivaci aggiungono un'energia rinfrescante.
 [IDS_ITEMDESC.ID1031001]
 Una cornice icona che ricorda il cancello usato dalle Assaltatrici del Cielo per spostare i loro armamenti.
 Quando il cammino si apre a coloro che lottano per la pace, un nuovo potere che consente di superare le avversità si risveglia.
@@ -2219,7 +2242,11 @@ Il ragazzo ha ripreso i sensi grazie al potere della fiducia di chi lo circondav
 Una cornice icona che evoca un'arma meccanica con un meccanismo segreto di ultra trasformazione.
 Anche se la cornice, sfortunatamente, non può trasformarsi, è ricca di energia di fuoco ed elettricità.
 [IDS_ITEMDESC.ID1031027]
-coming soon
+Una cornice icona che evoca un tesoro proibito.
+Il prezzo del potere sacrilego è l'ira del divino.
+[IDS_ITEMDESC.ID1031028]
+Una cornice icona che evoca gli anelli di luce visibili quando si Synchro Evoca.
+Per coloro che percorrono la via della luce con una determinazione incrollabile.
 [IDS_ITEMDESC.ID1032001]
 Una cornice icona a forma di decorazione circolare, che viene usata in determinate regioni quando l'anno volge al termine.
 Vengono appese in segno di sincero augurio di felicità e gioia per il futuro.
@@ -2268,6 +2295,9 @@ Viene assegnata ai Duellanti che hanno ottenuto buoni risultati nella Coppa Sync
 [IDS_ITEMDESC.ID1033005]
 Una cornice icona per premiare i partecipanti di MASTER DUEL allo "Yu-Gi-Oh! World Championship 2025".
 Il prossimo livello ti attende!
+[IDS_ITEMDESC.ID1033006]
+Una cornice icona che evoca il momento in cui più mostri si fondono insieme.
+Viene assegnata ai Duellanti che hanno ottenuto buoni risultati nella Coppa Fusione.
 [IDS_ITEMDESC.ID1033007]
 coming soon
 [IDS_ITEMDESC.ID1070001]
@@ -2797,7 +2827,17 @@ Per chi vuole eliminare i propri avversari con un colpo solo.
 Protettori che raffigurano un mostro Illusione con un folto e spesso manto di pelliccia.
 Per gli amanti di tutto ciò che è morbido.
 [IDS_ITEMDESC.ID1070179]
-coming soon
+Protettori che raffigurano <card mrk='14913'/> mentre scatena la sua mossa speciale.
+Per chi ama il Duello più di chiunque altro.
+[IDS_ITEMDESC.ID1070180]
+Protettori che raffigurano un gigante <category id='152'/> da cui si dipartono numerosi fili.
+Per coloro che sono caduti nelle ombre.
+[IDS_ITEMDESC.ID1070184]
+Protettori che raffigurano il vortice della fusione dei mostri.
+Per coloro le cui tattiche si basano sulle Evocazioni tramite Fusione.
+[IDS_ITEMDESC.ID1070189]
+Protettori che raffigurano paladini della giustizia che rispondono alle richieste di aiuto.
+Per coloro che non perdono mai la speranza.
 [IDS_ITEMDESC.ID1070191]
 coming soon
 [IDS_ITEMDESC.ID1070192]
@@ -3610,7 +3650,8 @@ coming soon
 [IDS_ITEMDESC.ID1101043]
 coming soon
 [IDS_ITEMDESC.ID1101044]
-coming soon
+Parti del Terreno modellate su un tesoro proibito.
+Che sia una replica o meno, è meglio maneggiarlo con cautela.
 [IDS_ITEMDESC.ID1101045]
 Parti del Terreno ispirate agli spiriti che si ritrovano nelle bevande mattutine.
 Un tè mattutino rende tutti più freschi.
@@ -3937,10 +3978,14 @@ Fiamme dolorose trafiggono ogni angolo di questo mondo maledetto.
 Uno stand ispirato a un'energia vorticosa generata dalla natura.
 Accogli l'aura che emana e fatti riempire di vitalità.
 [IDS_ITEMDESC.ID1111078]
-coming soon
+Uno stand ispirato al pane venduto in un certo negozio della scuola.
+Il contenuto è casuale e sembra che l'uovo dorato sia il più apprezzato.
 [IDS_ITEMDESC.ID1111080]
 Uno stand ispirato a un drago recante il nome "<category id='158'/>".
 Un potere travolgente apre un varco in un mondo isolato.
+[IDS_ITEMDESC.ID1111081]
+Uno stand ispirato a "<card mrk='11268'/>".
+I Posseduti hanno perso la ragione, diventando semplici corpi vuoti.
 [IDS_ITEMDESC.ID1111082]
 coming soon
 [IDS_ITEMDESC.ID1112001]
@@ -4444,9 +4489,20 @@ Dal fonografo che ha sul braccio destro, emette onde elettromagnetiche in grado 
 Un drago sacro che riempie il cosmo di suoni misteriosi.
 La magnifica creatura, avvolta attorno a un intero pianeta, emana un'aura davvero divina.
 [IDS_ITEMDESC.ID1130137]
-coming soon
+Il leggendario <card mrk='14913'/>.
+Per ogni EROE, c'è un palcoscenico degno della sua forza.
 [IDS_ITEMDESC.ID1130138]
-coming soon
+L'uomo ha accettato <card mrk='22169'/> per un solo motivo: uccidere Dio.
+E così le ali nere si spalancarono, volando nel crepuscolo per lacerare i cieli per la terza volta.
+[IDS_ITEMDESC.ID1130139]
+Coinvolta negli eventi legati alla rinascita di "<card mrk='9997'/>", "<card mrk='9167'/>" ha assorbito onde divine.
+È intenzionata a riportare la vita con "<card mrk='12762'/>".
+[IDS_ITEMDESC.ID1130140]
+Alza la mano e scatena un lampo di luce blu.
+Il re di tutti i fulmini, distrugge ogni cosa che colpisce.
+[IDS_ITEMDESC.ID1130150]
+"<card mrk='22932'/>" affronta l'attacco di "<card mrk='22934'/>".
+Il contrattacco disperato basterà a fermare la follia?
 [IDS_ITEMDESC.ID1130151]
 coming soon
 [IDS_ITEMDESC.ID1132001]
@@ -4528,9 +4584,14 @@ Dicono che quando si ottiene <category id='031'/>, la porta verso nuovi incontri
 Un Album del Collezionista basato su un racconto apprezzato in tutto il mondo.
 Dicono che quando si ottengono <category id='172'/> carte, la porta per gli incontri con le fate risplenderà.
 [IDS_ITEMDESC.ID1170016]
-coming soon
+Un Album del Collezionista per nobili eroi della giustizia che eccellono nell'Evocare tramite Fusione.
+Si dice che quando qualcuno raccoglie <category id='197'/>, la porta per un potere ignoto si aprirà.
 [IDS_ITEMDESC.ID1170017]
-coming soon
+Un Album del Collezionista per gli angeli caduti dal paradiso.
+Si dice che quando qualcuno raccoglie <category id='185'/>, la porta proibita si aprirà.
+[IDS_ITEMDESC.ID1170018]
+Un Album del Collezionista di coloro che hanno perso la vita nella precedente grande guerra.
+Si dice che quando qualcuno raccoglie <category id='152'/>, la porta caduta nelle ombre risplenderà.
 [IDS_ITEMDESC.ID1180001]
 Una moneta con il motivo del drago luminoso che dà vita a una nuova leggenda.
 I suoi occhi blu risplendono.
@@ -4601,7 +4662,8 @@ La sua determinazione nello sfidare il destino brilla intensamente.
 Una moneta che raffigura delle fate di un piccolo regno dove i racconti sono pieni di spirito.
 Al suo interno risplendono storie di altri tempi e luoghi.
 [IDS_ITEMDESC.ID1180025]
-coming soon
+Una moneta che raffigura l'emblema della giustizia nobile.
+Il segnale brilla in cerca di salvezza.
 [IDS_ITEMDESC.ID1190001]
 Il numero massimo di segnalibri che puoi possedere può essere aumentato.
 [IDS_ITEMDESC.ID0000]

@@ -83,7 +83,7 @@ No.41 泥睡魔獸睡夢貘
 [IDS_ITEM.ID1000046]
 空牙團的劍士 比特
 [IDS_ITEM.ID1000047]
-coming soon
+企鵝士兵
 [IDS_ITEM.ID1001001]
 簡易融合
 [IDS_ITEM.ID1001002]
@@ -201,7 +201,7 @@ I:P 百變萊娜 & 超元特防隊 亂破小夜丸
 [IDS_ITEM.ID1003006]
 阿爾白斯之落胤
 [IDS_ITEM.ID1003007]
-coming soon
+元素－英雄 新宇俠
 [IDS_ITEM.ID1005001]
 救援兔
 [IDS_ITEM.ID1010001]
@@ -497,17 +497,17 @@ CNo.101 寂靜榮耀黑暗騎士
 [IDS_ITEM.ID1010148]
 鐵獸守寶團 炎工之姬特
 [IDS_ITEM.ID1010149]
-coming soon
+至愛－英雄 火焰翼人
 [IDS_ITEM.ID1010150]
-coming soon
+黃昏的墮天使 路西法
 [IDS_ITEM.ID1010151]
-coming soon
+心影依結合
 [IDS_ITEM.ID1010152]
-coming soon
+GMX－異特種ALLOS
 [IDS_ITEM.ID1010153]
-coming soon
+先驅企鵝
 [IDS_ITEM.ID1010154]
-coming soon
+神之忠告
 [IDS_ITEM.ID1010160]
 coming soon
 [IDS_ITEM.ID1011001]
@@ -653,13 +653,13 @@ WCS 2026 預選賽 銀牌戰贏家
 [IDS_ITEM.ID1011071]
 WCS 2026 預選賽 銅牌戰贏家
 [IDS_ITEM.ID1011072]
-融合盃 金牌戰贏家
-[IDS_ITEM.ID1011073]
-融合盃 銀牌戰贏家
-[IDS_ITEM.ID1011074]
-融合盃 銅牌戰贏家
-[IDS_ITEM.ID1011075]
 融合盃冠軍
+[IDS_ITEM.ID1011073]
+融合盃 金牌戰贏家
+[IDS_ITEM.ID1011074]
+融合盃 銀牌戰贏家
+[IDS_ITEM.ID1011075]
+融合盃 銅牌戰贏家
 [IDS_ITEM.ID1011079]
 coming soon
 [IDS_ITEM.ID1011080]
@@ -859,7 +859,7 @@ Shadow Duelist Zester
 [IDS_ITEM.ID1013015]
 Wumpus
 [IDS_ITEM.ID1013016]
-coming soon
+黑魔女 迪亞貝爾斯塔
 [IDS_ITEM.ID1020001]
 初出茅廬的決鬥者
 [IDS_ITEM.ID1020002]
@@ -1312,6 +1312,8 @@ WCS 2026 預選賽 DLv.MAX
 融合盃 TOP10000
 [IDS_ITEM.ID1020226]
 融合盃 2nd STAGE晉級者
+[IDS_ITEM.ID1020227]
+我的摯愛
 [IDS_ITEM.ID1020228]
 coming soon
 [IDS_ITEM.ID1020229]
@@ -1418,6 +1420,8 @@ coming soon
 迷擬寶箱鬼・食人花
 [IDS_ITEM.ID1030043]
 黃＆黑邊框
+[IDS_ITEM.ID1030044]
+萊姆＆粉紅邊框
 [IDS_ITEM.ID1031001]
 藍閃刀裝路
 [IDS_ITEM.ID1031002]
@@ -1471,9 +1475,9 @@ K9－17號 飯綱
 [IDS_ITEM.ID1031026]
 脈離・雷熱渦爐
 [IDS_ITEM.ID1031027]
-coming soon
+禁忌的聖冠
 [IDS_ITEM.ID1031028]
-coming soon
+同步之環 β
 [IDS_ITEM.ID1032001]
 節日裝飾
 [IDS_ITEM.ID1032002]
@@ -1507,7 +1511,7 @@ WCS2024參賽紀念
 [IDS_ITEM.ID1033005]
 WCS2025參賽紀念
 [IDS_ITEM.ID1033006]
-大融合
+融合漩渦
 [IDS_ITEM.ID1033007]
 coming soon
 [IDS_ITEM.ID1070001]
@@ -1865,13 +1869,13 @@ R.B.布魯特・布魯斯
 [IDS_ITEM.ID1070178]
 毛可毛可
 [IDS_ITEM.ID1070179]
-coming soon
+摯愛英雄
 [IDS_ITEM.ID1070180]
-coming soon
+神影依・拿菲莉
 [IDS_ITEM.ID1070184]
-coming soon
+融合
 [IDS_ITEM.ID1070189]
-coming soon
+第五希望
 [IDS_ITEM.ID1070190]
 coming soon
 [IDS_ITEM.ID1070191]
@@ -2411,7 +2415,7 @@ coming soon
 [IDS_ITEM.ID1101041]
 花圈
 [IDS_ITEM.ID1101044]
-coming soon
+禁忌的聖冠
 [IDS_ITEM.ID1101045]
 威咖杯！
 [IDS_ITEM.ID1102001]
@@ -2613,11 +2617,11 @@ coming soon
 [IDS_ITEM.ID1111077]
 命主王之螺旋
 [IDS_ITEM.ID1111078]
-coming soon
+抽牌麵包
 [IDS_ITEM.ID1111080]
 槍管
 [IDS_ITEM.ID1111081]
-coming soon
+影依融合
 [IDS_ITEM.ID1111082]
 coming soon
 [IDS_ITEM.ID1112001]
@@ -2971,15 +2975,15 @@ I:P 百變萊娜 & S：P小夜騎士
 [IDS_ITEM.ID1130136]
 調和之天救龍
 [IDS_ITEM.ID1130137]
-coming soon
+至愛－英雄 火焰翼人
 [IDS_ITEM.ID1130138]
-coming soon
+黃昏的墮天使 路西法
 [IDS_ITEM.ID1130139]
-coming soon
+神影依・米德拉許
 [IDS_ITEM.ID1130140]
-coming soon
+霆主王之閃光
 [IDS_ITEM.ID1130150]
-coming soon
+反GMX最終驗證
 [IDS_ITEM.ID1130151]
 coming soon
 [IDS_ITEM.ID1132001]
@@ -3035,11 +3039,11 @@ K9
 [IDS_ITEM.ID1170015]
 妖精傳姬
 [IDS_ITEM.ID1170016]
-coming soon
+E・HERO
 [IDS_ITEM.ID1170017]
-coming soon
+墮天使
 [IDS_ITEM.ID1170018]
-coming soon
+影依
 [IDS_ITEM.ID1170022]
 coming soon
 [IDS_ITEM.ID1180001]
@@ -3091,7 +3095,7 @@ EM：P榴彈貓
 [IDS_ITEM.ID1180024]
 妖精傳姬
 [IDS_ITEM.ID1180025]
-coming soon
+E・HERO
 [IDS_ITEM.ID1190001]
 收藏空位
 [IDS_ITEM.ID0000]

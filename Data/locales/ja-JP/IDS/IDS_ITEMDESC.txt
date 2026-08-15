@@ -132,7 +132,8 @@ coming soon
 先陣を切る<category id='174'/>の若き剣士。
 「<card mrk='17783'/>」の世話を買って出た。
 [IDS_ITEMDESC.ID1000047]
-coming soon
+剣を構えたペンギンの下級兵士。
+みんなでまとまって攻撃を仕掛けてくる。
 [IDS_ITEMDESC.ID1000048]
 coming soon
 [IDS_ITEMDESC.ID1000049]
@@ -372,7 +373,8 @@ coming soon
 窮地に抗い覚醒する竜の力を秘めた少年。
 その名が示すは、闇に閉ざされし過去か、光輝く未来か。
 [IDS_ITEMDESC.ID1003007]
-coming soon
+ネオスペースからやってきたヒーロー。
+可能性を秘めた未知なる力が奇跡を起こすと言われている。
 [IDS_ITEMDESC.ID1003008]
 coming soon
 [IDS_ITEMDESC.ID1003009]
@@ -822,17 +824,23 @@ coming soon
 聖女の雷霆を見て閃く天才少女の姿が描かれたアイコン。
 超次世代エネルギーを生み出すための挑戦が始まった。
 [IDS_ITEMDESC.ID1010149]
-coming soon
+永遠の<card mrk='14913'/>の姿が描かれたアイコン。
+最高の舞台にわくわくする気持ちが止まらない。
 [IDS_ITEMDESC.ID1010150]
-coming soon
+神を討つために他の<category id='185'/>を取り込んだ男の姿が描かれたアイコン。
+その目的のためならば手段を選ばずに力を求める。
 [IDS_ITEMDESC.ID1010151]
-coming soon
+奪った杖をかざす「<card mrk='14968'/>」の姿が描かれたアイコン。
+杖の力を最大限引き出し、次なる段階へと進化する。
 [IDS_ITEMDESC.ID1010152]
-coming soon
+「<card mrk='22337'/>」が変貌してしまった姿が描かれたアイコン。
+元から持つ強靭な肉体は<card mrk='22342'/>により更なる強化を得た。
 [IDS_ITEMDESC.ID1010153]
-coming soon
+危険な海に最初に飛び込む一羽の姿が描かれたアイコン。
+飛び込む経緯はどうあれ、敬意を払うべき先駆者である。
 [IDS_ITEMDESC.ID1010154]
-coming soon
+楽園に住まう神の姿が描かれたアイコン。
+そこには数々の禁じられた宝具があり、持ち出した者は神の怒りに触れるという。
 [IDS_ITEMDESC.ID1010155]
 coming soon
 [IDS_ITEMDESC.ID1010156]
@@ -1387,7 +1395,8 @@ coming soon
 みんなの一番のオンライン友達が描かれたアイコン。
 これが君の伝説のデュエリストへと続く道の幕開けだ。
 [IDS_ITEMDESC.ID1013016]
-coming soon
+「Yu-Gi-Oh! CARD GAME THE CHRONICLES」のキービジュアルがデザインされたアイコン。
+全てを奪われた少女の全てを奪う戦いが始まる。
 [IDS_ITEMDESC.ID1013017]
 coming soon
 [IDS_ITEMDESC.ID1013018]
@@ -2082,7 +2091,8 @@ Yu-Gi-Oh! World Championship 2025 ：マスターデュエルにおいて、BEST
 「フュージョンカップ」において、2nd STAGE進出という結果を残したデュエリストに贈られる称号。
 数多くのデュエリストが争う1st STAGEを勝ち抜き、実力を示した証。
 [IDS_ITEMDESC.ID1020227]
-coming soon
+伝説のモンスターたちを使いこなし、結果を残したデュエリストに贈られる称号。
+多くのデュエリストとの出会いと戦いが、新たな伝説を創り上げる。
 [IDS_ITEMDESC.ID1020228]
 coming soon
 [IDS_ITEMDESC.ID1020229]
@@ -2245,7 +2255,8 @@ coming soon
 強いコントラストで危険性を想起させるイエロー&ブラックのアイコンフレーム。
 自然界でも注意警告を示し捕食者を躊躇わせることができる。
 [IDS_ITEMDESC.ID1030044]
-coming soon
+ポップなネオンやトロピカルキャンディーを想起させるライム&ピンクのアイコンフレーム。
+明るく弾ける色味がフレッシュなエネルギーを与えてくれる。
 [IDS_ITEMDESC.ID1030045]
 coming soon
 [IDS_ITEMDESC.ID1030046]
@@ -2377,9 +2388,11 @@ coming soon
 超変形機構を秘めたマシン兵器を想起させるアイコンフレーム。
 こちらは残念ながら変形しないが、炎雷のエネルギーは充填されている。
 [IDS_ITEMDESC.ID1031027]
-coming soon
+禁じられた宝具を想起させるアイコンフレーム。
+禁断の力を得ることは神の怒りに触れることと等しい。
 [IDS_ITEMDESC.ID1031028]
-coming soon
+シンクロ召喚の時に現れる光の輪を想起させるアイコンフレーム。
+光さす道を駆け抜けようとする強い意思を感じる。
 [IDS_ITEMDESC.ID1031029]
 coming soon
 [IDS_ITEMDESC.ID1032001]
@@ -2449,7 +2462,7 @@ Yu-Gi-Oh! World Championship 2024 ：マスターデュエル出場を記念し�
 Yu-Gi-Oh! World Championship 2025 ：マスターデュエル出場を記念したアイコンフレーム。
 次なる戦いの舞台がキミを待っている！
 [IDS_ITEMDESC.ID1033006]
-三体のモンスターが融合する瞬間を想起させるアイコンフレーム。
+複数のモンスターが融合する瞬間を想起させるアイコンフレーム。
 フュージョンカップで、好成績を収めたデュエリストに贈られる。
 [IDS_ITEMDESC.ID1033007]
 coming soon
@@ -2998,9 +3011,11 @@ coming soon
 毛並みが厚く膨らんだ幻想魔族の姿がデザインされたプロテクター。
 もこもこしたいあなたに。
 [IDS_ITEMDESC.ID1070179]
-coming soon
+<card mrk='14913'/>が必殺技を放つ姿がデザインされたプロテクター。
+誰よりもデュエルを楽しむあなたに。
 [IDS_ITEMDESC.ID1070180]
-coming soon
+無数の糸が伸びる巨大な<category id='152'/>の姿がデザインされたプロテクター。
+影に堕ちたあなたに。
 [IDS_ITEMDESC.ID1070181]
 coming soon
 [IDS_ITEMDESC.ID1070182]
@@ -3008,7 +3023,8 @@ coming soon
 [IDS_ITEMDESC.ID1070183]
 coming soon
 [IDS_ITEMDESC.ID1070184]
-coming soon
+モンスターが融合する際の渦がデザインされたプロテクター。
+融合召喚を戦術の核とするあなたに。
 [IDS_ITEMDESC.ID1070185]
 coming soon
 [IDS_ITEMDESC.ID1070186]
@@ -3018,7 +3034,8 @@ coming soon
 [IDS_ITEMDESC.ID1070188]
 coming soon
 [IDS_ITEMDESC.ID1070189]
-coming soon
+救いを求める声に応える正義のヒーローたちの姿がデザインされたプロテクター。
+どんな時にも希望を持つあなたに。
 [IDS_ITEMDESC.ID1070190]
 coming soon
 [IDS_ITEMDESC.ID1070191]
@@ -4085,7 +4102,8 @@ coming soon
 [IDS_ITEMDESC.ID1101043]
 coming soon
 [IDS_ITEMDESC.ID1101044]
-coming soon
+禁じられた宝具を模したフィールドパーツ。
+模造品とはいえ軽率に触れない方が賢明だろう。
 [IDS_ITEMDESC.ID1101045]
 朝の飲み物に住む精霊たちを模したフィールドパーツ。
 朝からティーパーティーで気分スッキリ。
@@ -4471,14 +4489,16 @@ coming soon
 大自然から生まれる螺旋状の力をイメージした台座。
 放たれるオーラを受ければ生命力が漲る。
 [IDS_ITEMDESC.ID1111078]
-coming soon
+とある購買で売られているパンをイメージした台座。
+中身の具材はランダムで黄金の卵が当たりらしい。
 [IDS_ITEMDESC.ID1111079]
 coming soon
 [IDS_ITEMDESC.ID1111080]
 「<category id='158'/>」の名を冠するドラゴンをイメージした台座。
 圧倒的な力が、閉ざされし世界に風穴を穿つ。
 [IDS_ITEMDESC.ID1111081]
-coming soon
+「<card mrk='11268'/>」をイメージした台座。
+取り込まれた者は自我がほぼなく、肉体だけが現世にある状態だという。
 [IDS_ITEMDESC.ID1111082]
 coming soon
 [IDS_ITEMDESC.ID1111083]
@@ -5018,13 +5038,17 @@ coming soon
 神秘の音で宇宙を満たす神聖なる竜。
 惑星を包む荘厳なる姿が神々しい。
 [IDS_ITEMDESC.ID1130137]
-coming soon
+永遠の<card mrk='14913'/>。
+ヒーローにはヒーローに相応しい戦う舞台がある。
 [IDS_ITEMDESC.ID1130138]
-coming soon
+男はただ神を討つため<card mrk='22169'/>を受け入れた。
+かくして翻された黒翼は、三度天を裂かんと黄昏を行く。
 [IDS_ITEMDESC.ID1130139]
-coming soon
+「<card mrk='9997'/>」の復活に巻き込まれ、神の波動を受けた「<card mrk='9167'/>」。
+「<card mrk='12762'/>」の思惑によって意図的に復活させられている。
 [IDS_ITEMDESC.ID1130140]
-coming soon
+かざした手の先に放たれる蒼き閃光。
+その一撃は全てを殲滅する王の雷光。
 [IDS_ITEMDESC.ID1130141]
 coming soon
 [IDS_ITEMDESC.ID1130142]
@@ -5044,7 +5068,8 @@ coming soon
 [IDS_ITEMDESC.ID1130149]
 coming soon
 [IDS_ITEMDESC.ID1130150]
-coming soon
+迫る「<card mrk='22934'/>」と対峙する「<card mrk='22932'/>」。
+決死の一投は恐るべき狂気への対抗策となり得るか。
 [IDS_ITEMDESC.ID1130151]
 coming soon
 [IDS_ITEMDESC.ID1132001]
@@ -5132,11 +5157,14 @@ coming soon
 世界中から愛された物語のコレクトファイル。
 <category id='172'/>を集めし時、妖精に会える扉が輝くという。
 [IDS_ITEMDESC.ID1170016]
-coming soon
+融合召喚を得意とする高潔なる正義のヒーローたちのコレクトファイル。
+<category id='197'/>を集めし時、未知なる力の扉が輝くという。
 [IDS_ITEMDESC.ID1170017]
-coming soon
+楽園から地上へと堕ちた天使たちのコレクトファイル。
+<category id='185'/>を集めし時、禁忌の扉が輝くという。
 [IDS_ITEMDESC.ID1170018]
-coming soon
+先の大戦で命を落とした者たちのコレクトファイル。
+<category id='152'/>を集めし時、影に堕ちた扉が輝くという。
 [IDS_ITEMDESC.ID1170019]
 coming soon
 [IDS_ITEMDESC.ID1170020]
@@ -5216,7 +5244,8 @@ Dのシンボルがキラリと光る。
 魂が宿る物語の小さな国の妖精たちをモチーフとしたコイン。
 古今東西の物語がキラリと光る。
 [IDS_ITEMDESC.ID1180025]
-coming soon
+高潔なる正義のマークをモチーフとしたコイン。
+救いを求めるシグナルがキラリと光る。
 [IDS_ITEMDESC.ID1180026]
 coming soon
 [IDS_ITEMDESC.ID1180027]

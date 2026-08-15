@@ -127,7 +127,8 @@ Com braços poderosos, desfere socos destruidores e aplica estrangulamentos.
 Jovem esgrimista <category id='174'/> que assume a liderança.
 Assumiu o comando de "<card mrk='17783'/>".
 [IDS_ITEMDESC.ID1000047]
-coming soon
+Um soldado Pinguim de baixa patente empunhando uma espada.
+Eles atacam ao mesmo tempo, como um grupo.
 [IDS_ITEMDESC.ID1001001]
 Um copo de macarrão instantâneo que parece conceder o poder da Invocação-Fusão.
 Só porque são instantâneos, não quer dizer que são ruins!
@@ -361,7 +362,8 @@ Esta noite, a perseguição iluminada por neon recomeça.
 Um garoto cujo poder de dragão desperta quando está em apuros.
 Será que seu nome remete a um passado enterrado na escuridão ou a um futuro brilhante?
 [IDS_ITEMDESC.ID1003007]
-coming soon
+HERÓI que veio do Neo Espaço.
+Tem um poder misterioso de possibilidades infinitas, capaz de realizar milagres.
 [IDS_ITEMDESC.ID1003008]
 coming soon
 [IDS_ITEMDESC.ID1003009]
@@ -811,9 +813,23 @@ Será uma lembrança do começo do fim ou a imagem da verdadeira chama desperta?
 Um Ícone que retrata uma garota genial iluminada pelo relâmpago de uma donzela sagrada.
 Assim começou o desafio de geração de energia ultrafuturista.
 [IDS_ITEMDESC.ID1010149]
-coming soon
+Ícone que retrata <card mrk='14913'/>, um HERÓI atemporal.
+No palco mais ilustre, a diversão nunca termina.
 [IDS_ITEMDESC.ID1010150]
-coming soon
+Ícone que retrata um homem que tomou a força de outro <category id='185'/> para matar Deus.
+Para conquistar seus objetivos, ele busca poder a qualquer custo.
+[IDS_ITEMDESC.ID1010151]
+Ícone que retrata "<card mrk='14968'/>" brandindo um cajado roubado.
+Ela canaliza o poder máximo do cajado e evolui para o nível superior.
+[IDS_ITEMDESC.ID1010152]
+Ícone que retrata "<card mrk='22337'/>" na forma mutante.
+Ostentando um corpo musculoso, ele se tornou ainda mais forte, graças a "<card mrk='22342'/>".
+[IDS_ITEMDESC.ID1010153]
+Ícone que retrata o primeiro pássaro a mergulhar no perigoso oceano.
+Apesar das circunstâncias, ele é um pioneiro que merece todo respeito.
+[IDS_ITEMDESC.ID1010154]
+Ícone que retrata os deuses que vivem no paraíso.
+Roubar qualquer um dos tesouros proibidos desse lugar certamente provocará a ira divina.
 [IDS_ITEMDESC.ID1010160]
 coming soon
 [IDS_ITEMDESC.ID1011001]
@@ -1323,6 +1339,9 @@ Três magos que destravaram a porta para um outro reino. Eles passaram a ser con
 [IDS_ITEMDESC.ID1013015]
 Um Ícone que retrata o colega virtual favorito de todo mundo.
 Erguem-se as cortinas da sua jornada para se tornar um Duelista lendário.
+[IDS_ITEMDESC.ID1013016]
+Um Ícone com uma ilustração principal de "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
+A garota que perdeu tudo inicia uma batalha para recuperar tudo com as próprias mãos.
 [IDS_ITEMDESC.ID1020001]
 Um título dado a Duelistas que começaram sua jornada de Duelos em Yu-Gi-Oh! MASTER DUEL.
 Nunca é tarde para começar a Duelar.
@@ -2001,7 +2020,8 @@ Foi conquistado através de vitória após vitória contra ferozes competidores 
 Um Título dado aos Duelistas que chegaram à 2ª Fase na Copa Fusão.
 Esta é uma prova de que conseguiu passar a altamente disputada 1ª Fase.
 [IDS_ITEMDESC.ID1020227]
-coming soon
+Um título dado a Duelistas que dominaram o poder dos Monstros Lendários e marcaram seu próprio nome na história.
+Uma nova lenda é criada após encontrar e Duelar contra os maiores Duelistas.
 [IDS_ITEMDESC.ID1021001]
 Um título concedido apenas em uma ocasião especial.
 [IDS_ITEMDESC.ID1021002]
@@ -2141,6 +2161,9 @@ Inúmeras armadilhas aguardam aventureiros cegos pelo fascínio com o ouro e tes
 [IDS_ITEMDESC.ID1030043]
 Uma Moldura de Ícone amarela e preta cujo forte contraste evoca perigo.
 Na natureza, essas cores servem como um sinal de alerta que afasta predadores.
+[IDS_ITEMDESC.ID1030044]
+Moldura de Ícone verde-limão e rosa que evoca luzes neon descoladas e doces tropicais.
+As cores vivas e vibrantes trazem uma energia refrescante.
 [IDS_ITEMDESC.ID1031001]
 Uma Moldura de Ícone lembra o portão utilizado pelas Forças Celestes para transferir seus armamentos.
 Quando o caminho abre àqueles que lutam pela paz, um novo poder para superar as dificuldades desperta.
@@ -2220,7 +2243,11 @@ O garoto recuperou os sentidos graças à confiança daqueles ao seu redor.
 Uma Moldura de Ícone que evoca uma arma mecha com um mecanismo secreto de ultratransformação.
 Infelizmente, a moldura não é capaz de se transformar, mas está repleta de energia ígnea e elétrica.
 [IDS_ITEMDESC.ID1031027]
-coming soon
+Moldura de Ícone que evoca tesouros proibidos.
+O preço do poder profano é a ira do divino.
+[IDS_ITEMDESC.ID1031028]
+Moldura de Ícone que evoca os anéis de luz visíveis ao fazer uma Invocação-Sincro.
+Para aqueles que seguem o caminho da luz com determinação inabalável.
 [IDS_ITEMDESC.ID1032001]
 Uma Moldura de Ícone em forma de decoração circular que pode ser vista em uma certa região conforme o ano chega ao fim.
 São penduradas com o desejo sincero de felicidade e alegria nos tempos vindouros.
@@ -2269,6 +2296,9 @@ Este prêmio é concedido a Duelistas que obtiveram bons resultados na Copa Sinc
 [IDS_ITEMDESC.ID1033005]
 Uma moldura de ícone concedido aos participantes do evento MASTER DUEL do Yu-Gi-Oh! World Championship 2025.
 A próxima fase espera por você!
+[IDS_ITEMDESC.ID1033006]
+Moldura de Ícone que evoca o momento em que vários monstros se fundem.
+Concedida a Duelistas que alcançaram bons resultados na Copa de Fusão.
 [IDS_ITEMDESC.ID1033007]
 coming soon
 [IDS_ITEMDESC.ID1070001]
@@ -2799,7 +2829,17 @@ Para aqueles que eliminam seus oponentes com um único tiro.
 Protetores com um monstro Ilusão de pelagem espessa e volumosa.
 Para os amantes de tudo que é fofinho.
 [IDS_ITEMDESC.ID1070179]
-coming soon
+Protetores que retratam <card mrk='14913'/> executando seu movimento característico.
+Para quem mais gosta de Duelar.
+[IDS_ITEMDESC.ID1070180]
+Protetores que retratam <category id='152'/> gigante com inúmeras cordas pendentes.
+Para quem caiu no abismo das sombras.
+[IDS_ITEMDESC.ID1070184]
+Protetores que retratam um turbilhão de fusão de monstros.
+Para quem adota táticas de Invocações-Fusão.
+[IDS_ITEMDESC.ID1070189]
+Protetores que mostram campeões da justiça respondendo a chamados de ajuda.
+Para aqueles que nunca perdem a esperança.
 [IDS_ITEMDESC.ID1070191]
 coming soon
 [IDS_ITEMDESC.ID1070192]
@@ -3612,7 +3652,8 @@ coming soon
 [IDS_ITEMDESC.ID1101043]
 coming soon
 [IDS_ITEMDESC.ID1101044]
-coming soon
+Componentes de Campo modelados em tesouros proibidos.
+Talvez sejam réplicas, mas convém tratá-los com cuidado.
 [IDS_ITEMDESC.ID1101045]
 Componentes de Campo inspirados em espíritos que habitam bebidas matinais.
 Um chá pela manhã deixa todos revigorados.
@@ -3939,10 +3980,14 @@ Chamas pesarosas assolam cada canto deste mundo maldito.
 Pedestal inspirado em uma espiral de energia da natureza.
 Receba a aura emitida e banhe-se em vitalidade.
 [IDS_ITEMDESC.ID1111078]
-coming soon
+Pedestal inspirado no pão à venda em uma certa escola.
+O recheio é aleatório e, pelo visto, o de ovo de ouro é o mais desejado.
 [IDS_ITEMDESC.ID1111080]
 Um pedestal inspirado em um dragão que carrega o nome "<category id='158'/>".
 Um poder avassalador abre um buraco em um mundo isolado.
+[IDS_ITEMDESC.ID1111081]
+Pedestal inspirado em "<card mrk='11268'/>".
+Os possuídos perdem a mente. Só resta um corpo vazio.
 [IDS_ITEMDESC.ID1111082]
 coming soon
 [IDS_ITEMDESC.ID1112001]
@@ -4446,9 +4491,20 @@ Do fonógrafo em seu braço direito, ela emite ondas eletromagnéticas capazes d
 Um dragão sagrado que preenche o cosmo com sons misteriosos.
 Circundando um planeta inteiro, esta fera magnífica tem uma aura verdadeiramente divina.
 [IDS_ITEMDESC.ID1130137]
-coming soon
+O lendário <card mrk='14913'/>.
+Todo HERÓI tem um palco digno de recebê-lo.
 [IDS_ITEMDESC.ID1130138]
-coming soon
+Ele aceitou <card mrk='22169'/> por apenas um motivo: matar Deus.
+Então as asas negras se abriram, voando em direção ao crepúsculo para rasgar os céus uma terceira vez.
+[IDS_ITEMDESC.ID1130139]
+Em meio ao caos em torno da ressurreição de "<card mrk='9997'/>", "<card mrk='9167'/>" absorveu ondas divinas.
+Por força de vontade, ela voltou à vida graças "<card mrk='12762'/>".
+[IDS_ITEMDESC.ID1130140]
+Ela ergue a mão e conjura um feixe de luz azul.
+O rei de todos os relâmpagos deixa um rastro de aniquilação por onde passa.
+[IDS_ITEMDESC.ID1130150]
+"<card mrk='22932'/>" enfrenta o ataque de "<card mrk='22934'/>".
+Será que o contra-ataque desesperado bastará para deter a loucura?
 [IDS_ITEMDESC.ID1130151]
 coming soon
 [IDS_ITEMDESC.ID1132001]
@@ -4530,9 +4586,14 @@ Dizem que, ao reunir <category id='031'/>, a porta para novos encontros e jornad
 Um Acervo de Colecionador criado com base em um conto aclamado mundialmente.
 Dizem que, quando você reunir cards <category id='172'/>, a porta para encontros com fadas reluzirá.
 [IDS_ITEMDESC.ID1170016]
-coming soon
+Acervo de Colecionador para nobres heróis da justiça que se destacam em Invocação-Fusão.
+Dizem que, para quem conquista <category id='197'/>, a porta do poder desconhecido se abre.
 [IDS_ITEMDESC.ID1170017]
-coming soon
+Acervo de Colecionador para anjos que caíram do paraíso.
+Dizem que, para quem conquista <category id='185'/>, a porta proibida se abre.
+[IDS_ITEMDESC.ID1170018]
+Acervo de Colecionador daqueles que perderam a vida na grande guerra anterior.
+Dizem que, para quem conquista <category id='152'/>, a porta que tinha caído nas sombras brilhará.
 [IDS_ITEMDESC.ID1180001]
 Uma Moeda gravada com o dragão luminoso que dá início a uma nova lenda.
 Seus olhos cerúleos brilham.
@@ -4603,7 +4664,8 @@ Sua determinação para desafiar o próprio destino brilha intensamente.
 Moeda representando fadas de um reino pequeno onde contos são imbuídos com espírito.
 Histórias de diferentes épocas e lugares reluzem dentro dela.
 [IDS_ITEMDESC.ID1180025]
-coming soon
+Moeda que retrata o emblema da justiça nobre.
+O sinal cintila em busca de salvação.
 [IDS_ITEMDESC.ID1190001]
 O número máximo de favoritos que você pode ter pode ser aumentado.
 [IDS_ITEMDESC.ID0000]
