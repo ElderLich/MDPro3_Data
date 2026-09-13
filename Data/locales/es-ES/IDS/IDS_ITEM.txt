@@ -88,6 +88,8 @@ Dinoluchador Pancrateratops
 Beat, Espadachín Mascota a Sueldo
 [IDS_ITEM.ID1000047]
 Soldado Pingüino
+[IDS_ITEM.ID1000048]
+Colacuento - Nieves
 [IDS_ITEM.ID1001001]
 Fusión Instantánea
 [IDS_ITEM.ID1001002]
@@ -512,8 +514,56 @@ GMX - ALLOS
 Primer Pingüino
 [IDS_ITEM.ID1010154]
 Regaño Solemne
+[IDS_ITEM.ID1010155]
+Dragón Megaflota Chimeratech
+[IDS_ITEM.ID1010156]
+Biancaviso de la Compañía de Payasos
+[IDS_ITEM.ID1010157]
+Olla de la Pereza
+[IDS_ITEM.ID1010158]
+Ocultador de Efectos
 [IDS_ITEM.ID1010160]
+Mago Oscuro y Chica Maga Oscura (WCS2026)
+[IDS_ITEM.ID1010161]
+TEMPORADA DE 2027
+[IDS_ITEM.ID1010162]
 coming soon
+[IDS_ITEM.ID1010163]
+coming soon
+[IDS_ITEM.ID1010164]
+coming soon
+[IDS_ITEM.ID1010165]
+coming soon
+[IDS_ITEM.ID1010166]
+coming soon
+[IDS_ITEM.ID1010167]
+coming soon
+[IDS_ITEM.ID1010168]
+coming soon
+[IDS_ITEM.ID1010169]
+coming soon
+[IDS_ITEM.ID1010170]
+coming soon
+[IDS_ITEM.ID1010171]
+coming soon
+[IDS_ITEM.ID1010172]
+coming soon
+[IDS_ITEM.ID1010173]
+coming soon
+[IDS_ITEM.ID1010174]
+coming soon
+[IDS_ITEM.ID1010175]
+coming soon
+[IDS_ITEM.ID1010176]
+coming soon
+[IDS_ITEM.ID1010177]
+coming soon
+[IDS_ITEM.ID1010178]
+coming soon
+[IDS_ITEM.ID1010179]
+coming soon
+[IDS_ITEM.ID1010180]
+Cambio Desesperado
 [IDS_ITEM.ID1011001]
 Balón de fútbol
 [IDS_ITEM.ID1011002]
@@ -665,13 +715,13 @@ Finalista plata de la Copa Fusión
 [IDS_ITEM.ID1011075]
 Finalista de bronce de la Copa Fusión
 [IDS_ITEM.ID1011079]
-coming soon
+Campeón del WCS 2026
 [IDS_ITEM.ID1011080]
-coming soon
+Finalista del WCS 2026
 [IDS_ITEM.ID1011081]
-coming soon
+Top 4 del WCS 2026
 [IDS_ITEM.ID1011082]
-coming soon
+Top 12 del WCS 2026
 [IDS_ITEM.ID1012001]
 X-Krawler Sinafisis
 [IDS_ITEM.ID1012002]
@@ -832,6 +882,16 @@ Fuerza-S Rappa Chiyomaru
 Bujía Spright
 [IDS_ITEM.ID1012080]
 EM:P Miaumina
+[IDS_ITEM.ID1012081]
+Exormana Karmael
+[IDS_ITEM.ID1012082]
+Marchosias
+[IDS_ITEM.ID1012083]
+Exormana Estrella
+[IDS_ITEM.ID1012084]
+Exormana Irene
+[IDS_ITEM.ID1012085]
+Exormana Sofía
 [IDS_ITEM.ID1013001]
 PawaPuro
 [IDS_ITEM.ID1013002]
@@ -1319,13 +1379,15 @@ Duelista de la 2nd Stage de la Copa Fusión
 [IDS_ITEM.ID1020227]
 Mi Favorito
 [IDS_ITEM.ID1020228]
-coming soon
+Campeón del WCS 2026
 [IDS_ITEM.ID1020229]
-coming soon
+Finalista del WCS 2026
 [IDS_ITEM.ID1020230]
-coming soon
+Top 4 del WCS 2026
 [IDS_ITEM.ID1020231]
-coming soon
+Top 12 del WCS 2026
+[IDS_ITEM.ID1020238]
+Fuerza Imparable
 [IDS_ITEM.ID1021001]
 Comenzando
 [IDS_ITEM.ID1021002]
@@ -1333,11 +1395,11 @@ Líder de líderes
 [IDS_ITEM.ID1021003]
 Coleccionista de puntos
 [IDS_ITEM.ID1022001]
-Líder de campeonato de institutos de 2026
+Líder de campeonato de institutos de Japón 2025
 [IDS_ITEM.ID1022002]
-Gran finalista de campeonato de institutos de 2026
+Gran finalista de campeonato de institutos de Japón 2025
 [IDS_ITEM.ID1022003]
-Finalista de campeonato de institutos de 2026
+Finalista de campeonato de institutos de Japón 2025
 [IDS_ITEM.ID1030001]
 Marco de principiante
 [IDS_ITEM.ID1030002]
@@ -1482,6 +1544,8 @@ Palma Ryzeal
 Corona Prohibida
 [IDS_ITEM.ID1031028]
 Anillo Sincronía β
+[IDS_ITEM.ID1031029]
+Compañía de Payasos
 [IDS_ITEM.ID1032001]
 Ornamento Festivo
 [IDS_ITEM.ID1032002]
@@ -1517,7 +1581,7 @@ Recuerdo del WCS 2025
 [IDS_ITEM.ID1033006]
 Vórtice de Fusión
 [IDS_ITEM.ID1033007]
-coming soon
+Recuerdo del WCS 2026
 [IDS_ITEM.ID1070001]
 Yu-Gi-Oh! Juego de Cartas Coleccionables
 [IDS_ITEM.ID1070002]
@@ -1876,18 +1940,24 @@ Mukumuku
 Héroe Favorito
 [IDS_ITEM.ID1070180]
 El Sombrañeca Constructo
+[IDS_ITEM.ID1070181]
+Ciber Dragón del Infinito
+[IDS_ITEM.ID1070182]
+Biancaviso de la Compañía de Payasos
+[IDS_ITEM.ID1070183]
+Phara la Diosa Primordial
 [IDS_ITEM.ID1070184]
 Polimerización
 [IDS_ITEM.ID1070189]
 Esperanza de Cinco
 [IDS_ITEM.ID1070190]
-coming soon
+Dis Pater Abystial
 [IDS_ITEM.ID1070191]
-coming soon
+Mago Oscuro y Chica Maga Oscura (WCS2026)
 [IDS_ITEM.ID1070192]
-coming soon
+Mago Oscuro (WCS2026)
 [IDS_ITEM.ID1070193]
-coming soon
+Chica Maga Oscura (WCS2026)
 [IDS_ITEM.ID1071001]
 Cruzadia Maximus
 [IDS_ITEM.ID1071002]
@@ -2029,9 +2099,9 @@ Celebración de la DC 2026 MAR
 [IDS_ITEM.ID1073020]
 Celebración de las eliminatorias del WCS 2026
 [IDS_ITEM.ID1073021]
-coming soon
+Celebración del WCS 2026
 [IDS_ITEM.ID1073022]
-coming soon
+Recuerdo del WCS 2026
 [IDS_ITEM.ID1073023]
 Celebración de la Copa Fusión
 [IDS_ITEM.ID1075001]
@@ -2185,7 +2255,7 @@ Barranco del Dragón
 [IDS_ITEM.ID1082032]
 Exormana
 [IDS_ITEM.ID1082034]
-coming soon
+Mago Oscuro y Chica Maga Oscura (WCS2026)
 [IDS_ITEM.ID1083001]
 Blanco y azul
 [IDS_ITEM.ID1090001]
@@ -2627,7 +2697,11 @@ Borre
 [IDS_ITEM.ID1111081]
 Fusión Sombrañeca
 [IDS_ITEM.ID1111082]
-coming soon
+Colas de los Colacuentos
+[IDS_ITEM.ID1111083]
+Compañía de Payasos
+[IDS_ITEM.ID1111084]
+Dragón Hipernova Rojo
 [IDS_ITEM.ID1112001]
 Coliseo
 [IDS_ITEM.ID1112002]
@@ -2641,7 +2715,7 @@ Recuerdo del WCS 2024
 [IDS_ITEM.ID1113003]
 Recuerdo del WCS 2025
 [IDS_ITEM.ID1113004]
-coming soon
+Recuerdo del WCS 2026
 [IDS_ITEM.ID1115001]
 eFootball™
 [IDS_ITEM.ID1120001]
@@ -2986,10 +3060,18 @@ Señoroscuro Estrella de la Tarde
 El Sombrañeca Winda
 [IDS_ITEM.ID1130140]
 Chispa Dominus
+[IDS_ITEM.ID1130141]
+Dragón Ciber Final, el Dragón del Último Golpe
+[IDS_ITEM.ID1130142]
+Biancaviso de la Compañía de Payasos
+[IDS_ITEM.ID1130143]
+Dragón Hipernova Rojo
+[IDS_ITEM.ID1130144]
+Dragón Carmesí Quetzalcoatl
 [IDS_ITEM.ID1130150]
 Experimento Final Anti-GMX
 [IDS_ITEM.ID1130151]
-coming soon
+Mago Oscuro y Chica Maga Oscura (WCS2026)
 [IDS_ITEM.ID1132001]
 Conejo Rescatador
 [IDS_ITEM.ID1132002]
@@ -3050,8 +3132,12 @@ HÉROE Elemental
 Señoroscuro/a
 [IDS_ITEM.ID1170018]
 Sombrañeca
+[IDS_ITEM.ID1170019]
+Ciber Dragón
+[IDS_ITEM.ID1170020]
+Compañía de Payasos
 [IDS_ITEM.ID1170022]
-coming soon
+WCS2026
 [IDS_ITEM.ID1180001]
 Dragón Blanco Alternativo de Ojos Azules
 [IDS_ITEM.ID1180002]
@@ -3102,6 +3188,8 @@ Caído de Albaz
 Colacuento
 [IDS_ITEM.ID1180025]
 HÉROE Elemental
+[IDS_ITEM.ID1180026]
+Ciber Dragón
 [IDS_ITEM.ID1190001]
 Casillas de marcadores
 [IDS_ITEM.ID0000]

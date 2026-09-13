@@ -129,6 +129,9 @@ Il s'est occupé personnellement de "<card mrk='17783'/>".
 [IDS_ITEMDESC.ID1000047]
 Un soldat Pingouin de faible rang qui manie une épée.
 Ils attaquent en groupe.
+[IDS_ITEMDESC.ID1000048]
+Une belle fée bienveillante qui aime les gens dévoués à leur famille.
+Elle vivrait dans une contrée lointaine.
 [IDS_ITEMDESC.ID1001001]
 Des nouilles instantanées qui semblent capables de conférer le pouvoir de l'Invocation Fusion.
 Ce n'est pas parce qu'elles sont instantanées qu'elles sont mauvaises !
@@ -830,8 +833,62 @@ Quelles que soient les circonstances, c'est un pionnier qui mérite le respect.
 [IDS_ITEMDESC.ID1010154]
 Une Icône représentant des dieux qui vivent au paradis.
 Voler l'un de leurs trésors interdits provoquerait la colère des cieux.
+[IDS_ITEMDESC.ID1010155]
+Une Icône représentant un dragon mécanique en constante évolution.
+Le développement se poursuit jour et nuit, en quête d'une puissance destructrice écrasante.
+[IDS_ITEMDESC.ID1010156]
+Une Icône représentant le chef d'une troupe de cirque mettant en scène des spectacles hors du commun.
+Il utilise la magie pour libérer les bêtes exploitées par des troupes de cirque malveillantes.
+[IDS_ITEMDESC.ID1010157]
+Une Icône représentant un pot mystérieux qui semble manquer de motivation.
+Même la disposition de ses anses dégage une impression de paresse.
+[IDS_ITEMDESC.ID1010158]
+Une Icône représentant un monstre enroulé autour d'un globe de lumière pâle.
+Il semble résister à l'énergie qu'il dégage grâce à un étrange pouvoir.
 [IDS_ITEMDESC.ID1010160]
+Une icône représentant un visuel du Yu-Gi-Oh! World Championship 2026.
+Admirez les meilleurs Duellistes du monde.
+[IDS_ITEMDESC.ID1010161]
+Une icône qui annonce le début de la saison.
+Duellistes, répondez à l'appel du combat !
+[IDS_ITEMDESC.ID1010162]
 coming soon
+[IDS_ITEMDESC.ID1010163]
+coming soon
+[IDS_ITEMDESC.ID1010164]
+coming soon
+[IDS_ITEMDESC.ID1010165]
+coming soon
+[IDS_ITEMDESC.ID1010166]
+coming soon
+[IDS_ITEMDESC.ID1010167]
+coming soon
+[IDS_ITEMDESC.ID1010168]
+coming soon
+[IDS_ITEMDESC.ID1010169]
+coming soon
+[IDS_ITEMDESC.ID1010170]
+coming soon
+[IDS_ITEMDESC.ID1010171]
+coming soon
+[IDS_ITEMDESC.ID1010172]
+coming soon
+[IDS_ITEMDESC.ID1010173]
+coming soon
+[IDS_ITEMDESC.ID1010174]
+coming soon
+[IDS_ITEMDESC.ID1010175]
+coming soon
+[IDS_ITEMDESC.ID1010176]
+coming soon
+[IDS_ITEMDESC.ID1010177]
+coming soon
+[IDS_ITEMDESC.ID1010178]
+coming soon
+[IDS_ITEMDESC.ID1010179]
+coming soon
+[IDS_ITEMDESC.ID1010180]
+Une icône exclusive offerte lors d'occasions spéciales.
 [IDS_ITEMDESC.ID1011001]
 Une icône représentant un ballon constitué de panneaux noirs et blancs.
 Remporter 3 Duels d'affilée ne s'appelle pas un coup du chapeau.
@@ -1057,6 +1114,18 @@ Offerte à ceux qui ont atteint des résultats brillants lors de la Coupe Fusion
 [IDS_ITEMDESC.ID1011075]
 Une icône avec un logo "Coupe Fusion" en bronze. 
 Offerte à ceux qui ont remporté de nombreuses batailles lors de la Coupe Fusion.
+[IDS_ITEMDESC.ID1011079]
+Une Icône donnée aux Duellistes champions du Yu-Gi-Oh! World Championship 2026: MASTER DUEL.
+Leur combat continuera de briller telle une trace flamboyante gravée dans le cœur des Duellistes du monde entier.
+[IDS_ITEMDESC.ID1011080]
+Une Icône donnée aux Duellistes finalistes du Yu-Gi-Oh! World Championship 2026: MASTER DUEL.
+Leur combat continuera de briller telle une trace flamboyante gravée dans le cœur des Duellistes du monde entier.
+[IDS_ITEMDESC.ID1011081]
+Une Icône donnée à ceux qui ont fini dans le top 4 du Yu-Gi-Oh! World Championship 2026: MASTER DUEL.
+Le public est resté bouche bée devant leur incroyable instinct au combat.
+[IDS_ITEMDESC.ID1011082]
+Une Icône donnée aux participants du Yu-Gi-Oh! World Championship 2026: MASTER DUEL.
+C'est la preuve qu'ils ont relevé ce défi mondial et ont démontré leur force en tant que Duellistes.
 [IDS_ITEMDESC.ID1012001]
 Une icône représentant un "Krawler", des monstres ayant envahi un certain monde. Celui-ci fait partie de la classe supérieure.
 Ils s'efforcent de réduire à néant les efforts de la civilisation humaine qui perdure depuis des générations.
@@ -1297,6 +1366,21 @@ La forme de vie énergétique immortelle "<category id='40'/>" se révèle.
 [IDS_ITEMDESC.ID1012080]
 Une icône représentant l'arme utilisée par "<card mrk='14676'/>".
 Les mots qui en sortent sont simples, mais on ignore l'étendue de son potentiel.
+[IDS_ITEMDESC.ID1012081]
+Une Icône représentant un être enveloppé dans le pouvoir d'un messager contemplant le dieu gardien d'une planète rouge feu.
+Même sous sa forme originelle, il posséderait un pouvoir encore plus grand que celui de "<card mrk='16740'/>".
+[IDS_ITEMDESC.ID1012082]
+Une Icône représentant un être maléfique qui peut prendre différentes formes pour obtenir un corps temporaire.
+Certains démons peuvent aussi posséder les gens, mais eux au moins peuvent être repoussés avec des amulettes.
+[IDS_ITEMDESC.ID1012083]
+Une Icône représentant une jeune fille "<category id='059'/>" qui se spécialise dans le combat rapide.
+Elle fait appel au pouvoir de la messagère qui relaie les paroles de la divinité de Saturne.
+[IDS_ITEMDESC.ID1012084]
+Une Icône représentant une jeune fille "<category id='059'/>" qui inflige un châtiment aux démons avec des missiles imprégnés d'eau bénite.
+Elle fait appel au pouvoir de la messagère qui relaie les paroles de la divinité de la lune.
+[IDS_ITEMDESC.ID1012085]
+Une Icône représentant une jeune fille "<category id='059'/>" qui bat ses ennemis en tirant avec une immense précision.
+Elle fait appel au pouvoir de la messagère qui relaie les paroles de la divinité de Vénus.
 [IDS_ITEMDESC.ID1013001]
 Une icône représentant un jeune garçon qui aime vraiment le baseball.
 Vous l'avez peut-être rencontré dans une école à une époque ou à une autre, poussé à la grandeur par sa passion pour le baseball.
@@ -2022,6 +2106,21 @@ La preuve que vous avez réussi à passer la très disputée 1st Stage.
 [IDS_ITEMDESC.ID1020227]
 Un titre donné aux Duellistes ayant maîtrisé le pouvoir des monstres légendaires et s'étant fait un nom.
 Une nouvelle légende naît de la rencontre et du Duel avec le plus grand des Duellistes.
+[IDS_ITEMDESC.ID1020228]
+Un Titre décerné aux Duellistes champions de l'événement MASTER DUEL du Yu-Gi-Oh! World Championship 2026.
+Le souvenir des Duels enflammés qu'ils ont livrés aux côtés de leurs amis restera gravé dans la roche.
+[IDS_ITEMDESC.ID1020229]
+Un Titre décerné aux Duellistes finalistes de l'événement MASTER DUEL du Yu-Gi-Oh! World Championship 2026.
+Le souvenir des Duels enflammés qu'ils ont livrés aux côtés de leurs amis restera gravé dans la roche.
+[IDS_ITEMDESC.ID1020230]
+Un Titre décerné à ceux qui ont fini dans le top 4 du Yu-Gi-Oh! World Championship 2026: MASTER DUEL.
+Leurs exploits inciteront de nombreux Duellistes à relever de nouveaux défis.
+[IDS_ITEMDESC.ID1020231]
+Un Titre décerné à ceux qui ont fini dans le top 12 du Yu-Gi-Oh! World Championship 2026: MASTER DUEL.
+Rares sont ceux qui parviennent à atteindre ce niveau, et cet exploit démontre qu'ils sont des élus.
+[IDS_ITEMDESC.ID1020238]
+Un Titre décerné aux Duellistes qui ont obtenu des résultats au cours de l'événement de Course de dés ~ Septembre 2026 ~.
+L'avenir sourit à ceux qui ont le courage de croire en leurs capacités.
 [IDS_ITEMDESC.ID1021001]
 Un titre qui n'est décerné que lors d'une occasion spéciale.
 [IDS_ITEMDESC.ID1021002]
@@ -2248,6 +2347,9 @@ La colère divine s'abattra sur ceux qui cherchent le pouvoir profane.
 [IDS_ITEMDESC.ID1031028]
 Un Cadre d'icône qui évoque les cercles de lumière visibles lors d'une Invocation Synchro.
 Pour ceux qui suivent la voie de la lumière avec une détermination sans faille.
+[IDS_ITEMDESC.ID1031029]
+Un Cadre d'icône qui évoque la troupe de cirque "<category id='188'/>".
+La troupe met en scène des spectacles hors du commun avec des bêtes uniques.
 [IDS_ITEMDESC.ID1032001]
 Un Cadre d'icône de forme circulaire pouvant être aperçu dans certaines régions du monde lorsque l'année arrive à son terme.
 On l'accroche en faisant le vœu sincère que les jours à venir apportent joie et bonheur.
@@ -2300,7 +2402,8 @@ La prochaine étape vous attend !
 Un Cadre d'icône qui évoque le moment où plusieurs monstres fusionnent.
 Il est offert aux Duellistes qui ont obtenu de bons résultats lors de la Coupe Fusion.
 [IDS_ITEMDESC.ID1033007]
-coming soon
+Un cadre d'icône décernée aux participants de l'événement MASTER DUEL du Yu-Gi-Oh! World Championship 2026.
+La prochaine étape vous attend !
 [IDS_ITEMDESC.ID1070001]
 Un protège-cartes orné du même motif que le verso des cartes du jeu de cartes à collectionner Yu-Gi-Oh!
 Si ce n'est pas cassé, à quoi bon le réparer ?
@@ -2833,18 +2936,33 @@ Pour ceux qui aiment les Duels plus que tout au monde.
 [IDS_ITEMDESC.ID1070180]
 Des Protège-cartes représentant un <category id='152'/> géant d'où partent d'innombrables fils.
 Pour ceux qui sont tombés dans les ténèbres.
+[IDS_ITEMDESC.ID1070181]
+Des Protège-cartes représentant un dragon mécanique dont l'heure de gloire dure à jamais.
+Pour ceux qui sont en quête d'une puissance destructrice toujours plus grande.
+[IDS_ITEMDESC.ID1070182]
+Des Protège-cartes représentant le chef d'une troupe de cirque qui enchante le public avec ses spectacles incroyables.
+Pour ceux qui ne manquent jamais de captiver leur public.
+[IDS_ITEMDESC.ID1070183]
+Des Protège-cartes représentant une belle déesse à l'air digne.
+Pour ceux qui aiment les nouveaux départs.
 [IDS_ITEMDESC.ID1070184]
 Des Protège-cartes représentant un tourbillon créé par la fusion de monstres.
 Pour ceux dont les stratégies s'articulent autour des Invocations Fusion.
 [IDS_ITEMDESC.ID1070189]
 Des Protège-cartes qui représentent des champions de la justice répondant à des appels au secours.
 Pour ceux dont l'espoir ne vacille jamais.
+[IDS_ITEMDESC.ID1070190]
+Des Protège-cartes représentant un "<card mrk='18176'/>" tombé après avoir dévoré les demi-dragons.
+Pour ceux qui ne tolèrent pas l'imprévu.
 [IDS_ITEMDESC.ID1070191]
-coming soon
+Protège-cartes affichant un visuel du Yu-Gi-Oh! World Championship 2026.
+Pour tous ceux qui défient le reste du monde.
 [IDS_ITEMDESC.ID1070192]
-coming soon
+Protège-cartes affichant un visuel du Yu-Gi-Oh! World Championship 2026.
+Pour tous ceux qui défient le reste du monde.
 [IDS_ITEMDESC.ID1070193]
-coming soon
+Protège-cartes affichant un visuel du Yu-Gi-Oh! World Championship 2026.
+Pour tous ceux qui défient le reste du monde.
 [IDS_ITEMDESC.ID1071001]
 Des protège-cartes illustrant un guerrier qui a mûri et accepté les cicatrices gravées dans son cœur au cours des batailles. 
 Parfaits pour ceux qui veulent toujours le meilleur pour leurs amis.
@@ -3055,9 +3173,11 @@ Pour ceux qui ont participé à la Duelist Cup et qui ont fait de cet événemen
 Un Protège-cartes avec un logo "Qualifications pour le WCS 2026".
 Pour ceux qui ont participé à la division MASTER DUEL et qui ont fait de cet événement un succès.
 [IDS_ITEMDESC.ID1073021]
-coming soon
+Un Protège-cartes avec un logo "Yu-Gi-Oh! World Championship 2026 : MASTER DUEL".
+Pour ceux qui ont été témoins de ce moment historique.
 [IDS_ITEMDESC.ID1073022]
-coming soon
+Un Protège-cartes à l'effigie du Yu-Gi-Oh! World Championship 2026 : MASTER DUEL.
+Pour ceux qui aspirent à devenir le meilleur Duelliste au monde.
 [IDS_ITEMDESC.ID1073023]
 Des protège-cartes avec le logo de la Coupe Fusion.
 Pour ceux qui ont participé à la Coupe Fusion et qui ont fait de cet événement un succès.
@@ -3284,6 +3404,9 @@ Recommandée pour les Decks imprégnés de l'âme d'un dragon.
 [IDS_ITEMDESC.ID1082032]
 Une Boîte de cartes représentant <category id='059'/>, qui protège contre le mal.
 Recommandée pour les Decks qui se battent de manière acharnée contre leurs ennemis.
+[IDS_ITEMDESC.ID1082034]
+Une Boîte de cartes représentant la culture traditionnelle japonaise.
+Recommandé pour les Decks qui apportent de la couleur aux Duels acharnés.
 [IDS_ITEMDESC.ID1083001]
 Une Boîte de cartes exclusive offerte lors d'occasions spéciales.
 [IDS_ITEMDESC.ID1090001]
@@ -3986,7 +4109,14 @@ Une puissance écrasante ouvre une brèche dans un monde fermé.
 Un Stand inspiré de "<card mrk='11268'/>".
 Les êtres possédés perdent l'esprit, devenant des coquilles vides.
 [IDS_ITEMDESC.ID1111082]
-coming soon
+Un Stand inspiré par la queue touffue des fées.
+Il est orné d'un joli motif représentant un livre et un ruban.
+[IDS_ITEMDESC.ID1111083]
+Un Stand inspiré par la troupe de cirque "<category id='188'/>", qui propose un divertissement hors du commun.
+Un spectacle éblouissant vous attend.
+[IDS_ITEMDESC.ID1111084]
+Un Stand inspiré de "<card mrk='22547'/>".
+Une force dévastatrice, capable de tout réduire en cendres, brûle en son for intérieur.
 [IDS_ITEMDESC.ID1112001]
 Un Stand issu d'un colisée.
 La flamme brillante danse comme si elle chantait les louanges des braves guerriers qui ont combattu ici.
@@ -4003,7 +4133,8 @@ Son design austère témoigne du caractère prestigieux du concours.
 Un Stand commémorant la participation à l'événement MASTER DUEL du Yu-Gi-Oh! World Championship 2025.
 Son design austère témoigne du caractère prestigieux du concours.
 [IDS_ITEMDESC.ID1113004]
-coming soon
+Un Stand commémorant la participation à l'événement MASTER DUEL du Yu-Gi-Oh! World Championship 2026.
+Son design austère témoigne du caractère prestigieux du concours.
 [IDS_ITEMDESC.ID1115001]
 Un Stand inspiré d'un jeu de football qui vous permet d'organiser des matches entre des clubs et des équipes du monde entier.
 Contient les fondements de l'histoire et de l'évolution du football.
@@ -4499,11 +4630,24 @@ Elle a été ramenée à la vie intentionnellement par "<card mrk='12762'/>".
 [IDS_ITEMDESC.ID1130140]
 Elle lève la main et libère un éclair de lumière bleue.
 Roi de tous les éclairs, il anéantit tout ce qu'il touche.
+[IDS_ITEMDESC.ID1130141]
+La fusion de plusieurs monstres "<card mrk='6390'/>" a entraîné une augmentation de leur taille et de leurs capacités.
+La quête d'une puissance destructrice toujours plus grande ne semble pas près de s'arrêter.
+[IDS_ITEMDESC.ID1130142]
+Enfant rejeté d'une famille aristocratique, il fut vendu à un cirque.
+Après la mort d'une bête avec laquelle il s'était lié d'amitié, il a quitté sa troupe pour fonder <category id='188'/>.
+[IDS_ITEMDESC.ID1130143]
+Une étoile pourpre. Des cicatrices de combat. Une âme agitée. Des pulsions destructrices.
+Lorsque ces quatre signes capables de bouleverser le monde se manifestent, la nouvelle étoile atteint son apogée.
+[IDS_ITEMDESC.ID1130144]
+Un esprit qui était invoqué en priant par le passé afin de mettre fin aux guerres qui ravageaient le pays.
+Il a été ressuscité en même temps que les élus portant la marque du dragon.
 [IDS_ITEMDESC.ID1130150]
 "<card mrk='22932'/>" affronte "<card mrk='22934'/>".
 Cette contre-attaque désespérée suffira-t-elle à mettre fin à cette folie ?
 [IDS_ITEMDESC.ID1130151]
-coming soon
+Visuel du Yu-Gi-Oh! World Championship 2026.
+Duellistes, le chemin vers le sommet n’attend plus que vous.
 [IDS_ITEMDESC.ID1132001]
 Il ne sait pas très bien pourquoi, mais le lapin est désormais membre d'un club de foot.
 Il espère mener son équipe jusqu'à la victoire grâce à son talent naturel pour le soutien.
@@ -4591,6 +4735,15 @@ On raconte que les <category id='185'/> seront rassemblés, les portes interdite
 [IDS_ITEMDESC.ID1170018]
 Un Dossier de Collectionneur consacré à ceux qui ont perdu la vie lors de la grande guerre.
 On raconte que les <category id='152'/> seront rassemblées, les portes qui se sont enfoncées dans les ténèbres brilleront de mille feux.
+[IDS_ITEMDESC.ID1170019]
+Un Dossier de Collectionneur consacré à un dragon mécanique en quête d'une puissance destructrice toujours plus grande.
+On raconte que lorsque les cartes <card mrk='6390'/> sont rassemblées, les portes de l'évolution brilleront de mille feux.
+[IDS_ITEMDESC.ID1170020]
+Un Dossier de Collectionneur consacré à une troupe de cirque proposant des spectacles hors du commun.
+On raconte que lorsque les cartes <category id='188'/> sont rassemblées, les portes menant aux créatures magiques et à la sorcellerie brilleront de mille feux.
+[IDS_ITEMDESC.ID1170022]
+Un Dossier de Collectionneur représentant la culture traditionnelle japonaise.
+On dit que lorsque l'on collectionne des cartes aux motifs particuliers, la porte menant à un Duel passionnant s'ouvre.
 [IDS_ITEMDESC.ID1180001]
 Une pièce dont le motif est le dragon lumineux qui écrit une nouvelle légende.
 Ses yeux céruléens brillent.
@@ -4663,6 +4816,9 @@ Des histoires de toutes les époques et de tous les horizons brillent de mille f
 [IDS_ITEMDESC.ID1180025]
 Une Pièce représentant l'emblème de la noble justice.
 Sa lueur scintille en quête de salut.
+[IDS_ITEMDESC.ID1180026]
+Une Pièce dont le motif représente un dragon mécanique capable de renverser le cours d'une bataille en un clin d'œil.
+L'idée selon laquelle la puissance destructrice fait loi brille de mille feux.
 [IDS_ITEMDESC.ID1190001]
 Le nombre maximum de marque-pages que vous pouvez posséder peut être augmenté.
 [IDS_ITEMDESC.ID0000]

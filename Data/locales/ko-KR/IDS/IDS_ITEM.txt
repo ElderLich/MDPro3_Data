@@ -88,6 +88,8 @@ No.41 이수마수 바구스카
 공아단의 검사 비트
 [IDS_ITEM.ID1000047]
 펭귄 솔저
+[IDS_ITEM.ID1000048]
+페어리테일－백설
 [IDS_ITEM.ID1001001]
 인스턴트 퓨전
 [IDS_ITEM.ID1001002]
@@ -512,8 +514,56 @@ GMX - ALLOS
 퍼스트 펭귄
 [IDS_ITEM.ID1010154]
 신의 충고
+[IDS_ITEM.ID1010155]
+키메라테크 메가프리트 드래곤
+[IDS_ITEM.ID1010156]
+크라운 클랜 화이트페이스
+[IDS_ITEM.ID1010157]
+태만의 항아리
+[IDS_ITEM.ID1010158]
+이펙트 뵐러
 [IDS_ITEM.ID1010160]
+블랙 매지션 & 블랙 매지션 걸 WCS2026
+[IDS_ITEM.ID1010161]
+2027 SEASON
+[IDS_ITEM.ID1010162]
 coming soon
+[IDS_ITEM.ID1010163]
+coming soon
+[IDS_ITEM.ID1010164]
+coming soon
+[IDS_ITEM.ID1010165]
+coming soon
+[IDS_ITEM.ID1010166]
+coming soon
+[IDS_ITEM.ID1010167]
+coming soon
+[IDS_ITEM.ID1010168]
+coming soon
+[IDS_ITEM.ID1010169]
+coming soon
+[IDS_ITEM.ID1010170]
+coming soon
+[IDS_ITEM.ID1010171]
+coming soon
+[IDS_ITEM.ID1010172]
+coming soon
+[IDS_ITEM.ID1010173]
+coming soon
+[IDS_ITEM.ID1010174]
+coming soon
+[IDS_ITEM.ID1010175]
+coming soon
+[IDS_ITEM.ID1010176]
+coming soon
+[IDS_ITEM.ID1010177]
+coming soon
+[IDS_ITEM.ID1010178]
+coming soon
+[IDS_ITEM.ID1010179]
+coming soon
+[IDS_ITEM.ID1010180]
+사력의 태그 체인지
 [IDS_ITEM.ID1011001]
 축구공
 [IDS_ITEM.ID1011002]
@@ -665,13 +715,13 @@ WCS2026 예선 브론즈 파이널리스트
 [IDS_ITEM.ID1011075]
 퓨전 컵 브론즈 파이널 리스트
 [IDS_ITEM.ID1011079]
-coming soon
+WCS2026 Champion
 [IDS_ITEM.ID1011080]
-coming soon
+WCS2026 Finalist
 [IDS_ITEM.ID1011081]
-coming soon
+WCS2026 BEST 4
 [IDS_ITEM.ID1011082]
-coming soon
+WCS2026 BEST 12
 [IDS_ITEM.ID1012001]
 엑스크롤러 시냅시스
 [IDS_ITEM.ID1012002]
@@ -832,6 +882,16 @@ S－Force 난파소야환
 스프라이트 스타터
 [IDS_ITEM.ID1012080]
 이엠:피 그레냐드
+[IDS_ITEM.ID1012081]
+엑소시스터 카르마엘
+[IDS_ITEM.ID1012082]
+마르코시아스
+[IDS_ITEM.ID1012083]
+엑소시스터 스텔라
+[IDS_ITEM.ID1012084]
+엑소시스터 이렌느
+[IDS_ITEM.ID1012085]
+엑소시스터 소피아
 [IDS_ITEM.ID1013001]
 파워프로
 [IDS_ITEM.ID1013002]
@@ -1319,13 +1379,15 @@ WCS2026 예선 DLv.MAX
 [IDS_ITEM.ID1020227]
 마이 페이버릿
 [IDS_ITEM.ID1020228]
-coming soon
+WCS2026 Champion
 [IDS_ITEM.ID1020229]
-coming soon
+WCS2026 Finalist
 [IDS_ITEM.ID1020230]
-coming soon
+WCS2026 BEST 4
 [IDS_ITEM.ID1020231]
-coming soon
+WCS2026 BEST 12
+[IDS_ITEM.ID1020238]
+파죽지세
 [IDS_ITEM.ID1021001]
 반석의 포진
 [IDS_ITEM.ID1021002]
@@ -1333,11 +1395,11 @@ coming soon
 [IDS_ITEM.ID1021003]
 득점원
 [IDS_ITEM.ID1022001]
-고등학생 대회 2026 챔피언
+고등학생 일본 제일 2025 챔피언
 [IDS_ITEM.ID1022002]
-고등학생 대회 2026 Grand Finalist
+고등학생 일본 제일 2025 Grand Finalist
 [IDS_ITEM.ID1022003]
-고등학생 대회 2026 Finalist
+고등학생 일본 제일 2025 Finalist
 [IDS_ITEM.ID1030001]
 비기너즈 프레임
 [IDS_ITEM.ID1030002]
@@ -1482,6 +1544,8 @@ P.U.N.K.JAM FEVER!
 금지된 성관
 [IDS_ITEM.ID1031028]
 싱크로 링크 β
+[IDS_ITEM.ID1031029]
+크라운 클랜
 [IDS_ITEM.ID1032001]
 축제의 오너먼트
 [IDS_ITEM.ID1032002]
@@ -1517,7 +1581,7 @@ WCS2025 출전 기념
 [IDS_ITEM.ID1033006]
 퓨전 볼텍스
 [IDS_ITEM.ID1033007]
-coming soon
+WCS2026 출전 기념
 [IDS_ITEM.ID1070001]
 유희왕 OCG
 [IDS_ITEM.ID1070002]
@@ -1876,18 +1940,24 @@ R.B.브루트 블루스
 페이버릿 히어로
 [IDS_ITEM.ID1070180]
 엘섀도르 네피림
+[IDS_ITEM.ID1070181]
+사이버 드래곤 인피니티
+[IDS_ITEM.ID1070182]
+크라운 클랜 화이트페이스
+[IDS_ITEM.ID1070183]
+시작의 신 파라
 [IDS_ITEM.ID1070184]
 융합
 [IDS_ITEM.ID1070189]
 다섯 번째 희망
 [IDS_ITEM.ID1070190]
-coming soon
+비스테드 디스 파테르
 [IDS_ITEM.ID1070191]
-coming soon
+블랙 매지션 & 블랙 매지션 걸 WCS2026
 [IDS_ITEM.ID1070192]
-coming soon
+블랙 매지션 WCS2026
 [IDS_ITEM.ID1070193]
-coming soon
+블랙 매지션 걸 WCS2026
 [IDS_ITEM.ID1071001]
 천궁의 파라디온
 [IDS_ITEM.ID1071002]
@@ -2029,9 +2099,9 @@ DC2026 MAR 개최 기념
 [IDS_ITEM.ID1073020]
 WCS2026 예선 개최 기념
 [IDS_ITEM.ID1073021]
-coming soon
+WCS2026 개최 기념
 [IDS_ITEM.ID1073022]
-coming soon
+WCS2026 출전 기념
 [IDS_ITEM.ID1073023]
 퓨전 컵 개최 기념
 [IDS_ITEM.ID1075001]
@@ -2185,7 +2255,7 @@ Yum☆Yum☆야미즈
 [IDS_ITEM.ID1082032]
 엑소시스터
 [IDS_ITEM.ID1082034]
-coming soon
+블랙 매지션 & 블랙 매지션 걸 WCS2026
 [IDS_ITEM.ID1083001]
 화이트 & 블루
 [IDS_ITEM.ID1090001]
@@ -2627,7 +2697,11 @@ Live☆Twin 리일라 스위트
 [IDS_ITEM.ID1111081]
 섀도르 퓨전
 [IDS_ITEM.ID1111082]
-coming soon
+테일즈오브 페어리테일
+[IDS_ITEM.ID1111083]
+크라운 클랜
+[IDS_ITEM.ID1111084]
+스카레드 하이퍼노바 드래곤
 [IDS_ITEM.ID1112001]
 콜로세움
 [IDS_ITEM.ID1112002]
@@ -2641,7 +2715,7 @@ WCS2024 출전 기념
 [IDS_ITEM.ID1113003]
 WCS2025 출전 기념
 [IDS_ITEM.ID1113004]
-coming soon
+WCS2026 출전 기념
 [IDS_ITEM.ID1115001]
 eFootball™
 [IDS_ITEM.ID1120001]
@@ -2986,10 +3060,18 @@ K9－EX “Werewolf”
 엘섀도르 미도라시
 [IDS_ITEM.ID1130140]
 도미나스 스파크
+[IDS_ITEM.ID1130141]
+종격룡－사이버 엔드 드래곤
+[IDS_ITEM.ID1130142]
+크라운 클랜 화이트페이스
+[IDS_ITEM.ID1130143]
+스카레드 하이퍼노바 드래곤
+[IDS_ITEM.ID1130144]
+붉은 용 켓차코아틀
 [IDS_ITEM.ID1130150]
 A－GMX 최종검증
 [IDS_ITEM.ID1130151]
-coming soon
+블랙 매지션 & 블랙 매지션 걸 WCS2026
 [IDS_ITEM.ID1132001]
 레스큐 래빗
 [IDS_ITEM.ID1132002]
@@ -3052,8 +3134,12 @@ K9(케이나인)
 타락천사
 [IDS_ITEM.ID1170018]
 섀도르
+[IDS_ITEM.ID1170019]
+사이버 드래곤
+[IDS_ITEM.ID1170020]
+크라운 클랜
 [IDS_ITEM.ID1170022]
-coming soon
+WCS2026
 [IDS_ITEM.ID1180001]
 푸른 눈의 아백룡
 [IDS_ITEM.ID1180002]
@@ -3104,6 +3190,8 @@ K9(케이나인)
 페어리테일
 [IDS_ITEM.ID1180025]
 엘리멘틀 히어로
+[IDS_ITEM.ID1180026]
+사이버 드래곤
 [IDS_ITEM.ID1190001]
 북마크 슬롯
 [IDS_ITEM.ID0000]

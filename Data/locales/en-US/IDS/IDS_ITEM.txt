@@ -88,6 +88,8 @@ Dinowrestler Pankratops
 Beat, Bladesman Fur Hire
 [IDS_ITEM.ID1000047]
 Penguin Soldier
+[IDS_ITEM.ID1000048]
+Fairy Tail - Snow
 [IDS_ITEM.ID1001001]
 Instant Fusion
 [IDS_ITEM.ID1001002]
@@ -512,8 +514,56 @@ GMX - ALLOS
 First Penguin
 [IDS_ITEM.ID1010154]
 Solemn Scolding
+[IDS_ITEM.ID1010155]
+Chimeratech Megafleet Dragon
+[IDS_ITEM.ID1010156]
+Clown Crew Biancaviso
+[IDS_ITEM.ID1010157]
+Pot of Sloth
+[IDS_ITEM.ID1010158]
+Effect Veiler
 [IDS_ITEM.ID1010160]
+Dark Magician & Dark Magician Girl (WCS2026)
+[IDS_ITEM.ID1010161]
+2027 SEASON
+[IDS_ITEM.ID1010162]
 coming soon
+[IDS_ITEM.ID1010163]
+coming soon
+[IDS_ITEM.ID1010164]
+coming soon
+[IDS_ITEM.ID1010165]
+coming soon
+[IDS_ITEM.ID1010166]
+coming soon
+[IDS_ITEM.ID1010167]
+coming soon
+[IDS_ITEM.ID1010168]
+coming soon
+[IDS_ITEM.ID1010169]
+coming soon
+[IDS_ITEM.ID1010170]
+coming soon
+[IDS_ITEM.ID1010171]
+coming soon
+[IDS_ITEM.ID1010172]
+coming soon
+[IDS_ITEM.ID1010173]
+coming soon
+[IDS_ITEM.ID1010174]
+coming soon
+[IDS_ITEM.ID1010175]
+coming soon
+[IDS_ITEM.ID1010176]
+coming soon
+[IDS_ITEM.ID1010177]
+coming soon
+[IDS_ITEM.ID1010178]
+coming soon
+[IDS_ITEM.ID1010179]
+coming soon
+[IDS_ITEM.ID1010180]
+Desperate Tag
 [IDS_ITEM.ID1011001]
 Soccer Ball
 [IDS_ITEM.ID1011002]
@@ -665,13 +715,13 @@ Fusion Cup Silver Finalist
 [IDS_ITEM.ID1011075]
 Fusion Cup Bronze Finalist
 [IDS_ITEM.ID1011079]
-coming soon
+WCS 2026 Champion
 [IDS_ITEM.ID1011080]
-coming soon
+WCS 2026 Finalist
 [IDS_ITEM.ID1011081]
-coming soon
+WCS 2026 Top 4
 [IDS_ITEM.ID1011082]
-coming soon
+WCS 2026 Top 12
 [IDS_ITEM.ID1012001]
 X-Krawler Synaphysis
 [IDS_ITEM.ID1012002]
@@ -832,6 +882,16 @@ S-Force Rappa Chiyomaru
 Spright Starter
 [IDS_ITEM.ID1012080]
 EM:P Meowmine
+[IDS_ITEM.ID1012081]
+Exosister Karmael
+[IDS_ITEM.ID1012082]
+Marchosias
+[IDS_ITEM.ID1012083]
+Exosister Stella
+[IDS_ITEM.ID1012084]
+Exosister Irene
+[IDS_ITEM.ID1012085]
+Exosister Sophia
 [IDS_ITEM.ID1013001]
 PawaPuro
 [IDS_ITEM.ID1013002]
@@ -1319,13 +1379,15 @@ Fusion Cup 2nd Stage Duelist
 [IDS_ITEM.ID1020227]
 My Favorite
 [IDS_ITEM.ID1020228]
-coming soon
+WCS 2026 Champion
 [IDS_ITEM.ID1020229]
-coming soon
+WCS 2026 Finalist
 [IDS_ITEM.ID1020230]
-coming soon
+WCS 2026 Top 4
 [IDS_ITEM.ID1020231]
-coming soon
+WCS 2026 Top 12
+[IDS_ITEM.ID1020238]
+Unstoppable Force
 [IDS_ITEM.ID1021001]
 Starting Out
 [IDS_ITEM.ID1021002]
@@ -1333,11 +1395,11 @@ Top Performer
 [IDS_ITEM.ID1021003]
 Point Collector
 [IDS_ITEM.ID1022001]
-High School Tournament 2026 Champion
+Japan High School Championship 2025 Champion
 [IDS_ITEM.ID1022002]
-High School Tournament 2026 Grand Finalist
+Japan High School Championship 2025 Grand Finalist
 [IDS_ITEM.ID1022003]
-High School Tournament 2026 Finalist
+Japan High School Championship 2025 Finalist
 [IDS_ITEM.ID1030001]
 Beginner's Frame
 [IDS_ITEM.ID1030002]
@@ -1482,6 +1544,8 @@ Palm Ryzeal
 Forbidden Crown
 [IDS_ITEM.ID1031028]
 Synchro Ring β
+[IDS_ITEM.ID1031029]
+Clown Crew
 [IDS_ITEM.ID1032001]
 Festive Ornament
 [IDS_ITEM.ID1032002]
@@ -1517,7 +1581,7 @@ WCS 2025 Party Favor
 [IDS_ITEM.ID1033006]
 Fusion Vortex
 [IDS_ITEM.ID1033007]
-coming soon
+WCS 2026 Party Favor
 [IDS_ITEM.ID1070001]
 Yu-Gi-Oh! Trading Card Game
 [IDS_ITEM.ID1070002]
@@ -1876,18 +1940,24 @@ Mokomoko
 Favorite Hero
 [IDS_ITEM.ID1070180]
 El Shaddoll Construct
+[IDS_ITEM.ID1070181]
+Cyber Dragon Infinity
+[IDS_ITEM.ID1070182]
+Clown Crew Biancaviso
+[IDS_ITEM.ID1070183]
+Phara the Primordial Goddess
 [IDS_ITEM.ID1070184]
 Polymerization
 [IDS_ITEM.ID1070189]
 Fifth Hope
 [IDS_ITEM.ID1070190]
-coming soon
+Bystial Dis Pater
 [IDS_ITEM.ID1070191]
-coming soon
+Dark Magician & Dark Magician Girl (WCS2026)
 [IDS_ITEM.ID1070192]
-coming soon
+Dark Magician (WCS2026)
 [IDS_ITEM.ID1070193]
-coming soon
+Dark Magician Girl (WCS2026)
 [IDS_ITEM.ID1071001]
 Crusadia Maximus
 [IDS_ITEM.ID1071002]
@@ -2029,9 +2099,9 @@ DC 2026 MAR Celebration
 [IDS_ITEM.ID1073020]
 WCS 2026 Qualifiers Celebration
 [IDS_ITEM.ID1073021]
-coming soon
+WCS 2026 Celebration
 [IDS_ITEM.ID1073022]
-coming soon
+WCS 2026 Party Favor
 [IDS_ITEM.ID1073023]
 Fusion Cup Celebration
 [IDS_ITEM.ID1075001]
@@ -2185,7 +2255,7 @@ Dragon Ravine
 [IDS_ITEM.ID1082032]
 Exosister
 [IDS_ITEM.ID1082034]
-coming soon
+Dark Magician & Dark Magician Girl (WCS2026)
 [IDS_ITEM.ID1083001]
 White & Blue
 [IDS_ITEM.ID1090001]
@@ -2627,7 +2697,11 @@ Borrel
 [IDS_ITEM.ID1111081]
 Shaddoll Fusion
 [IDS_ITEM.ID1111082]
-coming soon
+Tails of the Fairy Tails
+[IDS_ITEM.ID1111083]
+Clown Crew
+[IDS_ITEM.ID1111084]
+Red Hypernova Dragon
 [IDS_ITEM.ID1112001]
 Colosseum
 [IDS_ITEM.ID1112002]
@@ -2641,7 +2715,7 @@ WCS 2024 Party Favor
 [IDS_ITEM.ID1113003]
 WCS 2025 Party Favor
 [IDS_ITEM.ID1113004]
-coming soon
+WCS 2026 Party Favor
 [IDS_ITEM.ID1115001]
 eFootball™
 [IDS_ITEM.ID1120001]
@@ -2986,10 +3060,18 @@ Darklord Eveningstar
 El Shaddoll Winda
 [IDS_ITEM.ID1130140]
 Dominus Spark
+[IDS_ITEM.ID1130141]
+Cyber End Dragon, the Final Strike Dragon
+[IDS_ITEM.ID1130142]
+Clown Crew Biancaviso
+[IDS_ITEM.ID1130143]
+Red Hypernova Dragon
+[IDS_ITEM.ID1130144]
+Crimson Dragon Quetzalcoatl
 [IDS_ITEM.ID1130150]
 Anti-GMX Final Experiment
 [IDS_ITEM.ID1130151]
-coming soon
+Dark Magician & Dark Magician Girl (WCS2026)
 [IDS_ITEM.ID1132001]
 Rescue Rabbit
 [IDS_ITEM.ID1132002]
@@ -3052,8 +3134,12 @@ Elemental HERO
 Darklord
 [IDS_ITEM.ID1170018]
 Shaddoll
+[IDS_ITEM.ID1170019]
+Cyber Dragon
+[IDS_ITEM.ID1170020]
+Clown Crew
 [IDS_ITEM.ID1170022]
-coming soon
+WCS2026
 [IDS_ITEM.ID1180001]
 Blue-Eyes Alternative White Dragon
 [IDS_ITEM.ID1180002]
@@ -3105,7 +3191,7 @@ Fairy Tail
 [IDS_ITEM.ID1180025]
 Elemental HERO
 [IDS_ITEM.ID1180026]
-coming soon
+Cyber Dragon
 [IDS_ITEM.ID1180027]
 coming soon
 [IDS_ITEM.ID1180028]

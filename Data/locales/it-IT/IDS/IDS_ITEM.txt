@@ -88,6 +88,8 @@ Dinowrestler Pankratopo
 Beat, Schermidore Pelliccia Mercenaria
 [IDS_ITEM.ID1000047]
 Soldato Pinguino
+[IDS_ITEM.ID1000048]
+Codafavola - Neve
 [IDS_ITEM.ID1001001]
 Fusione Istantanea
 [IDS_ITEM.ID1001002]
@@ -512,8 +514,56 @@ GMX - ALLOS
 Primo Pinguino
 [IDS_ITEM.ID1010154]
 Rimprovero Solenne
+[IDS_ITEM.ID1010155]
+Drago Megaflotta Chimeratech
+[IDS_ITEM.ID1010156]
+Compagnia di Clown Biancaviso
+[IDS_ITEM.ID1010157]
+Giara dell'Accidia
+[IDS_ITEM.ID1010158]
+Dissimulatore di Effetto
 [IDS_ITEM.ID1010160]
+Mago Nero e Ragazza Maga Nera (WCS2026)
+[IDS_ITEM.ID1010161]
+STAGIONE 2027
+[IDS_ITEM.ID1010162]
 coming soon
+[IDS_ITEM.ID1010163]
+coming soon
+[IDS_ITEM.ID1010164]
+coming soon
+[IDS_ITEM.ID1010165]
+coming soon
+[IDS_ITEM.ID1010166]
+coming soon
+[IDS_ITEM.ID1010167]
+coming soon
+[IDS_ITEM.ID1010168]
+coming soon
+[IDS_ITEM.ID1010169]
+coming soon
+[IDS_ITEM.ID1010170]
+coming soon
+[IDS_ITEM.ID1010171]
+coming soon
+[IDS_ITEM.ID1010172]
+coming soon
+[IDS_ITEM.ID1010173]
+coming soon
+[IDS_ITEM.ID1010174]
+coming soon
+[IDS_ITEM.ID1010175]
+coming soon
+[IDS_ITEM.ID1010176]
+coming soon
+[IDS_ITEM.ID1010177]
+coming soon
+[IDS_ITEM.ID1010178]
+coming soon
+[IDS_ITEM.ID1010179]
+coming soon
+[IDS_ITEM.ID1010180]
+Placcaggio Disperato
 [IDS_ITEM.ID1011001]
 Pallone da calcio
 [IDS_ITEM.ID1011002]
@@ -665,13 +715,13 @@ Finalista Argento Coppa Fusione
 [IDS_ITEM.ID1011075]
 Finalista Bronzo Coppa Fusione
 [IDS_ITEM.ID1011079]
-coming soon
+Campione del WCS 2026
 [IDS_ITEM.ID1011080]
-coming soon
+Finalista al "WCS 2026"
 [IDS_ITEM.ID1011081]
-coming soon
+Top 4 al WCS 2026
 [IDS_ITEM.ID1011082]
-coming soon
+Top 12 al WCS 2026
 [IDS_ITEM.ID1012001]
 X-Krawler Sinapsisi
 [IDS_ITEM.ID1012002]
@@ -832,6 +882,16 @@ S-Forza Rappa Chiyomaru
 Spright Zampillo
 [IDS_ITEM.ID1012080]
 EM:P Miaomina
+[IDS_ITEM.ID1012081]
+Esosorella Karmael
+[IDS_ITEM.ID1012082]
+Marchosias
+[IDS_ITEM.ID1012083]
+Esosorella Stella
+[IDS_ITEM.ID1012084]
+Esosorella Irene
+[IDS_ITEM.ID1012085]
+Esosorella Sophia
 [IDS_ITEM.ID1013001]
 PawaPuro
 [IDS_ITEM.ID1013002]
@@ -1319,13 +1379,15 @@ Duellante 2nd stage Coppa Fusione
 [IDS_ITEM.ID1020227]
 Il Mio Preferito
 [IDS_ITEM.ID1020228]
-coming soon
+Campione del WCS 2026
 [IDS_ITEM.ID1020229]
-coming soon
+Finalista al "WCS 2026"
 [IDS_ITEM.ID1020230]
-coming soon
+Top 4 al WCS 2026
 [IDS_ITEM.ID1020231]
-coming soon
+Top 12 al WCS 2026
+[IDS_ITEM.ID1020238]
+Forza Inarrestabile
 [IDS_ITEM.ID1021001]
 Alle prime armi
 [IDS_ITEM.ID1021002]
@@ -1333,11 +1395,11 @@ Talento assoluto
 [IDS_ITEM.ID1021003]
 Collezionista di punti
 [IDS_ITEM.ID1022001]
-Campione 2026 del Torneo delle scuole superiori
+Campione 2025 del Campionato delle scuole superiori del Giappone
 [IDS_ITEM.ID1022002]
-Gran finalista 2026 del Torneo delle scuole superiori
+Gran finalista 2025 del Campionato delle scuole superiori del Giappone
 [IDS_ITEM.ID1022003]
-Finalista 2026 del Torneo delle scuole superiori
+Finalista 2025 del Campionato delle scuole superiori del Giappone
 [IDS_ITEM.ID1030001]
 Cornice del principiante
 [IDS_ITEM.ID1030002]
@@ -1482,6 +1544,8 @@ Ryzeal Palmo
 Corona Proibita
 [IDS_ITEM.ID1031028]
 Anello Synchro β
+[IDS_ITEM.ID1031029]
+Compagnia di Clown
 [IDS_ITEM.ID1032001]
 Ornamento festivo
 [IDS_ITEM.ID1032002]
@@ -1517,7 +1581,7 @@ Premio di partecipazione al "WCS 2025"
 [IDS_ITEM.ID1033006]
 Vortice di Fusione
 [IDS_ITEM.ID1033007]
-coming soon
+Premio di partecipazione al "WCS 2026"
 [IDS_ITEM.ID1070001]
 Yu-Gi-Oh! Gioco di Carte Collezionabili
 [IDS_ITEM.ID1070002]
@@ -1876,18 +1940,24 @@ Mokomoko
 Eroe Preferito
 [IDS_ITEM.ID1070180]
 El Bambolaombra Costrutto
+[IDS_ITEM.ID1070181]
+Cyber Drago Infinito
+[IDS_ITEM.ID1070182]
+Compagnia di Clown Biancaviso
+[IDS_ITEM.ID1070183]
+Phara la Dea Primordiale
 [IDS_ITEM.ID1070184]
 Polimerizzazione
 [IDS_ITEM.ID1070189]
 Quinta Speranza
 [IDS_ITEM.ID1070190]
-coming soon
+Bystial Dis Pater
 [IDS_ITEM.ID1070191]
-coming soon
+Mago Nero e Ragazza Maga Nera (WCS2026)
 [IDS_ITEM.ID1070192]
-coming soon
+Mago Nero (WCS2026)
 [IDS_ITEM.ID1070193]
-coming soon
+Ragazza Maga Nera (WCS2026)
 [IDS_ITEM.ID1071001]
 Crociatia Maximus
 [IDS_ITEM.ID1071002]
@@ -2029,9 +2099,9 @@ Celebrazione DC 2026 MAR
 [IDS_ITEM.ID1073020]
 Celebrazione delle "Qualificazioni del WCS 2026"
 [IDS_ITEM.ID1073021]
-coming soon
+Celebrazione del "WCS 2026"
 [IDS_ITEM.ID1073022]
-coming soon
+Premio di partecipazione al "WCS 2026"
 [IDS_ITEM.ID1073023]
 Celebrazione della Coppa Fusione
 [IDS_ITEM.ID1075001]
@@ -2185,7 +2255,7 @@ Gola Drago
 [IDS_ITEM.ID1082032]
 Esosorella
 [IDS_ITEM.ID1082034]
-coming soon
+Mago Nero e Ragazza Maga Nera (WCS2026)
 [IDS_ITEM.ID1083001]
 Bianco e Blu
 [IDS_ITEM.ID1090001]
@@ -2627,7 +2697,11 @@ Callibro
 [IDS_ITEM.ID1111081]
 Fusione Bambolaombra
 [IDS_ITEM.ID1111082]
-coming soon
+Code dei Codafavola
+[IDS_ITEM.ID1111083]
+Compagnia di Clown
+[IDS_ITEM.ID1111084]
+Drago Ipernova Rosso
 [IDS_ITEM.ID1112001]
 Colosseo
 [IDS_ITEM.ID1112002]
@@ -2641,7 +2715,7 @@ Premio di partecipazione al "WCS 2024"
 [IDS_ITEM.ID1113003]
 Premio di partecipazione al "WCS 2025"
 [IDS_ITEM.ID1113004]
-coming soon
+Premio di partecipazione al "WCS 2026"
 [IDS_ITEM.ID1115001]
 eFootball™
 [IDS_ITEM.ID1120001]
@@ -2986,10 +3060,18 @@ Signore Oscuro Stella della Sera
 El Bambolaombra Winda
 [IDS_ITEM.ID1130140]
 Scintilla Dominus
+[IDS_ITEM.ID1130141]
+Drago Cyber Finale, il Drago Colpo Finale
+[IDS_ITEM.ID1130142]
+Compagnia di Clown Biancaviso
+[IDS_ITEM.ID1130143]
+Drago Ipernova Rosso
+[IDS_ITEM.ID1130144]
+Quetzalcoatl Drago Cremisi
 [IDS_ITEM.ID1130150]
 Anti-GMX Esperimento Finale
 [IDS_ITEM.ID1130151]
-coming soon
+Mago Nero e Ragazza Maga Nera (WCS2026)
 [IDS_ITEM.ID1132001]
 Coniglio da Soccorso
 [IDS_ITEM.ID1132002]
@@ -3050,8 +3132,12 @@ EROE Elementale
 Signore Oscuro
 [IDS_ITEM.ID1170018]
 Bambolaombra
+[IDS_ITEM.ID1170019]
+Cyber Drago
+[IDS_ITEM.ID1170020]
+Compagnia di Clown
 [IDS_ITEM.ID1170022]
-coming soon
+WCS2026
 [IDS_ITEM.ID1180001]
 Drago Bianco Alternativo Occhi Blu
 [IDS_ITEM.ID1180002]
@@ -3102,6 +3188,8 @@ Caduto di Albaz
 Codafavola
 [IDS_ITEM.ID1180025]
 EROE Elementale
+[IDS_ITEM.ID1180026]
+Cyber Drago
 [IDS_ITEM.ID1190001]
 Slot Segnalibro
 [IDS_ITEM.ID0000]

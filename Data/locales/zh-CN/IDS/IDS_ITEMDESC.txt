@@ -129,6 +129,9 @@ coming soon
 [IDS_ITEMDESC.ID1000047]
 手里拿着剑的企鹅低级士兵。
 会成群结队地展开攻击。
+[IDS_ITEMDESC.ID1000048]
+美丽善良的邀请，喜欢顾家的人。
+据说居住在一个遥远的小国度。
 [IDS_ITEMDESC.ID1001001]
 一杯似乎可以让你进行融合召唤的杯面。
 身为方便食品并不意味着它没其他东西好吃。
@@ -829,8 +832,62 @@ coming soon
 [IDS_ITEMDESC.ID1010154]
 描绘了住在乐园的神的头像。
 那里有无数的禁忌宝具，据说带走它们的人会触怒神明。
+[IDS_ITEMDESC.ID1010155]
+描绘了不断进化的机械龙的头像。
+为了追求压倒性的破坏力，研发工作仍日以继夜地进行着。
+[IDS_ITEMDESC.ID1010156]
+描绘了提供奇特娱乐表演的马戏团团长的头像。
+他利用魔术从邪恶马戏团中解救了魔兽。
+[IDS_ITEMDESC.ID1010157]
+描绘了无精打采的不可思议的壶的头像。
+连把手的样式也充分表现出倦怠的设计感。
+[IDS_ITEMDESC.ID1010158]
+描绘了身边围绕青白光球的怪兽的头像。
+似乎正以神奇之力，压制住那股释放出的能力。
 [IDS_ITEMDESC.ID1010160]
+绘有Yu-Gi-Oh! World Championship 2026主视觉图的头像。
+见证世界最强。
+[IDS_ITEMDESC.ID1010161]
+代表赛季起始的头像。
+决斗者们，沿着新的决斗之路前进！
+[IDS_ITEMDESC.ID1010162]
 coming soon
+[IDS_ITEMDESC.ID1010163]
+coming soon
+[IDS_ITEMDESC.ID1010164]
+coming soon
+[IDS_ITEMDESC.ID1010165]
+coming soon
+[IDS_ITEMDESC.ID1010166]
+coming soon
+[IDS_ITEMDESC.ID1010167]
+coming soon
+[IDS_ITEMDESC.ID1010168]
+coming soon
+[IDS_ITEMDESC.ID1010169]
+coming soon
+[IDS_ITEMDESC.ID1010170]
+coming soon
+[IDS_ITEMDESC.ID1010171]
+coming soon
+[IDS_ITEMDESC.ID1010172]
+coming soon
+[IDS_ITEMDESC.ID1010173]
+coming soon
+[IDS_ITEMDESC.ID1010174]
+coming soon
+[IDS_ITEMDESC.ID1010175]
+coming soon
+[IDS_ITEMDESC.ID1010176]
+coming soon
+[IDS_ITEMDESC.ID1010177]
+coming soon
+[IDS_ITEMDESC.ID1010178]
+coming soon
+[IDS_ITEMDESC.ID1010179]
+coming soon
+[IDS_ITEMDESC.ID1010180]
+特殊机会下提供的限定头像。
 [IDS_ITEMDESC.ID1011001]
 描绘了一个由黑色与白色的板子构成的球的头像。
 在决斗中连胜三场称不上帽子戏法。
@@ -1056,6 +1113,18 @@ Yu-Gi-Oh! World Championship 2025:Master Duel分赛参赛选手的纪念头像�
 [IDS_ITEMDESC.ID1011075]
 描绘了闪耀着铜色光辉的“融合杯”标志的头像。
 颁发给在融合杯中在多场决斗中取得胜利的决斗者。
+[IDS_ITEMDESC.ID1011079]
+赠予荣获Yu-Gi-Oh! World Championship 2026:MASTER DUEL冠军决斗者的头像。
+那激战将成为铭刻于决斗者心中的炽热轨迹，永远闪耀下去。
+[IDS_ITEMDESC.ID1011080]
+赠予荣获Yu-Gi-Oh! World Championship 2026:MASTER DUEL亚军决斗者的头像。
+那激战将成为铭刻于决斗者心中的炽热轨迹，永远闪耀下去。
+[IDS_ITEMDESC.ID1011081]
+赠予Yu-Gi-Oh! World Championship 2026:MASTER DUEL四强决斗者的头像。
+压倒性的决斗天赋，令观众五体投地。
+[IDS_ITEMDESC.ID1011082]
+赠予Yu-Gi-Oh! World Championship 2026:MASTER DUEL参赛者的头像。
+这是勇于挑战世界，展现自身实力之人的证明。
 [IDS_ITEMDESC.ID1012001]
 描绘了一只某个星球中过量繁殖的“机怪虫”的上位个体的头像。
 它们会无情地破坏人类花费数代建成的文明。
@@ -1296,6 +1365,21 @@ Yu-Gi-Oh! World Championship 2025:Master Duel分赛参赛选手的纪念头像�
 [IDS_ITEMDESC.ID1012080]
 描绘了“<card mrk='14676'/>”所使用的武器的头像。
 似乎能说出简单的词语，但无法得知其具体性能。
+[IDS_ITEMDESC.ID1012081]
+描绘了知晓火星守护神，并散发使者之力的某种存在的头像。
+据说其原本的形态也具备超越“<card mrk='16740'/>”的力量。
+[IDS_ITEMDESC.ID1012082]
+描绘了附身于各种生物以获得临时躯体的恶魔的头像。
+尽管已发现会有恶魔附身于人体，但可以通过护身符来防范。
+[IDS_ITEMDESC.ID1012083]
+描绘了<category id='059'/>中擅长高速战斗的少女的头像。
+具备的使者之力能驾驭土星守护神的速度。
+[IDS_ITEMDESC.ID1012084]
+描绘了<category id='059'/>中以圣水弹审判恶魔的少女的头像。
+具备的使者之力能传达月亮守护神的神谕。
+[IDS_ITEMDESC.ID1012085]
+描绘了<category id='059'/>中以必中一击消灭敌人的少女的头像。
+具备的使者之力蕴含着金星守护神的优雅。
 [IDS_ITEMDESC.ID1013001]
 描绘了真心热爱着棒球的男孩的头像。
 无论任何一个时代，无论任何一个校园。你是否也曾见带着对棒球的满腔热血前进的少年。
@@ -2020,6 +2104,21 @@ coming soon
 [IDS_ITEMDESC.ID1020227]
 赠予驱使传说中的怪物，并取得成果的决斗者的称号。
 与众多决斗者的邂逅和战斗创造了新的传说。
+[IDS_ITEMDESC.ID1020228]
+赠予荣获Yu-Gi-Oh! World Championship 2026:MASTER DUEL冠军决斗者的称号。
+与同伴共同创造的热血决斗记忆，想必会永远流传下去。
+[IDS_ITEMDESC.ID1020229]
+赠予荣获Yu-Gi-Oh! World Championship 2026:MASTER DUEL亚军决斗者的称号。
+与同伴共同创造的热血决斗记忆，想必会永远流传下去。
+[IDS_ITEMDESC.ID1020230]
+赠予Yu-Gi-Oh! World Championship 2026:MASTER DUEL四强决斗者的称号。
+那段轨迹将影响无数决斗者，并持续创造出新的挑战。
+[IDS_ITEMDESC.ID1020231]
+赠予Yu-Gi-Oh! World Championship 2026:MASTER DUEL十二强决斗者的称号。
+唯有极少数强者能踏入此境，铭刻于此的成就，正是天选之人的证明。
+[IDS_ITEMDESC.ID1020238]
+授予在“骰子拉力　～2026 SEP～”中留下成绩的决斗者的称号。
+敢于相信自己的人，定会迎来光辉的未来。
 [IDS_ITEMDESC.ID1021001]
 特殊机会下提供的限定称号。
 [IDS_ITEMDESC.ID1021002]
@@ -2246,6 +2345,9 @@ coming soon
 [IDS_ITEMDESC.ID1031028]
 让人联想到同步召唤时出现的光圈的头像边框。
 从中能感受到奔驰于光辉照耀道路的强烈意志。
+[IDS_ITEMDESC.ID1031029]
+让人联想到马戏团“<category id='188'/>”的头像边框。
+旗下汇聚各具特征的魔兽，提供奇特的娱乐表演。
 [IDS_ITEMDESC.ID1032001]
 年关将至时，可以在各种地方看见的圆环形状的装饰品的头像边框。
 利用精致漂亮的装饰品，寄托自己希冀幸福时光更加长久的愿景。
@@ -2298,7 +2400,8 @@ coming soon
 让人联想到多只怪兽融合瞬间的头像边框。
 于融合杯留下佳绩的决斗者可获得此头像边框。
 [IDS_ITEMDESC.ID1033007]
-coming soon
+赠予Yu-Gi-Oh! World Championship 2026: MASTER DUEL分赛参赛者的头像边框。
+下一个战斗的舞台正等候着你！
 [IDS_ITEMDESC.ID1070001]
 有着与《游戏王》实体卡片游戏中的卡片背面相同设计的卡套。
 献给注重事物原本样貌的你。
@@ -2832,18 +2935,33 @@ coming soon
 [IDS_ITEMDESC.ID1070180]
 设计有伸出无数丝线的巨大<category id='152'/>的卡套。
 献给堕落于影的你。
+[IDS_ITEMDESC.ID1070181]
+设计有将闪耀瞬间化作永恒的机械龙的卡套。
+献给追求破坏力的你。
+[IDS_ITEMDESC.ID1070182]
+设计有团长以天才表演技巧亲自登台表演的卡套。
+献给持续让观众着迷的你。
+[IDS_ITEMDESC.ID1070183]
+设计有高贵美丽的女神的卡套。
+献给珍视初心的你。
 [IDS_ITEMDESC.ID1070184]
 设计有怪兽融合之际的漩涡的卡套。
 献给以融合召唤为战术核心的你。
 [IDS_ITEMDESC.ID1070189]
 设计有正义英雄们在求救声中挺身而出的卡套。
 献给无论何时都心怀希望的你。
+[IDS_ITEMDESC.ID1070190]
+设计有吞噬亚龙后堕落“<card mrk='18176'/>”的卡套。
+献给决不容许任何变数的你。
 [IDS_ITEMDESC.ID1070191]
-coming soon
+描绘有Yu-Gi-Oh! World Championship 2026主视觉图的卡套。
+献给挑战世界的你。
 [IDS_ITEMDESC.ID1070192]
-coming soon
+描绘有Yu-Gi-Oh! World Championship 2026主视觉图的卡套。
+献给挑战世界的你。
 [IDS_ITEMDESC.ID1070193]
-coming soon
+描绘有Yu-Gi-Oh! World Championship 2026主视觉图的卡套。
+献给挑战世界的你。
 [IDS_ITEMDESC.ID1071001]
 以克服了心中因战斗失败而留下的疤痕并获得了成长的战士的姿态设计出的卡套。
 献给心中时刻挂念着伙伴并无比珍视伙伴的你。
@@ -3056,9 +3174,11 @@ coming soon
 设计有“WCS2026 预选赛”标志的卡套。
 感谢您参加MASTER DUEL赛事，为其增添了一份活力。
 [IDS_ITEMDESC.ID1073021]
-coming soon
+设计有Yu-Gi-Oh! World Championship 2026 MASTER DUEL分赛视觉的卡套。
+献给见证了这一历史时刻的你。
 [IDS_ITEMDESC.ID1073022]
-coming soon
+设计有Yu-Gi-Oh! World Championship 2026 MASTER DUEL分赛视觉的卡套。
+献给目标是世界最强的你。
 [IDS_ITEMDESC.ID1073023]
 以“融合杯”的标志设计出的卡套。
 献给参与了融合杯，并炒热活动气氛的你。
@@ -3285,6 +3405,9 @@ coming soon
 [IDS_ITEMDESC.ID1082032]
 设计有<category id='059'/>降伏恶魔的场面的牌组盒。
 推荐给与恶魔展开炽烈激战的牌组使用。
+[IDS_ITEMDESC.ID1082034]
+设计有日本传统文化插图的牌组盒。
+推荐给能带来精彩热血决斗的牌组使用。
 [IDS_ITEMDESC.ID1083001]
 特殊机会下提供的限定牌组盒。
 [IDS_ITEMDESC.ID1090001]
@@ -3986,7 +4109,14 @@ coming soon
 模仿“<card mrk='11268'/>”的基座。
 据说被吸收者会失去自我，仅剩肉体存在于现世之中。
 [IDS_ITEMDESC.ID1111082]
-coming soon
+魔法妖精们毛茸茸尾巴的基座。
+亮点在于书本和缎带的搭配。
+[IDS_ITEMDESC.ID1111083]
+以提供奇特娱乐表演的马戏团“<category id='188'/>”为灵感设计出的基座。
+期待着华丽表演揭开序幕。
+[IDS_ITEMDESC.ID1111084]
+以“<card mrk='22547'/>”为灵感设计出的基座。
+足以撼动天地、烧尽万物的力量，此刻正汹涌翻腾。
 [IDS_ITEMDESC.ID1112001]
 设置于角斗场的基座。
 跳动闪烁的火焰，向矗立于此的战士致以最高荣誉。
@@ -4003,7 +4133,8 @@ Who will rise and lift the trophy of triumph side by side—the true champions?
 纪念Yu-Gi-Oh! World Championship 2025 MASTER DUEL参赛的基座。
 严肃的设计充分体现了大赛的格调之高。
 [IDS_ITEMDESC.ID1113004]
-coming soon
+纪念Yu-Gi-Oh! World Championship 2026 MASTER DUEL参赛的基座。
+严肃的设计充分体现了大赛的格调之高。
 [IDS_ITEMDESC.ID1115001]
 模仿可以使用世界各地的俱乐部以及国家队来比赛的足球游戏的基座。
 蕴含着足球的历史与进化的轨迹。
@@ -4499,11 +4630,24 @@ coming soon
 [IDS_ITEMDESC.ID1130140]
 举起的手掌前端迸裂出苍蓝闪光。
 那一击是足以歼灭万物的王之雷光。
+[IDS_ITEMDESC.ID1130141]
+结合复数“<card mrk='6390'/>”以实现大型化与高功能化。
+追求破坏力的研发精神永无止境。
+[IDS_ITEMDESC.ID1130142]
+出身贵族却被视作不祥之子而卖给马戏团。
+以好友魔兽的死为契机逃离后，成立了<category id='188'/>。
+[IDS_ITEMDESC.ID1130143]
+绯红之星、战斗之伤、灵魂鼓动、破坏冲动。
+当撼动天地的四象齐聚之时，新星将抵达极致境界。
+[IDS_ITEMDESC.ID1130144]
+很久以前，因人们渴求战火平息的祈祷而召唤出的精灵。
+如今与拥有龙之印记的被选中者一同复活。
 [IDS_ITEMDESC.ID1130150]
 迫近的“<card mrk='22934'/>”和与之对抗的“<card mrk='22932'/>”。
 这孤注一掷的行动，是否能抵抗那可怕的狂气！
 [IDS_ITEMDESC.ID1130151]
-coming soon
+Yu-Gi-Oh! World Championship 2026主视觉图。
+决斗者，向世界发起挑战吧。
 [IDS_ITEMDESC.ID1132001]
 意外加入了足球俱乐部的兔子。
 梦想以自己与生俱来的支援能力带领球队获胜。
@@ -4588,6 +4732,15 @@ coming soon
 [IDS_ITEMDESC.ID1170018]
 在先前大战中丧命之人的收藏卡册。
 据说收集完<category id='152'/>后，堕影之门将散发光辉。
+[IDS_ITEMDESC.ID1170019]
+追求破坏力的机械龙的收藏卡册。
+据说收集完<card mrk='6390'/>后，进化之门将散发光辉。
+[IDS_ITEMDESC.ID1170020]
+提供奇特娱乐表演的马戏团的收藏卡册。
+据说收集完<category id='188'/>后，魔兽与奇术之门将散发光辉。
+[IDS_ITEMDESC.ID1170022]
+日本传统文化插图的收藏卡册。
+举手收集完特别设计的卡片后，热血决斗之门将散发光辉。
 [IDS_ITEMDESC.ID1180001]
 以创造新传说的白龙为原型的硬币。
 青色的眼睛闪耀着光芒。
@@ -4661,6 +4814,9 @@ D的象征闪烁着光芒。
 [IDS_ITEMDESC.ID1180025]
 以高尚的正义标志为概念所设计的硬币。
 求救信号闪烁着光芒。
+[IDS_ITEMDESC.ID1180026]
+以一击就能扭转局势的机械龙为概念所设计的硬币。
+破坏力即正义的信念闪烁着光芒。
 [IDS_ITEMDESC.ID1190001]
 可以让你的书签上限增加一个。
 [IDS_ITEMDESC.ID0000]

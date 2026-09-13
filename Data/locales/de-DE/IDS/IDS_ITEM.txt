@@ -88,6 +88,8 @@ Dinowrestler Pankratops
 Beat, Klingenkämpfer-Fellsöldner
 [IDS_ITEM.ID1000047]
 Pinguinsoldat
+[IDS_ITEM.ID1000048]
+Märchenschweif - Schnee
 [IDS_ITEM.ID1001001]
 Instantfusion
 [IDS_ITEM.ID1001002]
@@ -512,8 +514,56 @@ GMX - ALLOS
 Erster Pinguin
 [IDS_ITEM.ID1010154]
 Ernste Predigt
+[IDS_ITEM.ID1010155]
+Chimeratech-Megaflottendrache
+[IDS_ITEM.ID1010156]
+Clowntrupp Biancaviso
+[IDS_ITEM.ID1010157]
+Topf der Faulheit
+[IDS_ITEM.ID1010158]
+Effektverschleierin
 [IDS_ITEM.ID1010160]
+Dunkler Magier und Dunkles Magier-Mädchen (WCS2026)
+[IDS_ITEM.ID1010161]
+SAISON 2027
+[IDS_ITEM.ID1010162]
 coming soon
+[IDS_ITEM.ID1010163]
+coming soon
+[IDS_ITEM.ID1010164]
+coming soon
+[IDS_ITEM.ID1010165]
+coming soon
+[IDS_ITEM.ID1010166]
+coming soon
+[IDS_ITEM.ID1010167]
+coming soon
+[IDS_ITEM.ID1010168]
+coming soon
+[IDS_ITEM.ID1010169]
+coming soon
+[IDS_ITEM.ID1010170]
+coming soon
+[IDS_ITEM.ID1010171]
+coming soon
+[IDS_ITEM.ID1010172]
+coming soon
+[IDS_ITEM.ID1010173]
+coming soon
+[IDS_ITEM.ID1010174]
+coming soon
+[IDS_ITEM.ID1010175]
+coming soon
+[IDS_ITEM.ID1010176]
+coming soon
+[IDS_ITEM.ID1010177]
+coming soon
+[IDS_ITEM.ID1010178]
+coming soon
+[IDS_ITEM.ID1010179]
+coming soon
+[IDS_ITEM.ID1010180]
+Verzweifelte Auswechslung
 [IDS_ITEM.ID1011001]
 Fußball
 [IDS_ITEM.ID1011002]
@@ -665,13 +715,13 @@ Fusion-Cup Silber-Finalist
 [IDS_ITEM.ID1011075]
 Fusion-Cup Bronze-Finalist
 [IDS_ITEM.ID1011079]
-coming soon
+Champion der WCS 2026
 [IDS_ITEM.ID1011080]
-coming soon
+Finalist der WCS 2026
 [IDS_ITEM.ID1011081]
-coming soon
+Top 4 der WCS 2026
 [IDS_ITEM.ID1011082]
-coming soon
+Top 12 der WCS 2026
 [IDS_ITEM.ID1012001]
 X-Krawler Synaphysis
 [IDS_ITEM.ID1012002]
@@ -832,6 +882,16 @@ S-Kraft Rappa Chiyomaru
 Spright-Starter
 [IDS_ITEM.ID1012080]
 EM:P-Miaumine
+[IDS_ITEM.ID1012081]
+Exoschwester Karmael
+[IDS_ITEM.ID1012082]
+Marchosias
+[IDS_ITEM.ID1012083]
+Exoschwester Stella
+[IDS_ITEM.ID1012084]
+Exoschwester Irene
+[IDS_ITEM.ID1012085]
+Exoschwester Sophia
 [IDS_ITEM.ID1013001]
 PawaPuro
 [IDS_ITEM.ID1013002]
@@ -1319,13 +1379,15 @@ Duellant des Fusion-Cup 2nd Stage
 [IDS_ITEM.ID1020227]
 Mein Favorit
 [IDS_ITEM.ID1020228]
-coming soon
+Champion der WCS 2026
 [IDS_ITEM.ID1020229]
-coming soon
+Finalist der WCS 2026
 [IDS_ITEM.ID1020230]
-coming soon
+Top 4 der WCS 2026
 [IDS_ITEM.ID1020231]
-coming soon
+Top 12 der WCS 2026
+[IDS_ITEM.ID1020238]
+Unaufhaltsame Kraft
 [IDS_ITEM.ID1021001]
 Einsteiger
 [IDS_ITEM.ID1021002]
@@ -1333,11 +1395,11 @@ Top-Performer
 [IDS_ITEM.ID1021003]
 Punkte-Sammler
 [IDS_ITEM.ID1022001]
-High-School-Turnier 2026 Champion
+Japanische Highschool-Meisterschaft 2025 Champion
 [IDS_ITEM.ID1022002]
-High-School-Turnier 2026 Finalist beim Großen Finale
+Japanische Highschool-Meisterschaft 2025 Finalist beim Großen Finale
 [IDS_ITEM.ID1022003]
-High-School-Turnier 2026 Finalist
+Japanische Highschool-Meisterschaft 2025 Finalist
 [IDS_ITEM.ID1030001]
 Anfängerrahmen
 [IDS_ITEM.ID1030002]
@@ -1482,6 +1544,8 @@ Handflächen-Ryzeal
 Verbotene Krone
 [IDS_ITEM.ID1031028]
 Synchro-Ring β
+[IDS_ITEM.ID1031029]
+Clowntrupp
 [IDS_ITEM.ID1032001]
 Festliches Ornament
 [IDS_ITEM.ID1032002]
@@ -1517,7 +1581,7 @@ Geschenk zur WCS 2025
 [IDS_ITEM.ID1033006]
 Fusionswirbel
 [IDS_ITEM.ID1033007]
-coming soon
+Geschenk zur WCS 2026
 [IDS_ITEM.ID1070001]
 Yu-Gi-Oh! Sammelkartenspiel
 [IDS_ITEM.ID1070002]
@@ -1876,18 +1940,24 @@ Mokomoko
 Lieblingsheld
 [IDS_ITEM.ID1070180]
 El Schattenpuppe Konstrukt
+[IDS_ITEM.ID1070181]
+Cyber Drache Unendlichkeit
+[IDS_ITEM.ID1070182]
+Clowntrupp Biancaviso
+[IDS_ITEM.ID1070183]
+Phara die Urgöttin
 [IDS_ITEM.ID1070184]
 Polymerisation
 [IDS_ITEM.ID1070189]
 Fünfte Hoffnung
 [IDS_ITEM.ID1070190]
-coming soon
+Abgeheuerlicher Dis Pater
 [IDS_ITEM.ID1070191]
-coming soon
+Dunkler Magier und Dunkles Magier-Mädchen (WCS2026)
 [IDS_ITEM.ID1070192]
-coming soon
+Dunkler Magier (WCS2026)
 [IDS_ITEM.ID1070193]
-coming soon
+Dunkles Magier-Mädchen (WCS2026)
 [IDS_ITEM.ID1071001]
 Crusadia Maximus
 [IDS_ITEM.ID1071002]
@@ -2029,9 +2099,9 @@ Feier des DC 2026 MAR
 [IDS_ITEM.ID1073020]
 Feier der WCS 2026 Qualifier
 [IDS_ITEM.ID1073021]
-coming soon
+Feier der WCS 2026
 [IDS_ITEM.ID1073022]
-coming soon
+Geschenk zur WCS 2026
 [IDS_ITEM.ID1073023]
 Feier des Fusion-Cups
 [IDS_ITEM.ID1075001]
@@ -2185,7 +2255,7 @@ Drachenschlucht
 [IDS_ITEM.ID1082032]
 Exoschwester
 [IDS_ITEM.ID1082034]
-coming soon
+Dunkler Magier und Dunkles Magier-Mädchen (WCS2026)
 [IDS_ITEM.ID1083001]
 Weiß & Blau
 [IDS_ITEM.ID1090001]
@@ -2627,7 +2697,11 @@ Kalliber
 [IDS_ITEM.ID1111081]
 Schattenpuppen-Fusion
 [IDS_ITEM.ID1111082]
-coming soon
+Schweife der Märchenschweife
+[IDS_ITEM.ID1111083]
+Clowntrupp
+[IDS_ITEM.ID1111084]
+Roter Hypernova-Drache
 [IDS_ITEM.ID1112001]
 Kolosseum
 [IDS_ITEM.ID1112002]
@@ -2641,7 +2715,7 @@ Geschenk zur WCS 2024
 [IDS_ITEM.ID1113003]
 Geschenk zur WCS 2025
 [IDS_ITEM.ID1113004]
-coming soon
+Geschenk zur WCS 2026
 [IDS_ITEM.ID1115001]
 eFootball™
 [IDS_ITEM.ID1120001]
@@ -2986,10 +3060,18 @@ Finsterlord Abendstern
 El Schattenpuppe Winda
 [IDS_ITEM.ID1130140]
 Dominus-Funke
+[IDS_ITEM.ID1130141]
+Cyber End-Drache, der Drache des letzten Schlags
+[IDS_ITEM.ID1130142]
+Clowntrupp Biancaviso
+[IDS_ITEM.ID1130143]
+Roter Hypernova-Drache
+[IDS_ITEM.ID1130144]
+Feuerroter Drache Quetzalcoatl
 [IDS_ITEM.ID1130150]
 Letztes Anti-GMX-Experiment
 [IDS_ITEM.ID1130151]
-coming soon
+Dunkler Magier und Dunkles Magier-Mädchen (WCS2026)
 [IDS_ITEM.ID1132001]
 Rettungskaninchen
 [IDS_ITEM.ID1132002]
@@ -3050,8 +3132,12 @@ Elementar-HELD
 Finsterlord
 [IDS_ITEM.ID1170018]
 Schattenpuppe
+[IDS_ITEM.ID1170019]
+Cyber Drache
+[IDS_ITEM.ID1170020]
+Clowntrupp
 [IDS_ITEM.ID1170022]
-coming soon
+WCS2026
 [IDS_ITEM.ID1180001]
 Blauäugiger alternativer weißer Drache
 [IDS_ITEM.ID1180002]
@@ -3102,6 +3188,8 @@ Gefallener von Albaz
 Märchenschweif
 [IDS_ITEM.ID1180025]
 Elementar-HELD
+[IDS_ITEM.ID1180026]
+Cyber Drache
 [IDS_ITEM.ID1190001]
 Lesezeichen-Plätze
 [IDS_ITEM.ID0000]

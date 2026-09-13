@@ -88,6 +88,8 @@ Dinolutteur Pancraceratops
 Beat, Épéiste Mercefourrure
 [IDS_ITEM.ID1000047]
 Soldat Pingouin
+[IDS_ITEM.ID1000048]
+Animal Féérique - Blanche
 [IDS_ITEM.ID1001001]
 Fusion Instantanée
 [IDS_ITEM.ID1001002]
@@ -512,8 +514,56 @@ GMX - ALLOS
 Premier Pingouin
 [IDS_ITEM.ID1010154]
 Sermon Solennel
+[IDS_ITEM.ID1010155]
+Dragon Mégaflotte Chimeratech
+[IDS_ITEM.ID1010156]
+Biancaviso, Troupe des Clowns
+[IDS_ITEM.ID1010157]
+Pot de Paresse
+[IDS_ITEM.ID1010158]
+Illusionniste d'Effet
 [IDS_ITEM.ID1010160]
+Magicien Sombre et Magicienne des Ténèbres (WCS2026)
+[IDS_ITEM.ID1010161]
+SAISON 2027
+[IDS_ITEM.ID1010162]
 coming soon
+[IDS_ITEM.ID1010163]
+coming soon
+[IDS_ITEM.ID1010164]
+coming soon
+[IDS_ITEM.ID1010165]
+coming soon
+[IDS_ITEM.ID1010166]
+coming soon
+[IDS_ITEM.ID1010167]
+coming soon
+[IDS_ITEM.ID1010168]
+coming soon
+[IDS_ITEM.ID1010169]
+coming soon
+[IDS_ITEM.ID1010170]
+coming soon
+[IDS_ITEM.ID1010171]
+coming soon
+[IDS_ITEM.ID1010172]
+coming soon
+[IDS_ITEM.ID1010173]
+coming soon
+[IDS_ITEM.ID1010174]
+coming soon
+[IDS_ITEM.ID1010175]
+coming soon
+[IDS_ITEM.ID1010176]
+coming soon
+[IDS_ITEM.ID1010177]
+coming soon
+[IDS_ITEM.ID1010178]
+coming soon
+[IDS_ITEM.ID1010179]
+coming soon
+[IDS_ITEM.ID1010180]
+Changement Désespéré
 [IDS_ITEM.ID1011001]
 Ballon de foot
 [IDS_ITEM.ID1011002]
@@ -665,13 +715,13 @@ Finaliste Coupe Fusion Argent
 [IDS_ITEM.ID1011075]
 Finaliste Coupe Fusion Bronze
 [IDS_ITEM.ID1011079]
-coming soon
+Champion du WCS 2026
 [IDS_ITEM.ID1011080]
-coming soon
+Finaliste du WCS 2026
 [IDS_ITEM.ID1011081]
-coming soon
+Top 4 du WCS 2026
 [IDS_ITEM.ID1011082]
-coming soon
+Top 12 du WCS 2026
 [IDS_ITEM.ID1012001]
 Synaphusis X-Krawler
 [IDS_ITEM.ID1012002]
@@ -832,6 +882,16 @@ Rappa Chiyomaru de la Force-S
 Démarreur de Spright
 [IDS_ITEM.ID1012080]
 EM:P Miaoumine
+[IDS_ITEM.ID1012081]
+Exosœur Karmael
+[IDS_ITEM.ID1012082]
+Marchosias
+[IDS_ITEM.ID1012083]
+Exosœur Stella
+[IDS_ITEM.ID1012084]
+Exosœur Irène
+[IDS_ITEM.ID1012085]
+Exosœur Sophia
 [IDS_ITEM.ID1013001]
 PawaPuro
 [IDS_ITEM.ID1013002]
@@ -1319,13 +1379,15 @@ Duelliste 2nd Stage Coupe Fusion
 [IDS_ITEM.ID1020227]
 Mon favori
 [IDS_ITEM.ID1020228]
-coming soon
+Champion du WCS 2026
 [IDS_ITEM.ID1020229]
-coming soon
+Finaliste du WCS 2026
 [IDS_ITEM.ID1020230]
-coming soon
+Top 4 du WCS 2026
 [IDS_ITEM.ID1020231]
-coming soon
+Top 12 du WCS 2026
+[IDS_ITEM.ID1020238]
+Force imparable
 [IDS_ITEM.ID1021001]
 Démarrage
 [IDS_ITEM.ID1021002]
@@ -1333,11 +1395,11 @@ Meilleure performance
 [IDS_ITEM.ID1021003]
 Collectionneur de Points
 [IDS_ITEM.ID1022001]
-Champion du tournoi des lycéens 2026
+Champion du Championnat des lycées au Japon 2025
 [IDS_ITEM.ID1022002]
-Grand finaliste du tournoi des lycéens 2026
+Grand finaliste du Championnat des lycées au Japon 2025
 [IDS_ITEM.ID1022003]
-Finaliste du tournoi des lycéens 2026
+Finaliste du Championnat des lycées au Japon 2025
 [IDS_ITEM.ID1030001]
 Cadre pour débutant
 [IDS_ITEM.ID1030002]
@@ -1482,6 +1544,8 @@ Paume Ryzéal
 Couronne Interdite
 [IDS_ITEM.ID1031028]
 Anneau Synchro β
+[IDS_ITEM.ID1031029]
+Troupe des Clowns
 [IDS_ITEM.ID1032001]
 Ornement festif
 [IDS_ITEM.ID1032002]
@@ -1517,7 +1581,7 @@ Fête du WCS 2025
 [IDS_ITEM.ID1033006]
 Vortex Fusion
 [IDS_ITEM.ID1033007]
-coming soon
+Fête du WCS 2026
 [IDS_ITEM.ID1070001]
 Jeu de cartes à collectionner Yu-Gi-Oh!
 [IDS_ITEM.ID1070002]
@@ -1876,18 +1940,24 @@ Mokomoko
 Héros Favori
 [IDS_ITEM.ID1070180]
 Construction Marionnette de l'Ombre El
+[IDS_ITEM.ID1070181]
+Cyber Dragon Infini
+[IDS_ITEM.ID1070182]
+Biancaviso, Troupe des Clowns
+[IDS_ITEM.ID1070183]
+Phara la Déesse Primordiale
 [IDS_ITEM.ID1070184]
 Polymérisation
 [IDS_ITEM.ID1070189]
 Espoir des Cinq
 [IDS_ITEM.ID1070190]
-coming soon
+Bystial Dis Pater
 [IDS_ITEM.ID1070191]
-coming soon
+Magicien Sombre et Magicienne des Ténèbres (WCS2026)
 [IDS_ITEM.ID1070192]
-coming soon
+Magicien Sombre (WCS2026)
 [IDS_ITEM.ID1070193]
-coming soon
+Magicienne des Ténèbres (WCS2026)
 [IDS_ITEM.ID1071001]
 Maximus Croisédia
 [IDS_ITEM.ID1071002]
@@ -2029,9 +2099,9 @@ Célébration de la DC 2026 MAR
 [IDS_ITEM.ID1073020]
 Célébration des qualifications pour le WCS 2026
 [IDS_ITEM.ID1073021]
-coming soon
+Célébration du WCS 2026
 [IDS_ITEM.ID1073022]
-coming soon
+Fête du WCS 2026
 [IDS_ITEM.ID1073023]
 Célébration de la Coupe Fusion
 [IDS_ITEM.ID1075001]
@@ -2185,7 +2255,7 @@ Ravin des Dragons
 [IDS_ITEM.ID1082032]
 Exosœur
 [IDS_ITEM.ID1082034]
-coming soon
+Magicien Sombre et Magicienne des Ténèbres (WCS2026)
 [IDS_ITEM.ID1083001]
 Blanc et bleu
 [IDS_ITEM.ID1090001]
@@ -2627,7 +2697,11 @@ borrelle
 [IDS_ITEM.ID1111081]
 Fusion Marionnette de l'Ombre
 [IDS_ITEM.ID1111082]
-coming soon
+Animaux de l'Animal Féérique
+[IDS_ITEM.ID1111083]
+Troupe des Clowns
+[IDS_ITEM.ID1111084]
+Dragon Hypernova Rouge
 [IDS_ITEM.ID1112001]
 Colisée
 [IDS_ITEM.ID1112002]
@@ -2641,7 +2715,7 @@ Fête du WCS 2024
 [IDS_ITEM.ID1113003]
 Fête du WCS 2025
 [IDS_ITEM.ID1113004]
-coming soon
+Fête du WCS 2026
 [IDS_ITEM.ID1115001]
 eFootball™
 [IDS_ITEM.ID1120001]
@@ -2986,10 +3060,18 @@ Ange Déchu Étoile du Berger
 Winda Marionnette de l'Ombre El
 [IDS_ITEM.ID1130140]
 Étincelle Dominus
+[IDS_ITEM.ID1130141]
+Dragon Cyber Ultime, le Dragon de l'Assaut Final
+[IDS_ITEM.ID1130142]
+Biancaviso, Troupe des Clowns
+[IDS_ITEM.ID1130143]
+Dragon Hypernova Rouge
+[IDS_ITEM.ID1130144]
+Quetzalcoatl le Dragon Cramoisi
 [IDS_ITEM.ID1130150]
 Expérience Finale Anti-GMX
 [IDS_ITEM.ID1130151]
-coming soon
+Magicien Sombre et Magicienne des Ténèbres (WCS2026)
 [IDS_ITEM.ID1132001]
 Lapin Sauveteur
 [IDS_ITEM.ID1132002]
@@ -3050,8 +3132,12 @@ HÉROS Élémentaire
 Ange Déchu
 [IDS_ITEM.ID1170018]
 Marionnette de l'Ombre
+[IDS_ITEM.ID1170019]
+Cyber Dragon
+[IDS_ITEM.ID1170020]
+Troupe des Clowns
 [IDS_ITEM.ID1170022]
-coming soon
+WCS2026
 [IDS_ITEM.ID1180001]
 Dragon Blanc Alternatif aux Yeux Bleus
 [IDS_ITEM.ID1180002]
@@ -3102,6 +3188,8 @@ Albaz le Déchu
 Animal Féérique
 [IDS_ITEM.ID1180025]
 HÉROS Élémentaire
+[IDS_ITEM.ID1180026]
+Cyber Dragon
 [IDS_ITEM.ID1190001]
 Emplacements de marque-page
 [IDS_ITEM.ID0000]

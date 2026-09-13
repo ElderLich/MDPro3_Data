@@ -130,6 +130,9 @@ coming soon
 [IDS_ITEMDESC.ID1000047]
 검을 든 펭귄 하급 전사.
 다 같이 공격해 온다.
+[IDS_ITEMDESC.ID1000048]
+가족을 소중히 여기는 사람을 좋아하는 상냥하고 아름다운 요정.
+아주 머나먼 작은 나라에서 살고 있다고 한다.
 [IDS_ITEMDESC.ID1001001]
 융합 소환을 가능하게 해줄 것만 같은 컵.
 간편하다고 해서, 그게 다른 것만 못하다고는 단언할 수 없다.
@@ -830,8 +833,62 @@ coming soon
 [IDS_ITEMDESC.ID1010154]
 낙원에 사는 신의 모습이 그려진 아이콘.
 그곳에는 수많은 금지된 보구가 있으며, 그것을 가지고 나온 자는 신의 분노를 사게 된다.
+[IDS_ITEMDESC.ID1010155]
+진화를 거듭하는 기계룡의 모습이 그려진 아이콘.
+압도적인 파괴력을 추구하여, 밤낮 연구 개발이 계속되고 있다.
+[IDS_ITEMDESC.ID1010156]
+기발한 엔터테인먼트를 선보이는 서커스단의 단장이 그려진 아이콘.
+마법을 사용해 악덕 서커스단으로부터 마수들을 해방시키고 있다.
+[IDS_ITEMDESC.ID1010157]
+의욕이라고는 전혀 없어 보이는 신비한 항아리가 그려진 아이콘.
+손잡이의 배치 역시 그 나태함을 표현한 디자인으로 되어 있다.
+[IDS_ITEMDESC.ID1010158]
+푸르스름한 빛의 구체를 감싸안은 몬스터가 그려진 아이콘.
+방출된 힘을 신비한 힘으로 억누르는 듯한 모습이다.
 [IDS_ITEMDESC.ID1010160]
+Yu-Gi-Oh! World Championship 2026의 키 비주얼이 그려진 아이콘.
+세계 최강을 목격하라.
+[IDS_ITEMDESC.ID1010161]
+시즌의 시작을 알리는 아이콘.
+듀얼리스트들이여, 새로운 싸움의 로드를 나아가라!
+[IDS_ITEMDESC.ID1010162]
 coming soon
+[IDS_ITEMDESC.ID1010163]
+coming soon
+[IDS_ITEMDESC.ID1010164]
+coming soon
+[IDS_ITEMDESC.ID1010165]
+coming soon
+[IDS_ITEMDESC.ID1010166]
+coming soon
+[IDS_ITEMDESC.ID1010167]
+coming soon
+[IDS_ITEMDESC.ID1010168]
+coming soon
+[IDS_ITEMDESC.ID1010169]
+coming soon
+[IDS_ITEMDESC.ID1010170]
+coming soon
+[IDS_ITEMDESC.ID1010171]
+coming soon
+[IDS_ITEMDESC.ID1010172]
+coming soon
+[IDS_ITEMDESC.ID1010173]
+coming soon
+[IDS_ITEMDESC.ID1010174]
+coming soon
+[IDS_ITEMDESC.ID1010175]
+coming soon
+[IDS_ITEMDESC.ID1010176]
+coming soon
+[IDS_ITEMDESC.ID1010177]
+coming soon
+[IDS_ITEMDESC.ID1010178]
+coming soon
+[IDS_ITEMDESC.ID1010179]
+coming soon
+[IDS_ITEMDESC.ID1010180]
+특별한 기회를 통해 증정되는 한정 아이콘.
 [IDS_ITEMDESC.ID1011001]
 흰색과 검은색의 패널로 구성된 볼이 그려진 아이콘.
 듀얼로 3연승 해도 해트트릭이라고는 하지는 않는다.
@@ -1057,6 +1114,18 @@ Yu-Gi-Oh! World Championship 2025 :  마스터 듀얼 부문 출전을 기념하
 [IDS_ITEMDESC.ID1011075]
 동빛으로 찬란하게 빛나는 「퓨전 컵」의 로고가 그려진 아이콘.
 퓨전 컵에서 수많은 듀얼을 이겨나온 듀얼리스트에게 주어진다.
+[IDS_ITEMDESC.ID1011079]
+Yu-Gi-Oh! World Championship 2026 : MASTER DUEL 부문에서 챔피언에 빛난 듀얼리스트에게 주어지는 아이콘.
+그 일전은, 듀얼리스트의 마음에 새겨진 뜨거운 궤적으로 계속 빛날 것이다.
+[IDS_ITEMDESC.ID1011080]
+Yu-Gi-Oh! World Championship 2026 : MASTER DUEL 부문에서 준우승이라는 결과를 남긴 듀얼리스트에게 주어지는 아이콘.
+그 일전은, 듀얼리스트의 마음에 새겨진 뜨거운 궤적으로 계속 빛날 것이다.
+[IDS_ITEMDESC.ID1011081]
+Yu-Gi-Oh! World Championship 2026 : MASTER DUEL 부문에서 BEST 4라는 결과를 남긴 듀얼리스트에게 주어지는 아이콘.
+관객은 그 압도적 듀얼 센스 앞에 말을 잃었다.
+[IDS_ITEMDESC.ID1011082]
+Yu-Gi-Oh! World Championship 2026 : MASTER DUEL 부문 출전을 기념한 아이콘.
+세계와 겨루어, 자신의 힘을 증명한 자의 증표이다.
 [IDS_ITEMDESC.ID1012001]
 어느 별에 넘치는 기괴충 「크롤러」의 상위 개체 중 하나가 그려진 아이콘.
 그들은 무자비하게 인류가 쌓아올린 것을 파괴한다.
@@ -1296,6 +1365,21 @@ Yu-Gi-Oh! World Championship 2025 :  마스터 듀얼 부문 출전을 기념하
 불멸의 에너지 생명체 「<category id='40'/>」가 모습을 드러낸다.
 [IDS_ITEMDESC.ID1012080]
 「<card mrk='14676'/>」가 다루는 무기가 그려진 아이콘. 간단한 말만 내뱉는 듯하지만, 그 구체적인 성능은 확인되지 않았다.
+[IDS_ITEMDESC.ID1012081]
+화성을 수호하는 신을 꿰뚫어 본 사자의 힘을 두른 존재와 비슷한 무언가가 그려진 아이콘.
+본래의 모습 상태에서도 「<card mrk='16740'/>」를 뛰어넘는 힘을 가지고 있다고 한다.
+[IDS_ITEMDESC.ID1012082]
+다양한 생물에게 빙의하여 임시로 육체를 얻는 악마 중 하나가 그려진 아이콘.
+사람에게 빙의하는 악마도 확인되었지만, 액막이로 막을 수 있다.
+[IDS_ITEMDESC.ID1012083]
+고속 전투가 특기인 <category id='059'/>로서 활동하는 소녀가 그려진 아이콘.
+토성을 수호하는 신의 속도를 지닌 사자의 힘을 두를 수 있다.
+[IDS_ITEMDESC.ID1012084]
+성수탄으로 악마에게 심판을 내리는 <category id='059'/>로서 활동하는 소녀가 그려진 아이콘.
+달을 수호하는 신의 말을 전하는 사자의 힘을 두를 수 있다.
+[IDS_ITEMDESC.ID1012085]
+필살의 일격을 적에게 쏘는 <category id='059'/>로서 활동하는 소녀가 그려진 아이콘.
+금성을 수호하는 신의 우아함을 간직한 사자의 힘을 두를 수 있다.
 [IDS_ITEMDESC.ID1013001]
 야구를 마음 깊은 곳에서부터 즐기는 소년이 그려진 아이콘.
 야구를 향한 뜨거운 열정을 가슴에 품고 나아가는 그의 모습을 어느 학교, 어느 시대에 당신도 본 적이 있을지도.
@@ -2022,6 +2106,21 @@ Yu-Gi-Oh! World Championship 2025 : MASTER DUEL 부문에서 BEST 12라는 결�
 [IDS_ITEMDESC.ID1020227]
 전설의 몬스터들을 구사하여 결과를 남긴 듀얼리스트에게 주어지는 칭호.
 많은 듀얼리스트와의 만남과 결투가 새로운 전설을 만들어낸다.
+[IDS_ITEMDESC.ID1020228]
+Yu-Gi-Oh! World Championship 2026 : MASTER DUEL 부문에서 챔피언에 빛난 듀얼리스트에게 주어지는 칭호.
+동료와 함께 싸운 뜨거운 듀얼의 기억은, 영원토록 전해질 것이다.
+[IDS_ITEMDESC.ID1020229]
+Yu-Gi-Oh! World Championship 2026 : MASTER DUEL 부문에서 준우승이라는 결과를 남긴 듀얼리스트에게 주어지는 칭호.
+동료와 함께 싸운 뜨거운 듀얼의 기억은, 영원토록 전해질 것이다.
+[IDS_ITEMDESC.ID1020230]
+Yu-Gi-Oh! World Championship 2026 : MASTER DUEL 부문에서 BEST 4라는 결과를 남긴 듀얼리스트에게 주어지는 칭호.
+그 궤적은 수많은 듀얼리스트에게 영향을 주며, 끊임없이 새로운 도전을 만들어낼 것이다.
+[IDS_ITEMDESC.ID1020231]
+Yu-Gi-Oh! World Championship 2026 : MASTER DUEL 부문에서 BEST 12라는 결과를 남긴 듀얼리스트에게 주어지는 칭호.
+이 영역에 도달한 자는 거의 없으며, 그 실적은 선택받은 자의 증표로서 새겨질 것이다.
+[IDS_ITEMDESC.ID1020238]
+「다이스 랠리 ~2026 SEP~」에서 결과를 남긴 듀얼리스트에게 주어지는 칭호.
+스스로를 믿는 용기 있는 자가, 빛나는 미래를 거머쥔다.
 [IDS_ITEMDESC.ID1021001]
 특별한 기회에 주어지는 한정 칭호.
 [IDS_ITEMDESC.ID1021002]
@@ -2249,6 +2348,9 @@ Yu-Gi-Oh! World Championship 2025 : MASTER DUEL 부문에서 BEST 12라는 결�
 [IDS_ITEMDESC.ID1031028]
 싱크로 소환 시에 나타나는 빛의 고리를 떠올리게 하는 아이콘 프레임.
 빛이 비추는 길을 달려 나가려 하는 강한 의지가 느껴진다.
+[IDS_ITEMDESC.ID1031029]
+서커스단 「<category id='188'/>」을 떠올리게 하는 아이콘 프레임.
+다양한 개성을 지닌 마수들이 소속되어 있어, 기발한 엔터메를 제공한다.
 [IDS_ITEMDESC.ID1032001]
 한 해의 끝이 올 때, 다양한 장소에서 보이는 고리 형태의 장식품을 본뜬 아이콘 프레임.
 행복한 때가 오기를 바라며 정성껏 휘황찬란하게 꾸민다.
@@ -2301,7 +2403,8 @@ Yu-Gi-Oh! World Championship 2025 MASTER DUEL 부문 출전을 기념하는 아�
 복수의 몬스터가 융합하는 순간을 떠올리게 하는 아이콘 프레임.
 퓨전 컵에서, 좋은 성적을 거둔 듀얼리스트에게 주어진다.
 [IDS_ITEMDESC.ID1033007]
-coming soon
+Yu-Gi-Oh! World Championship 2026 MASTER DUEL 부문 출전을 기념하는 아이콘 프레임.
+또 다른 싸움의 무대가 너를 기다리고 있다!
 [IDS_ITEMDESC.ID1070001]
 「Yu-Gi-Oh! OCG」의 카드 뒷면과 같은 모양의 디자인이 된 프로텍터.
 있는 그대로의 모습을 소중히 여기는 당신에게.
@@ -2839,18 +2942,33 @@ Yu-Gi-Oh! World Championship 2025의 키 비주얼이 디자인된 프로텍터.
 [IDS_ITEMDESC.ID1070180]
 무수한 실이 뻗어나가는 거대한 <category id='152'/>의 모습이 디자인된 프로텍터.
 그림자에 떨어진 당신에게.
+[IDS_ITEMDESC.ID1070181]
+찬란히 빛나는 순간을 영원으로 새기는 기계룡의 모습이 디자인된 프로텍터.
+파괴력을 추구하는 당신에게.
+[IDS_ITEMDESC.ID1070182]
+천재적인 퍼포먼스를 선보이며 연기까지 맡는 단장의 모습이 디자인된 프로텍터.
+관객을 계속 사로잡는 당신에게.
+[IDS_ITEMDESC.ID1070183]
+고결하고 아름다운 여신의 모습이 디자인된 프로텍터.
+시작을 중요시 여기는 당신에게.
 [IDS_ITEMDESC.ID1070184]
 몬스터가 융합할 때의 소용돌이가 디자인된 프로텍터.
 융합 소환이 전술의 주축인 당신에게.
 [IDS_ITEMDESC.ID1070189]
 도움을 바라는 소리에 응하는 정의의 히어로들의 모습이 디자인된 프로텍터.
 어떠한 순간에도 희망을 잃지 않는 당신에게.
+[IDS_ITEMDESC.ID1070190]
+「<card mrk='18176'/>」가 아룡을 먹어 치워 타락한 모습이 디자인된 프로텍터.
+예외는 단 하나도 허용할 수 없는 당신에게.
 [IDS_ITEMDESC.ID1070191]
-coming soon
+Yu-Gi-Oh! World Championship 2026의 키 비주얼이 디자인된 프로텍터.
+세계를 향해 도전하는 당신에게.
 [IDS_ITEMDESC.ID1070192]
-coming soon
+Yu-Gi-Oh! World Championship 2026의 키 비주얼이 디자인된 프로텍터.
+세계를 향해 도전하는 당신에게.
 [IDS_ITEMDESC.ID1070193]
-coming soon
+Yu-Gi-Oh! World Championship 2026의 키 비주얼이 디자인된 프로텍터.
+세계를 향해 도전하는 당신에게.
 [IDS_ITEMDESC.ID1071001]
 상처 입은 마음을 뛰어넘어 성장한 전사의 모습이 디자인된 프로텍터.
 동료를 생각하는 마음가짐을 소중히 하는 당신에게.
@@ -3062,9 +3180,11 @@ Yu-Gi-Oh! World Championship 2025 MASTER DUEL 부문의 비주얼이 디자인�
 「WCS2026 예선」의 로고가 디자인된 프로텍터.
 마스터 듀얼 부문 예선에 참가하여, 이벤트를 뜨겁게 달궈준 당신에게.
 [IDS_ITEMDESC.ID1073021]
-coming soon
+Yu-Gi-Oh! World Championship 2026 MASTER DUEL 부문의 비주얼이 디자인된 프로텍터.
+역사적인 순간을 함께한 당신에게.
 [IDS_ITEMDESC.ID1073022]
-coming soon
+Yu-Gi-Oh! World Championship 2026 MASTER DUEL 부문의 비주얼이 디자인된 프로텍터.
+세계 최강을 노리는 당신에게.
 [IDS_ITEMDESC.ID1073023]
 「퓨전 컵」의 로고가 디자인된 프로텍터.
 퓨전 컵에 참가하여, 이벤트를 달아 올려준 당신에게.
@@ -3287,6 +3407,9 @@ coming soon
 [IDS_ITEMDESC.ID1082032]
 악마를 퇴마하는 <category id='059'/>의 이미지가 디자인된 카드 케이스.
 악마와 치열한 전투를 벌이는 덱에게 추천.
+[IDS_ITEMDESC.ID1082034]
+일본의 전통 문화의 이미지가 디자인된 카드 케이스.
+뜨거운 듀얼을 수놓을 덱에게 추천.
 [IDS_ITEMDESC.ID1083001]
 특별한 기회를 통해 증정되는 한정 카드 케이스.
 [IDS_ITEMDESC.ID1090001]
@@ -3994,7 +4117,14 @@ coming soon
 「<card mrk='11268'/>」을 이미지한 대좌.
 흡수된 자는 자아가 거의 남아 있지 않으며, 육체만이 현세에 남은 상태라고 한다.
 [IDS_ITEMDESC.ID1111082]
-coming soon
+요정들의 폭신폭신한 꼬리를 이미지한 대좌.
+책과 리본이 매력 포인트.
+[IDS_ITEMDESC.ID1111083]
+기발한 엔터메를 제공하는 서커스단 「<category id='188'/>」을 이미지한 대좌.
+화려한 퍼포먼스의 개막이 기다려진다.
+[IDS_ITEMDESC.ID1111084]
+「<card mrk='22547'/>」을 이미지한 대좌.
+모든 것을 불태우는 천지명동의 힘이 이글거리고 있다.
 [IDS_ITEMDESC.ID1112001]
 콜로세움에 설치된 대좌.
 눈부시게 타오르는 불꽃은, 그곳에 선 자의 영예를 기린다.
@@ -4011,7 +4141,8 @@ Yu-Gi-Oh! World Championship 2024 MASTER DUEL 부문 출전을 기념한 대좌.
 Yu-Gi-Oh! World Championship 2025 MASTER DUEL 부문 출전을 기념한 대좌.
 엄숙한 디자인은, 대회 격식의 높이를 말해준다.
 [IDS_ITEMDESC.ID1113004]
-coming soon
+Yu-Gi-Oh! World Championship 2026 MASTER DUEL 부문 출전을 기념한 대좌.
+엄숙한 디자인은, 대회 격식의 높이를 말해준다.
 [IDS_ITEMDESC.ID1115001]
 전 세계의 클럽과 내셔널 팀으로 겨루는 축구 게임을 이미지한 대좌.
 축구의 역사와 진화의 궤적이 깃들어 있다.
@@ -4512,11 +4643,24 @@ coming soon
 [IDS_ITEMDESC.ID1130140]
 치켜든 손끝에서 쏘아지는 푸른 섬광.
 그 일격은 모든 것을 섬멸하는 왕의 뇌광.
+[IDS_ITEMDESC.ID1130141]
+여러 「<card mrk='6390'/>」을 합체시켜 대형화 & 고성능화를 실현시켰다.
+파괴력을 추구하는 개발 스타일은 멈출 줄 모른다.
+[IDS_ITEMDESC.ID1130142]
+귀족의 자식으로 태어났지만, 불길한 아이로 여겨져 서커스단에 팔려 간 과거를 지니고 있다.
+친하게 지내던 마수의 죽음을 계기로 탈출하여, <category id='188'/>을 세웠다.
+[IDS_ITEMDESC.ID1130143]
+붉은 별, 싸움의 상처, 영혼의 고동, 파괴의 충동.
+천지명동의 사상이 모일 때, 신성은 궁극에 이른다.
+[IDS_ITEMDESC.ID1130144]
+먼 옛날에 전란을 끝내기 위한 기도로 소환되었던 정령.
+용의 표식을 가진 선택받은 자들과 함께 부활했다.
 [IDS_ITEMDESC.ID1130150]
 쫓아오는 「<card mrk='22934'/>」와(과) 대치하는 「<card mrk='22932'/>」.
 필사의 승부수는 두려운 광기에 맞서는 대항책이 될 수 있을 것인가.
 [IDS_ITEMDESC.ID1130151]
-coming soon
+Yu-Gi-Oh! World Championship 2026의 키 비주얼.
+듀얼리스트여, 세계를 향해 도전하라.
 [IDS_ITEMDESC.ID1132001]
 우연한 계기로 축구 클럽에 소속하게 된 토끼.
 타고난 서포트 능력으로 팀을 승리로 이끄는 꿈을 꾸고 있다.
@@ -4604,6 +4748,15 @@ DUELIST CUP 리워드를 구입할 수 있는 티켓
 [IDS_ITEMDESC.ID1170018]
 지난 전쟁에서 목숨을 잃은 자들의 컬렉터즈 파일.
 <category id='152'/>를 모았을 때, 그림자에 떨어진 문이 빛난다고 한다.
+[IDS_ITEMDESC.ID1170019]
+파괴력을 추구하는 기계룡의 컬렉터즈 파일.
+<card mrk='6390'/>이 모였을 때, 진화의 문이 빛난다고 한다.
+[IDS_ITEMDESC.ID1170020]
+기발한 엔터메를 제공하는 서커스단의 컬렉터즈 파일.
+<category id='188'/>을 모았을 때, 마수와 기술의 문이 빛난다고 한다.
+[IDS_ITEMDESC.ID1170022]
+일본의 전통문화를 이미지하여 그린 카드의 컬렉터즈 파일.
+특별한 디자인의 카드가 모였을 때, 뜨거운 듀얼의 문이 빛난다고 한다.
 [IDS_ITEMDESC.ID1180001]
 새로운 전설을 만들어내는 하얀 드래곤을 모티브로 한 코인.
 푸른 눈이 반짝이며 빛난다.
@@ -4676,6 +4829,9 @@ D의 심볼이 반짝 빛난다.
 [IDS_ITEMDESC.ID1180025]
 고결한 정의의 마크를 모티브로 한 코인.
 도움을 바라는 시그널이 반짝 빛난다.
+[IDS_ITEMDESC.ID1180026]
+일격으로 전황을 바꾸는 기계룡을 모티브로 한 코인.
+파괴력 = 정의라는 컨셉이 반짝 빛난다.
 [IDS_ITEMDESC.ID1190001]
 북마크 할 수 있는 상한을 늘릴 수 있다.
 [IDS_ITEMDESC.ID0000]

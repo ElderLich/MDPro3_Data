@@ -93,7 +93,7 @@ coming soon
 [IDS_ITEM.ID1000047]
 ペンギン・ソルジャー
 [IDS_ITEM.ID1000048]
-coming soon
+妖精伝姫－シラユキ
 [IDS_ITEM.ID1000049]
 coming soon
 [IDS_ITEM.ID1000050]
@@ -589,17 +589,57 @@ GMX－ALLOS
 [IDS_ITEM.ID1010154]
 神の忠告
 [IDS_ITEM.ID1010155]
-coming soon
+キメラテック・メガフリート・ドラゴン
 [IDS_ITEM.ID1010156]
-coming soon
+道化の一座 ホワイトフェイス
 [IDS_ITEM.ID1010157]
-coming soon
+怠慢な壺
 [IDS_ITEM.ID1010158]
-coming soon
+エフェクト・ヴェーラー
 [IDS_ITEM.ID1010159]
 coming soon
 [IDS_ITEM.ID1010160]
+ブラック・マジシャン&ブラック・マジシャン・ガール (WCS2026)
+[IDS_ITEM.ID1010161]
+2027 SEASON
+[IDS_ITEM.ID1010162]
 coming soon
+[IDS_ITEM.ID1010163]
+coming soon
+[IDS_ITEM.ID1010164]
+coming soon
+[IDS_ITEM.ID1010165]
+coming soon
+[IDS_ITEM.ID1010166]
+coming soon
+[IDS_ITEM.ID1010167]
+coming soon
+[IDS_ITEM.ID1010168]
+coming soon
+[IDS_ITEM.ID1010169]
+coming soon
+[IDS_ITEM.ID1010170]
+coming soon
+[IDS_ITEM.ID1010171]
+coming soon
+[IDS_ITEM.ID1010172]
+coming soon
+[IDS_ITEM.ID1010173]
+coming soon
+[IDS_ITEM.ID1010174]
+coming soon
+[IDS_ITEM.ID1010175]
+coming soon
+[IDS_ITEM.ID1010176]
+coming soon
+[IDS_ITEM.ID1010177]
+coming soon
+[IDS_ITEM.ID1010178]
+coming soon
+[IDS_ITEM.ID1010179]
+coming soon
+[IDS_ITEM.ID1010180]
+死力のタッグ・チェンジ
 [IDS_ITEM.ID1011001]
 サッカーボール
 [IDS_ITEM.ID1011002]
@@ -757,13 +797,13 @@ coming soon
 [IDS_ITEM.ID1011078]
 coming soon
 [IDS_ITEM.ID1011079]
-coming soon
+WCS2026 Champion
 [IDS_ITEM.ID1011080]
-coming soon
+WCS2026 Finalist
 [IDS_ITEM.ID1011081]
-coming soon
+WCS2026 BEST4
 [IDS_ITEM.ID1011082]
-coming soon
+WCS2026 BEST12
 [IDS_ITEM.ID1012001]
 エクスクローラー・シナプシス
 [IDS_ITEM.ID1012002]
@@ -925,15 +965,15 @@ S－Force 乱破小夜丸
 [IDS_ITEM.ID1012080]
 EM：Pグレニャード
 [IDS_ITEM.ID1012081]
-coming soon
+エクソシスター・カルマエル
 [IDS_ITEM.ID1012082]
-coming soon
+マルコシアス
 [IDS_ITEM.ID1012083]
-coming soon
+エクソシスター・ステラ
 [IDS_ITEM.ID1012084]
-coming soon
+エクソシスター・イレーヌ
 [IDS_ITEM.ID1012085]
-coming soon
+エクソシスター・ソフィア
 [IDS_ITEM.ID1012086]
 coming soon
 [IDS_ITEM.ID1012087]
@@ -1447,13 +1487,13 @@ WCS2026予選 DLv.MAX
 [IDS_ITEM.ID1020227]
 マイフェイバリット
 [IDS_ITEM.ID1020228]
-coming soon
+WCS2026 Champion
 [IDS_ITEM.ID1020229]
-coming soon
+WCS2026 Finalist
 [IDS_ITEM.ID1020230]
-coming soon
+WCS2026 BEST4
 [IDS_ITEM.ID1020231]
-coming soon
+WCS2026 BEST12
 [IDS_ITEM.ID1020232]
 coming soon
 [IDS_ITEM.ID1020233]
@@ -1467,7 +1507,7 @@ coming soon
 [IDS_ITEM.ID1020237]
 coming soon
 [IDS_ITEM.ID1020238]
-coming soon
+破竹之勢
 [IDS_ITEM.ID1021001]
 盤石の布陣
 [IDS_ITEM.ID1021002]
@@ -1475,11 +1515,11 @@ coming soon
 [IDS_ITEM.ID1021003]
 ポイントゲッター
 [IDS_ITEM.ID1022001]
-高校生大会2026 Champion
+高校生日本一2025 優勝
 [IDS_ITEM.ID1022002]
-高校生大会2026 Grand Finalist
+高校生日本一2025 準優勝
 [IDS_ITEM.ID1022003]
-高校生大会2026 Finalist
+高校生日本一2025 FINALIST
 [IDS_ITEM.ID1030001]
 ビギナーズフレーム
 [IDS_ITEM.ID1030002]
@@ -1677,7 +1717,7 @@ P.U.N.K.JAM FEVER！
 [IDS_ITEM.ID1031028]
 シンクロリング β
 [IDS_ITEM.ID1031029]
-coming soon
+道化の一座
 [IDS_ITEM.ID1032001]
 祝祭のオーナメント
 [IDS_ITEM.ID1032002]
@@ -1731,7 +1771,7 @@ WCS2025 出場記念
 [IDS_ITEM.ID1033006]
 フュージョン・ボルテックス
 [IDS_ITEM.ID1033007]
-coming soon
+WCS2026 出場記念
 [IDS_ITEM.ID1033008]
 coming soon
 [IDS_ITEM.ID1033009]
@@ -2107,11 +2147,11 @@ R.B.ブルート・ブルース
 [IDS_ITEM.ID1070180]
 エルシャドール・ネフィリム
 [IDS_ITEM.ID1070181]
-coming soon
+サイバー・ドラゴン・インフィニティ
 [IDS_ITEM.ID1070182]
-coming soon
+道化の一座 ホワイトフェイス
 [IDS_ITEM.ID1070183]
-coming soon
+始まりの神ファーラ
 [IDS_ITEM.ID1070184]
 融合
 [IDS_ITEM.ID1070185]
@@ -2125,13 +2165,13 @@ coming soon
 [IDS_ITEM.ID1070189]
 ホープ・オブ・フィフス
 [IDS_ITEM.ID1070190]
-coming soon
+深淵の神獣ディス・パテル
 [IDS_ITEM.ID1070191]
-coming soon
+ブラック・マジシャン&ブラック・マジシャン・ガール (WCS2026)
 [IDS_ITEM.ID1070192]
-coming soon
+ブラック・マジシャン (WCS2026)
 [IDS_ITEM.ID1070193]
-coming soon
+ブラック・マジシャン・ガール (WCS2026)
 [IDS_ITEM.ID1070194]
 coming soon
 [IDS_ITEM.ID1071001]
@@ -2415,9 +2455,9 @@ DC2026 MAR 開催記念
 [IDS_ITEM.ID1073020]
 WCS2026予選　開催記念
 [IDS_ITEM.ID1073021]
-coming soon
+WCS2026 開催記念
 [IDS_ITEM.ID1073022]
-coming soon
+WCS2026 出場記念
 [IDS_ITEM.ID1073023]
 フュージョンカップ 開催記念
 [IDS_ITEM.ID1073024]
@@ -2631,7 +2671,7 @@ Yum☆Yum☆ヤミーズ
 [IDS_ITEM.ID1082033]
 coming soon
 [IDS_ITEM.ID1082034]
-coming soon
+ブラック・マジシャン&ブラック・マジシャン・ガール (WCS2026)
 [IDS_ITEM.ID1083001]
 ホワイト＆ブルー
 [IDS_ITEM.ID1090001]
@@ -3227,11 +3267,11 @@ coming soon
 [IDS_ITEM.ID1111081]
 影依融合
 [IDS_ITEM.ID1111082]
-coming soon
+テールズオブ妖精伝姫
 [IDS_ITEM.ID1111083]
-coming soon
+道化の一座
 [IDS_ITEM.ID1111084]
-coming soon
+スカーレッド・ハイパーノヴァ・ドラゴン
 [IDS_ITEM.ID1112001]
 コロシアム
 [IDS_ITEM.ID1112002]
@@ -3269,7 +3309,7 @@ WCS2024 出場記念
 [IDS_ITEM.ID1113003]
 WCS2025 出場記念
 [IDS_ITEM.ID1113004]
-coming soon
+WCS2026 出場記念
 [IDS_ITEM.ID1113005]
 coming soon
 [IDS_ITEM.ID1115001]
@@ -3625,13 +3665,13 @@ F・HERO フレイム・ウィングマン
 [IDS_ITEM.ID1130140]
 霆王の閃光
 [IDS_ITEM.ID1130141]
-coming soon
+終撃竜－サイバー・エンド・ドラゴン
 [IDS_ITEM.ID1130142]
-coming soon
+道化の一座 ホワイトフェイス
 [IDS_ITEM.ID1130143]
-coming soon
+スカーレッド・ハイパーノヴァ・ドラゴン
 [IDS_ITEM.ID1130144]
-coming soon
+赤き竜 ケッツァーコアトル
 [IDS_ITEM.ID1130145]
 coming soon
 [IDS_ITEM.ID1130146]
@@ -3645,7 +3685,7 @@ coming soon
 [IDS_ITEM.ID1130150]
 A－GMX最終検証
 [IDS_ITEM.ID1130151]
-coming soon
+ブラック・マジシャン&ブラック・マジシャン・ガール (WCS2026)
 [IDS_ITEM.ID1132001]
 レスキューラビット
 [IDS_ITEM.ID1132002]
@@ -3715,13 +3755,13 @@ E・HERO
 [IDS_ITEM.ID1170018]
 シャドール
 [IDS_ITEM.ID1170019]
-coming soon
+サイバー・ドラゴン
 [IDS_ITEM.ID1170020]
-coming soon
+道化の一座
 [IDS_ITEM.ID1170021]
 coming soon
 [IDS_ITEM.ID1170022]
-coming soon
+WCS2026
 [IDS_ITEM.ID1180001]
 青眼の亜白龍
 [IDS_ITEM.ID1180002]
@@ -3773,7 +3813,7 @@ D-HERO
 [IDS_ITEM.ID1180025]
 E・HERO
 [IDS_ITEM.ID1180026]
-coming soon
+サイバー・ドラゴン
 [IDS_ITEM.ID1180027]
 coming soon
 [IDS_ITEM.ID1180028]

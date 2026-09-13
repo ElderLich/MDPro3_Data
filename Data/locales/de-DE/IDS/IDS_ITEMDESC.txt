@@ -129,6 +129,9 @@ Er übernahm persönlich die Obhut von „<card mrk='17783'/>“.
 [IDS_ITEMDESC.ID1000047]
 Ein rangniedriger Pinguinsoldat mit einem Schwert.
 Sie greifen alle gleichzeitig als Gruppe an.
+[IDS_ITEMDESC.ID1000048]
+Eine wunderschöne, gütige Fee, die Menschen besonders schätzt, die ihrer Familie verbunden sind.
+Man glaubt, dass sie in einem kleinen Land weit, weit weg lebt.
 [IDS_ITEMDESC.ID1001001]
 Ein Becher mit Fertignudeln, die aussehen, als könnten sie dir die Macht der Fusionsbeschwörung gewähren.
 Es sind zwar Fertignudeln, aber das heißt nicht, dass sie nicht lecker sind!
@@ -830,8 +833,62 @@ Unabhängig von den Umständen ist er ein Pionier, der Respekt verdient.
 [IDS_ITEMDESC.ID1010154]
 Ein Symbol, das im Paradies lebende Götter darstellt.
 Wer auch nur einen der dortigen verbotenen Schätze stiehlt, zieht mit Sicherheit den Zorn der Götter auf sich.
+[IDS_ITEMDESC.ID1010155]
+Ein Symbol, das einen sich stetig weiterentwickelnden mechanischen Drachen darstellt.
+Die Entwicklung schreitet Tag und Nacht voran, im Streben nach überwältigender Zerstörungskraft.
+[IDS_ITEMDESC.ID1010156]
+Ein Symbol, das den Anführer einer Zirkustruppe darstellt, welche unkonventionelle Unterhaltung bietet.
+Er setzt mithilfe von Magie Bestien frei, die von bösen Zirkustruppen ausgebeutet werden.
+[IDS_ITEMDESC.ID1010157]
+Ein Symbol, das einen geheimnisvollen Topf darstellt, der wenig Tatendrang zu zeigen scheint.
+Selbst die Anordnung seiner Griffe vermittelt einen Eindruck von Trägheit.
+[IDS_ITEMDESC.ID1010158]
+Ein Symbol, das ein Monster darstellt, welches sich um eine blasse Lichtkugel schlingt.
+Es scheint der von ihr ausgehenden Energie mit einer eigenen, seltsamen Kraft zu widerstehen.
 [IDS_ITEMDESC.ID1010160]
+Ein Symbol, das ein Hauptmotiv für die Yu-Gi-Oh! World Championship 2026 darstellt.
+Erlebe die stärksten Duellanten der Welt.
+[IDS_ITEMDESC.ID1010161]
+Ein Symbol, das den Beginn der Saison einläutet.
+Duellanten, folgt dem Ruf zum Kampf und zieht los!
+[IDS_ITEMDESC.ID1010162]
 coming soon
+[IDS_ITEMDESC.ID1010163]
+coming soon
+[IDS_ITEMDESC.ID1010164]
+coming soon
+[IDS_ITEMDESC.ID1010165]
+coming soon
+[IDS_ITEMDESC.ID1010166]
+coming soon
+[IDS_ITEMDESC.ID1010167]
+coming soon
+[IDS_ITEMDESC.ID1010168]
+coming soon
+[IDS_ITEMDESC.ID1010169]
+coming soon
+[IDS_ITEMDESC.ID1010170]
+coming soon
+[IDS_ITEMDESC.ID1010171]
+coming soon
+[IDS_ITEMDESC.ID1010172]
+coming soon
+[IDS_ITEMDESC.ID1010173]
+coming soon
+[IDS_ITEMDESC.ID1010174]
+coming soon
+[IDS_ITEMDESC.ID1010175]
+coming soon
+[IDS_ITEMDESC.ID1010176]
+coming soon
+[IDS_ITEMDESC.ID1010177]
+coming soon
+[IDS_ITEMDESC.ID1010178]
+coming soon
+[IDS_ITEMDESC.ID1010179]
+coming soon
+[IDS_ITEMDESC.ID1010180]
+Ein exklusives Symbol, das zu besonderen Anlässen angeboten wird.
 [IDS_ITEMDESC.ID1011001]
 Ein Symbol, das einen Ball, der aus schwarzen und weißen Panels besteht, darstellt.
 3 Duelle in Folge zu gewinnen nennt man nicht einen Hattrick.
@@ -1057,6 +1114,18 @@ Wurde an diejenigen verliehen, die beim Fusion-Cup beachtliche Leistungen erbrac
 [IDS_ITEMDESC.ID1011075]
 Ein Symbol mit einem bronzenen „Fusion-Cup“-Logo. 
 Wurde an diejenigen verliehen, die beim Fusion-Cup viele Kämpfe für sich entschieden haben.
+[IDS_ITEMDESC.ID1011079]
+Ein Symbol, das an die Champion-Duellanten im Event „Yu-Gi-Oh! World Championship 2026: MASTER DUEL“ verliehen wird.
+Ihr Kampf wird weiterhin als lodernde Spur leuchten, die sich tief in die Herzen aller Duellanten eingebrannt hat.
+[IDS_ITEMDESC.ID1011080]
+Ein Symbol, das an die Vize-Champion-Duellanten im Event „Yu-Gi-Oh! World Championship 2026: MASTER DUEL“ verliehen wird.
+Ihr Kampf wird weiterhin als lodernde Spur leuchten, die sich tief in die Herzen aller Duellanten eingebrannt hat.
+[IDS_ITEMDESC.ID1011081]
+Ein Symbol, das an diejenigen verliehen wird, welche unter den Top 4 im Event „Yu-Gi-Oh! World Championship 2026: MASTER DUEL“ landeten.
+Das Publikum war sprachlos angesichts ihrer unglaublichen Duell-Instinkte.
+[IDS_ITEMDESC.ID1011082]
+Ein Symbol, das an Teilnehmer am Event „Yu-Gi-Oh! World Championship 2026: MASTER DUEL“ verliehen wird.
+Es ist der Beweis dafür, dass sie sich der Welt gestellt und ihre Stärke als Duellanten bewiesen haben.
 [IDS_ITEMDESC.ID1012001]
 Ein Symbol, das einen „Krawler“ darstellt; Monster, die eine bestimmte Welt überrannt haben. Dieser gehört der höheren Klasse an.
 Sie zerstörten gnadenlos alle Mühen der menschlichen Zivilisation, die sich für Jahrhunderte hielten.
@@ -1297,6 +1366,21 @@ Die unsterbliche Energie-Lebensform „<category id='40'/>“ offenbart sich.
 [IDS_ITEMDESC.ID1012080]
 Ein Symbol, das die von „<card mrk='14676'/>“ geführte Waffe darstellt.
 Es scheint einfache Worte zu sprechen, doch die Komplexität seines Potenzials bleibt unbekannt.
+[IDS_ITEMDESC.ID1012081]
+Ein Symbol, das ein Wesen darstellt, das die Macht eines Boten ausstrahlt, der den Gott erblickte, der einen feuerroten Planeten bewacht.
+Selbst in seiner ursprünglichen Form soll es eine Macht besitzen, die größer ist als die von „<card mrk='16740'/>“.
+[IDS_ITEMDESC.ID1012082]
+Ein Symbol, das ein böses Wesen darstellt, welches von verschiedenen Lebensformen Besitz ergreift, um einen vorübergehenden Körper zu erhalten.
+Auch manche Dämonen können von Menschen Besitz ergreifen, lassen sich jedoch mit Amuletten abwehren.
+[IDS_ITEMDESC.ID1012083]
+Ein Symbol, das eine „<category id='059'/>“-Jungfrau darstellt, welche auf schnellen Kampf spezialisiert ist.
+Sie beschwört die Macht des Boten, der die Worte der Saturn-Schutzgottheit übermittelt.
+[IDS_ITEMDESC.ID1012084]
+Ein Symbol, das eine „<category id='059'/>“-Jungfrau darstellt, welche Dämonen mit Weihwasser-Geschossen richtet.
+Sie beschwört die Macht des Boten, der die Worte der Mond-Schutzgottheit übermittelt.
+[IDS_ITEMDESC.ID1012085]
+Ein Symbol, das eine „<category id='059'/>“-Jungfrau darstellt, welche ihre Feinde durch Schüsse mit punktgenauer Präzision besiegt.
+Sie beschwört die Macht des Boten, der die Worte der Venus-Schutzgottheit übermittelt.
 [IDS_ITEMDESC.ID1013001]
 Ein Symbol, das einen kleinen Jungen darstellt, der sich für Baseball begeistert.
 Vielleicht bist du ihm schon einmal an einer Schule begegnet, wo er durch seine Leidenschaft für Baseball zu Höchstleistungen angespornt wurde.
@@ -2022,6 +2106,21 @@ Er ist der Beweis dafür, dass du es durch die heiß umkämpfte 1st Stage gescha
 [IDS_ITEMDESC.ID1020227]
 Ein Titel, der Duellanten verliehen wird, die die Macht der legendären Monster genutzt und sich einen Namen gemacht haben.
 Eine neue Legende wird erschaffen, wenn man die größten Duellanten trifft und sich mit ihnen duelliert.
+[IDS_ITEMDESC.ID1020228]
+Ein Titel, der den Champion-Duellanten des Events „Yu-Gi-Oh! World Championship 2026: MASTER DUEL“ vergeben wird.
+Die Erinnerungen an die erbitterten Duelle, die sie mit ihren Teamkollegen ausgetragen haben, werden für immer weitergegeben.
+[IDS_ITEMDESC.ID1020229]
+Ein Titel, der den Vize-Champion-Duellanten des Events „Yu-Gi-Oh! World Championship 2026: MASTER DUEL“ vergeben wird.
+Die Erinnerungen an die erbitterten Duelle, die sie mit ihren Teamkollegen ausgetragen haben, werden für immer weitergegeben.
+[IDS_ITEMDESC.ID1020230]
+Ein Titel, der an diejenigen verliehen wird, welche unter den Top 4 im Event „Yu-Gi-Oh! World Championship 2026: MASTER DUEL“ landeten.
+Ihre Leistungen werden viele Duellanten dazu inspirieren, sich weiterhin neuen Herausforderungen zu stellen.
+[IDS_ITEMDESC.ID1020231]
+Ein Titel, der an diejenigen verliehen wird, welche unter den Top 12 im Event „Yu-Gi-Oh! World Championship 2026: MASTER DUEL“ landeten.
+Nur wenige können dieses Reich erreichen und diese Errungenschaft ist der Beweis dafür, dass sie auserwählt wurden.
+[IDS_ITEMDESC.ID1020238]
+Ein Titel, der an Duellanten vergeben wird, die beim Festival „Würfel-Rallye ~ September 2026 ~“ Ergebnisse erzielt haben.
+Eine glänzende Zukunft wartet auf diejenigen, die mutig genug sind, sich selbst zu vertrauen.
 [IDS_ITEMDESC.ID1021001]
 Ein Titel, der nur zu einem besonderen Anlass verliehen wird.
 [IDS_ITEMDESC.ID1021002]
@@ -2248,6 +2347,9 @@ Der Preis für gewöhnliche Macht ist der Zorn des Göttlichen.
 [IDS_ITEMDESC.ID1031028]
 Ein Symbol-Rahmen, der an die Lichtringe erinnert, die bei einer Synchrobeschwörung sichtbar werden.
 Für alle, die den Pfad des Lichts mit unerschütterlicher Entschlossenheit beschreiten.
+[IDS_ITEMDESC.ID1031029]
+Ein Symbol-Rahmen, der an die Zirkustruppe „<category id='188'/>“ erinnert.
+Die Truppe bietet unkonventionelle Unterhaltung mit Kreaturen, die über die unterschiedlichsten, einzigartigen Eigenschaften verfügen.
 [IDS_ITEMDESC.ID1032001]
 Ein Symbol-Rahmen in der Form einer runden Dekoration, die in manchen Regionen zum Jahresende zu sehen ist.
 Sie werden mit dem aufrichtigen Wunsch nach Glück und Freude in der kommenden Zeit aufgehängt.
@@ -2300,7 +2402,8 @@ Die nächste Stufe wartet auf dich!
 Ein Symbol-Rahmen, der an den Moment erinnert, in dem mehrere Monster miteinander verschmelzen.
 Er wird an Duellanten verliehen, die beim Fusion-Cup gute Ergebnisse erzielt haben.
 [IDS_ITEMDESC.ID1033007]
-coming soon
+Ein Symbol-Rahmen, das den Teilnehmern des MASTER DUEL-Events der Yu-Gi-Oh! World Championship 2026 verliehen wird.
+Die nächste Stufe wartet auf dich!
 [IDS_ITEMDESC.ID1070001]
 Kartenhüllen mit dem gleichen Design wie die Rückseiten von Yu-Gi-Oh! TCG-Karten.
 Wozu das Rad neu erfinden?
@@ -2834,18 +2937,33 @@ Für alle, die das Duellieren über alles lieben.
 [IDS_ITEMDESC.ID1070180]
 Kartenhüllen, die einen riesigen <category id='152'/> darstellen, von dem unzählige Fäden ausgehen.
 Für alle, die den Schatten verfallen sind.
+[IDS_ITEMDESC.ID1070181]
+Kartenhüllen, die einen mechanischen Drachen darstellen, dessen Augenblick des Ruhms ewig währt.
+Für alle, die nach immer größerer Zerstörungskraft streben.
+[IDS_ITEMDESC.ID1070182]
+Kartenhüllen mit dem Motiv des Zirkusdirektors, der das Publikum mit seinen meisterhaften Darbietungen in seinen Bann zieht.
+Für alle, die ihr Publikum stets zu fesseln wissen.
+[IDS_ITEMDESC.ID1070183]
+Kartenhüllen, die eine würdevolle, wunderschöne Göttin darstellen.
+Für alle, die Wert auf Neuanfänge legen.
 [IDS_ITEMDESC.ID1070184]
 Kartenhüllen, die den Strudel der Monsterfusion darstellen.
 Für alle, deren Taktik auf Fusionsbeschwörungen basiert.
 [IDS_ITEMDESC.ID1070189]
 Kartenhüllen, die als Verfechter der Gerechtigkeit auf Hilferufe reagieren.
 Für alle, deren Hoffnung niemals wankt.
+[IDS_ITEMDESC.ID1070190]
+Kartenhüllen, die einen gefallenen „<card mrk='18176'/>“ nach dem Verschlingen der Halbdrachen darstellen.
+Für alle, die das Unerwartete nicht ertragen können.
 [IDS_ITEMDESC.ID1070191]
-coming soon
+Kartenhüllen mit einem Hauptmotiv für die Yu-Gi-Oh! World Championship 2026.
+Für diejenigen, die die Welt herausfordern.
 [IDS_ITEMDESC.ID1070192]
-coming soon
+Kartenhüllen mit einem Hauptmotiv für die Yu-Gi-Oh! World Championship 2026.
+Für diejenigen, die die Welt herausfordern.
 [IDS_ITEMDESC.ID1070193]
-coming soon
+Kartenhüllen mit einem Hauptmotiv für die Yu-Gi-Oh! World Championship 2026.
+Für diejenigen, die die Welt herausfordern.
 [IDS_ITEMDESC.ID1071001]
 Kartenhüllen, die einen Krieger darstellen, der gereift ist und die Narben, die während der Kämpfe in sein Herz geätzt wurden, akzeptiert hat. 
 Perfekt für alle, die immer das Beste für ihre geliebten Freunde wollen.
@@ -3057,9 +3175,11 @@ Für Spieler, die am Duelist Cup teilgenommen und dem Event zu Erfolg verholfen 
 Eine Kartenhülle mit einem „WCS 2026 Qualifier“-Logo.
 Für diejenigen, die in der MASTER DUEL Division teilgenommen und das Event zu einem Erfolg gemacht haben.
 [IDS_ITEMDESC.ID1073021]
-coming soon
+Eine Kartenhülle mit einem Bild zur „Yu-Gi-Oh! World Championship 2026: MASTER DUEL“.
+Für diejenigen, die den historischen Moment miterlebt haben.
 [IDS_ITEMDESC.ID1073022]
-coming soon
+Kartenhüllen mit einem visuellen Design für die Yu-Gi-Oh! World Championship 2026: MASTER DUEL.
+Für diejenigen, die die Besten der Welt werden wollen.
 [IDS_ITEMDESC.ID1073023]
 Kartenhüllen mit dem „Fusion-Cup“-Logo.
 Für Spieler, die am Fusion-Cup teilgenommen und dem Event zu Erfolg verholfen haben.
@@ -3285,6 +3405,9 @@ Empfohlen für Decks, die von der Seele eines Drachen durchdrungen sind.
 [IDS_ITEMDESC.ID1082032]
 Ein Kartenetui, auf dem „<category id='059'/>“ abgebildet ist, der das Böse abwendet.
 Empfohlen für Decks, die erbitterte Kämpfe gegen Ungeheuer austragen.
+[IDS_ITEMDESC.ID1082034]
+Ein Kartenetui mit Motiven der traditionellen japanischen Kultur.
+Empfohlen für Decks, die Farbe in hitzige Duelle bringen.
 [IDS_ITEMDESC.ID1083001]
 Ein exklusives Kartenetui, das zu besonderen Anlässen angeboten wird.
 [IDS_ITEMDESC.ID1090001]
@@ -3988,7 +4111,14 @@ Ein Stand, inspiriert von einem Drachen mit dem Namen „<category id='158'/>“
 Ein Stand, inspiriert von „<card mrk='11268'/>“.
 Die Besessenen verlieren den Verstand und werden zu leeren Hüllen.
 [IDS_ITEMDESC.ID1111082]
-coming soon
+Ein Stand, inspiriert von den flauschigen Schwänzen der Feen.
+Es hat ein niedliches Motiv mit Buch und Schleife.
+[IDS_ITEMDESC.ID1111083]
+Ein Stand, inspiriert von der Zirkustruppe „<category id='188'/>“, die unkonventionelle Unterhaltung bietet.
+Eine spektakuläre Darbietung erwartet dich.
+[IDS_ITEMDESC.ID1111084]
+Ein Stand, inspiriert von „<card mrk='22547'/>“.
+Eine erdbebenartige Kraft, die alles zu Asche macht, brennt im Inneren.
 [IDS_ITEMDESC.ID1112001]
 Der Stand eines Kolosseums.
 Die leuchtende Flamme tanzt, als ob sie die mutigen Krieger lobpreisen will, die hier kämpfen.
@@ -4005,7 +4135,8 @@ Das majestätische Design unterstreicht den prestigeträchtigen Charakter des We
 Ein Symbol zum Andenken an die Teilnahme am MASTER DUEL-Event der Yu-Gi-Oh! World Championship 2025.
 Das majestätische Design unterstreicht den prestigeträchtigen Charakter des Wettbewerbs.
 [IDS_ITEMDESC.ID1113004]
-coming soon
+Ein Symbol zum Andenken an die Teilnahme am MASTER DUEL-Event der Yu-Gi-Oh! World Championship 2026.
+Das majestätische Design unterstreicht den prestigeträchtigen Charakter des Wettbewerbs.
 [IDS_ITEMDESC.ID1115001]
 Ein Stand, inspiriert von einem Fußballspiel, an dem du Spiele zwischen Clubs und Nationalmannschaften aus aller Welt veranstalten kannst.
 Enthält die Wurzeln der Geschichte und Entwicklung des Fußballs.
@@ -4500,11 +4631,24 @@ Sie wurde von „<card mrk='12762'/>“ gezielt wieder zum Leben erweckt.
 [IDS_ITEMDESC.ID1130140]
 Sie hebt die Hand und entfesselt einen Blitz aus blauem Licht.
 Als König aller Blitze vernichtet er alles, was er trifft.
+[IDS_ITEMDESC.ID1130141]
+Die Fusion mehrerer „<card mrk='6390'/>“-Monster hat zu einer Zunahme an Größe und Funktionalität geführt.
+Das Streben nach immer größerer Zerstörungskraft zeigt keinerlei Anzeichen eines Stillstands.
+[IDS_ITEMDESC.ID1130142]
+Als unerwünschtes Kind einer Adelsfamilie an einen Zirkus verkauft.
+Als ein Tier, mit dem er sich angefreundet hatte, starb, entkam er seiner ursprünglichen Truppe und gründete <category id='188'/>.
+[IDS_ITEMDESC.ID1130143]
+Ein purpurroter Stern. Die Narben der Schlacht. Eine pulsierende Seele. Zerstörerische Impulse.
+Wenn sich alle vier weltbewegenden Zeichen manifestieren, erreicht der neue Stern seinen Höhepunkt.
+[IDS_ITEMDESC.ID1130144]
+Ein Geist, der in ferner Vergangenheit durch ein Gebet heraufbeschworen wurde, um die Kriege zu beenden, die das Land verwüsteten.
+Er wurde gemeinsam mit den Auserwählten wiedererweckt, die das Zeichen des Drachen tragen.
 [IDS_ITEMDESC.ID1130150]
 „<card mrk='22932'/>“ stellt sich dem angreifenden „<card mrk='22934'/>“.
 Wird der verzweifelte Gegenangriff ausreichen, um den Wahnsinn zu stoppen?
 [IDS_ITEMDESC.ID1130151]
-coming soon
+Das Hauptmotiv für die Yu-Gi-Oh! World Championship 2026.
+Duellanten, der Weg an die Weltspitze wartet auf euch.
 [IDS_ITEMDESC.ID1132001]
 Warum auch immer, aber das Kaninchen ist jetzt Mitglied in einem Fußballverein.
 Es hofft, sein Team mit all seinen angeborenen Führungsqualitäten zum Sieg zu führen.
@@ -4592,6 +4736,15 @@ Es heißt, dass das verbotene Tor erstrahlt, wenn man <category id='185'/> samme
 [IDS_ITEMDESC.ID1170018]
 Eine Sammelordner über jene, die im früheren großen Krieg ihr Leben ließen.
 Es heißt, dass die Tür, die in den Schatten versunken war, zu leuchten beginnt, sobald man <category id='152'/> gesammelt hat.
+[IDS_ITEMDESC.ID1170019]
+Ein Sammelordner, der einen mechanischen Drachen, der nach immer größerer Zerstörungskraft strebt, darstellt.
+Es heißt, dass das Tor zur Evolution erstrahlt, sobald man <card mrk='6390'/>-Karten gesammelt hat.
+[IDS_ITEMDESC.ID1170020]
+Ein Sammelordner, der eine Zirkustruppe mit unkonventioneller Unterhaltung darstellt.
+Es heißt, dass das Tor zu magischen Bestien und Zauberei erstrahlt, sobald man <category id='188'/>-Karten gesammelt hat.
+[IDS_ITEMDESC.ID1170022]
+Ein Sammelordner für Karten, die die traditionelle japanische Kultur darstellen.
+Es heißt, dass sich das Tor zu einem hitzigen Duell öffnet, sobald Karten mit besonderen Designs gesammelt wurden.
 [IDS_ITEMDESC.ID1180001]
 Eine Münze, deren Motiv der leuchtende Drache ist, der eine neue Legende hervorbringt.
 Seine himmelblauen Augen schimmern.
@@ -4664,6 +4817,9 @@ Geschichten aus allen Zeiten und Orten erstrahlen darin.
 [IDS_ITEMDESC.ID1180025]
 Eine Münze, die das Emblem der edlen Gerechtigkeit darstellt.
 Das Zeichen funkelt auf der Suche nach Erlösung.
+[IDS_ITEMDESC.ID1180026]
+Eine Münze mit dem Motiv eines mechanischen Drachen, der den Verlauf einer Schlacht im Handumdrehen wenden kann.
+In ihr schimmert die Überzeugung auf, dass allein zerstörerische Macht Recht schafft.
 [IDS_ITEMDESC.ID1190001]
 Die maximale Anzahl der Lesezeichen, die du besitzen kannst, kann erhöht werden.
 [IDS_ITEMDESC.ID0000]

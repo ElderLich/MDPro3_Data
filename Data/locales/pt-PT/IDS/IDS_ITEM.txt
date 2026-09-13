@@ -88,6 +88,8 @@ Dinolutador Pancratops
 Beat, o Esgrimista de Peluguel
 [IDS_ITEM.ID1000047]
 Soldado Pinguim
+[IDS_ITEM.ID1000048]
+Cauda de Fadas - Neves
 [IDS_ITEM.ID1001001]
 Fusão Instantânea
 [IDS_ITEM.ID1001002]
@@ -512,8 +514,56 @@ GMX - ALLOS
 Primeiro Pinguim
 [IDS_ITEM.ID1010154]
 Censura Solene
+[IDS_ITEM.ID1010155]
+Dragão Megafrota Quimeratech
+[IDS_ITEM.ID1010156]
+Companhia de Palhaços Biancaviso
+[IDS_ITEM.ID1010157]
+Pote da Preguiça
+[IDS_ITEM.ID1010158]
+Ocultador de Efeitos
 [IDS_ITEM.ID1010160]
+Mago Negro & Pequena Maga Negra (WCS2026)
+[IDS_ITEM.ID1010161]
+TEMPORADA DE 2027
+[IDS_ITEM.ID1010162]
 coming soon
+[IDS_ITEM.ID1010163]
+coming soon
+[IDS_ITEM.ID1010164]
+coming soon
+[IDS_ITEM.ID1010165]
+coming soon
+[IDS_ITEM.ID1010166]
+coming soon
+[IDS_ITEM.ID1010167]
+coming soon
+[IDS_ITEM.ID1010168]
+coming soon
+[IDS_ITEM.ID1010169]
+coming soon
+[IDS_ITEM.ID1010170]
+coming soon
+[IDS_ITEM.ID1010171]
+coming soon
+[IDS_ITEM.ID1010172]
+coming soon
+[IDS_ITEM.ID1010173]
+coming soon
+[IDS_ITEM.ID1010174]
+coming soon
+[IDS_ITEM.ID1010175]
+coming soon
+[IDS_ITEM.ID1010176]
+coming soon
+[IDS_ITEM.ID1010177]
+coming soon
+[IDS_ITEM.ID1010178]
+coming soon
+[IDS_ITEM.ID1010179]
+coming soon
+[IDS_ITEM.ID1010180]
+Mudança Desesperada
 [IDS_ITEM.ID1011001]
 Bola de Futebol
 [IDS_ITEM.ID1011002]
@@ -665,13 +715,13 @@ Finalista Prata da Copa Fusão
 [IDS_ITEM.ID1011075]
 Finalista Bronze da Copa Fusão
 [IDS_ITEM.ID1011079]
-coming soon
+Campeão do WCS 2026
 [IDS_ITEM.ID1011080]
-coming soon
+Finalista do WCS 2026
 [IDS_ITEM.ID1011081]
-coming soon
+Top 4 do WCS 2026
 [IDS_ITEM.ID1011082]
-coming soon
+Top 12 do WCS 2026
 [IDS_ITEM.ID1012001]
 Sinaphysis X-Krawler
 [IDS_ITEM.ID1012002]
@@ -832,6 +882,16 @@ Força-S Rappa Chiyomaru
 Precursor Spright
 [IDS_ITEM.ID1012080]
 EM:P Minamiau
+[IDS_ITEM.ID1012081]
+Exoirmã Karmael
+[IDS_ITEM.ID1012082]
+Marchosias
+[IDS_ITEM.ID1012083]
+Exoirmã Estrela
+[IDS_ITEM.ID1012084]
+Exoirmã Irene
+[IDS_ITEM.ID1012085]
+Exoirmã Sofia
 [IDS_ITEM.ID1013001]
 PawaPuro
 [IDS_ITEM.ID1013002]
@@ -1319,13 +1379,15 @@ Duelista de 2nd Stage do Copa Fusão
 [IDS_ITEM.ID1020227]
 Meus Favoritos
 [IDS_ITEM.ID1020228]
-coming soon
+Campeão do WCS 2026
 [IDS_ITEM.ID1020229]
-coming soon
+Finalista do WCS 2026
 [IDS_ITEM.ID1020230]
-coming soon
+Top 4 do WCS 2026
 [IDS_ITEM.ID1020231]
-coming soon
+Top 12 do WCS 2026
+[IDS_ITEM.ID1020238]
+Força Implacável
 [IDS_ITEM.ID1021001]
 Começando
 [IDS_ITEM.ID1021002]
@@ -1333,11 +1395,11 @@ Melhor desempenho
 [IDS_ITEM.ID1021003]
 Colecionador de Pontos
 [IDS_ITEM.ID1022001]
-Campeão do Torneio de Ensino Médio 2026
+Campeão do Campeonato Japonês de Ensino Médio 2025
 [IDS_ITEM.ID1022002]
-Vice-campeão do Torneio de Ensino Médio 2026
+Vice-campeão do Campeonato Japonês de Ensino Médio 2025
 [IDS_ITEM.ID1022003]
-Finalista do Torneio de Ensino Médio 2026
+Finalista do Campeonato Japonês de Ensino Médio 2025
 [IDS_ITEM.ID1030001]
 Moldura para iniciantes
 [IDS_ITEM.ID1030002]
@@ -1482,6 +1544,8 @@ Palma de Ryzeal
 Coroa Proibida
 [IDS_ITEM.ID1031028]
 Anel de Sincronização β
+[IDS_ITEM.ID1031029]
+Companhia de Palhaços
 [IDS_ITEM.ID1032001]
 Ornamento Festivo
 [IDS_ITEM.ID1032002]
@@ -1517,7 +1581,7 @@ Favorecimento de Grupo do WCS 2025
 [IDS_ITEM.ID1033006]
 Vórtice de Fusão
 [IDS_ITEM.ID1033007]
-coming soon
+Favorecimento de Grupo do WCS 2026
 [IDS_ITEM.ID1070001]
 Jogo de Cards Colecionáveis Yu-Gi-Oh!
 [IDS_ITEM.ID1070002]
@@ -1876,18 +1940,24 @@ Mokomoko
 Herói Favorito
 [IDS_ITEM.ID1070180]
 El Sombraneco Construtor
+[IDS_ITEM.ID1070181]
+Dragão Cibernético do Infinito
+[IDS_ITEM.ID1070182]
+Companhia de Palhaços Biancaviso
+[IDS_ITEM.ID1070183]
+Phara, a Deusa Primordial
 [IDS_ITEM.ID1070184]
 Polimerização
 [IDS_ITEM.ID1070189]
 Quinta Esperança
 [IDS_ITEM.ID1070190]
-coming soon
+Bistial Dis Pater
 [IDS_ITEM.ID1070191]
-coming soon
+Mago Negro & Pequena Maga Negra (WCS2026)
 [IDS_ITEM.ID1070192]
-coming soon
+Mago Negro (WCS2026)
 [IDS_ITEM.ID1070193]
-coming soon
+Pequena Maga Negra (WCS2026)
 [IDS_ITEM.ID1071001]
 Crusadia Maximus
 [IDS_ITEM.ID1071002]
@@ -2029,9 +2099,9 @@ Celebração da DC 2026 MAR
 [IDS_ITEM.ID1073020]
 Celebração das Eliminatórias do WCS 2026
 [IDS_ITEM.ID1073021]
-coming soon
+Comemoração do WCS 2026
 [IDS_ITEM.ID1073022]
-coming soon
+Favorecimento de Grupo do WCS 2026
 [IDS_ITEM.ID1073023]
 Celebração da Copa Fusão
 [IDS_ITEM.ID1075001]
@@ -2185,7 +2255,7 @@ Ravina de Dragões
 [IDS_ITEM.ID1082032]
 Exoirmã
 [IDS_ITEM.ID1082034]
-coming soon
+Mago Negro & Pequena Maga Negra (WCS2026)
 [IDS_ITEM.ID1083001]
 Branco e Azul
 [IDS_ITEM.ID1090001]
@@ -2627,7 +2697,11 @@ Callibre
 [IDS_ITEM.ID1111081]
 Fusão Sombraneco
 [IDS_ITEM.ID1111082]
-coming soon
+Caudas da Cauda de Fadas
+[IDS_ITEM.ID1111083]
+Companhia de Palhaços
+[IDS_ITEM.ID1111084]
+Dragão Vermelho Hipernova
 [IDS_ITEM.ID1112001]
 Coliseu
 [IDS_ITEM.ID1112002]
@@ -2641,7 +2715,7 @@ Favorecimento de Grupo do WCS 2024
 [IDS_ITEM.ID1113003]
 Favorecimento de Grupo do WCS 2025
 [IDS_ITEM.ID1113004]
-coming soon
+Favorecimento de Grupo do WCS 2026
 [IDS_ITEM.ID1115001]
 eFootball™
 [IDS_ITEM.ID1120001]
@@ -2986,10 +3060,18 @@ Senhor Obscuro Estrela da Noite
 El Sombraneco Winda
 [IDS_ITEM.ID1130140]
 Centelha Dominus
+[IDS_ITEM.ID1130141]
+Dragão Final Cibernético, o Dragão do Golpe Final
+[IDS_ITEM.ID1130142]
+Companhia de Palhaços Biancaviso
+[IDS_ITEM.ID1130143]
+Dragão Vermelho Hipernova
+[IDS_ITEM.ID1130144]
+Dragão Carmesim Quetzalcoatl
 [IDS_ITEM.ID1130150]
 Experimento Final Anti-GMX
 [IDS_ITEM.ID1130151]
-coming soon
+Mago Negro & Pequena Maga Negra (WCS2026)
 [IDS_ITEM.ID1132001]
 Coelho de Socorro
 [IDS_ITEM.ID1132002]
@@ -3050,8 +3132,12 @@ HERÓI do Elemento
 Senhor(a) Obscuro(a)
 [IDS_ITEM.ID1170018]
 Sombraneco
+[IDS_ITEM.ID1170019]
+Dragão Cibernético
+[IDS_ITEM.ID1170020]
+Companhia de Palhaços
 [IDS_ITEM.ID1170022]
-coming soon
+WCS2026
 [IDS_ITEM.ID1180001]
 Dragão Branco Alternativo de Olhos Azuis
 [IDS_ITEM.ID1180002]
@@ -3102,6 +3188,8 @@ Caído de Arbaz
 Cauda de Fadas
 [IDS_ITEM.ID1180025]
 HERÓI do Elemento
+[IDS_ITEM.ID1180026]
+Dragão Cibernético
 [IDS_ITEM.ID1190001]
 Espaços de Favoritos
 [IDS_ITEM.ID0000]
