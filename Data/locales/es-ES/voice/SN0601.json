@@ -101,7 +101,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "¡Cuidado!\n¡Dicen que es una superestrella en ENLACE VRAINS!"
     },
@@ -119,7 +121,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "¡Varis!\n¡No me detendré ante nada para derrotarte!"
     },

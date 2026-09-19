@@ -1564,7 +1564,7 @@
         19293
       ],
       "duelist": [],
-      "text": "Ativo o terceiro efeito de Fênix Vulcanizada da Forte Tempestade de Fogo!"
+      "text": "Ativo o terceiro efeito de Tempestade de Fogo Estrondosa Fênix de Vulcanização!"
     },
     "V0905_09_01_01_1": {
       "face": 3,
@@ -1582,7 +1582,7 @@
         19292
       ],
       "duelist": [],
-      "text": "Ativo o efeito secundário de Fênix Vulcanizada da Forte Tempestade de Fogo!"
+      "text": "Ativo o efeito secundário de Tempestade de Fogo Estrondosa Fênix de Vulcanização!"
     },
     "V0905_09_01_02_1": {
       "face": 3,
@@ -1600,7 +1600,7 @@
         19294
       ],
       "duelist": [],
-      "text": "Ativo o efeito de Fênix Vulcanizada da Forte Tempestade de Fogo!"
+      "text": "Ativo o efeito de Tempestade de Fogo Estrondosa Fênix de Vulcanização!"
     },
     "V0905_09_01_03_1": {
       "face": 3,
@@ -1618,7 +1618,7 @@
         19292
       ],
       "duelist": [],
-      "text": "Ativo o efeito de Fênix Vulcanizada da Forte Tempestade de Fogo [E]!"
+      "text": "Ativo o efeito de Tempestade de Fogo Estrondosa Fênix de Vulcanização [L]!"
     },
     "V0905_09_00_05_0": {
       "face": 3,
@@ -1628,7 +1628,7 @@
         19294
       ],
       "duelist": [],
-      "text": "Ativo o efeito de Fênix Vulcanizada da Forte Tempestade de Fogo [D]!"
+      "text": "Ativo o efeito de Tempestade de Fogo Estrondosa Fênix de Vulcanização [R]!"
     },
     "V0905_09_00_06_0": {
       "face": 3,
@@ -1902,7 +1902,7 @@
         19990
       ],
       "duelist": [],
-      "text": "Ativo o efeito de !"
+      "text": "Ativo o efeito de Supergrafagas, Arqueiro das Chamas!"
     },
     "V0905_09_00_30_1": {
       "face": 3,
@@ -2036,7 +2036,7 @@
         19293
       ],
       "duelist": [],
-      "text": "Fênix Vulcanizada da Forte Tempestade de Fogo!"
+      "text": "Tempestade de Fogo Estrondosa Fênix de Vulcanização!"
     },
     "V0905_13_00_02_0": {
       "face": 3,
@@ -2046,7 +2046,7 @@
         19293
       ],
       "duelist": [],
-      "text": "Fênix Vulcanizada da Forte Tempestade de Fogo!"
+      "text": "Tempestade de Fogo Estrondosa Fênix de Vulcanização!"
     },
     "V0905_13_00_03_0": {
       "face": 3,
@@ -2056,7 +2056,7 @@
         19292
       ],
       "duelist": [],
-      "text": "Fênix Vulcanizada da Forte Tempestade de Fogo [E]!"
+      "text": "Tempestade de Fogo Estrondosa Fênix de Vulcanização [L]!"
     },
     "V0905_13_00_04_0": {
       "face": 3,
@@ -2066,7 +2066,7 @@
         19294
       ],
       "duelist": [],
-      "text": "Fênix Vulcanizada da Forte Tempestade de Fogo [D]!"
+      "text": "Tempestade de Fogo Estrondosa Fênix de Vulcanização [R]!"
     },
     "V0905_37_00_02_0": {
       "face": 3,
@@ -2490,7 +2490,7 @@
         19990
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Supergrafagas, Arqueiro das Chamas!"
     },
     "V0905_37_00_11_0": {
       "face": 3,
@@ -2680,7 +2680,7 @@
         19293
       ],
       "duelist": [],
-      "text": "Fênix Vulcanizada da Forte Tempestade de Fogo!\nAtacar!"
+      "text": "Tempestade de Fogo Estrondosa Fênix de Vulcanização!\nAtacar!"
     },
     "V0905_19_01_01_1": {
       "face": 3,
@@ -2698,7 +2698,7 @@
         19293
       ],
       "duelist": [],
-      "text": "Fênix Vulcanizada da Forte Tempestade de Fogo!\nAtacar!"
+      "text": "Tempestade de Fogo Estrondosa Fênix de Vulcanização!\nAtacar!"
     },
     "V0905_19_01_02_1": {
       "face": 3,
@@ -2716,7 +2716,7 @@
         19293
       ],
       "duelist": [],
-      "text": "Ataque, Fênix Vulcanizada da Forte Tempestade de Fogo!"
+      "text": "Ataque, Tempestade de Fogo Estrondosa Fênix de Vulcanização!"
     },
     "V0905_19_00_04_0": {
       "face": 3,
@@ -2726,7 +2726,7 @@
         19292
       ],
       "duelist": [],
-      "text": "Fênix Vulcanizada da Forte Tempestade de Fogo [E] ataca!"
+      "text": "Tempestade de Fogo Estrondosa Fênix de Vulcanização [L] ataca!"
     },
     "V0905_19_00_05_0": {
       "face": 3,
@@ -2736,7 +2736,7 @@
         19294
       ],
       "duelist": [],
-      "text": "Fênix Vulcanizada da Forte Tempestade de Fogo [D] ataca!"
+      "text": "Tempestade de Fogo Estrondosa Fênix de Vulcanização [R] ataca!"
     },
     "V0905_19_00_06_0": {
       "face": 3,
@@ -3112,7 +3112,7 @@
         19990
       ],
       "duelist": [],
-      "text": "!\nFogo!"
+      "text": "Supergrafagas, Arqueiro das Chamas!\nFogo!"
     },
     "V0905_19_00_37_1": {
       "face": 3,

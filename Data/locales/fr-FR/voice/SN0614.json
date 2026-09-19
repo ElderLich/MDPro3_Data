@@ -1,0 +1,3559 @@
+{
+  "_GRP_": "SN0614",
+  "_LNG_": "fr-FR",
+  "info": {
+    "V0614_01_00_00_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Grâce à Demoiselle Bleue, Miyu est brave, alors moi aussi !"
+    },
+    "V0614_01_00_01_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ce Duel sera rude.\nPardon de t'avoir mêlée à tout ça."
+    },
+    "V0614_01_00_01_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "T'en fais pas.\nTu n'es pas seule !\nJe suis avec toi."
+    },
+    "V0614_01_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tu es prête, Aqua ?"
+    },
+    "V0614_01_00_02_1": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Toujours !\nAllons-y, Demoiselle Bleue !"
+    },
+    "V0614_01_00_03_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ce ne sera rien comparé à ce que Miyu a dû endurer !"
+    },
+    "V0614_01_00_04_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je vais m'améliorer !\nVoilà la Demoiselle Bleue !"
+    },
+    "V0614_01_00_05_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        601
+      ],
+      "text": "Ai, vous faites une équipe redoutable.\nMais on est meilleurs."
+    },
+    "V0614_01_00_06_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        612
+      ],
+      "text": "Flamme, j'adorerais voir ta relation avec Soulburner."
+    },
+    "V0614_01_00_07_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        610
+      ],
+      "text": "Voilà à quoi ça ressemble quand je donne tout, Fantômette !"
+    },
+    "V0614_01_00_08_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        608
+      ],
+      "text": "Akira !\nJe m'améliore de jour en jour, au fil des Duels !"
+    },
+    "V0614_01_00_09_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        99999
+      ],
+      "text": "Je ne peux pas te laisser prendre le contrôle du futur !"
+    },
+    "V0614_02_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Duel !"
+    },
+    "V0614_03_00_00_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attention.\nIls ont peut-être encore un tour dans leur sac."
+    },
+    "V0614_03_00_00_1": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Merci pour le rappel.\nÀ moi de jouer !"
+    },
+    "V0614_03_00_01_0": {
+      "face": 13,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Voici ta chance, Demoiselle Bleue !"
+    },
+    "V0614_03_00_01_1": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est le moment de tout donner !\nC'est mon tour !"
+    },
+    "V0614_04_00_00_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je pioche !"
+    },
+    "V0614_03_00_02_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Allons-y, Demoiselle Bleue !"
+    },
+    "V0614_03_00_02_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ouais !\nC'est à moi de jouer !"
+    },
+    "V0614_03_00_03_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Méfions-nous.\nOn ignore ce qu'ils manigancent."
+    },
+    "V0614_03_00_03_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Compris.\nC'est mon tour !"
+    },
+    "V0614_04_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je pioche !"
+    },
+    "V0614_03_00_04_0": {
+      "face": 14,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Crois en notre Deck !\nEt en toi !"
+    },
+    "V0614_03_00_04_1": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "De bien sages paroles, Aqua !\nÀ mon tour !"
+    },
+    "V0614_03_00_05_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Les choses se présentent mal pour nous..."
+    },
+    "V0614_03_00_05_1": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mais je sais que tu vas renverser la situation !"
+    },
+    "V0614_03_00_05_2": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Merci !\nC'est à moi de jouer !"
+    },
+    "V0614_04_00_02_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je pioche !"
+    },
+    "V0614_05_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Je n'abandonne pas !\nJe ne fais que commencer, même !"
+    },
+    "V0614_05_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Je pioooche !"
+    },
+    "V0614_06_01_00_0": {
+      "face": 9,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Regarde ça !"
+    },
+    "V0614_06_01_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pas si vite !"
+    },
+    "V0614_06_01_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ce n'est pas encore fini !"
+    },
+    "V0614_06_01_03_0": {
+      "face": 14,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est le moment !"
+    },
+    "V0614_06_01_04_0": {
+      "face": 14,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Demoiselle Bleue !"
+    },
+    "V0614_07_00_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Depuis ma main..."
+    },
+    "V0614_07_01_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Carte Magie !"
+    },
+    "V0614_07_02_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Magie Jeu-Rapide !"
+    },
+    "V0614_07_03_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Carte Magie Continue !"
+    },
+    "V0614_07_04_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Magie d'Équipement !"
+    },
+    "V0614_07_05_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Magie Rituelle !"
+    },
+    "V0614_07_06_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active mon Piège !"
+    },
+    "V0614_07_07_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active un Piège Continu !"
+    },
+    "V0614_07_08_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active un Contre-Piège !"
+    },
+    "V0614_07_09_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je retourne ma carte Posée !"
+    },
+    "V0614_07_09_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Maintenant, je Pose une carte !"
+    },
+    "V0614_07_10_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active l'effet de mon monstre !"
+    },
+    "V0614_07_11_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Magie de Terrain !"
+    },
+    "V0614_07_12_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active un effet !"
+    },
+    "V0614_07_13_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je déclare une Échelle Pendule !"
+    },
+    "V0614_07_14_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active un Effet Pendule !"
+    },
+    "V0614_07_15_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Magie Rituelle !"
+    },
+    "V0614_10_00_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est parti !"
+    },
+    "V0614_10_00_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "À toi de jouer !"
+    },
+    "V0614_10_00_02_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Viens à moi !"
+    },
+    "V0614_10_00_03_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Lève-toi !"
+    },
+    "V0614_11_00_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre !"
+    },
+    "V0614_11_01_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre en Position de Défense !"
+    },
+    "V0614_11_02_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque Spécialement un monstre !"
+    },
+    "V0614_11_03_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je Sacrifie un monstre !"
+    },
+    "V0614_11_04_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Sacrifice !"
+    },
+    "V0614_11_04_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Sacrifice !"
+    },
+    "V0614_11_05_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Fusion !"
+    },
+    "V0614_11_05_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Fusion !"
+    },
+    "V0614_11_06_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque Rituellement un monstre !"
+    },
+    "V0614_11_06_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Rituelle !"
+    },
+    "V0614_11_07_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Synchro !"
+    },
+    "V0614_11_07_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je syntonise mes monstres !"
+    },
+    "V0614_11_07_01_1": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0614_11_08_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Xyz !"
+    },
+    "V0614_11_08_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je construis le Réseau Habillé !"
+    },
+    "V0614_11_08_01_1": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Xyz !"
+    },
+    "V0614_11_09_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Pendulation !"
+    },
+    "V0614_11_09_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Pendule !"
+    },
+    "V0614_11_10_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Lien !"
+    },
+    "V0614_11_10_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je vais bâtir le circuit qui change les rêves en réalité !"
+    },
+    "V0614_11_10_01_1": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je Pose mes monstres dans les Flèches Lien !\nLie le circuit !"
+    },
+    "V0614_11_10_01_2": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Lien !"
+    },
+    "V0614_11_10_02_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je vais bâtir le circuit qui change les rêves en réalité !"
+    },
+    "V0614_11_10_02_1": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Lien !"
+    },
+    "V0614_11_10_03_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je bâtirai le circuit qui transforme l'espoir en réalité !"
+    },
+    "V0614_11_10_03_1": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Lien !"
+    },
+    "V0614_11_11_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Maximum !"
+    },
+    "V0614_11_11_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Maximum !"
+    },
+    "V0614_11_12_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Fusion !"
+    },
+    "V0614_11_12_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Fusion !"
+    },
+    "V0614_11_13_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je Contact Fusionne un monstre !"
+    },
+    "V0614_11_13_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Contact Fusion !"
+    },
+    "V0614_11_14_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque Rituellement un monstre !"
+    },
+    "V0614_11_14_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Rituelle !"
+    },
+    "V0614_14_00_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Au combat !"
+    },
+    "V0614_14_00_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est l'heure de combattre !"
+    },
+    "V0614_15_00_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Très bien !"
+    },
+    "V0614_15_00_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je vais t'anéantir !"
+    },
+    "V0614_15_00_02_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tu m'échapperas pas !"
+    },
+    "V0614_17_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'attaque avec mon monstre !"
+    },
+    "V0614_17_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mon monstre attaque !"
+    },
+    "V0614_17_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attaque !"
+    },
+    "V0614_16_00_00_0": {
+      "face": 10,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est l'heure d'en finir avec toi !"
+    },
+    "V0614_16_00_01_0": {
+      "face": 9,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Voilà qui effacera le reste de tes LP !"
+    },
+    "V0614_18_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mon monstre t'attaque directement !"
+    },
+    "V0614_18_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attaque directe !"
+    },
+    "V0614_20_00_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je Pose une carte !"
+    },
+    "V0614_20_00_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je Pose une carte !"
+    },
+    "V0614_20_01_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je Pose un monstre !"
+    },
+    "V0614_20_01_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je vais Poser un monstre !"
+    },
+    "V0614_21_00_00_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attention !\nL'adversaire n'a pas l'air d'abandonner !"
+    },
+    "V0614_21_00_00_1": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je sais !\nJe termine mon tour !"
+    },
+    "V0614_21_00_01_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mon tour s'achève !\nRien ne peut nous arrêter maintenant !"
+    },
+    "V0614_21_00_01_1": {
+      "face": 14,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "... Tu te trompes.\nL'adversaire est encore debout !"
+    },
+    "V0614_21_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je termine mon tour !"
+    },
+    "V0614_21_00_02_1": {
+      "face": 13,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Si tu continues comme ça, tu vas gagner !"
+    },
+    "V0614_21_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je termine mon tour !"
+    },
+    "V0614_21_00_03_1": {
+      "face": 14,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "... Attention !"
+    },
+    "V0614_21_00_04_0": {
+      "face": 14,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "On entre dans la phase la plus cruciale de ce Duel !"
+    },
+    "V0614_21_00_04_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ne t'en fais pas, j'ai un plan !\nJe termine mon tour !"
+    },
+    "V0614_21_00_05_0": {
+      "face": 15,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Demoiselle Bleue !\nOn est dans le pétrin !"
+    },
+    "V0614_21_00_05_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ça ne veut pas dire que j'abandonne !\nJe termine mon tour !"
+    },
+    "V0614_28_00_00_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aqua et moi, on a construit ce Deck Marincesse ensemble !"
+    },
+    "V0614_28_00_00_1": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Voilà la preuve que les humains et les IA peuvent cohabiter !"
+    },
+    "V0614_28_00_01_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "On a réussi, Aqua !"
+    },
+    "V0614_28_00_01_1": {
+      "face": 13,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je suis fière de faire équipe avec une personne courageuse."
+    },
+    "V0614_28_00_02_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "On a toutes les deux des amis et de la famille à protéger !"
+    },
+    "V0614_28_00_02_1": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est pour ça qu'on ne peut pas se permettre de perdre."
+    },
+    "V0614_28_00_03_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Demoiselle Bleue, combien de fois m'as-tu sauvée ?"
+    },
+    "V0614_28_00_03_1": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Inutile de compter.\nOn se sauve mutuellement tout le temps !"
+    },
+    "V0614_28_00_04_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Merci, Aqua."
+    },
+    "V0614_28_00_04_1": {
+      "face": 13,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est à moi de te remercier, Demoiselle Bleue."
+    },
+    "V0614_28_00_05_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        601,
+        607
+      ],
+      "text": "Tu as toujours été là pour mon frère et moi."
+    },
+    "V0614_28_00_05_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je te remercie.\nPour tout."
+    },
+    "V0614_28_00_06_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        608
+      ],
+      "text": "Je vais devenir plus forte pour pouvoir te protéger !"
+    },
+    "V0614_29_00_00_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Au moins, on ne pourra pas dire qu'on ne s'est pas battues."
+    },
+    "V0614_29_00_00_1": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tu n'abandonnes jamais.\nJe suis fière d'être ta partenaire."
+    },
+    "V0614_29_00_01_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aqua !"
+    },
+    "V0614_29_00_01_1": {
+      "face": 14,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pardonne-moi, Demoiselle Bleue..."
+    },
+    "V0614_29_00_02_0": {
+      "face": 14,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Notre adversaire était redoutable..."
+    },
+    "V0614_29_00_02_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Il savait exactement comment contrer notre Deck."
+    },
+    "V0614_29_00_03_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Il ne nous reste qu'à nous améliorer. Pas vrai, Aqua ?"
+    },
+    "V0614_29_00_03_1": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Oui, Demoiselle Bleue.\nDevenons plus fortes, ensemble !"
+    },
+    "V0614_29_00_04_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        608
+      ],
+      "text": "Tu es le meilleur, Akira."
+    },
+    "V0614_29_00_05_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        610
+      ],
+      "text": "Tu es aussi douée en Duel qu'en piratage, Fantômette."
+    },
+    "V0614_31_00_00_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Quoi ?!"
+    },
+    "V0614_31_00_01_0": {
+      "face": 11,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Impossible !"
+    },
+    "V0614_33_00_00_0": {
+      "face": 12,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Libère ta puissance !"
+    },
+    "V0614_33_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Attention !\nJ'active ma Compétence !"
+    },
+    "V0614_33_00_01_0": {
+      "face": 12,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Maintenant, Demoiselle Bleue !"
+    },
+    "V0614_33_00_01_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "J'active ma Compétence !"
+    },
+    "V0614_33_00_02_0": {
+      "face": 12,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Demoiselle Bleue !\nTu as un pouvoir spécial en toi !"
+    },
+    "V0614_33_00_02_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "J'active ma Compétence !\nForme de la Mer !"
+    },
+    "V0614_30_00_00_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Il n'existe pas de meilleur Deck que celui-là !"
+    },
+    "V0614_30_00_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tu ne devrais pas faire quelque chose ?"
+    },
+    "V0614_30_00_02_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est censé me faire peur ?"
+    },
+    "V0614_30_00_03_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tu parles comme si je n'avais aucune chance de gagner."
+    },
+    "V0614_30_00_04_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "L'effet de cette carte va me sortir d'affaire !"
+    },
+    "V0614_30_00_05_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je vais utiliser cette attaque à mon avantage !"
+    },
+    "V0614_34_00_06_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Qu'en dis-tu, Aqua ?"
+    },
+    "V0614_34_00_07_0": {
+      "face": 15,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Les dommages d'effet vont être annulés deux fois !"
+    },
+    "V0614_34_00_07_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Deux fois, ou...\nSeulement deux fois ?"
+    },
+    "V0614_34_00_08_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Si tu veux me capturer, tu vas devoir me battre en Duel !"
+    },
+    "V0614_34_00_09_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je ne peux pas te dire quoi faire. Tu dois décider seule."
+    },
+    "V0614_34_00_10_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je sais quand tu dis la vérité et quand tu mens."
+    },
+    "V0614_34_00_11_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ce Duelliste n'essaie pas de nous duper."
+    },
+    "V0614_34_00_12_0": {
+      "face": 14,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je peux lire en toi, et je sais que tu mens."
+    },
+    "V0614_34_00_13_0": {
+      "face": 14,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'arrive pas à dire si l'adversaire est honnête ou fourbe."
+    },
+    "V0614_34_00_14_0": {
+      "face": 14,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ce Duelliste est dû genre à vouloir écraser son adversaire."
+    },
+    "V0614_34_00_15_0": {
+      "face": 14,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Personne ne veut ça."
+    },
+    "V0614_34_00_16_0": {
+      "face": 15,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Rien n'a d'importance, à tes yeux ?!"
+    },
+    "V0614_32_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Yu-Gi-Oh! Duel Links"
+    },
+    "V0614_32_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Yu-Gi-Oh! Duel Links\nIl est temps de se lier à VRAINS !"
+    },
+    "V0614_35_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Demoiselle Bleue est prête pour le combat !\nEnsemble, Demoiselle Bleue, nous sommes invincibles !"
+    },
+    "V0614_35_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je suis Aqua, l'Ignis de l'eau.\nEt je suis Demoiselle Bleue !"
+    },
+    "V0614_36_00_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ce n'est pas encore terminé !\nNe baisse pas ta garde !"
+    },
+    "V0614_36_00_01_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ce Duel n'est pas encore terminé."
+    },
+    "V0614_36_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est ton tour."
+    },
+    "V0614_36_00_03_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est ton tour.\nOn doit collaborer !"
+    },
+    "V0614_36_00_04_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je ne me rendrai jamais...\nEt tu ne devrais pas non plus !"
+    },
+    "V0614_36_00_05_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "N'abandonne pas, je t'en prie !"
+    },
+    "V0614_36_00_06_0": {
+      "face": 13,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        601
+      ],
+      "text": "Playmaker ! Ai !\nVous pouvez y arriver !"
+    },
+    "V0614_36_00_07_0": {
+      "face": 13,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        612
+      ],
+      "text": "Soulburner ! Flamme !\nJe crois en vous !"
+    },
+    "V0614_36_00_08_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        610
+      ],
+      "text": "À toi de jouer, Fantômette !"
+    },
+    "V0614_36_00_09_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        608
+      ],
+      "text": "À toi, Akira !"
+    },
+    "V0614_36_00_10_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        608
+      ],
+      "text": "Attention, Akira !"
+    },
+    "V0614_36_00_11_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        608
+      ],
+      "text": "Akira...\nJe vais te protéger !"
+    },
+    "V0614_08_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13609
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie Jeu-Rapide !\nBouquet Farstar !"
+    },
+    "V0614_08_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13608
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie de Terrain !\nArène Lumière Farstar !"
+    },
+    "V0614_08_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13608
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Arène Lumière Farstar s'active !"
+    },
+    "V0614_08_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13092
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie de Terrain !\nScène Lumière Farstar !"
+    },
+    "V0614_08_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13092
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Scène Lumière Farstar s'active !"
+    },
+    "V0614_08_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14787
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie !\nFestival Farstar !"
+    },
+    "V0614_08_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14136
+      ],
+      "duelist": [],
+      "text": "J'active la Carte Magie Fusion Farstar !"
+    },
+    "V0614_08_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14136
+      ],
+      "duelist": [],
+      "text": "Je bannis Fusion Farstar de mon Cimetière pour utiliser son effet !"
+    },
+    "V0614_08_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13513
+      ],
+      "duelist": [],
+      "text": "J'active la Magie d'Équipement Laurier Magique Farstar !"
+    },
+    "V0614_08_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13513
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Laurier Magique Farstar !"
+    },
+    "V0614_08_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14135
+      ],
+      "duelist": [],
+      "text": "J'active la Magie de Terrain, Scène en Direct Farstar !"
+    },
+    "V0614_08_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14135
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Scène en Direct Farstar !"
+    },
+    "V0614_08_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13107
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Piège !\nRéincarnœillet Farstar !"
+    },
+    "V0614_08_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13107
+      ],
+      "duelist": [],
+      "text": "Je bannis Réincarnœillet Farstar de mon Cimetière !"
+    },
+    "V0614_08_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17264
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie !\nAnge aux Larmes Bleues !"
+    },
+    "V0614_08_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17264
+      ],
+      "duelist": [],
+      "text": "Je bannis Ange aux Larmes Bleues de mon Cimetière pour l'activer !"
+    },
+    "V0614_08_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14680
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie de Terrain !\nOcéan de Combat Marincesse !"
+    },
+    "V0614_08_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14680
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Océan de Combat Marincesse s'active !"
+    },
+    "V0614_08_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17057
+      ],
+      "duelist": [],
+      "text": "J'active la Carte Magie Plongée Marincesse !"
+    },
+    "V0614_08_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14694
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nNeige Marincesse !"
+    },
+    "V0614_08_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14517
+      ],
+      "duelist": [],
+      "text": "J'active le Piège, Courant Marincesse !"
+    },
+    "V0614_08_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17058
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nCirculation Marincesse !"
+    },
+    "V0614_08_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14516
+      ],
+      "duelist": [],
+      "text": "J'active le Piège, Vague Marincesse !"
+    },
+    "V0614_08_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14695
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège, Cascade Marincesse !"
+    },
+    "V0614_08_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17059
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nAnneau de Bulles Marincesse !"
+    },
+    "V0614_08_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17059
+      ],
+      "duelist": [],
+      "text": "Je bannis Anneau de Bulles Marincesse de mon Cimetière pour l'activer !"
+    },
+    "V0614_08_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20296
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nDiffusion Farstar !"
+    },
+    "V0614_08_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20296
+      ],
+      "duelist": [],
+      "text": "Je bannis Diffusion Farstar de mon Cimetière pour l'activer !"
+    },
+    "V0614_08_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20297
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nDemoiselle aux Larmes Bleues !"
+    },
+    "V0614_08_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20297
+      ],
+      "duelist": [],
+      "text": "Je bannis Demoiselle aux Larmes Bleues du Cimetière pour l'activer !"
+    },
+    "V0614_09_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13083
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Ange Houx Farstar !"
+    },
+    "V0614_09_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Bénédiction sacrée !"
+    },
+    "V0614_09_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13260
+      ],
+      "duelist": [],
+      "text": "Chauve-Chat Noir Farstar active son effet !"
+    },
+    "V0614_09_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13594
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Dauphinelle Farstar !"
+    },
+    "V0614_09_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13343
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Cœur Écarlate Farstar !"
+    },
+    "V0614_09_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13593
+      ],
+      "duelist": [],
+      "text": "Floraison Farstar active son effet !"
+    },
+    "V0614_09_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13592
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Bella Madonna Farstar !"
+    },
+    "V0614_09_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14126
+      ],
+      "duelist": [],
+      "text": "Et maintenant, l'effet de la Carte Divaridis Farstar !"
+    },
+    "V0614_09_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13512
+      ],
+      "duelist": [],
+      "text": "Sorcière Digitale Farstar active son effet !"
+    },
+    "V0614_09_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14110
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Douce Guitare du Groupe Farstar s'active !"
+    },
+    "V0614_09_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13047
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Candina Farstar s'active !"
+    },
+    "V0614_09_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13220
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Narcibise Farstar depuis ma main !"
+    },
+    "V0614_09_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13561
+      ],
+      "duelist": [],
+      "text": "J'ai utilisé Morelle Noire Farstar pour Invoquer par Lien un Farstar !"
+    },
+    "V0614_09_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13046
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Lycoris Farstar depuis ma main !"
+    },
+    "V0614_09_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13562
+      ],
+      "duelist": [],
+      "text": "Mandragore Farstar s'active en passant de ma main dans mon Cimetière !"
+    },
+    "V0614_09_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13562
+      ],
+      "duelist": [],
+      "text": "J'ai utilisé Mandragore Farstar pour Invoquer par Lien un Farstar !"
+    },
+    "V0614_09_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13045
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Clochemuguet Farstar s'active quand elle va dans ma main !"
+    },
+    "V0614_09_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13045
+      ],
+      "duelist": [],
+      "text": "Clochemuguet Farstar active son effet !"
+    },
+    "V0614_09_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13563
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Rhodode Farstar !"
+    },
+    "V0614_09_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13555
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Ciguë Farstar depuis ma main !"
+    },
+    "V0614_09_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13555
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Ciguë Farstar !"
+    },
+    "V0614_09_00_20_0": {
+      "face": 9,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13221
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Ange des Ténèbres depuis ma main !"
+    },
+    "V0614_09_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17056
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Aqua Argonaute Marincesse !"
+    },
+    "V0614_09_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14667
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Cœur de Cristal Marincesse !"
+    },
+    "V0614_09_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15040
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Récif Grande Bulle Marincesse me permet de piocher une carte !"
+    },
+    "V0614_09_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15040
+      ],
+      "duelist": [],
+      "text": "Quand un monstre est banni, Récif Grande Bulle Marincesse gagne de l'ATK !"
+    },
+    "V0614_09_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15040
+      ],
+      "duelist": [],
+      "text": "Je défausse une monstre EAU pour utiliser l'effet de Récif Grande Bulle Marincesse !"
+    },
+    "V0614_09_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14489
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Anémone Corallienne Marincesse !"
+    },
+    "V0614_09_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17055
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Triangle de Corail Marincesse !"
+    },
+    "V0614_09_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17055
+      ],
+      "duelist": [],
+      "text": "Je bannis Triangle de Corail Marincesse de mon Cimetière pour utiliser son effet !"
+    },
+    "V0614_09_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14669
+      ],
+      "duelist": [],
+      "text": "Invoquer par Lien Ange des Mers Marincesse active son effet !"
+    },
+    "V0614_09_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14488
+      ],
+      "duelist": [],
+      "text": "Invoquer par Lien Mollusque Bleue Marincesse active son effet !"
+    },
+    "V0614_09_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14490
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Roche Marbrée Marincesse !"
+    },
+    "V0614_09_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14668
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Cœur de Merveille Marincesse !"
+    },
+    "V0614_09_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14630
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Queue en Couronne Marincesse depuis ma main !"
+    },
+    "V0614_09_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14630
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Queue en Couronne Marincesse depuis mon Cimetière !"
+    },
+    "V0614_09_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14452
+      ],
+      "duelist": [],
+      "text": "Je défausse Étoile de Mer Marincesse pour activer son effet !"
+    },
+    "V0614_09_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14451
+      ],
+      "duelist": [],
+      "text": "Je bannis Cheval de Mer Marincesse de mon Cimetière pour activer son effet !"
+    },
+    "V0614_09_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17054
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Demoiselle Dormeuse Marincesse s'active depuis ma main !"
+    },
+    "V0614_09_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17054
+      ],
+      "duelist": [],
+      "text": "Je bannis Demoiselle Dormeuse Marincesse de mon Cimetière pour utiliser son effet !"
+    },
+    "V0614_09_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14992
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Basilalima Marincesse !"
+    },
+    "V0614_09_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14992
+      ],
+      "duelist": [],
+      "text": "Je bannis Basilalima Marincesse pour activer son effet !"
+    },
+    "V0614_09_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14631
+      ],
+      "duelist": [],
+      "text": "Invoquer Tang Bleu Marincesse active son effet !"
+    },
+    "V0614_09_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14631
+      ],
+      "duelist": [],
+      "text": "Utiliser Tang Bleu Marincesse pour Invoquer par Lien active son effet !"
+    },
+    "V0614_09_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14629
+      ],
+      "duelist": [],
+      "text": "Ma Carte Mandarin Marincesse active son effet !"
+    },
+    "V0614_09_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17053
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Springfille Marincesse depuis ma main !"
+    },
+    "V0614_09_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17053
+      ],
+      "duelist": [],
+      "text": "Utiliser Springfille Marincesse pour Invoquer par Lien active son effet !"
+    },
+    "V0614_09_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14788
+      ],
+      "duelist": [],
+      "text": "Invoquer Pascalus Marincesse active son effet !"
+    },
+    "V0614_09_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14788
+      ],
+      "duelist": [],
+      "text": "Je bannis Pascalus Marincesse du Cimetière pour activer son effet !"
+    },
+    "V0614_09_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Invoquer par Fusion Battematite du Groupe Farstar active son effet !"
+    },
+    "V0614_09_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Battematite du Groupe Farstar active son effet !"
+    },
+    "V0614_09_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Ange Noble Farstar active son effet lorsqu'elle est Invoquée par Lien !"
+    },
+    "V0614_09_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Ange Noble Farstar s'active grâce à mon Monstre Fusion !"
+    },
+    "V0614_09_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Ange Noble Farstar s'active quand toi ou moi subissons des dommages d'effets !"
+    },
+    "V0614_09_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "Je bannis Colchica Farstar de mon Cimetière pour activer son effet !"
+    },
+    "V0614_09_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Aconity Farstar s'active depuis ma main !"
+    },
+    "V0614_09_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "J'ai utilisé Aconity Farstar pour Invoquer par Lien un Farstar !"
+    },
+    "V0614_09_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Ange Aquatique Farstar active son effet !"
+    },
+    "V0614_09_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "La Carte Ange Aquatique Farstar s'active si elle sert pour une Invocation Lien !"
+    },
+    "V0614_09_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17658
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte G Golem Cœur de Cristal !"
+    },
+    "V0614_13_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13083
+      ],
+      "duelist": [],
+      "text": "Viens à moi ! Ange Houx Farstar Lien 2 !"
+    },
+    "V0614_13_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13260
+      ],
+      "duelist": [],
+      "text": "Viens ici !\nChauve-Chat Noir Farstar Lien 2 !"
+    },
+    "V0614_13_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13594
+      ],
+      "duelist": [],
+      "text": "Et voilà Dauphinelle Farstar Lien 3 !"
+    },
+    "V0614_13_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13343
+      ],
+      "duelist": [],
+      "text": "Allez !\nCœur Écarlate Farstar Lien 2 !"
+    },
+    "V0614_13_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        13593
+      ],
+      "duelist": [],
+      "text": "Apparais !\nFloraison Farstar Lien 1 !"
+    },
+    "V0614_13_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13592
+      ],
+      "duelist": [],
+      "text": "Rien que pour toi !\nBella Madonna Farstar Lien 4 !"
+    },
+    "V0614_13_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14126
+      ],
+      "duelist": [],
+      "text": "Viens à moi ! Divaridis Farstar Lien 2 !"
+    },
+    "V0614_13_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13512
+      ],
+      "duelist": [],
+      "text": "Attention, Sorcière Digitale Farstar Lien 3 arrive !"
+    },
+    "V0614_37_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14110
+      ],
+      "duelist": [],
+      "text": "Quand tu verras mon nouveau Farstar, tu changeras d'avis !"
+    },
+    "V0614_37_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Fusion !"
+    },
+    "V0614_13_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14110
+      ],
+      "duelist": [],
+      "text": "Allez Douce Guitare du Groupe Farstar !"
+    },
+    "V0614_13_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13047
+      ],
+      "duelist": [],
+      "text": "Candina Farstar !"
+    },
+    "V0614_13_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13220
+      ],
+      "duelist": [],
+      "text": "Narcibise Farstar !"
+    },
+    "V0614_13_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13561
+      ],
+      "duelist": [],
+      "text": "Morelle Noire Farstar !"
+    },
+    "V0614_13_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13046
+      ],
+      "duelist": [],
+      "text": "Lycoris Farstar !"
+    },
+    "V0614_13_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13562
+      ],
+      "duelist": [],
+      "text": "Mandragore Farstar !"
+    },
+    "V0614_13_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13045
+      ],
+      "duelist": [],
+      "text": "Clochemuguet Farstar !"
+    },
+    "V0614_13_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13563
+      ],
+      "duelist": [],
+      "text": "Rhodode Farstar !"
+    },
+    "V0614_13_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        13555
+      ],
+      "duelist": [],
+      "text": "Ciguë Farstar !"
+    },
+    "V0614_13_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14161
+      ],
+      "duelist": [],
+      "text": "J'Invoque Spécialement 1 Jeton Farstar !"
+    },
+    "V0614_13_00_18_0": {
+      "face": 9,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13221
+      ],
+      "duelist": [],
+      "text": "Ange des Ténèbres !\nHonore-nous de ta présence !"
+    },
+    "V0614_13_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        17056
+      ],
+      "duelist": [],
+      "text": "Apparais !\nAqua Argonaute Marincesse Lien 4 !"
+    },
+    "V0614_13_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14667
+      ],
+      "duelist": [],
+      "text": "Rejoins-moi \nCœur de Cristal Marincesse Lien 2 !"
+    },
+    "V0614_13_00_20_1": {
+      "face": 12,
+      "frame": 1,
+      "cutin": 2,
+      "card": [],
+      "duelist": [],
+      "text": "Terre...\nJe sais que tu vas nous aider."
+    },
+    "V0614_37_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15040
+      ],
+      "duelist": [],
+      "text": "Les gouttes minuscules s'unissent pour former des océans !"
+    },
+    "V0614_37_00_01_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque par Lien !"
+    },
+    "V0614_13_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        15040
+      ],
+      "duelist": [],
+      "text": "Apparais !\nRécif Grande Bulle Marincesse Lien 4 !"
+    },
+    "V0614_13_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        14489
+      ],
+      "duelist": [],
+      "text": "Et voilà Anémone Corallienne Marincesse Lien 2 !"
+    },
+    "V0614_13_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        17055
+      ],
+      "duelist": [],
+      "text": "Voici Triangle de Corail Marincesse Lien 3 !"
+    },
+    "V0614_13_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        14669
+      ],
+      "duelist": [],
+      "text": "Allez !\nAnge des Mers Marincesse Lien 1 !"
+    },
+    "V0614_13_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        14488
+      ],
+      "duelist": [],
+      "text": "Émerge !\nMollusque Bleue Marincesse Lien 1 !"
+    },
+    "V0614_13_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14490
+      ],
+      "duelist": [],
+      "text": "Lève-toi !\nRoche Marbrée Marincesse Lien 3 !"
+    },
+    "V0614_13_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14668
+      ],
+      "duelist": [],
+      "text": "Attention, Cœur de Merveille Marincesse Lien 4 arrive !"
+    },
+    "V0614_13_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        14630
+      ],
+      "duelist": [],
+      "text": "Queue en Couronne Marincesse !"
+    },
+    "V0614_13_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14452
+      ],
+      "duelist": [],
+      "text": "Étoile de Mer Marincesse !"
+    },
+    "V0614_13_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14451
+      ],
+      "duelist": [],
+      "text": "Cheval de Mer Marincesse !"
+    },
+    "V0614_13_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        17054
+      ],
+      "duelist": [],
+      "text": "Demoiselle Dormeuse Marincesse !"
+    },
+    "V0614_13_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14992
+      ],
+      "duelist": [],
+      "text": "Basilalima Marincesse !"
+    },
+    "V0614_13_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14631
+      ],
+      "duelist": [],
+      "text": "Tang Bleu Marincesse !"
+    },
+    "V0614_13_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14629
+      ],
+      "duelist": [],
+      "text": "Mandarin Marincesse !"
+    },
+    "V0614_13_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17053
+      ],
+      "duelist": [],
+      "text": "Springfille Marincesse !"
+    },
+    "V0614_13_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14788
+      ],
+      "duelist": [],
+      "text": "Pascalus Marincesse !"
+    },
+    "V0614_13_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Battematite du Groupe Farstar !"
+    },
+    "V0614_13_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Viens à moi !\nAnge Noble Farstar Lien 2 !"
+    },
+    "V0614_13_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "Colchica Farstar Lien 1 est là pour m'aider !"
+    },
+    "V0614_13_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "Aconity Farstar !"
+    },
+    "V0614_13_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Ange Aquatique Farstar !"
+    },
+    "V0614_13_00_42_0": {
+      "face": 12,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        17658
+      ],
+      "duelist": [],
+      "text": "Terre... C'est..."
+    },
+    "V0614_13_00_42_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "G Golem Cœur de Cristal !"
+    },
+    "V0614_19_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13083
+      ],
+      "duelist": [],
+      "text": "Ange Houx Farstar !\nÀ l'attaque !"
+    },
+    "V0614_19_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13260
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Chauve-Chat Noir Farstar !"
+    },
+    "V0614_19_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13594
+      ],
+      "duelist": [],
+      "text": "Dauphinelle Farstar attaque !"
+    },
+    "V0614_19_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13343
+      ],
+      "duelist": [],
+      "text": "Cœur Écarlate Farstar !\nÀ l'attaque !"
+    },
+    "V0614_19_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13593
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Floraison Farstar !"
+    },
+    "V0614_19_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13592
+      ],
+      "duelist": [],
+      "text": "Bella Madonna Farstar !\nÀ l'attaque !"
+    },
+    "V0614_19_00_05_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Cri du Cimeterre !"
+    },
+    "V0614_19_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14126
+      ],
+      "duelist": [],
+      "text": "Écrase l'adversaire, Divaridis Farstar !"
+    },
+    "V0614_19_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13512
+      ],
+      "duelist": [],
+      "text": "Sorcière Digitale Farstar !\nÀ l'attaque !"
+    },
+    "V0614_19_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14110
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Douce Guitare du Groupe Farstar !"
+    },
+    "V0614_19_00_08_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Accord de puissance !"
+    },
+    "V0614_19_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13047
+      ],
+      "duelist": [],
+      "text": "Candina Farstar attaque !"
+    },
+    "V0614_19_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13220
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Narcibise Farstar !"
+    },
+    "V0614_19_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13561
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Morelle Noire Farstar !"
+    },
+    "V0614_19_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13046
+      ],
+      "duelist": [],
+      "text": "Lycoris Farstar ! À l'attaque !"
+    },
+    "V0614_19_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13562
+      ],
+      "duelist": [],
+      "text": "Mandragore Farstar ! À l'attaque !"
+    },
+    "V0614_19_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13045
+      ],
+      "duelist": [],
+      "text": "Clochemuguet Farstar attaque !"
+    },
+    "V0614_19_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13563
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Rhodode Farstar !"
+    },
+    "V0614_19_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13555
+      ],
+      "duelist": [],
+      "text": "J'attaque avec ma Carte Ciguë Farstar !"
+    },
+    "V0614_19_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14161
+      ],
+      "duelist": [],
+      "text": "Jeton Farstar !\nÀ l'attaque !"
+    },
+    "V0614_19_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13221
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Ange des Ténèbres !"
+    },
+    "V0614_19_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17056
+      ],
+      "duelist": [],
+      "text": "Aqua Argonaute Marincesse !\nÀ l'attaque !"
+    },
+    "V0614_19_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14667
+      ],
+      "duelist": [],
+      "text": "Cœur de Cristal Marincesse !\nÀ l'attaque !"
+    },
+    "V0614_19_00_20_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ton monstre n'est pas affecté par d'autres effets de carte !"
+    },
+    "V0614_19_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15040
+      ],
+      "duelist": [],
+      "text": "Récif Grande Bulle Marincesse !\nÀ l'attaque !"
+    },
+    "V0614_19_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14489
+      ],
+      "duelist": [],
+      "text": "Anémone Corallienne Marincesse !\nÀ l'attaque !"
+    },
+    "V0614_19_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17055
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Triangle de Corail Marincesse !"
+    },
+    "V0614_19_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14669
+      ],
+      "duelist": [],
+      "text": "Ange des Mers Marincesse !\nAttaque !"
+    },
+    "V0614_19_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14488
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Mollusque Bleue Marincesse !"
+    },
+    "V0614_19_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14490
+      ],
+      "duelist": [],
+      "text": "Roche Marbrée Marincesse !\nÀ l'attaque !"
+    },
+    "V0614_19_00_26_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Immersion de Marincesse !"
+    },
+    "V0614_19_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14668
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Cœur de Merveille Marincesse !"
+    },
+    "V0614_19_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14630
+      ],
+      "duelist": [],
+      "text": "Ma Carte Queue en Couronne Marincesse attaque !"
+    },
+    "V0614_19_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14452
+      ],
+      "duelist": [],
+      "text": "J'attaque avec ma Carte Étoile de Mer Marincesse !"
+    },
+    "V0614_19_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14451
+      ],
+      "duelist": [],
+      "text": "Cheval de Mer Marincesse ! À l'attaque !"
+    },
+    "V0614_19_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17054
+      ],
+      "duelist": [],
+      "text": "Ma Carte Demoiselle Dormeuse Marincesse est assez éveillée pour combattre !"
+    },
+    "V0614_19_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14992
+      ],
+      "duelist": [],
+      "text": "Basilalima Marincesse ! À l'attaque !"
+    },
+    "V0614_19_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14631
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Tang Bleu Marincesse !"
+    },
+    "V0614_19_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14629
+      ],
+      "duelist": [],
+      "text": "Mandarin Marincesse !\nÀ l'attaque !"
+    },
+    "V0614_19_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17053
+      ],
+      "duelist": [],
+      "text": "Springfille Marincesse ! À l'attaque !"
+    },
+    "V0614_19_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14788
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Pascalus Marincesse !"
+    },
+    "V0614_19_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Battematite du Groupe Farstar !\nÀ l'attaque !"
+    },
+    "V0614_19_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Ange Noble Farstar !\nÀ l'attaque !"
+    },
+    "V0614_19_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "Colchica Farstar !\nÀ l'attaque !"
+    },
+    "V0614_19_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Aconity Farstar !"
+    },
+    "V0614_19_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Ange Aquatique Farstar !\nÀ l'attaque !"
+    },
+    "V0614_19_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17658
+      ],
+      "duelist": [],
+      "text": "G Golem Cœur de Cristal !\nÀ l'attaque !"
+    },
+    "V0614_48_00_00_0": {
+      "face": 10,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Allons-y !"
+    },
+    "V0614_48_01_00_0": {
+      "face": 10,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est parti pour le rush !"
+    },
+    "V0614_51_00_00_0": {
+      "face": 10,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je vais t'affronter !"
+    },
+    "V0614_51_01_00_0": {
+      "face": 10,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est l'heure du rush !"
+    },
+    "V0614_49_00_00_0": {
+      "face": 10,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je vais t'affronter !"
+    },
+    "V0614_49_01_00_0": {
+      "face": 10,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel !"
+    },
+    "V0614_22_00_00_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ah !"
+    },
+    "V0614_22_00_01_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aaah !"
+    },
+    "V0614_22_00_02_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Argh !"
+    },
+    "V0614_26_00_00_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ce n'est pas encore fini !"
+    },
+    "V0614_26_00_01_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Cette attaque ne suffira pas à me battre !"
+    },
+    "V0614_26_00_02_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Comme si ça pouvait m'arrêter !"
+    },
+    "V0614_26_00_03_0": {
+      "face": 15,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Est-ce que ça va ?!"
+    },
+    "V0614_26_00_04_0": {
+      "face": 15,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "N'abandonne pas, je t'en supplie !"
+    },
+    "V0614_26_00_05_0": {
+      "face": 15,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tiens bon !"
+    },
+    "V0614_25_00_00_0": {
+      "face": 11,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aaah !"
+    },
+    "V0614_25_00_01_0": {
+      "face": 11,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ouaaah !"
+    },
+    "V0614_25_00_02_0": {
+      "face": 11,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Argh !"
+    },
+    "V0614_27_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Impossible..."
+    },
+    "V0614_27_00_01_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Non..."
+    },
+    "V0614_27_00_02_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je peux encore... me battre..."
+    },
+    "V0614_27_00_03_0": {
+      "face": 15,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Demoiselle Bleue !"
+    },
+    "V0614_27_00_04_0": {
+      "face": 15,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est très mauvais !"
+    },
+    "V0614_27_00_05_0": {
+      "face": 15,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "On ne survivra pas en continuant comme ça !"
+    },
+    "V0614_24_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aargh..."
+    },
+    "V0614_23_00_00_0": {
+      "face": 11,
+      "frame": 1,
+      "cutin": 3,
+      "card": [],
+      "duelist": [],
+      "text": "Aaah !"
+    }
+  }
+}

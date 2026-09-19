@@ -104,7 +104,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Du hast Spieler auf der ganzen Welt begeistert – auch mich."
     },
@@ -124,7 +126,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Wer bin ich, Nein zu sagen, wenn du kämpfen willst?"
     },
@@ -1134,7 +1137,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Es war mir eine Ehre, in deinem letzten Duell zu kämpfen."
     },
@@ -1144,7 +1149,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Du willst mich retten, aber kannst dich selbst nicht retten."
     },
@@ -1154,7 +1161,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Bin nicht so dumm, mein Leben auf ein Märchen zu gründen!"
     },
@@ -1164,7 +1173,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Happy Ends gibt es halt nur in Kinderbüchern."
     },
@@ -1200,7 +1211,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Der eine erntet Ruhm – der andere das totale Elend."
     },
@@ -1218,7 +1231,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Bist du Blue Angel, da man dich stets grün und blau schlägt?"
     },
@@ -1238,7 +1253,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Alles, was ich tue, tue ich für dich, Meister Varis."
     },
@@ -1248,7 +1264,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Du gabst mir ’ne Heimat, Meister Varis.\nIch verrat dich nie."
     },
@@ -1364,7 +1381,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Du verblüffst mich immer wieder, Meister Varis."
     },
@@ -1654,7 +1672,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Du wirst dieses Duell sicher beenden, Meister Varis."
     },
@@ -1664,7 +1683,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Du bist am Zug, Meister Varis!"
     },
@@ -1674,7 +1694,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Vergib mir, Meister Varis …"
     },

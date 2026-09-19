@@ -88,7 +88,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        907
       ],
       "text": "Humpf!\nEu vou reciclar seus veículos em restolhos!"
     },
@@ -1322,7 +1322,7 @@
         20002
       ],
       "duelist": [],
-      "text": "Eu equipo a Magia de Equipamento, !"
+      "text": "Eu equipo a Magia de Equipamento, Veículo de Investigações Secretas Pássaro Explosivo!"
     },
     "V0866_08_00_01_0": {
       "face": 3,
@@ -1332,7 +1332,7 @@
         20001
       ],
       "duelist": [],
-      "text": "Ativo meu Card de Magia!\n!"
+      "text": "Ativo meu Card de Magia!\nAdulteração Secreta!"
     },
     "V0866_08_00_02_0": {
       "face": 3,
@@ -1440,7 +1440,7 @@
         19295
       ],
       "duelist": [],
-      "text": "Ativo o efeito de Agente Desencontrado!"
+      "text": "Ativo o efeito de Agente Equivocada!"
     },
     "V0866_09_00_03_0": {
       "face": 3,
@@ -1460,7 +1460,7 @@
         19297
       ],
       "duelist": [],
-      "text": "Ativo o efeito de Agente Descombinado!"
+      "text": "Ativo o efeito de Agente Cafona!"
     },
     "V0866_09_00_05_0": {
       "face": 3,
@@ -1480,7 +1480,7 @@
         19298
       ],
       "duelist": [],
-      "text": "Ativo o efeito de Agente Errôneo!"
+      "text": "Ativo o efeito de Agente Perdida!"
     },
     "V0866_09_00_07_0": {
       "face": 3,
@@ -1560,7 +1560,7 @@
         19295
       ],
       "duelist": [],
-      "text": "Agente Desencontrado!"
+      "text": "Agente Equivocada!"
     },
     "V0866_13_00_04_0": {
       "face": 3,
@@ -1580,7 +1580,7 @@
         19297
       ],
       "duelist": [],
-      "text": "Agente Descombinado!"
+      "text": "Agente Cafona!"
     },
     "V0866_13_00_06_0": {
       "face": 3,
@@ -1600,7 +1600,7 @@
         19298
       ],
       "duelist": [],
-      "text": "Agente Errôneo!"
+      "text": "Agente Perdida!"
     },
     "V0866_13_00_08_0": {
       "face": 3,
@@ -1726,7 +1726,7 @@
         19295
       ],
       "duelist": [],
-      "text": "Agente Desencontrado! Atacar!"
+      "text": "Agente Equivocada! Atacar!"
     },
     "V0866_19_00_05_0": {
       "face": 3,
@@ -1746,7 +1746,7 @@
         19297
       ],
       "duelist": [],
-      "text": "Agente Descombinado!\nAtacar!"
+      "text": "Agente Cafona!\nAtacar!"
     },
     "V0866_19_00_07_0": {
       "face": 3,
@@ -1766,7 +1766,7 @@
         19298
       ],
       "duelist": [],
-      "text": "Agente Errôneo!\nAtacar!"
+      "text": "Agente Perdida!\nAtacar!"
     },
     "V0866_19_00_09_0": {
       "face": 3,

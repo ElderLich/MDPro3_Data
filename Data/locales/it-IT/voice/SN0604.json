@@ -75,7 +75,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Al termine del Duello, avrai il morale a terra!"
     },
@@ -945,7 +946,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Ho vinto, Varis!"
     },
@@ -1051,7 +1053,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Sei forte... E sembra che non ti stessi neanche sforzando..."
     },
@@ -3022,6 +3025,256 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaaaaaah!"
+    },
+    "V0604_08_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20296
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Trappola!\nDiffusione Truccastella!"
+    },
+    "V0604_08_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20296
+      ],
+      "duelist": [],
+      "text": "Bandisco Diffusione Truccastella dal mio Cimitero!"
+    },
+    "V0604_08_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20297
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Carta Trappola!\nFanciulla delle Lacrime Blu!"
+    },
+    "V0604_08_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20297
+      ],
+      "duelist": [],
+      "text": "Bandisco Fanciulla delle Lacrime Blu dal mio Cimitero!"
+    },
+    "V0604_09_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Dato che ho Evocato tramite Fusione Truccastella Drumatis Banda, posso attivarne l'effetto!"
+    },
+    "V0604_09_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Truccastella Drumatis Banda attiva il suo effetto!"
+    },
+    "V0604_09_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Evocando tramite Link Truccastella Angelo Nobile, posso attivarne l'effetto!"
+    },
+    "V0604_09_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Il mio Mostro Fusione consente a Truccastella Angelo Nobile di attivare il suo effetto!"
+    },
+    "V0604_09_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Se subiamo danni da effetto, Truccastella Angelo Nobile può usare il suo effetto!"
+    },
+    "V0604_09_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "Bandisco Truccastella Colchica dal mio Cimitero per attivare il suo effetto!"
+    },
+    "V0604_09_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Truccastella Aconito dalla mia mano!"
+    },
+    "V0604_09_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "Usando Truccastella Aconito per Evocare Link, si attiva il suo effetto!"
+    },
+    "V0604_09_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Si attiva l'effetto di Truccastella Angelo Acqua!"
+    },
+    "V0604_09_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Si attiva l'effetto di Truccastella Angelo Acqua quando la uso per Evocare Link!"
+    },
+    "V0604_13_00_37_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Truccastella Drumatis Banda!"
+    },
+    "V0604_13_00_38_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Ecco che arriva!\nTruccastella Angelo Nobile Link 2!"
+    },
+    "V0604_13_00_39_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "Andiamo!\nTruccastella Colchica Link 1!"
+    },
+    "V0604_13_00_40_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "Truccastella Aconito!"
+    },
+    "V0604_13_00_41_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Truccastella Angelo Acqua!"
+    },
+    "V0604_19_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Truccastella Drumatis Banda!\nAttacca!"
+    },
+    "V0604_19_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Il mio mostro Truccastella Angelo Nobile attacca!"
+    },
+    "V0604_19_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "Attacca, Truccastella Colchica!"
+    },
+    "V0604_19_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "Attacca, Truccastella Aconito!"
+    },
+    "V0604_19_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Truccastella Angelo Acqua!\nAttacca!"
+    },
+    "V0604_19_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17658
+      ],
+      "duelist": [],
+      "text": "G Golem Cuore di Cristallo!\nAttacca!"
     }
   }
 }

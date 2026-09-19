@@ -1,0 +1,2384 @@
+{
+  "_GRP_": "SN0907",
+  "_LNG_": "pt-BR",
+  "info": {
+    "V0907_01_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Eu sou Asaka Mutsuba!\nA todo vapor!"
+    },
+    "V0907_01_00_01_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Se não gosta da minha gestão, me vença em um Duelo!"
+    },
+    "V0907_01_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Um Rush Duel é o único jeito justo de resolver isso!"
+    },
+    "V0907_01_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pela honra do Maquinário Pesado de Mutsuba!"
+    },
+    "V0907_01_00_04_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Este Duelo vai provar que eu mando no Município de Mutsuba!"
+    },
+    "V0907_01_00_05_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Muito bem! Aceito o desafio!\nPrepare-se para um atropelo!"
+    },
+    "V0907_01_00_06_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        904,
+        866
+      ],
+      "text": "Você está invadindo minha cidade!\nOrdeno que vá embora!"
+    },
+    "V0907_01_00_07_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        863
+      ],
+      "text": "Então você quer me enfrentar, Teru."
+    },
+    "V0907_01_00_08_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        863
+      ],
+      "text": "Teru...\nDepois de tudo que fiz por você."
+    },
+    "V0907_01_00_09_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        99999
+      ],
+      "text": "Como presidente do Maquinário Pesado de Mutsuba, mando mais!"
+    },
+    "V0907_51_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Asaka Mutsuba!"
+    },
+    "V0907_51_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Vamos pro Rush!"
+    },
+    "V0907_03_00_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Lancei a base para construir minha vitória!"
+    },
+    "V0907_03_00_00_1": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "É meu turno!"
+    },
+    "V0907_03_00_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Você vai ver o exato momento da minha vitória!"
+    },
+    "V0907_03_00_01_1": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Meu turno!"
+    },
+    "V0907_04_00_00_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Compro!"
+    },
+    "V0907_03_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Vou começar preparando o terreno!"
+    },
+    "V0907_03_00_02_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Meu turno!"
+    },
+    "V0907_03_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "É meu turno!"
+    },
+    "V0907_04_00_01_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Compro!"
+    },
+    "V0907_03_00_04_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Saiba que você ainda não venceu o Duelo!"
+    },
+    "V0907_03_00_04_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "É meu turno!"
+    },
+    "V0907_03_00_05_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ninguém sabe o fim até o último card entrar em jogo!"
+    },
+    "V0907_03_00_05_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Meu turno!"
+    },
+    "V0907_04_00_02_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Não vou perder o gás!\nCompro!"
+    },
+    "V0907_05_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Vou perfurar fundo até minhas reservas!"
+    },
+    "V0907_05_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Compro!!!"
+    },
+    "V0907_06_01_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Agora!"
+    },
+    "V0907_06_01_01_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Que tal?!"
+    },
+    "V0907_06_01_02_0": {
+      "face": 9,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Acho que não!"
+    },
+    "V0907_06_01_03_0": {
+      "face": 9,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Sabia que você ia tentar isso!"
+    },
+    "V0907_07_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Da minha mão..."
+    },
+    "V0907_07_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ativo um Card de Magia!"
+    },
+    "V0907_07_02_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ativo uma Magia Rápida!"
+    },
+    "V0907_07_03_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ativo uma Magia Contínua!"
+    },
+    "V0907_07_04_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ativo uma Magia de Equipamento!"
+    },
+    "V0907_07_05_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ativo uma Magia de Ritual!"
+    },
+    "V0907_07_06_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ativo minha Armadilha!"
+    },
+    "V0907_07_07_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ativo uma Armadilha Contínua!"
+    },
+    "V0907_07_08_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ativo minha Armadilha de Resposta!"
+    },
+    "V0907_07_09_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Vou usar esse card!"
+    },
+    "V0907_07_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Esse é o card que Baixo!"
+    },
+    "V0907_07_10_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ativo o efeito do meu monstro!"
+    },
+    "V0907_07_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ativo uma Magia de Campo!"
+    },
+    "V0907_07_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ativo um efeito!"
+    },
+    "V0907_07_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Baixo a Escala de Pêndulo!"
+    },
+    "V0907_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ativo um Efeito de Pêndulo!"
+    },
+    "V0907_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ativo uma Magia de Ritual!"
+    },
+    "V0907_10_00_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aqui vou eu!"
+    },
+    "V0907_10_00_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pode deixar!"
+    },
+    "V0907_10_00_02_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mãos à obra!"
+    },
+    "V0907_10_00_03_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Agora!"
+    },
+    "V0907_11_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invoco um monstro!"
+    },
+    "V0907_11_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invoco um monstro em Posição de Defesa!"
+    },
+    "V0907_11_02_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação-Especial de um monstro!"
+    },
+    "V0907_11_03_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ofereço um monstro como Tributo!"
+    },
+    "V0907_11_04_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação-Tributo de um monstro!"
+    },
+    "V0907_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Tributo!"
+    },
+    "V0907_11_05_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação-Fusão de um monstro!"
+    },
+    "V0907_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Fusão!"
+    },
+    "V0907_11_06_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação-Ritual de um monstro!"
+    },
+    "V0907_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Ritual!"
+    },
+    "V0907_11_07_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação-Sincro de um monstro!"
+    },
+    "V0907_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Sincro!"
+    },
+    "V0907_11_08_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação-Xyz de um monstro!"
+    },
+    "V0907_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Xyz!"
+    },
+    "V0907_11_09_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação-Pêndulo de um monstro!"
+    },
+    "V0907_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Pêndulo!"
+    },
+    "V0907_11_10_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação-Link de um monstro!"
+    },
+    "V0907_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Link!"
+    },
+    "V0907_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação Máxima de um monstro!"
+    },
+    "V0907_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação Máxima!"
+    },
+    "V0907_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação-Fusão de um monstro!"
+    },
+    "V0907_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Fusão!"
+    },
+    "V0907_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Fusão de Contato de um monstro!"
+    },
+    "V0907_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fusão de Contato!"
+    },
+    "V0907_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Faço a Invocação-Ritual de um monstro!"
+    },
+    "V0907_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocação-Ritual!"
+    },
+    "V0907_14_00_00_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "À batalha!"
+    },
+    "V0907_14_00_01_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Vamos batalhar!"
+    },
+    "V0907_15_00_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Avante!"
+    },
+    "V0907_15_00_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Acabe com eles!"
+    },
+    "V0907_15_00_02_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Varra todos para longe!"
+    },
+    "V0907_17_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Meu monstro ataca!"
+    },
+    "V0907_17_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ataco com meu monstro!"
+    },
+    "V0907_17_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ataque!"
+    },
+    "V0907_16_00_00_0": {
+      "face": 9,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Este trabalho acabou!"
+    },
+    "V0907_16_00_01_0": {
+      "face": 9,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Demoli seus planos como uma bola de demolição!"
+    },
+    "V0907_18_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Meu monstro faz um ataque direto!"
+    },
+    "V0907_18_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ataque direto!"
+    },
+    "V0907_20_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Baixo um card!"
+    },
+    "V0907_20_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Vou Baixar um card!"
+    },
+    "V0907_20_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Baixo um monstro!"
+    },
+    "V0907_20_01_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Estou Baixando um monstro!"
+    },
+    "V0907_21_00_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Heh!\nNão há nada que você possa fazer."
+    },
+    "V0907_21_00_00_1": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Termino meu turno!"
+    },
+    "V0907_21_00_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pare de enrolar! É patético!"
+    },
+    "V0907_21_00_01_1": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Termino meu turno!"
+    },
+    "V0907_21_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "O Estilo Maquinário Pesado te esmaga rápido!"
+    },
+    "V0907_21_00_02_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Termino meu turno!"
+    },
+    "V0907_21_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Assim termino meu turno!"
+    },
+    "V0907_21_00_04_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Você não chega nem perto de me derrotar!"
+    },
+    "V0907_21_00_04_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Termino meu turno!"
+    },
+    "V0907_21_00_05_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Se baixar a guarda, vou te pegar!"
+    },
+    "V0907_21_00_05_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Termino meu turno!"
+    },
+    "V0907_28_00_00_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pronto!\nEu venci!"
+    },
+    "V0907_28_00_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Hehe! Moleza!"
+    },
+    "V0907_28_00_02_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Engenhosidade é um atributo vital para liderar!"
+    },
+    "V0907_28_00_03_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "O Maquinário Pesado de Mutsuba cumpre a missão!"
+    },
+    "V0907_28_00_04_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Sem me gabar, tenho o Deck mais forte da galáxia!"
+    },
+    "V0907_28_00_05_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Podem me derrubar, mas nunca me derrotar!"
+    },
+    "V0907_28_00_06_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        863
+      ],
+      "text": "Eu sabia que te dar água me renderia um favor."
+    },
+    "V0907_28_00_07_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        904,
+        866
+      ],
+      "text": "Seus planos? Você não tem mais nenhum!"
+    },
+    "V0907_28_00_08_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        99999
+      ],
+      "text": "Não preciso ouvir você. Sou sua superior!"
+    },
+    "V0907_29_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Hehe...\nBela jogada."
+    },
+    "V0907_29_00_01_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Quem diria que você era tão forte!"
+    },
+    "V0907_29_00_02_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Você tinha um contra-ataque para meu Deck Destruidor?!"
+    },
+    "V0907_29_00_03_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Hehe... Impressionante!"
+    },
+    "V0907_29_00_04_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Dei tudo de mim, mas você venceu este Duelo!"
+    },
+    "V0907_29_00_05_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        863
+      ],
+      "text": "Eu sabia que você tramava algo!"
+    },
+    "V0907_29_00_06_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        99999
+      ],
+      "text": "Me pergunto o que Aquele Cara acharia se visse você Duelar."
+    },
+    "V0907_29_00_07_0": {
+      "face": 4,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        99999
+      ],
+      "text": "E eu achando que você tinha alergia a esforço."
+    },
+    "V0907_31_00_00_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "O quê?!"
+    },
+    "V0907_31_00_01_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Sem chance!"
+    },
+    "V0907_33_00_00_0": {
+      "face": 9,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Eis a alma do Estilo Maquinário Pesado!"
+    },
+    "V0907_33_00_01_0": {
+      "face": 9,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Pigeflap, se não chorarem, faremos chorar!"
+    },
+    "V0907_33_00_02_0": {
+      "face": 9,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "A autoridade de Mutsuba abrange todo o universo!"
+    },
+    "V0907_30_00_00_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Me recuso!"
+    },
+    "V0907_30_00_01_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Agradeço se for direto ao ponto."
+    },
+    "V0907_30_00_02_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Destrua o quanto quiser! Eu reconstruo!"
+    },
+    "V0907_34_00_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Como presidente da Mutsuba, não recebo ordens!"
+    },
+    "V0907_34_00_01_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "É fácil mudar a opinião de alguém se tiver dinheiro."
+    },
+    "V0907_34_00_02_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Não fale assim comigo. Estou acima de você."
+    },
+    "V0907_34_00_03_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Asaka Mutsuba vai te ensinar a Duelar!"
+    },
+    "V0907_34_00_04_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Posso ver o efeito desse card? Agradeço."
+    },
+    "V0907_34_00_05_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Sistemas prontos!\nCriei um novo card!"
+    },
+    "V0907_34_00_06_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "O processo de fabricar um card tem muitas etapas difíceis."
+    },
+    "V0907_34_00_07_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "A tecnologia do Maquinário Pesado de Mutsuba é a melhor!"
+    },
+    "V0907_34_00_08_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Não será justo para você se outros me ajudarem."
+    },
+    "V0907_34_00_09_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mesmo com riqueza e poder, sei que é impossível!"
+    },
+    "V0907_34_00_10_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tenho orgulho de ser Mutsuba. Não preciso de piedade!"
+    },
+    "V0907_34_00_11_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Você se acha inteligente, mas isso foi inútil!"
+    },
+    "V0907_34_00_12_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Sem me gabar, ninguém tem cards mais fortes!"
+    },
+    "V0907_34_00_13_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Calma! Não consigo acompanhar..."
+    },
+    "V0907_34_00_14_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tudo que faço é certo!\nPois nada que faço é errado!"
+    },
+    "V0907_34_00_15_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Chega dessas estratégias bobas!"
+    },
+    "V0907_32_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Yu-Gi-Oh! Duel Links"
+    },
+    "V0907_32_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Yu-Gi-Oh! Duel Links é uma maravilha tecnológica! Um jeito de Duelar onde e quando quiser! Mesmo não sendo criado pelo Maquinário Pesado de Mutsuba: de nada!"
+    },
+    "V0907_35_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Asaka Mutsuba!\nPresidente do Maquinário Pesado de Mutsuba!"
+    },
+    "V0907_35_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Minha empresa ergueu o Município de Mutsuba. Eu que mando!"
+    },
+    "V0907_36_00_00_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Conclua o que eu construí!"
+    },
+    "V0907_36_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Agora é o seu turno!"
+    },
+    "V0907_36_00_02_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Nunca tema aceitar um serviço difícil!"
+    },
+    "V0907_36_00_03_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        99999
+      ],
+      "text": "Vença por nós, Yuna!"
+    },
+    "V0907_36_00_04_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        99999
+      ],
+      "text": "Você consegue, Yuna!"
+    },
+    "V0907_36_00_05_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        99999
+      ],
+      "text": "Yuna!\nAinda não nos derrotaram!"
+    },
+    "V0907_36_00_06_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        863
+      ],
+      "text": "Acabe com isso, Teru."
+    },
+    "V0907_36_00_07_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        863
+      ],
+      "text": "Sua vez, Teru!"
+    },
+    "V0907_36_00_08_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        863
+      ],
+      "text": "Preciso que me dê outro turno, Teru!"
+    },
+    "V0907_36_00_09_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        99999
+      ],
+      "text": "É com você!"
+    },
+    "V0907_36_00_10_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        99999
+      ],
+      "text": "É seu turno."
+    },
+    "V0907_36_00_11_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        99999
+      ],
+      "text": "Com você ao meu lado, não me preocupo."
+    },
+    "V0907_08_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19131
+      ],
+      "duelist": [],
+      "text": "Arrase a terra e nivele o terreno!"
+    },
+    "V0907_08_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Eu, Asaka Mutsuba, ofereço esta lâmina ao meu monstro!"
+    },
+    "V0907_08_00_00_2": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "A Magia de Equipamento Espada Destrutora Conquedea!"
+    },
+    "V0907_08_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19131
+      ],
+      "duelist": [],
+      "text": "O Maquinário Pesado de Mutsuba veio equipado!"
+    },
+    "V0907_08_00_01_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Equipo Espada Destrutora Conquedea em meu monstro!"
+    },
+    "V0907_08_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19132
+      ],
+      "duelist": [],
+      "text": "Vou equipar a Magia de Equipamento Escudo de Garras do Destrutor!"
+    },
+    "V0907_08_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20662
+      ],
+      "duelist": [],
+      "text": "Mostrarei o poder oculto desta Magia de Campo!"
+    },
+    "V0907_08_00_03_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Portão Destrutor de Restolhos de Integração!"
+    },
+    "V0907_08_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19133
+      ],
+      "duelist": [],
+      "text": "Ativo o Card de Magia Pesquisa do Destrutor!"
+    },
+    "V0907_08_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16934
+      ],
+      "duelist": [],
+      "text": "Ativo meu Card de Magia!\nFusão!"
+    },
+    "V0907_08_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16929
+      ],
+      "duelist": [],
+      "text": "Ativo meu Card de Magia!\nRecomeço Estelar!"
+    },
+    "V0907_08_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19134
+      ],
+      "duelist": [],
+      "text": "Ativo a Armadilha Muro do Destrutor!"
+    },
+    "V0907_08_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19135
+      ],
+      "duelist": [],
+      "text": "Ativo minha armadilha!\nArte de Destruição - Destruição Total!"
+    },
+    "V0907_08_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17545
+      ],
+      "duelist": [],
+      "text": "Ativo minha armadilha!\nRugido do Demolidor!"
+    },
+    "V0907_08_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21009
+      ],
+      "duelist": [],
+      "text": "Ativo a Armadilha Máquina do Tempo!"
+    },
+    "V0907_08_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "Jogo minha Magia de Campo!\n<card mrk=99999/>!"
+    },
+    "V0907_09_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19124
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Wyrm Destrutor Bakhamut!"
+    },
+    "V0907_09_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Explosão da Pedreira!"
+    },
+    "V0907_09_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20654
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Imperador Destrutor Bakhakaiser!"
+    },
+    "V0907_09_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19675
+      ],
+      "duelist": [],
+      "text": "Wyrm Destrutor Bakhamut da Escuridão ativa seu efeito!"
+    },
+    "V0907_09_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19122
+      ],
+      "duelist": [],
+      "text": "Wyrm Destrutor Perigoso Bakhamut Explosivo ativa seu efeito!"
+    },
+    "V0907_09_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19123
+      ],
+      "duelist": [],
+      "text": "Detonador Destruidor Empregado Pesado ativa seu efeito!"
+    },
+    "V0907_09_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19646
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Recruta de Demolição!"
+    },
+    "V0907_09_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19125
+      ],
+      "duelist": [],
+      "text": "Ativo meu efeito de Depósito do Soldado Destruidor!"
+    },
+    "V0907_09_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20622
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Soldado Destrutor Cantil!"
+    },
+    "V0907_09_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20621
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Soldado Destrutor Haken!"
+    },
+    "V0907_09_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21658
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Soldado Destrutor Knikka!"
+    },
+    "V0907_09_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21659
+      ],
+      "duelist": [],
+      "text": "Soldado Destrutor Bokka ativa seu efeito!"
+    },
+    "V0907_09_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19127
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Elmo do Soldado Destrutor!"
+    },
+    "V0907_09_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19645
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de Pantomita da Escuridão!"
+    },
+    "V0907_09_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "<card mrk=99999/> ativa seu efeito!"
+    },
+    "V0907_09_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de <card mrk=99999/>!"
+    },
+    "V0907_09_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de <card mrk=99999/>!"
+    },
+    "V0907_09_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "Ativo o efeito de <card mrk=99999/>!"
+    },
+    "V0907_37_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19124
+      ],
+      "duelist": [],
+      "text": "Forjado em aço fundido!\nErga-se das profundezas!"
+    },
+    "V0907_37_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pulverize a terra e incendeie os céus com fúria!"
+    },
+    "V0907_13_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        19124
+      ],
+      "duelist": [],
+      "text": "Apareça!\nWyrm Destrutor Bakhamut!"
+    },
+    "V0907_37_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20654
+      ],
+      "duelist": [],
+      "text": "Toda galáxia começa com um grão de areia!"
+    },
+    "V0907_37_00_01_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Reine no universo e construa um amanhã glorioso!"
+    },
+    "V0907_13_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        20654
+      ],
+      "duelist": [],
+      "text": "Imperador Destrutor Bakhakaiser!"
+    },
+    "V0907_37_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19675
+      ],
+      "duelist": [],
+      "text": "Estilhace e exploda!"
+    },
+    "V0907_37_00_02_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Seja o único farol na noite infinita!"
+    },
+    "V0907_13_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        19675
+      ],
+      "duelist": [],
+      "text": "Irrompa!\nWyrm Destrutor Bakhamut da Escuridão!"
+    },
+    "V0907_37_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19122
+      ],
+      "duelist": [],
+      "text": "Liberte o terror do terreno!"
+    },
+    "V0907_13_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        19122
+      ],
+      "duelist": [],
+      "text": "Wyrm Destrutor Perigoso Bakhamut Explosivo!\nVaaaai!"
+    },
+    "V0907_13_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        19123
+      ],
+      "duelist": [],
+      "text": "Detonador Destruidor Empregado Pesado!"
+    },
+    "V0907_13_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        21686
+      ],
+      "duelist": [],
+      "text": "Princesas Gêmeas Destrutor Haut-de-Chausses!"
+    },
+    "V0907_13_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        16126
+      ],
+      "duelist": [],
+      "text": "Batalhador Construtor Grande Rolo!\nAtaque!"
+    },
+    "V0907_13_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19646
+      ],
+      "duelist": [],
+      "text": "Recruta de Demolição!"
+    },
+    "V0907_13_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19125
+      ],
+      "duelist": [],
+      "text": "Depósito do Soldado Destruidor!"
+    },
+    "V0907_13_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19129
+      ],
+      "duelist": [],
+      "text": "Soldado Destrutor Rebocador!"
+    },
+    "V0907_13_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20622
+      ],
+      "duelist": [],
+      "text": "Soldado Destrutor Cantil!"
+    },
+    "V0907_13_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19128
+      ],
+      "duelist": [],
+      "text": "Soldado Destrutor Restaurador de Alturas!"
+    },
+    "V0907_13_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19130
+      ],
+      "duelist": [],
+      "text": "Soldado Destrutor Encanador!"
+    },
+    "V0907_13_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20621
+      ],
+      "duelist": [],
+      "text": "Soldado Destrutor Haken!"
+    },
+    "V0907_13_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21658
+      ],
+      "duelist": [],
+      "text": "Soldado Destrutor Knikka!"
+    },
+    "V0907_13_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21659
+      ],
+      "duelist": [],
+      "text": "Soldado Destrutor Bokka!"
+    },
+    "V0907_13_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19127
+      ],
+      "duelist": [],
+      "text": "Elmo do Soldado Destrutor!"
+    },
+    "V0907_13_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19645
+      ],
+      "duelist": [],
+      "text": "A encarnação das trevas!\nPantomita da Escuridão!"
+    },
+    "V0907_37_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "Rasgue o terreno e todos no seu caminho!"
+    },
+    "V0907_13_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "<card mrk=99999/>!"
+    },
+    "V0907_37_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "Varra o lixo e faça um turbilhão infernal! "
+    },
+    "V0907_13_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "<card mrk=99999/>!"
+    },
+    "V0907_37_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "Forjado em aço negro, surja das sombras sem fim!"
+    },
+    "V0907_13_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "<card mrk=99999/>!"
+    },
+    "V0907_37_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "Supere o tempo e erga-se no presente!"
+    },
+    "V0907_37_00_07_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Seu fim é agora!"
+    },
+    "V0907_13_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "<card mrk=99999/>!"
+    },
+    "V0907_19_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19124
+      ],
+      "duelist": [],
+      "text": "Wyrm Destrutor Bakhamut! Ataque!"
+    },
+    "V0907_19_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Demolição Podermite!"
+    },
+    "V0907_19_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20654
+      ],
+      "duelist": [],
+      "text": "Ataque, Imperador Destrutor Bakhakaiser!"
+    },
+    "V0907_19_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19675
+      ],
+      "duelist": [],
+      "text": "Vejam as sombras irromperem!\nAtaque, Wyrm Destrutor Bakhamut da Escuridão!"
+    },
+    "V0907_19_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19122
+      ],
+      "duelist": [],
+      "text": "Wyrm Destrutor Perigoso Bakhamut Explosivo!\nAtaque!"
+    },
+    "V0907_19_00_03_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Explosão Explosiva!"
+    },
+    "V0907_19_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19123
+      ],
+      "duelist": [],
+      "text": "Ataque, Detonador Destruidor Empregado Pesado!"
+    },
+    "V0907_19_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21686
+      ],
+      "duelist": [],
+      "text": "Princesas Gêmeas Destrutor Haut-de-Chausses!\nAtaque!"
+    },
+    "V0907_19_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        16126
+      ],
+      "duelist": [],
+      "text": "Batalhador Construtor Grande Rolo!\nAtaque!"
+    },
+    "V0907_19_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19646
+      ],
+      "duelist": [],
+      "text": "Recruta de Demolição!\nAtaque!"
+    },
+    "V0907_19_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19125
+      ],
+      "duelist": [],
+      "text": "Ataque, Depósito do Soldado Destruidor!"
+    },
+    "V0907_19_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19129
+      ],
+      "duelist": [],
+      "text": "Soldado Destrutor Rebocador! Ataque!"
+    },
+    "V0907_19_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20622
+      ],
+      "duelist": [],
+      "text": "Ataque, Soldado Destrutor Cantil!"
+    },
+    "V0907_19_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19128
+      ],
+      "duelist": [],
+      "text": "Soldado Destrutor Restaurador de Alturas!\nAtaque!"
+    },
+    "V0907_19_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19130
+      ],
+      "duelist": [],
+      "text": "Soldado Destrutor Encanador! Ataque!"
+    },
+    "V0907_19_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20621
+      ],
+      "duelist": [],
+      "text": "Soldado Destrutor Haken! Ataque!"
+    },
+    "V0907_19_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21658
+      ],
+      "duelist": [],
+      "text": "Ataque, Soldado Destrutor Knikka!"
+    },
+    "V0907_19_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21659
+      ],
+      "duelist": [],
+      "text": "Soldado Destrutor Bokka!\nAtaque!"
+    },
+    "V0907_19_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19127
+      ],
+      "duelist": [],
+      "text": "Elmo do Soldado Destrutor!\nAtaque!"
+    },
+    "V0907_19_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19645
+      ],
+      "duelist": [],
+      "text": "Ataque, Pantomita da Escuridão!"
+    },
+    "V0907_19_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "<card mrk=99999/>!\nAtaque!"
+    },
+    "V0907_19_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "Ataque, <card mrk=99999/>!"
+    },
+    "V0907_19_00_19_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Queime! Inflame! Incinere!\nAbra um caminho de cinzas!"
+    },
+    "V0907_19_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "<card mrk=99999/>!\nExploda-os em pedaços!"
+    },
+    "V0907_19_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "<card mrk=99999/>! Ataque!\nAniquile-os!"
+    },
+    "V0907_02_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ao Duelo!"
+    },
+    "V0907_49_00_00_0": {
+      "face": 9,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Parece divertido!"
+    },
+    "V0907_49_01_00_0": {
+      "face": 9,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
+    },
+    "V0907_22_00_00_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Argh!"
+    },
+    "V0907_22_00_01_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Argh!"
+    },
+    "V0907_22_00_02_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aaah!"
+    },
+    "V0907_26_00_00_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Nada que eu não dê conta!"
+    },
+    "V0907_26_00_01_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Foi inútil!"
+    },
+    "V0907_26_00_02_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Impressionante!"
+    },
+    "V0907_25_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ahhhhh!"
+    },
+    "V0907_25_00_01_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Uaaaaa!"
+    },
+    "V0907_25_00_02_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aaaaagh!"
+    },
+    "V0907_27_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Grr..."
+    },
+    "V0907_27_00_01_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Não acredito..."
+    },
+    "V0907_27_00_02_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Não acabou ainda..."
+    },
+    "V0907_23_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 3,
+      "card": [],
+      "duelist": [],
+      "text": "Aaaaaaahhhhh!"
+    }
+  }
+}

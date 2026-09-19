@@ -88,7 +88,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        907
       ],
       "text": "Hmpf!\nIch mache aus euren Autos Schrott!"
     },
@@ -1322,7 +1322,7 @@
         20002
       ],
       "duelist": [],
-      "text": "Ich rüste den Ausrüstungszauber  aus!"
+      "text": "Ich rüste den Ausrüstungszauber Geheimes Untersuchungsfahrzeug Blastbird aus!"
     },
     "V0866_08_00_01_0": {
       "face": 3,
@@ -1332,7 +1332,7 @@
         20001
       ],
       "duelist": [],
-      "text": "Ich aktiviere meine Zauberkarte!\n!"
+      "text": "Ich aktiviere meine Zauberkarte!\nGeheime Manipulation!"
     },
     "V0866_08_00_02_0": {
       "face": 3,

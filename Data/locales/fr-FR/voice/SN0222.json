@@ -1,0 +1,3585 @@
+{
+  "_GRP_": "SN0222",
+  "_LNG_": "fr-FR",
+  "info": {
+    "V0222_01_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je suis Kalin !\nLe chef des Exécuteurs !\nÇa va être amusant !"
+    },
+    "V0222_01_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je vais t'affronter !\nJ'aime la compétition !"
+    },
+    "V0222_01_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Il est temps pour les Exécuteurs de s'exécuter ! "
+    },
+    "V0222_01_00_03_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je vais rendre les rues d'ici plus sûres !"
+    },
+    "V0222_01_00_04_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        207,
+        835
+      ],
+      "text": "La Sécurité du secteur, c'est le meilleur gang de Duel !"
+    },
+    "V0222_01_00_05_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        207,
+        835
+      ],
+      "text": "En les éliminant, on retrouvera enfin notre chez-nous !"
+    },
+    "V0222_01_00_06_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        201,
+        202,
+        203,
+        219,
+        220,
+        221,
+        223
+      ],
+      "text": "Mes adversaires les plus forts font partie des Exécuteurs !"
+    },
+    "V0222_02_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Duel !"
+    },
+    "V0222_03_00_00_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tu ne peux pas arrêter l'inarrêtable !"
+    },
+    "V0222_03_00_00_1": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est mon tour !"
+    },
+    "V0222_03_00_01_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je vais t'écraser en vitesse !"
+    },
+    "V0222_03_00_01_1": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "À mon tour !"
+    },
+    "V0222_04_00_00_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je pioche !"
+    },
+    "V0222_03_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est mon tour !"
+    },
+    "V0222_03_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tes ruses ne marcheront pas avec moi !"
+    },
+    "V0222_03_00_03_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "À mon tour !"
+    },
+    "V0222_04_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je pioche !"
+    },
+    "V0222_03_00_04_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ce n'est pas drôle quand c'est trop facile !"
+    },
+    "V0222_03_00_04_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est mon tour !"
+    },
+    "V0222_03_00_05_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Impossible de rendre Satellite plus sûre sans te vaincre !"
+    },
+    "V0222_03_00_05_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "À mon tour !"
+    },
+    "V0222_04_00_02_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je pioche !"
+    },
+    "V0222_05_00_00_0": {
+      "face": 9,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Ce n'est pas terminé !\nC'est moi qui gagnerai !"
+    },
+    "V0222_05_00_00_1": {
+      "face": 9,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Je pioooche !"
+    },
+    "V0222_06_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Voilà ce que je vais faire !"
+    },
+    "V0222_06_01_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est le moment !"
+    },
+    "V0222_06_01_02_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ça ne marchera pas !"
+    },
+    "V0222_06_01_03_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je savais que tu allais essayer ça !"
+    },
+    "V0222_07_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Depuis ma main..."
+    },
+    "V0222_07_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Carte Magie !"
+    },
+    "V0222_07_02_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Magie Jeu-Rapide !"
+    },
+    "V0222_07_03_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Carte Magie Continue !"
+    },
+    "V0222_07_04_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active ma Magie d'Équipement !"
+    },
+    "V0222_07_05_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Magie Rituelle !"
+    },
+    "V0222_07_06_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active mon Piège !"
+    },
+    "V0222_07_07_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active un Piège Continu !"
+    },
+    "V0222_07_08_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active mon Contre-Piège !"
+    },
+    "V0222_07_09_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Voici ma carte Posée !"
+    },
+    "V0222_07_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je retourne ma carte Posée !"
+    },
+    "V0222_07_10_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active l'effet de mon monstre !"
+    },
+    "V0222_07_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Magie de Terrain !"
+    },
+    "V0222_07_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active un effet !"
+    },
+    "V0222_07_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je déclare une Échelle Pendule !"
+    },
+    "V0222_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active un Effet Pendule !"
+    },
+    "V0222_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Magie Rituelle !"
+    },
+    "V0222_10_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Viens ici !"
+    },
+    "V0222_10_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je me lance !"
+    },
+    "V0222_10_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "À toi de jouer !"
+    },
+    "V0222_10_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Regarde ça !"
+    },
+    "V0222_11_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre !"
+    },
+    "V0222_11_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre en Position de Défense !"
+    },
+    "V0222_11_02_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque Spécialement un monstre !"
+    },
+    "V0222_11_03_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je Sacrifie un monstre !"
+    },
+    "V0222_11_04_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Sacrifice !"
+    },
+    "V0222_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Sacrifice !"
+    },
+    "V0222_11_05_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Fusion !"
+    },
+    "V0222_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Fusion !"
+    },
+    "V0222_11_06_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque Rituellement un monstre !"
+    },
+    "V0222_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Rituelle !"
+    },
+    "V0222_11_07_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Synchro !"
+    },
+    "V0222_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0222_11_08_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Xyz !"
+    },
+    "V0222_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Xyz !"
+    },
+    "V0222_11_09_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Pendulation !"
+    },
+    "V0222_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Pendule !"
+    },
+    "V0222_11_10_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Lien !"
+    },
+    "V0222_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Lien !"
+    },
+    "V0222_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Maximum !"
+    },
+    "V0222_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Maximum !"
+    },
+    "V0222_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Fusion !"
+    },
+    "V0222_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Fusion !"
+    },
+    "V0222_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je Contact Fusionne un monstre !"
+    },
+    "V0222_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Contact Fusion !"
+    },
+    "V0222_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque Rituellement un monstre !"
+    },
+    "V0222_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Rituelle !"
+    },
+    "V0222_14_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Au combat !"
+    },
+    "V0222_14_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Combattons !"
+    },
+    "V0222_15_00_00_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Prends ça !"
+    },
+    "V0222_15_00_01_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ça sera parfait pour t'aplatir !"
+    },
+    "V0222_15_00_02_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ha ha ha !"
+    },
+    "V0222_17_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mon monstre attaque !"
+    },
+    "V0222_17_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'attaque avec mon monstre !"
+    },
+    "V0222_17_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attaque !"
+    },
+    "V0222_16_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est le dernier combat !"
+    },
+    "V0222_16_00_01_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Les Exécuteurs dominent les rues !"
+    },
+    "V0222_18_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mon monstre t'attaque directement !"
+    },
+    "V0222_18_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attaque directe !"
+    },
+    "V0222_20_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je Pose une carte !"
+    },
+    "V0222_20_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je Pose une carte !"
+    },
+    "V0222_20_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je Pose un monstre !"
+    },
+    "V0222_20_01_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je vais Poser un monstre !"
+    },
+    "V0222_21_00_00_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Les Exécuteurs vont gagner ce Duel !"
+    },
+    "V0222_21_00_00_1": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je termine mon tour !"
+    },
+    "V0222_21_00_01_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tu n'abandonnes pas encore, hein ?"
+    },
+    "V0222_21_00_01_1": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je termine mon tour !"
+    },
+    "V0222_21_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je termine mon tour !"
+    },
+    "V0222_21_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Voilà qui termine mon tour !"
+    },
+    "V0222_21_00_04_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ce n'est pas possible...\nPas comme ça..."
+    },
+    "V0222_21_00_04_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je termine mon tour !"
+    },
+    "V0222_21_00_05_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Si j'abandonne maintenant, tout ça aura été en vain !"
+    },
+    "V0222_21_00_05_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je termine mon tour !"
+    },
+    "V0222_28_00_00_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Les rues sont désormais sûres.\nGrâce aux Exécuteurs !"
+    },
+    "V0222_28_00_01_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mais tous ceux avec un Disque de Duel restent une menace !"
+    },
+    "V0222_28_00_02_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Hé...\nC'était un Duel qui valait le coup !"
+    },
+    "V0222_28_00_03_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "N'entre pas dans mon monde si tu ne veux pas te battre !"
+    },
+    "V0222_28_00_04_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        201,
+        202,
+        203,
+        219,
+        220,
+        221,
+        223
+      ],
+      "text": "Les Exécuteurs sont la meilleure équipe du monde !"
+    },
+    "V0222_29_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je dois continuer à me battre...\nMême s'il ne reste que moi."
+    },
+    "V0222_29_00_01_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Si je te bats pas, rien de tout ça n'a de sens..."
+    },
+    "V0222_29_00_02_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Comment on en est arrivés là ?\nOù sont mes amis..."
+    },
+    "V0222_29_00_03_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'ai vraiment tout gâché..."
+    },
+    "V0222_29_00_04_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        207,
+        835
+      ],
+      "text": "Tu m'as trahi, sale traître !"
+    },
+    "V0222_29_00_04_1": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Yuseiiii !!!"
+    },
+    "V0222_29_00_05_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        201,
+        202,
+        203,
+        219,
+        220,
+        221,
+        223
+      ],
+      "text": "Pas mal !\nMais on peut faire encore mieux !"
+    },
+    "V0222_31_00_00_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Quoi ?!"
+    },
+    "V0222_31_00_01_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Impossible !"
+    },
+    "V0222_33_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Ça va être satisfaisant !"
+    },
+    "V0222_33_00_01_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "C'est nous qui régnons sur ces rues !"
+    },
+    "V0222_33_00_02_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Le pouvoir est la solution à tous les problèmes !"
+    },
+    "V0222_30_00_00_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Transformons Satellite en endroit où il fait bon vivre !"
+    },
+    "V0222_30_00_01_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'ai de grands projets pour Satellite !"
+    },
+    "V0222_30_00_02_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tes stratégies pathétiques ne m'arrêteront pas !"
+    },
+    "V0222_34_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tu pensais vraiment que j'allais t'abandonner ?"
+    },
+    "V0222_34_00_01_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "À présent, Satellite nous appartient !"
+    },
+    "V0222_34_00_02_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Il n'y a pas d'équipe plus forte que les Exécuteurs !"
+    },
+    "V0222_34_00_03_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je vais écraser ces vermines de l'équipe Insecte !"
+    },
+    "V0222_34_00_04_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tous ceux qui possèdent un disque de Duel sont mes ennemis !"
+    },
+    "V0222_34_00_05_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Le monde des Duels n'est pas fait pour les faibles."
+    },
+    "V0222_34_00_06_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pour sauver Satellite, il reste encore un ennemi à battre !"
+    },
+    "V0222_34_00_07_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active mon Piège !\nÇa va être un Duel d'enfer !"
+    },
+    "V0222_34_00_08_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Une dernière sortie pour les Exécuteurs !"
+    },
+    "V0222_34_00_09_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je croyais que tu allais te battre à mes côtés !"
+    },
+    "V0222_34_00_10_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ça n'a pas dû te satisfaire !"
+    },
+    "V0222_34_00_11_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tu m'as vendu !\nSale traître !"
+    },
+    "V0222_34_00_12_0": {
+      "face": 13,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je veux me venger...\nEt cette vengeance est justifiée !"
+    },
+    "V0222_32_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Si on ne part jamais de Yu-Gi-Oh! Duel Links, alors il faut en faire un endroit de rêve !  "
+    },
+    "V0222_32_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Yu-Gi-Oh! Duel Links !\nC'est incomparable !"
+    },
+    "V0222_35_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je suis Kalin Kessler !\nLe chef des Exécuteurs !"
+    },
+    "V0222_35_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Que la fête commence !"
+    },
+    "V0222_36_00_00_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "On va gagner !"
+    },
+    "V0222_36_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est ton tour !"
+    },
+    "V0222_36_00_02_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Hors de question que je t'abandonne !"
+    },
+    "V0222_36_00_03_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        201,
+        202,
+        203,
+        219,
+        220,
+        221,
+        223
+      ],
+      "text": "Les Exécuteurs vont gagner ce Duel !"
+    },
+    "V0222_36_00_04_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        201,
+        219,
+        223
+      ],
+      "text": "Tu vas y arriver, Yusei !"
+    },
+    "V0222_36_00_05_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        202,
+        220
+      ],
+      "text": "À toi de jouer, Jack !"
+    },
+    "V0222_36_00_06_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        203,
+        221
+      ],
+      "text": "Je compte sur toi, Crow !"
+    },
+    "V0222_08_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8822
+      ],
+      "duelist": [],
+      "text": "Si ma main est vide, je peux activer l'effet de la Carte ZÉRO MAXIMUM !"
+    },
+    "V0222_08_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8823
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie Continue !\nCanon Enfernité !"
+    },
+    "V0222_08_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8823
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Canon Enfernité !"
+    },
+    "V0222_08_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8823
+      ],
+      "duelist": [],
+      "text": "Quand ma main est vide, je peux utiliser l'effet de Canon Enfernité !"
+    },
+    "V0222_08_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8824
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie !\nFosse du Vide !"
+    },
+    "V0222_08_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9035
+      ],
+      "duelist": [],
+      "text": "J'active la Carte Magie Continue Vague d'Énergie Infernale !"
+    },
+    "V0222_08_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9035
+      ],
+      "duelist": [],
+      "text": "J'envoie Vague d'Énergie Infernale au Cimetière !"
+    },
+    "V0222_08_00_06_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Et du coup, j'envoie toute ma main au Cimetière !"
+    },
+    "V0222_08_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie !\n<card mrk=99999/> !"
+    },
+    "V0222_08_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15886
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Magie !\nContrat du Vide !"
+    },
+    "V0222_08_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15539
+      ],
+      "duelist": [],
+      "text": "J'active la Carte Magie Paranoïa Enfernité !"
+    },
+    "V0222_08_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15539
+      ],
+      "duelist": [],
+      "text": "Je bannis Paranoïa Enfernité de mon Cimetière !"
+    },
+    "V0222_08_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17252
+      ],
+      "duelist": [],
+      "text": "J'active la Carte Magie Ce Sinistre Petit Vaurien !"
+    },
+    "V0222_08_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17252
+      ],
+      "duelist": [],
+      "text": "J'active la Carte Ce Sinistre Petit Vaurien depuis mon Cimetière !"
+    },
+    "V0222_08_00_12_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tu ne te débarrasseras jamais de ce monstre !"
+    },
+    "V0222_08_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8846
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nPandémonium Enfernité !"
+    },
+    "V0222_08_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8508
+      ],
+      "duelist": [],
+      "text": "Je n'ai pas de carte dans ma main !\nAlors j'active Force de l'Enfernité !"
+    },
+    "V0222_08_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8844
+      ],
+      "duelist": [],
+      "text": "Je peux activer Foudre Enfernité quand ma main est vide !"
+    },
+    "V0222_08_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8843
+      ],
+      "duelist": [],
+      "text": "Je défausse ma main pour activer le Piège, Miroir Enfernité !"
+    },
+    "V0222_08_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8845
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nPortail de la Douleur !"
+    },
+    "V0222_08_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8361
+      ],
+      "duelist": [],
+      "text": "J'active le Piège, Transfert de Dommages !"
+    },
+    "V0222_08_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8361
+      ],
+      "duelist": [],
+      "text": "Grâce à Transfert de Dommages, je peux Invoquer Spécialement un jeton !"
+    },
+    "V0222_08_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8360
+      ],
+      "duelist": [],
+      "text": "J'active le Piège Continu, Amulette des Abysses !"
+    },
+    "V0222_08_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8360
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Amulette des Abysses !"
+    },
+    "V0222_08_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8847
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège Continu !\nMain Fantôme !"
+    },
+    "V0222_08_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8847
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Main Fantôme !"
+    },
+    "V0222_08_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7465
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nExplosion de Haine !"
+    },
+    "V0222_08_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8507
+      ],
+      "duelist": [],
+      "text": "J'active la Carte Piège Impulsion Extrême !"
+    },
+    "V0222_08_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6622
+      ],
+      "duelist": [],
+      "text": "J'active le Piège, Salve Intégrale !"
+    },
+    "V0222_08_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9036
+      ],
+      "duelist": [],
+      "text": "J'active mon Contre-Piège !\nBarrière Enfernité !"
+    },
+    "V0222_08_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15554
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nRépression Enfernité !"
+    },
+    "V0222_08_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15887
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège Continu !\nChaudron du Vide !"
+    },
+    "V0222_08_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15835
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nTerreur de Trishula !"
+    },
+    "V0222_08_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15835
+      ],
+      "duelist": [],
+      "text": "Je bannis Terreur de Trishula de mon Cimetière !"
+    },
+    "V0222_08_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4310
+      ],
+      "duelist": [],
+      "text": "J'équipe la Magie d'Équipement Hache du Désespoir sur mon monstre !"
+    },
+    "V0222_08_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4310
+      ],
+      "duelist": [],
+      "text": "Hache du Désespoir s'active une fois au Cimetière !"
+    },
+    "V0222_08_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15754
+      ],
+      "duelist": [],
+      "text": "J'active la Magie d'Équipement Bâton Archdémon du Désespoir !"
+    },
+    "V0222_08_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15754
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Bâton Archdémon du Désespoir !"
+    },
+    "V0222_08_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15754
+      ],
+      "duelist": [],
+      "text": "Bâton Archdémon du Désespoir s'active une fois au Cimetière !"
+    },
+    "V0222_08_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10669
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie de Terrain !\nPalabyrinthe Archdémon !"
+    },
+    "V0222_08_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10669
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Palabyrinthe Archdémon !"
+    },
+    "V0222_08_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5791
+      ],
+      "duelist": [],
+      "text": "J'active la Magie de Terrain, Pandémonium !"
+    },
+    "V0222_08_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5791
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Pandémonium !"
+    },
+    "V0222_08_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5789
+      ],
+      "duelist": [],
+      "text": "J'active la Carte Magie Continue Serment de l'Archdémon !"
+    },
+    "V0222_08_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5789
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Serment de l'Archdémon !"
+    },
+    "V0222_08_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5786
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie d'Équipement ! \nEffondrement !"
+    },
+    "V0222_08_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5786
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Effondrement m'inflige des dommages."
+    },
+    "V0222_08_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17372
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Piège !\nEffroyable Ruse de l'Archdémon !"
+    },
+    "V0222_08_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5796
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nRugissement de l'Archdémon !"
+    },
+    "V0222_08_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13446
+      ],
+      "duelist": [],
+      "text": "J'active le Piège Continu, Appel de l'Archdémon !"
+    },
+    "V0222_08_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13446
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Appel de l'Archdémon !"
+    },
+    "V0222_08_00_49_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5396
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nHahaha !\nChaîne Explosive !"
+    },
+    "V0222_08_00_50_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5396
+      ],
+      "duelist": [],
+      "text": "La Carte Chaîne Explosive s'active si un effet la détruit !"
+    },
+    "V0222_09_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8817
+      ],
+      "duelist": [],
+      "text": "Quand ma main est vide, je peux activer Dragon de la Catastrophe Enfernité !"
+    },
+    "V0222_09_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Explosion De La Flamme Infernale !"
+    },
+    "V0222_09_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9862
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Général Enfernité depuis mon Cimetière !"
+    },
+    "V0222_09_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8275
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Destructeur Enfernité s'active quand ma main est vide !"
+    },
+    "V0222_09_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15516
+      ],
+      "duelist": [],
+      "text": "La Carte Archdémon de la Mort Enfernité active son effet !"
+    },
+    "V0222_09_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8272
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Archdémon Enfernité depuis ma main."
+    },
+    "V0222_09_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8272
+      ],
+      "duelist": [],
+      "text": "L'Invocation Spéciale de la Carte Archdémon Enfernité active son effet !"
+    },
+    "V0222_09_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9710
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Chevalier Enfernité s'active quand elle est détruite !"
+    },
+    "V0222_09_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8443
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Nécromancien Enfernité s'active à son Invocation !"
+    },
+    "V0222_09_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8443
+      ],
+      "duelist": [],
+      "text": "Quand ma main est vide, ma Carte Nécromancien Enfernité peut utiliser son effet !"
+    },
+    "V0222_09_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20039
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Reine Enfernité depuis mon Cimetière !"
+    },
+    "V0222_09_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15496
+      ],
+      "duelist": [],
+      "text": "Je peux utiliser l'effet de Chat Sauvage Enfernité quand ma main est vide !"
+    },
+    "V0222_09_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15495
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Conjurateur Enfernité depuis mon Cimetière !"
+    },
+    "V0222_09_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8790
+      ],
+      "duelist": [],
+      "text": "Comme ma main est vide, je peux utiliser l'effet de Scarabée Enfernité !"
+    },
+    "V0222_09_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15884
+      ],
+      "duelist": [],
+      "text": "J'utilise l'effet de la Carte Sage Enfernité pour défausser ma main !"
+    },
+    "V0222_09_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15884
+      ],
+      "duelist": [],
+      "text": "La Carte Sage Enfernité s'active une fois envoyée au Cimetière !"
+    },
+    "V0222_09_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8788
+      ],
+      "duelist": [],
+      "text": "Quand ma main est vide, je peux utiliser l'effet de Mirage Enfernité !"
+    },
+    "V0222_09_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8791
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Vengeur Enfernité depuis mon Cimetière !"
+    },
+    "V0222_09_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8789
+      ],
+      "duelist": [],
+      "text": "Ma main est vide, alors j'utilise l'effet de la Carte Rechargeur Enfernité !"
+    },
+    "V0222_09_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15885
+      ],
+      "duelist": [],
+      "text": "Je peux activer l'effet de la Carte Pion Enfernité depuis mon Cimetière !"
+    },
+    "V0222_09_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22740
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Tireur d'Élite de la Catastrophe Enfernité !"
+    },
+    "V0222_09_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22740
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Tireur d'Élite de la Catastrophe Enfernité s'active depuis mon Cimetière !"
+    },
+    "V0222_09_00_20_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Que vas-tu choisir à présent ?"
+    },
+    "V0222_09_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3684
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Tireur d'Élite Enfernité s'active depuis mon Cimetière !"
+    },
+    "V0222_09_00_21_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je ne subis aucun dommage, mais tu peux choisir un effet !"
+    },
+    "V0222_09_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3683
+      ],
+      "duelist": [],
+      "text": "La Carte Zéro Enfernité active son effet !"
+    },
+    "V0222_09_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte <card mrk=99999/> !"
+    },
+    "V0222_09_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte <card mrk=99999/> !"
+    },
+    "V0222_09_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte <card mrk=99999/> !"
+    },
+    "V0222_09_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9970
+      ],
+      "duelist": [],
+      "text": "Quand ma main est vide, je peux utiliser l'effet de Dragon Ogre du Néant !"
+    },
+    "V0222_09_00_26_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'annule les effets de ta carte et la détruis !"
+    },
+    "V0222_09_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8732
+      ],
+      "duelist": [],
+      "text": "Je peux activer l'effet de Trishula, Dragon de la Barrière de Glace à son Invocation Synchro !"
+    },
+    "V0222_09_00_27_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je bannis une carte de tes main, Terrain et Cimetière !"
+    },
+    "V0222_09_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13972
+      ],
+      "duelist": [],
+      "text": "Et maintenant, l'effet de la Carte Trishula, le Dragon de l'Emprisonnement Glacial !"
+    },
+    "V0222_09_00_28_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je bannis une carte de mon Deck, ton Deck et l'Extra Deck !"
+    },
+    "V0222_09_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15834
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Trishula, Dragon Zéro de la Barrière de Glace s'active !"
+    },
+    "V0222_09_00_29_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je bannis jusqu'à trois cartes sur le Terrain !"
+    },
+    "V0222_09_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15834
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Trishula, Dragon Zéro de la Barrière de Glace s'active quand elle est détruite !"
+    },
+    "V0222_09_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15070
+      ],
+      "duelist": [],
+      "text": "La Carte Annihilateur Archdémon active son effet !"
+    },
+    "V0222_09_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10634
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Empereur Archdémon, le Premier Seigneur de l'Horreur !"
+    },
+    "V0222_09_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7370
+      ],
+      "duelist": [],
+      "text": "Reine des Archdémons Captive s'active depuis mon Cimetière !"
+    },
+    "V0222_09_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9277
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Impératrice Archdémon s'active quand elle est détruite !"
+    },
+    "V0222_09_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10874
+      ],
+      "duelist": [],
+      "text": "Si la Carte Géant Archdémon est détruite par un effet, elle s'active !"
+    },
+    "V0222_09_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10686
+      ],
+      "duelist": [],
+      "text": "La Carte Commandant Archdémon active son effet !"
+    },
+    "V0222_09_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10686
+      ],
+      "duelist": [],
+      "text": "Invoquer Commandant Archdémon par Sacrifice active son effet !"
+    },
+    "V0222_09_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19483
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Berserker Archdémon s'active depuis ma main !"
+    },
+    "V0222_09_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19483
+      ],
+      "duelist": [],
+      "text": "La Carte Berserker Archdémon a un autre effet !"
+    },
+    "V0222_09_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7149
+      ],
+      "duelist": [],
+      "text": "La Carte Archdémon de la Brume est détruite, et je subis des dommages."
+    },
+    "V0222_09_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7110
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Général Archdémon depuis ma main !"
+    },
+    "V0222_09_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6417
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Cyber Archdémon me fait piocher une autre carte !"
+    },
+    "V0222_09_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6417
+      ],
+      "duelist": [],
+      "text": "Cyber Archdémon se détruit avec son propre effet !"
+    },
+    "V0222_09_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10633
+      ],
+      "duelist": [],
+      "text": "La Carte Cavalerie Archdémon s'active si un effet la détruit !"
+    },
+    "V0222_09_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9909
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Transe Archdémon !"
+    },
+    "V0222_09_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9909
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Transe Archdémon s'active lorsqu'elle est détruite !"
+    },
+    "V0222_09_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10632
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Héritière Archdémon s'active quand elle est détruite !"
+    },
+    "V0222_37_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8817
+      ],
+      "duelist": [],
+      "text": "Les esprits sinistres habitant ces créatures s'unissent !"
+    },
+    "V0222_37_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0222_13_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        8817
+      ],
+      "duelist": [],
+      "text": "Viens à moi !\nDragon de la Catastrophe Enfernité !"
+    },
+    "V0222_13_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        9862
+      ],
+      "duelist": [],
+      "text": "Viens !\nGénéral Enfernité !"
+    },
+    "V0222_13_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        9859
+      ],
+      "duelist": [],
+      "text": "À toi de jouer !\nArcher Enfernité !"
+    },
+    "V0222_13_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        8275
+      ],
+      "duelist": [],
+      "text": "Voilà Destructeur Enfernité !"
+    },
+    "V0222_37_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15516
+      ],
+      "duelist": [],
+      "text": "Émerge du néant pour te délecter de cette existence !"
+    },
+    "V0222_37_00_01_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0222_13_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        15516
+      ],
+      "duelist": [],
+      "text": "Archdémon de la Mort Enfernité !"
+    },
+    "V0222_13_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8274
+      ],
+      "duelist": [],
+      "text": "Gardien Enfernité !"
+    },
+    "V0222_13_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8272
+      ],
+      "duelist": [],
+      "text": "Archdémon Enfernité !"
+    },
+    "V0222_13_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11923
+      ],
+      "duelist": [],
+      "text": "Patriarche Enfernité !"
+    },
+    "V0222_13_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9710
+      ],
+      "duelist": [],
+      "text": "Chevalier Enfernité !"
+    },
+    "V0222_13_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8443
+      ],
+      "duelist": [],
+      "text": "Nécromancien Enfernité !"
+    },
+    "V0222_13_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8303
+      ],
+      "duelist": [],
+      "text": "Bête Enfernité !"
+    },
+    "V0222_13_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20039
+      ],
+      "duelist": [],
+      "text": "Reine Enfernité !"
+    },
+    "V0222_13_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15496
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur Chat Sauvage Enfernité !"
+    },
+    "V0222_13_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15495
+      ],
+      "duelist": [],
+      "text": "Conjurateur Enfernité !"
+    },
+    "V0222_13_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8273
+      ],
+      "duelist": [],
+      "text": "Nain Enfernité !"
+    },
+    "V0222_13_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8790
+      ],
+      "duelist": [],
+      "text": "Scarabée Enfernité !"
+    },
+    "V0222_13_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15884
+      ],
+      "duelist": [],
+      "text": "Mon Monstre Syntoniseur !\nSage Enfernité !"
+    },
+    "V0222_13_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8788
+      ],
+      "duelist": [],
+      "text": "Mirage Enfernité !"
+    },
+    "V0222_13_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8791
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur Vengeur Enfernité !"
+    },
+    "V0222_13_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8789
+      ],
+      "duelist": [],
+      "text": "Rechargeur Enfernité !"
+    },
+    "V0222_13_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15885
+      ],
+      "duelist": [],
+      "text": "Pion Enfernité !"
+    },
+    "V0222_13_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        22740,
+        3684
+      ],
+      "duelist": [],
+      "text": "Tireur d'Élite de la Catastrophe Enfernité !"
+    },
+    "V0222_13_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        3683
+      ],
+      "duelist": [],
+      "text": "<card mrk=99999/> !"
+    },
+    "V0222_13_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "<card mrk=99999/> !"
+    },
+    "V0222_13_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "<card mrk=99999/> !"
+    },
+    "V0222_13_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "<card mrk=99999/> !"
+    },
+    "V0222_37_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9970
+      ],
+      "duelist": [],
+      "text": "Élève-toi du royaume dans l'au-delà !"
+    },
+    "V0222_37_00_02_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0222_13_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        9970
+      ],
+      "duelist": [],
+      "text": "Dragon Ogre du Néant !"
+    },
+    "V0222_37_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8732
+      ],
+      "duelist": [],
+      "text": "Que la lance brise les terres glacées !"
+    },
+    "V0222_37_00_03_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0222_13_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        8732
+      ],
+      "duelist": [],
+      "text": "Apparais !\nTrishula, Dragon de la Barrière de Glace !"
+    },
+    "V0222_13_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13972
+      ],
+      "duelist": [],
+      "text": "Émerge !\nTrishula, le Dragon de l'Emprisonnement Glacial !"
+    },
+    "V0222_13_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        15834
+      ],
+      "duelist": [],
+      "text": "Lève-toi !\nTrishula, Dragon Zéro de la Barrière de Glace !"
+    },
+    "V0222_13_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6960
+      ],
+      "duelist": [],
+      "text": "Loup de Guerre Géno-Perverti !"
+    },
+    "V0222_13_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5004
+      ],
+      "duelist": [],
+      "text": "Marauseur Vorse !"
+    },
+    "V0222_13_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        15070
+      ],
+      "duelist": [],
+      "text": "Investis le Terrain !\nAnnihilateur Archdémon !"
+    },
+    "V0222_13_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        10634
+      ],
+      "duelist": [],
+      "text": "Allons-y !\nEmpereur Archdémon, le Premier Seigneur de l'Horreur !"
+    },
+    "V0222_13_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        7370
+      ],
+      "duelist": [],
+      "text": "Apparais !\nReine des Archdémons Captive !"
+    },
+    "V0222_13_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        9277
+      ],
+      "duelist": [],
+      "text": "Montre-toi !\nImpératrice Archdémon !"
+    },
+    "V0222_13_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        21051
+      ],
+      "duelist": [],
+      "text": "Viens !\nBête de Talwar - Le Sommet de l'Épée !"
+    },
+    "V0222_13_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        8332
+      ],
+      "duelist": [],
+      "text": "Voici Archdémon Zombie Squelette !"
+    },
+    "V0222_13_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        10874
+      ],
+      "duelist": [],
+      "text": "Voilà Géant Archdémon !"
+    },
+    "V0222_13_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        10686
+      ],
+      "duelist": [],
+      "text": "Ouvre la voie, Commandant Archdémon !"
+    },
+    "V0222_13_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        19483
+      ],
+      "duelist": [],
+      "text": "Rejoins-moi !\nBerserker Archdémon !"
+    },
+    "V0222_13_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        4789
+      ],
+      "duelist": [],
+      "text": "Rejoins le combat, Bête de Talwar !"
+    },
+    "V0222_13_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        7149
+      ],
+      "duelist": [],
+      "text": "Va, Archdémon de la Brume !"
+    },
+    "V0222_13_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        5303
+      ],
+      "duelist": [],
+      "text": "Démon Mineur !\nMontre-toi !"
+    },
+    "V0222_13_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7110
+      ],
+      "duelist": [],
+      "text": "Général Archdémon !"
+    },
+    "V0222_13_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5762
+      ],
+      "duelist": [],
+      "text": "Archdémon Soldat !"
+    },
+    "V0222_13_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6417
+      ],
+      "duelist": [],
+      "text": "Cyber Archdémon !"
+    },
+    "V0222_13_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10633
+      ],
+      "duelist": [],
+      "text": "Cavalerie Archdémon !"
+    },
+    "V0222_13_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9909
+      ],
+      "duelist": [],
+      "text": "Transe Archdémon !"
+    },
+    "V0222_13_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10632
+      ],
+      "duelist": [],
+      "text": "Héritière Archdémon !"
+    },
+    "V0222_19_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8817
+      ],
+      "duelist": [],
+      "text": "Dragon de la Catastrophe Enfernité !\nÀ l'attaque !"
+    },
+    "V0222_19_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Explosion De La Flamme Infernale !"
+    },
+    "V0222_19_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9862
+      ],
+      "duelist": [],
+      "text": "Général Enfernité ! À l'attaque !"
+    },
+    "V0222_19_00_01_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Lame Enfernité !"
+    },
+    "V0222_19_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9859
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Archer Enfernité !"
+    },
+    "V0222_19_00_02_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Arbalète Enfernité !"
+    },
+    "V0222_19_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8275
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Destructeur Enfernité !"
+    },
+    "V0222_19_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15516
+      ],
+      "duelist": [],
+      "text": "Archdémon de la Mort Enfernité !\nÀ l'attaque !"
+    },
+    "V0222_19_00_04_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pression Infernale des Ténèbres !"
+    },
+    "V0222_19_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8274
+      ],
+      "duelist": [],
+      "text": "Gardien Enfernité ! À l'attaque !"
+    },
+    "V0222_19_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8272
+      ],
+      "duelist": [],
+      "text": "Archdémon Enfernité !\nÀ l'attaque !"
+    },
+    "V0222_19_00_06_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pression Infernale !"
+    },
+    "V0222_19_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11923
+      ],
+      "duelist": [],
+      "text": "Patriarche Enfernité !\nÀ l'attaque !"
+    },
+    "V0222_19_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9710
+      ],
+      "duelist": [],
+      "text": "Chevalier Enfernité !\nTaille-les en morceaux !"
+    },
+    "V0222_19_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8443
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Nécromancien Enfernité !"
+    },
+    "V0222_19_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8303
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Bête Enfernité !"
+    },
+    "V0222_19_00_10_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Hurlement Infernal !"
+    },
+    "V0222_19_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20039
+      ],
+      "duelist": [],
+      "text": "Reine Enfernité !\nÀ l'attaque !"
+    },
+    "V0222_19_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15496
+      ],
+      "duelist": [],
+      "text": "Chat Sauvage Enfernité !\nDécoupe-moi tout ça !"
+    },
+    "V0222_19_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15495
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Conjurateur Enfernité !"
+    },
+    "V0222_19_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8273
+      ],
+      "duelist": [],
+      "text": "Brandis ta hache, Nain Enfernité !"
+    },
+    "V0222_19_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8790
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Scarabée Enfernité !"
+    },
+    "V0222_19_00_15_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Explosion de Scarabée !"
+    },
+    "V0222_19_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15884
+      ],
+      "duelist": [],
+      "text": "Sage Enfernité !\nÀ l'attaque !"
+    },
+    "V0222_19_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8788
+      ],
+      "duelist": [],
+      "text": "Mirage Enfernité !\nÀ l'attaque !"
+    },
+    "V0222_19_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8791
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Vengeur Enfernité !"
+    },
+    "V0222_19_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8789
+      ],
+      "duelist": [],
+      "text": "Vas-y, Rechargeur Enfernité !\nAttaque !"
+    },
+    "V0222_19_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15885
+      ],
+      "duelist": [],
+      "text": "Pion Enfernité !\nÀ l'attaque !"
+    },
+    "V0222_19_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22740,
+        3684
+      ],
+      "duelist": [],
+      "text": "Tireur d'Élite de la Catastrophe Enfernité !\nExplose l'adversaire !"
+    },
+    "V0222_19_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3683
+      ],
+      "duelist": [],
+      "text": "<card mrk=/> attaque !"
+    },
+    "V0222_19_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "<card mrk=99999/> !\nÀ l'attaque !"
+    },
+    "V0222_19_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "<card mrk=99999/> !\nÀ l'attaque !"
+    },
+    "V0222_19_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "<card mrk=99999/> !\nÀ l'attaque !"
+    },
+    "V0222_19_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9970
+      ],
+      "duelist": [],
+      "text": "Dragon Ogre du Néant !\nÀ l'attaque !"
+    },
+    "V0222_19_00_26_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Explosion du Chaos de l'Enfernité !"
+    },
+    "V0222_19_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8732
+      ],
+      "duelist": [],
+      "text": "Trishula, Dragon de la Barrière de Glace !\nÀ l'attaque !"
+    },
+    "V0222_19_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13972
+      ],
+      "duelist": [],
+      "text": "Trishula, le Dragon de l'Emprisonnement Glacial !\nÀ l'attaque !"
+    },
+    "V0222_19_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15834
+      ],
+      "duelist": [],
+      "text": "Trishula, Dragon Zéro de la Barrière de Glace !\nÀ l'attaque !"
+    },
+    "V0222_19_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6960
+      ],
+      "duelist": [],
+      "text": "Loup de Guerre Géno-Perverti !\nÀ l'attaque !"
+    },
+    "V0222_19_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5004
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Marauseur Vorse !"
+    },
+    "V0222_19_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15070
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Annihilateur Archdémon !"
+    },
+    "V0222_19_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10634
+      ],
+      "duelist": [],
+      "text": "Empereur Archdémon, le Premier Seigneur de l'Horreur !\nÀ l'attaque !"
+    },
+    "V0222_19_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7370
+      ],
+      "duelist": [],
+      "text": "Reine des Archdémons Captive !\nÀ l'attaque !"
+    },
+    "V0222_19_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9277
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Impératrice Archdémon !"
+    },
+    "V0222_19_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21051
+      ],
+      "duelist": [],
+      "text": "Bête de Talwar - Le Sommet de l'Épée !\nÀ l'attaque !"
+    },
+    "V0222_19_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8332
+      ],
+      "duelist": [],
+      "text": "Archdémon Zombie Squelette attaque !"
+    },
+    "V0222_19_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10874
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Géant Archdémon !"
+    },
+    "V0222_19_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10686
+      ],
+      "duelist": [],
+      "text": "Commandant Archdémon !\nÀ l'attaque !"
+    },
+    "V0222_19_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19483
+      ],
+      "duelist": [],
+      "text": "Berserker Archdémon !\nDonne tout !"
+    },
+    "V0222_19_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4789
+      ],
+      "duelist": [],
+      "text": "Bête de Talwar ! À l'attaque !"
+    },
+    "V0222_19_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7149
+      ],
+      "duelist": [],
+      "text": "Archdémon de la Brume !\nÀ l'attaque !"
+    },
+    "V0222_19_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5303
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Démon Mineur !"
+    },
+    "V0222_19_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7110
+      ],
+      "duelist": [],
+      "text": "Général Archdémon !\nÀ l'attaque !"
+    },
+    "V0222_19_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5762
+      ],
+      "duelist": [],
+      "text": "Archdémon Soldat !\nÀ l'attaque !"
+    },
+    "V0222_19_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6417
+      ],
+      "duelist": [],
+      "text": "Cyber Archdémon attaque !"
+    },
+    "V0222_19_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10633
+      ],
+      "duelist": [],
+      "text": "Cavalerie Archdémon !\nCharge !"
+    },
+    "V0222_19_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9909
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Transe Archdémon !"
+    },
+    "V0222_19_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10632
+      ],
+      "duelist": [],
+      "text": "Héritière Archdémon !\nÀ l'attaque !"
+    },
+    "V0222_48_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Allons-y !"
+    },
+    "V0222_48_01_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est parti pour le rush !"
+    },
+    "V0222_51_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Kalin Kessler !"
+    },
+    "V0222_51_01_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est l'heure du rush !"
+    },
+    "V0222_49_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "OK !"
+    },
+    "V0222_49_01_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel !"
+    },
+    "V0222_38_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "À vos marques... Prêts... Duel !"
+    },
+    "V0222_22_00_00_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Argh !"
+    },
+    "V0222_22_00_01_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Argh !"
+    },
+    "V0222_22_00_02_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aaah !"
+    },
+    "V0222_26_00_00_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tss..."
+    },
+    "V0222_26_00_01_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Impressionnant !"
+    },
+    "V0222_26_00_02_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est tout ce que tu as dans le ventre ?"
+    },
+    "V0222_25_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aaagh !"
+    },
+    "V0222_25_00_01_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aaah !"
+    },
+    "V0222_25_00_02_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Eurgh !"
+    },
+    "V0222_27_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Impossible..."
+    },
+    "V0222_27_00_01_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est pas possible..."
+    },
+    "V0222_27_00_02_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je dois continuer à me battre..."
+    },
+    "V0222_24_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Argh..."
+    },
+    "V0222_23_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 3,
+      "card": [],
+      "duelist": [],
+      "text": "Aaaaaah !"
+    }
+  }
+}

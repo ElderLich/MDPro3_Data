@@ -2381,7 +2381,7 @@
         13640
       ],
       "duelist": [],
-      "text": "¡Activo el efecto de <card mrk='13640 '/>!"
+      "text": "¡Activo el efecto de Rey Señor de D.!"
     },
     "V0017_09_00_07_0": {
       "face": 1,
@@ -2539,7 +2539,7 @@
         13640
       ],
       "duelist": [],
-      "text": "¡<card mrk='13640 '/>!"
+      "text": "¡Rey Señor de D.!"
     },
     "V0017_13_00_22_0": {
       "face": 1,
@@ -2741,7 +2741,7 @@
         13640
       ],
       "duelist": [],
-      "text": "¡<card mrk='13640 '/> ataca!"
+      "text": "¡Rey Señor de D. ataca!"
     },
     "V0017_19_00_22_0": {
       "face": 3,

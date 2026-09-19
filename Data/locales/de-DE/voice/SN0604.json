@@ -75,7 +75,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Ich werde dich engelsgleich abservieren!"
     },
@@ -945,7 +946,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Ich habe gewonnen, Varis!"
     },
@@ -1051,7 +1053,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Du bist ein harter Gegner …\nUnd ich glaube, du hast dich nicht einmal angestrengt …"
     },
@@ -3022,6 +3025,256 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaaaaaahhhh!"
+    },
+    "V0604_08_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20296
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meine Falle!\nTrickstar-Diffusion!"
+    },
+    "V0604_08_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20296
+      ],
+      "duelist": [],
+      "text": "Ich verbanne Trickstar-Diffusion von meinem Friedhof!"
+    },
+    "V0604_08_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20297
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meine Fallenkarte!\nMaid der blauen Tränen!"
+    },
+    "V0604_08_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20297
+      ],
+      "duelist": [],
+      "text": "Ich verbanne Maid der blauen Tränen von meinem Friedhof!"
+    },
+    "V0604_09_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Da ich Trickstar-Band Trommatis als Fusionsbeschwörung beschworen habe, kann ich ihren Effekt aktivieren!"
+    },
+    "V0604_09_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Trickstar-Band Trommatis aktiviert ihren Effekt!"
+    },
+    "V0604_09_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Indem ich Trickstar Edelengel als Linkbeschwörung beschwöre, kann ich ihren Effekt aktivieren!"
+    },
+    "V0604_09_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Mein Fusionsmonster erlaubt es Trickstar Edelengel, ihren Effekt zu aktivieren!"
+    },
+    "V0604_09_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Wenn wir Effektschaden erleiden, kann Trickstar Edelengel ihren Effekt einsetzen!"
+    },
+    "V0604_09_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "Ich verbanne Trickstar Colchica aus dem Friedhof und aktiviere ihren Effekt!"
+    },
+    "V0604_09_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Trickstar Eisenhut von meiner Hand!"
+    },
+    "V0604_09_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "Die Linkbeschwörung von Trickstar Eisenhut aktiviert ihren Effekt!"
+    },
+    "V0604_09_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Trickstar Aqua-Engel aktiviert ihren Effekt!"
+    },
+    "V0604_09_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Trickstar Aqua-Engels Effekt aktiviert sich, wenn ich sie für eine Linkbeschwörung verwende!"
+    },
+    "V0604_13_00_37_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Trickstar-Band Trommatis!"
+    },
+    "V0604_13_00_38_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Hier kommt sie!\nLink-2 Trickstar Edelengel!"
+    },
+    "V0604_13_00_39_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "Los!\nLink-1 Trickstar Colchica!"
+    },
+    "V0604_13_00_40_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "Trickstar Eisenhut!"
+    },
+    "V0604_13_00_41_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Trickstar Aqua-Engel!"
+    },
+    "V0604_19_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Trickstar-Band Trommatis!\nAngriff!"
+    },
+    "V0604_19_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Mein Trickstar Edelengel greift an!"
+    },
+    "V0604_19_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "Angriff, Trickstar Colchica!"
+    },
+    "V0604_19_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "Angriff, Trickstar Eisenhut!"
+    },
+    "V0604_19_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Trickstar Aqua-Engel!\nAngriff!"
+    },
+    "V0604_19_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17658
+      ],
+      "duelist": [],
+      "text": "G-Golem Kristallherz!\nAngriff!"
     }
   }
 }

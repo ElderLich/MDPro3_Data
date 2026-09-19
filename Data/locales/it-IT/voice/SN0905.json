@@ -1418,7 +1418,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Equipaggio il mio mostro con Chimicalizzazione Forza Strutturale!"
+      "text": "Equipaggio il mio mostro con Forza Strutturale Chemicata!"
     },
     "V0905_08_00_02_0": {
       "face": 3,
@@ -1506,7 +1506,7 @@
         19336
       ],
       "duelist": [],
-      "text": "Attivo la mia Trappola!\nChimicalizzazione Annullamento Distruttivo!"
+      "text": "Attivo la mia Trappola!\nDisprezzo Chemicato!"
     },
     "V0905_08_00_10_0": {
       "face": 3,
@@ -1564,7 +1564,7 @@
         19293
       ],
       "duelist": [],
-      "text": "Attivo il terzo effetto di Vulcalizzazione Ruggente Fenice Tempesta di Fuoco!"
+      "text": "Attivo il terzo effetto di Fenice Vulcalizzazione Tempesta di Fuoco Ruggente!"
     },
     "V0905_09_01_01_1": {
       "face": 3,
@@ -1582,7 +1582,7 @@
         19292
       ],
       "duelist": [],
-      "text": "Attivo il secondo effetto di Vulcalizzazione Ruggente Fenice Tempesta di Fuoco!"
+      "text": "Attivo il secondo effetto di Fenice Vulcalizzazione Tempesta di Fuoco Ruggente!"
     },
     "V0905_09_01_02_1": {
       "face": 3,
@@ -1600,7 +1600,7 @@
         19294
       ],
       "duelist": [],
-      "text": "Attivo l'effetto di Vulcalizzazione Ruggente Fenice Tempesta di Fuoco!"
+      "text": "Attivo l'effetto di Fenice Vulcalizzazione Tempesta di Fuoco Ruggente!"
     },
     "V0905_09_01_03_1": {
       "face": 3,
@@ -1618,7 +1618,7 @@
         19292
       ],
       "duelist": [],
-      "text": "Attivo l'effetto di Vulcalizzazione Ruggente Fenice Tempesta di Fuoco [L]!"
+      "text": "Attivo l'effetto di Fenice Vulcalizzazione Tempesta di Fuoco Ruggente [L]!"
     },
     "V0905_09_00_05_0": {
       "face": 3,
@@ -1628,7 +1628,7 @@
         19294
       ],
       "duelist": [],
-      "text": "Attivo l'effetto di Vulcalizzazione Ruggente Fenice Tempesta di Fuoco [R]!"
+      "text": "Attivo l'effetto di Fenice Vulcalizzazione Tempesta di Fuoco Ruggente [R]!"
     },
     "V0905_09_00_06_0": {
       "face": 3,
@@ -1792,7 +1792,7 @@
         19290
       ],
       "duelist": [],
-      "text": "Caldissimo lo Spirito della Combustione attiva il suo effetto!"
+      "text": "Hot il Fatato Combustibile attiva il suo effetto!"
     },
     "V0905_09_00_20_0": {
       "face": 3,
@@ -1822,7 +1822,7 @@
         19289
       ],
       "duelist": [],
-      "text": "Attivo l'effetto di Volt lo Spirito della Conduzione!"
+      "text": "Attivo l'effetto di Volt il Fatato Elettrico!"
     },
     "V0905_09_00_23_0": {
       "face": 3,
@@ -1842,7 +1842,7 @@
         19288
       ],
       "duelist": [],
-      "text": "Attivo l'effetto di Fuso lo Spirito della Solubilità!"
+      "text": "Attivo l'effetto di Melt il Fatato Acquoso!"
     },
     "V0905_09_00_25_0": {
       "face": 3,
@@ -1902,7 +1902,7 @@
         19990
       ],
       "duelist": [],
-      "text": "Attivo l'effetto di !"
+      "text": "Attivo l'effetto di Arciere delle Fiamme il Super Grafagas!"
     },
     "V0905_09_00_30_1": {
       "face": 3,
@@ -2036,7 +2036,7 @@
         19293
       ],
       "duelist": [],
-      "text": "Vulcalizzazione Ruggente Fenice Tempesta di Fuoco!"
+      "text": "Fenice Vulcalizzazione Tempesta di Fuoco Ruggente!"
     },
     "V0905_13_00_02_0": {
       "face": 3,
@@ -2046,7 +2046,7 @@
         19293
       ],
       "duelist": [],
-      "text": "Vulcalizzazione Ruggente Fenice Tempesta di Fuoco!"
+      "text": "Fenice Vulcalizzazione Tempesta di Fuoco Ruggente!"
     },
     "V0905_13_00_03_0": {
       "face": 3,
@@ -2056,7 +2056,7 @@
         19292
       ],
       "duelist": [],
-      "text": "Vulcalizzazione Ruggente Fenice Tempesta di Fuoco [L]!"
+      "text": "Fenice Vulcalizzazione Tempesta di Fuoco Ruggente [L]!"
     },
     "V0905_13_00_04_0": {
       "face": 3,
@@ -2066,7 +2066,7 @@
         19294
       ],
       "duelist": [],
-      "text": "Vulcalizzazione Ruggente Fenice Tempesta di Fuoco [R]!"
+      "text": "Fenice Vulcalizzazione Tempesta di Fuoco Ruggente [R]!"
     },
     "V0905_37_00_02_0": {
       "face": 3,
@@ -2232,7 +2232,7 @@
         20955
       ],
       "duelist": [],
-      "text": "Vulcalizzazione Ifrit!"
+      "text": "Ifrit Vulcalizzazione!"
     },
     "V0905_37_00_09_0": {
       "face": 2,
@@ -2362,7 +2362,7 @@
         19290
       ],
       "duelist": [],
-      "text": "Caldissimo lo Spirito della Combustione!"
+      "text": "Hot il Fatato Combustibile!"
     },
     "V0905_13_00_25_0": {
       "face": 3,
@@ -2392,7 +2392,7 @@
         19289
       ],
       "duelist": [],
-      "text": "Volt lo Spirito della Conduzione!"
+      "text": "Volt il Fatato Elettrico!"
     },
     "V0905_13_00_28_0": {
       "face": 3,
@@ -2412,7 +2412,7 @@
         19288
       ],
       "duelist": [],
-      "text": "Fuso lo Spirito della Solubilità!"
+      "text": "Melt il Fatato Acquoso!"
     },
     "V0905_13_00_30_0": {
       "face": 3,
@@ -2490,7 +2490,7 @@
         19990
       ],
       "duelist": [],
-      "text": "!"
+      "text": "Arciere delle Fiamme il Super Grafagas!"
     },
     "V0905_37_00_11_0": {
       "face": 3,
@@ -2680,7 +2680,7 @@
         19293
       ],
       "duelist": [],
-      "text": "Vulcalizzazione Ruggente Fenice Tempesta di Fuoco!\nAttacca!"
+      "text": "Fenice Vulcalizzazione Tempesta di Fuoco Ruggente!\nAttacca!"
     },
     "V0905_19_01_01_1": {
       "face": 3,
@@ -2698,7 +2698,7 @@
         19293
       ],
       "duelist": [],
-      "text": "Vulcalizzazione Ruggente Fenice Tempesta di Fuoco!\nAttacca!"
+      "text": "Fenice Vulcalizzazione Tempesta di Fuoco Ruggente!\nAttacca!"
     },
     "V0905_19_01_02_1": {
       "face": 3,
@@ -2716,7 +2716,7 @@
         19293
       ],
       "duelist": [],
-      "text": "Attacca, Vulcalizzazione Ruggente Fenice Tempesta di Fuoco!"
+      "text": "Attacca, Fenice Vulcalizzazione Tempesta di Fuoco Ruggente!"
     },
     "V0905_19_00_04_0": {
       "face": 3,
@@ -2726,7 +2726,7 @@
         19292
       ],
       "duelist": [],
-      "text": "Vulcalizzazione Ruggente Fenice Tempesta di Fuoco [L] attacca!"
+      "text": "Fenice Vulcalizzazione Tempesta di Fuoco Ruggente [L] attacca!"
     },
     "V0905_19_00_05_0": {
       "face": 3,
@@ -2736,7 +2736,7 @@
         19294
       ],
       "duelist": [],
-      "text": "Vulcalizzazione Ruggente Fenice Tempesta di Fuoco [R] attacca!"
+      "text": "Fenice Vulcalizzazione Tempesta di Fuoco Ruggente [R] attacca!"
     },
     "V0905_19_00_06_0": {
       "face": 3,
@@ -2874,7 +2874,7 @@
         20955
       ],
       "duelist": [],
-      "text": "Vulcalizzazione Ifrit!\nAttacca!"
+      "text": "Ifrit Vulcalizzazione!\nAttacca!"
     },
     "V0905_19_00_15_0": {
       "face": 3,
@@ -3002,7 +3002,7 @@
         19290
       ],
       "duelist": [],
-      "text": "Caldissimo lo Spirito della Combustione!\nAttacca!"
+      "text": "Hot il Fatato Combustibile!\nAttacca!"
     },
     "V0905_19_00_27_0": {
       "face": 3,
@@ -3032,7 +3032,7 @@
         19289
       ],
       "duelist": [],
-      "text": "Fulminali, Volt lo Spirito della Conduzione!"
+      "text": "Fulminali, Volt il Fatato Elettrico!"
     },
     "V0905_19_00_30_0": {
       "face": 3,
@@ -3052,7 +3052,7 @@
         19288
       ],
       "duelist": [],
-      "text": "Fuso lo Spirito della Solubilità!\nAttacca!"
+      "text": "Melt il Fatato Acquoso!\nAttacca!"
     },
     "V0905_19_00_32_0": {
       "face": 3,
@@ -3112,7 +3112,7 @@
         19990
       ],
       "duelist": [],
-      "text": "!\nFuoco!"
+      "text": "Arciere delle Fiamme il Super Grafagas!\nFuoco!"
     },
     "V0905_19_00_37_1": {
       "face": 3,

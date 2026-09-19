@@ -1,0 +1,3215 @@
+{
+  "_GRP_": "SN0613",
+  "_LNG_": "de-DE",
+  "info": {
+    "V0613_01_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Sieh dir mein neues und verbessertes Trickstar-Deck an!"
+    },
+    "V0613_01_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mein Deck ist stärker als jemals zuvor!\nDieses Duell gehört mir!"
+    },
+    "V0613_01_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Klar.\nIch nehm’s mit dir auf!"
+    },
+    "V0613_01_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich musste mich einer kritischen Selbstbetrachtung unterziehen, um zu lernen, wie ich mich verbessern kann!"
+    },
+    "V0613_01_00_07_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        610
+      ],
+      "text": "Ich bin in Bestform, Ghost Gal!"
+    },
+    "V0613_01_00_08_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        608
+      ],
+      "text": "Akira!\nIch werde von Tag zu Tag stärker, von Duell zu Duell!"
+    },
+    "V0613_02_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Duell!"
+    },
+    "V0613_03_00_00_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Hier übernehme ich endgültig die Führung!"
+    },
+    "V0613_03_00_00_1": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich bin dran!"
+    },
+    "V0613_03_00_01_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich werde nicht nachlassen!"
+    },
+    "V0613_03_00_01_1": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mein Zug!"
+    },
+    "V0613_04_00_00_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich ziehe!"
+    },
+    "V0613_03_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Und los!"
+    },
+    "V0613_03_00_02_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich bin dran!"
+    },
+    "V0613_03_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Jetzt bin ich dran!"
+    },
+    "V0613_04_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich ziehe!"
+    },
+    "V0613_03_00_04_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Argh ...\nIch muss den Schaden so gering wie möglich halten!"
+    },
+    "V0613_03_00_04_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich bin dran!"
+    },
+    "V0613_03_00_05_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich kann genauso viel zurückgeben, wie ich nehme!"
+    },
+    "V0613_03_00_05_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mein Zug!"
+    },
+    "V0613_04_00_02_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich ziehe!"
+    },
+    "V0613_05_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Ich gebe nicht auf!\nTatsächlich fange ich gerade erst an!"
+    },
+    "V0613_05_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Ich ziiiiieeeeehe!"
+    },
+    "V0613_06_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Sieh zu und staune!"
+    },
+    "V0613_06_01_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Das lasse ich nicht zu!"
+    },
+    "V0613_06_01_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Es ist noch nicht vorbei!"
+    },
+    "V0613_07_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Von meiner Hand ..."
+    },
+    "V0613_07_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich aktiviere eine Zauberkarte!"
+    },
+    "V0613_07_02_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich aktiviere einen Schnellzauber!"
+    },
+    "V0613_07_03_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich aktiviere einen Permanenten Zauber!"
+    },
+    "V0613_07_04_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich aktiviere einen Ausrüstungszauber!"
+    },
+    "V0613_07_05_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich aktiviere einen Ritualzauber!"
+    },
+    "V0613_07_06_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich aktiviere meine Falle!"
+    },
+    "V0613_07_07_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich aktiviere eine Permanente Falle!"
+    },
+    "V0613_07_08_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich aktiviere eine Konterfalle!"
+    },
+    "V0613_07_09_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich decke meine gesetzte Karte auf!"
+    },
+    "V0613_07_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Jetzt zu der Karte, die ich gesetzt habe!"
+    },
+    "V0613_07_10_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt meines Monsters!"
+    },
+    "V0613_07_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich aktiviere einen Spielfeldzauber!"
+    },
+    "V0613_07_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich aktiviere einen Effekt!"
+    },
+    "V0613_07_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich lege den Pendelbereich fest!"
+    },
+    "V0613_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich aktiviere einen Pendeleffekt!"
+    },
+    "V0613_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich aktiviere einen Ritualzauber!"
+    },
+    "V0613_10_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Los geht’s!"
+    },
+    "V0613_10_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Komm raus!"
+    },
+    "V0613_10_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Erscheine!"
+    },
+    "V0613_10_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Erhebe dich!"
+    },
+    "V0613_11_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster!"
+    },
+    "V0613_11_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster in Verteidigungsposition!"
+    },
+    "V0613_11_02_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Spezialbeschwörung!"
+    },
+    "V0613_11_03_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich biete ein Monster als Tribut an!"
+    },
+    "V0613_11_04_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Tributbeschwörung!"
+    },
+    "V0613_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tributbeschwörung!"
+    },
+    "V0613_11_05_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Fusionsbeschwörung!"
+    },
+    "V0613_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fusionsbeschwörung!"
+    },
+    "V0613_11_06_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Ritualbeschwörung!"
+    },
+    "V0613_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ritualbeschwörung!"
+    },
+    "V0613_11_07_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Synchrobeschwörung!"
+    },
+    "V0613_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich verwende meine Monster gemeinsam als Empfänger!"
+    },
+    "V0613_11_07_01_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchrobeschwörung!"
+    },
+    "V0613_11_08_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Xyz-Beschwörung!"
+    },
+    "V0613_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich baue das Materialnetzwerk!"
+    },
+    "V0613_11_08_01_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Xyz-Beschwörung!"
+    },
+    "V0613_11_09_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Pendelbeschwörung!"
+    },
+    "V0613_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pendelbeschwörung!"
+    },
+    "V0613_11_10_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Linkbeschwörung!"
+    },
+    "V0613_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich baue den Kreislauf, der Träume wahr werden lässt!"
+    },
+    "V0613_11_10_01_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich setze Monster in Link-Pfeile!\nVerlinke den Kreislauf!"
+    },
+    "V0613_11_10_01_2": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Linkbeschwörung!"
+    },
+    "V0613_11_10_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich baue den Kreislauf, der Träume wahr werden lässt!"
+    },
+    "V0613_11_10_02_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Linkbeschwörung!"
+    },
+    "V0613_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Maximalbeschwörung!"
+    },
+    "V0613_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Maximalbeschwörung!"
+    },
+    "V0613_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Fusionsbeschwörung!"
+    },
+    "V0613_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fusionsbeschwörung!"
+    },
+    "V0613_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Kontaktfusion!"
+    },
+    "V0613_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Kontaktfusion!"
+    },
+    "V0613_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Ritualbeschwörung!"
+    },
+    "V0613_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ritualbeschwörung!"
+    },
+    "V0613_14_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Kampf!"
+    },
+    "V0613_14_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Zeit zu kämpfen!"
+    },
+    "V0613_15_00_00_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Nun denn!"
+    },
+    "V0613_15_00_01_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich werde dich erledigen!"
+    },
+    "V0613_15_00_02_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mir entkommst du nicht!"
+    },
+    "V0613_17_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich greife mit meinem Monster an!"
+    },
+    "V0613_17_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mein Monster greift an!"
+    },
+    "V0613_17_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Angriff!"
+    },
+    "V0613_16_00_00_0": {
+      "face": 11,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Zeit, dich vor die Tür zu setzen!"
+    },
+    "V0613_16_00_01_0": {
+      "face": 11,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Das wird den Rest deiner LP auslöschen!"
+    },
+    "V0613_18_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mein Monster greift dich direkt an!"
+    },
+    "V0613_18_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Direkter Angriff!"
+    },
+    "V0613_20_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich setze eine Karte!"
+    },
+    "V0613_20_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich setze eine Karte!"
+    },
+    "V0613_20_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich setze ein Monster!"
+    },
+    "V0613_20_01_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich setze ein Monster!"
+    },
+    "V0613_21_00_00_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich konnte dich in diesem Zug nicht besiegen ...\nAber im nächsten Zug werde ich es schaffen!"
+    },
+    "V0613_21_00_00_1": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beende meinen Spielzug!"
+    },
+    "V0613_21_00_01_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich habe immer noch jede Menge Möglichkeiten, dein Deck zu blockieren."
+    },
+    "V0613_21_00_01_1": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beende meinen Spielzug!"
+    },
+    "V0613_21_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Damit endet mein Spielzug!"
+    },
+    "V0613_21_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beende meinen Spielzug!"
+    },
+    "V0613_21_00_04_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Du hast viele spektakuläre Züge auf Lager ..."
+    },
+    "V0613_21_00_04_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beende meinen Spielzug!"
+    },
+    "V0613_21_00_05_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich kann nicht vorhersagen, was sie als Nächstes tun werden ..."
+    },
+    "V0613_21_00_05_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beende meinen Spielzug!"
+    },
+    "V0613_28_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich muss stärker werden, weil mein Bruder an mich glaubt!"
+    },
+    "V0613_28_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich kann an meine Grenzen gehen, weil ich weiß, dass ich nicht zerbrechen werde!"
+    },
+    "V0613_28_00_02_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Alle haben mir geholfen, so weit zu kommen. Jetzt bin ich an der Reihe, ihnen zu helfen!"
+    },
+    "V0613_28_00_03_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Wenn ich die Schwächen meines Decks kenne, kann ich eine Strategie dafür entwickeln!"
+    },
+    "V0613_28_00_05_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        601,
+        607
+      ],
+      "text": "Du hast mir und meinem Bruder durch dick und dünn geholfen."
+    },
+    "V0613_28_00_05_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Danke.\nFür alles."
+    },
+    "V0613_28_00_06_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        608
+      ],
+      "text": "Ich werde stärker werden, damit ich stattdessen dich beschützen kann!"
+    },
+    "V0613_29_00_00_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich muss dieses Muster des Verlierens durchbrechen ..."
+    },
+    "V0613_29_00_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich kann mich davon erholen!"
+    },
+    "V0613_29_00_02_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich werde meine Taktik überdenken, damit ich stärker zurückkommen kann!"
+    },
+    "V0613_29_00_03_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Du hast mich echt drangekriegt.\nAber ich verspreche dir, ich kriege dich auch noch!"
+    },
+    "V0613_29_00_06_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        612
+      ],
+      "text": "Er hat gerade bewiesen, dass KI und Menschen zusammenarbeiten können!"
+    },
+    "V0613_29_00_04_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        608
+      ],
+      "text": "Du bist der Beste, Akira."
+    },
+    "V0613_29_00_05_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        610
+      ],
+      "text": "Du bist beim Duellieren genauso gut wie beim Hacken, Ghost Gal."
+    },
+    "V0613_31_00_00_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Wie?!"
+    },
+    "V0613_31_00_01_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Unmöglich!"
+    },
+    "V0613_33_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Ich aktiviere meine Fähigkeit!"
+    },
+    "V0613_33_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Das ist der Höhepunkt meiner Macht!"
+    },
+    "V0613_33_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Ich aktiviere meine Fähigkeit!"
+    },
+    "V0613_33_00_02_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Trickstar-Auftritt!"
+    },
+    "V0613_30_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Nennst du mich etwa so?"
+    },
+    "V0613_30_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Danke, dass du auf mich achtest."
+    },
+    "V0613_30_00_02_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Meine Priorität ist es, jeden zu retten, den ich sehe!"
+    },
+    "V0613_34_00_00_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich musste es tun!\nEs war ein Notfall!"
+    },
+    "V0613_34_00_01_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich schulde dir was. Und ich begleiche meine Schulden immer!"
+    },
+    "V0613_34_00_02_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich bin zuerst dran!"
+    },
+    "V0613_34_00_03_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Du warst bereit, Schaden einzustecken, um das Monster zu bekommen, das du haben willst."
+    },
+    "V0613_34_00_04_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aber du erleidest trotzdem Schaden!"
+    },
+    "V0613_34_00_05_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "An deinem Duell gibt es nichts, was mich überraschen könnte."
+    },
+    "V0613_34_00_06_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich kann diesen Duellanten überhaupt nicht einschätzen ..."
+    },
+    "V0613_34_00_07_0": {
+      "face": 4,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Hä?! Was ist denn los?"
+    },
+    "V0613_34_00_08_0": {
+      "face": 13,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tut mir leid, dass ich deine Zeit verschwende."
+    },
+    "V0613_34_00_09_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Seufz ...\nWas für eine Zeitverschwendung."
+    },
+    "V0613_34_00_10_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Das ist nicht die einzige Karte, die ich habe, die dein Deck stoppen kann."
+    },
+    "V0613_34_00_11_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich wollte allen helfen, aber ich war derjenige, der Hilfe brauchte."
+    },
+    "V0613_34_00_12_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Niemand von uns ist wirklich allein.\nWir können uns alle gegenseitig helfen."
+    },
+    "V0613_35_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mein übliches Outfit ist nicht geeignet, um auf einer geheimen Mission zu sein."
+    },
+    "V0613_35_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Nenn mich nicht Blue Angel.\nIch heiße Blue Gal."
+    },
+    "V0613_36_00_00_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Es ist noch nicht vorbei!\nBleib auf der Hut!"
+    },
+    "V0613_36_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Du bist am Zug."
+    },
+    "V0613_36_00_04_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich werde niemals aufgeben ...\nAlso solltest du das auch nicht!"
+    },
+    "V0613_36_00_08_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        610
+      ],
+      "text": "Es liegt an dir, Ghost Gal!"
+    },
+    "V0613_36_00_09_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        608
+      ],
+      "text": "Du bist dran, Akira!"
+    },
+    "V0613_36_00_10_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        608
+      ],
+      "text": "Sei vorsichtig, Akira!"
+    },
+    "V0613_36_00_11_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        608
+      ],
+      "text": "Akira ...\nIch werde dich beschützen!"
+    },
+    "V0613_08_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13609
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meinen Schnellzauber!\nTrickstar-Bouquet!"
+    },
+    "V0613_08_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13608
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meinen Spielfeldzauber!\nTrickstar-Lichtarena!"
+    },
+    "V0613_08_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13608
+      ],
+      "duelist": [],
+      "text": "Der Effekt von Trickstar-Lichtarena wird aktiviert!"
+    },
+    "V0613_08_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13092
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meinen Spielfeldzauber!\nTrickstar-Lichtbühne!"
+    },
+    "V0613_08_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13092
+      ],
+      "duelist": [],
+      "text": "Der Effekt von Trickstar-Lichtbühne wird aktiviert!"
+    },
+    "V0613_08_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14787
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meine Zauberkarte!\nTrickstar-Festival!"
+    },
+    "V0613_08_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14136
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere die Zauberkarte Trickstar-Fusion!"
+    },
+    "V0613_08_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14136
+      ],
+      "duelist": [],
+      "text": "Ich verbanne Trickstar-Fusion von meinem Friedhof und nutze den Effekt!"
+    },
+    "V0613_08_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13513
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Ausrüstungszauber Trickstar-Zauberlorbeer!"
+    },
+    "V0613_08_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13513
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Trickstar-Zauberlorbeer!"
+    },
+    "V0613_08_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14135
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Spielfeldzauber Trickstar-Live-Bühne!"
+    },
+    "V0613_08_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14135
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Trickstar-Live-Bühne!"
+    },
+    "V0613_08_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13107
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meine Fallenkarte!\nTrickstar-Reinkarnationelke!"
+    },
+    "V0613_08_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13107
+      ],
+      "duelist": [],
+      "text": "Ich verbanne Trickstar-Reinkarnationelke von meinem Friedhof!"
+    },
+    "V0613_08_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17264
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meine Zauberkarte!\nEngel der blauen Tränen!"
+    },
+    "V0613_08_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17264
+      ],
+      "duelist": [],
+      "text": "Ich verbanne Engel der blauen Tränen von meinem Friedhof und aktiviere ihn!"
+    },
+    "V0613_08_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14680
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meinen Spielfeldzauber!\nMarinzessin-Kampfozean!"
+    },
+    "V0613_08_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14680
+      ],
+      "duelist": [],
+      "text": "Der Effekt von Marinzessin-Kampfozean wird aktiviert!"
+    },
+    "V0613_08_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17057
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere die Zauberkarte Marinzessin-Tauchgang!"
+    },
+    "V0613_08_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14694
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meine Falle!\nMarinzessin-Schnee!"
+    },
+    "V0613_08_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14517
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere die Falle Marinzessin-Strom!"
+    },
+    "V0613_08_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17058
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meine Falle!\nMarinzessin-Umströmung!"
+    },
+    "V0613_08_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14516
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere die Falle Marinzessin-Welle!"
+    },
+    "V0613_08_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14695
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meine Falle Marinzessin-Kaskade!"
+    },
+    "V0613_08_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17059
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meine Falle!\nMarinzessin-Blasenring!"
+    },
+    "V0613_08_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17059
+      ],
+      "duelist": [],
+      "text": "Ich verbanne Marinzessin-Blasenring von meinem Friedhof und aktiviere ihn!"
+    },
+    "V0613_08_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20296
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meine Falle!\nTrickstar-Diffusion!"
+    },
+    "V0613_08_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20296
+      ],
+      "duelist": [],
+      "text": "Ich verbanne Trickstar-Diffusion von meinem Friedhof und aktiviere ihn!"
+    },
+    "V0613_08_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20297
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meine Falle!\nMaid der blauen Tränen!"
+    },
+    "V0613_08_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20297
+      ],
+      "duelist": [],
+      "text": "Ich verbanne Maid der blauen Tränen vom Friedhof und aktiviere sie!"
+    },
+    "V0613_09_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13083
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Trickstar Holly Engel!"
+    },
+    "V0613_09_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Holly-Segen!"
+    },
+    "V0613_09_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13260
+      ],
+      "duelist": [],
+      "text": "Trickstar Schwarze Katzenfledermaus aktiviert ihren Effekt!"
+    },
+    "V0613_09_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13594
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Trickstar Delfiendium!"
+    },
+    "V0613_09_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13343
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Trickstar Blutrotes Herz!"
+    },
+    "V0613_09_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13593
+      ],
+      "duelist": [],
+      "text": "Trickstar Blüte aktiviert ihren Effekt!"
+    },
+    "V0613_09_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13592
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Trickstar Bella Madonna!"
+    },
+    "V0613_09_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14126
+      ],
+      "duelist": [],
+      "text": "Jetzt zum Effekt von Trickstar Divaridis!"
+    },
+    "V0613_09_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13512
+      ],
+      "duelist": [],
+      "text": "Trickstar Fingerhuthexe aktiviert ihren Effekt!"
+    },
+    "V0613_09_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14110
+      ],
+      "duelist": [],
+      "text": "Der Effekt von Trickstar-Band Süße Gitarre wird aktiviert!"
+    },
+    "V0613_09_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13047
+      ],
+      "duelist": [],
+      "text": "Der Effekt von Trickstar Candida wird aktiviert!"
+    },
+    "V0613_09_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13220
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Trickstar Narkisse von meiner Hand!"
+    },
+    "V0613_09_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13561
+      ],
+      "duelist": [],
+      "text": "Ich habe Trickstar Nachtschatten für eine Trickstar-Linkbeschwörung benutzt!"
+    },
+    "V0613_09_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13046
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Trickstar Lycoris von meiner Hand!"
+    },
+    "V0613_09_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13562
+      ],
+      "duelist": [],
+      "text": "Trickstar Alraune wird aktiviert, wenn sie von meiner Hand auf den Friedhof gelegt wird!"
+    },
+    "V0613_09_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13562
+      ],
+      "duelist": [],
+      "text": "Ich habe Trickstar Alraune für eine Trickstar-Linkbeschwörung benutzt!"
+    },
+    "V0613_09_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13045
+      ],
+      "duelist": [],
+      "text": "Der Effekt von Trickstar Lilienglocke wird beim Hinzufügen zur Hand aktiviert!"
+    },
+    "V0613_09_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13045
+      ],
+      "duelist": [],
+      "text": "Trickstar Lilienglocke aktiviert ihren Effekt!"
+    },
+    "V0613_09_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13563
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Trickstar Rhodode!"
+    },
+    "V0613_09_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13555
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Trickstar Corobane von meiner Hand!"
+    },
+    "V0613_09_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13555
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Trickstar Corobane!"
+    },
+    "V0613_09_00_20_0": {
+      "face": 10,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13221
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Dunkler Engel von meiner Hand!"
+    },
+    "V0613_09_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17056
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Marinzessin Aqua Argonaut!"
+    },
+    "V0613_09_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14667
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Marinzessin Kristallherz!"
+    },
+    "V0613_09_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15040
+      ],
+      "duelist": [],
+      "text": "Mit dem Effekt von Marinzessin Großes Blasenriff kann ich eine Karte ziehen!"
+    },
+    "V0613_09_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15040
+      ],
+      "duelist": [],
+      "text": "Wenn ein Monster verbannt wurde, erhält Marinzessin Großes Blasenriff ATK!"
+    },
+    "V0613_09_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15040
+      ],
+      "duelist": [],
+      "text": "Ich werfe ein WASSER-Monster ab und nutze den Effekt von Marinzessin Großes Blasenriff!"
+    },
+    "V0613_09_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14489
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Marinzessin Korallenanemone!"
+    },
+    "V0613_09_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17055
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Marinzessin Korallendreieck!"
+    },
+    "V0613_09_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17055
+      ],
+      "duelist": [],
+      "text": "Ich verbanne Marinzessin Korallendreieck von meinem Friedhof und nutze ihren Effekt!"
+    },
+    "V0613_09_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14669
+      ],
+      "duelist": [],
+      "text": "Die Linkbeschwörung von Marinzessin Meeresengel aktiviert ihren Effekt!"
+    },
+    "V0613_09_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14488
+      ],
+      "duelist": [],
+      "text": "Die Linkbeschwörung von Marinzessin Blauschnegel aktiviert ihren Effekt!"
+    },
+    "V0613_09_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14490
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Marinzessin Marmorierter Stein!"
+    },
+    "V0613_09_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14668
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Marinzessin Wunderherz!"
+    },
+    "V0613_09_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14630
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Marinzessin Kampffisch von meiner Hand!"
+    },
+    "V0613_09_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14630
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Marinzessin Kampffisch von meinem Friedhof!"
+    },
+    "V0613_09_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14452
+      ],
+      "duelist": [],
+      "text": "Ich werfe Marinzessin Seestern ab, um ihren Effekt zu aktivieren!"
+    },
+    "V0613_09_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14451
+      ],
+      "duelist": [],
+      "text": "Ich verbanne Marinzessin Seepferdchen aus dem Friedhof und aktiviere ihren Effekt!"
+    },
+    "V0613_09_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17054
+      ],
+      "duelist": [],
+      "text": "Marinzessin Schläfrige Maid aktiviert ihren Effekt von meiner Hand!"
+    },
+    "V0613_09_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17054
+      ],
+      "duelist": [],
+      "text": "Ich verbanne Marinzessin Schläfrige Maid von meinem Friedhof und nutze ihren Effekt!"
+    },
+    "V0613_09_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14992
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Marinzessin Basilalima!"
+    },
+    "V0613_09_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14992
+      ],
+      "duelist": [],
+      "text": "Ich verbanne Marinzessin Basilalima, um ihren Effekt zu aktivieren!"
+    },
+    "V0613_09_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14631
+      ],
+      "duelist": [],
+      "text": "Das Beschwören von Marinzessin Doktorfisch aktiviert ihren Effekt!"
+    },
+    "V0613_09_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14631
+      ],
+      "duelist": [],
+      "text": "Die Linkbeschwörung von Marinzessin Doktorfisch aktiviert ihren Effekt!"
+    },
+    "V0613_09_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14629
+      ],
+      "duelist": [],
+      "text": "Meine Marinzessin Mandarine aktiviert ihren Effekt!"
+    },
+    "V0613_09_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17053
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Marinzessin Frühlingsmädchen von meiner Hand!"
+    },
+    "V0613_09_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17053
+      ],
+      "duelist": [],
+      "text": "Die Linkbeschwörung von Marinzessin Frühlingsmädchen aktiviert ihren Effekt!"
+    },
+    "V0613_09_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14788
+      ],
+      "duelist": [],
+      "text": "Das Beschwören von Marinzessin Pascalus aktiviert ihren Effekt!"
+    },
+    "V0613_09_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14788
+      ],
+      "duelist": [],
+      "text": "Ich verbanne Marinzessin Pascalus aus meinem Friedhof und aktiviere ihren Effekt!"
+    },
+    "V0613_09_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Die Fusionsbeschwörung von Trickstar-Band Trommatis aktiviert ihren Effekt!"
+    },
+    "V0613_09_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Trickstar-Band Trommatis aktiviert ihren Effekt!"
+    },
+    "V0613_09_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Trickstar Edelengel aktiviert ihren Effekt bei Linkbeschwörung!"
+    },
+    "V0613_09_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Trickstar Edelengels Effekt aktiviert sich durch mein Fusionsmonster!"
+    },
+    "V0613_09_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Trickstar Edelengel wird aktiviert, wenn du oder ich Effektschaden erleiden!"
+    },
+    "V0613_09_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "Ich verbanne Trickstar Colchica aus dem Friedhof und aktiviere ihren Effekt!"
+    },
+    "V0613_09_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "Der Effekt von Trickstar Eisenhut wird von meiner Hand aktiviert!"
+    },
+    "V0613_09_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "Ich habe Trickstar Eisenhut für eine Trickstar-Linkbeschwörung benutzt!"
+    },
+    "V0613_09_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Trickstar Aqua-Engel aktiviert ihren Effekt!"
+    },
+    "V0613_09_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Trickstar Aqua-Engel aktiviert sich bei Benutzung für eine Linkbeschwörung!"
+    },
+    "V0613_09_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17658
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von G-Golem Kristallherz!"
+    },
+    "V0613_13_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13083
+      ],
+      "duelist": [],
+      "text": "Komm raus!\nLink-2 Trickstar Holly Engel!"
+    },
+    "V0613_13_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13260
+      ],
+      "duelist": [],
+      "text": "Komm her!\nLink-2 Trickstar Schwarze Katzenfledermaus!"
+    },
+    "V0613_13_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13594
+      ],
+      "duelist": [],
+      "text": "Hier ist Trickstar Delfiendium mit Link-3!"
+    },
+    "V0613_13_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13343
+      ],
+      "duelist": [],
+      "text": "Los!\nLink-2 Trickstar Blutrotes Herz!"
+    },
+    "V0613_13_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        13593
+      ],
+      "duelist": [],
+      "text": "Erscheine!\nLink-1 Trickstar Blüte!"
+    },
+    "V0613_13_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13592
+      ],
+      "duelist": [],
+      "text": "Das habe ich extra für dich aufgehoben!\nLink-4 Trickstar Bella Madonna!"
+    },
+    "V0613_13_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14126
+      ],
+      "duelist": [],
+      "text": "Komm raus!\nLink-2 Trickstar Divaridis!"
+    },
+    "V0613_13_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13512
+      ],
+      "duelist": [],
+      "text": "Mach dich bereit für Link-3 Trickstar Fingerhuthexe!"
+    },
+    "V0613_37_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14110
+      ],
+      "duelist": [],
+      "text": "Wenn du meinen neuen Trickstar siehst, änderst du deinen Ton!"
+    },
+    "V0613_37_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fusionsbeschwörung!"
+    },
+    "V0613_13_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14110
+      ],
+      "duelist": [],
+      "text": "Abrocken, Trickstar-Band Süße Gitarre!"
+    },
+    "V0613_13_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13047
+      ],
+      "duelist": [],
+      "text": "Trickstar Candida!"
+    },
+    "V0613_13_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13220
+      ],
+      "duelist": [],
+      "text": "Trickstar Narkisse!"
+    },
+    "V0613_13_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13561
+      ],
+      "duelist": [],
+      "text": "Trickstar Nachtschatten!"
+    },
+    "V0613_13_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13046
+      ],
+      "duelist": [],
+      "text": "Trickstar Lycoris!"
+    },
+    "V0613_13_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13562
+      ],
+      "duelist": [],
+      "text": "Trickstar Alraune!"
+    },
+    "V0613_13_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13045
+      ],
+      "duelist": [],
+      "text": "Trickstar Lilienglocke!"
+    },
+    "V0613_13_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13563
+      ],
+      "duelist": [],
+      "text": "Trickstar Rhodode!"
+    },
+    "V0613_13_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        13555
+      ],
+      "duelist": [],
+      "text": "Trickstar Corobane!"
+    },
+    "V0613_13_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14161
+      ],
+      "duelist": [],
+      "text": "Ich beschwöre Trickstar-Spielmarke als Spezialbeschwörung!"
+    },
+    "V0613_13_00_18_0": {
+      "face": 10,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13221
+      ],
+      "duelist": [],
+      "text": "Dunkler Engel!\nBeehre uns mit deiner Anwesenheit!"
+    },
+    "V0613_13_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        17056
+      ],
+      "duelist": [],
+      "text": "Erscheine!\nLink-4 Marinzessin Aqua Argonaut!"
+    },
+    "V0613_13_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14667
+      ],
+      "duelist": [],
+      "text": "Komm zu mir!\nLink-2 Marinzessin Kristallherz!"
+    },
+    "V0613_37_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15040
+      ],
+      "duelist": [],
+      "text": "Tröpfchen mögen winzig erscheinen, aber sie füllen Ozeane!"
+    },
+    "V0613_37_00_01_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Linkbeschwörung!"
+    },
+    "V0613_13_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        15040
+      ],
+      "duelist": [],
+      "text": "Steig auf!\nLink-4 Marinzessin Großes Blasenriff!"
+    },
+    "V0613_13_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        14489
+      ],
+      "duelist": [],
+      "text": "Hier ist Marinzessin Korallenanemone mit Link-2!"
+    },
+    "V0613_13_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        17055
+      ],
+      "duelist": [],
+      "text": "Sieh und bestaune Link-3 Marinzessin Korallendreieck!"
+    },
+    "V0613_13_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        14669
+      ],
+      "duelist": [],
+      "text": "Los!\nLink-1 Marinzessin Meeresengel!"
+    },
+    "V0613_13_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        14488
+      ],
+      "duelist": [],
+      "text": "Schwimme herbei!\nLink-1 Marinzessin Blauschnegel!"
+    },
+    "V0613_13_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14490
+      ],
+      "duelist": [],
+      "text": "Tritt vor!\nLink-3 Marinzessin Marmorierter Stein!"
+    },
+    "V0613_13_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14668
+      ],
+      "duelist": [],
+      "text": "Mach dich bereit für Link-4 Marinzessin Wunderherz!"
+    },
+    "V0613_13_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        14630
+      ],
+      "duelist": [],
+      "text": "Marinzessin Kampffisch!"
+    },
+    "V0613_13_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14452
+      ],
+      "duelist": [],
+      "text": "Marinzessin Seestern!"
+    },
+    "V0613_13_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14451
+      ],
+      "duelist": [],
+      "text": "Marinzessin Seepferdchen!"
+    },
+    "V0613_13_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        17054
+      ],
+      "duelist": [],
+      "text": "Marinzessin Schläfrige Maid!"
+    },
+    "V0613_13_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14992
+      ],
+      "duelist": [],
+      "text": "Marinzessin Basilalima!"
+    },
+    "V0613_13_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14631
+      ],
+      "duelist": [],
+      "text": "Marinzessin Doktorfisch!"
+    },
+    "V0613_13_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14629
+      ],
+      "duelist": [],
+      "text": "Marinzessin Mandarine!"
+    },
+    "V0613_13_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17053
+      ],
+      "duelist": [],
+      "text": "Marinzessin Frühlingsmädchen!"
+    },
+    "V0613_13_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14788
+      ],
+      "duelist": [],
+      "text": "Marinzessin Pascalus!"
+    },
+    "V0613_13_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Trickstar-Band Trommatis!"
+    },
+    "V0613_13_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Komm raus!\nLink-2 Trickstar Edelengel!"
+    },
+    "V0613_13_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "Link-1 Trickstar Colchica ist hier, um mir zu helfen!"
+    },
+    "V0613_13_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "Trickstar Eisenhut!"
+    },
+    "V0613_13_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Trickstar Aqua-Engel!"
+    },
+    "V0613_13_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        17658
+      ],
+      "duelist": [],
+      "text": "G-Golem Kristallherz!"
+    },
+    "V0613_19_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13083
+      ],
+      "duelist": [],
+      "text": "Trickstar Holly Engel!\nAngriff!"
+    },
+    "V0613_19_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13260
+      ],
+      "duelist": [],
+      "text": "Angriff, Trickstar Schwarze Katzenfledermaus!"
+    },
+    "V0613_19_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13594
+      ],
+      "duelist": [],
+      "text": "Trickstar Delfiendium greift an!"
+    },
+    "V0613_19_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13343
+      ],
+      "duelist": [],
+      "text": "Trickstar Blutrotes Herz!\nAngriff!"
+    },
+    "V0613_19_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13593
+      ],
+      "duelist": [],
+      "text": "Angriff, Trickstar Blüte!"
+    },
+    "V0613_19_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13592
+      ],
+      "duelist": [],
+      "text": "Trickstar Bella Madonna!\nAngriff!"
+    },
+    "V0613_19_00_05_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Säbelschrei!"
+    },
+    "V0613_19_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14126
+      ],
+      "duelist": [],
+      "text": "Schnapp sie dir, Trickstar Divaridis!"
+    },
+    "V0613_19_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13512
+      ],
+      "duelist": [],
+      "text": "Trickstar Fingerhuthexe!\nAngriff!"
+    },
+    "V0613_19_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14110
+      ],
+      "duelist": [],
+      "text": "Angriff, Trickstar-Band Süße Gitarre!"
+    },
+    "V0613_19_00_08_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Powerchord!"
+    },
+    "V0613_19_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13047
+      ],
+      "duelist": [],
+      "text": "Trickstar Candida greift an!"
+    },
+    "V0613_19_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13220
+      ],
+      "duelist": [],
+      "text": "Angriff, Trickstar Narkisse!"
+    },
+    "V0613_19_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13561
+      ],
+      "duelist": [],
+      "text": "Angriff, Trickstar Nachtschatten!"
+    },
+    "V0613_19_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13046
+      ],
+      "duelist": [],
+      "text": "Trickstar Lycoris! Angriff!"
+    },
+    "V0613_19_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13562
+      ],
+      "duelist": [],
+      "text": "Trickstar Alraune! Angriff!"
+    },
+    "V0613_19_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13045
+      ],
+      "duelist": [],
+      "text": "Trickstar Lilienglocke greift an!"
+    },
+    "V0613_19_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13563
+      ],
+      "duelist": [],
+      "text": "Angriff, Trickstar Rhodode!"
+    },
+    "V0613_19_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13555
+      ],
+      "duelist": [],
+      "text": "Ich greife mit meiner Trickstar Corobane an!"
+    },
+    "V0613_19_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14161
+      ],
+      "duelist": [],
+      "text": "Trickstar-Spielmarke!\nAngriff!"
+    },
+    "V0613_19_00_18_0": {
+      "face": 10,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13221
+      ],
+      "duelist": [],
+      "text": "Angriff, Dunkler Engel!"
+    },
+    "V0613_19_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17056
+      ],
+      "duelist": [],
+      "text": "Marinzessin Aqua Argonaut!\nAngriff!"
+    },
+    "V0613_19_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14667
+      ],
+      "duelist": [],
+      "text": "Marinzessin Kristallherz!\nAngriff!"
+    },
+    "V0613_19_00_20_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Dein Monster bleibt von anderen Karteneffekten unberührt!"
+    },
+    "V0613_19_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15040
+      ],
+      "duelist": [],
+      "text": "Marinzessin Großes Blasenriff!\nAngriff!"
+    },
+    "V0613_19_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14489
+      ],
+      "duelist": [],
+      "text": "Marinzessin Korallenanemone!\nAngriff!"
+    },
+    "V0613_19_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17055
+      ],
+      "duelist": [],
+      "text": "Angriff, Marinzessin Korallendreieck!"
+    },
+    "V0613_19_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14669
+      ],
+      "duelist": [],
+      "text": "Marinzessin Meeresengel!\nGeh und greif an!"
+    },
+    "V0613_19_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14488
+      ],
+      "duelist": [],
+      "text": "Angriff, Marinzessin Blauschnegel!"
+    },
+    "V0613_19_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14490
+      ],
+      "duelist": [],
+      "text": "Marinzessin Marmorierter Stein!\nAngriff!"
+    },
+    "V0613_19_00_26_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Marinzessin-Tauchgang!"
+    },
+    "V0613_19_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14668
+      ],
+      "duelist": [],
+      "text": "Angriff, Marinzessin Wunderherz!"
+    },
+    "V0613_19_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14630
+      ],
+      "duelist": [],
+      "text": "Mein Marinzessin Kampffisch greift an!"
+    },
+    "V0613_19_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14452
+      ],
+      "duelist": [],
+      "text": "Ich greife mit meiner Marinzessin Seestern an!"
+    },
+    "V0613_19_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14451
+      ],
+      "duelist": [],
+      "text": "Marinzessin Seepferdchen! Angriff!"
+    },
+    "V0613_19_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17054
+      ],
+      "duelist": [],
+      "text": "Meine Marinzessin Schläfrige Maid ist wach genug, um anzugreifen!"
+    },
+    "V0613_19_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14992
+      ],
+      "duelist": [],
+      "text": "Marinzessin Basilalima! Angriff!"
+    },
+    "V0613_19_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14631
+      ],
+      "duelist": [],
+      "text": "Angriff, Marinzessin Doktorfisch!"
+    },
+    "V0613_19_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14629
+      ],
+      "duelist": [],
+      "text": "Marinzessin Mandarine!\nAngriff!"
+    },
+    "V0613_19_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17053
+      ],
+      "duelist": [],
+      "text": "Marinzessin Frühlingsmädchen! Angriff!"
+    },
+    "V0613_19_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14788
+      ],
+      "duelist": [],
+      "text": "Angriff, Marinzessin Pascalus!"
+    },
+    "V0613_19_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Trickstar-Band Trommatis!\nAngriff!"
+    },
+    "V0613_19_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Trickstar Edelengel!\nAngriff!"
+    },
+    "V0613_19_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "Trickstar Colchica!\nAngriff!"
+    },
+    "V0613_19_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "Angriff, Trickstar Eisenhut!"
+    },
+    "V0613_19_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Trickstar Aqua-Engel!\nAngriff!"
+    },
+    "V0613_19_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17658
+      ],
+      "duelist": [],
+      "text": "G-Golem Kristallherz!\nAngriff!"
+    },
+    "V0613_48_00_00_0": {
+      "face": 11,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Lass uns loslegen!"
+    },
+    "V0613_48_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mach dich bereit für den Rush!"
+    },
+    "V0613_51_00_00_0": {
+      "face": 11,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich nehme es mit dir auf!"
+    },
+    "V0613_51_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Go Rush!"
+    },
+    "V0613_49_00_00_0": {
+      "face": 11,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich nehm’s mit dir auf!"
+    },
+    "V0613_49_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo-Rush-Duel!"
+    },
+    "V0613_22_00_00_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aaah!"
+    },
+    "V0613_22_00_01_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aaaah!"
+    },
+    "V0613_22_00_02_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Agh!"
+    },
+    "V0613_26_00_00_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Es ist noch nicht vorbei!"
+    },
+    "V0613_26_00_01_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Dieser Angriff ist nicht stark genug, um mich zu erledigen!"
+    },
+    "V0613_26_00_02_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Als ob mich das aufhalten würde!"
+    },
+    "V0613_25_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aaahhh!"
+    },
+    "V0613_25_00_01_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Uwaaa!"
+    },
+    "V0613_25_00_02_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Argh …!"
+    },
+    "V0613_27_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich glaub’s nicht …"
+    },
+    "V0613_27_00_01_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Nein ..."
+    },
+    "V0613_27_00_02_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich ... kann mich immer noch duellieren ..."
+    },
+    "V0613_24_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aaargh ..."
+    },
+    "V0613_23_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 3,
+      "card": [],
+      "duelist": [],
+      "text": "Aaaaahhhhh!"
+    }
+  }
+}

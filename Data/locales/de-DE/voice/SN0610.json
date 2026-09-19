@@ -66,7 +66,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Überraschend, ein Kampf gegen Varis an so einem Ort …"
     },
@@ -84,7 +85,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Sein Deck enthält ein mächtiges Linkmonster."
     },
@@ -102,7 +104,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Oh, also bitte.\nDu hast deinen Avatar zurückgesetzt."
     },
@@ -956,7 +960,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Sie können alles nehmen.\nAber verliere nicht dein Herz."
     },
@@ -1062,7 +1068,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Varis hat das ganze Duell über mit mir gespielt …"
     },
@@ -1072,7 +1079,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Wie konnte er diese erschreckende Karte bekommen?"
     },
@@ -1082,7 +1090,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Heeeeyyyyy!\nDu spielst ziemlich gut!"
     },
@@ -1342,7 +1352,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Zeig mir, ob dein Spiel besser geworden ist."
     },
@@ -1352,7 +1364,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Zeig ihnen, warum du der bestmögliche Partner bist."
     },

@@ -1,0 +1,4302 @@
+{
+  "_GRP_": "SN0221",
+  "_LNG_": "en-US",
+  "info": {
+    "V0221_03_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I still got a lot more in the tank!"
+    },
+    "V0221_03_00_00_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "My turn!"
+    },
+    "V0221_03_00_01_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I know you see your end comin'!"
+    },
+    "V0221_03_00_01_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "It's my turn!"
+    },
+    "V0221_03_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Here I go!"
+    },
+    "V0221_03_00_02_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "My turn!"
+    },
+    "V0221_03_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "It's my turn!"
+    },
+    "V0221_03_00_04_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "You haven't broken our bond yet!"
+    },
+    "V0221_03_00_04_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "My turn!"
+    },
+    "V0221_04_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I draw!"
+    },
+    "V0221_04_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I draw!"
+    },
+    "V0221_04_00_02_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I draw!"
+    },
+    "V0221_06_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "As if!"
+    },
+    "V0221_06_01_01_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "My instincts are tinglin'!"
+    },
+    "V0221_06_01_02_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "You think that'll work against me?"
+    },
+    "V0221_06_01_03_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I was waiting for you to do that!"
+    },
+    "V0221_07_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "From my hand..."
+    },
+    "V0221_07_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I activate a Spell Card!"
+    },
+    "V0221_07_02_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I activate a Quick-Play Spell!"
+    },
+    "V0221_07_03_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I activate a Continuous Spell!"
+    },
+    "V0221_07_04_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I activate an Equip Spell!"
+    },
+    "V0221_07_05_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I activate a Ritual Spell!"
+    },
+    "V0221_07_06_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I activate my Trap Card!"
+    },
+    "V0221_07_07_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I activate my Continuous Trap!"
+    },
+    "V0221_07_08_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I activate my Counter Trap!"
+    },
+    "V0221_07_09_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I flip over my face-down card!"
+    },
+    "V0221_07_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I play my face-down card!"
+    },
+    "V0221_07_10_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I activate my monster's effect!"
+    },
+    "V0221_07_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I activate a Field Spell!"
+    },
+    "V0221_07_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I activate an effect!"
+    },
+    "V0221_07_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I set the Pendulum Scale!"
+    },
+    "V0221_08_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8202
+      ],
+      "duelist": [],
+      "text": "I activate my Spell Card!\nAgainst the Wind!"
+    },
+    "V0221_08_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7743
+      ],
+      "duelist": [],
+      "text": "I activate the Spell Card, De-Synchro!"
+    },
+    "V0221_08_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8043
+      ],
+      "duelist": [],
+      "text": "I activate my Spell Card, Raptor Wing Strike!"
+    },
+    "V0221_08_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8820
+      ],
+      "duelist": [],
+      "text": "I activate my Spell Card!\nBlack-Winged Strafe!"
+    },
+    "V0221_08_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5849
+      ],
+      "duelist": [],
+      "text": "I activate my Quick-Play Spell!\nReload!"
+    },
+    "V0221_08_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8203
+      ],
+      "duelist": [],
+      "text": "My Continuous Spell, Black Whirlwind!"
+    },
+    "V0221_08_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8821
+      ],
+      "duelist": [],
+      "text": "Check this Spell out!\nCards for Black Feathers!"
+    },
+    "V0221_08_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13855
+      ],
+      "duelist": [],
+      "text": "Here's my Equip Spell, Glow Wing Crossbow!"
+    },
+    "V0221_08_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8840
+      ],
+      "duelist": [],
+      "text": "My monsters work together to form a bridge to victory!"
+    },
+    "V0221_08_00_08_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I flip over my Trap Card!\nBlackwing - Bombardment!"
+    },
+    "V0221_08_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8839
+      ],
+      "duelist": [],
+      "text": "A single Trap will drop all your monsters!"
+    },
+    "V0221_08_00_09_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I activate my Trap!\nBlackwing - Backlash!"
+    },
+    "V0221_08_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9145
+      ],
+      "duelist": [],
+      "text": "I activate the effect of my Trap, Blackwing - Boobytrap!"
+    },
+    "V0221_08_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6709
+      ],
+      "duelist": [],
+      "text": "Check out my Trap Card!\nIcarus Attack!"
+    },
+    "V0221_08_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11177
+      ],
+      "duelist": [],
+      "text": "I flip over my Trap Card!\nShadow Impulse!"
+    },
+    "V0221_08_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9143
+      ],
+      "duelist": [],
+      "text": "I reveal my Trap Card!\nDefenders Intersect!"
+    },
+    "V0221_08_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8220
+      ],
+      "duelist": [],
+      "text": "This Trap explodes all over ya!\nDelta Crow - Anti Reverse!"
+    },
+    "V0221_08_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8223
+      ],
+      "duelist": [],
+      "text": "I activate my Trap!\nTrap Stun!"
+    },
+    "V0221_08_00_15_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "All other Trap effects are negated this turn!"
+    },
+    "V0221_08_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8222
+      ],
+      "duelist": [],
+      "text": "I activate my Trap, Fake Feather!"
+    },
+    "V0221_08_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8064
+      ],
+      "duelist": [],
+      "text": "I activate the Trap, Ebon Arrow!"
+    },
+    "V0221_08_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8841
+      ],
+      "duelist": [],
+      "text": "I activate my Trap!\nBlack Thunder!"
+    },
+    "V0221_08_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11175
+      ],
+      "duelist": [],
+      "text": "Your best isn't even my least!"
+    },
+    "V0221_08_00_19_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I activate my Trap!\nBlack Sonic!"
+    },
+    "V0221_08_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9142
+      ],
+      "duelist": [],
+      "text": "I flip over my Trap Card!\nBlackback!"
+    },
+    "V0221_08_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9356
+      ],
+      "duelist": [],
+      "text": "I reveal my Trap Card!\nBlackboost!"
+    },
+    "V0221_08_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9246
+      ],
+      "duelist": [],
+      "text": "I was waiting for this moment!"
+    },
+    "V0221_08_00_22_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I flip over my Trap Card!\nBlack Return!"
+    },
+    "V0221_08_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11176
+      ],
+      "duelist": [],
+      "text": "I won't let your sacrifice go to waste!"
+    },
+    "V0221_08_00_23_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I flip over my Trap Card!\nBlack Wing Revenge!"
+    },
+    "V0221_08_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8842
+      ],
+      "duelist": [],
+      "text": "Like I'll let you do that!\nI activate my Trap, Guard Mines!"
+    },
+    "V0221_08_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8221
+      ],
+      "duelist": [],
+      "text": "I activate my Trap!\nLevel Retuner!"
+    },
+    "V0221_08_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7920
+      ],
+      "duelist": [],
+      "text": "My Trap activates!\nUrgent Tuning!"
+    },
+    "V0221_08_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9245
+      ],
+      "duelist": [],
+      "text": "I activate my Trap!\nBlack Feather Beacon!"
+    },
+    "V0221_08_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4988
+      ],
+      "duelist": [],
+      "text": "I activate the Trap, Dust Tornado!"
+    },
+    "V0221_08_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9144
+      ],
+      "duelist": [],
+      "text": "My Counter Trap activates!\nGravity Collapse!"
+    },
+    "V0221_08_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13856
+      ],
+      "duelist": [],
+      "text": "My Counter Trap activates!\nBlackbird Close!"
+    },
+    "V0221_09_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12447
+      ],
+      "duelist": [],
+      "text": "Sohaya the Rain Storm's effect activates!"
+    },
+    "V0221_09_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12448
+      ],
+      "duelist": [],
+      "text": "Onimaru the Divine Thunder's effect activates!"
+    },
+    "V0221_09_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11962
+      ],
+      "duelist": [],
+      "text": "Kunai the Drizzle's effect activates!"
+    },
+    "V0221_09_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12323
+      ],
+      "duelist": [],
+      "text": "Chidori the Rain Sprinkling's effect activates!"
+    },
+    "V0221_09_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11991
+      ],
+      "duelist": [],
+      "text": "Raikiri the Rain Shower's effect activates!"
+    },
+    "V0221_09_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9463
+      ],
+      "duelist": [],
+      "text": "Obsidian Hawk Joe!\nUse your effect!"
+    },
+    "V0221_09_00_05_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Master the birds of prey to awaken a Blackwing!"
+    },
+    "V0221_09_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9463
+      ],
+      "duelist": [],
+      "text": "Obsidian Hawk Joe activates his effect!"
+    },
+    "V0221_09_00_06_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "The target switches from Hawk Joe to another Blackwing!"
+    },
+    "V0221_09_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8779
+      ],
+      "duelist": [],
+      "text": "Since an effect added Breeze to my hand, I can summon it!"
+    },
+    "V0221_09_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8036
+      ],
+      "duelist": [],
+      "text": "It'll tap a Wedge into ya!"
+    },
+    "V0221_09_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8036
+      ],
+      "duelist": [],
+      "text": "Blackwing Armor Master's effect activates!"
+    },
+    "V0221_09_00_09_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "By removing a Wedge Counter, its ATK and DEF become 0!"
+    },
+    "V0221_09_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11173
+      ],
+      "duelist": [],
+      "text": "Steam the Cloak's effect activates!"
+    },
+    "V0221_09_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9437
+      ],
+      "duelist": [],
+      "text": "Jin the Rain Shadow's effect activates!"
+    },
+    "V0221_09_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12411
+      ],
+      "duelist": [],
+      "text": "Tornado the Reverse Wind's effect activates!"
+    },
+    "V0221_09_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8013
+      ],
+      "duelist": [],
+      "text": "Sirocco the Dawn's effect activates!"
+    },
+    "V0221_09_00_13_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "The flock's strength gathers into a singular Blackwing!"
+    },
+    "V0221_09_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9093
+      ],
+      "duelist": [],
+      "text": "Aurora the Northern Lights's effect activates!"
+    },
+    "V0221_09_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8162
+      ],
+      "duelist": [],
+      "text": "Blizzard the Far North's effect activates!"
+    },
+    "V0221_09_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10303
+      ],
+      "duelist": [],
+      "text": "I activate Damascus the Polar Night's effect from my hand!"
+    },
+    "V0221_09_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8295
+      ],
+      "duelist": [],
+      "text": "Mistral the Silver Shield's effect activates!"
+    },
+    "V0221_09_00_17_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "For one time only, battle damage becomes 0!"
+    },
+    "V0221_09_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9094
+      ],
+      "duelist": [],
+      "text": "Abrolhos the Megaquake's effect activates!"
+    },
+    "V0221_09_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8164
+      ],
+      "duelist": [],
+      "text": "I activate Kalut the Moon Shadow's effect from my hand!"
+    },
+    "V0221_09_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8476
+      ],
+      "duelist": [],
+      "text": "Silverwind the Ascendant's effect activates!"
+    },
+    "V0221_09_00_20_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Perfect Storm!"
+    },
+    "V0221_09_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12122
+      ],
+      "duelist": [],
+      "text": "Harmattan the Dust's effect activates!"
+    },
+    "V0221_09_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8165
+      ],
+      "duelist": [],
+      "text": "Elphin the Raven's effect activates!"
+    },
+    "V0221_09_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8011
+      ],
+      "duelist": [],
+      "text": "Gale the Whirlwind's effect activates!"
+    },
+    "V0221_09_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9459
+      ],
+      "duelist": [],
+      "text": "Pinaki the Waxing Moon's effect activates!"
+    },
+    "V0221_09_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11649
+      ],
+      "duelist": [],
+      "text": "Nothung the Starlight's effect activates!"
+    },
+    "V0221_09_00_25_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Homing Sword!"
+    },
+    "V0221_09_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9244
+      ],
+      "duelist": [],
+      "text": "I activate Zephyros the Elite's effect from my Graveyard!"
+    },
+    "V0221_09_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9298
+      ],
+      "duelist": [],
+      "text": "I banish Boreas the Sharp from my grave to use its effect!"
+    },
+    "V0221_09_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8163
+      ],
+      "duelist": [],
+      "text": "Shura the Blue Flame's effect activates!"
+    },
+    "V0221_09_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9243
+      ],
+      "duelist": [],
+      "text": "I activate Jetstream the Blue Sky's effect from my hand!"
+    },
+    "V0221_09_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8296
+      ],
+      "duelist": [],
+      "text": "Vayu the Emblem of Honor's effect activates!"
+    },
+    "V0221_09_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12289
+      ],
+      "duelist": [],
+      "text": "Decay the Ill Wind's effect activates!"
+    },
+    "V0221_09_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9299
+      ],
+      "duelist": [],
+      "text": "Brisote the Tailwind's effect activates!"
+    },
+    "V0221_09_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8297
+      ],
+      "duelist": [],
+      "text": "Fane the Steel Chain's effect activates!"
+    },
+    "V0221_09_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9479
+      ],
+      "duelist": [],
+      "text": "I activate Hillen the Tengu-wind's effect from my Graveyard!"
+    },
+    "V0221_09_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11172
+      ],
+      "duelist": [],
+      "text": "I activate Oroshi the Squall's effect!"
+    },
+    "V0221_09_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9092
+      ],
+      "duelist": [],
+      "text": "From my hand, I activate Etesian of Two Swords's effect!"
+    },
+    "V0221_09_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8777
+      ],
+      "duelist": [],
+      "text": "I activate Ghibli the Searing Wind's effect!"
+    },
+    "V0221_09_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9300
+      ],
+      "duelist": [],
+      "text": "I banish Calima the Haze to resurrect a Synchro Monster!"
+    },
+    "V0221_09_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9480
+      ],
+      "duelist": [],
+      "text": "Kogarashi the Wanderer's effect activates!"
+    },
+    "V0221_09_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11174
+      ],
+      "duelist": [],
+      "text": "Hurricane the Tornado's effect activates!"
+    },
+    "V0221_09_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12412
+      ],
+      "duelist": [],
+      "text": "Gofu the Vague Shadow's effect activates!"
+    },
+    "V0221_09_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9464
+      ],
+      "duelist": [],
+      "text": "Gram the Shining Star's effect activates!"
+    },
+    "V0221_09_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6980
+      ],
+      "duelist": [],
+      "text": "I'll activate D.D. Crow's effect from my hand!"
+    },
+    "V0221_09_00_43_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I banish a card from your Graveyard!"
+    },
+    "V0221_09_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8815
+      ],
+      "duelist": [],
+      "text": "Black-Winged Dragon's effect activates!"
+    },
+    "V0221_09_00_44_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Black Orb Blast!"
+    },
+    "V0221_09_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11012
+      ],
+      "duelist": [],
+      "text": "I activate Blackfeather Darkrage Dragon's effect!"
+    },
+    "V0221_09_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "Full Armor Master's effect activates!"
+    },
+    "V0221_09_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13853
+      ],
+      "duelist": [],
+      "text": "Simoon the Poison Wind's effect activates!"
+    },
+    "V0221_09_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "Auster the South Wind's effect activates!"
+    },
+    "V0221_10_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Here I go!"
+    },
+    "V0221_10_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Here it comes!"
+    },
+    "V0221_10_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Show yourself!"
+    },
+    "V0221_10_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Watch this!"
+    },
+    "V0221_11_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Summon a monster!"
+    },
+    "V0221_11_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Summon a monster in Defense Position!"
+    },
+    "V0221_11_02_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Special Summon a monster!"
+    },
+    "V0221_11_03_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Tribute a monster!"
+    },
+    "V0221_11_04_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Tribute Summon a monster!"
+    },
+    "V0221_11_05_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Fusion Summon a monster!"
+    },
+    "V0221_11_06_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Ritual Summon a monster!"
+    },
+    "V0221_11_07_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Synchro Summon a monster!"
+    },
+    "V0221_11_08_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Xyz Summon a monster!"
+    },
+    "V0221_11_09_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Pendulum Summon a monster!"
+    },
+    "V0221_11_10_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Link Summon a monster!"
+    },
+    "V0221_37_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12446
+      ],
+      "duelist": [],
+      "text": "I'll turn the power of flight into the power of fight!"
+    },
+    "V0221_37_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Summon!"
+    },
+    "V0221_13_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        12446
+      ],
+      "duelist": [],
+      "text": "Fly, Assault Blackwing - Sayo the Rain Hider!"
+    },
+    "V0221_37_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12447
+      ],
+      "duelist": [],
+      "text": "There’s a storm coming with a deluge of destruction!"
+    },
+    "V0221_37_00_01_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Summon!"
+    },
+    "V0221_13_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        12447
+      ],
+      "duelist": [],
+      "text": "Soar! Assault Blackwing - Sohaya the Rain Storm!"
+    },
+    "V0221_37_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12448
+      ],
+      "duelist": [],
+      "text": "Get ready for a thundering display of power!"
+    },
+    "V0221_37_00_02_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Summon!"
+    },
+    "V0221_13_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        12448
+      ],
+      "duelist": [],
+      "text": "Slash on in!\nAssault Blackwing - Onimaru the Divine Thunder!"
+    },
+    "V0221_13_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        11962
+      ],
+      "duelist": [],
+      "text": "Appear!\nAssault Blackwing - Kunai the Drizzle!"
+    },
+    "V0221_37_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12323
+      ],
+      "duelist": [],
+      "text": "The thunderclap rains destruction on all before it!"
+    },
+    "V0221_37_00_03_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Summon!"
+    },
+    "V0221_13_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        12323
+      ],
+      "duelist": [],
+      "text": "Let's go, Assault Blackwing - Chidori the Rain Sprinkling!"
+    },
+    "V0221_37_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11991
+      ],
+      "duelist": [],
+      "text": "I’m unleashing a storm of trouble!"
+    },
+    "V0221_37_00_04_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Summon!"
+    },
+    "V0221_13_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        11991
+      ],
+      "duelist": [],
+      "text": "Go, Assault Blackwing - Raikiri the Rain Shower!"
+    },
+    "V0221_13_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        9463
+      ],
+      "duelist": [],
+      "text": "I invite Blackwing Tamer - Obsidian Hawk Joe!"
+    },
+    "V0221_13_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8779
+      ],
+      "duelist": [],
+      "text": "The Tuner Monster, Blackwing - Breeze the Zephyr!"
+    },
+    "V0221_37_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8036
+      ],
+      "duelist": [],
+      "text": "I'm hatching a whole new bird of prey!"
+    },
+    "V0221_37_00_05_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Summon!"
+    },
+    "V0221_13_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        8036
+      ],
+      "duelist": [],
+      "text": "Blackwing Armor Master!"
+    },
+    "V0221_37_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8193
+      ],
+      "duelist": [],
+      "text": "Swirl your wings into a giant maelstrom!"
+    },
+    "V0221_37_00_06_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Summon!"
+    },
+    "V0221_13_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        8193
+      ],
+      "duelist": [],
+      "text": "Blackwing Armed Wing!"
+    },
+    "V0221_13_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11173
+      ],
+      "duelist": [],
+      "text": "The Tuner Monster, Blackwing - Steam the Cloak!"
+    },
+    "V0221_13_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9437
+      ],
+      "duelist": [],
+      "text": "The Tuner Monster, Blackwing - Jin the Rain Shadow!"
+    },
+    "V0221_13_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12411
+      ],
+      "duelist": [],
+      "text": "Say hello to Blackwing - Tornado the Reverse Wind!"
+    },
+    "V0221_13_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8778
+      ],
+      "duelist": [],
+      "text": "Come out, Blackwing - Gust the Backblast!"
+    },
+    "V0221_13_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8013
+      ],
+      "duelist": [],
+      "text": "Here comes Blackwing - Sirocco the Dawn!"
+    },
+    "V0221_13_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9093
+      ],
+      "duelist": [],
+      "text": "I Special Summon Blackwing - Aurora the Northern Lights!"
+    },
+    "V0221_13_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8162
+      ],
+      "duelist": [],
+      "text": "The Tuner Monster, Blackwing - Blizzard the Far North!"
+    },
+    "V0221_13_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10303
+      ],
+      "duelist": [],
+      "text": "Here's Blackwing - Damascus the Polar Night!"
+    },
+    "V0221_13_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8295
+      ],
+      "duelist": [],
+      "text": "The Tuner Monster, Blackwing - Mistral the Silver Shield!"
+    },
+    "V0221_13_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9094
+      ],
+      "duelist": [],
+      "text": "Appear!\nBlackwing - Abrolhos the Megaquake!"
+    },
+    "V0221_13_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8164
+      ],
+      "duelist": [],
+      "text": "Let's do this, Blackwing - Kalut the Moon Shadow!"
+    },
+    "V0221_37_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8476
+      ],
+      "duelist": [],
+      "text": "The raging tempest combines iron will with light speed!"
+    },
+    "V0221_37_00_07_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Summon!"
+    },
+    "V0221_13_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        8476
+      ],
+      "duelist": [],
+      "text": "Welcome Blackwing - Silverwind the Ascendant to the game!"
+    },
+    "V0221_13_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8012
+      ],
+      "duelist": [],
+      "text": "Let's go, Blackwing - Bora the Spear!"
+    },
+    "V0221_13_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12122
+      ],
+      "duelist": [],
+      "text": "Let's go!\nBlackwing - Harmattan the Dust!"
+    },
+    "V0221_13_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9460
+      ],
+      "duelist": [],
+      "text": "Here's Blackwing - Kris the Crack of Dawn!"
+    },
+    "V0221_13_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8165
+      ],
+      "duelist": [],
+      "text": "Take to the skies, Blackwing - Elphin the Raven!"
+    },
+    "V0221_13_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8011
+      ],
+      "duelist": [],
+      "text": "The Tuner Monster, Blackwing - Gale the Whirlwind!"
+    },
+    "V0221_13_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9459
+      ],
+      "duelist": [],
+      "text": "The Tuner Monster, Blackwing - Pinaki the Waxing Moon!"
+    },
+    "V0221_37_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11649
+      ],
+      "duelist": [],
+      "text": "This heroic bird of prey wields the sword of legends!"
+    },
+    "V0221_37_00_08_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Summon!"
+    },
+    "V0221_13_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        11649
+      ],
+      "duelist": [],
+      "text": "Blackwing - Nothung the Starlight!"
+    },
+    "V0221_13_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9244
+      ],
+      "duelist": [],
+      "text": "Fly! Blackwing - Zephyros the Elite!"
+    },
+    "V0221_13_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9298
+      ],
+      "duelist": [],
+      "text": "Show yourself!\nBlackwing - Boreas the Sharp!"
+    },
+    "V0221_13_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8163
+      ],
+      "duelist": [],
+      "text": "Bring it on, Blackwing - Shura the Blue Flame!"
+    },
+    "V0221_13_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9243
+      ],
+      "duelist": [],
+      "text": "Here's Blackwing - Jetstream the Blue Sky!"
+    },
+    "V0221_13_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8296
+      ],
+      "duelist": [],
+      "text": "The Tuner Monster, Blackwing - Vayu the Emblem of Honor!"
+    },
+    "V0221_13_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12289
+      ],
+      "duelist": [],
+      "text": "The Tuner Monster, Blackwing - Decay the Ill Wind!"
+    },
+    "V0221_13_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9299
+      ],
+      "duelist": [],
+      "text": "Join me, Blackwing - Brisote the Tailwind!"
+    },
+    "V0221_13_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8297
+      ],
+      "duelist": [],
+      "text": "Let's go, Blackwing - Fane the Steel Chain!"
+    },
+    "V0221_13_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9479
+      ],
+      "duelist": [],
+      "text": "The Tuner Monster, Blackwing - Hillen the Tengu-wind!"
+    },
+    "V0221_13_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9242
+      ],
+      "duelist": [],
+      "text": "The Tuner Monster, Blackwing - Kochi the Daybreak!"
+    },
+    "V0221_13_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11172
+      ],
+      "duelist": [],
+      "text": "The Tuner Monster, Blackwing - Oroshi the Squall!"
+    },
+    "V0221_13_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9092
+      ],
+      "duelist": [],
+      "text": "Join me, Blackwing - Etesian of Two Swords!"
+    },
+    "V0221_13_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8777
+      ],
+      "duelist": [],
+      "text": "Take to the field, Blackwing - Ghibli the Searing Wind!"
+    },
+    "V0221_13_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9461
+      ],
+      "duelist": [],
+      "text": "Here's Blackwing - Gladius the Midnight Sun!"
+    },
+    "V0221_13_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9300
+      ],
+      "duelist": [],
+      "text": "Let's do this, Blackwing - Calima the Haze!"
+    },
+    "V0221_13_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9480
+      ],
+      "duelist": [],
+      "text": "The Tuner Monster, Blackwing - Kogarashi the Wanderer!"
+    },
+    "V0221_13_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11174
+      ],
+      "duelist": [],
+      "text": "The Tuner Monster, Blackwing - Hurricane the Tornado!"
+    },
+    "V0221_13_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12412
+      ],
+      "duelist": [],
+      "text": "I Special Summon Blackwing - Gofu the Vague Shadow!"
+    },
+    "V0221_37_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9464
+      ],
+      "duelist": [],
+      "text": "You're not ready for this winged swordsman!"
+    },
+    "V0221_37_00_09_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Summon!"
+    },
+    "V0221_13_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        9464
+      ],
+      "duelist": [],
+      "text": "Blackwing - Gram the Shining Star!"
+    },
+    "V0221_13_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6980
+      ],
+      "duelist": [],
+      "text": "Here flies D.D. Crow!"
+    },
+    "V0221_13_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4583
+      ],
+      "duelist": [],
+      "text": "Crow Goblin!\nI'm countin' on ya!"
+    },
+    "V0221_37_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8815
+      ],
+      "duelist": [],
+      "text": "Prepare for some shock and awe!"
+    },
+    "V0221_37_00_10_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Summon!"
+    },
+    "V0221_13_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        8815
+      ],
+      "duelist": [],
+      "text": "Soar to power!\nBlack-Winged Dragon!"
+    },
+    "V0221_37_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11012
+      ],
+      "duelist": [],
+      "text": "The dark wind soars from the last days of battle!"
+    },
+    "V0221_37_00_11_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Summon!"
+    },
+    "V0221_13_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        11012
+      ],
+      "duelist": [],
+      "text": "Blackfeather Darkrage Dragon!"
+    },
+    "V0221_13_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "Blackwing - Full Armor Master!"
+    },
+    "V0221_13_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13853
+      ],
+      "duelist": [],
+      "text": "Here comes Blackwing - Simoon the Poison Wind!"
+    },
+    "V0221_13_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "Let's go! Blackwing - Auster the South Wind!"
+    },
+    "V0221_14_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Let's battle!"
+    },
+    "V0221_14_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Battle!"
+    },
+    "V0221_15_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Go!"
+    },
+    "V0221_15_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Take 'em down!"
+    },
+    "V0221_15_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Take this!"
+    },
+    "V0221_17_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I'll attack with my monster!"
+    },
+    "V0221_17_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "My monster attacks!"
+    },
+    "V0221_17_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attack!"
+    },
+    "V0221_16_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Too bad, pal!"
+    },
+    "V0221_16_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "It's the finish line!"
+    },
+    "V0221_18_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "My monster attacks you directly!"
+    },
+    "V0221_18_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I attack you directly!"
+    },
+    "V0221_19_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12446
+      ],
+      "duelist": [],
+      "text": "Sayo the Rain Hider attacks!"
+    },
+    "V0221_19_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12447
+      ],
+      "duelist": [],
+      "text": "Strike 'em down, Sohaya the Rain Storm!"
+    },
+    "V0221_19_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12448
+      ],
+      "duelist": [],
+      "text": "Onimaru the Divine Thunder attacks!"
+    },
+    "V0221_19_00_02_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Thundering Thrash!"
+    },
+    "V0221_19_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11962
+      ],
+      "duelist": [],
+      "text": "Kunai the Drizzle! Attack!"
+    },
+    "V0221_19_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12323
+      ],
+      "duelist": [],
+      "text": "Chidori the Rain Sprinkling attacks!"
+    },
+    "V0221_19_00_04_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Lightning Slash!"
+    },
+    "V0221_19_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11991
+      ],
+      "duelist": [],
+      "text": "Attack, Raikiri the Rain Shower!"
+    },
+    "V0221_19_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9463
+      ],
+      "duelist": [],
+      "text": "Obsidian Hawk Joe attacks!"
+    },
+    "V0221_19_00_06_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Assault Claw!"
+    },
+    "V0221_19_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8779
+      ],
+      "duelist": [],
+      "text": "Breeze the Zephyr! Attack!"
+    },
+    "V0221_19_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8036
+      ],
+      "duelist": [],
+      "text": "Armor Master! Attack!"
+    },
+    "V0221_19_00_08_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Black Hurricane!"
+    },
+    "V0221_19_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8193
+      ],
+      "duelist": [],
+      "text": "Go, Armed Wing! Attack!"
+    },
+    "V0221_19_00_09_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Black Charge!"
+    },
+    "V0221_19_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11173
+      ],
+      "duelist": [],
+      "text": "Go get 'em, Steam the Cloak!"
+    },
+    "V0221_19_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9437
+      ],
+      "duelist": [],
+      "text": "Jin the Rain Shadow attacks!"
+    },
+    "V0221_19_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12411
+      ],
+      "duelist": [],
+      "text": "Tornado the Reverse Wind!\nBlow 'em away!"
+    },
+    "V0221_19_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8778
+      ],
+      "duelist": [],
+      "text": "Blast 'em, Gust the Backblast!"
+    },
+    "V0221_19_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8013
+      ],
+      "duelist": [],
+      "text": "Sirocco the Dawn! Attack!"
+    },
+    "V0221_19_00_14_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Dark Wing Slash!"
+    },
+    "V0221_19_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9093
+      ],
+      "duelist": [],
+      "text": "Attack, Aurora the Northern Lights!"
+    },
+    "V0221_19_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8162
+      ],
+      "duelist": [],
+      "text": "Freeze 'em, Blizzard the Far North!"
+    },
+    "V0221_19_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10303
+      ],
+      "duelist": [],
+      "text": "Damascus the Polar Night! Attack!"
+    },
+    "V0221_19_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8295
+      ],
+      "duelist": [],
+      "text": "Mistral the Silver Shield attacks!"
+    },
+    "V0221_19_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9094
+      ],
+      "duelist": [],
+      "text": "Shake 'em up, Abrolhos the Megaquake!"
+    },
+    "V0221_19_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8164
+      ],
+      "duelist": [],
+      "text": "Strike 'em, Kalut the Moon Shadow!"
+    },
+    "V0221_19_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8476
+      ],
+      "duelist": [],
+      "text": "Silverwind the Ascendant attacks!"
+    },
+    "V0221_19_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8012
+      ],
+      "duelist": [],
+      "text": "Bora the Spear! Attack!"
+    },
+    "V0221_19_00_22_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Spiraling Spear!"
+    },
+    "V0221_19_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12122
+      ],
+      "duelist": [],
+      "text": "Harmattan the Dust attacks!"
+    },
+    "V0221_19_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9460
+      ],
+      "duelist": [],
+      "text": "Kris the Crack of Dawn! Attack!"
+    },
+    "V0221_19_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8165
+      ],
+      "duelist": [],
+      "text": "Attack, Elphin the Raven!"
+    },
+    "V0221_19_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8011
+      ],
+      "duelist": [],
+      "text": "Attack, Gale the Whirlwind!"
+    },
+    "V0221_19_00_26_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Black Scratch!"
+    },
+    "V0221_19_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9459
+      ],
+      "duelist": [],
+      "text": "My Pinaki the Waxing Moon attacks!"
+    },
+    "V0221_19_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11649
+      ],
+      "duelist": [],
+      "text": "Nothung the Starlight! Attack!"
+    },
+    "V0221_19_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9244
+      ],
+      "duelist": [],
+      "text": "Attack, Zephyros the Elite!"
+    },
+    "V0221_19_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9298
+      ],
+      "duelist": [],
+      "text": "Boreas the Sharp attacks!"
+    },
+    "V0221_19_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8163
+      ],
+      "duelist": [],
+      "text": "Shura the Blue Flame! Attack!"
+    },
+    "V0221_19_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9243
+      ],
+      "duelist": [],
+      "text": "Jetstream the Blue Sky attacks!"
+    },
+    "V0221_19_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8296
+      ],
+      "duelist": [],
+      "text": "Attack, Vayu the Emblem of Honor!"
+    },
+    "V0221_19_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12289
+      ],
+      "duelist": [],
+      "text": "Decay the Ill Wind! Attack!"
+    },
+    "V0221_19_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9299
+      ],
+      "duelist": [],
+      "text": "Go, Brisote the Tailwind! Attack!"
+    },
+    "V0221_19_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8297
+      ],
+      "duelist": [],
+      "text": "Go get 'em, Fane the Steel Chain!"
+    },
+    "V0221_19_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9479
+      ],
+      "duelist": [],
+      "text": "Hillen the Tengu-wind! Attack!"
+    },
+    "V0221_19_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9242
+      ],
+      "duelist": [],
+      "text": "Kochi the Daybreak attacks!"
+    },
+    "V0221_19_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11172
+      ],
+      "duelist": [],
+      "text": "Attack, Oroshi the Squall!"
+    },
+    "V0221_19_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9092
+      ],
+      "duelist": [],
+      "text": "Etesian of Two Swords! Attack!"
+    },
+    "V0221_19_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8777
+      ],
+      "duelist": [],
+      "text": "Ghibli the Searing Wind!\nSend 'em flying!"
+    },
+    "V0221_19_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9461
+      ],
+      "duelist": [],
+      "text": "Gladius the Midnight Sun! Attack!"
+    },
+    "V0221_19_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9300
+      ],
+      "duelist": [],
+      "text": "Calima the Haze attacks!"
+    },
+    "V0221_19_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9480
+      ],
+      "duelist": [],
+      "text": "Kogarashi the Wanderer! Attack!"
+    },
+    "V0221_19_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11174
+      ],
+      "duelist": [],
+      "text": "Hurricane the Tornado attacks!"
+    },
+    "V0221_19_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        12412
+      ],
+      "duelist": [],
+      "text": "Attack, Gofu the Vague Shadow!"
+    },
+    "V0221_19_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9464
+      ],
+      "duelist": [],
+      "text": "Attack, Gram the Shining Star!"
+    },
+    "V0221_19_00_47_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Crescent Slice!"
+    },
+    "V0221_19_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6980
+      ],
+      "duelist": [],
+      "text": "D.D. Crow! Attack!"
+    },
+    "V0221_19_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4583
+      ],
+      "duelist": [],
+      "text": "Crow Goblin! Attack!"
+    },
+    "V0221_19_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8815
+      ],
+      "duelist": [],
+      "text": "Attack, Black-Winged Dragon!"
+    },
+    "V0221_19_00_50_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Shadow Squall Blast!"
+    },
+    "V0221_19_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11012
+      ],
+      "duelist": [],
+      "text": "Fly with fury, Blackfeather Darkrage Dragon!"
+    },
+    "V0221_19_00_51_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Black Rage Entry!"
+    },
+    "V0221_19_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "Full Armor Master attacks!"
+    },
+    "V0221_19_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13853
+      ],
+      "duelist": [],
+      "text": "Simoon the Poison Wind attacks!"
+    },
+    "V0221_19_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "Auster the South Wind attacks!"
+    },
+    "V0221_20_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Set a card!"
+    },
+    "V0221_20_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I'm Setting a card!"
+    },
+    "V0221_20_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Set a monster!"
+    },
+    "V0221_20_01_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I'm Setting a monster!"
+    },
+    "V0221_21_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I end my turn!"
+    },
+    "V0221_21_00_00_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Now whattaya got!"
+    },
+    "V0221_21_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I end my turn!"
+    },
+    "V0221_21_00_02_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Argh! This isn't good!"
+    },
+    "V0221_21_00_02_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I end my turn!"
+    },
+    "V0221_31_00_00_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "W-What?!?"
+    },
+    "V0221_31_00_01_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Is this for real?"
+    },
+    "V0221_32_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Yu-Gi-Oh! Duel Links"
+    },
+    "V0221_32_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Yu-Gi-Oh! Duel Links!\nLet's ride!"
+    },
+    "V0221_36_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "You can end this!"
+    },
+    "V0221_36_00_01_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "It's up to you now!"
+    },
+    "V0221_36_00_02_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Sorry... But I know you can turn this around!"
+    },
+    "V0221_22_00_00_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Argh..."
+    },
+    "V0221_22_00_01_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ahhh!"
+    },
+    "V0221_22_00_02_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ergh!"
+    },
+    "V0221_26_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "That all you got?"
+    },
+    "V0221_26_00_01_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Heh!"
+    },
+    "V0221_26_00_02_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Not bad!"
+    },
+    "V0221_25_00_00_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ahhhhhh!"
+    },
+    "V0221_25_00_01_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Urgh...."
+    },
+    "V0221_25_00_02_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Oooof!"
+    },
+    "V0221_27_00_00_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "It's not over yet!"
+    },
+    "V0221_27_00_01_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "This was nothing!"
+    },
+    "V0221_27_00_02_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I can handle this!"
+    },
+    "V0221_24_00_00_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Erggghhh..."
+    },
+    "V0221_23_00_00_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 3,
+      "card": [],
+      "duelist": [],
+      "text": "Ahhhhhhhhhhhh!"
+    },
+    "V0221_38_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ready... Set... Duel!"
+    },
+    "V0221_01_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "The Enforcers are here to rumble!"
+    },
+    "V0221_01_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "No better time to Duel than now!"
+    },
+    "V0221_01_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I'm more than happy to take you down!"
+    },
+    "V0221_01_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Let's see if you're a Duelist worth fighting!"
+    },
+    "V0221_01_00_04_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        219,
+        220,
+        222
+      ],
+      "text": "I go tougher on my teammates than on anyone else!"
+    },
+    "V0221_02_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Duel!"
+    },
+    "V0221_03_00_05_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I'm still gonna blast ya to bits!"
+    },
+    "V0221_03_00_05_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "It's my turn!"
+    },
+    "V0221_05_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "I've been holding back!\nBut I won't anymore!"
+    },
+    "V0221_05_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "I drawww!"
+    },
+    "V0221_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I activate a Pendulum Effect!"
+    },
+    "V0221_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I activate a Ritual Spell!"
+    },
+    "V0221_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tribute Summon!"
+    },
+    "V0221_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fusion Summon!"
+    },
+    "V0221_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ritual Summon!"
+    },
+    "V0221_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Summon!"
+    },
+    "V0221_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Xyz Summon!"
+    },
+    "V0221_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pendulum Summon!"
+    },
+    "V0221_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Link Summon!"
+    },
+    "V0221_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Maximum Summon a monster!"
+    },
+    "V0221_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Maximum Summon!"
+    },
+    "V0221_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Fusion Summon a monster!"
+    },
+    "V0221_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fusion Summon!"
+    },
+    "V0221_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Contact Fusion a monster!"
+    },
+    "V0221_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Contact Fusion!"
+    },
+    "V0221_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I Ritual Summon a monster!"
+    },
+    "V0221_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ritual Summon!"
+    },
+    "V0221_21_00_03_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Nothing you do will keep me from winning!"
+    },
+    "V0221_21_00_03_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I end my turn!"
+    },
+    "V0221_21_00_04_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "That ends my turn!"
+    },
+    "V0221_21_00_05_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Losing is not on my agenda!"
+    },
+    "V0221_21_00_05_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I end my turn!"
+    },
+    "V0221_28_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "This is how The Enforcers Duel!\nPretty fun, right?"
+    },
+    "V0221_28_00_01_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I'm the one Duelist you should never take for granted!"
+    },
+    "V0221_28_00_02_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "You need to leave...\nYou heard me! Get goin!"
+    },
+    "V0221_28_00_03_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        219,
+        220,
+        222
+      ],
+      "text": "You're gonna hurt The Enforcers' rep Dueling like that!"
+    },
+    "V0221_29_00_00_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "This is definitely a setback.\nBut we'll come back stronger!"
+    },
+    "V0221_29_00_01_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I can't show my face around here anymore..."
+    },
+    "V0221_29_00_02_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Even I'm not happy with how I Dueled!"
+    },
+    "V0221_29_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        219,
+        220,
+        222
+      ],
+      "text": "Heh.\nYou got me good this time, but it won't happen again!"
+    },
+    "V0221_33_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "You've never seen anyone Duel like The Enforcers!"
+    },
+    "V0221_33_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "I'm runnin' on all cylinders!"
+    },
+    "V0221_33_00_02_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "You can't escape me!"
+    },
+    "V0221_34_00_00_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I'm now ready to blast ya!"
+    },
+    "V0221_34_00_01_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "My crew will soon be here to rumble!"
+    },
+    "V0221_34_00_02_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "My Duel Disk is specially made.\nPretty cool, right?"
+    },
+    "V0221_34_00_03_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "That's a dirty trick!"
+    },
+    "V0221_34_00_04_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Is this what we were Dueling for?"
+    },
+    "V0221_34_00_05_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Get your hands off me! I can't take it anymore!"
+    },
+    "V0221_34_00_06_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "We're turning into the very thugs we tried to get rid of!"
+    },
+    "V0221_34_00_07_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I want out!"
+    },
+    "V0221_34_00_08_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "There's no way we can take down Sector Security!"
+    },
+    "V0221_35_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "The Enforcers are here to bring peace to the streets!"
+    },
+    "V0221_35_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Did I hear someone talking about The Enforcers?"
+    },
+    "V0221_36_00_03_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        219,
+        220,
+        222
+      ],
+      "text": "The Enforcers are the ones who are gonna win this Duel!"
+    },
+    "V0221_36_00_04_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        219,
+        220,
+        222
+      ],
+      "text": "Don't mess up!"
+    },
+    "V0221_36_00_05_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        219,
+        220,
+        222
+      ],
+      "text": "It's not over yet! By far!"
+    },
+    "V0221_36_00_09_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        213
+      ],
+      "text": "You got this, Kalin!"
+    },
+    "V0221_08_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17807
+      ],
+      "duelist": [],
+      "text": "I activate my Continuous Spell!\nBlack Feather Whirlwind!"
+    },
+    "V0221_08_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17807
+      ],
+      "duelist": [],
+      "text": "Black Feather Whirlwind's effect activates!"
+    },
+    "V0221_08_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14347
+      ],
+      "duelist": [],
+      "text": "I activate my Quick-Play Spell!\nSynchro Transcend!"
+    },
+    "V0221_08_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19743
+      ],
+      "duelist": [],
+      "text": "I activate the Spell Card, Synchro Creed!"
+    },
+    "V0221_08_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13855
+      ],
+      "duelist": [],
+      "text": "I activate my Equip Spell!\nGlowing Crossbow!"
+    },
+    "V0221_08_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13855
+      ],
+      "duelist": [],
+      "text": "Glowing Crossbow's effect activates!"
+    },
+    "V0221_08_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13855
+      ],
+      "duelist": [],
+      "text": "Synchro Summoning activates Glowing Crossbow's effect!"
+    },
+    "V0221_08_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17826
+      ],
+      "duelist": [],
+      "text": "I activate my  Trap!\nBlackwing - Twin Shadow!"
+    },
+    "V0221_08_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17827
+      ],
+      "duelist": [],
+      "text": "I activate my Counter Trap!\nBlack Shadow Squall!"
+    },
+    "V0221_08_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17827
+      ],
+      "duelist": [],
+      "text": "I activate Black Shadow Squall's effect from my Graveyard!"
+    },
+    "V0221_08_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13856
+      ],
+      "duelist": [],
+      "text": "I activate my Counter Trap!\nBlackbird Close!"
+    },
+    "V0221_08_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4887
+      ],
+      "duelist": [],
+      "text": "I activate my Trap!\nMirror Force!"
+    },
+    "V0221_09_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Special Summoning Crimson Dragon activates its effect!"
+    },
+    "V0221_09_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "I activate Crimson Dragon's effect!"
+    },
+    "V0221_09_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22722
+      ],
+      "duelist": [],
+      "text": "By Synchro Summoning Quetzalcoatl, I can use this effect!"
+    },
+    "V0221_09_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22722
+      ],
+      "duelist": [],
+      "text": "I activate Crimson Dragon Quetzalcoatl's effect!"
+    },
+    "V0221_09_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17797
+      ],
+      "duelist": [],
+      "text": "My Black-Winged Assault Dragon has at least 4 Counters!"
+    },
+    "V0221_09_00_53_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I'll Tribute it to destroy every card on the field!"
+    },
+    "V0221_09_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "Blackwing Full Armor Master activates its effect!"
+    },
+    "V0221_09_00_54_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "I'm taking control of your monster!"
+    },
+    "V0221_09_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "I activate Full Armor Master's effect during the End Phase!"
+    },
+    "V0221_09_00_55_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "It destroys every monster with a Wedge Counter!"
+    },
+    "V0221_09_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13853
+      ],
+      "duelist": [],
+      "text": "I activate Simoon the Poison Wind's effect!"
+    },
+    "V0221_09_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17798
+      ],
+      "duelist": [],
+      "text": "I can use Boreastorm's effect when it's Synchro Summoned!"
+    },
+    "V0221_09_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17798
+      ],
+      "duelist": [],
+      "text": "Boreastorm's effect activates when it's destroyed in battle!"
+    },
+    "V0221_09_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17761
+      ],
+      "duelist": [],
+      "text": "Zonda the Dusk activates its effect when it's Summoned!"
+    },
+    "V0221_09_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17761
+      ],
+      "duelist": [],
+      "text": "I banish Zonda from my Graveyard to activate its effect!"
+    },
+    "V0221_09_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17760
+      ],
+      "duelist": [],
+      "text": "Summoning Sudri lets me activate its effect!"
+    },
+    "V0221_09_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17760
+      ],
+      "duelist": [],
+      "text": "I activate Sudri the Phantom Glimmer's effect!"
+    },
+    "V0221_09_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17758
+      ],
+      "duelist": [],
+      "text": "I send Shamal to the Graveyard to activate its effect!"
+    },
+    "V0221_09_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17758
+      ],
+      "duelist": [],
+      "text": "I banish Shamal from the Graveyard to activate its effect!"
+    },
+    "V0221_09_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "Summoning Auster the South Wind activates its effect!"
+    },
+    "V0221_09_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "I banish Auster the South Wind from the Graveyard!"
+    },
+    "V0221_09_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17759
+      ],
+      "duelist": [],
+      "text": "I send Chinook to the Graveyard to activate its effect!"
+    },
+    "V0221_09_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17757
+      ],
+      "duelist": [],
+      "text": "I activate Vata the Emblem of Wandering's effect!"
+    },
+    "V0221_09_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "I activate Shining Star Dragon's effect from my hand!"
+    },
+    "V0221_13_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Crimson Dragon!\nHelp me out!"
+    },
+    "V0221_13_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22722
+      ],
+      "duelist": [],
+      "text": "Crimson Dragon Quetzalcoatl!"
+    },
+    "V0221_37_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17797
+      ],
+      "duelist": [],
+      "text": "The black gale manifests its pride upon its wings!"
+    },
+    "V0221_13_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        17797
+      ],
+      "duelist": [],
+      "text": "I unleash Black-Winged Assault Dragon!"
+    },
+    "V0221_13_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "Blackwing Full Armor Master!"
+    },
+    "V0221_37_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22713
+      ],
+      "duelist": [],
+      "text": "I call forth the harbinger of disaster!"
+    },
+    "V0221_37_00_13_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Summon!"
+    },
+    "V0221_13_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22713
+      ],
+      "duelist": [],
+      "text": "Here comes Assault Blackwing - Kusanagi the Gathering Storm!"
+    },
+    "V0221_13_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13853
+      ],
+      "duelist": [],
+      "text": "Blackwing - Simoon the Poison Wind!"
+    },
+    "V0221_13_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        17798
+      ],
+      "duelist": [],
+      "text": "My Synchro Tuner!\nBlackwing - Boreastorm the Wicked Wind!"
+    },
+    "V0221_13_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17761
+      ],
+      "duelist": [],
+      "text": "Blackwing - Zonda the Dusk!"
+    },
+    "V0221_13_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17760
+      ],
+      "duelist": [],
+      "text": "Blackwing - Sudri the Phantom Glimmer!"
+    },
+    "V0221_13_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17758
+      ],
+      "duelist": [],
+      "text": "Here's my Tuner Monster!\nBlackwing - Shamal the Sandstorm!"
+    },
+    "V0221_13_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "The Tuner Monster, Blackwing - Auster the South Wind!"
+    },
+    "V0221_13_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17759
+      ],
+      "duelist": [],
+      "text": "Blackwing - Chinook the Snow Blast!"
+    },
+    "V0221_13_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17757
+      ],
+      "duelist": [],
+      "text": "My Tuner Monster, Blackwing - Vata the Emblem of Wandering!"
+    },
+    "V0221_13_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "The Tuner Monster, Shining Star Dragon!"
+    },
+    "V0221_13_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17836
+      ],
+      "duelist": [],
+      "text": "I Special Summon a Phantom Glimmer Token!"
+    },
+    "V0221_13_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3996
+      ],
+      "duelist": [],
+      "text": "I Special Summon a Vague Shadow Token!"
+    },
+    "V0221_13_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3985
+      ],
+      "duelist": [],
+      "text": "I Special Summon a Steam Token!"
+    },
+    "V0221_19_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Crimson Dragon!\nAttack!"
+    },
+    "V0221_19_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22722
+      ],
+      "duelist": [],
+      "text": "Crimson Dragon Quetzalcoatl!\nAttack!"
+    },
+    "V0221_19_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17797
+      ],
+      "duelist": [],
+      "text": "Black-Winged Assault Dragon!\nAttack!"
+    },
+    "V0221_19_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "Attack, Full Armor Master!"
+    },
+    "V0221_19_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22713
+      ],
+      "duelist": [],
+      "text": "Kusanagi the Gathering Storm!\nAttack!"
+    },
+    "V0221_19_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13853
+      ],
+      "duelist": [],
+      "text": "Simoon the Poison Wind attacks!"
+    },
+    "V0221_19_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17798
+      ],
+      "duelist": [],
+      "text": "Boreastorm the Wicked Wind!\nAttack!"
+    },
+    "V0221_19_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17761
+      ],
+      "duelist": [],
+      "text": "Zonda the Dusk!\nAttack!"
+    },
+    "V0221_19_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17760
+      ],
+      "duelist": [],
+      "text": "Sudri the Phantom Glimmer!\nAttack!"
+    },
+    "V0221_19_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17758
+      ],
+      "duelist": [],
+      "text": "Attack, Shamal the Sandstorm!"
+    },
+    "V0221_19_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "Auster the South Wind!\nAttack!"
+    },
+    "V0221_19_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17759
+      ],
+      "duelist": [],
+      "text": "Chinook the Snow Blast!\nAttack!"
+    },
+    "V0221_19_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17757
+      ],
+      "duelist": [],
+      "text": "Vata the Emblem of Wandering!\nAttack!"
+    },
+    "V0221_19_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "Attack, Shining Star Dragon!"
+    },
+    "V0221_19_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17836
+      ],
+      "duelist": [],
+      "text": "My Phantom Glimmer Token attacks!"
+    },
+    "V0221_19_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3996
+      ],
+      "duelist": [],
+      "text": "My Vague Shadow Token attacks!"
+    },
+    "V0221_19_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3985
+      ],
+      "duelist": [],
+      "text": "I attack with my Steam Token!"
+    },
+    "V0221_48_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Oh yeah!"
+    },
+    "V0221_48_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Get ready for the rush!"
+    },
+    "V0221_51_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Crow Hogan!"
+    },
+    "V0221_51_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Go rush!"
+    },
+    "V0221_49_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "This is gonna be great!"
+    },
+    "V0221_49_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel!"
+    }
+  }
+}

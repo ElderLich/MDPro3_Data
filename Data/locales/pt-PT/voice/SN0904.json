@@ -1401,7 +1401,7 @@
         18980
       ],
       "duelist": [],
-      "text": "Protege contra as chamas furiosas!\nEquipo !"
+      "text": "Protege contra as chamas furiosas!\nEquipo Mortalha de Voidvelg!"
     },
     "V0904_08_00_02_0": {
       "face": 3,
@@ -1537,7 +1537,7 @@
         18641
       ],
       "duelist": [],
-      "text": "Ativo minha Armadilha!\nNebulosa das Trevas!"
+      "text": "Ativo minha Armadilha!\nNébula das Trevas!"
     },
     "V0904_08_00_14_0": {
       "face": 3,
@@ -1649,7 +1649,7 @@
         18937
       ],
       "duelist": [],
-      "text": "Ativo o efeito de Chrysaor Voidvelg!"
+      "text": "Ativo o efeito de Chrysaor de Voidvelg!"
     },
     "V0904_09_00_05_1": {
       "face": 3,
@@ -1664,10 +1664,10 @@
       "frame": 1,
       "cutin": 0,
       "card": [
-        19454
+        17990
       ],
       "duelist": [],
-      "text": "Voidvelg Transi ativa seu efeito!"
+      "text": "Transi de Voidvelg ativa seu efeito!"
     },
     "V0904_09_00_06_1": {
       "face": 3,
@@ -1721,7 +1721,7 @@
         18376
       ],
       "duelist": [],
-      "text": "Ativo meus efeitos de Apocalipse Voidvelg!"
+      "text": "Ativo meus efeitos de Apocalipse de Voidvelg!"
     },
     "V0904_09_00_09_1": {
       "face": 3,
@@ -1739,7 +1739,7 @@
         19763
       ],
       "duelist": [],
-      "text": "Ativo o efeito de Voidwerg Caosmachia!"
+      "text": "Ativo o efeito de Caosmaquia de Voidvelg!"
     },
     "V0904_09_00_11_0": {
       "face": 3,
@@ -1749,7 +1749,7 @@
         18969
       ],
       "duelist": [],
-      "text": "Ativo o efeito de Gigantomachia Voidwerg!"
+      "text": "Ativo o efeito de Gigantomachia de Voidvelg!"
     },
     "V0904_09_00_12_0": {
       "face": 3,
@@ -1799,7 +1799,7 @@
         18590
       ],
       "duelist": [],
-      "text": "Catafract Voidvelg ativa seu efeito!"
+      "text": "Catafract de Voidvelg ativa seu efeito!"
     },
     "V0904_09_00_17_0": {
       "face": 3,
@@ -1819,7 +1819,7 @@
         18935
       ],
       "duelist": [],
-      "text": "Ativo o efeito de Quíria Voidvelg!"
+      "text": "Ativo o efeito de Quíria de Voidvelg!"
     },
     "V0904_09_00_19_0": {
       "face": 3,
@@ -1939,17 +1939,17 @@
         18937
       ],
       "duelist": [],
-      "text": "Chrysaor Voidvelg!"
+      "text": "Chrysaor de Voidvelg!"
     },
     "V0904_13_00_04_0": {
       "face": 3,
       "frame": 1,
       "cutin": 2,
       "card": [
-        19454
+        17990
       ],
       "duelist": [],
-      "text": "Voidvelg Transi!"
+      "text": "Transi de Voidvelg!"
     },
     "V0904_37_00_03_0": {
       "face": 3,
@@ -1997,7 +1997,7 @@
         18376
       ],
       "duelist": [],
-      "text": "Apocalipse Voidvelg!"
+      "text": "Apocalipse de Voidvelg!"
     },
     "V0904_37_00_05_0": {
       "face": 3,
@@ -2025,7 +2025,7 @@
         18376
       ],
       "duelist": [],
-      "text": "Apocalipse Voidvelg!"
+      "text": "Apocalipse de Voidvelg!"
     },
     "V0904_37_00_06_0": {
       "face": 3,
@@ -2045,7 +2045,7 @@
         19763
       ],
       "duelist": [],
-      "text": "Voidwerg Caosmachia!"
+      "text": "Caosmaquia de Voidvelg!"
     },
     "V0904_37_00_07_0": {
       "face": 3,
@@ -2073,7 +2073,7 @@
         18969
       ],
       "duelist": [],
-      "text": "Gigantomachia Voidwerg!"
+      "text": "Gigantomachia de Voidvelg!"
     },
     "V0904_13_00_10_0": {
       "face": 3,
@@ -2123,7 +2123,7 @@
         18590
       ],
       "duelist": [],
-      "text": "Catafract Voidvelg!"
+      "text": "Catafract de Voidvelg!"
     },
     "V0904_13_00_15_0": {
       "face": 3,
@@ -2163,7 +2163,7 @@
         18935
       ],
       "duelist": [],
-      "text": "Quíria Voidvelg!"
+      "text": "Quíria de Voidvelg!"
     },
     "V0904_13_00_19_0": {
       "face": 3,
@@ -2315,17 +2315,17 @@
         18937
       ],
       "duelist": [],
-      "text": "Chrysaor Voidvelg!\nAtacar!"
+      "text": "Chrysaor de Voidvelg!\nAtacar!"
     },
     "V0904_19_00_05_0": {
       "face": 3,
       "frame": 1,
       "cutin": 0,
       "card": [
-        19454
+        17990
       ],
       "duelist": [],
-      "text": "Ataque, Voidvelg Transi!"
+      "text": "Ataque, Transi de Voidvelg!"
     },
     "V0904_19_00_05_1": {
       "face": 3,
@@ -2353,7 +2353,7 @@
         18376
       ],
       "duelist": [],
-      "text": "Apocalipse Voidvelg!\nSeu ataque sinalizará o fim deles!"
+      "text": "Apocalipse de Voidvelg!\nSeu ataque sinalizará o fim deles!"
     },
     "V0904_19_00_07_1": {
       "face": 3,
@@ -2379,7 +2379,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [],
-      "text": "Apocalipse Voidvelg!\nAcabe com eles!"
+      "text": "Apocalipse de Voidvelg!\nAcabe com eles!"
     },
     "V0904_19_00_08_2": {
       "face": 3,
@@ -2397,7 +2397,7 @@
         19763
       ],
       "duelist": [],
-      "text": "Voidwerg Caosmachia!\nAtacar!"
+      "text": "Caosmaquia de Voidvelg!\nAtacar!"
     },
     "V0904_19_00_09_1": {
       "face": 3,
@@ -2415,7 +2415,7 @@
         18969
       ],
       "duelist": [],
-      "text": "Ataque, Gigantomachia Voidwerg!"
+      "text": "Ataque, Gigantomachia de Voidvelg!"
     },
     "V0904_19_00_10_1": {
       "face": 3,
@@ -2433,7 +2433,7 @@
         18969
       ],
       "duelist": [],
-      "text": "Gigantomachia Voidwerg ataca novamente!"
+      "text": "Gigantomachia de Voidvelg ataca novamente!"
     },
     "V0904_19_00_11_1": {
       "face": 3,
@@ -2451,7 +2451,7 @@
         18969
       ],
       "duelist": [],
-      "text": "Gigantomachia Voidwerg ataca pela segunda vez!"
+      "text": "Gigantomachia de Voidvelg ataca pela segunda vez!"
     },
     "V0904_19_00_12_1": {
       "face": 3,
@@ -2509,7 +2509,7 @@
         18590
       ],
       "duelist": [],
-      "text": "Catafract Voidvelg!\nAtacar!"
+      "text": "Catafract de Voidvelg!\nAtacar!"
     },
     "V0904_19_00_18_0": {
       "face": 3,
@@ -2549,7 +2549,7 @@
         18935
       ],
       "duelist": [],
-      "text": "Ataque, Quíria Voidvelg!"
+      "text": "Ataque, Quíria de Voidvelg!"
     },
     "V0904_19_00_22_0": {
       "face": 3,

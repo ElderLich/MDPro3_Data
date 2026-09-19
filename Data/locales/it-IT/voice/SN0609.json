@@ -104,7 +104,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Il tuo duellare ha incantato me e giocatori da ogni dove."
     },
@@ -124,7 +126,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Se vuoi duellare con me, non mi tirerò indietro."
     },
@@ -1134,7 +1137,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "È stato un onore sfidarti nell'ultimo Duello della tua vita."
     },
@@ -1144,7 +1149,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Sei qui per salvarmi, ma non hai potuto salvare nemmeno te."
     },
@@ -1154,7 +1161,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Non sono così idiota da legare la mia vita a una favola!"
     },
@@ -1164,7 +1173,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "A differenza delle fiabe, la vita non ha un lieto fine."
     },
@@ -1200,7 +1211,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Un Duellante riceve la gloria, l'altro la miseria."
     },
@@ -1218,7 +1231,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Ti chiami Blue Angel perché ti senti sempre blu... cioè giù?"
     },
@@ -1238,7 +1253,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Tutto ciò che faccio lo faccio per te, Maestro Varis."
     },
@@ -1248,7 +1264,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Mi hai dato una casa, Maestro Varis.\nNon ti tradirò mai."
     },
@@ -1364,7 +1381,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Non finisci mai di stupirmi, Maestro Varis."
     },
@@ -1654,7 +1672,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Sono certo terminerai questo Duello, Maestro Varis."
     },
@@ -1664,7 +1683,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Tocca a te, Maestro Varis."
     },
@@ -1674,7 +1694,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Perdonami, Maestro Varis..."
     },

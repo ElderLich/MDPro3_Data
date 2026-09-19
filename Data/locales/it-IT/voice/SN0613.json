@@ -1,0 +1,3215 @@
+{
+  "_GRP_": "SN0613",
+  "_LNG_": "it-IT",
+  "info": {
+    "V0613_01_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Guarda il mio nuovo e migliorato Deck Truccastella!"
+    },
+    "V0613_01_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Il mio Deck non è mai stato tanto forte!\nSarò io a vincere questo Duello!"
+    },
+    "V0613_01_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Certo.\nFatti sotto!"
+    },
+    "V0613_01_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ho dovuto guardarmi dentro per scoprire come migliorare!"
+    },
+    "V0613_01_00_07_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        610
+      ],
+      "text": "Questa è la mia versione migliore, Fanciulla Fantasma!"
+    },
+    "V0613_01_00_08_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        608
+      ],
+      "text": "Akira!\nDivento più forte, giorno dopo giorno, Duello dopo Duello!"
+    },
+    "V0613_02_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Duelliamo!"
+    },
+    "V0613_03_00_00_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "È qui che passo definitivamente in testa!"
+    },
+    "V0613_03_00_00_1": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "È il mio turno!"
+    },
+    "V0613_03_00_01_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Non mi fermerò!"
+    },
+    "V0613_03_00_01_1": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tocca a me!"
+    },
+    "V0613_04_00_00_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pesco!"
+    },
+    "V0613_03_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ci siamo!"
+    },
+    "V0613_03_00_02_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "È il mio turno!"
+    },
+    "V0613_03_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ora tocca a me!"
+    },
+    "V0613_04_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pesco!"
+    },
+    "V0613_03_00_04_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Argh...\nDevo ridurre al minimo i danni!"
+    },
+    "V0613_03_00_04_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "È il mio turno!"
+    },
+    "V0613_03_00_05_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Posso restituire colpo su colpo!"
+    },
+    "V0613_03_00_05_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tocca a me!"
+    },
+    "V0613_04_00_02_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pesco!"
+    },
+    "V0613_05_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Non mi arrendo!\nAnzi, ho appena iniziato!"
+    },
+    "V0613_05_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Peeescooo!"
+    },
+    "V0613_06_01_00_0": {
+      "face": 1,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Stai a guardare!"
+    },
+    "V0613_06_01_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Non te lo permetterò!"
+    },
+    "V0613_06_01_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Non è ancora finita!"
+    },
+    "V0613_07_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Dalla mia mano..."
+    },
+    "V0613_07_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo una Carta Magia!"
+    },
+    "V0613_07_02_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo una Magia Rapida!"
+    },
+    "V0613_07_03_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo una Carta Magia Continua!"
+    },
+    "V0613_07_04_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo una Magia Equipaggiamento!"
+    },
+    "V0613_07_05_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo una Magia Rituale!"
+    },
+    "V0613_07_06_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo la mia Trappola!"
+    },
+    "V0613_07_07_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo una Trappola Continua!"
+    },
+    "V0613_07_08_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo una Contro-Trappola!"
+    },
+    "V0613_07_09_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Scopro la mia carta Posizionata!"
+    },
+    "V0613_07_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ora gioco la carta che ho Posizionato!"
+    },
+    "V0613_07_10_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo l'effetto del mio mostro!"
+    },
+    "V0613_07_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo una Magia Terreno!"
+    },
+    "V0613_07_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo un effetto!"
+    },
+    "V0613_07_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Imposto il Valore Pendulum!"
+    },
+    "V0613_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo un Effetto Pendulum!"
+    },
+    "V0613_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo una Magia Rituale!"
+    },
+    "V0613_10_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Forza!"
+    },
+    "V0613_10_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fatti vedere!"
+    },
+    "V0613_10_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mostrati!"
+    },
+    "V0613_10_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Sorgi!"
+    },
+    "V0613_11_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco un mostro!"
+    },
+    "V0613_11_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco un mostro in Posizione di Difesa!"
+    },
+    "V0613_11_02_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco Specialmente un mostro!"
+    },
+    "V0613_11_03_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Offro un mostro come Tributo!"
+    },
+    "V0613_11_04_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco un mostro tramite Tributo!"
+    },
+    "V0613_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Tributo!"
+    },
+    "V0613_11_05_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco un mostro tramite Fusione!"
+    },
+    "V0613_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Fusione!"
+    },
+    "V0613_11_06_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco un mostro tramite Rituale!"
+    },
+    "V0613_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Rituale!"
+    },
+    "V0613_11_07_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Evoco un mostro!"
+    },
+    "V0613_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Unisco i miei mostri!"
+    },
+    "V0613_11_07_01_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Evocazione!"
+    },
+    "V0613_11_08_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco Xyz un mostro!"
+    },
+    "V0613_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Costruisco la Rete di Sovrapposizioni!"
+    },
+    "V0613_11_08_01_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione Xyz!"
+    },
+    "V0613_11_09_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco Pendulum un mostro!"
+    },
+    "V0613_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione Pendulum!"
+    },
+    "V0613_11_10_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco Link un mostro!"
+    },
+    "V0613_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Creerò il circuito che trasforma i sogni in realtà!"
+    },
+    "V0613_11_10_01_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Posiziono i mostri nelle Frecce Link!\nCollego il circuito!"
+    },
+    "V0613_11_10_01_2": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione Link!"
+    },
+    "V0613_11_10_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Creerò il circuito che trasforma i sogni in realtà!"
+    },
+    "V0613_11_10_02_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione Link!"
+    },
+    "V0613_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco Maximum un mostro!"
+    },
+    "V0613_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione Maximum!"
+    },
+    "V0613_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco un mostro tramite Fusione!"
+    },
+    "V0613_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Fusione!"
+    },
+    "V0613_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco un mostro tramite Fusione Contatto!"
+    },
+    "V0613_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fusione Contatto!"
+    },
+    "V0613_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco un mostro tramite Rituale!"
+    },
+    "V0613_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Rituale!"
+    },
+    "V0613_14_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Combattiamo!"
+    },
+    "V0613_14_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "È ora della battaglia!"
+    },
+    "V0613_15_00_00_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Bene!"
+    },
+    "V0613_15_00_01_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ti sconfiggerò!"
+    },
+    "V0613_15_00_02_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Non mi sfuggirai!"
+    },
+    "V0613_17_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attacco con il mio mostro!"
+    },
+    "V0613_17_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Il mio mostro attacca!"
+    },
+    "V0613_17_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attacca!"
+    },
+    "V0613_16_00_00_0": {
+      "face": 11,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "È ora di sconfiggerti!"
+    },
+    "V0613_16_00_01_0": {
+      "face": 11,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Questo spazzerà via i tuoi ultimi LP!"
+    },
+    "V0613_18_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Il mio mostro ti attacca direttamente!"
+    },
+    "V0613_18_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attacco diretto!"
+    },
+    "V0613_20_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Posiziono una carta!"
+    },
+    "V0613_20_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Posizionerò una carta!"
+    },
+    "V0613_20_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Posiziono un mostro!"
+    },
+    "V0613_20_01_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Sto posizionando un mostro!"
+    },
+    "V0613_21_00_00_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Non ho potuto sconfiggerti in questo turno...\nMa lo farò nel prossimo!"
+    },
+    "V0613_21_00_00_1": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Termino il mio turno!"
+    },
+    "V0613_21_00_01_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ho ancora molti modi per neutralizzare il tuo Deck."
+    },
+    "V0613_21_00_01_1": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Sto per terminare il mio turno!"
+    },
+    "V0613_21_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Così si conclude il mio turno!"
+    },
+    "V0613_21_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Termino il mio turno!"
+    },
+    "V0613_21_00_04_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Hai molte mosse spettacolari..."
+    },
+    "V0613_21_00_04_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Termino il mio turno!"
+    },
+    "V0613_21_00_05_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Non posso prevedere la sua prossima mossa..."
+    },
+    "V0613_21_00_05_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Termino il mio turno!"
+    },
+    "V0613_28_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Devo diventare più forte perché mio fratello crede in me!"
+    },
+    "V0613_28_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Posso spingermi al limite perché so che non cederò!"
+    },
+    "V0613_28_00_02_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Sono arrivata fin qui grazie a tutti. Ora tocca a me!"
+    },
+    "V0613_28_00_03_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "So come compensare i punti deboli del mio Deck!"
+    },
+    "V0613_28_00_05_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        601,
+        607
+      ],
+      "text": "Hai aiutato me e mio fratello nel bene e nel male."
+    },
+    "V0613_28_00_05_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Grazie.\nDi tutto."
+    },
+    "V0613_28_00_06_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        608
+      ],
+      "text": "Diventerò più forte, così in futuro ti proteggerò io!"
+    },
+    "V0613_29_00_00_0": {
+      "face": 5,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Devo interrompere questa serie di sconfitte..."
+    },
+    "V0613_29_00_01_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Posso ancora rimontare!"
+    },
+    "V0613_29_00_02_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Rivedrò le mie tattiche per tornare più forte!"
+    },
+    "V0613_29_00_03_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Me l'hai fatta.\nMa ti prometto che avrò la mia rivincita!"
+    },
+    "V0613_29_00_06_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        612
+      ],
+      "text": "Ha appena dimostrato che IA e umani possono collaborare!"
+    },
+    "V0613_29_00_04_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        608
+      ],
+      "text": "Sei il migliore, Akira."
+    },
+    "V0613_29_00_05_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        610
+      ],
+      "text": "Sei brava nei Duelli e nell'hacking, Fanciulla Fantasma."
+    },
+    "V0613_31_00_00_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Come?!"
+    },
+    "V0613_31_00_01_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Accidenti!"
+    },
+    "V0613_33_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo la mia Abilità!"
+    },
+    "V0613_33_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Questo è il massimo della mia potenza!"
+    },
+    "V0613_33_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo la mia Abilità!"
+    },
+    "V0613_33_00_02_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Spettacolo Truccastella!"
+    },
+    "V0613_30_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "È così che mi chiami?"
+    },
+    "V0613_30_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Grazie per avermi protetta."
+    },
+    "V0613_30_00_02_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "La mia priorità è salvare chiunque incontri!"
+    },
+    "V0613_34_00_00_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Non avevo altra scelta!\nÈ stata un'emergenza!"
+    },
+    "V0613_34_00_01_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ti devo un favore. E ripago sempre i miei debiti!"
+    },
+    "V0613_34_00_02_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Comincerò io!"
+    },
+    "V0613_34_00_03_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Hai subito danni pur di ottenere il mostro che volevi."
+    },
+    "V0613_34_00_04_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ma subisci ancora dei danni!"
+    },
+    "V0613_34_00_05_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Il tuo stile di Duello è tutt'altro che discreto."
+    },
+    "V0613_34_00_06_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Non riesco proprio a capire questo Duellante..."
+    },
+    "V0613_34_00_07_0": {
+      "face": 4,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Eh?! Che sta succedendo?"
+    },
+    "V0613_34_00_08_0": {
+      "face": 13,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Scusa se ti ho fatto sprecare tempo."
+    },
+    "V0613_34_00_09_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Sigh...\nChe perdita di tempo."
+    },
+    "V0613_34_00_10_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Non è l'unica carta che ho per fermare il tuo Deck."
+    },
+    "V0613_34_00_11_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Volevo aiutare tutti, ma ero io ad aver bisogno di aiuto."
+    },
+    "V0613_34_00_12_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Non siamo davvero soli.\nPossiamo aiutarci a vicenda."
+    },
+    "V0613_35_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Il mio solito look non va bene per una missione segreta."
+    },
+    "V0613_35_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Non chiamarmi Blue Angel.\nIl mio nome è Blue Gal."
+    },
+    "V0613_36_00_00_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Non è ancora finita!\nNon abbassare la guardia!"
+    },
+    "V0613_36_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "È il tuo turno."
+    },
+    "V0613_36_00_04_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Non mi arrenderò mai...\nQuindi non dovresti farlo neppure tu!"
+    },
+    "V0613_36_00_08_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        610
+      ],
+      "text": "Pensaci tu, Fanciulla Fantasma!"
+    },
+    "V0613_36_00_09_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        608
+      ],
+      "text": "Tocca a te, Akira!"
+    },
+    "V0613_36_00_10_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        608
+      ],
+      "text": "Fai attenzione, Akira!"
+    },
+    "V0613_36_00_11_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        608
+      ],
+      "text": "Akira...\nTi proteggerò!"
+    },
+    "V0613_08_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13609
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Magia Rapida!\nTruccastella Bouquet!"
+    },
+    "V0613_08_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13608
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Magia Terreno!\nTruccastella Luce dell'Arena!"
+    },
+    "V0613_08_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13608
+      ],
+      "duelist": [],
+      "text": "Si attiva l'effetto di Truccastella Luce dell'Arena!"
+    },
+    "V0613_08_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13092
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Magia Terreno!\nTruccastella Luce del Palcoscenico!"
+    },
+    "V0613_08_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13092
+      ],
+      "duelist": [],
+      "text": "Si attiva l'effetto di Truccastella Luce del Palcoscenico!"
+    },
+    "V0613_08_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14787
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Carta Magia!\nFestival Truccastella!"
+    },
+    "V0613_08_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14136
+      ],
+      "duelist": [],
+      "text": "Attivo la Carta Magia Fusione Truccastella!"
+    },
+    "V0613_08_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14136
+      ],
+      "duelist": [],
+      "text": "Bandisco Fusione Truccastella dal mio Cimitero per usare il suo effetto!"
+    },
+    "V0613_08_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13513
+      ],
+      "duelist": [],
+      "text": "Attivo la Magia Equipaggiamento Truccastella Alloro Magico!"
+    },
+    "V0613_08_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13513
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Truccastella Alloro Magico!"
+    },
+    "V0613_08_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14135
+      ],
+      "duelist": [],
+      "text": "Attivo la Magia Terreno Truccastella Live sul Palcoscenico!"
+    },
+    "V0613_08_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14135
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Truccastella Live sul Palcoscenico!"
+    },
+    "V0613_08_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13107
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Carta Trappola!\nReincarnazione Truccastella!"
+    },
+    "V0613_08_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13107
+      ],
+      "duelist": [],
+      "text": "Bandisco Reincarnazione Truccastella dal mio Cimitero!"
+    },
+    "V0613_08_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17264
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Carta Magia!\nAngelo delle Lacrime Blu!"
+    },
+    "V0613_08_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17264
+      ],
+      "duelist": [],
+      "text": "Bandisco Angelo delle Lacrime Blu dal mio Cimitero per attivarla!"
+    },
+    "V0613_08_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14680
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Magia Terreno!\nOceano della Battaglia Marincipessa!"
+    },
+    "V0613_08_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14680
+      ],
+      "duelist": [],
+      "text": "Si attiva l'effetto di Oceano della Battaglia Marincipessa!"
+    },
+    "V0613_08_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17057
+      ],
+      "duelist": [],
+      "text": "Attivo la Carta Magia Tuffo Marincipessa!"
+    },
+    "V0613_08_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14694
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Trappola!\nNeve Marincipessa!"
+    },
+    "V0613_08_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14517
+      ],
+      "duelist": [],
+      "text": "Attivo la Trappola Corrente Marincipessa!"
+    },
+    "V0613_08_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17058
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Trappola!\nRicircolo Marincipessa!"
+    },
+    "V0613_08_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14516
+      ],
+      "duelist": [],
+      "text": "Attivo la Trappola Onda Marincipessa!"
+    },
+    "V0613_08_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14695
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Trappola, Cascata Marincipessa!"
+    },
+    "V0613_08_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17059
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Trappola!\nAnello di Bolle Marincipessa!"
+    },
+    "V0613_08_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17059
+      ],
+      "duelist": [],
+      "text": "Bandisco Anello di Bolle Marincipessa dal mio Cimitero per attivarla!"
+    },
+    "V0613_08_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20296
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Trappola!\nDiffusione Truccastella!"
+    },
+    "V0613_08_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20296
+      ],
+      "duelist": [],
+      "text": "Bandisco Diffusione Truccastella dal mio Cimitero per attivarla!"
+    },
+    "V0613_08_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20297
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Trappola!\nFanciulla delle Lacrime Blu!"
+    },
+    "V0613_08_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20297
+      ],
+      "duelist": [],
+      "text": "Bandisco Fanciulla delle Lacrime Blu dal mio Cimitero per attivarla!"
+    },
+    "V0613_09_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13083
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Truccastella Angelo Alcea!"
+    },
+    "V0613_09_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Benedizione di Alcea!"
+    },
+    "V0613_09_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13260
+      ],
+      "duelist": [],
+      "text": "Truccastella Gattostrella Nera attiva il suo effetto!"
+    },
+    "V0613_09_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13594
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Truccastella Delfinia!"
+    },
+    "V0613_09_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13343
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Truccastella Cuore Cremisi!"
+    },
+    "V0613_09_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13593
+      ],
+      "duelist": [],
+      "text": "Truccastella Fioritura attiva il suo effetto!"
+    },
+    "V0613_09_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13592
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Truccastella Monna Bella!"
+    },
+    "V0613_09_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14126
+      ],
+      "duelist": [],
+      "text": "Ed ecco l'effetto di Truccastella Divaridis!"
+    },
+    "V0613_09_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13512
+      ],
+      "duelist": [],
+      "text": "Truccastella Strega Digitale attiva il suo effetto!"
+    },
+    "V0613_09_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14110
+      ],
+      "duelist": [],
+      "text": "Si attiva l'effetto di Truccastella Chitarra Dolce Banda!"
+    },
+    "V0613_09_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13047
+      ],
+      "duelist": [],
+      "text": "Si attiva l'effetto di Truccastella Candina!"
+    },
+    "V0613_09_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13220
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Truccastella Narcibacio dalla mia mano!"
+    },
+    "V0613_09_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13561
+      ],
+      "duelist": [],
+      "text": "Ho usato Truccastella Belladonna per Evocare Link un Truccastella!"
+    },
+    "V0613_09_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13046
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Truccastella Lycoris dalla mia mano!"
+    },
+    "V0613_09_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13562
+      ],
+      "duelist": [],
+      "text": "Truccastella Mandragora si attiva quando va dalla mia mano al Cimitero!"
+    },
+    "V0613_09_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13562
+      ],
+      "duelist": [],
+      "text": "Ho usato Truccastella Mandragora per Evocare Link un Truccastella!"
+    },
+    "V0613_09_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13045
+      ],
+      "duelist": [],
+      "text": "Aggiungendo Truccastella Gigliocampana alla mano, si attiva il suo effetto!"
+    },
+    "V0613_09_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13045
+      ],
+      "duelist": [],
+      "text": "Truccastella Gigliocampana attiva il suo effetto!"
+    },
+    "V0613_09_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13563
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Truccastella Rodode!"
+    },
+    "V0613_09_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13555
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Truccastella Cicuta dalla mia mano!"
+    },
+    "V0613_09_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13555
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Truccastella Cicuta!"
+    },
+    "V0613_09_00_20_0": {
+      "face": 10,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13221
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Angelo Oscuro dalla mia mano!"
+    },
+    "V0613_09_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17056
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Marincipessa Acqua Argonauta!"
+    },
+    "V0613_09_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14667
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Marincipessa Cuore di Cristallo!"
+    },
+    "V0613_09_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15040
+      ],
+      "duelist": [],
+      "text": "Grazie all'effetto di Marincipessa Scogliera Grande Bolla, pesco una carta!"
+    },
+    "V0613_09_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15040
+      ],
+      "duelist": [],
+      "text": "Quando un mostro viene bandito, Marincipessa Scogliera Grande Bolla guadagna ATK!"
+    },
+    "V0613_09_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15040
+      ],
+      "duelist": [],
+      "text": "Scarto un mostro ACQUA per usare l'effetto di Marincipessa Scogliera Grande Bolla!"
+    },
+    "V0613_09_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14489
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Marincipessa Anemone Corallo!"
+    },
+    "V0613_09_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17055
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Marincipessa Triangolo Corallino!"
+    },
+    "V0613_09_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17055
+      ],
+      "duelist": [],
+      "text": "Bandisco Marincipessa Triangolo Corallino dal mio Cimitero per usare il suo effetto!"
+    },
+    "V0613_09_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14669
+      ],
+      "duelist": [],
+      "text": "Evocando Link Marincipessa Angelo Marino, si attiva il suo effetto!"
+    },
+    "V0613_09_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14488
+      ],
+      "duelist": [],
+      "text": "Evocando Link Marincipessa Lumaca Blu, si attiva il suo effetto!"
+    },
+    "V0613_09_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14490
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Marincipessa Roccia Marmorea!"
+    },
+    "V0613_09_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14668
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Marincipessa Cuore delle Meraviglie!"
+    },
+    "V0613_09_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14630
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Marincipessa Coda Coronata dalla mia mano!"
+    },
+    "V0613_09_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14630
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Marincipessa Coda Coronata dal mio Cimitero!"
+    },
+    "V0613_09_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14452
+      ],
+      "duelist": [],
+      "text": "Scarto Marincipessa Stella Marina per attivarne l'effetto!"
+    },
+    "V0613_09_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14451
+      ],
+      "duelist": [],
+      "text": "Bandisco Marincipessa Cavalluccio Marino dal mio Cimitero per attivare il suo effetto!"
+    },
+    "V0613_09_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17054
+      ],
+      "duelist": [],
+      "text": "Marincipessa Fanciulla Assonnata attiva il suo effetto dalla mia mano!"
+    },
+    "V0613_09_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17054
+      ],
+      "duelist": [],
+      "text": "Bandisco Marincipessa Fanciulla Assonnata dal mio Cimitero per usare il suo effetto!"
+    },
+    "V0613_09_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14992
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Marincipessa Basilalima!"
+    },
+    "V0613_09_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14992
+      ],
+      "duelist": [],
+      "text": "Bandisco Marincipessa Basilalima per attivarne l'effetto!"
+    },
+    "V0613_09_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14631
+      ],
+      "duelist": [],
+      "text": "Evocando Marincipessa Chirurgo Blu, si attiva il suo effetto!"
+    },
+    "V0613_09_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14631
+      ],
+      "duelist": [],
+      "text": "Usando Marincipessa Chirurgo Blu per Evocare Link, si attiva il suo effetto!"
+    },
+    "V0613_09_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14629
+      ],
+      "duelist": [],
+      "text": "Il mio mostro Marincipessa Mandarino attiva il suo effetto!"
+    },
+    "V0613_09_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17053
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Marincipessa Damigelragazza dalla mia mano!"
+    },
+    "V0613_09_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17053
+      ],
+      "duelist": [],
+      "text": "Usando Marincipessa Damigelragazza per Evocare Link, si attiva il suo effetto!"
+    },
+    "V0613_09_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14788
+      ],
+      "duelist": [],
+      "text": "Evocando Marincipessa Pascalus, si attiva il suo effetto!"
+    },
+    "V0613_09_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14788
+      ],
+      "duelist": [],
+      "text": "Bandisco Marincipessa Pascalus dal Cimitero per attivare il suo effetto!"
+    },
+    "V0613_09_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Evocando tramite Fusione Truccastella Drumatis Banda, si attiva il suo effetto!"
+    },
+    "V0613_09_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Truccastella Drumatis Banda attiva il suo effetto!"
+    },
+    "V0613_09_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Evocando Link Truccastella Angelo Nobile, si attiva il suo effetto!"
+    },
+    "V0613_09_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "L'effetto di Truccastella Angelo Nobile si attiva a causa del mio Mostro Fusione!"
+    },
+    "V0613_09_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Truccastella Angelo Nobile si attiva quando tu o io subiamo danni da effetto!"
+    },
+    "V0613_09_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "Bandisco Truccastella Colchica dal mio Cimitero per attivare il suo effetto!"
+    },
+    "V0613_09_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "Si attiva l'effetto di Truccastella Aconito dalla mia mano!"
+    },
+    "V0613_09_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "Ho usato Truccastella Aconito per Evocare Link un Truccastella!"
+    },
+    "V0613_09_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Truccastella Angelo Acqua attiva il suo effetto!"
+    },
+    "V0613_09_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Truccastella Angelo Acqua si attiva quando viene usata per Evocare Link!"
+    },
+    "V0613_09_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17658
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di G Golem Cuore di Cristallo!"
+    },
+    "V0613_13_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13083
+      ],
+      "duelist": [],
+      "text": "Fatti vedere!\nTruccastella Angelo Alcea Link 2!"
+    },
+    "V0613_13_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13260
+      ],
+      "duelist": [],
+      "text": "Fatti avanti!\nTruccastella Gattostrella Nera Link 2!"
+    },
+    "V0613_13_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13594
+      ],
+      "duelist": [],
+      "text": "Ecco Truccastella Delfinia Link 3!"
+    },
+    "V0613_13_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13343
+      ],
+      "duelist": [],
+      "text": "Andiamo!\nTruccastella Cuore Cremisi Link 2!"
+    },
+    "V0613_13_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        13593
+      ],
+      "duelist": [],
+      "text": "Mostrati!\nTruccastella Fioritura Link 1!"
+    },
+    "V0613_13_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13592
+      ],
+      "duelist": [],
+      "text": "L'ho salvata proprio per te!\nTruccastella Monna Bella Link 4!"
+    },
+    "V0613_13_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14126
+      ],
+      "duelist": [],
+      "text": "Fatti vedere!\nTruccastella Divaridis Link 2!"
+    },
+    "V0613_13_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13512
+      ],
+      "duelist": [],
+      "text": "Preparati per Truccastella Strega Digitale Link 3!"
+    },
+    "V0613_37_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14110
+      ],
+      "duelist": [],
+      "text": "La mia nuova Truccastella ti farà cambiare idea!"
+    },
+    "V0613_37_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Fusione!"
+    },
+    "V0613_13_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14110
+      ],
+      "duelist": [],
+      "text": "Vai così, Truccastella Chitarra Dolce Banda!"
+    },
+    "V0613_13_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13047
+      ],
+      "duelist": [],
+      "text": "Truccastella Candina!"
+    },
+    "V0613_13_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13220
+      ],
+      "duelist": [],
+      "text": "Truccastella Narcibacio!"
+    },
+    "V0613_13_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13561
+      ],
+      "duelist": [],
+      "text": "Truccastella Belladonna!"
+    },
+    "V0613_13_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13046
+      ],
+      "duelist": [],
+      "text": "Truccastella Lycoris!"
+    },
+    "V0613_13_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13562
+      ],
+      "duelist": [],
+      "text": "Truccastella Mandragora!"
+    },
+    "V0613_13_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13045
+      ],
+      "duelist": [],
+      "text": "Truccastella Gigliocampana!"
+    },
+    "V0613_13_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13563
+      ],
+      "duelist": [],
+      "text": "Truccastella Rodode!"
+    },
+    "V0613_13_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        13555
+      ],
+      "duelist": [],
+      "text": "Truccastella Cicuta!"
+    },
+    "V0613_13_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14161
+      ],
+      "duelist": [],
+      "text": "Evoco Specialmente Segna-Truccastella!"
+    },
+    "V0613_13_00_18_0": {
+      "face": 10,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13221
+      ],
+      "duelist": [],
+      "text": "Angelo Oscuro!\nConcedici l'onore della tua presenza!"
+    },
+    "V0613_13_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        17056
+      ],
+      "duelist": [],
+      "text": "Mostrati!\nMarincipessa Acqua Argonauta Link 4!"
+    },
+    "V0613_13_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14667
+      ],
+      "duelist": [],
+      "text": "Vieni a me!\nMarincipessa Cuore di Cristallo Link 2!"
+    },
+    "V0613_37_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15040
+      ],
+      "duelist": [],
+      "text": "Tante piccole gocce d'acqua formano un enorme oceano."
+    },
+    "V0613_37_00_01_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco Link!"
+    },
+    "V0613_13_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        15040
+      ],
+      "duelist": [],
+      "text": "Vieni a galla!\nMarincipessa Scogliera Grande Bolla Link 4!"
+    },
+    "V0613_13_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        14489
+      ],
+      "duelist": [],
+      "text": "Ecco Marincipessa Anemone Corallo Link 2!"
+    },
+    "V0613_13_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        17055
+      ],
+      "duelist": [],
+      "text": "Dai un'occhiata a Marincipessa Triangolo Corallino Link 3!"
+    },
+    "V0613_13_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        14669
+      ],
+      "duelist": [],
+      "text": "Andiamo!\nMarincipessa Angelo Marino Link 1!"
+    },
+    "V0613_13_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        14488
+      ],
+      "duelist": [],
+      "text": "Nuota qui!\nMarincipessa Lumaca Blu Link 1!"
+    },
+    "V0613_13_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14490
+      ],
+      "duelist": [],
+      "text": "Sorgi!\nMarincipessa Roccia Marmorea Link 3!"
+    },
+    "V0613_13_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        14668
+      ],
+      "duelist": [],
+      "text": "Preparati per Marincipessa Cuore delle Meraviglie Link 4!"
+    },
+    "V0613_13_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        14630
+      ],
+      "duelist": [],
+      "text": "Marincipessa Coda Coronata!"
+    },
+    "V0613_13_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14452
+      ],
+      "duelist": [],
+      "text": "Marincipessa Stella Marina!"
+    },
+    "V0613_13_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14451
+      ],
+      "duelist": [],
+      "text": "Marincipessa Cavalluccio Marino!"
+    },
+    "V0613_13_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        17054
+      ],
+      "duelist": [],
+      "text": "Marincipessa Fanciulla Assonnata!"
+    },
+    "V0613_13_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14992
+      ],
+      "duelist": [],
+      "text": "Marincipessa Basilalima!"
+    },
+    "V0613_13_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14631
+      ],
+      "duelist": [],
+      "text": "Marincipessa Chirurgo Blu!"
+    },
+    "V0613_13_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14629
+      ],
+      "duelist": [],
+      "text": "Marincipessa Mandarino!"
+    },
+    "V0613_13_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17053
+      ],
+      "duelist": [],
+      "text": "Marincipessa Damigelragazza!"
+    },
+    "V0613_13_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14788
+      ],
+      "duelist": [],
+      "text": "Marincipessa Pascalus!"
+    },
+    "V0613_13_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Truccastella Drumatis Banda!"
+    },
+    "V0613_13_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Fatti vedere!\nTruccastella Angelo Nobile Link 2!"
+    },
+    "V0613_13_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "Truccastella Colchica Link 1 è qui per aiutarmi!"
+    },
+    "V0613_13_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "Truccastella Aconito!"
+    },
+    "V0613_13_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Truccastella Angelo Acqua!"
+    },
+    "V0613_13_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        17658
+      ],
+      "duelist": [],
+      "text": "G Golem Cuore di Cristallo della Terra!"
+    },
+    "V0613_19_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13083
+      ],
+      "duelist": [],
+      "text": "Truccastella Angelo Alcea!\nAttacca!"
+    },
+    "V0613_19_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13260
+      ],
+      "duelist": [],
+      "text": "Attacca, Truccastella Gattostrella Nera!"
+    },
+    "V0613_19_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13594
+      ],
+      "duelist": [],
+      "text": "Truccastella Delfinia, attacca!"
+    },
+    "V0613_19_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13343
+      ],
+      "duelist": [],
+      "text": "Truccastella Cuore Cremisi!\nAttacca!"
+    },
+    "V0613_19_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13593
+      ],
+      "duelist": [],
+      "text": "Attacca, Truccastella Fioritura!"
+    },
+    "V0613_19_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13592
+      ],
+      "duelist": [],
+      "text": "Truccastella Monna Bella!\nAttacca!"
+    },
+    "V0613_19_00_05_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Strillo Scimitarra!"
+    },
+    "V0613_19_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14126
+      ],
+      "duelist": [],
+      "text": "Vai, Truccastella Divaridis!"
+    },
+    "V0613_19_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13512
+      ],
+      "duelist": [],
+      "text": "Truccastella Strega Digitale!\nAttacca!"
+    },
+    "V0613_19_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14110
+      ],
+      "duelist": [],
+      "text": "Attacca, Truccastella Chitarra Dolce Banda!"
+    },
+    "V0613_19_00_08_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Cavo del potere!"
+    },
+    "V0613_19_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13047
+      ],
+      "duelist": [],
+      "text": "Truccastella Candina, attacca!"
+    },
+    "V0613_19_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13220
+      ],
+      "duelist": [],
+      "text": "Attacca, Truccastella Narcibacio!"
+    },
+    "V0613_19_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13561
+      ],
+      "duelist": [],
+      "text": "Attacca, Truccastella Belladonna!"
+    },
+    "V0613_19_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13046
+      ],
+      "duelist": [],
+      "text": "Truccastella Lycoris! Attacca!"
+    },
+    "V0613_19_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13562
+      ],
+      "duelist": [],
+      "text": "Truccastella Mandragora! Attacca!"
+    },
+    "V0613_19_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13045
+      ],
+      "duelist": [],
+      "text": "Truccastella Gigliocampana, attacca!"
+    },
+    "V0613_19_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13563
+      ],
+      "duelist": [],
+      "text": "Attacca, Truccastella Rodode!"
+    },
+    "V0613_19_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13555
+      ],
+      "duelist": [],
+      "text": "Attacco col mio mostro Truccastella Cicuta!"
+    },
+    "V0613_19_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14161
+      ],
+      "duelist": [],
+      "text": "Segna-Truccastella!\nAttacca!"
+    },
+    "V0613_19_00_18_0": {
+      "face": 10,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13221
+      ],
+      "duelist": [],
+      "text": "Attacca, Angelo Oscuro!"
+    },
+    "V0613_19_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17056
+      ],
+      "duelist": [],
+      "text": "Marincipessa Acqua Argonauta!\nAttacca!"
+    },
+    "V0613_19_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14667
+      ],
+      "duelist": [],
+      "text": "Marincipessa Cuore di Cristallo!\nAttacca!"
+    },
+    "V0613_19_00_20_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Il tuo mostro è immune agli effetti delle altre carte!"
+    },
+    "V0613_19_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15040
+      ],
+      "duelist": [],
+      "text": "Marincipessa Scogliera Grande Bolla!\nAttacca!"
+    },
+    "V0613_19_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14489
+      ],
+      "duelist": [],
+      "text": "Marincipessa Anemone Corallo!\nAttacca!"
+    },
+    "V0613_19_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17055
+      ],
+      "duelist": [],
+      "text": "Attacca, Marincipessa Triangolo Corallino!"
+    },
+    "V0613_19_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14669
+      ],
+      "duelist": [],
+      "text": "Marincipessa Angelo Marino!\nSferra il tuo attacco!"
+    },
+    "V0613_19_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14488
+      ],
+      "duelist": [],
+      "text": "Attacca, Marincipessa Lumaca Blu!"
+    },
+    "V0613_19_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14490
+      ],
+      "duelist": [],
+      "text": "Marincipessa Roccia Marmorea!\nAttacca!"
+    },
+    "V0613_19_00_26_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Marincipessa sommersa!"
+    },
+    "V0613_19_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14668
+      ],
+      "duelist": [],
+      "text": "Attacca, Marincipessa Cuore delle Meraviglie!"
+    },
+    "V0613_19_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14630
+      ],
+      "duelist": [],
+      "text": "Il mio mostro Marincipessa Coda Coronata attacca!"
+    },
+    "V0613_19_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14452
+      ],
+      "duelist": [],
+      "text": "Attacco col mio mostro Marincipessa Stella Marina!"
+    },
+    "V0613_19_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14451
+      ],
+      "duelist": [],
+      "text": "Marincipessa Cavalluccio Marino! Attacca!"
+    },
+    "V0613_19_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17054
+      ],
+      "duelist": [],
+      "text": "Il mio Marincipessa Fanciulla Assonnata è abbastanza sveglio da attaccare!"
+    },
+    "V0613_19_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14992
+      ],
+      "duelist": [],
+      "text": "Marincipessa Basilalima! Attacca!"
+    },
+    "V0613_19_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14631
+      ],
+      "duelist": [],
+      "text": "Attacca, Marincipessa Chirurgo Blu!"
+    },
+    "V0613_19_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14629
+      ],
+      "duelist": [],
+      "text": "Marincipessa Mandarino!\nAttacca!"
+    },
+    "V0613_19_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17053
+      ],
+      "duelist": [],
+      "text": "Marincipessa Damigelragazza! Attacca!"
+    },
+    "V0613_19_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14788
+      ],
+      "duelist": [],
+      "text": "Attacca, Marincipessa Pascalus!"
+    },
+    "V0613_19_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Truccastella Drumatis Banda!\nAttacca!"
+    },
+    "V0613_19_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Truccastella Angelo Nobile!\nAttacca!"
+    },
+    "V0613_19_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "Truccastella Colchica!\nAttacca!"
+    },
+    "V0613_19_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "Attacca, Truccastella Aconito!"
+    },
+    "V0613_19_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Truccastella Angelo Acqua!\nAttacca!"
+    },
+    "V0613_19_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17658
+      ],
+      "duelist": [],
+      "text": "G Golem Cuore di Cristallo!\nAttacca!"
+    },
+    "V0613_48_00_00_0": {
+      "face": 11,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Cominciamo!"
+    },
+    "V0613_48_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Preparati per l'azione!"
+    },
+    "V0613_51_00_00_0": {
+      "face": 11,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ti affronterò!"
+    },
+    "V0613_51_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Via col Rush!"
+    },
+    "V0613_49_00_00_0": {
+      "face": 11,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Accetto la sfida!"
+    },
+    "V0613_49_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Rush Duel Turbo!"
+    },
+    "V0613_22_00_00_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aah!"
+    },
+    "V0613_22_00_01_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aaah!"
+    },
+    "V0613_22_00_02_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Agh!"
+    },
+    "V0613_26_00_00_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Non è finita!"
+    },
+    "V0613_26_00_01_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Quell'attacco non è abbastanza potente per sconfiggermi!"
+    },
+    "V0613_26_00_02_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Come se potesse fermarmi!"
+    },
+    "V0613_25_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aaahhh!"
+    },
+    "V0613_25_00_01_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Uaaah!"
+    },
+    "V0613_25_00_02_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Argh...!"
+    },
+    "V0613_27_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Non è possibile..."
+    },
+    "V0613_27_00_01_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "No..."
+    },
+    "V0613_27_00_02_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Posso... ancora duellare..."
+    },
+    "V0613_24_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aaargh..."
+    },
+    "V0613_23_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 3,
+      "card": [],
+      "duelist": [],
+      "text": "Aaah!!!"
+    }
+  }
+}

@@ -1,0 +1,3585 @@
+{
+  "_GRP_": "SN0222",
+  "_LNG_": "es-ES",
+  "info": {
+    "V0222_01_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Soy Kalin,\nlíder de los Ejecutores.\n¡Esto va a ser divertido!"
+    },
+    "V0222_01_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Me enfrentaré a ti!\n¡Tengo ganas de competir!"
+    },
+    "V0222_01_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Es hora de que Los Ejecutores hagan justicia! "
+    },
+    "V0222_01_00_03_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Haré que las calles sean seguras para poder vivir en paz!"
+    },
+    "V0222_01_00_04_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        207,
+        835
+      ],
+      "text": "¡No hay mejor banda de duelistas que el Sector de Seguridad!"
+    },
+    "V0222_01_00_05_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        207,
+        835
+      ],
+      "text": "Venzamos al Sector de Seguridad y reclamemos nuestro hogar."
+    },
+    "V0222_01_00_06_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        201,
+        202,
+        203,
+        219,
+        220,
+        221,
+        223
+      ],
+      "text": "¡Mis rivales más duros son miembros de los Ejecutores!"
+    },
+    "V0222_02_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡A luchar!"
+    },
+    "V0222_03_00_00_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡No puedes detener lo imparable!"
+    },
+    "V0222_03_00_00_1": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Me toca a mí!"
+    },
+    "V0222_03_00_01_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Te machacaré rápidamente!"
+    },
+    "V0222_03_00_01_1": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Mi turno!"
+    },
+    "V0222_04_00_00_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Voy a robar!"
+    },
+    "V0222_03_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Me toca a mí!"
+    },
+    "V0222_03_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Tus trucos no van a funcionar conmigo!"
+    },
+    "V0222_03_00_03_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Mi turno!"
+    },
+    "V0222_04_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Voy a robar!"
+    },
+    "V0222_03_00_04_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¿Dónde está la diversión si no hay ningún reto?"
+    },
+    "V0222_03_00_04_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Me toca a mí!"
+    },
+    "V0222_03_00_05_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "No voy a poder poner orden en Satélite hasta que te derrote."
+    },
+    "V0222_03_00_05_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Mi turno!"
+    },
+    "V0222_04_00_02_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Voy a robar!"
+    },
+    "V0222_05_00_00_0": {
+      "face": 9,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "Esto no ha acabado.\n¡La victoria será finalmente mía!"
+    },
+    "V0222_05_00_00_1": {
+      "face": 9,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "¡Robooo!"
+    },
+    "V0222_06_01_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Esto es lo que voy a hacer!"
+    },
+    "V0222_06_01_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Esta es la mía!"
+    },
+    "V0222_06_01_02_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Eso no funcionará!"
+    },
+    "V0222_06_01_03_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Sabía que intentarías hacer eso!"
+    },
+    "V0222_07_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "De mi mano..."
+    },
+    "V0222_07_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo una Carta Mágica!"
+    },
+    "V0222_07_02_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo una Carta Mágica de Juego Rápido!"
+    },
+    "V0222_07_03_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo una Carta Mágica Continua!"
+    },
+    "V0222_07_04_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica de Equipo!"
+    },
+    "V0222_07_05_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo una Carta Mágica de Ritual!"
+    },
+    "V0222_07_06_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!"
+    },
+    "V0222_07_07_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo una Carta de Trampa Continua!"
+    },
+    "V0222_07_08_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo mi Trampa de Contraefecto!"
+    },
+    "V0222_07_09_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Esta es la carta que Coloco!"
+    },
+    "V0222_07_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Volteo mi carta Colocada!"
+    },
+    "V0222_07_10_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo el efecto de mi monstruo!"
+    },
+    "V0222_07_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo una Carta Mágica de Campo!"
+    },
+    "V0222_07_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo un efecto!"
+    },
+    "V0222_07_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Coloco la Escala de Péndulo!"
+    },
+    "V0222_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo un efecto de Péndulo!"
+    },
+    "V0222_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo una Carta Mágica de Ritual!"
+    },
+    "V0222_10_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Ven aquí!"
+    },
+    "V0222_10_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Allá voy!"
+    },
+    "V0222_10_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Adelante!"
+    },
+    "V0222_10_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Mira esto!"
+    },
+    "V0222_11_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo!"
+    },
+    "V0222_11_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo en Posición de Defensa!"
+    },
+    "V0222_11_02_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo de Modo Especial!"
+    },
+    "V0222_11_03_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Sacrifico un monstruo!"
+    },
+    "V0222_11_04_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Sacrificio!"
+    },
+    "V0222_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Sacrificio!"
+    },
+    "V0222_11_05_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Fusión!"
+    },
+    "V0222_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Fusión!"
+    },
+    "V0222_11_06_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Ritual!"
+    },
+    "V0222_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Ritual!"
+    },
+    "V0222_11_07_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Sincronía!"
+    },
+    "V0222_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Sincronía!"
+    },
+    "V0222_11_08_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Xyz!"
+    },
+    "V0222_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación Xyz!"
+    },
+    "V0222_11_09_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Péndulo!"
+    },
+    "V0222_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Péndulo!"
+    },
+    "V0222_11_10_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Enlace!"
+    },
+    "V0222_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Enlace!"
+    },
+    "V0222_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo de Modo Máximo!"
+    },
+    "V0222_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación Máxima!"
+    },
+    "V0222_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Fusión!"
+    },
+    "V0222_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Fusión!"
+    },
+    "V0222_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Fusiono un monstruo por Contacto!"
+    },
+    "V0222_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Fusión de Contacto!"
+    },
+    "V0222_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Ritual!"
+    },
+    "V0222_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Ritual!"
+    },
+    "V0222_14_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡A luchar!"
+    },
+    "V0222_14_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Vamos a luchar!"
+    },
+    "V0222_15_00_00_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Toma esto!"
+    },
+    "V0222_15_00_01_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Esto acabará contigo!"
+    },
+    "V0222_15_00_02_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Ja, ja, ja!"
+    },
+    "V0222_17_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Mi monstruo ataca!"
+    },
+    "V0222_17_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Ataco con mi monstruo!"
+    },
+    "V0222_17_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Ataca!"
+    },
+    "V0222_16_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Este es el último combate!"
+    },
+    "V0222_16_00_01_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Los Ejecutores gobiernas las calles!"
+    },
+    "V0222_18_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Mi monstruo te ataca directamente!"
+    },
+    "V0222_18_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Ataque directo!"
+    },
+    "V0222_20_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Coloco una carta!"
+    },
+    "V0222_20_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Colocaré una carta!"
+    },
+    "V0222_20_01_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Coloco un monstruo!"
+    },
+    "V0222_20_01_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Voy a Colocar un monstruo!"
+    },
+    "V0222_21_00_00_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Este Duelo va a ser para los Ejecutores!"
+    },
+    "V0222_21_00_00_1": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Pongo fin a mi turno!"
+    },
+    "V0222_21_00_01_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "No irás a rendirte ya, ¿verdad?"
+    },
+    "V0222_21_00_01_1": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Pongo fin a mi turno!"
+    },
+    "V0222_21_00_02_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Pongo fin a mi turno!"
+    },
+    "V0222_21_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Y así acabo mi turno!"
+    },
+    "V0222_21_00_04_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Esto no puede estar pasando...\nNo puede ser..."
+    },
+    "V0222_21_00_04_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Pongo fin a mi turno!"
+    },
+    "V0222_21_00_05_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Si me rindo, todo habrá sido para nada."
+    },
+    "V0222_21_00_05_1": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Voy a terminar mi turno!"
+    },
+    "V0222_28_00_00_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Las calles están a salvo,\ngracias a los Ejecutores."
+    },
+    "V0222_28_00_01_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Debo seguir.\nTodo aquel con un Disco de Duelo es un peligro."
+    },
+    "V0222_28_00_02_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je, je.\n¡Eso sí ha sido un Duelo que ha merecido la pena!"
+    },
+    "V0222_28_00_03_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "No entres en mi mundo si no te has preparado para luchar."
+    },
+    "V0222_28_00_04_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        201,
+        202,
+        203,
+        219,
+        220,
+        221,
+        223
+      ],
+      "text": "¡Los Ejecutores son el mejor escuadrón del mundo!"
+    },
+    "V0222_29_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Debo seguir luchando,\naunque sea el último en pie."
+    },
+    "V0222_29_00_01_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Si no te derroto, entonces ¿para qué ha sido todo esto?"
+    },
+    "V0222_29_00_02_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¿Cómo hemos podido acabar así?\n¿Dónde están mis amigos?"
+    },
+    "V0222_29_00_03_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "La he liado bastante..."
+    },
+    "V0222_29_00_04_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        207,
+        835
+      ],
+      "text": "¡Me has vendido, traidor!"
+    },
+    "V0222_29_00_04_1": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Yuseiiii!"
+    },
+    "V0222_29_00_05_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        201,
+        202,
+        203,
+        219,
+        220,
+        221,
+        223
+      ],
+      "text": "No está mal,\npero podemos hacer cosas mayores y mejores."
+    },
+    "V0222_31_00_00_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡¿Qué?!"
+    },
+    "V0222_31_00_01_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡No puede ser!"
+    },
+    "V0222_33_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "¡Esto me entretendrá!"
+    },
+    "V0222_33_00_01_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "¡Nosotros somos quienes gobernamos las calles!"
+    },
+    "V0222_33_00_02_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 1,
+      "card": [],
+      "duelist": [],
+      "text": "No hay nada que no se pueda resolver con poder."
+    },
+    "V0222_30_00_00_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Convirtamos Satélite en un hogar del que enorgullecernos."
+    },
+    "V0222_30_00_01_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tengo grandes planes para Satélite."
+    },
+    "V0222_30_00_02_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tus estúpidas estrategias no pondrán freno a mi poder."
+    },
+    "V0222_34_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¿Me ves capaz de abandonarte?"
+    },
+    "V0222_34_00_01_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Satélite es ahora nuestra!"
+    },
+    "V0222_34_00_02_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡No hay equipo como el de los Ejecutores!"
+    },
+    "V0222_34_00_03_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Aplastaré a cada insignificante bicho del Equipo Insecto."
+    },
+    "V0222_34_00_04_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Todo el que lleva un Disco de Duelo es mi enemigo!"
+    },
+    "V0222_34_00_05_0": {
+      "face": 12,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "El mundo de los Duelos no es para los debiluchos."
+    },
+    "V0222_34_00_06_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Si quiero salvar Satélite, debo combatir a un último rival."
+    },
+    "V0222_34_00_07_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!\n¡Menudo Duelo nos espera!"
+    },
+    "V0222_34_00_08_0": {
+      "face": 8,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Un último Duelo para los Ejecutores!"
+    },
+    "V0222_34_00_09_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Creía que ibas a luchar a mi lado."
+    },
+    "V0222_34_00_10_0": {
+      "face": 9,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡No puedes conformarte tan solo con eso!"
+    },
+    "V0222_34_00_11_0": {
+      "face": 10,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Me has vendido,\ntraidor!"
+    },
+    "V0222_34_00_12_0": {
+      "face": 13,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Quiero mi venganza...\ny ellos saben que me la merezco."
+    },
+    "V0222_32_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Si quieres quedarte aquí, convirtamos esto en un buen sitio.  "
+    },
+    "V0222_32_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Yu-Gi-Oh! DUEL LINKS,\nno hay nada igual."
+    },
+    "V0222_35_00_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Soy Kalin Kessler,\nlíder de los Ejecutores!"
+    },
+    "V0222_35_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Que comience la diversión!"
+    },
+    "V0222_36_00_00_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Vamos a ganar!"
+    },
+    "V0222_36_00_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Es tu turno!"
+    },
+    "V0222_36_00_02_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Ni en broma pienso abandonarte!"
+    },
+    "V0222_36_00_03_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        201,
+        202,
+        203,
+        219,
+        220,
+        221,
+        223
+      ],
+      "text": "¡Este Duelo lo van a ganar los Ejecutores!"
+    },
+    "V0222_36_00_04_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        201,
+        219,
+        223
+      ],
+      "text": "¡Tú puedes con esto, Yusei!"
+    },
+    "V0222_36_00_05_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        202,
+        220
+      ],
+      "text": "¡Todo depende de ti, Jack!"
+    },
+    "V0222_36_00_06_0": {
+      "face": 2,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        203,
+        221
+      ],
+      "text": "¡Cuento contigo, Cuervo!"
+    },
+    "V0222_08_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8822
+      ],
+      "duelist": [],
+      "text": "Cuando no tengo cartas en la mano, puedo activar a ZERO-MAX."
+    },
+    "V0222_08_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8823
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica Continua,\nLanzador Inférnico!"
+    },
+    "V0222_08_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8823
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Lanzador Inférnico!"
+    },
+    "V0222_08_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8823
+      ],
+      "duelist": [],
+      "text": "Cuando mi mano está vacía, puedo usar el efecto de Lanzador Inférnico."
+    },
+    "V0222_08_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8824
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica!\n¡Hacia el Vacío!"
+    },
+    "V0222_08_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9035
+      ],
+      "duelist": [],
+      "text": "¡Activo la Carta Mágica Continua \"Ola de Movimiento Infernal\"!"
+    },
+    "V0222_08_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9035
+      ],
+      "duelist": [],
+      "text": "¡Mando a Ola de Movimiento Infernal al Cementerio!"
+    },
+    "V0222_08_00_06_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Al hacerlo, mando toda mi mano al Cementerio."
+    },
+    "V0222_08_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica!\n¡<card mrk=99999/>!"
+    },
+    "V0222_08_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15886
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica!\n¡Contrato con el Vacío!"
+    },
+    "V0222_08_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15539
+      ],
+      "duelist": [],
+      "text": "¡Activo la Carta Mágica \"Paranoia Inférnica\"!"
+    },
+    "V0222_08_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15539
+      ],
+      "duelist": [],
+      "text": "¡Destierro a Paranoia Inférnica de mi Cementerio!"
+    },
+    "V0222_08_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17252
+      ],
+      "duelist": [],
+      "text": "¡Activo la Carta Mágica \"Este Vándalo Siniestro\"!"
+    },
+    "V0222_08_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17252
+      ],
+      "duelist": [],
+      "text": "¡Activo a Este Vándalo Siniestro de mi Cementerio!"
+    },
+    "V0222_08_00_12_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Nunca podrás librarte de este monstruo."
+    },
+    "V0222_08_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8846
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!\n¡Infierno Inférnico!"
+    },
+    "V0222_08_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8508
+      ],
+      "duelist": [],
+      "text": "No tengo cartas en mi mano,\nasí que activo a Fuerza Inférnica."
+    },
+    "V0222_08_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8844
+      ],
+      "duelist": [],
+      "text": "Puedo activar a Escape Inférnico con la mano vacía."
+    },
+    "V0222_08_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8843
+      ],
+      "duelist": [],
+      "text": "Descarto mi mano para activar la Carta de Trampa \"Reflector Inférnico\"."
+    },
+    "V0222_08_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8845
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!\n¡Portal del Daño!"
+    },
+    "V0222_08_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8361
+      ],
+      "duelist": [],
+      "text": "¡Activo la Carta de Trampa \"Traducción del Daño\"!"
+    },
+    "V0222_08_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8361
+      ],
+      "duelist": [],
+      "text": "Debido a Traducción del Daño, puedo Invocar de Modo Especial una ficha."
+    },
+    "V0222_08_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8360
+      ],
+      "duelist": [],
+      "text": "¡Activo la Carta de Trampa Continua \"Amuleto de las Profundidades\"!"
+    },
+    "V0222_08_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8360
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Amuleto de las Profundidades!"
+    },
+    "V0222_08_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8847
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa Continua!\n¡Mano Fantasma!"
+    },
+    "V0222_08_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8847
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Mano Fantasma!"
+    },
+    "V0222_08_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7465
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!\n¡Destruyeodio!"
+    },
+    "V0222_08_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8507
+      ],
+      "duelist": [],
+      "text": "¡Activo la Carta de Trampa \"Impulso Límite\"!"
+    },
+    "V0222_08_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6622
+      ],
+      "duelist": [],
+      "text": "¡Activo la Carta de Trampa \"Salva Completa\"!"
+    },
+    "V0222_08_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9036
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Trampa de Contraefecto!\n¡Barrera Inférnica!"
+    },
+    "V0222_08_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15554
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!\n¡Supresión Inférnica!"
+    },
+    "V0222_08_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15887
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa Continua!\n¡Caldero del Vacío!"
+    },
+    "V0222_08_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15835
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!\n¡Terror de Trishula!"
+    },
+    "V0222_08_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15835
+      ],
+      "duelist": [],
+      "text": "¡Destierro a Terror de Trishula de mi Cementerio!"
+    },
+    "V0222_08_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4310
+      ],
+      "duelist": [],
+      "text": "¡Equipo en mi monstruo la Carta Mágica de Equipo Hacha del Desespero!"
+    },
+    "V0222_08_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4310
+      ],
+      "duelist": [],
+      "text": "¡Hacha del Desespero se activa cuando va al Cementerio!"
+    },
+    "V0222_08_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15754
+      ],
+      "duelist": [],
+      "text": "¡Activo la Carta Mágica de Equipo \"Vara del Desespero del Archidemonio\"!"
+    },
+    "V0222_08_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15754
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Vara del Desespero del Archidemonio!"
+    },
+    "V0222_08_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15754
+      ],
+      "duelist": [],
+      "text": "¡Vara del Desespero del Archidemonio se activa cuando va al Cementerio!"
+    },
+    "V0222_08_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10669
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica de Campo!\n¡Palaberinto del Archidemonio!"
+    },
+    "V0222_08_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10669
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Palaberinto del Archidemonio!"
+    },
+    "V0222_08_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5791
+      ],
+      "duelist": [],
+      "text": "¡Activo la Carta Mágica de Campo \"Pandemonium\"!"
+    },
+    "V0222_08_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5791
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Pandemonium!"
+    },
+    "V0222_08_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5789
+      ],
+      "duelist": [],
+      "text": "¡Activo la Carta Mágica Continua \"Juramento de Archidemonio\"!"
+    },
+    "V0222_08_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5789
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Juramento de Archidemonio!"
+    },
+    "V0222_08_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5786
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica de Equipo!\n¡Cayendo!"
+    },
+    "V0222_08_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5786
+      ],
+      "duelist": [],
+      "text": "El efecto de Cayendo me hace daño."
+    },
+    "V0222_08_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17372
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!\n¡Fallo Fantasmagórico del Archidemonio!"
+    },
+    "V0222_08_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5796
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!\n¡Rugido de Archidemonio!"
+    },
+    "V0222_08_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13446
+      ],
+      "duelist": [],
+      "text": "¡Activo la Carta de Trampa Continua \"Llamada del Archidemonio\"!"
+    },
+    "V0222_08_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13446
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Llamada del Archidemonio!"
+    },
+    "V0222_08_00_49_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5396
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!\n¡Ja, ja, ja!\n¡Estallido en Cadena!"
+    },
+    "V0222_08_00_50_0": {
+      "face": 8,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5396
+      ],
+      "duelist": [],
+      "text": "Estallido en Cadena se activa cuando un efecto lo destruye."
+    },
+    "V0222_09_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8817
+      ],
+      "duelist": [],
+      "text": "Con mi mano vacía, puedo activar a Dragón Inférnico de la Perdición."
+    },
+    "V0222_09_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Descarga de la Llama Infernal"
+    },
+    "V0222_09_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9862
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de General Inférnico de mi Cementerio!"
+    },
+    "V0222_09_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8275
+      ],
+      "duelist": [],
+      "text": "El efecto de Destructor Inférnico se activa cuando tengo mi mano vacía."
+    },
+    "V0222_09_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15516
+      ],
+      "duelist": [],
+      "text": "¡Archidemonio Inférnico de la Perdición activa su efecto!"
+    },
+    "V0222_09_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8272
+      ],
+      "duelist": [],
+      "text": "Activo el efecto de Archidemonio Inférnico de mi mano."
+    },
+    "V0222_09_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8272
+      ],
+      "duelist": [],
+      "text": "Al Invocar de Modo Especial a Archidemonio Inférnico, se activa su efecto."
+    },
+    "V0222_09_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9710
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Caballero Inférnico se activa al destruirse!"
+    },
+    "V0222_09_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8443
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Nigromante Inférnico se activa al Invocarse!"
+    },
+    "V0222_09_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8443
+      ],
+      "duelist": [],
+      "text": "Con mi mano vacía, Nigromante Inférnico puede usar su efecto."
+    },
+    "V0222_09_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20039
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Reina Inférnica de mi Cementerio!"
+    },
+    "V0222_09_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15496
+      ],
+      "duelist": [],
+      "text": "Puedo usar el efecto de Gato Salvaje Inférnico con mi mano vacía."
+    },
+    "V0222_09_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15495
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Conjurador Inférnico de mi Cementerio!"
+    },
+    "V0222_09_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8790
+      ],
+      "duelist": [],
+      "text": "Como tengo mi mano vacía, puedo usar el efecto de Escarabajo Inférnico."
+    },
+    "V0222_09_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15884
+      ],
+      "duelist": [],
+      "text": "¡Voy a usar el efecto de Sabio Inférnico para descartar toda mi mano!"
+    },
+    "V0222_09_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15884
+      ],
+      "duelist": [],
+      "text": "¡Sabio Inférnico se activa cuando se manda al Cementerio!"
+    },
+    "V0222_09_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8788
+      ],
+      "duelist": [],
+      "text": "Cuando tengo mi mano vacía, puedo usar el efecto de Espejismo Inférnico."
+    },
+    "V0222_09_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8791
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Vengador Inférnico de mi Cementerio!"
+    },
+    "V0222_09_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8789
+      ],
+      "duelist": [],
+      "text": "Mi mano está vacía, así que voy a usar el efecto de Generador de Azar Inférnico."
+    },
+    "V0222_09_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15885
+      ],
+      "duelist": [],
+      "text": "¡Puedo activar el efecto de Peón Inférnico de mi Cementerio!"
+    },
+    "V0222_09_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22740
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Tirador Inférnico de la Perdición!"
+    },
+    "V0222_09_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22740
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Tirador Inférnico de la Perdición se activa de mi Cementerio!"
+    },
+    "V0222_09_00_20_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¿Qué vas a elegir ahora?"
+    },
+    "V0222_09_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3684
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Pistolero Inférnico se activa de mi Cementerio!"
+    },
+    "V0222_09_00_21_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "No recibo daño de efecto, pero tú puedes elegir un efecto."
+    },
+    "V0222_09_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3683
+      ],
+      "duelist": [],
+      "text": "¡Cero Inférnico activa su efecto!"
+    },
+    "V0222_09_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de <card mrk=99999/>!"
+    },
+    "V0222_09_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de <card mrk=99999/>!"
+    },
+    "V0222_09_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de <card mrk=99999/>!"
+    },
+    "V0222_09_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9970
+      ],
+      "duelist": [],
+      "text": "Cuando tengo mi mano vacía, puedo usar el efecto de Ogro Dragón del Vacío."
+    },
+    "V0222_09_00_26_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Anulo y destruyo tu carta!"
+    },
+    "V0222_09_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8732
+      ],
+      "duelist": [],
+      "text": "Puedo activar el efecto de Trishula, Dragón de la Barrera de Hielo al Invocarlo por Sincronía."
+    },
+    "V0222_09_00_27_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Destierro una carta de tu mano, tu Campo y tu Cementerio."
+    },
+    "V0222_09_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13972
+      ],
+      "duelist": [],
+      "text": "¡Ahora verás el efecto de Trishula, el Dragón de la Prisión Helada!"
+    },
+    "V0222_09_00_28_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Destierro una carta de mi Deck, tu Deck y tu Deck Extra."
+    },
+    "V0222_09_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15834
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Trishula, Dragón Cero de la Barrera de Hielo se activa!"
+    },
+    "V0222_09_00_29_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Destierro hasta tres cartas del Campo!"
+    },
+    "V0222_09_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15834
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Trishula, Dragón Cero de la Barrera de Hielo se activa al destruirse!"
+    },
+    "V0222_09_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15070
+      ],
+      "duelist": [],
+      "text": "¡Archidemonio Aniquilador activa su efecto!"
+    },
+    "V0222_09_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10634
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Emperador de Archidemonios, el Primer Señor del Horror!"
+    },
+    "V0222_09_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7370
+      ],
+      "duelist": [],
+      "text": "¡Reina Archidemonio Encarcelada se activa de mi Cementerio!"
+    },
+    "V0222_09_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9277
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Emperatriz Archidemonio se activa al destruirse!"
+    },
+    "V0222_09_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10874
+      ],
+      "duelist": [],
+      "text": "¡Gigante Archidemonio se activa cuando es destruida por un efecto!"
+    },
+    "V0222_09_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10686
+      ],
+      "duelist": [],
+      "text": "¡Comandante Archidemonio activa su efecto!"
+    },
+    "V0222_09_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10686
+      ],
+      "duelist": [],
+      "text": "¡Al Invocar por Sacrificio a Comandante Archidemonio, se activa su efecto!"
+    },
+    "V0222_09_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19483
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Archidemonio Enfurecido se activa de mi mano!"
+    },
+    "V0222_09_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19483
+      ],
+      "duelist": [],
+      "text": "¡Archidemonio Enfurecido tiene otro efecto!"
+    },
+    "V0222_09_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7149
+      ],
+      "duelist": [],
+      "text": "Archidemonio de Niebla es destruida y recibo daño."
+    },
+    "V0222_09_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7110
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de General Archidemonio de mi mano!"
+    },
+    "V0222_09_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6417
+      ],
+      "duelist": [],
+      "text": "El efecto de Ciber Archidemonio me hace robar otra carta."
+    },
+    "V0222_09_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6417
+      ],
+      "duelist": [],
+      "text": "Debido a su propio efecto, Ciber Archidemonio se destruye a sí mismo."
+    },
+    "V0222_09_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10633
+      ],
+      "duelist": [],
+      "text": "Caballería Archidemonio se activa cuando un efecto lo destruye."
+    },
+    "V0222_09_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9909
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Archidemonio del Trance!"
+    },
+    "V0222_09_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9909
+      ],
+      "duelist": [],
+      "text": "¡Archidemonio del Trance activa su efecto al destruirse!"
+    },
+    "V0222_09_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10632
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Heredera Archidemonio se activa al destruirse!"
+    },
+    "V0222_37_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8817
+      ],
+      "duelist": [],
+      "text": "¡Los siniestros espíritus de estas criaturas se combinan!"
+    },
+    "V0222_37_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Sincronía!"
+    },
+    "V0222_13_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        8817
+      ],
+      "duelist": [],
+      "text": "¡Adelante,\nDragón Inférnico de la Perdición!"
+    },
+    "V0222_13_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        9862
+      ],
+      "duelist": [],
+      "text": "¡Sal,\nGeneral Inférnico!"
+    },
+    "V0222_13_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        9859
+      ],
+      "duelist": [],
+      "text": "¡Venga, sal!\n¡Arquero Inférnico!"
+    },
+    "V0222_13_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        8275
+      ],
+      "duelist": [],
+      "text": "¡Aquí está Destructor Inférnico!"
+    },
+    "V0222_37_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15516
+      ],
+      "duelist": [],
+      "text": "¡Surge de la nada para deleitarte con esta existencia!"
+    },
+    "V0222_37_00_01_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Sincronía!"
+    },
+    "V0222_13_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        15516
+      ],
+      "duelist": [],
+      "text": "¡Archidemonio Inférnico de la Perdición!"
+    },
+    "V0222_13_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8274
+      ],
+      "duelist": [],
+      "text": "¡Guardián Inférnico!"
+    },
+    "V0222_13_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8272
+      ],
+      "duelist": [],
+      "text": "¡Archidemonio Inférnico!"
+    },
+    "V0222_13_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11923
+      ],
+      "duelist": [],
+      "text": "¡Patriarca Inférnico!"
+    },
+    "V0222_13_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9710
+      ],
+      "duelist": [],
+      "text": "¡Caballero Inférnico!"
+    },
+    "V0222_13_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8443
+      ],
+      "duelist": [],
+      "text": "¡Nigromante Inférnico!"
+    },
+    "V0222_13_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8303
+      ],
+      "duelist": [],
+      "text": "¡Bestia Inférnica!"
+    },
+    "V0222_13_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20039
+      ],
+      "duelist": [],
+      "text": "¡Reina Inférnica!"
+    },
+    "V0222_13_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15496
+      ],
+      "duelist": [],
+      "text": "¡El Monstruo Cantante \"Gato Salvaje Inférnico\"!"
+    },
+    "V0222_13_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15495
+      ],
+      "duelist": [],
+      "text": "¡Conjurador Inférnico!"
+    },
+    "V0222_13_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8273
+      ],
+      "duelist": [],
+      "text": "¡Enano Inférnico!"
+    },
+    "V0222_13_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8790
+      ],
+      "duelist": [],
+      "text": "¡Escarabajo Inférnico!"
+    },
+    "V0222_13_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15884
+      ],
+      "duelist": [],
+      "text": "¡Mi Monstruo Cantante,\nSabio Inférnico!"
+    },
+    "V0222_13_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8788
+      ],
+      "duelist": [],
+      "text": "¡Espejismo Inférnico!"
+    },
+    "V0222_13_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8791
+      ],
+      "duelist": [],
+      "text": "¡El Monstruo Cantante \"Vengador Inférnico\"!"
+    },
+    "V0222_13_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8789
+      ],
+      "duelist": [],
+      "text": "¡Generador de Azar Inférnico!"
+    },
+    "V0222_13_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15885
+      ],
+      "duelist": [],
+      "text": "¡Peón Inférnico!"
+    },
+    "V0222_13_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        22740,
+        3684
+      ],
+      "duelist": [],
+      "text": "¡Tirador Inférnico de la Perdición!"
+    },
+    "V0222_13_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        3683
+      ],
+      "duelist": [],
+      "text": "¡<card mrk=99999/>!"
+    },
+    "V0222_13_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "¡<card mrk=99999/>!"
+    },
+    "V0222_13_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "¡<card mrk=99999/>!"
+    },
+    "V0222_13_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "¡<card mrk=99999/>!"
+    },
+    "V0222_37_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9970
+      ],
+      "duelist": [],
+      "text": "¡Álzate del reino entre el más allá!"
+    },
+    "V0222_37_00_02_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Sincronía!"
+    },
+    "V0222_13_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        9970
+      ],
+      "duelist": [],
+      "text": "¡Ogro Dragón del Vacío!"
+    },
+    "V0222_37_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8732
+      ],
+      "duelist": [],
+      "text": "¡Que la lanza destroce los residuos helados!"
+    },
+    "V0222_37_00_03_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Sincronía!"
+    },
+    "V0222_13_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        8732
+      ],
+      "duelist": [],
+      "text": "¡Manifiéstate,\nTrishula, Dragón de la Barrera de Hielo!"
+    },
+    "V0222_13_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13972
+      ],
+      "duelist": [],
+      "text": "¡Emerge,\nTrishula, el Dragón de la Prisión Helada!"
+    },
+    "V0222_13_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        15834
+      ],
+      "duelist": [],
+      "text": "¡Álzate,\nTrishula, Dragón Cero de la Barrera de Hielo!"
+    },
+    "V0222_13_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6960
+      ],
+      "duelist": [],
+      "text": "¡Lobo de Guerra de Genes Cambiados!"
+    },
+    "V0222_13_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5004
+      ],
+      "duelist": [],
+      "text": "¡Jinete Vorse!"
+    },
+    "V0222_13_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        15070
+      ],
+      "duelist": [],
+      "text": "¡Toma el Campo,\nArchidemonio Aniquilador!"
+    },
+    "V0222_13_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        10634
+      ],
+      "duelist": [],
+      "text": "¡Adelante,\nEmperador de Archidemonios, el Primer Señor del Horror!"
+    },
+    "V0222_13_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        7370
+      ],
+      "duelist": [],
+      "text": "¡Manifiéstate,\nReina Archidemonio Encarcelada!"
+    },
+    "V0222_13_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        9277
+      ],
+      "duelist": [],
+      "text": "¡Muéstrate,\nEmperatriz Archidemonio!"
+    },
+    "V0222_13_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        21051
+      ],
+      "duelist": [],
+      "text": "¡Sal,\nBestia de Talwar - La Cúspide de la Espada!"
+    },
+    "V0222_13_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        8332
+      ],
+      "duelist": [],
+      "text": "¡Aquí viene Calavera Zombi Archidemonio!"
+    },
+    "V0222_13_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        10874
+      ],
+      "duelist": [],
+      "text": "¡Aquí está Gigante Archidemonio!"
+    },
+    "V0222_13_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        10686
+      ],
+      "duelist": [],
+      "text": "¡Comandante Archidemonio, muéstranos el camino!"
+    },
+    "V0222_13_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        19483
+      ],
+      "duelist": [],
+      "text": "¡Únete a mí,\nArchidemonio Enfurecido!"
+    },
+    "V0222_13_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        4789
+      ],
+      "duelist": [],
+      "text": "¡Únete a la lucha, Bestia de Talwar!"
+    },
+    "V0222_13_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        7149
+      ],
+      "duelist": [],
+      "text": "¡Vamos, Archidemonio de Niebla!"
+    },
+    "V0222_13_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        5303
+      ],
+      "duelist": [],
+      "text": "¡Demonio Menor,\nmuéstrate!"
+    },
+    "V0222_13_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7110
+      ],
+      "duelist": [],
+      "text": "¡General Archidemonio!"
+    },
+    "V0222_13_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5762
+      ],
+      "duelist": [],
+      "text": "¡Archidemonio Soldado!"
+    },
+    "V0222_13_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6417
+      ],
+      "duelist": [],
+      "text": "¡Ciber Archidemonio!"
+    },
+    "V0222_13_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10633
+      ],
+      "duelist": [],
+      "text": "¡Caballería Archidemonio!"
+    },
+    "V0222_13_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9909
+      ],
+      "duelist": [],
+      "text": "¡Archidemonio del Trance!"
+    },
+    "V0222_13_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10632
+      ],
+      "duelist": [],
+      "text": "¡Heredera Archidemonio!"
+    },
+    "V0222_19_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8817
+      ],
+      "duelist": [],
+      "text": "¡Dragón Inférnico de la Perdición,\nataca!"
+    },
+    "V0222_19_00_00_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Descarga de la Llama Infernal"
+    },
+    "V0222_19_00_01_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9862
+      ],
+      "duelist": [],
+      "text": "¡General Inférnico, ataca!"
+    },
+    "V0222_19_00_01_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Hoja Inférnica!"
+    },
+    "V0222_19_00_02_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9859
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Arquero Inférnico!"
+    },
+    "V0222_19_00_02_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Ballesta Inférnica!"
+    },
+    "V0222_19_00_03_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8275
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Destructor Inférnico!"
+    },
+    "V0222_19_00_04_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15516
+      ],
+      "duelist": [],
+      "text": "¡Archidemonio Inférnico de la Perdición,\nataca!"
+    },
+    "V0222_19_00_04_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Presión Oscura Infernal!"
+    },
+    "V0222_19_00_05_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8274
+      ],
+      "duelist": [],
+      "text": "¡Guardián Inférnico, ataca!"
+    },
+    "V0222_19_00_06_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8272
+      ],
+      "duelist": [],
+      "text": "¡Archidemonio Inférnico,\nataca!"
+    },
+    "V0222_19_00_06_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Presión Infernal!"
+    },
+    "V0222_19_00_07_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        11923
+      ],
+      "duelist": [],
+      "text": "¡Patriarca Inférnico,\nataca!"
+    },
+    "V0222_19_00_08_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9710
+      ],
+      "duelist": [],
+      "text": "¡Caballero Inférnico,\nmutila!"
+    },
+    "V0222_19_00_09_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8443
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Nigromante Inférnico!"
+    },
+    "V0222_19_00_10_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8303
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Bestia Inférnica!"
+    },
+    "V0222_19_00_10_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Aullido Infernal!"
+    },
+    "V0222_19_00_11_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20039
+      ],
+      "duelist": [],
+      "text": "¡Reina Inférnica,\nataca!"
+    },
+    "V0222_19_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15496
+      ],
+      "duelist": [],
+      "text": "¡Gato Salvaje Inférnico,\nhazlos pedazos!"
+    },
+    "V0222_19_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15495
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Conjurador Inférnico!"
+    },
+    "V0222_19_00_14_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8273
+      ],
+      "duelist": [],
+      "text": "¡Blande tu hacha, Enano Inférnico!"
+    },
+    "V0222_19_00_15_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8790
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Escarabajo Inférnico!"
+    },
+    "V0222_19_00_15_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Explosión de Escarabajo!"
+    },
+    "V0222_19_00_16_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15884
+      ],
+      "duelist": [],
+      "text": "¡Sabio Inférnico,\nataca!"
+    },
+    "V0222_19_00_17_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8788
+      ],
+      "duelist": [],
+      "text": "¡Espejismo Inférnico,\nataca!"
+    },
+    "V0222_19_00_18_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8791
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Vengador Inférnico!"
+    },
+    "V0222_19_00_19_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8789
+      ],
+      "duelist": [],
+      "text": "¡Ve, Generador de Azar Inférnico!\n¡Ataca!"
+    },
+    "V0222_19_00_20_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15885
+      ],
+      "duelist": [],
+      "text": "¡Peón Inférnico,\nataca!"
+    },
+    "V0222_19_00_21_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22740,
+        3684
+      ],
+      "duelist": [],
+      "text": "¡Tirador Inférnico de la Perdición,\ncalcínalos!"
+    },
+    "V0222_19_00_22_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3683
+      ],
+      "duelist": [],
+      "text": "¡<card mrk=/> ataca!"
+    },
+    "V0222_19_00_23_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "¡<card mrk=99999/>,\nataca!"
+    },
+    "V0222_19_00_24_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "¡<card mrk=99999/>,\nataca!"
+    },
+    "V0222_19_00_25_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        99999
+      ],
+      "duelist": [],
+      "text": "¡<card mrk=99999/>,\nataca!"
+    },
+    "V0222_19_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9970
+      ],
+      "duelist": [],
+      "text": "¡Ogro Dragón del Vacío,\nataca!"
+    },
+    "V0222_19_00_26_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Estallido de Caos Inférnico!"
+    },
+    "V0222_19_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8732
+      ],
+      "duelist": [],
+      "text": "¡Trishula, Dragón de la Barrera de Hielo,\nataca!"
+    },
+    "V0222_19_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13972
+      ],
+      "duelist": [],
+      "text": "¡Trishula, el Dragón de la Prisión Helada,\nataca!"
+    },
+    "V0222_19_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15834
+      ],
+      "duelist": [],
+      "text": "¡Trishula, Dragón Cero de la Barrera de Hielo,\nataca!"
+    },
+    "V0222_19_00_30_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6960
+      ],
+      "duelist": [],
+      "text": "¡Lobo de Guerra de Genes Cambiados,\nataca!"
+    },
+    "V0222_19_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5004
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Jinete Vorse!"
+    },
+    "V0222_19_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        15070
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Archidemonio Aniquilador!"
+    },
+    "V0222_19_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10634
+      ],
+      "duelist": [],
+      "text": "¡Emperador de Archidemonios, el Primer Señor del Horror,\nataca!"
+    },
+    "V0222_19_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7370
+      ],
+      "duelist": [],
+      "text": "¡Reina Archidemonio Encarcelada,\nataca!"
+    },
+    "V0222_19_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9277
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Emperatriz Archidemonio!"
+    },
+    "V0222_19_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        21051
+      ],
+      "duelist": [],
+      "text": "¡Bestia de Talwar - La Cúspide de la Espada,\nataca!"
+    },
+    "V0222_19_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        8332
+      ],
+      "duelist": [],
+      "text": "¡Calavera Zombi Archidemonio ataca!"
+    },
+    "V0222_19_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10874
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Gigante Archidemonio!"
+    },
+    "V0222_19_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10686
+      ],
+      "duelist": [],
+      "text": "¡Comandante Archidemonio,\nataca!"
+    },
+    "V0222_19_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19483
+      ],
+      "duelist": [],
+      "text": "¡Archidemonio Enfurecido,\nvuélvete loco!"
+    },
+    "V0222_19_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4789
+      ],
+      "duelist": [],
+      "text": "¡Bestia de Talwar, ataca!"
+    },
+    "V0222_19_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7149
+      ],
+      "duelist": [],
+      "text": "¡Archidemonio de Niebla,\nataca!"
+    },
+    "V0222_19_00_43_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5303
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Demonio Menor!"
+    },
+    "V0222_19_00_44_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        7110
+      ],
+      "duelist": [],
+      "text": "¡General Archidemonio,\nataca!"
+    },
+    "V0222_19_00_45_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        5762
+      ],
+      "duelist": [],
+      "text": "¡Archidemonio Soldado,\nataca!"
+    },
+    "V0222_19_00_46_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        6417
+      ],
+      "duelist": [],
+      "text": "¡Ciber Archidemonio ataca!"
+    },
+    "V0222_19_00_47_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10633
+      ],
+      "duelist": [],
+      "text": "¡Caballería Archidemonio,\na la carga!"
+    },
+    "V0222_19_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        9909
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Archidemonio del Trance!"
+    },
+    "V0222_19_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        10632
+      ],
+      "duelist": [],
+      "text": "¡Heredera Archidemonio,\nataca!"
+    },
+    "V0222_48_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Vamos allá!"
+    },
+    "V0222_48_01_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Prepárate para sentir la emoción!"
+    },
+    "V0222_51_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Kalin Kessler!"
+    },
+    "V0222_51_01_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡A luchar!"
+    },
+    "V0222_49_00_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Muy bien!"
+    },
+    "V0222_49_01_00_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Rush Duel Turbo!"
+    },
+    "V0222_38_00_00_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Preparados..., listos... ¡A luchar!"
+    },
+    "V0222_22_00_00_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Agh!"
+    },
+    "V0222_22_00_01_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Argh!"
+    },
+    "V0222_22_00_02_0": {
+      "face": 4,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Aaah!"
+    },
+    "V0222_26_00_00_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Bah..."
+    },
+    "V0222_26_00_01_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Eso no me lo esperaba!"
+    },
+    "V0222_26_00_02_0": {
+      "face": 11,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Puedo soportar más que eso!"
+    },
+    "V0222_25_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Gaaagh!"
+    },
+    "V0222_25_00_01_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Aaaaah!"
+    },
+    "V0222_25_00_02_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Ugh!"
+    },
+    "V0222_27_00_00_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Imposible..."
+    },
+    "V0222_27_00_01_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "No puede ser verdad..."
+    },
+    "V0222_27_00_02_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Debo seguir luchando..."
+    },
+    "V0222_24_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Arrghhh..."
+    },
+    "V0222_23_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 3,
+      "card": [],
+      "duelist": [],
+      "text": "¡Aaaaaah!"
+    }
+  }
+}

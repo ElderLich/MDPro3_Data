@@ -5361,7 +5361,7 @@
         10310
       ],
       "duelist": [],
-      "text": "Ich aktiviere den Effekt von Dampfsynchron!"
+      "text": "Ich aktiviere den Effekt von <card mrk='10310 '/>!"
     },
     "V0219_09_00_104_0": {
       "face": 3,
@@ -5621,7 +5621,7 @@
         9294
       ],
       "duelist": [],
-      "text": "Sternenstaubphantom aktiviert den Effekt, wenn er zerstört wird!"
+      "text": "<card mrk='9294 '/> aktiviert den Effekt, wenn er zerstört wird!"
     },
     "V0219_09_00_130_0": {
       "face": 3,
@@ -5631,7 +5631,7 @@
         9294
       ],
       "duelist": [],
-      "text": "Ich verbanne Sternenstaubphantom von meinem Friedhof!"
+      "text": "Ich verbanne <card mrk='9294 '/> von meinem Friedhof!"
     },
     "V0219_09_00_131_0": {
       "face": 3,
@@ -6095,7 +6095,7 @@
         10310
       ],
       "duelist": [],
-      "text": "Das Empfänger-Monster Dampfsynchron!"
+      "text": "Das Empfänger-Monster <card mrk='10310 '/>!"
     },
     "V0219_13_00_84_0": {
       "face": 3,
@@ -6145,7 +6145,7 @@
         8612
       ],
       "duelist": [],
-      "text": "Motor-Einrad!"
+      "text": "<card mrk='8612 '/>!"
     },
     "V0219_13_00_89_0": {
       "face": 3,
@@ -6345,7 +6345,7 @@
         9294
       ],
       "duelist": [],
-      "text": "Sternenstaubphantom!"
+      "text": "<card mrk='9294 '/>!"
     },
     "V0219_13_00_109_0": {
       "face": 3,
@@ -6697,7 +6697,7 @@
         10310
       ],
       "duelist": [],
-      "text": "Dampfsynchron! Angriff!"
+      "text": "<card mrk='10310 '/>! Angriff!"
     },
     "V0219_19_00_84_0": {
       "face": 3,
@@ -6747,7 +6747,7 @@
         8612
       ],
       "duelist": [],
-      "text": "Motor-Einrad! Angriff!"
+      "text": "<card mrk='8612 '/>! Angriff!"
     },
     "V0219_19_00_89_0": {
       "face": 3,
@@ -6947,7 +6947,7 @@
         9294
       ],
       "duelist": [],
-      "text": "Angriff, Sternenstaubphantom!"
+      "text": "Angriff, <card mrk='9294 '/>!"
     },
     "V0219_19_00_109_0": {
       "face": 3,

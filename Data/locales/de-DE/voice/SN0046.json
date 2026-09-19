@@ -2009,7 +2009,7 @@
         13640
       ],
       "duelist": [],
-      "text": "Ich aktiviere den Effekt von <card mrk='13640 '/>!"
+      "text": "Ich aktiviere den Effekt von Königlicher Herr der Drachen!"
     },
     "V0046_09_00_07_0": {
       "face": 2,
@@ -2167,7 +2167,7 @@
         13640
       ],
       "duelist": [],
-      "text": "<card mrk='13640 '/>!"
+      "text": "Königlicher Herr der Drachen!"
     },
     "V0046_13_00_22_0": {
       "face": 2,
@@ -2369,7 +2369,7 @@
         13640
       ],
       "duelist": [],
-      "text": "<card mrk='13640 '/> greift an!"
+      "text": "Königlicher Herr der Drachen greift an!"
     },
     "V0046_19_00_22_0": {
       "face": 3,

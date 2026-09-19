@@ -101,7 +101,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Sei vorsichtig!\nIch habe gehört, sie ist in LINK VRAINS ein Superstar!"
     },
@@ -119,7 +121,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Varis!\nIch werde vor nichts Halt machen, um dich zu besiegen!"
     },

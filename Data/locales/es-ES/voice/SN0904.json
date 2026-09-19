@@ -1401,7 +1401,7 @@
         18980
       ],
       "duelist": [],
-      "text": "¡Protégete de las llamas furiosas!\n¡Equipo la !"
+      "text": "¡Protégete de las llamas furiosas!\n¡Equipo la Mortaja Vaciovelg!"
     },
     "V0904_08_00_02_0": {
       "face": 3,
@@ -1664,7 +1664,7 @@
       "frame": 1,
       "cutin": 0,
       "card": [
-        19454
+        17990
       ],
       "duelist": [],
       "text": "¡La carta Transi Vaciovelg activa su efecto!"
@@ -1739,7 +1739,7 @@
         19763
       ],
       "duelist": [],
-      "text": "¡Activo el efecto de la carta Caosmaquia Vaciovelg!"
+      "text": "¡Activo el efecto de la carta Caosmachia Vaciovelg!"
     },
     "V0904_09_00_11_0": {
       "face": 3,
@@ -1946,7 +1946,7 @@
       "frame": 1,
       "cutin": 2,
       "card": [
-        19454
+        17990
       ],
       "duelist": [],
       "text": "¡Transi Vaciovelg!"
@@ -2045,7 +2045,7 @@
         19763
       ],
       "duelist": [],
-      "text": "¡Caosmaquia Vaciovelg!"
+      "text": "¡Caosmachia Vaciovelg!"
     },
     "V0904_37_00_07_0": {
       "face": 3,
@@ -2322,7 +2322,7 @@
       "frame": 1,
       "cutin": 0,
       "card": [
-        19454
+        17990
       ],
       "duelist": [],
       "text": "¡Ataca, Transi Vaciovelg!"
@@ -2397,7 +2397,7 @@
         19763
       ],
       "duelist": [],
-      "text": "¡Caosmaquia Vaciovelg!\n¡Ataca!"
+      "text": "¡Caosmachia Vaciovelg!\n¡Ataca!"
     },
     "V0904_19_00_09_1": {
       "face": 3,

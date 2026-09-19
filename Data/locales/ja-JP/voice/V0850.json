@@ -151,11 +151,6 @@
   },
   "labelver": 1,
   "BeforeDuel": {
-    "sub": 1,
-    "pat": [
-      4
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_01_00_00_0": {
         "fullName": "V0850_01_00_00_0",
@@ -166,6 +161,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -178,6 +175,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -190,6 +189,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       },
@@ -202,24 +203,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 3
       }
     }
   },
   "BeforeDuelSp": {
-    "sub": 8,
-    "pat": [
-      601,
-      4,
-      607,
-      4,
-      605,
-      5,
-      849,
-      6
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_01_00_04_0": {
         "fullName": "V0850_01_00_04_0",
@@ -233,6 +224,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 4
       },
@@ -242,11 +235,14 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          605
+          605,
+          616
         ],
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 5
       },
@@ -261,17 +257,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 6
       }
     }
   },
   "DuelStart": {
-    "sub": 1,
-    "pat": [
-      1
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_02_00_00_0": {
         "fullName": "V0850_02_00_00_0",
@@ -282,121 +275,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       }
     }
   },
   "TurnStart": {
-    "sub": 3,
-    "pat": [
-      2,
-      2,
-      2
-    ],
-    "rawKvp": {
-      "0": {
-        "fullName": "V0850_03_00_00_0",
-        "shortName": "V0850_03_00_00",
-        "voiceIdx": "0",
-        "cards": null,
-        "duelists": null,
-        "skills": null,
-        "situations": [
-          0
-        ],
-        "engineparams": null,
-        "subCategoryIndex": 0,
-        "patternIndex": 0
-      },
-      "1": {
-        "fullName": "V0850_03_00_01_0",
-        "shortName": "V0850_03_00_01",
-        "voiceIdx": "0",
-        "cards": null,
-        "duelists": null,
-        "skills": null,
-        "situations": [
-          0
-        ],
-        "engineparams": null,
-        "subCategoryIndex": 0,
-        "patternIndex": 1
-      },
-      "2": {
-        "fullName": "V0850_03_00_02_0",
-        "shortName": "V0850_03_00_02",
-        "voiceIdx": "0",
-        "cards": null,
-        "duelists": null,
-        "skills": null,
-        "situations": [
-          1
-        ],
-        "engineparams": null,
-        "subCategoryIndex": 0,
-        "patternIndex": 2
-      },
-      "3": {
-        "fullName": "V0850_03_00_03_0",
-        "shortName": "V0850_03_00_03",
-        "voiceIdx": "0",
-        "cards": null,
-        "duelists": null,
-        "skills": null,
-        "situations": [
-          1
-        ],
-        "engineparams": null,
-        "subCategoryIndex": 0,
-        "patternIndex": 3
-      },
-      "4": {
-        "fullName": "V0850_03_00_04_0",
-        "shortName": "V0850_03_00_04",
-        "voiceIdx": "0",
-        "cards": null,
-        "duelists": null,
-        "skills": null,
-        "situations": [
-          2
-        ],
-        "engineparams": null,
-        "subCategoryIndex": 0,
-        "patternIndex": 4
-      },
-      "5": {
-        "fullName": "V0850_03_00_05_0",
-        "shortName": "V0850_03_00_05",
-        "voiceIdx": "0",
-        "cards": null,
-        "duelists": null,
-        "skills": null,
-        "situations": [
-          2
-        ],
-        "engineparams": null,
-        "subCategoryIndex": 0,
-        "patternIndex": 5
-      }
-    }
-  },
-  "TurnStart.01": {
-    "sub": 12,
-    "pat": [
-      0,
-      0,
-      0,
-      1,
-      1,
-      2,
-      1,
-      3,
-      2,
-      4,
-      2,
-      5
-    ],
     "rawKvp": {
       "V0850_03_00_00_0": {
         "fullName": "V0850_03_00_00_0",
@@ -409,6 +295,8 @@
           0
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -423,6 +311,8 @@
           0
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -437,6 +327,8 @@
           1
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       },
@@ -451,6 +343,8 @@
           1
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 3
       },
@@ -465,6 +359,8 @@
           2
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 4
       },
@@ -479,22 +375,18 @@
           2
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 5
       }
     }
   },
-  "Draw": {
-    "sub": 3,
-    "pat": [
-      1,
-      1,
-      1
-    ],
+  "TurnStart.01": {
     "rawKvp": {
-      "0": {
-        "fullName": "V0850_04_00_00_0",
-        "shortName": "V0850_04_00_00",
+      "V0850_03_00_00_0": {
+        "fullName": "V0850_03_00_00_0",
+        "shortName": "V0850_03_00_00",
         "voiceIdx": "0",
         "cards": null,
         "duelists": null,
@@ -503,12 +395,30 @@
           0
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
-      "1": {
-        "fullName": "V0850_04_00_01_0",
-        "shortName": "V0850_04_00_01",
+      "V0850_03_00_01_0": {
+        "fullName": "V0850_03_00_01_0",
+        "shortName": "V0850_03_00_01",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": [
+          0
+        ],
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 0,
+        "patternIndex": 1
+      },
+      "V0850_03_00_02_0": {
+        "fullName": "V0850_03_00_02_0",
+        "shortName": "V0850_03_00_02",
         "voiceIdx": "0",
         "cards": null,
         "duelists": null,
@@ -517,12 +427,30 @@
           1
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
-        "patternIndex": 1
+        "patternIndex": 2
       },
-      "2": {
-        "fullName": "V0850_04_00_02_0",
-        "shortName": "V0850_04_00_02",
+      "V0850_03_00_03_0": {
+        "fullName": "V0850_03_00_03_0",
+        "shortName": "V0850_03_00_03",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": [
+          1
+        ],
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 0,
+        "patternIndex": 3
+      },
+      "V0850_03_00_04_0": {
+        "fullName": "V0850_03_00_04_0",
+        "shortName": "V0850_03_00_04",
         "voiceIdx": "0",
         "cards": null,
         "duelists": null,
@@ -531,21 +459,30 @@
           2
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
-        "patternIndex": 2
+        "patternIndex": 4
+      },
+      "V0850_03_00_05_0": {
+        "fullName": "V0850_03_00_05_0",
+        "shortName": "V0850_03_00_05",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": [
+          2
+        ],
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 0,
+        "patternIndex": 5
       }
     }
   },
-  "Draw.01": {
-    "sub": 6,
-    "pat": [
-      0,
-      0,
-      1,
-      1,
-      2,
-      2
-    ],
+  "Draw": {
     "rawKvp": {
       "V0850_04_00_00_0": {
         "fullName": "V0850_04_00_00_0",
@@ -558,6 +495,8 @@
           0
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -572,6 +511,8 @@
           1
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -586,17 +527,66 @@
           2
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 0,
+        "patternIndex": 2
+      }
+    }
+  },
+  "Draw.01": {
+    "rawKvp": {
+      "V0850_04_00_00_0": {
+        "fullName": "V0850_04_00_00_0",
+        "shortName": "V0850_04_00_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": [
+          0
+        ],
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 0,
+        "patternIndex": 0
+      },
+      "V0850_04_00_01_0": {
+        "fullName": "V0850_04_00_01_0",
+        "shortName": "V0850_04_00_01",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": [
+          1
+        ],
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 0,
+        "patternIndex": 1
+      },
+      "V0850_04_00_02_0": {
+        "fullName": "V0850_04_00_02_0",
+        "shortName": "V0850_04_00_02",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": [
+          2
+        ],
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       }
     }
   },
   "DestinyDraw": {
-    "sub": 1,
-    "pat": [
-      1
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_05_00_00_0": {
         "fullName": "V0850_05_00_00_0",
@@ -607,17 +597,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       }
     }
   },
   "BeforeCardEffect": {
-    "sub": 1,
-    "pat": [
-      4
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_06_01_00_0": {
         "fullName": "V0850_06_01_00_0",
@@ -628,6 +615,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 1,
         "patternIndex": 0
       },
@@ -640,6 +629,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 1,
         "patternIndex": 1
       },
@@ -652,6 +643,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 1,
         "patternIndex": 2
       },
@@ -664,31 +657,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 1,
         "patternIndex": 3
       }
     }
   },
   "CardEffect": {
-    "sub": 15,
-    "pat": [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      2,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_07_00_00_0": {
         "fullName": "V0850_07_00_00_0",
@@ -699,6 +675,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -711,6 +689,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 1,
         "patternIndex": 0
       },
@@ -723,6 +703,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 2,
         "patternIndex": 0
       },
@@ -735,6 +717,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 3,
         "patternIndex": 0
       },
@@ -747,6 +731,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 4,
         "patternIndex": 0
       },
@@ -759,6 +745,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 5,
         "patternIndex": 0
       },
@@ -771,6 +759,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 6,
         "patternIndex": 0
       },
@@ -783,6 +773,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 7,
         "patternIndex": 0
       },
@@ -795,6 +787,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 8,
         "patternIndex": 0
       },
@@ -807,6 +801,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 9,
         "patternIndex": 0
       },
@@ -819,6 +815,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 9,
         "patternIndex": 1
       },
@@ -831,6 +829,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 10,
         "patternIndex": 0
       },
@@ -843,6 +843,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 11,
         "patternIndex": 0
       },
@@ -855,6 +857,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 12,
         "patternIndex": 0
       },
@@ -867,6 +871,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 13,
         "patternIndex": 0
       },
@@ -879,17 +885,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 14,
         "patternIndex": 0
       }
     }
   },
   "BeforeSummon": {
-    "sub": 1,
-    "pat": [
-      3
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_10_00_00_0": {
         "fullName": "V0850_10_00_00_0",
@@ -900,6 +903,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -912,6 +917,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -924,27 +931,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       }
     }
   },
   "Summon": {
-    "sub": 11,
-    "pat": [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      3
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_11_00_00_0": {
         "fullName": "V0850_11_00_00_0",
@@ -955,6 +949,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -967,6 +963,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 1,
         "patternIndex": 0
       },
@@ -979,6 +977,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 2,
         "patternIndex": 0
       },
@@ -991,6 +991,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 3,
         "patternIndex": 0
       },
@@ -1003,6 +1005,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 4,
         "patternIndex": 0
       },
@@ -1015,6 +1019,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 5,
         "patternIndex": 0
       },
@@ -1027,6 +1033,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 6,
         "patternIndex": 0
       },
@@ -1039,6 +1047,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 7,
         "patternIndex": 0
       },
@@ -1051,6 +1061,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 8,
         "patternIndex": 0
       },
@@ -1063,6 +1075,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 9,
         "patternIndex": 0
       },
@@ -1075,6 +1089,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 10,
         "patternIndex": 0
       },
@@ -1087,6 +1103,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 10,
         "patternIndex": 1
       },
@@ -1099,17 +1117,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 10,
         "patternIndex": 2
       }
     }
   },
   "BattleStart": {
-    "sub": 1,
-    "pat": [
-      2
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_14_00_00_0": {
         "fullName": "V0850_14_00_00_0",
@@ -1120,6 +1135,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1132,17 +1149,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       }
     }
   },
   "BeforeAttackNormal": {
-    "sub": 1,
-    "pat": [
-      3
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_15_00_00_0": {
         "fullName": "V0850_15_00_00_0",
@@ -1153,6 +1167,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1165,6 +1181,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -1177,17 +1195,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       }
     }
   },
   "Attack": {
-    "sub": 1,
-    "pat": [
-      3
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_17_00_00_0": {
         "fullName": "V0850_17_00_00_0",
@@ -1198,6 +1213,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1210,6 +1227,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -1222,17 +1241,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       }
     }
   },
   "BeforeAttackFinish": {
-    "sub": 1,
-    "pat": [
-      2
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_16_00_00_0": {
         "fullName": "V0850_16_00_00_0",
@@ -1243,6 +1259,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1255,17 +1273,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       }
     }
   },
   "DirectAttack": {
-    "sub": 1,
-    "pat": [
-      2
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_18_00_00_0": {
         "fullName": "V0850_18_00_00_0",
@@ -1276,6 +1291,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1288,18 +1305,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       }
     }
   },
   "CardSet": {
-    "sub": 2,
-    "pat": [
-      2,
-      2
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_20_00_00_0": {
         "fullName": "V0850_20_00_00_0",
@@ -1310,6 +1323,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1322,6 +1337,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -1334,6 +1351,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 1,
         "patternIndex": 0
       },
@@ -1346,121 +1365,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 1,
         "patternIndex": 1
       }
     }
   },
   "TurnEnd": {
-    "sub": 3,
-    "pat": [
-      1,
-      1,
-      1
-    ],
-    "rawKvp": {
-      "0": {
-        "fullName": "V0850_21_00_00_0",
-        "shortName": "V0850_21_00_00",
-        "voiceIdx": "0",
-        "cards": null,
-        "duelists": null,
-        "skills": null,
-        "situations": [
-          0
-        ],
-        "engineparams": null,
-        "subCategoryIndex": 0,
-        "patternIndex": 0
-      },
-      "1": {
-        "fullName": "V0850_21_00_01_0",
-        "shortName": "V0850_21_00_01",
-        "voiceIdx": "0",
-        "cards": null,
-        "duelists": null,
-        "skills": null,
-        "situations": [
-          0
-        ],
-        "engineparams": null,
-        "subCategoryIndex": 0,
-        "patternIndex": 1
-      },
-      "2": {
-        "fullName": "V0850_21_00_02_0",
-        "shortName": "V0850_21_00_02",
-        "voiceIdx": "0",
-        "cards": null,
-        "duelists": null,
-        "skills": null,
-        "situations": [
-          1
-        ],
-        "engineparams": null,
-        "subCategoryIndex": 0,
-        "patternIndex": 2
-      },
-      "3": {
-        "fullName": "V0850_21_00_03_0",
-        "shortName": "V0850_21_00_03",
-        "voiceIdx": "0",
-        "cards": null,
-        "duelists": null,
-        "skills": null,
-        "situations": [
-          1
-        ],
-        "engineparams": null,
-        "subCategoryIndex": 0,
-        "patternIndex": 3
-      },
-      "4": {
-        "fullName": "V0850_21_00_04_0",
-        "shortName": "V0850_21_00_04",
-        "voiceIdx": "0",
-        "cards": null,
-        "duelists": null,
-        "skills": null,
-        "situations": [
-          2
-        ],
-        "engineparams": null,
-        "subCategoryIndex": 0,
-        "patternIndex": 4
-      },
-      "5": {
-        "fullName": "V0850_21_00_05_0",
-        "shortName": "V0850_21_00_05",
-        "voiceIdx": "0",
-        "cards": null,
-        "duelists": null,
-        "skills": null,
-        "situations": [
-          2
-        ],
-        "engineparams": null,
-        "subCategoryIndex": 0,
-        "patternIndex": 5
-      }
-    }
-  },
-  "TurnEnd.01": {
-    "sub": 12,
-    "pat": [
-      0,
-      0,
-      0,
-      1,
-      1,
-      2,
-      1,
-      3,
-      2,
-      4,
-      2,
-      5
-    ],
     "rawKvp": {
       "V0850_21_00_00_0": {
         "fullName": "V0850_21_00_00_0",
@@ -1473,6 +1385,8 @@
           0
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1487,6 +1401,8 @@
           0
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -1501,6 +1417,8 @@
           1
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       },
@@ -1515,6 +1433,8 @@
           1
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 3
       },
@@ -1529,6 +1449,8 @@
           2
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 4
       },
@@ -1543,17 +1465,114 @@
           2
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 0,
+        "patternIndex": 5
+      }
+    }
+  },
+  "TurnEnd.01": {
+    "rawKvp": {
+      "V0850_21_00_00_0": {
+        "fullName": "V0850_21_00_00_0",
+        "shortName": "V0850_21_00_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": [
+          0
+        ],
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 0,
+        "patternIndex": 0
+      },
+      "V0850_21_00_01_0": {
+        "fullName": "V0850_21_00_01_0",
+        "shortName": "V0850_21_00_01",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": [
+          0
+        ],
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 0,
+        "patternIndex": 1
+      },
+      "V0850_21_00_02_0": {
+        "fullName": "V0850_21_00_02_0",
+        "shortName": "V0850_21_00_02",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": [
+          1
+        ],
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 0,
+        "patternIndex": 2
+      },
+      "V0850_21_00_03_0": {
+        "fullName": "V0850_21_00_03_0",
+        "shortName": "V0850_21_00_03",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": [
+          1
+        ],
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 0,
+        "patternIndex": 3
+      },
+      "V0850_21_00_04_0": {
+        "fullName": "V0850_21_00_04_0",
+        "shortName": "V0850_21_00_04",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": [
+          2
+        ],
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 0,
+        "patternIndex": 4
+      },
+      "V0850_21_00_05_0": {
+        "fullName": "V0850_21_00_05_0",
+        "shortName": "V0850_21_00_05",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": [
+          2
+        ],
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 5
       }
     }
   },
   "Win": {
-    "sub": 1,
-    "pat": [
-      4
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_28_00_00_0": {
         "fullName": "V0850_28_00_00_0",
@@ -1564,6 +1583,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1576,6 +1597,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -1588,6 +1611,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       },
@@ -1600,18 +1625,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 3
       }
     }
   },
   "WinSp": {
-    "sub": 2,
-    "pat": [
-      605,
-      4
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_28_00_04_0": {
         "fullName": "V0850_28_00_04_0",
@@ -1619,22 +1640,20 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          605
+          605,
+          616
         ],
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 4
       }
     }
   },
   "Lose": {
-    "sub": 1,
-    "pat": [
-      4
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_29_00_00_0": {
         "fullName": "V0850_29_00_00_0",
@@ -1645,6 +1664,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1657,6 +1678,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -1669,6 +1692,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       },
@@ -1681,18 +1706,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 3
       }
     }
   },
   "LoseSp": {
-    "sub": 2,
-    "pat": [
-      605,
-      4
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_29_00_04_0": {
         "fullName": "V0850_29_00_04_0",
@@ -1700,22 +1721,20 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          605
+          605,
+          616
         ],
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 4
       }
     }
   },
   "Surprise": {
-    "sub": 1,
-    "pat": [
-      2
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_31_00_00_0": {
         "fullName": "V0850_31_00_00_0",
@@ -1726,6 +1745,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1738,17 +1759,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       }
     }
   },
   "Skill": {
-    "sub": 1,
-    "pat": [
-      5
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_33_00_00_0": {
         "fullName": "V0850_33_00_00_0",
@@ -1759,6 +1777,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1771,6 +1791,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -1783,6 +1805,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       },
@@ -1795,6 +1819,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 3
       },
@@ -1809,17 +1835,14 @@
         ],
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 4
       }
     }
   },
   "Taunt": {
-    "sub": 1,
-    "pat": [
-      9
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_30_00_00_0": {
         "fullName": "V0850_30_00_00_0",
@@ -1830,6 +1853,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1842,6 +1867,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -1854,6 +1881,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       },
@@ -1866,6 +1895,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 3
       },
@@ -1878,6 +1909,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 4
       },
@@ -1890,6 +1923,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 5
       },
@@ -1902,6 +1937,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 6
       },
@@ -1914,6 +1951,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 7
       },
@@ -1926,17 +1965,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 8
       }
     }
   },
   "SwitchToPartner": {
-    "sub": 1,
-    "pat": [
-      6
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_36_00_00_0": {
         "fullName": "V0850_36_00_00_0",
@@ -1949,6 +1985,8 @@
           0
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1963,6 +2001,8 @@
           1
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -1977,6 +2017,8 @@
           2
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       },
@@ -1986,13 +2028,16 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          605
+          605,
+          616
         ],
         "skills": null,
         "situations": [
           0
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 3
       },
@@ -2002,13 +2047,16 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          605
+          605,
+          616
         ],
         "skills": null,
         "situations": [
           1
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 4
       },
@@ -2018,52 +2066,22 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          605
+          605,
+          616
         ],
         "skills": null,
         "situations": [
           2
         ],
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 5
       }
     }
   },
   "MainMagicTrap": {
-    "sub": 18,
-    "pat": [
-      13094,
-      0,
-      13094,
-      1,
-      11159,
-      2,
-      5669,
-      3,
-      5129,
-      4,
-      4663,
-      5,
-      7389,
-      6,
-      6266,
-      7,
-      13108,
-      8
-    ],
-    "engineparams": [
-      [
-        1,
-        2
-      ],
-      0,
-      [
-        4,
-        6
-      ],
-      1
-    ],
     "rawKvp": {
       "V0850_08_00_00_0": {
         "fullName": "V0850_08_00_00_0",
@@ -2079,6 +2097,8 @@
           1,
           2
         ],
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -2096,6 +2116,8 @@
           4,
           6
         ],
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -2110,6 +2132,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       },
@@ -2124,6 +2148,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 3
       },
@@ -2138,6 +2164,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 4
       },
@@ -2152,6 +2180,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 5
       },
@@ -2166,6 +2196,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 6
       },
@@ -2180,6 +2212,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 7
       },
@@ -2194,24 +2228,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 8
       }
     }
   },
   "MainMonsterEffect": {
-    "sub": 8,
-    "pat": [
-      13053,
-      0,
-      13052,
-      1,
-      9388,
-      2,
-      9174,
-      3
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_09_00_00_0": {
         "fullName": "V0850_09_00_00_0",
@@ -2224,6 +2248,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -2238,6 +2264,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -2252,6 +2280,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       },
@@ -2266,28 +2296,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 3
       }
     }
   },
   "MainMonsterSummon": {
-    "sub": 12,
-    "pat": [
-      13053,
-      0,
-      13051,
-      1,
-      13052,
-      2,
-      11785,
-      3,
-      9388,
-      4,
-      9174,
-      5
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_13_00_00_0": {
         "fullName": "V0850_13_00_00_0",
@@ -2300,6 +2316,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -2314,6 +2332,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -2328,6 +2348,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       },
@@ -2342,6 +2364,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 3
       },
@@ -2356,6 +2380,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 4
       },
@@ -2370,28 +2396,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 5
       }
     }
   },
   "MainMonsterAttack": {
-    "sub": 12,
-    "pat": [
-      13053,
-      0,
-      13051,
-      1,
-      13052,
-      2,
-      11785,
-      3,
-      9388,
-      4,
-      9174,
-      5
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_19_00_00_0": {
         "fullName": "V0850_19_00_00_0",
@@ -2404,6 +2416,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -2418,6 +2432,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -2432,6 +2448,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       },
@@ -2446,6 +2464,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 3
       },
@@ -2460,6 +2480,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 4
       },
@@ -2474,17 +2496,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 5
       }
     }
   },
   "Damage": {
-    "sub": 1,
-    "pat": [
-      3
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_22_00_00_0": {
         "fullName": "V0850_22_00_00_0",
@@ -2495,6 +2514,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -2507,6 +2528,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -2519,17 +2542,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       }
     }
   },
   "AfterDamage": {
-    "sub": 1,
-    "pat": [
-      3
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_26_00_00_0": {
         "fullName": "V0850_26_00_00_0",
@@ -2540,6 +2560,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -2552,6 +2574,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -2564,17 +2588,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       }
     }
   },
   "BigDamage": {
-    "sub": 1,
-    "pat": [
-      3
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_25_00_00_0": {
         "fullName": "V0850_25_00_00_0",
@@ -2585,6 +2606,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -2597,6 +2620,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -2609,17 +2634,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       }
     }
   },
   "AfterBigDamage": {
-    "sub": 1,
-    "pat": [
-      3
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_27_00_00_0": {
         "fullName": "V0850_27_00_00_0",
@@ -2630,6 +2652,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -2642,6 +2666,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -2654,17 +2680,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       }
     }
   },
   "CostDamage": {
-    "sub": 1,
-    "pat": [
-      1
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_24_00_00_0": {
         "fullName": "V0850_24_00_00_0",
@@ -2675,17 +2698,14 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       }
     }
   },
   "FinishDamage": {
-    "sub": 1,
-    "pat": [
-      1
-    ],
-    "engineparams": [],
     "rawKvp": {
       "V0850_23_00_00_0": {
         "fullName": "V0850_23_00_00_0",
@@ -2696,6 +2716,8 @@
         "skills": null,
         "situations": null,
         "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       }

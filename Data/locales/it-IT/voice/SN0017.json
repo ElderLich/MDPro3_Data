@@ -2381,7 +2381,7 @@
         13640
       ],
       "duelist": [],
-      "text": "Attivo l'effetto di <card mrk='13640 '/>!"
+      "text": "Attivo l'effetto di Regale Signore di D.!"
     },
     "V0017_09_00_07_0": {
       "face": 1,
@@ -2539,7 +2539,7 @@
         13640
       ],
       "duelist": [],
-      "text": "<card mrk='13640 '/>!"
+      "text": "Regale Signore di D.!"
     },
     "V0017_13_00_22_0": {
       "face": 1,
@@ -2741,7 +2741,7 @@
         13640
       ],
       "duelist": [],
-      "text": "<card mrk='13640 '/> attacca!"
+      "text": "Regale Signore di D. attacca!"
     },
     "V0017_19_00_22_0": {
       "face": 3,

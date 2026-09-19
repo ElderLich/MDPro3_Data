@@ -75,7 +75,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Tu auras le cafard quand j'en aurai fini avec toi !"
     },
@@ -945,7 +946,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "J'ai gagné, Varis !"
     },
@@ -1051,7 +1053,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Tu es coriace...\nEt tu n'étais même pas à fond..."
     },
@@ -3022,6 +3025,256 @@
       "card": [],
       "duelist": [],
       "text": "Aaaaaaaaah !"
+    },
+    "V0604_08_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20296
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nDiffusion Farstar !"
+    },
+    "V0604_08_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20296
+      ],
+      "duelist": [],
+      "text": "Je bannis Diffusion Farstar de mon Cimetière !"
+    },
+    "V0604_08_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20297
+      ],
+      "duelist": [],
+      "text": "J'active ma Carte Piège !\nDemoiselle aux Larmes Bleues !"
+    },
+    "V0604_08_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20297
+      ],
+      "duelist": [],
+      "text": "Je bannis Demoiselle aux Larmes Bleues de mon Cimetière !"
+    },
+    "V0604_09_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Comme j'ai Invoqué par Fusion Battematite du Groupe Farstar, je peux activer son effet !"
+    },
+    "V0604_09_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Battematite du Groupe Farstar active son effet !"
+    },
+    "V0604_09_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "En Invoquant Ange Noble Farstar par Lien, je peux utiliser cet effet !"
+    },
+    "V0604_09_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Mon Monstre Fusion permet à Ange Noble Farstar d'activer son effet !"
+    },
+    "V0604_09_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Si on subit des dommages, Ange Noble Farstar peut utiliser son effet !"
+    },
+    "V0604_09_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "Je bannis Colchica Farstar de mon Cimetière pour activer son effet !"
+    },
+    "V0604_09_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Aconity Farstar depuis ma main !"
+    },
+    "V0604_09_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "Utiliser Aconity Farstar pour Invoquer par Lien active son effet !"
+    },
+    "V0604_09_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Ange Aquatique Farstar s'active !"
+    },
+    "V0604_09_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "L'effet de Ange Aquatique Farstar s'active quand je l'utilise pour Invoquer par Lien !"
+    },
+    "V0604_13_00_37_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Battematite du Groupe Farstar !"
+    },
+    "V0604_13_00_38_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "La voilà !\nAnge Noble Farstar Lien 2 !"
+    },
+    "V0604_13_00_39_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "Allez !\nColchica Farstar Lien 1 !"
+    },
+    "V0604_13_00_40_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "Aconity Farstar !"
+    },
+    "V0604_13_00_41_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Ange Aquatique Farstar !"
+    },
+    "V0604_19_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Battematite du Groupe Farstar !\nÀ l'attaque !"
+    },
+    "V0604_19_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Ma Carte Ange Noble Farstar attaque !"
+    },
+    "V0604_19_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Colchica Farstar !"
+    },
+    "V0604_19_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Aconity Farstar !"
+    },
+    "V0604_19_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "Ange Aquatique Farstar !\nÀ l'attaque !"
+    },
+    "V0604_19_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17658
+      ],
+      "duelist": [],
+      "text": "G Golem Cœur de Cristal !\nÀ l'attaque !"
     }
   }
 }

@@ -1401,7 +1401,7 @@
         18980
       ],
       "duelist": [],
-      "text": "Proteggimi dalle fiamme divampanti!\nEquipaggio !"
+      "text": "Proteggimi dalle fiamme divampanti!\nEquipaggio Sudario Voidvelg!"
     },
     "V0904_08_00_02_0": {
       "face": 3,
@@ -1664,7 +1664,7 @@
       "frame": 1,
       "cutin": 0,
       "card": [
-        19454
+        17990
       ],
       "duelist": [],
       "text": "Transi Voidvelg attiva il suo effetto!"
@@ -1946,7 +1946,7 @@
       "frame": 1,
       "cutin": 2,
       "card": [
-        19454
+        17990
       ],
       "duelist": [],
       "text": "Transi Voidvelg!"
@@ -2322,7 +2322,7 @@
       "frame": 1,
       "cutin": 0,
       "card": [
-        19454
+        17990
       ],
       "duelist": [],
       "text": "Attacca, Transi Voidvelg!"

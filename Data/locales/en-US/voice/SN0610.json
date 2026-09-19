@@ -66,7 +66,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "I never expected to battle Varis in a place like this..."
     },
@@ -84,7 +85,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "His deck contains a powerful Link Monster."
     },
@@ -102,7 +104,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Oh hey now.\nYou changed your avatar back."
     },
@@ -956,7 +960,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "They can take everything.\nBut don't let 'em take your heart."
     },
@@ -1062,7 +1068,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Varis was toying with me the whole Duel..."
     },
@@ -1072,7 +1079,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "How was he able to get that terrifying card?"
     },
@@ -1082,7 +1090,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Heeeeyyyy!\nYou're playing pretty good!"
     },
@@ -1342,7 +1352,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Let me see if your game's improved."
     },
@@ -1352,7 +1364,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Show 'em why you're the best partner anyone can have."
     },

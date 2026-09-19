@@ -101,7 +101,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Be careful!\nI heard she's a superstar in LINK VRAINS!"
     },
@@ -119,7 +121,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Varis!\nI will stop at nothing to defeat you!"
     },

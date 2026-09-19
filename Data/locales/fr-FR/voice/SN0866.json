@@ -88,7 +88,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        907
       ],
       "text": "Pff !\nJe vais recycler tes véhicules en pièces détachées !"
     },
@@ -1322,7 +1322,7 @@
         20002
       ],
       "duelist": [],
-      "text": "J'équipe la Magie d'Équipement,  !"
+      "text": "J'équipe la Magie d'Équipement, Oiseau-Rafale le Véhicule d'Enquêtes Secrètes !"
     },
     "V0866_08_00_01_0": {
       "face": 3,
@@ -1332,7 +1332,7 @@
         20001
       ],
       "duelist": [],
-      "text": "J'active ma Carte Magie !\n !"
+      "text": "J'active ma Carte Magie !\nManipulation Secrète !"
     },
     "V0866_08_00_02_0": {
       "face": 3,
@@ -1412,7 +1412,7 @@
         19299
       ],
       "duelist": [],
-      "text": "J'active l'effet de la Carte Agent d'Élite du Mystère !"
+      "text": "J'active l'effet de la Carte Enquêtrice d'Élite du Mystère !"
     },
     "V0866_09_00_00_1": {
       "face": 3,
@@ -1440,7 +1440,7 @@
         19295
       ],
       "duelist": [],
-      "text": "J'active l'effet de la Carte Agent Mal Choisi !"
+      "text": "J'active l'effet de la Carte Enquêtrice Mal Choisie !"
     },
     "V0866_09_00_03_0": {
       "face": 3,
@@ -1450,7 +1450,7 @@
         19296
       ],
       "duelist": [],
-      "text": "Erreur d'Agent active son effet !"
+      "text": "Enquêtrice Erronée active son effet !"
     },
     "V0866_09_00_04_0": {
       "face": 3,
@@ -1460,7 +1460,7 @@
         19297
       ],
       "duelist": [],
-      "text": "J'active l'effet de la Carte Agent Incompatible !"
+      "text": "J'active l'effet de la Carte Enquêtrice Incompatible !"
     },
     "V0866_09_00_05_0": {
       "face": 3,
@@ -1470,7 +1470,7 @@
         19970
       ],
       "duelist": [],
-      "text": "J'active la Carte Agent Gaffeur !"
+      "text": "J'active la Carte Enquêtrice Gaffeuse !"
     },
     "V0866_09_00_06_0": {
       "face": 3,
@@ -1480,7 +1480,7 @@
         19298
       ],
       "duelist": [],
-      "text": "J'active l'effet de la Carte Agent Induit en Erreur !"
+      "text": "J'active l'effet de la Carte Enquêtrice Induite en Erreur !"
     },
     "V0866_09_00_07_0": {
       "face": 3,
@@ -1510,7 +1510,7 @@
         19299
       ],
       "duelist": [],
-      "text": "Go !\nAgent d'Élite du Mystère !"
+      "text": "Go !\nEnquêtrice d'Élite du Mystère !"
     },
     "V0866_37_00_01_0": {
       "face": 3,
@@ -1560,7 +1560,7 @@
         19295
       ],
       "duelist": [],
-      "text": "Agent Mal Choisi !"
+      "text": "Enquêtrice Mal Choisie !"
     },
     "V0866_13_00_04_0": {
       "face": 3,
@@ -1570,7 +1570,7 @@
         19296
       ],
       "duelist": [],
-      "text": "Erreur d'Agent !"
+      "text": "Enquêtrice Erronée !"
     },
     "V0866_13_00_05_0": {
       "face": 3,
@@ -1580,7 +1580,7 @@
         19297
       ],
       "duelist": [],
-      "text": "Agent Incompatible !"
+      "text": "Enquêtrice Incompatible !"
     },
     "V0866_13_00_06_0": {
       "face": 3,
@@ -1590,7 +1590,7 @@
         19970
       ],
       "duelist": [],
-      "text": "Agent Gaffeur !"
+      "text": "Enquêtrice Gaffeuse !"
     },
     "V0866_13_00_07_0": {
       "face": 3,
@@ -1600,7 +1600,7 @@
         19298
       ],
       "duelist": [],
-      "text": "Agent Induit en Erreur !"
+      "text": "Enquêtrice Induite en Erreur !"
     },
     "V0866_13_00_08_0": {
       "face": 3,
@@ -1670,7 +1670,7 @@
         19299
       ],
       "duelist": [],
-      "text": "Agent d'Élite du Mystère !\nLacère l'adversaire !"
+      "text": "Enquêtrice d'Élite du Mystère !\nLacère l'adversaire !"
     },
     "V0866_19_00_01_0": {
       "face": 3,
@@ -1680,7 +1680,7 @@
         19299
       ],
       "duelist": [],
-      "text": "À l'attaque, Agent d'Élite du Mystère !"
+      "text": "À l'attaque, Enquêtrice d'Élite du Mystère !"
     },
     "V0866_19_00_01_1": {
       "face": 3,
@@ -1726,7 +1726,7 @@
         19295
       ],
       "duelist": [],
-      "text": "Agent Mal Choisi ! Attaque !"
+      "text": "Enquêtrice Mal Choisie ! Attaque !"
     },
     "V0866_19_00_05_0": {
       "face": 3,
@@ -1736,7 +1736,7 @@
         19296
       ],
       "duelist": [],
-      "text": "À l'attaque, Erreur d'Agent !"
+      "text": "À l'attaque, Enquêtrice Erronée !"
     },
     "V0866_19_00_06_0": {
       "face": 3,
@@ -1746,7 +1746,7 @@
         19297
       ],
       "duelist": [],
-      "text": "Agent Incompatible !\nAttaque !"
+      "text": "Enquêtrice Incompatible !\nAttaque !"
     },
     "V0866_19_00_07_0": {
       "face": 3,
@@ -1756,7 +1756,7 @@
         19970
       ],
       "duelist": [],
-      "text": "Explose-les, Agent Gaffeur !"
+      "text": "Explose-les, Enquêtrice Gaffeuse !"
     },
     "V0866_19_00_08_0": {
       "face": 3,
@@ -1766,7 +1766,7 @@
         19298
       ],
       "duelist": [],
-      "text": "Agent Induit en Erreur !\nAttaque !"
+      "text": "Enquêtrice Induite en Erreur !\nAttaque !"
     },
     "V0866_19_00_09_0": {
       "face": 3,

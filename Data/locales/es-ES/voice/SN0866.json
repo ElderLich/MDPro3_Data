@@ -88,7 +88,7 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        99999
+        907
       ],
       "text": "¡Puf!\n¡Reciclaré tus vehículos y los convertiré en chatarra!"
     },
@@ -1322,7 +1322,7 @@
         20002
       ],
       "duelist": [],
-      "text": "¡Equipo la Carta Mágica de Equipo !"
+      "text": "¡Equipo la Carta Mágica de Equipo Vehículo de Investigación Secreta Ave Ráfaga!"
     },
     "V0866_08_00_01_0": {
       "face": 3,
@@ -1332,7 +1332,7 @@
         20001
       ],
       "duelist": [],
-      "text": "¡Activo mi Carta Mágica!\n¡!"
+      "text": "¡Activo mi Carta Mágica!\n¡Manipulación Secreta!"
     },
     "V0866_08_00_02_0": {
       "face": 3,
@@ -1470,7 +1470,7 @@
         19970
       ],
       "duelist": [],
-      "text": "¡Activo la Agente Despropósito!"
+      "text": "¡Activo la Agente Contratiempo!"
     },
     "V0866_09_00_06_0": {
       "face": 3,
@@ -1590,7 +1590,7 @@
         19970
       ],
       "duelist": [],
-      "text": "¡Agente Despropósito！"
+      "text": "¡Agente Contratiempo！"
     },
     "V0866_13_00_07_0": {
       "face": 3,
@@ -1756,7 +1756,7 @@
         19970
       ],
       "duelist": [],
-      "text": "¡Dispara, Agente Despropósito!"
+      "text": "¡Dispara, Agente Contratiempo!"
     },
     "V0866_19_00_08_0": {
       "face": 3,

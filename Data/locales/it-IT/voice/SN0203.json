@@ -45,7 +45,9 @@
         204,
         205,
         206,
-        209
+        209,
+        219,
+        220
       ],
       "text": "Non ci andrò piano solo perché sei mio amico!"
     },
@@ -2173,7 +2175,7 @@
     "V0203_13_00_52_0": {
       "face": 3,
       "frame": 1,
-      "cutin": 1,
+      "cutin": 2,
       "card": [
         13852
       ],
@@ -3068,7 +3070,10 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        213
+        213,
+        219,
+        220,
+        221
       ],
       "text": "Stavo pensando di radunare gli Esecutori. Che ne dici?"
     },
@@ -3171,7 +3176,9 @@
         204,
         205,
         206,
-        209
+        209,
+        219,
+        220
       ],
       "text": "Bah, non preoccuparti. Siamo ancora amici."
     },
@@ -3421,7 +3428,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Vinci, Yusei! Per tutti noi!"
     },
@@ -3431,7 +3439,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Conto su di te, Yusei!"
     },
@@ -3441,7 +3450,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei! Finché sei vivo, il nostro legame non si spezzerà!"
     },
@@ -3455,7 +3465,8 @@
         204,
         205,
         206,
-        209
+        209,
+        220
       ],
       "text": "Il nostro legame è più forte che mai!"
     },
@@ -3469,7 +3480,8 @@
         204,
         205,
         206,
-        209
+        209,
+        220
       ],
       "text": "Ti passo il testimone!"
     },
@@ -3483,7 +3495,8 @@
         204,
         205,
         206,
-        209
+        209,
+        220
       ],
       "text": "Scusa... Sei la nostra ultima speranza!"
     },
@@ -3606,6 +3619,995 @@
       "card": [],
       "duelist": [],
       "text": "Pronti... Ai posti... Duelliamo!"
+    },
+    "V0203_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo un Effetto Pendulum!"
+    },
+    "V0203_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Attivo una Magia Rituale!"
+    },
+    "V0203_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Tributo!"
+    },
+    "V0203_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Fusione!"
+    },
+    "V0203_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Rituale!"
+    },
+    "V0203_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Evocazione!"
+    },
+    "V0203_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione Xyz!"
+    },
+    "V0203_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione Pendulum!"
+    },
+    "V0203_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione Link!"
+    },
+    "V0203_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco Maximum un mostro!"
+    },
+    "V0203_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione Maximum!"
+    },
+    "V0203_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco un mostro tramite Fusione!"
+    },
+    "V0203_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Fusione!"
+    },
+    "V0203_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco un mostro tramite Fusione Contatto!"
+    },
+    "V0203_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fusione Contatto!"
+    },
+    "V0203_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evoco un mostro tramite Rituale!"
+    },
+    "V0203_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evocazione tramite Rituale!"
+    },
+    "V0203_21_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Non puoi fare nulla per impedirmi di vincere!"
+    },
+    "V0203_21_00_03_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Termino il mio turno!"
+    },
+    "V0203_21_00_04_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Così si conclude il mio turno!"
+    },
+    "V0203_21_00_05_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Non ho certo intenzione di perdere!"
+    },
+    "V0203_21_00_05_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Termino il mio turno!"
+    },
+    "V0203_34_00_10_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Quella carta sarà una bella seccatura!"
+    },
+    "V0203_34_00_11_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Dobbiamo imparare alcuni nuovi trucchetti!"
+    },
+    "V0203_34_00_12_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Sapevo che quella carta era Forza Riflessa!"
+    },
+    "V0203_34_00_13_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Forse riformare gli Esecutori non è poi una cattiva idea."
+    },
+    "V0203_36_00_09_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        213,
+        222
+      ],
+      "text": "Ce la puoi fare, Kalin!"
+    },
+    "V0203_08_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17807
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Magia Continua!\nVortice Piuma Nera!"
+    },
+    "V0203_08_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17807
+      ],
+      "duelist": [],
+      "text": "Si attiva l'effetto di Vortice Piuma Nera!"
+    },
+    "V0203_08_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14347
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Magia Rapida!\nTrascendenza Synchro!"
+    },
+    "V0203_08_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19743
+      ],
+      "duelist": [],
+      "text": "Attivo la Carta Magia Credo Synchro!"
+    },
+    "V0203_08_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13855
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Magia Equipaggiamento!\nBalestra Brillante!"
+    },
+    "V0203_08_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13855
+      ],
+      "duelist": [],
+      "text": "Si attiva l'effetto di Balestra Brillante!"
+    },
+    "V0203_08_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13855
+      ],
+      "duelist": [],
+      "text": "La Synchro Evocazione attiva l'effetto di Balestra Brillante!"
+    },
+    "V0203_08_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17826
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Trappola!\nAlanera - Ombra Gemella!"
+    },
+    "V0203_08_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17827
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Contro-Trappola!\nBurrasca Ombra Nera!"
+    },
+    "V0203_08_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17827
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Burrasca Ombra Nera dal mio Cimitero!"
+    },
+    "V0203_08_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13856
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Contro-Trappola!\nFine Nere Ali!"
+    },
+    "V0203_08_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4887
+      ],
+      "duelist": [],
+      "text": "Attivo la mia Trappola!\nForza Riflessa!"
+    },
+    "V0203_09_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Evocando Specialmente Drago Cremisi, si attiva il suo effetto!"
+    },
+    "V0203_09_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Drago Cremisi!"
+    },
+    "V0203_09_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22722
+      ],
+      "duelist": [],
+      "text": "Synchro Evocando Quetzalcoatl Drago Cremisi, posso usare questo effetto!"
+    },
+    "V0203_09_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22722
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Quetzalcoatl Drago Cremisi!"
+    },
+    "V0203_09_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17797
+      ],
+      "duelist": [],
+      "text": "La mia Drago d'Assalto Ali Nere ha almeno 4 Segnalini!"
+    },
+    "V0203_09_00_53_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "La offrirò come Tributo per distruggere le carte sul Terreno!"
+    },
+    "V0203_09_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "Maestro Armatura Completa Alanera attiva il suo effetto!"
+    },
+    "V0203_09_00_54_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Prendo il controllo del tuo mostro!"
+    },
+    "V0203_09_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Maestro Armatura Completa Alanera durante la End Phase!"
+    },
+    "V0203_09_00_55_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Distrugge tutti i mostri con un Segnalino Cuneo!"
+    },
+    "V0203_09_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13853
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Alanera - Simoon il Vento Tossico!"
+    },
+    "V0203_09_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17798
+      ],
+      "duelist": [],
+      "text": "Posso usare l'effetto di Alanera - Boreatempesta il Vento Malvagio quando viene Synchro Evocata!"
+    },
+    "V0203_09_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17798
+      ],
+      "duelist": [],
+      "text": "L'effetto di Alanera - Boreatempesta il Vento Malvagio si attiva quando viene distrutta in battaglia!"
+    },
+    "V0203_09_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17761
+      ],
+      "duelist": [],
+      "text": "Alanera - Zonda il Crepuscolo attiva il suo effetto quando viene Evocata!"
+    },
+    "V0203_09_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17761
+      ],
+      "duelist": [],
+      "text": "Bandisco Alanera - Zonda il Crepuscolo dal mio Cimitero per attivare il suo effetto!"
+    },
+    "V0203_09_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17760
+      ],
+      "duelist": [],
+      "text": "Evocare Alanera - Sudri il Luccichio Spettrale mi consente di attivare il suo effetto!"
+    },
+    "V0203_09_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17760
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Alanera - Sudri il Luccichio Spettrale!"
+    },
+    "V0203_09_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17758
+      ],
+      "duelist": [],
+      "text": "Mando Alanera - Shamal la Tempesta di Sabbia al Cimitero per attivare il suo effetto!"
+    },
+    "V0203_09_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17758
+      ],
+      "duelist": [],
+      "text": "Bandisco Alanera - Shamal la Tempesta di Sabbia dal Cimitero per attivare il suo effetto!"
+    },
+    "V0203_09_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "Evocando Alanera - Auster il Vento del Sud, si attiva il suo effetto!"
+    },
+    "V0203_09_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "Bandisco Alanera - Auster il Vento del Sud dal Cimitero!"
+    },
+    "V0203_09_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17759
+      ],
+      "duelist": [],
+      "text": "Mando Alanera - Chinook l'Esplosione di Neve al Cimitero per attivare il suo effetto!"
+    },
+    "V0203_09_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17757
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Alanera - Vata l'Emblema del Vagabondaggio!"
+    },
+    "V0203_09_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "Attivo l'effetto di Drago Stella Brillante dalla mia mano!"
+    },
+    "V0203_13_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Drago Cremisi!\nAiutami!"
+    },
+    "V0203_13_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22722
+      ],
+      "duelist": [],
+      "text": "Quetzalcoatl Drago Cremisi!"
+    },
+    "V0203_37_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17797
+      ],
+      "duelist": [],
+      "text": "La tempesta nera manifesta il suo orgoglio sulle sue ali!"
+    },
+    "V0203_13_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        17797
+      ],
+      "duelist": [],
+      "text": "Scateno Drago d'Assalto Ali Nere!"
+    },
+    "V0203_13_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "Maestro Armatura Completa Alanera!"
+    },
+    "V0203_37_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22713
+      ],
+      "duelist": [],
+      "text": "Chiamo in vita il messaggero del disastro!"
+    },
+    "V0203_37_00_13_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchro Evocazione!"
+    },
+    "V0203_13_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22713
+      ],
+      "duelist": [],
+      "text": "Ecco Alanera d'Assalto - Kusanagi la Tempesta Raccoglitrice!"
+    },
+    "V0203_13_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13853
+      ],
+      "duelist": [],
+      "text": "Alanera - Simoon il Vento Tossico!"
+    },
+    "V0203_13_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        17798
+      ],
+      "duelist": [],
+      "text": "Il mio Synchro Tuner!\nAlanera - Boreatempesta il Vento Malvagio!"
+    },
+    "V0203_13_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17761
+      ],
+      "duelist": [],
+      "text": "Alanera - Zonda il Crepuscolo!"
+    },
+    "V0203_13_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17760
+      ],
+      "duelist": [],
+      "text": "Alanera - Sudri il Luccichio Spettrale!"
+    },
+    "V0203_13_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17758
+      ],
+      "duelist": [],
+      "text": "Ed ecco il mio mostro Tuner!\nAlanera - Shamal la Tempesta di Sabbia!"
+    },
+    "V0203_13_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "Ecco il mostro Tuner Alanera - Auster il Vento del Sud!"
+    },
+    "V0203_13_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17759
+      ],
+      "duelist": [],
+      "text": "Alanera - Chinook l'Esplosione di Neve!"
+    },
+    "V0203_13_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17757
+      ],
+      "duelist": [],
+      "text": "Ecco il mio mostro Tuner, Alanera - Vata l'Emblema del Vagabondaggio!"
+    },
+    "V0203_13_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "Ecco il mostro Tuner Drago Stella Brillante!"
+    },
+    "V0203_13_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17836
+      ],
+      "duelist": [],
+      "text": "Evoco Specialmente un Segna-Luccichio Spettrale!"
+    },
+    "V0203_13_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3996
+      ],
+      "duelist": [],
+      "text": "Evoco Specialmente un <card mrk=99999/>!"
+    },
+    "V0203_13_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3985
+      ],
+      "duelist": [],
+      "text": "Evoco Specialmente un Segna-Vapore!"
+    },
+    "V0203_19_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Drago Cremisi!\nAttacca!"
+    },
+    "V0203_19_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22722
+      ],
+      "duelist": [],
+      "text": "Quetzalcoatl Drago Cremisi!\nAttacca!"
+    },
+    "V0203_19_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17797
+      ],
+      "duelist": [],
+      "text": "Drago d'Assalto Ali Nere!\nAttacca!"
+    },
+    "V0203_19_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "Attacca, Maestro Armatura Completa Alanera!"
+    },
+    "V0203_19_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22713
+      ],
+      "duelist": [],
+      "text": "Alanera d'Assalto - Kusanagi la Tempesta Raccoglitrice!\nAttacca!"
+    },
+    "V0203_19_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13853
+      ],
+      "duelist": [],
+      "text": "Alanera - Simoon il Vento Tossico, attacca!"
+    },
+    "V0203_19_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17798
+      ],
+      "duelist": [],
+      "text": "Alanera - Boreatempesta il Vento Malvagio!\nAttacca!"
+    },
+    "V0203_19_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17761
+      ],
+      "duelist": [],
+      "text": "Alanera - Zonda il Crepuscolo!\nAttacca!"
+    },
+    "V0203_19_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17760
+      ],
+      "duelist": [],
+      "text": "Alanera - Sudri il Luccichio Spettrale!\nAttacca!"
+    },
+    "V0203_19_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17758
+      ],
+      "duelist": [],
+      "text": "Attacca, Alanera - Shamal la Tempesta di Sabbia!"
+    },
+    "V0203_19_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "Alanera - Auster il Vento del Sud!\nAttacca!"
+    },
+    "V0203_19_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17759
+      ],
+      "duelist": [],
+      "text": "Alanera - Chinook l'Esplosione di Neve!\nAttacca!"
+    },
+    "V0203_19_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17757
+      ],
+      "duelist": [],
+      "text": "Alanera - Vata l'Emblema del Vagabondaggio!\nAttacca!"
+    },
+    "V0203_19_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "Attacca, Drago Stella Brillante!"
+    },
+    "V0203_19_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17836
+      ],
+      "duelist": [],
+      "text": "Il mio Segna-Luccichio Spettrale attacca!"
+    },
+    "V0203_19_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3996
+      ],
+      "duelist": [],
+      "text": "Il mio <card mrk=99999/> attacca!"
+    },
+    "V0203_19_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3985
+      ],
+      "duelist": [],
+      "text": "Attacco col mio mostro Segna-Vapore!"
+    },
+    "V0203_48_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Evvai!"
+    },
+    "V0203_48_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Preparati per l'azione!"
+    },
+    "V0203_51_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Crow Hogan!"
+    },
+    "V0203_51_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Via col Rush!"
+    },
+    "V0203_49_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Sarà fantastico!"
+    },
+    "V0203_49_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Rush Duel Turbo!"
     }
   }
 }

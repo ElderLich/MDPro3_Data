@@ -1401,7 +1401,7 @@
         18980
       ],
       "duelist": [],
-      "text": "Schutz vor den wütenden Flammen!\nIch rüste  aus!"
+      "text": "Schutz vor den wütenden Flammen!\nIch rüste Voidveld-Leichentuch aus!"
     },
     "V0904_08_00_02_0": {
       "face": 3,
@@ -1664,7 +1664,7 @@
       "frame": 1,
       "cutin": 0,
       "card": [
-        19454
+        17990
       ],
       "duelist": [],
       "text": "Voidvelg-Transi aktiviert den Effekt!"
@@ -1946,7 +1946,7 @@
       "frame": 1,
       "cutin": 2,
       "card": [
-        19454
+        17990
       ],
       "duelist": [],
       "text": "Voidvelg-Transi!"
@@ -2322,7 +2322,7 @@
       "frame": 1,
       "cutin": 0,
       "card": [
-        19454
+        17990
       ],
       "duelist": [],
       "text": "Greif an, Voidvelg-Transi!"

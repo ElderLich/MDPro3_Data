@@ -1502,8 +1502,8 @@
             "ja-JP": "DS鬼柳京介",
             "ko-KR": "다크 시그너 키류 쿄스케",
             "pt-BR": "Signatário das Trevas Kalin Kessler",
-            "zh-CN": "暗黑者 鬼柳京介",
-            "zh-TW": "暗黑者 鬼柳京介"
+            "zh-CN": "暗黑者 鬼柳京介",
+            "zh-TW": "暗黑者 鬼柳京介"
         },
         "NAME_ID0209": {
             "id": "NAME_ID0209",
@@ -2881,7 +2881,7 @@
             "ko-KR": "블루 엔젤",
             "pt-BR": "Anjo Azul",
             "zh-CN": "蓝色天使",
-            "zh-TW": "Blue Angel"
+            "zh-TW": "Blue Angel"
         },
         "NAME_ID0605": {
             "id": "NAME_ID0605",
@@ -2987,6 +2987,32 @@
             "zh-CN": "Soulburner和不灵梦",
             "zh-TW": "Soulburner和不靈夢"
         },
+        "NAME_ID0613": {
+            "id": "NAME_ID0613",
+            "de-DE": "Blue Gal",
+            "en-US": "Blue Gal",
+            "es-ES": "Joven Azul",
+            "fr-FR": "Fille Bleue ",
+            "it-IT": "Blue Gal",
+            "ja-JP": "ブルーガール",
+            "ko-KR": "블루 걸",
+            "pt-BR": "Garota Azul",
+            "zh-CN": "蓝色女孩",
+            "zh-TW": "Blue Gal"
+        },
+        "NAME_ID0614": {
+            "id": "NAME_ID0614",
+            "de-DE": "Blue Maiden und Aqua",
+            "en-US": "Blue Maiden and Aqua",
+            "es-ES": "Doncella Azul y Aqua",
+            "fr-FR": "Demoiselle Bleue et Aqua",
+            "it-IT": "Fanciulla Blu e Acqua",
+            "ja-JP": "ブルーメイデン＆アクア",
+            "ko-KR": "블루 메이든 & 아쿠아",
+            "pt-BR": "Donzela Azul e Aqua",
+            "zh-CN": "蓝色少女和水灵儿",
+            "zh-TW": "Blue Maiden和水靈兒"
+        },
         "NAME_ID0615": {
             "id": "NAME_ID0615",
             "de-DE": "Aqua",
@@ -2999,6 +3025,123 @@
             "pt-BR": "Aqua",
             "zh-CN": "水灵儿",
             "zh-TW": "水靈兒"
+        },
+        "NAME_ID0616": {
+            "id": "NAME_ID0616",
+            "de-DE": "Varis",
+            "en-US": "Varis",
+            "es-ES": "Varis",
+            "fr-FR": "Varis",
+            "it-IT": "Varis",
+            "ja-JP": "リボルバー",
+            "ko-KR": "리볼버",
+            "pt-BR": "Varis",
+            "zh-CN": "左轮",
+            "zh-TW": "左輪"
+        },
+        "NAME_ID0617": {
+            "id": "NAME_ID0617",
+            "de-DE": "Blue Maiden",
+            "en-US": "Blue Maiden",
+            "es-ES": "Doncella Azul",
+            "fr-FR": "Demoiselle Bleue",
+            "it-IT": "Fanciulla Blu",
+            "ja-JP": "ブルーメイデン",
+            "ko-KR": "블루 메이든",
+            "pt-BR": "Donzela Azul",
+            "zh-CN": "蓝色少女",
+            "zh-TW": "Blue Maiden"
+        },
+        "NAME_ID0631": {
+            "id": "NAME_ID0631",
+            "de-DE": "Lightning",
+            "en-US": "Lightning",
+            "es-ES": "Relampago",
+            "fr-FR": "Foundre",
+            "it-IT": "Fulmine",
+            "ja-JP": "ライトニング",
+            "ko-KR": "라이트닝",
+            "pt-BR": "Raio",
+            "zh-CN": "莱特宁",
+            "zh-TW": "萊特寧"
+        },
+        "NAME_ID0632": {
+            "id": "NAME_ID0632",
+            "de-DE": "Windy",
+            "en-US": "Windy",
+            "es-ES": "Viento",
+            "fr-FR": "Vent",
+            "it-IT": "Vento",
+            "ja-JP": "ウィンディ",
+            "ko-KR": "윈디",
+            "pt-BR": "Ventoso",
+            "zh-CN": "温迪",
+            "zh-TW": "溫迪"
+        },
+        "NAME_ID0633": {
+            "id": "NAME_ID0633",
+            "de-DE": "Cal Kolter",
+            "en-US": "Cal Kolter",
+            "es-ES": "Cal Kolter",
+            "fr-FR": "Cal Kolter",
+            "it-IT": "Cal Kolter",
+            "ja-JP": "草薙翔一",
+            "ko-KR": "최상일",
+            "pt-BR": "Cal Kolter",
+            "zh-CN": "草薙翔一",
+            "zh-TW": "草薙翔一"
+        },
+        "NAME_ID0634": {
+            "id": "NAME_ID0634",
+            "de-DE": "Dr. Genom",
+            "en-US": "Dr. Genome",
+            "es-ES": "Dr. Genoma",
+            "fr-FR": "Dr. Genome",
+            "it-IT": "Dr. Genome",
+            "ja-JP": "ドクター・ゲノム",
+            "ko-KR": "닥터 게놈",
+            "pt-BR": "Dr. Genome",
+            "zh-CN": "基因组博士",
+            "zh-TW": "基因組博士"
+        },
+        "NAME_ID0635": {
+            "id": "NAME_ID0635",
+            "de-DE": "Baira",
+            "en-US": "Baira",
+            "es-ES": "Baira",
+            "fr-FR": "Baira",
+            "it-IT": "Baira",
+            "ja-JP": "バイラ",
+            "ko-KR": "바이라",
+            "pt-BR": "Baira",
+            "zh-CN": "拜菈",
+            "zh-TW": "拜菈"
+        },
+        "NAME_ID0636": {
+            "id": "NAME_ID0636",
+            "de-DE": "Faust",
+            "en-US": "Faust",
+            "es-ES": "Fausto",
+            "fr-FR": "Faust",
+            "it-IT": "Faust",
+            "ja-JP": "ファウスト",
+            "ko-KR": "파우스트",
+            "pt-BR": "Faust",
+            "zh-CN": "浮士德",
+            "zh-TW": "浮士德"
+        },
+        "NAME_ID0637": {
+            "id": "NAME_ID0637",
+            "de-DE": "Roken Kogami",
+            "en-US": "Roken Kogami",
+            "es-ES": "Roken Kogami",
+            "fr-FR": "Roken Kogami",
+            "it-IT": "Roken Kogami",
+            "ja-JP": "鴻上了見",
+            "ko-KR": "홍수",
+            "pt-BR": "Roken Kogami",
+            "zh-CN": "鸿上了见",
+            "zh-TW": "鴻上了見"
         },
         "NAME_ID0701": {
             "id": "NAME_ID0701",
@@ -4287,6 +4430,19 @@
             "zh-CN": "安立玛喵",
             "zh-TW": "安立瑪喵"
         },
+        "NAME_ID0907": {
+            "id": "NAME_ID0907",
+            "de-DE": "Asaka Mutsuba",
+            "en-US": "Asaka Mutsuba",
+            "es-ES": "Asaka Mutsuba",
+            "fr-FR": "Asaka Mutsuba",
+            "it-IT": "Asaka Mutsuba",
+            "ja-JP": "六葉アサカ",
+            "ko-KR": "아사카",
+            "pt-BR": "Asaka Mutsuba",
+            "zh-CN": "六叶麻佳",
+            "zh-TW": "六葉亞莎佳"
+        },
         "NAME_ID0931": {
             "id": "NAME_ID0931",
             "de-DE": "Miaudestar",
@@ -4351,6 +4507,19 @@
             "pt-BR": "Tumba",
             "zh-CN": "波奇",
             "zh-TW": "波奇"
+        },
+        "NAME_ID0936": {
+            "id": "NAME_ID0936",
+            "de-DE": "Taubschlag Quill",
+            "en-US": "Pidgeflap Quill",
+            "es-ES": "Palomaleteo Quill",
+            "fr-FR": "Pidgeflap Quill",
+            "it-IT": "Pidgeflap Quill",
+            "ja-JP": "加山バッドラブ",
+            "ko-KR": "버드랩",
+            "pt-BR": "Pombaba Quill",
+            "zh-CN": "加山巴德拉普",
+            "zh-TW": "加山憲鴿"
         },
         "NAME_ID8000": {
             "id": "NAME_ID8000",
@@ -4648,7 +4817,7 @@
             "ja-JP": "海竜－ダイダロス",
             "ko-KR": "해룡－다이달로스",
             "pt-BR": "Levia-Dragão - Daedalus",
-            "zh-CN": "海龙－戴达罗斯",
+            "zh-CN": "海龙－代达罗斯",
             "zh-TW": "海龍－戴達羅斯"
         },
         "NAME_ID9022": {
@@ -4661,7 +4830,7 @@
             "ja-JP": "海竜神－ネオダイダロス",
             "ko-KR": "해룡신－네오다이달로스",
             "pt-BR": "Dragão Senhor do Oceano- Neo-Daedalus",
-            "zh-CN": "海龙神－新代达罗斯",
+            "zh-CN": "海龙神－超代达罗斯",
             "zh-TW": "海龍神－新代達羅斯"
         },
         "NAME_ID9023": {

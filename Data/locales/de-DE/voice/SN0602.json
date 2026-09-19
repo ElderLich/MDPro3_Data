@@ -85,7 +85,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Wow!\nEin Duell mit dem Megastar, der LINK VRAINS gerettet hat!"
     },
@@ -95,7 +97,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Denk nicht mal daran, mich gewinnen zu lassen, Varis!"
     },
@@ -904,7 +907,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Hast du deinen Avatar geändert?\nDer sieht toll aus!"
     },
@@ -922,7 +927,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Du bist schuld, also sieh zu, dass das nie wieder passiert."
     },
@@ -1023,7 +1029,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Ich verstehe, warum du der beliebteste Promi in LINK VRAINS bist!"
     },
@@ -1033,7 +1041,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Du bist kein großartiger Mensch, aber ein toller Duellant."
     },

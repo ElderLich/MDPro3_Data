@@ -1466,7 +1466,7 @@
         19325
       ],
       "duelist": [],
-      "text": "¡Activo la Carta Mágica Compuesto Volcálico!"
+      "text": "¡Activo la Carta Mágica Compuesto Volcanizador!"
     },
     "V0905_08_00_06_0": {
       "face": 3,
@@ -1564,7 +1564,7 @@
         19293
       ],
       "duelist": [],
-      "text": "¡Activo el tercer efecto de la Tormenta de Fuego del Fénix Volcálico!"
+      "text": "¡Activo el tercer efecto de la Rugiente Tormenta de Fuego Volcanización Fénix!"
     },
     "V0905_09_01_01_1": {
       "face": 3,
@@ -1582,7 +1582,7 @@
         19292
       ],
       "duelist": [],
-      "text": "¡Activo el segundo efecto de la Tormenta de Fuego del Fénix Volcálico!"
+      "text": "¡Activo el segundo efecto de la Rugiente Tormenta de Fuego Volcanización Fénix!"
     },
     "V0905_09_01_02_1": {
       "face": 3,
@@ -1600,7 +1600,7 @@
         19294
       ],
       "duelist": [],
-      "text": "¡Activo el efecto de la Tormenta de Fuego del Fénix Volcálico!"
+      "text": "¡Activo el efecto de la Rugiente Tormenta de Fuego Volcanización Fénix!"
     },
     "V0905_09_01_03_1": {
       "face": 3,
@@ -1618,7 +1618,7 @@
         19292
       ],
       "duelist": [],
-      "text": "¡Activo el efecto de la Tormenta de Fuego del Fénix Volcálico [L]!"
+      "text": "¡Activo el efecto de la Rugiente Tormenta de Fuego Volcanización Fénix [L]!"
     },
     "V0905_09_00_05_0": {
       "face": 3,
@@ -1628,7 +1628,7 @@
         19294
       ],
       "duelist": [],
-      "text": "¡Activo el efecto de la Tormenta de Fuego del Fénix Volcálico [R]!"
+      "text": "¡Activo el efecto de la Rugiente Tormenta de Fuego Volcanización Fénix [R]!"
     },
     "V0905_09_00_06_0": {
       "face": 3,
@@ -1792,7 +1792,7 @@
         19290
       ],
       "duelist": [],
-      "text": "¡Mi Hot el Hada Ardiente activa su efecto!"
+      "text": "¡Mi Hot el Hada de la Combustión activa su efecto!"
     },
     "V0905_09_00_20_0": {
       "face": 3,
@@ -1842,7 +1842,7 @@
         19288
       ],
       "duelist": [],
-      "text": "¡Activo el efecto de Melt el Hada Acuática!"
+      "text": "¡Activo el efecto de Melt el Hada Acuosa!"
     },
     "V0905_09_00_25_0": {
       "face": 3,
@@ -1902,7 +1902,7 @@
         19990
       ],
       "duelist": [],
-      "text": "¡Activo el efecto de la carta !"
+      "text": "¡Activo el efecto de la carta Arquero Ígneo Supergráfagas!"
     },
     "V0905_09_00_30_1": {
       "face": 3,
@@ -2036,7 +2036,7 @@
         19293
       ],
       "duelist": [],
-      "text": "¡Tormenta de Fuego del Fénix Volcálico!"
+      "text": "¡Rugiente Tormenta de Fuego Volcanización Fénix!"
     },
     "V0905_13_00_02_0": {
       "face": 3,
@@ -2046,7 +2046,7 @@
         19293
       ],
       "duelist": [],
-      "text": "¡Tormenta de Fuego del Fénix Volcálico!"
+      "text": "¡Rugiente Tormenta de Fuego Volcanización Fénix!"
     },
     "V0905_13_00_03_0": {
       "face": 3,
@@ -2056,7 +2056,7 @@
         19292
       ],
       "duelist": [],
-      "text": "¡Tormenta de Fuego del Fénix Volcálico [L]!"
+      "text": "¡Rugiente Tormenta de Fuego Volcanización Fénix [L]!"
     },
     "V0905_13_00_04_0": {
       "face": 3,
@@ -2066,7 +2066,7 @@
         19294
       ],
       "duelist": [],
-      "text": "¡Tormenta de Fuego del Fénix Volcálico [R]!"
+      "text": "¡Rugiente Tormenta de Fuego Volcanización Fénix [R]!"
     },
     "V0905_37_00_02_0": {
       "face": 3,
@@ -2232,7 +2232,7 @@
         20955
       ],
       "duelist": [],
-      "text": "¡Ifrit Volcálico!"
+      "text": "¡Ifrit Volcanización!"
     },
     "V0905_37_00_09_0": {
       "face": 2,
@@ -2362,7 +2362,7 @@
         19290
       ],
       "duelist": [],
-      "text": "¡Hot el Hada Ardiente!"
+      "text": "¡Hot el Hada de la Combustión!"
     },
     "V0905_13_00_25_0": {
       "face": 3,
@@ -2412,7 +2412,7 @@
         19288
       ],
       "duelist": [],
-      "text": "¡Melt el Hada Acuática!"
+      "text": "¡Melt el Hada Acuosa!"
     },
     "V0905_13_00_30_0": {
       "face": 3,
@@ -2490,7 +2490,7 @@
         19990
       ],
       "duelist": [],
-      "text": "¡!"
+      "text": "¡Arquero Ígneo Supergráfagas!"
     },
     "V0905_37_00_11_0": {
       "face": 3,
@@ -2680,7 +2680,7 @@
         19293
       ],
       "duelist": [],
-      "text": "¡Tormenta de Fuego del Fénix Volcálico!\n¡Ataca!"
+      "text": "¡Rugiente Tormenta de Fuego Volcanización Fénix!\n¡Ataca!"
     },
     "V0905_19_01_01_1": {
       "face": 3,
@@ -2698,7 +2698,7 @@
         19293
       ],
       "duelist": [],
-      "text": "¡Tormenta de Fuego del Fénix Volcálico!\n¡Ataca!"
+      "text": "¡Rugiente Tormenta de Fuego Volcanización Fénix!\n¡Ataca!"
     },
     "V0905_19_01_02_1": {
       "face": 3,
@@ -2716,7 +2716,7 @@
         19293
       ],
       "duelist": [],
-      "text": "¡Ataca, Tormenta de Fuego del Fénix Volcálico!"
+      "text": "¡Ataca, Rugiente Tormenta de Fuego Volcanización Fénix!"
     },
     "V0905_19_00_04_0": {
       "face": 3,
@@ -2726,7 +2726,7 @@
         19292
       ],
       "duelist": [],
-      "text": "¡La Tormenta de Fuego del Fénix Volcálico [L] ataca!"
+      "text": "¡La Rugiente Tormenta de Fuego Volcanización Fénix [L] ataca!"
     },
     "V0905_19_00_05_0": {
       "face": 3,
@@ -2736,7 +2736,7 @@
         19294
       ],
       "duelist": [],
-      "text": "¡La Tormenta de Fuego del Fénix Volcálico [R] ataca!"
+      "text": "¡La Rugiente Tormenta de Fuego Volcanización Fénix [R] ataca!"
     },
     "V0905_19_00_06_0": {
       "face": 3,
@@ -2874,7 +2874,7 @@
         20955
       ],
       "duelist": [],
-      "text": "¡Ifrit Volcálico!\n¡Ataca!"
+      "text": "¡Ifrit Volcanización!\n¡Ataca!"
     },
     "V0905_19_00_15_0": {
       "face": 3,
@@ -3002,7 +3002,7 @@
         19290
       ],
       "duelist": [],
-      "text": "¡Hot el Hada Ardiente!\n¡Ataca!"
+      "text": "¡Hot el Hada de la Combustión!\n¡Ataca!"
     },
     "V0905_19_00_27_0": {
       "face": 3,
@@ -3052,7 +3052,7 @@
         19288
       ],
       "duelist": [],
-      "text": "¡Melt el Hada Acuática!\n¡Ataca!"
+      "text": "¡Melt el Hada Acuosa!\n¡Ataca!"
     },
     "V0905_19_00_32_0": {
       "face": 3,
@@ -3112,7 +3112,7 @@
         19990
       ],
       "duelist": [],
-      "text": "¡!\n¡Fuego!"
+      "text": "¡Arquero Ígneo Supergráfagas!\n¡Fuego!"
     },
     "V0905_19_00_37_1": {
       "face": 3,

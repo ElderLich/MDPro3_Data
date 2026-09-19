@@ -19,7 +19,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "¡Ni pienses en dejarme ganar, Varis!"
     },
@@ -111,7 +112,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Usa combos que merman poco a poco los LP del adversario."
     },
@@ -948,7 +951,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "¿Has cambiado tu avatar?\n¡Este es increíble!"
     },
@@ -966,7 +971,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Este lío es culpa tuya: asegúrate de que no se repita."
     },
@@ -1169,7 +1175,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "¡Veo por qué eres el famoso más popular de ENLACE VRAINS!"
     },
@@ -1179,7 +1187,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Eres una gran persona y, además, un gran duelista."
     },

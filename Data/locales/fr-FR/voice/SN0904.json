@@ -1401,7 +1401,7 @@
         18980
       ],
       "duelist": [],
-      "text": "Protège-nous de la furie des flammes !\nJ'équipe  !"
+      "text": "Protège-nous de la furie des flammes !\nJ'équipe Linceul de Videvelg !"
     },
     "V0904_08_00_02_0": {
       "face": 3,
@@ -1664,7 +1664,7 @@
       "frame": 1,
       "cutin": 0,
       "card": [
-        19454
+        17990
       ],
       "duelist": [],
       "text": "La Carte Transi de Videvelg active son effet !"
@@ -1739,7 +1739,7 @@
         19763
       ],
       "duelist": [],
-      "text": "J'active l'effet de la Carte Videvelgr Chaosmachia !"
+      "text": "J'active l'effet de la Carte Chaosmachie de Videvelg !"
     },
     "V0904_09_00_11_0": {
       "face": 3,
@@ -1946,7 +1946,7 @@
       "frame": 1,
       "cutin": 2,
       "card": [
-        19454
+        17990
       ],
       "duelist": [],
       "text": "Transi de Videvelg !"
@@ -2045,7 +2045,7 @@
         19763
       ],
       "duelist": [],
-      "text": "Videvelgr Chaosmachia !"
+      "text": "Chaosmachie de Videvelg !"
     },
     "V0904_37_00_07_0": {
       "face": 3,
@@ -2322,7 +2322,7 @@
       "frame": 1,
       "cutin": 0,
       "card": [
-        19454
+        17990
       ],
       "duelist": [],
       "text": "À l'attaque, Transi de Videvelg !"
@@ -2397,7 +2397,7 @@
         19763
       ],
       "duelist": [],
-      "text": "Videvelgr Chaosmachia !\nAttaque !"
+      "text": "Chaosmachie de Videvelg !\nAttaque !"
     },
     "V0904_19_00_09_1": {
       "face": 3,

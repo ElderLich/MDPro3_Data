@@ -104,7 +104,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Des joueurs du monde entier aiment tes Duels, moi y compris."
     },
@@ -124,7 +126,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Si tu veux vraiment m'affronter en Duel, comment refuser ?"
     },
@@ -1134,7 +1137,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "C'était un honneur de t'affronter pour ton dernier Duel."
     },
@@ -1144,7 +1149,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Tu n'as même pas pu te sauver et tu viens me sauver moi ?"
     },
@@ -1154,7 +1161,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Je ne base pas ma vie sur un conte, je ne suis pas si bête !"
     },
@@ -1164,7 +1173,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "La vie n'est pas un conte de fées pour enfants."
     },
@@ -1200,7 +1211,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Un Duelliste récolte la gloire, et l'autre la défaite."
     },
@@ -1218,7 +1231,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "On t'appelle Blue Angel parce que tu as toujours le blues ?"
     },
@@ -1238,7 +1253,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Tout ce que je fais, c'est pour vous, Maître Varis."
     },
@@ -1248,7 +1264,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Vous m'avez offert un toit, Maître.\nJe ne vous trahirai pas."
     },
@@ -1364,7 +1381,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Vous m’impressionnerez toujours, Maître Varis."
     },
@@ -1654,7 +1672,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Je compte sur vous pour mettre fin à ce Duel, Maître Varis."
     },
@@ -1664,7 +1683,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "C'est votre tour, Maître Varis."
     },
@@ -1674,7 +1694,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Pardonnez-moi, Maître Varis..."
     },

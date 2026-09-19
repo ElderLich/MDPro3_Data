@@ -45,7 +45,9 @@
         204,
         205,
         206,
-        209
+        209,
+        219,
+        220
       ],
       "text": "Que seamos amigos no significa que te lo vaya a poner fácil."
     },
@@ -2173,7 +2175,7 @@
     "V0203_13_00_52_0": {
       "face": 3,
       "frame": 1,
-      "cutin": 1,
+      "cutin": 2,
       "card": [
         13852
       ],
@@ -3068,7 +3070,10 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        213
+        213,
+        219,
+        220,
+        221
       ],
       "text": "Estoy pensando en reformar a Los Ejecutores, ¿qué te parece?"
     },
@@ -3171,7 +3176,9 @@
         204,
         205,
         206,
-        209
+        209,
+        219,
+        220
       ],
       "text": "Eh, no te preocupes.\nTú y yo seguimos siendo colegas."
     },
@@ -3421,7 +3428,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "¡Gana, Yusei! ¡Por todos nosotros!"
     },
@@ -3431,7 +3439,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "¡Cuento contigo, Yusei!"
     },
@@ -3441,7 +3450,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "¡Yusei! Si tú aguantas, ¡también aguantará nuestro vínculo!"
     },
@@ -3455,7 +3465,8 @@
         204,
         205,
         206,
-        209
+        209,
+        220
       ],
       "text": "¡Nuestro vínculo es más fuerte que nunca!"
     },
@@ -3469,7 +3480,8 @@
         204,
         205,
         206,
-        209
+        209,
+        220
       ],
       "text": "¡Te cedo el testigo!"
     },
@@ -3483,7 +3495,8 @@
         204,
         205,
         206,
-        209
+        209,
+        220
       ],
       "text": "Perdón... ¡Toda esperanza depende de ti!"
     },
@@ -3606,6 +3619,995 @@
       "card": [],
       "duelist": [],
       "text": "Preparados... Listos... ¡A luchar!"
+    },
+    "V0203_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo un efecto de Péndulo!"
+    },
+    "V0203_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Activo una Carta Mágica de Ritual!"
+    },
+    "V0203_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Sacrificio!"
+    },
+    "V0203_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Fusión!"
+    },
+    "V0203_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Ritual!"
+    },
+    "V0203_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Sincronía!"
+    },
+    "V0203_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación Xyz!"
+    },
+    "V0203_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Péndulo!"
+    },
+    "V0203_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Enlace!"
+    },
+    "V0203_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo de Modo Máximo!"
+    },
+    "V0203_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación Máxima!"
+    },
+    "V0203_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Fusión!"
+    },
+    "V0203_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Fusión!"
+    },
+    "V0203_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Fusiono por Contacto un monstruo!"
+    },
+    "V0203_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Fusión de Contacto!"
+    },
+    "V0203_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invoco un monstruo por Ritual!"
+    },
+    "V0203_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Ritual!"
+    },
+    "V0203_21_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Nada de lo que hagas me impedirá vencer."
+    },
+    "V0203_21_00_03_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Pongo fin a mi turno!"
+    },
+    "V0203_21_00_04_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Y así finaliza mi turno!"
+    },
+    "V0203_21_00_05_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Perder no está en mis planes!"
+    },
+    "V0203_21_00_05_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Pongo fin a mi turno!"
+    },
+    "V0203_34_00_10_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Esa carta nos va a fastidiar lo suyo!"
+    },
+    "V0203_34_00_11_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Tienes que aprender nuevos trucos!"
+    },
+    "V0203_34_00_12_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Sabía que esa carta era Fuerza de Espejo!"
+    },
+    "V0203_34_00_13_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Puede que una reformita no le venga mal a los Ejecutores."
+    },
+    "V0203_36_00_09_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        213,
+        222
+      ],
+      "text": "¡Tú puedes con esto, Kalin!"
+    },
+    "V0203_08_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17807
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica Continua,\nRemolino de Pluma Oscura!"
+    },
+    "V0203_08_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17807
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Remolino de Pluma Oscura se activa!"
+    },
+    "V0203_08_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14347
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica de Juego Rápido!\n¡Transcendencia de Sincronía!"
+    },
+    "V0203_08_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19743
+      ],
+      "duelist": [],
+      "text": "¡Activo la Carta Mágica \"Creencia Sincro\"!"
+    },
+    "V0203_08_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13855
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta Mágica de Equipo!\n¡Ballesta Brillante!"
+    },
+    "V0203_08_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13855
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Ballesta Brillante se activa!"
+    },
+    "V0203_08_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13855
+      ],
+      "duelist": [],
+      "text": "¡La Invocación por Sincronía activa el efecto de Ballesta Brillante!"
+    },
+    "V0203_08_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17826
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!\n¡Alanegra - Sombra Gemela!"
+    },
+    "V0203_08_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17827
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Trampa de Contraefecto!\n¡Borrasca Sombra Negra!"
+    },
+    "V0203_08_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17827
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Borrasca Sombra Negra de mi Cementerio!"
+    },
+    "V0203_08_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13856
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Trampa de Contraefecto!\n¡Fin del Ave Negra!"
+    },
+    "V0203_08_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4887
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!\n¡Fuerza de Espejo!"
+    },
+    "V0203_09_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "¡Al Invocar de Modo Especial a Dragón Carmesí, se activa su efecto!"
+    },
+    "V0203_09_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Dragón Carmesí!"
+    },
+    "V0203_09_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22722
+      ],
+      "duelist": [],
+      "text": "¡Al Invocar por Sincronía a Dragón Carmesí Quetzalcoatl, puedo usar este efecto!"
+    },
+    "V0203_09_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22722
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Dragón Carmesí Quetzalcoatl!"
+    },
+    "V0203_09_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17797
+      ],
+      "duelist": [],
+      "text": "¡Mi Dragón de Asalto de Alas Negras tiene al menos 4 Contadores!"
+    },
+    "V0203_09_00_53_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Sacrifico esto para destruir todas las cartas del Campo!"
+    },
+    "V0203_09_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "¡Amo de Armaduras Completas Alanegra activa su efecto!"
+    },
+    "V0203_09_00_54_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Voy a hacerme con el control de tu monstruo!"
+    },
+    "V0203_09_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Amo de Armaduras Completas Alanegra durante la End Phase!"
+    },
+    "V0203_09_00_55_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Destruye a todos los monstruos con un Contador de Cuña!"
+    },
+    "V0203_09_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13853
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Alanegra - Simoon el Viento Envenenado!"
+    },
+    "V0203_09_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17798
+      ],
+      "duelist": [],
+      "text": "¡Puedo usar el efecto de Alanegra - Tormenta Bóreas el Viento Malvado al Invocarlo por Sincronía!"
+    },
+    "V0203_09_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17798
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Alanegra - Tormenta Bóreas el Viento Malvado se activa al destruir esta carta!"
+    },
+    "V0203_09_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17761
+      ],
+      "duelist": [],
+      "text": "¡Alanegra - Zonda el Anochecer activa su efecto al Invocarse!"
+    },
+    "V0203_09_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17761
+      ],
+      "duelist": [],
+      "text": "¡Destierro a Alanegra - Zonda el Anochecer de mi Cementerio para activarlo!"
+    },
+    "V0203_09_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17760
+      ],
+      "duelist": [],
+      "text": "¡Invocar a Alanegra - Sudri el Destello Fantasma me permite activar su efecto!"
+    },
+    "V0203_09_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17760
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Alanegra - Sudri el Destello Fantasma!"
+    },
+    "V0203_09_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17758
+      ],
+      "duelist": [],
+      "text": "¡Mando a Alanegra - Shamal la Tormenta de Arena al Cementerio para activar su efecto!"
+    },
+    "V0203_09_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17758
+      ],
+      "duelist": [],
+      "text": "¡Destierro a Alanegra - Shamal la Tormenta de Arena del Cementerio para activar su efecto!"
+    },
+    "V0203_09_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "¡Invocar a Alanegra - Auster el Viento del Sur activa su efecto!"
+    },
+    "V0203_09_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "¡Destierro a Alanegra - Auster el Viento del Sur del Cementerio!"
+    },
+    "V0203_09_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17759
+      ],
+      "duelist": [],
+      "text": "¡Mando a Alanegra - Chinook la Explosión de Nieve al Cementerio para activar su efecto!"
+    },
+    "V0203_09_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17757
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Alanegra - Vata el Emblema del Errante!"
+    },
+    "V0203_09_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Dragón Estrella Brillante de mi mano!"
+    },
+    "V0203_13_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "¡Dragón Carmesí,\nayúdame!"
+    },
+    "V0203_13_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22722
+      ],
+      "duelist": [],
+      "text": "¡Dragón Carmesí Quetzalcoatl!"
+    },
+    "V0203_37_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17797
+      ],
+      "duelist": [],
+      "text": "¡Este vendaval negro manifiesta su orgullo con sus alas!"
+    },
+    "V0203_13_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        17797
+      ],
+      "duelist": [],
+      "text": "¡Libero a Dragón de Asalto de Alas Negras!"
+    },
+    "V0203_13_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "¡Amo de Armaduras Completas Alanegra!"
+    },
+    "V0203_37_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22713
+      ],
+      "duelist": [],
+      "text": "¡Convoco al precursor de catástrofes!"
+    },
+    "V0203_37_00_13_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Invocación por Sincronía!"
+    },
+    "V0203_13_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22713
+      ],
+      "duelist": [],
+      "text": "¡Aquí viene Alanegra de Asalto - Kusanagi la Tormenta de Acopio!"
+    },
+    "V0203_13_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13853
+      ],
+      "duelist": [],
+      "text": "¡Alanegra - Simoon el Viento Envenenado!"
+    },
+    "V0203_13_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        17798
+      ],
+      "duelist": [],
+      "text": "¡Mi Cantante de Sincronía,\nAlanegra - Tormenta Bóreas el Viento Malvado!"
+    },
+    "V0203_13_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17761
+      ],
+      "duelist": [],
+      "text": "¡Alanegra - Zonda el Anochecer!"
+    },
+    "V0203_13_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17760
+      ],
+      "duelist": [],
+      "text": "¡Alanegra - Sudri el Destello Fantasma!"
+    },
+    "V0203_13_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17758
+      ],
+      "duelist": [],
+      "text": "¡Aquí viene mi Monstruo Cantante,\nAlanegra - Shamal la Tormenta de Arena!"
+    },
+    "V0203_13_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "¡El Monstruo Cantante \"Alanegra - Auster el Viento del Sur\"!"
+    },
+    "V0203_13_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17759
+      ],
+      "duelist": [],
+      "text": "¡Alanegra - Chinook la Explosión de Nieve!"
+    },
+    "V0203_13_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17757
+      ],
+      "duelist": [],
+      "text": "¡Mi Monstruo Cantante \"Alanegra - Vata el Emblema del Errante\"!"
+    },
+    "V0203_13_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "¡El Monstruo Cantante \"Dragón Estrella Brillante\"!"
+    },
+    "V0203_13_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17836
+      ],
+      "duelist": [],
+      "text": "¡Invoco de Modo Especial a \"Ficha Destello Fantasma\"!"
+    },
+    "V0203_13_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3996
+      ],
+      "duelist": [],
+      "text": "¡Invoco de Modo Especial a \"<card mrk=99999/>\"!"
+    },
+    "V0203_13_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3985
+      ],
+      "duelist": [],
+      "text": "¡Invoco de Modo Especial a \"Ficha Vapor\"!"
+    },
+    "V0203_19_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "¡Dragón Carmesí,\nataca!"
+    },
+    "V0203_19_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22722
+      ],
+      "duelist": [],
+      "text": "¡Dragón Carmesí Quetzalcoatl,\nataca!"
+    },
+    "V0203_19_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17797
+      ],
+      "duelist": [],
+      "text": "¡Dragón de Asalto de Alas Negras,\nataca!"
+    },
+    "V0203_19_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Amo de Armaduras Completas Alanegra!"
+    },
+    "V0203_19_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22713
+      ],
+      "duelist": [],
+      "text": "¡Alanegra de Asalto - Kusanagi la Tormenta de Acopio,\nataca!"
+    },
+    "V0203_19_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13853
+      ],
+      "duelist": [],
+      "text": "¡Alanegra - Simoon el Viento Envenenado ataca!"
+    },
+    "V0203_19_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17798
+      ],
+      "duelist": [],
+      "text": "¡Alanegra - Tormenta Bóreas el Viento Malvado,\nataca!"
+    },
+    "V0203_19_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17761
+      ],
+      "duelist": [],
+      "text": "¡Alanegra - Zonda el Anochecer,\nataca!"
+    },
+    "V0203_19_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17760
+      ],
+      "duelist": [],
+      "text": "¡Alanegra - Sudri el Destello Fantasma,\nataca!"
+    },
+    "V0203_19_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17758
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Alanegra - Shamal la Tormenta de Arena!"
+    },
+    "V0203_19_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "¡Alanegra - Auster el Viento del Sur,\nataca!"
+    },
+    "V0203_19_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17759
+      ],
+      "duelist": [],
+      "text": "¡Alanegra - Chinook la Explosión de Nieve,\nataca!"
+    },
+    "V0203_19_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17757
+      ],
+      "duelist": [],
+      "text": "¡Alanegra - Vata el Emblema del Errante,\nataca!"
+    },
+    "V0203_19_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Dragón Estrella Brillante!"
+    },
+    "V0203_19_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17836
+      ],
+      "duelist": [],
+      "text": "¡Mi Ficha Destello Fantasma ataca!"
+    },
+    "V0203_19_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3996
+      ],
+      "duelist": [],
+      "text": "¡Mi <card mrk=99999/> ataca!"
+    },
+    "V0203_19_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3985
+      ],
+      "duelist": [],
+      "text": "¡Ataco con mi Ficha Vapor!"
+    },
+    "V0203_48_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Ah, sí!"
+    },
+    "V0203_48_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Prepárate para sentir la emoción!"
+    },
+    "V0203_51_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Cuervo Hogan!"
+    },
+    "V0203_51_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡A luchar!"
+    },
+    "V0203_49_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Va a ser la bomba!"
+    },
+    "V0203_49_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "¡Rush Duel Turbo!"
     }
   }
 }

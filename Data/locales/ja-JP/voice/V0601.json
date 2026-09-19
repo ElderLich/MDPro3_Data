@@ -527,7 +527,9 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          604
+          604,
+          613,
+          614
         ],
         "skills": null,
         "situations": null,
@@ -543,7 +545,8 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          605
+          605,
+          616
         ],
         "skills": null,
         "situations": null,

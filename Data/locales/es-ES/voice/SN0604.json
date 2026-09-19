@@ -75,7 +75,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "¡Te sentirás triste cuando acabe contigo!"
     },
@@ -945,7 +946,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "¡La victoria es mía, Varis!"
     },
@@ -1051,7 +1053,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Eres fuerte...\nCreo que ni te has esforzado..."
     },
@@ -3022,6 +3025,256 @@
       "card": [],
       "duelist": [],
       "text": "¡Aaaaaaaahhh!"
+    },
+    "V0604_08_00_26_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20296
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!\n¡Difusión Bromiestrella!"
+    },
+    "V0604_08_00_27_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20296
+      ],
+      "duelist": [],
+      "text": "¡Destierro a Difusión Bromiestrella de mi Cementerio!"
+    },
+    "V0604_08_00_28_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20297
+      ],
+      "duelist": [],
+      "text": "¡Activo mi Carta de Trampa!\n¡Doncella de Lágrimas Azules!"
+    },
+    "V0604_08_00_29_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20297
+      ],
+      "duelist": [],
+      "text": "¡Destierro a Doncella de Lágrimas Azules de mi Cementerio!"
+    },
+    "V0604_09_00_48_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "Tras Invocar por Fusión a Bromiestrella Banda Tambormatis, puedo activar su efecto."
+    },
+    "V0604_09_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "¡Bromiestrella Banda Tambormatis activa su efecto!"
+    },
+    "V0604_09_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Al Invocar por Enlace a Bromiestrella Ángel Noble, puedo usar este efecto."
+    },
+    "V0604_09_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Mi Monstruo de Fusión permite a Bromiestrella Ángel Noble activar su efecto."
+    },
+    "V0604_09_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "Si sufrimos daño de efecto, Bromiestrella Ángel Noble podrá usar su efecto."
+    },
+    "V0604_09_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "¡Destierro a Bromiestrella Colchica de mi Cementerio para activar su efecto!"
+    },
+    "V0604_09_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "¡Activo el efecto de Bromiestrella Acónita de mi mano!"
+    },
+    "V0604_09_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "Usar a Bromiestrella Acónita para Invocar por Enlace activa su efecto."
+    },
+    "V0604_09_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "¡Bromiestrella Ángel Aqua activa su efecto!"
+    },
+    "V0604_09_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "¡El efecto de Bromiestrella Ángel Aqua se activa al usarla para Invocar por Enlace!"
+    },
+    "V0604_13_00_37_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "¡Bromiestrella Banda Tambormatis!"
+    },
+    "V0604_13_00_38_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "¡Aquí viene\nBromiestrella Ángel Noble de Enlace 2!"
+    },
+    "V0604_13_00_39_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "¡Vamos,\nBromiestrella Colchica de Enlace 1!"
+    },
+    "V0604_13_00_40_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "¡Bromiestrella Acónita!"
+    },
+    "V0604_13_00_41_0": {
+      "face": 2,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "¡Bromiestrella Ángel Aqua!"
+    },
+    "V0604_19_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20293
+      ],
+      "duelist": [],
+      "text": "¡Bromiestrella Banda Tambormatis,\nataca!"
+    },
+    "V0604_19_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20295
+      ],
+      "duelist": [],
+      "text": "¡Mi Bromiestrella Ángel Noble ataca!"
+    },
+    "V0604_19_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20294
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Bromiestrella Colchica!"
+    },
+    "V0604_19_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20291
+      ],
+      "duelist": [],
+      "text": "¡Ataca, Bromiestrella Acónita!"
+    },
+    "V0604_19_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        20292
+      ],
+      "duelist": [],
+      "text": "¡Bromiestrella Ángel Aqua,\nataca!"
+    },
+    "V0604_19_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17658
+      ],
+      "duelist": [],
+      "text": "¡G Gólem Corazón de Cristal,\nataca!"
     }
   }
 }

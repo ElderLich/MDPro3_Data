@@ -175,6 +175,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       }
@@ -194,6 +197,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       },
@@ -209,6 +213,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 3
       },
@@ -224,6 +229,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 5
       }
@@ -241,6 +247,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       }
@@ -260,6 +269,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -275,6 +287,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -290,6 +305,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 2
       },
@@ -305,6 +323,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 3
       },
@@ -320,6 +341,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 4
       },
@@ -335,6 +359,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 5
       }
@@ -354,6 +381,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -369,6 +399,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -384,6 +417,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 2
       },
@@ -399,6 +435,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 3
       },
@@ -414,6 +453,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 4
       },
@@ -429,6 +471,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 5
       }
@@ -448,6 +493,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -463,6 +511,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -478,6 +529,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 2
       }
@@ -497,6 +551,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -512,6 +569,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -527,6 +587,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 2
       }
@@ -544,6 +607,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 1,
         "patternIndex": 0
       },
@@ -557,6 +623,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 1,
         "patternIndex": 1
       },
@@ -570,6 +639,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 1,
         "patternIndex": 2
       },
@@ -583,6 +655,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 1,
         "patternIndex": 3
       }
@@ -600,6 +675,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -613,6 +691,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 1,
         "patternIndex": 0
       },
@@ -626,6 +707,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 2,
         "patternIndex": 0
       },
@@ -639,6 +723,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 3,
         "patternIndex": 0
       },
@@ -652,6 +739,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 4,
         "patternIndex": 0
       },
@@ -665,6 +755,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 5,
         "patternIndex": 0
       },
@@ -678,6 +771,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 6,
         "patternIndex": 0
       },
@@ -691,6 +787,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 7,
         "patternIndex": 0
       },
@@ -704,6 +803,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 8,
         "patternIndex": 0
       },
@@ -717,6 +819,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 9,
         "patternIndex": 0
       },
@@ -730,6 +835,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 9,
         "patternIndex": 1
       },
@@ -743,6 +851,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 10,
         "patternIndex": 0
       },
@@ -756,6 +867,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 11,
         "patternIndex": 0
       },
@@ -769,6 +883,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 12,
         "patternIndex": 0
       },
@@ -782,6 +899,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 13,
         "patternIndex": 0
       }
@@ -801,6 +921,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -816,6 +940,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -831,6 +959,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 2
       },
@@ -846,6 +978,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 3
       },
@@ -861,6 +997,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 16
       },
@@ -876,6 +1016,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 17
       },
@@ -891,6 +1035,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 18
       },
@@ -906,6 +1054,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 19
       },
@@ -921,6 +1073,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 20
       },
@@ -936,6 +1092,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 21
       },
@@ -951,6 +1111,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 23
       },
@@ -966,6 +1130,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 27
       }
@@ -985,6 +1153,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1000,6 +1172,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -1015,6 +1191,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 2
       },
@@ -1030,6 +1210,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 3
       },
@@ -1045,6 +1229,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 4
       },
@@ -1060,6 +1248,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 5
       },
@@ -1075,6 +1267,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 6
       },
@@ -1090,6 +1286,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 19
       },
@@ -1105,6 +1305,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 20
       },
@@ -1120,6 +1324,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 21
       },
@@ -1135,6 +1343,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 22
       },
@@ -1150,6 +1362,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 23
       },
@@ -1165,6 +1381,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 24
       },
@@ -1180,6 +1400,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 25
       }
@@ -1197,6 +1421,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1210,6 +1437,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -1223,6 +1453,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 2
       },
@@ -1236,6 +1469,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 3
       }
@@ -1253,6 +1489,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1266,6 +1505,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 1,
         "patternIndex": 0
       },
@@ -1279,6 +1521,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 2,
         "patternIndex": 0
       },
@@ -1292,6 +1537,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 3,
         "patternIndex": 0
       },
@@ -1305,6 +1553,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 4,
         "patternIndex": 0
       },
@@ -1318,6 +1569,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 5,
         "patternIndex": 0
       },
@@ -1331,6 +1585,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 6,
         "patternIndex": 0
       },
@@ -1344,6 +1601,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 7,
         "patternIndex": 0
       },
@@ -1357,6 +1617,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 8,
         "patternIndex": 0
       },
@@ -1370,6 +1633,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 9,
         "patternIndex": 0
       },
@@ -1383,6 +1649,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 10,
         "patternIndex": 0
       }
@@ -1402,6 +1671,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1417,6 +1690,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -1432,6 +1709,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 2
       },
@@ -1447,6 +1728,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 3
       },
@@ -1462,6 +1747,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 4
       },
@@ -1477,6 +1766,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 5
       },
@@ -1492,6 +1785,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 6
       },
@@ -1507,6 +1804,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 7
       },
@@ -1522,6 +1823,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 8
       },
@@ -1537,6 +1842,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 21
       },
@@ -1552,6 +1861,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 22
       },
@@ -1567,6 +1880,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 23
       },
@@ -1582,6 +1899,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 24
       },
@@ -1597,6 +1918,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 25
       },
@@ -1612,6 +1937,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 26
       },
@@ -1627,6 +1956,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 27
       },
@@ -1642,6 +1975,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 30
       },
@@ -1657,6 +1994,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 31
       }
@@ -1674,6 +2015,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1687,6 +2031,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       }
@@ -1704,6 +2051,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1717,6 +2067,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -1730,6 +2083,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 2
       }
@@ -1747,6 +2103,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1760,6 +2119,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -1773,6 +2135,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 2
       }
@@ -1790,6 +2155,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1803,6 +2172,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       }
@@ -1820,6 +2193,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1833,6 +2210,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       }
@@ -1852,6 +2233,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -1867,6 +2252,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -1882,6 +2271,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 2
       },
@@ -1897,6 +2290,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 3
       },
@@ -1912,6 +2309,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 4
       },
@@ -1927,6 +2328,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 5
       },
@@ -1942,6 +2347,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 6
       },
@@ -1957,6 +2366,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 7
       },
@@ -1972,6 +2385,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 8
       },
@@ -1987,6 +2404,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 21
       },
@@ -2002,6 +2423,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 22
       },
@@ -2017,6 +2442,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 23
       },
@@ -2032,6 +2461,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 24
       },
@@ -2047,6 +2480,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 25
       },
@@ -2062,6 +2499,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 26
       },
@@ -2077,6 +2518,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 27
       },
@@ -2092,6 +2537,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 30
       },
@@ -2107,6 +2556,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 31
       }
@@ -2124,6 +2577,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -2137,6 +2593,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -2150,6 +2609,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 1,
         "patternIndex": 0
       },
@@ -2163,6 +2625,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 1,
         "patternIndex": 1
       }
@@ -2182,6 +2647,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -2197,6 +2665,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -2212,6 +2683,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 2
       }
@@ -2231,6 +2705,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -2246,6 +2723,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -2261,6 +2741,9 @@
         ],
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 2
       }
@@ -2278,6 +2761,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       }
@@ -2297,6 +2783,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 4
       }
@@ -2314,6 +2801,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       }
@@ -2333,6 +2823,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 3
       },
@@ -2348,6 +2839,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 4
       }
@@ -2365,6 +2857,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -2378,6 +2873,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -2391,6 +2889,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 2
       }
@@ -2408,6 +2909,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -2421,6 +2925,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       }
@@ -2438,6 +2945,10 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       }
@@ -2455,6 +2966,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -2468,6 +2982,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 6
       },
@@ -2481,6 +2998,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 9
       }
@@ -2498,6 +3018,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -2511,6 +3034,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       }
@@ -2528,6 +3054,9 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
         "subCategoryIndex": 0,
         "patternIndex": 1
       }
@@ -2545,6 +3074,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -2558,6 +3088,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -2571,6 +3102,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       }
@@ -2588,6 +3120,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -2601,6 +3134,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -2614,6 +3148,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       }
@@ -2631,6 +3166,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -2644,6 +3180,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -2657,6 +3194,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       }
@@ -2674,6 +3212,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       },
@@ -2687,6 +3226,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 1
       },
@@ -2700,6 +3240,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 2
       }
@@ -2717,6 +3258,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       }
@@ -2734,6 +3276,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
+        "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 0
       }

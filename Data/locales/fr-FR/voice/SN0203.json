@@ -45,7 +45,9 @@
         204,
         205,
         206,
-        209
+        209,
+        219,
+        220
       ],
       "text": "Nous sommes amis, mais je ne vais pas te faire de cadeaux !"
     },
@@ -2173,7 +2175,7 @@
     "V0203_13_00_52_0": {
       "face": 3,
       "frame": 1,
-      "cutin": 1,
+      "cutin": 2,
       "card": [
         13852
       ],
@@ -3068,7 +3070,10 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        213
+        213,
+        219,
+        220,
+        221
       ],
       "text": "Je pensais reformer les Exécuteurs. Qu'en penses-tu ?"
     },
@@ -3171,7 +3176,9 @@
         204,
         205,
         206,
-        209
+        209,
+        219,
+        220
       ],
       "text": "Eh, ne t'en fais pas pour ça.\nNous sommes toujours amis."
     },
@@ -3421,7 +3428,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Tu dois gagner, Yusei ! Pour nous tous !"
     },
@@ -3431,7 +3439,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Je compte sur toi, Yusei !"
     },
@@ -3441,7 +3450,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei ! Tant que tu es en vie, notre lien perdure !"
     },
@@ -3455,7 +3465,8 @@
         204,
         205,
         206,
-        209
+        209,
+        220
       ],
       "text": "Notre lien est plus fort que jamais !"
     },
@@ -3469,7 +3480,8 @@
         204,
         205,
         206,
-        209
+        209,
+        220
       ],
       "text": "Je te passe le relais !"
     },
@@ -3483,7 +3495,8 @@
         204,
         205,
         206,
-        209
+        209,
+        220
       ],
       "text": "Désolé... Tous les espoirs reposent sur toi !"
     },
@@ -3606,6 +3619,995 @@
       "card": [],
       "duelist": [],
       "text": "À vos marques... Prêt... Duel !"
+    },
+    "V0203_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active un Effet Pendule !"
+    },
+    "V0203_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'active une Magie Rituelle !"
+    },
+    "V0203_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Sacrifice !"
+    },
+    "V0203_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Fusion !"
+    },
+    "V0203_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Rituelle !"
+    },
+    "V0203_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0203_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Xyz !"
+    },
+    "V0203_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Pendule !"
+    },
+    "V0203_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Lien !"
+    },
+    "V0203_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Maximum !"
+    },
+    "V0203_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Maximum !"
+    },
+    "V0203_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque un monstre par Fusion !"
+    },
+    "V0203_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Fusion !"
+    },
+    "V0203_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je Contact Fusionne un monstre !"
+    },
+    "V0203_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Contact Fusion !"
+    },
+    "V0203_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "J'Invoque Rituellement un monstre !"
+    },
+    "V0203_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Rituelle !"
+    },
+    "V0203_21_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Rien de ce que tu feras ne m'empêchera de gagner !"
+    },
+    "V0203_21_00_03_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je termine mon tour !"
+    },
+    "V0203_21_00_04_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Voilà qui termine mon tour !"
+    },
+    "V0203_21_00_05_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je n'ai pas prévu de perdre !"
+    },
+    "V0203_21_00_05_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je termine mon tour !"
+    },
+    "V0203_34_00_10_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Cette carte va faire mal !"
+    },
+    "V0203_34_00_11_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tu dois apprendre de nouvelles stratégies !"
+    },
+    "V0203_34_00_12_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je savais que cette carte était Force de Miroir !"
+    },
+    "V0203_34_00_13_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Peut-être que reformer les Exécuteurs n'est pas si mal."
+    },
+    "V0203_36_00_09_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        213,
+        222
+      ],
+      "text": "Tu vas y arriver, Kalin !"
+    },
+    "V0203_08_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17807
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie Continue !\nTourbillon Plume Noire !"
+    },
+    "V0203_08_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17807
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Tourbillon Plume Noire s'active !"
+    },
+    "V0203_08_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14347
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie Jeu-Rapide !\n !Transcendance Synchro !"
+    },
+    "V0203_08_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19743
+      ],
+      "duelist": [],
+      "text": "J'active la Carte Magie Credo Synchro !"
+    },
+    "V0203_08_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13855
+      ],
+      "duelist": [],
+      "text": "J'active ma Magie d'Équipement !\nArbalète Rayonnante !"
+    },
+    "V0203_08_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13855
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Arbalète Rayonnante s'active !"
+    },
+    "V0203_08_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13855
+      ],
+      "duelist": [],
+      "text": "L'Invocation Synchro active l'effet de la Carte Arbalète Rayonnante !"
+    },
+    "V0203_08_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17826
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nAile Noire - Ombre Jumelle !"
+    },
+    "V0203_08_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17827
+      ],
+      "duelist": [],
+      "text": "J'active mon Contre-Piège !\nBourrasque de l'Ombre Noire !"
+    },
+    "V0203_08_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17827
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Bourrasque de l'Ombre Noire depuis mon Cimetière !"
+    },
+    "V0203_08_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13856
+      ],
+      "duelist": [],
+      "text": "J'active mon Contre-Piège !\nOiseau Noir Achevé !"
+    },
+    "V0203_08_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4887
+      ],
+      "duelist": [],
+      "text": "J'active mon Piège !\nForce de Miroir !"
+    },
+    "V0203_09_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "L'Invocation Spéciale de la Carte Dragon Cramoisi active son effet !"
+    },
+    "V0203_09_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Dragon Cramoisi !"
+    },
+    "V0203_09_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22722
+      ],
+      "duelist": [],
+      "text": "En Invoquant par Synchro Quetzalcoatl le Dragon Cramoisi, je peux utiliser cet effet !"
+    },
+    "V0203_09_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22722
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Quetzalcoatl le Dragon Cramoisi !"
+    },
+    "V0203_09_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17797
+      ],
+      "duelist": [],
+      "text": "Ma Carte Dragon d'Assaut Ailes Sombres a au moins 4 Compteurs !"
+    },
+    "V0203_09_00_53_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je la Sacrifie pour détruire toutes les cartes du Terrain !"
+    },
+    "V0203_09_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "La Carte Aile Noire - Maître Complet des Armures active son effet !"
+    },
+    "V0203_09_00_54_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Je prends le contrôle de ton monstre !"
+    },
+    "V0203_09_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Aile Noire - Maître Complet des Armures durant la End Phase !"
+    },
+    "V0203_09_00_55_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Elle détruit tous les monstres avec un Compteur Cuirasse !"
+    },
+    "V0203_09_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13853
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Aile Noire - Simoon le Vent Empoisonné !"
+    },
+    "V0203_09_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17798
+      ],
+      "duelist": [],
+      "text": "Je peux utiliser l'effet de Aile Noire - Boreastempête le Vent Malfaisant à son Invocation Synchro !"
+    },
+    "V0203_09_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17798
+      ],
+      "duelist": [],
+      "text": "L'effet de Aile Noire - Boreastempête le Vent Malfaisant s'active une fois détruite au combat !"
+    },
+    "V0203_09_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17761
+      ],
+      "duelist": [],
+      "text": "L'effet de la Carte Aile Noire - Zonda le Crépuscule s'active lorsqu'elle est Invoquée !"
+    },
+    "V0203_09_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17761
+      ],
+      "duelist": [],
+      "text": "Je bannis Aile Noire - Zonda le Crépuscule de mon Cimetière pour activer son effet !"
+    },
+    "V0203_09_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17760
+      ],
+      "duelist": [],
+      "text": "Invoquer la Carte Aile Noire - Sudri le Miroitement Fantôme me permet d'activer son effet !"
+    },
+    "V0203_09_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17760
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Aile Noire - Sudri le Miroitement Fantôme !"
+    },
+    "V0203_09_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17758
+      ],
+      "duelist": [],
+      "text": "J'envoie Aile Noire - Shamal la Tempête de Sable de ma main au Cimetière pour activer son effet !"
+    },
+    "V0203_09_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17758
+      ],
+      "duelist": [],
+      "text": "Je bannis Aile Noire - Shamal la Tempête de Sable de mon Cimetière pour activer son effet !"
+    },
+    "V0203_09_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "L'Invocation de la Carte Aile Noire - Auster le Vent du Sud active son effet !"
+    },
+    "V0203_09_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "Je bannis Aile Noire - Auster le Vent du Sud du Cimetière !"
+    },
+    "V0203_09_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17759
+      ],
+      "duelist": [],
+      "text": "J'envoie Aile Noire - Chinook le Souffle de Neige de ma main au Cimetière pour activer son effet !"
+    },
+    "V0203_09_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17757
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Aile Noire - Vâta l'Emblème du Vagabondage !"
+    },
+    "V0203_09_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "J'active l'effet de la Carte Dragon de l'Étoile Brillante depuis ma main !"
+    },
+    "V0203_13_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Dragon Cramoisi !\nViens m'aider !"
+    },
+    "V0203_13_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22722
+      ],
+      "duelist": [],
+      "text": "Quetzalcoatl le Dragon Cramoisi !"
+    },
+    "V0203_37_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17797
+      ],
+      "duelist": [],
+      "text": "Le vent noir affiche fièrement sa fierté sur ses ailes !"
+    },
+    "V0203_13_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        17797
+      ],
+      "duelist": [],
+      "text": "Je libère Dragon d'Assaut Ailes Sombres !"
+    },
+    "V0203_13_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "Aile Noire - Maître Complet des Armures !"
+    },
+    "V0203_37_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22713
+      ],
+      "duelist": [],
+      "text": "J'appelle l'émissaire de la calamité !"
+    },
+    "V0203_37_00_13_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Invocation Synchro !"
+    },
+    "V0203_13_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22713
+      ],
+      "duelist": [],
+      "text": "Voici Assaut Aile Noire - Kusanagi la Tempête Rassembleuse !"
+    },
+    "V0203_13_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13853
+      ],
+      "duelist": [],
+      "text": "Aile Noire - Simoon le Vent Empoisonné !"
+    },
+    "V0203_13_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        17798
+      ],
+      "duelist": [],
+      "text": "Mon Syntoniseur Synchro !\nAile Noire - Boreastempête le Vent Malfaisant !"
+    },
+    "V0203_13_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17761
+      ],
+      "duelist": [],
+      "text": "Aile Noire - Zonda le Crépuscule !"
+    },
+    "V0203_13_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17760
+      ],
+      "duelist": [],
+      "text": "Aile Noire - Sudri le Miroitement Fantôme !"
+    },
+    "V0203_13_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17758
+      ],
+      "duelist": [],
+      "text": "Voici mon Monstre Syntoniseur !\nAile Noire - Shamal la Tempête de Sable !"
+    },
+    "V0203_13_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur Aile Noire - Auster le Vent du Sud !"
+    },
+    "V0203_13_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17759
+      ],
+      "duelist": [],
+      "text": "Aile Noire - Chinook le Souffle de Neige !"
+    },
+    "V0203_13_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17757
+      ],
+      "duelist": [],
+      "text": "Mon Monstre Syntoniseur, Aile Noire - Vâta l'Emblème du Vagabondage !"
+    },
+    "V0203_13_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "Le Monstre Syntoniseur Dragon de l'Étoile Brillante !"
+    },
+    "V0203_13_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17836
+      ],
+      "duelist": [],
+      "text": "J'Invoque Spécialement 1 Jeton Miroitement Fantôme !"
+    },
+    "V0203_13_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3996
+      ],
+      "duelist": [],
+      "text": "J'Invoque Spécialement 1 <card mrk=99999/> !"
+    },
+    "V0203_13_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3985
+      ],
+      "duelist": [],
+      "text": "J'Invoque Spécialement 1 Jeton Vapeur !"
+    },
+    "V0203_19_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Dragon Cramoisi !\nÀ l'attaque !"
+    },
+    "V0203_19_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22722
+      ],
+      "duelist": [],
+      "text": "Quetzalcoatl le Dragon Cramoisi !\nÀ l'attaque !"
+    },
+    "V0203_19_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17797
+      ],
+      "duelist": [],
+      "text": "Dragon d'Assaut Ailes Sombres !\nÀ l'attaque !"
+    },
+    "V0203_19_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Aile Noire - Maître Complet des Armures !"
+    },
+    "V0203_19_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22713
+      ],
+      "duelist": [],
+      "text": "Assaut Aile Noire - Kusanagi la Tempête Rassembleuse !\nÀ l'attaque !"
+    },
+    "V0203_19_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13853
+      ],
+      "duelist": [],
+      "text": "Aile Noire - Simoon le Vent Empoisonné attaque !"
+    },
+    "V0203_19_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17798
+      ],
+      "duelist": [],
+      "text": "Aile Noire - Boreastempête le Vent Malfaisant !\nÀ l'attaque !"
+    },
+    "V0203_19_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17761
+      ],
+      "duelist": [],
+      "text": "Aile Noire - Zonda le Crépuscule !\nÀ l'attaque !"
+    },
+    "V0203_19_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17760
+      ],
+      "duelist": [],
+      "text": "Aile Noire - Sudri le Miroitement Fantôme !\nÀ l'attaque !"
+    },
+    "V0203_19_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17758
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Aile Noire - Shamal la Tempête de Sable !"
+    },
+    "V0203_19_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "Aile Noire - Auster le Vent du Sud !\nÀ l'attaque !"
+    },
+    "V0203_19_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17759
+      ],
+      "duelist": [],
+      "text": "Aile Noire - Chinook le Souffle de Neige !\nÀ l'attaque !"
+    },
+    "V0203_19_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17757
+      ],
+      "duelist": [],
+      "text": "Aile Noire - Vâta l'Emblème du Vagabondage !\nÀ l'attaque !"
+    },
+    "V0203_19_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "À l'attaque, Dragon de l'Étoile Brillante !"
+    },
+    "V0203_19_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17836
+      ],
+      "duelist": [],
+      "text": "Ma Carte Jeton Miroitement Fantôme attaque !"
+    },
+    "V0203_19_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3996
+      ],
+      "duelist": [],
+      "text": "Ma Carte <card mrk=99999/> attaque !"
+    },
+    "V0203_19_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3985
+      ],
+      "duelist": [],
+      "text": "J'attaque avec ma Carte Jeton Vapeur !"
+    },
+    "V0203_48_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Oh yeah !"
+    },
+    "V0203_48_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est parti pour le rush !"
+    },
+    "V0203_51_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Crow Hogan !"
+    },
+    "V0203_51_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "C'est l'heure du rush !"
+    },
+    "V0203_49_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ça va être génial !"
+    },
+    "V0203_49_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo Rush Duel !"
     }
   }
 }

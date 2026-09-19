@@ -454,7 +454,8 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          605
+          605,
+          616
         ],
         "skills": null,
         "situations": null,

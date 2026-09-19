@@ -5361,7 +5361,7 @@
         10310
       ],
       "duelist": [],
-      "text": "Ativo o efeito de Sincron de Vapor!"
+      "text": "Ativo o efeito de <card mrk='10310 '/>!"
     },
     "V0219_09_00_104_0": {
       "face": 3,
@@ -5621,7 +5621,7 @@
         9294
       ],
       "duelist": [],
-      "text": "Fantasma da Poeira Estelar ativa seu efeito quando é destruído!"
+      "text": "<card mrk='9294 '/> ativa seu efeito quando é destruído!"
     },
     "V0219_09_00_130_0": {
       "face": 3,
@@ -5631,7 +5631,7 @@
         9294
       ],
       "duelist": [],
-      "text": "Faço o banimento de Fantasma da Poeira Estelar do meu Cemitério!"
+      "text": "Faço o banimento de <card mrk='9294 '/> do meu Cemitério!"
     },
     "V0219_09_00_131_0": {
       "face": 3,
@@ -6095,7 +6095,7 @@
         10310
       ],
       "duelist": [],
-      "text": "O Monstro Regulador, Sincron de Vapor!"
+      "text": "O Monstro Regulador, <card mrk='10310 '/>!"
     },
     "V0219_13_00_84_0": {
       "face": 3,
@@ -6145,7 +6145,7 @@
         8612
       ],
       "duelist": [],
-      "text": "Unicular!"
+      "text": "<card mrk='8612 '/>!"
     },
     "V0219_13_00_89_0": {
       "face": 3,
@@ -6345,7 +6345,7 @@
         9294
       ],
       "duelist": [],
-      "text": "Fantasma da Poeira Estelar!"
+      "text": "<card mrk='9294 '/>!"
     },
     "V0219_13_00_109_0": {
       "face": 3,
@@ -6697,7 +6697,7 @@
         10310
       ],
       "duelist": [],
-      "text": "Sincron de Vapor! Atacar!"
+      "text": "<card mrk='10310 '/>! Atacar!"
     },
     "V0219_19_00_84_0": {
       "face": 3,
@@ -6747,7 +6747,7 @@
         8612
       ],
       "duelist": [],
-      "text": "Unicular! Atacar!"
+      "text": "<card mrk='8612 '/>! Atacar!"
     },
     "V0219_19_00_89_0": {
       "face": 3,
@@ -6947,7 +6947,7 @@
         9294
       ],
       "duelist": [],
-      "text": "Atacar, Fantasma da Poeira Estelar!"
+      "text": "Atacar, <card mrk='9294 '/>!"
     },
     "V0219_19_00_109_0": {
       "face": 3,

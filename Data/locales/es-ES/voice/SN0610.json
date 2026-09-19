@@ -66,7 +66,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Nunca hubiera pensado luchar contra Varis en un sitio así..."
     },
@@ -84,7 +85,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Su Deck contiene un Monstruo de Enlace muy poderoso."
     },
@@ -102,7 +104,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Eh, oye.\nHas vuelto a cambiar tu avatar."
     },
@@ -956,7 +960,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Pueden quitarte todo.\nPero no dejes que te quiten el corazón."
     },
@@ -1062,7 +1068,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Varis ha estado todo el Duelo jugando conmigo..."
     },
@@ -1072,7 +1079,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "¿Cómo ha conseguido esa carta tan aterradora?"
     },
@@ -1082,7 +1090,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "¡Oye!\n¡Estás jugando muy bien!"
     },
@@ -1342,7 +1352,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Déjame ver si has mejorado tu juego."
     },
@@ -1352,7 +1364,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Demuestra por qué eres el mejor compañero que hay."
     },

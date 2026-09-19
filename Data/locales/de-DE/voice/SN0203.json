@@ -45,7 +45,9 @@
         204,
         205,
         206,
-        209
+        209,
+        219,
+        220
       ],
       "text": "Ich werde dich nicht schonen, nur weil du mein Kumpel bist!"
     },
@@ -2173,7 +2175,7 @@
     "V0203_13_00_52_0": {
       "face": 3,
       "frame": 1,
-      "cutin": 1,
+      "cutin": 2,
       "card": [
         13852
       ],
@@ -3068,7 +3070,10 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        213
+        213,
+        219,
+        220,
+        221
       ],
       "text": "Ich dachte daran, die Beschützer zu reformieren. Was sagst du?"
     },
@@ -3171,7 +3176,9 @@
         204,
         205,
         206,
-        209
+        209,
+        219,
+        220
       ],
       "text": "Pff, mach dir keine Sorgen.\nWir sind immer noch Kumpel."
     },
@@ -3421,7 +3428,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Gewinne, Yusei! Für uns alle!"
     },
@@ -3431,7 +3439,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Ich zähl auf dich, Yusei!"
     },
@@ -3441,7 +3450,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        201
+        201,
+        219
       ],
       "text": "Yusei! Solange du lebst, bleibt unsere Bindung für immer bestehen!"
     },
@@ -3455,7 +3465,8 @@
         204,
         205,
         206,
-        209
+        209,
+        220
       ],
       "text": "Unsere Bindung ist enger denn je!"
     },
@@ -3469,7 +3480,8 @@
         204,
         205,
         206,
-        209
+        209,
+        220
       ],
       "text": "Ich gebe den Staffelstab an dich weiter!"
     },
@@ -3483,7 +3495,8 @@
         204,
         205,
         206,
-        209
+        209,
+        220
       ],
       "text": "Entschuldige … Alle Hoffnung ruht auf dir!"
     },
@@ -3606,6 +3619,995 @@
       "card": [],
       "duelist": [],
       "text": "Auf die Plätze … Fertig … Duell!"
+    },
+    "V0203_07_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich aktiviere einen Pendeleffekt!"
+    },
+    "V0203_07_15_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich aktiviere einen Ritualzauber!"
+    },
+    "V0203_11_04_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Tributbeschwörung!"
+    },
+    "V0203_11_05_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fusionsbeschwörung!"
+    },
+    "V0203_11_06_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ritualbeschwörung!"
+    },
+    "V0203_11_07_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchrobeschwörung!"
+    },
+    "V0203_11_08_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Xyz-Beschwörung!"
+    },
+    "V0203_11_09_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Pendelbeschwörung!"
+    },
+    "V0203_11_10_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Linkbeschwörung!"
+    },
+    "V0203_11_11_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Maximalbeschwörung!"
+    },
+    "V0203_11_11_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Maximalbeschwörung!"
+    },
+    "V0203_11_12_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Fusionsbeschwörung!"
+    },
+    "V0203_11_12_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Fusionsbeschwörung!"
+    },
+    "V0203_11_13_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Kontaktfusion!"
+    },
+    "V0203_11_13_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Kontaktfusion!"
+    },
+    "V0203_11_14_00_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beschwöre ein Monster als Ritualbeschwörung!"
+    },
+    "V0203_11_14_01_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ritualbeschwörung!"
+    },
+    "V0203_21_00_03_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Nichts, was du tust, wird mich davon abhalten, zu gewinnen!"
+    },
+    "V0203_21_00_03_1": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beende meinen Spielzug!"
+    },
+    "V0203_21_00_04_0": {
+      "face": 1,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Damit endet mein Spielzug!"
+    },
+    "V0203_21_00_05_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Verlieren steht nicht auf meinem Programm!"
+    },
+    "V0203_21_00_05_1": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich beende meinen Spielzug!"
+    },
+    "V0203_34_00_10_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Diese Karte wird ziemlich nervig werden!"
+    },
+    "V0203_34_00_11_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Du musst ein paar neue Tricks lernen!"
+    },
+    "V0203_34_00_12_0": {
+      "face": 3,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich wusste, dass diese Karte Spiegelkraft war!"
+    },
+    "V0203_34_00_13_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Vielleicht ist es gar keine so schlechte Idee, die Vollstrecker zu reformieren."
+    },
+    "V0203_36_00_09_0": {
+      "face": 7,
+      "frame": 0,
+      "cutin": 0,
+      "card": [],
+      "duelist": [
+        213,
+        222
+      ],
+      "text": "Du schaffst das, Kalin!"
+    },
+    "V0203_08_00_31_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17807
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meinen Permanenten Zauber!\nSchwarzfeder-Wirbelwind!"
+    },
+    "V0203_08_00_32_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17807
+      ],
+      "duelist": [],
+      "text": "Der Effekt von Schwarzfeder-Wirbelwind wird aktiviert!"
+    },
+    "V0203_08_00_33_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        14347
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meinen Schnellzauber!\nSynchro-Überschreitung!"
+    },
+    "V0203_08_00_34_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19743
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere die Zauberkarte Synchrocredo!"
+    },
+    "V0203_08_00_35_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13855
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meinen Ausrüstungszauber!\nGlühende Armbrust!"
+    },
+    "V0203_08_00_36_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13855
+      ],
+      "duelist": [],
+      "text": "Der Effekt von Glühende Armbrust wird aktiviert!"
+    },
+    "V0203_08_00_37_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13855
+      ],
+      "duelist": [],
+      "text": "Synchrobeschwörung aktiviert den Effekt von Glühende Armbrust!"
+    },
+    "V0203_08_00_38_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17826
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meine Falle!\nSchwarzflügel - Zwillingsschatten!"
+    },
+    "V0203_08_00_39_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17827
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meine Konterfalle!\nSchwarzschatten-Windböe!"
+    },
+    "V0203_08_00_40_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17827
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Schwarzschatten-Windböe von meinem Friedhof!"
+    },
+    "V0203_08_00_41_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13856
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meine Konterfalle!\nSchwarzvogel-Abschluss!"
+    },
+    "V0203_08_00_42_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        4887
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere meine Falle!\nSpiegelkraft!"
+    },
+    "V0203_09_00_49_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Die Spezialbeschwörung von Feuerroter Drache aktiviert den Effekt!"
+    },
+    "V0203_09_00_50_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Feuerroter Drache!"
+    },
+    "V0203_09_00_51_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22722
+      ],
+      "duelist": [],
+      "text": "Mit der Synchrobeschwörung von Feuerroter Drache Quetzalcoatl kann ich diesen Effekt nutzen!"
+    },
+    "V0203_09_00_52_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22722
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Feuerroter Drache Quetzalcoatl!"
+    },
+    "V0203_09_00_53_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17797
+      ],
+      "duelist": [],
+      "text": "Mein Schwarz geflügelter Sturmangriffs-Drache hat mindestens 4 Zählmarken!"
+    },
+    "V0203_09_00_53_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich biete es als Tribut an, um jede Karte auf dem Spielfeld zu zerstören!"
+    },
+    "V0203_09_00_54_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "Schwarzflügel-Panzermeister aktiviert seinen Effekt!"
+    },
+    "V0203_09_00_54_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Ich übernehme die Kontrolle über dein Monster!"
+    },
+    "V0203_09_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Schwarzflügel-Panzermeister während der End Phase!"
+    },
+    "V0203_09_00_55_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Es zerstört jedes Monster mit einer Keilzählmarke!"
+    },
+    "V0203_09_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13853
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Schwarzflügel - Simoon der Toxinwind!"
+    },
+    "V0203_09_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17798
+      ],
+      "duelist": [],
+      "text": "Ich kann den Effekt von Schwarzflügel - Boreastorm der boshafte Wind nutzen, wenn es als Synchrobeschwörung beschworen wird!"
+    },
+    "V0203_09_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17798
+      ],
+      "duelist": [],
+      "text": "Der Effekt von Schwarzflügel - Boreastorm der boshafte Wind wird bei Zerstörung im Kampf aktiviert!"
+    },
+    "V0203_09_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17761
+      ],
+      "duelist": [],
+      "text": "Schwarzflügel - Zonda die Dämmerung aktiviert den Effekt, wenn er beschworen wird!"
+    },
+    "V0203_09_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17761
+      ],
+      "duelist": [],
+      "text": "Ich verbanne Schwarzflügel - Zonda die Dämmerung von meinem Friedhof und aktiviere den Effekt!"
+    },
+    "V0203_09_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17760
+      ],
+      "duelist": [],
+      "text": "Durch die Beschwörung von Schwarzflügel - Sudri der Phantomschimmer kann ich seinen Effekt aktivieren!"
+    },
+    "V0203_09_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17760
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Schwarzflügel - Sudri der Phantomschimmer!"
+    },
+    "V0203_09_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17758
+      ],
+      "duelist": [],
+      "text": "Ich lege Schwarzflügel - Schamal der Sandsturm auf den Friedhof, um ihren Effekt zu aktivieren!"
+    },
+    "V0203_09_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17758
+      ],
+      "duelist": [],
+      "text": "Ich verbanne Schwarzflügel - Schamal der Sandsturm aus meinem Friedhof und aktiviere den Effekt!"
+    },
+    "V0203_09_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "Die Beschwörung von Schwarzflügel - Auster der Südwind aktiviert den Effekt!"
+    },
+    "V0203_09_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "Ich verbanne Schwarzflügel - Auster der Südwind vom Friedhof!"
+    },
+    "V0203_09_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17759
+      ],
+      "duelist": [],
+      "text": "Ich lege Schwarzflügel - Chinook die Schneeböe auf den Friedhof, um ihren Effekt zu aktivieren!"
+    },
+    "V0203_09_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17757
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Schwarzflügel - Vata das Symbol des Wanderns!"
+    },
+    "V0203_09_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "Ich aktiviere den Effekt von Glanzstern-Drache von meiner Hand!"
+    },
+    "V0203_13_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Feuerroter Drache!\nHilf mir!"
+    },
+    "V0203_13_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22722
+      ],
+      "duelist": [],
+      "text": "Feuerroter Drache Quetzalcoatl!"
+    },
+    "V0203_37_00_12_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17797
+      ],
+      "duelist": [],
+      "text": "Der schwarze Sturm offenbart seinen Stolz auf seinen Schwingen!"
+    },
+    "V0203_13_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        17797
+      ],
+      "duelist": [],
+      "text": "Ich entfessele Schwarz geflügelter Sturmangriffs-Drache!"
+    },
+    "V0203_13_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "Schwarzflügel-Panzermeister!"
+    },
+    "V0203_37_00_13_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22713
+      ],
+      "duelist": [],
+      "text": "Ich rufe den Vorboten des Unheils herbei!"
+    },
+    "V0203_37_00_13_1": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Synchrobeschwörung!"
+    },
+    "V0203_13_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 2,
+      "card": [
+        22713
+      ],
+      "duelist": [],
+      "text": "Hier kommt Angriffs-Schwarzflügel - Kusanagi der nahende Sturm!"
+    },
+    "V0203_13_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13853
+      ],
+      "duelist": [],
+      "text": "Schwarzflügel - Simoon der Toxinwind!"
+    },
+    "V0203_13_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 1,
+      "card": [
+        17798
+      ],
+      "duelist": [],
+      "text": "Mein Synchro-Empfänger!\nSchwarzflügel - Boreastorm der boshafte Wind!"
+    },
+    "V0203_13_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17761
+      ],
+      "duelist": [],
+      "text": "Schwarzflügel - Zonda die Dämmerung!"
+    },
+    "V0203_13_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17760
+      ],
+      "duelist": [],
+      "text": "Schwarzflügel - Sudri der Phantomschimmer!"
+    },
+    "V0203_13_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17758
+      ],
+      "duelist": [],
+      "text": "Hier kommt mein Empfänger-Monster!\nSchwarzflügel - Schamal der Sandsturm!"
+    },
+    "V0203_13_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "Das Empfänger-Monster Schwarzflügel - Auster der Südwind!"
+    },
+    "V0203_13_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17759
+      ],
+      "duelist": [],
+      "text": "Schwarzflügel - Chinook die Schneeböe!"
+    },
+    "V0203_13_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17757
+      ],
+      "duelist": [],
+      "text": "Mein Empfänger-Monster, Schwarzflügel - Vata das Symbol des Wanderns!"
+    },
+    "V0203_13_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "Das Empfänger-Monster Glanzstern-Drache!"
+    },
+    "V0203_13_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17836
+      ],
+      "duelist": [],
+      "text": "Ich beschwöre Phantomschimmer-Spielmarke als Spezialbeschwörung!"
+    },
+    "V0203_13_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3996
+      ],
+      "duelist": [],
+      "text": "Ich beschwöre <card mrk=99999/> als Spezialbeschwörung!"
+    },
+    "V0203_13_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3985
+      ],
+      "duelist": [],
+      "text": "Ich beschwöre Dampf-Spielmarke als Spezialbeschwörung!"
+    },
+    "V0203_19_00_55_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        18825
+      ],
+      "duelist": [],
+      "text": "Feuerroter Drache!\nAngriff!"
+    },
+    "V0203_19_00_56_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22722
+      ],
+      "duelist": [],
+      "text": "Feuerroter Drache Quetzalcoatl!\nAngriff!"
+    },
+    "V0203_19_00_57_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17797
+      ],
+      "duelist": [],
+      "text": "Schwarz geflügelter Sturmangriffs-Drache!\nAngriff!"
+    },
+    "V0203_19_00_58_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13852
+      ],
+      "duelist": [],
+      "text": "Angriff, Schwarzflügel-Panzermeister!"
+    },
+    "V0203_19_00_59_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        22713
+      ],
+      "duelist": [],
+      "text": "Angriffs-Schwarzflügel - Kusanagi der nahende Sturm!\nAngriff!"
+    },
+    "V0203_19_00_60_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13853
+      ],
+      "duelist": [],
+      "text": "Schwarzflügel - Simoon der Toxinwind greift an!"
+    },
+    "V0203_19_00_61_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17798
+      ],
+      "duelist": [],
+      "text": "Schwarzflügel - Boreastorm der boshafte Wind!\nAngriff!"
+    },
+    "V0203_19_00_62_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17761
+      ],
+      "duelist": [],
+      "text": "Schwarzflügel - Zonda die Dämmerung!\nAngriff!"
+    },
+    "V0203_19_00_63_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17760
+      ],
+      "duelist": [],
+      "text": "Schwarzflügel - Sudri der Phantomschimmer!\nAngriff!"
+    },
+    "V0203_19_00_64_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17758
+      ],
+      "duelist": [],
+      "text": "Angriff, Schwarzflügel - Schamal der Sandsturm!"
+    },
+    "V0203_19_00_65_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        13854
+      ],
+      "duelist": [],
+      "text": "Schwarzflügel - Auster der Südwind!\nAngriff!"
+    },
+    "V0203_19_00_66_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17759
+      ],
+      "duelist": [],
+      "text": "Schwarzflügel - Chinook die Schneeböe!\nAngriff!"
+    },
+    "V0203_19_00_67_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17757
+      ],
+      "duelist": [],
+      "text": "Schwarzflügel - Vata das Symbol des Wanderns!\nAngriff!"
+    },
+    "V0203_19_00_68_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        19720
+      ],
+      "duelist": [],
+      "text": "Angriff, Glanzstern-Drache!"
+    },
+    "V0203_19_00_69_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        17836
+      ],
+      "duelist": [],
+      "text": "Mein Phantomschimmer-Spielmarke greift an!"
+    },
+    "V0203_19_00_70_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3996
+      ],
+      "duelist": [],
+      "text": "Mein <card mrk=99999/> greift an!"
+    },
+    "V0203_19_00_71_0": {
+      "face": 3,
+      "frame": 1,
+      "cutin": 0,
+      "card": [
+        3985
+      ],
+      "duelist": [],
+      "text": "Ich greife mit meinem Dampf-Spielmarke an!"
+    },
+    "V0203_48_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Oh ja!"
+    },
+    "V0203_48_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Mach dich bereit für den Rush!"
+    },
+    "V0203_51_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Crow Hogan!"
+    },
+    "V0203_51_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Go Rush!"
+    },
+    "V0203_49_00_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Das wird so toll!"
+    },
+    "V0203_49_01_00_0": {
+      "face": 7,
+      "frame": 1,
+      "cutin": 0,
+      "card": [],
+      "duelist": [],
+      "text": "Turbo-Rush-Duel!"
     }
   }
 }

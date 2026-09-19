@@ -104,7 +104,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Tus Duelos han fascinado a muchísimos jugadores, como yo."
     },
@@ -124,7 +126,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Si quieres enfrentarte a mí, no soy quién para negarme."
     },
@@ -1134,7 +1137,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Ha sido un honor poder luchar contra ti en tu último Duelo."
     },
@@ -1144,7 +1149,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Vienes a salvarme, pero no pudiste salvarte ni a ti mismo."
     },
@@ -1154,7 +1161,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "¡No tonto, no baso mi vida en un cuento de hadas!"
     },
@@ -1164,7 +1173,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "La vida no tiene un final feliz como los cuentos infantiles."
     },
@@ -1200,7 +1211,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "Un duelista alcanza la gloria, el otro la miseria."
     },
@@ -1218,7 +1231,9 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        604
+        604,
+        613,
+        614
       ],
       "text": "¿Te llamas Ángel Azul porque querrías tener sangre azul?"
     },
@@ -1238,7 +1253,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Todo lo que hago es para ti, Maestro Varis."
     },
@@ -1248,7 +1264,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Me diste un hogar, Maestro Varis.\nNunca te traicionaré."
     },
@@ -1364,7 +1381,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Nunca dejas de asombrarme, Maestro Varis."
     },
@@ -1654,7 +1672,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Confío en que terminarás este Duelo, Maestro Varis."
     },
@@ -1664,7 +1683,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Es tu turno, Maestro Varis."
     },
@@ -1674,7 +1694,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        605
+        605,
+        616
       ],
       "text": "Perdóname, Maestro Varis..."
     },

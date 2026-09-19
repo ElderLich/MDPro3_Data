@@ -336,7 +336,107 @@
     "V0203_27_00_02": 1,
     "V0203_24_00_00": 1,
     "V0203_23_00_00": 1,
-    "V0203_38_00_00": 1
+    "V0203_38_00_00": 1,
+    "V0203_07_14_00": 1,
+    "V0203_07_15_00": 1,
+    "V0203_11_04_01": 1,
+    "V0203_11_05_01": 1,
+    "V0203_11_06_01": 1,
+    "V0203_11_07_01": 1,
+    "V0203_11_08_01": 1,
+    "V0203_11_09_01": 1,
+    "V0203_11_10_01": 1,
+    "V0203_11_11_00": 1,
+    "V0203_11_11_01": 1,
+    "V0203_11_12_00": 1,
+    "V0203_11_12_01": 1,
+    "V0203_11_13_00": 1,
+    "V0203_11_13_01": 1,
+    "V0203_11_14_00": 1,
+    "V0203_11_14_01": 1,
+    "V0203_21_00_03": 2,
+    "V0203_21_00_04": 1,
+    "V0203_21_00_05": 2,
+    "V0203_34_00_10": 1,
+    "V0203_34_00_11": 1,
+    "V0203_34_00_12": 1,
+    "V0203_34_00_13": 1,
+    "V0203_36_00_09": 1,
+    "V0203_08_00_31": 1,
+    "V0203_08_00_32": 1,
+    "V0203_08_00_33": 1,
+    "V0203_08_00_34": 1,
+    "V0203_08_00_35": 1,
+    "V0203_08_00_36": 1,
+    "V0203_08_00_37": 1,
+    "V0203_08_00_38": 1,
+    "V0203_08_00_39": 1,
+    "V0203_08_00_40": 1,
+    "V0203_08_00_41": 1,
+    "V0203_08_00_42": 1,
+    "V0203_09_00_49": 1,
+    "V0203_09_00_50": 1,
+    "V0203_09_00_51": 1,
+    "V0203_09_00_52": 1,
+    "V0203_09_00_53": 2,
+    "V0203_09_00_54": 2,
+    "V0203_09_00_55": 2,
+    "V0203_09_00_56": 1,
+    "V0203_09_00_57": 1,
+    "V0203_09_00_58": 1,
+    "V0203_09_00_59": 1,
+    "V0203_09_00_60": 1,
+    "V0203_09_00_61": 1,
+    "V0203_09_00_62": 1,
+    "V0203_09_00_63": 1,
+    "V0203_09_00_64": 1,
+    "V0203_09_00_65": 1,
+    "V0203_09_00_66": 1,
+    "V0203_09_00_67": 1,
+    "V0203_09_00_68": 1,
+    "V0203_09_00_69": 1,
+    "V0203_13_00_55": 1,
+    "V0203_13_00_56": 1,
+    "V0203_37_00_12": 1,
+    "V0203_13_00_57": 1,
+    "V0203_13_00_58": 1,
+    "V0203_37_00_13": 2,
+    "V0203_13_00_59": 1,
+    "V0203_13_00_60": 1,
+    "V0203_13_00_61": 1,
+    "V0203_13_00_62": 1,
+    "V0203_13_00_63": 1,
+    "V0203_13_00_64": 1,
+    "V0203_13_00_65": 1,
+    "V0203_13_00_66": 1,
+    "V0203_13_00_67": 1,
+    "V0203_13_00_68": 1,
+    "V0203_13_00_69": 1,
+    "V0203_13_00_70": 1,
+    "V0203_13_00_71": 1,
+    "V0203_19_00_55": 1,
+    "V0203_19_00_56": 1,
+    "V0203_19_00_57": 1,
+    "V0203_19_00_58": 1,
+    "V0203_19_00_59": 1,
+    "V0203_19_00_60": 1,
+    "V0203_19_00_61": 1,
+    "V0203_19_00_62": 1,
+    "V0203_19_00_63": 1,
+    "V0203_19_00_64": 1,
+    "V0203_19_00_65": 1,
+    "V0203_19_00_66": 1,
+    "V0203_19_00_67": 1,
+    "V0203_19_00_68": 1,
+    "V0203_19_00_69": 1,
+    "V0203_19_00_70": 1,
+    "V0203_19_00_71": 1,
+    "V0203_48_00_00": 1,
+    "V0203_48_01_00": 1,
+    "V0203_51_00_00": 1,
+    "V0203_51_01_00": 1,
+    "V0203_49_00_00": 1,
+    "V0203_49_01_00": 1
   },
   "labelver": 1,
   "BeforeDuel": {
@@ -420,7 +520,9 @@
           204,
           205,
           206,
-          209
+          209,
+          219,
+          220
         ],
         "skills": null,
         "situations": null,
@@ -1180,6 +1282,36 @@
         ],
         "subCategoryIndex": 13,
         "patternIndex": 0
+      },
+      "V0203_07_14_00_0": {
+        "fullName": "V0203_07_14_00_0",
+        "shortName": "V0203_07_14_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 14,
+        "patternIndex": 0
+      },
+      "V0203_07_15_00_0": {
+        "fullName": "V0203_07_15_00_0",
+        "shortName": "V0203_07_15_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 15,
+        "patternIndex": 0
       }
     }
   },
@@ -1328,7 +1460,10 @@
         "duelists": null,
         "skills": null,
         "situations": null,
-        "engineparams": null,
+        "engineparams": [
+          1,
+          2
+        ],
         "groupingKeys": null,
         "homeTypes": [
           2,
@@ -1773,6 +1908,251 @@
         ],
         "subCategoryIndex": 0,
         "patternIndex": 30
+      },
+      "V0203_08_00_31_0": {
+        "fullName": "V0203_08_00_31_0",
+        "shortName": "V0203_08_00_31",
+        "voiceIdx": "0",
+        "cards": [
+          17807
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          1,
+          2
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 31
+      },
+      "V0203_08_00_32_0": {
+        "fullName": "V0203_08_00_32_0",
+        "shortName": "V0203_08_00_32",
+        "voiceIdx": "0",
+        "cards": [
+          17807
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          4
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 32
+      },
+      "V0203_08_00_33_0": {
+        "fullName": "V0203_08_00_33_0",
+        "shortName": "V0203_08_00_33",
+        "voiceIdx": "0",
+        "cards": [
+          14347
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 33
+      },
+      "V0203_08_00_34_0": {
+        "fullName": "V0203_08_00_34_0",
+        "shortName": "V0203_08_00_34",
+        "voiceIdx": "0",
+        "cards": [
+          19743
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 34
+      },
+      "V0203_08_00_35_0": {
+        "fullName": "V0203_08_00_35_0",
+        "shortName": "V0203_08_00_35",
+        "voiceIdx": "0",
+        "cards": [
+          13855
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          1,
+          2
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 35
+      },
+      "V0203_08_00_36_0": {
+        "fullName": "V0203_08_00_36_0",
+        "shortName": "V0203_08_00_36",
+        "voiceIdx": "0",
+        "cards": [
+          13855
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          4
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 36
+      },
+      "V0203_08_00_37_0": {
+        "fullName": "V0203_08_00_37_0",
+        "shortName": "V0203_08_00_37",
+        "voiceIdx": "0",
+        "cards": [
+          13855
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          5
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 37
+      },
+      "V0203_08_00_38_0": {
+        "fullName": "V0203_08_00_38_0",
+        "shortName": "V0203_08_00_38",
+        "voiceIdx": "0",
+        "cards": [
+          17826
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 38
+      },
+      "V0203_08_00_39_0": {
+        "fullName": "V0203_08_00_39_0",
+        "shortName": "V0203_08_00_39",
+        "voiceIdx": "0",
+        "cards": [
+          17827
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          1,
+          2
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 39
+      },
+      "V0203_08_00_40_0": {
+        "fullName": "V0203_08_00_40_0",
+        "shortName": "V0203_08_00_40",
+        "voiceIdx": "0",
+        "cards": [
+          17827
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          5
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 40
+      },
+      "V0203_08_00_41_0": {
+        "fullName": "V0203_08_00_41_0",
+        "shortName": "V0203_08_00_41",
+        "voiceIdx": "0",
+        "cards": [
+          13856
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 41
+      },
+      "V0203_08_00_42_0": {
+        "fullName": "V0203_08_00_42_0",
+        "shortName": "V0203_08_00_42",
+        "voiceIdx": "0",
+        "cards": [
+          4887
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 42
       }
     }
   },
@@ -1905,6 +2285,7 @@
         "skills": null,
         "situations": null,
         "engineparams": [
+          262,
           6
         ],
         "groupingKeys": null,
@@ -2670,7 +3051,10 @@
         "duelists": null,
         "skills": null,
         "situations": null,
-        "engineparams": null,
+        "engineparams": [
+          4,
+          6
+        ],
         "groupingKeys": null,
         "homeTypes": [
           2,
@@ -2708,7 +3092,11 @@
         "duelists": null,
         "skills": null,
         "situations": null,
-        "engineparams": null,
+        "engineparams": [
+          261,
+          4,
+          5
+        ],
         "groupingKeys": null,
         "homeTypes": [
           2,
@@ -2716,6 +3104,439 @@
         ],
         "subCategoryIndex": 0,
         "patternIndex": 48
+      },
+      "V0203_09_00_49_0": {
+        "fullName": "V0203_09_00_49_0",
+        "shortName": "V0203_09_00_49",
+        "voiceIdx": "0",
+        "cards": [
+          18825
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          4
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 49
+      },
+      "V0203_09_00_50_0": {
+        "fullName": "V0203_09_00_50_0",
+        "shortName": "V0203_09_00_50",
+        "voiceIdx": "0",
+        "cards": [
+          18825
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          6
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 50
+      },
+      "V0203_09_00_51_0": {
+        "fullName": "V0203_09_00_51_0",
+        "shortName": "V0203_09_00_51",
+        "voiceIdx": "0",
+        "cards": [
+          22722
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          4
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 51
+      },
+      "V0203_09_00_52_0": {
+        "fullName": "V0203_09_00_52_0",
+        "shortName": "V0203_09_00_52",
+        "voiceIdx": "0",
+        "cards": [
+          22722
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          6
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 52
+      },
+      "V0203_09_00_53_0": {
+        "fullName": "V0203_09_00_53_0",
+        "shortName": "V0203_09_00_53",
+        "voiceIdx": "0",
+        "cards": [
+          17797
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 53
+      },
+      "V0203_09_00_54_0": {
+        "fullName": "V0203_09_00_54_0",
+        "shortName": "V0203_09_00_54",
+        "voiceIdx": "0",
+        "cards": [
+          13852
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          6
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 54
+      },
+      "V0203_09_00_55_0": {
+        "fullName": "V0203_09_00_55_0",
+        "shortName": "V0203_09_00_55",
+        "voiceIdx": "0",
+        "cards": [
+          13852
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          4
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 55
+      },
+      "V0203_09_00_56_0": {
+        "fullName": "V0203_09_00_56_0",
+        "shortName": "V0203_09_00_56",
+        "voiceIdx": "0",
+        "cards": [
+          13853
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 56
+      },
+      "V0203_09_00_57_0": {
+        "fullName": "V0203_09_00_57_0",
+        "shortName": "V0203_09_00_57",
+        "voiceIdx": "0",
+        "cards": [
+          17798
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          4
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 57
+      },
+      "V0203_09_00_58_0": {
+        "fullName": "V0203_09_00_58_0",
+        "shortName": "V0203_09_00_58",
+        "voiceIdx": "0",
+        "cards": [
+          17798
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          260
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 58
+      },
+      "V0203_09_00_59_0": {
+        "fullName": "V0203_09_00_59_0",
+        "shortName": "V0203_09_00_59",
+        "voiceIdx": "0",
+        "cards": [
+          17761
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          4
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 59
+      },
+      "V0203_09_00_60_0": {
+        "fullName": "V0203_09_00_60_0",
+        "shortName": "V0203_09_00_60",
+        "voiceIdx": "0",
+        "cards": [
+          17761
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          5
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 60
+      },
+      "V0203_09_00_61_0": {
+        "fullName": "V0203_09_00_61_0",
+        "shortName": "V0203_09_00_61",
+        "voiceIdx": "0",
+        "cards": [
+          17760
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          4
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 61
+      },
+      "V0203_09_00_62_0": {
+        "fullName": "V0203_09_00_62_0",
+        "shortName": "V0203_09_00_62",
+        "voiceIdx": "0",
+        "cards": [
+          17760
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          6
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 62
+      },
+      "V0203_09_00_63_0": {
+        "fullName": "V0203_09_00_63_0",
+        "shortName": "V0203_09_00_63",
+        "voiceIdx": "0",
+        "cards": [
+          17758
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          5,
+          6
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 63
+      },
+      "V0203_09_00_64_0": {
+        "fullName": "V0203_09_00_64_0",
+        "shortName": "V0203_09_00_64",
+        "voiceIdx": "0",
+        "cards": [
+          17758
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          261
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 64
+      },
+      "V0203_09_00_65_0": {
+        "fullName": "V0203_09_00_65_0",
+        "shortName": "V0203_09_00_65",
+        "voiceIdx": "0",
+        "cards": [
+          13854
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          4
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 65
+      },
+      "V0203_09_00_66_0": {
+        "fullName": "V0203_09_00_66_0",
+        "shortName": "V0203_09_00_66",
+        "voiceIdx": "0",
+        "cards": [
+          13854
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": [
+          261,
+          5
+        ],
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 66
+      },
+      "V0203_09_00_67_0": {
+        "fullName": "V0203_09_00_67_0",
+        "shortName": "V0203_09_00_67",
+        "voiceIdx": "0",
+        "cards": [
+          17759
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 67
+      },
+      "V0203_09_00_68_0": {
+        "fullName": "V0203_09_00_68_0",
+        "shortName": "V0203_09_00_68",
+        "voiceIdx": "0",
+        "cards": [
+          17757
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 68
+      },
+      "V0203_09_00_69_0": {
+        "fullName": "V0203_09_00_69_0",
+        "shortName": "V0203_09_00_69",
+        "voiceIdx": "0",
+        "cards": [
+          19720
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 69
       }
     }
   },
@@ -2869,6 +3690,22 @@
         "subCategoryIndex": 4,
         "patternIndex": 0
       },
+      "V0203_11_04_01_0": {
+        "fullName": "V0203_11_04_01_0",
+        "shortName": "V0203_11_04_01",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 4,
+        "patternIndex": 1
+      },
       "V0203_11_05_00_0": {
         "fullName": "V0203_11_05_00_0",
         "shortName": "V0203_11_05_00",
@@ -2884,6 +3721,22 @@
         ],
         "subCategoryIndex": 5,
         "patternIndex": 0
+      },
+      "V0203_11_05_01_0": {
+        "fullName": "V0203_11_05_01_0",
+        "shortName": "V0203_11_05_01",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 5,
+        "patternIndex": 1
       },
       "V0203_11_06_00_0": {
         "fullName": "V0203_11_06_00_0",
@@ -2901,6 +3754,22 @@
         "subCategoryIndex": 6,
         "patternIndex": 0
       },
+      "V0203_11_06_01_0": {
+        "fullName": "V0203_11_06_01_0",
+        "shortName": "V0203_11_06_01",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 6,
+        "patternIndex": 1
+      },
       "V0203_11_07_00_0": {
         "fullName": "V0203_11_07_00_0",
         "shortName": "V0203_11_07_00",
@@ -2916,6 +3785,22 @@
         ],
         "subCategoryIndex": 7,
         "patternIndex": 0
+      },
+      "V0203_11_07_01_0": {
+        "fullName": "V0203_11_07_01_0",
+        "shortName": "V0203_11_07_01",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 7,
+        "patternIndex": 1
       },
       "V0203_11_08_00_0": {
         "fullName": "V0203_11_08_00_0",
@@ -2933,6 +3818,22 @@
         "subCategoryIndex": 8,
         "patternIndex": 0
       },
+      "V0203_11_08_01_0": {
+        "fullName": "V0203_11_08_01_0",
+        "shortName": "V0203_11_08_01",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 8,
+        "patternIndex": 1
+      },
       "V0203_11_09_00_0": {
         "fullName": "V0203_11_09_00_0",
         "shortName": "V0203_11_09_00",
@@ -2949,6 +3850,22 @@
         "subCategoryIndex": 9,
         "patternIndex": 0
       },
+      "V0203_11_09_01_0": {
+        "fullName": "V0203_11_09_01_0",
+        "shortName": "V0203_11_09_01",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 9,
+        "patternIndex": 1
+      },
       "V0203_11_10_00_0": {
         "fullName": "V0203_11_10_00_0",
         "shortName": "V0203_11_10_00",
@@ -2964,6 +3881,134 @@
         ],
         "subCategoryIndex": 10,
         "patternIndex": 0
+      },
+      "V0203_11_10_01_0": {
+        "fullName": "V0203_11_10_01_0",
+        "shortName": "V0203_11_10_01",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 10,
+        "patternIndex": 1
+      },
+      "V0203_11_11_00_0": {
+        "fullName": "V0203_11_11_00_0",
+        "shortName": "V0203_11_11_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 11,
+        "patternIndex": 0
+      },
+      "V0203_11_11_01_0": {
+        "fullName": "V0203_11_11_01_0",
+        "shortName": "V0203_11_11_01",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 11,
+        "patternIndex": 1
+      },
+      "V0203_11_12_00_0": {
+        "fullName": "V0203_11_12_00_0",
+        "shortName": "V0203_11_12_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 12,
+        "patternIndex": 0
+      },
+      "V0203_11_12_01_0": {
+        "fullName": "V0203_11_12_01_0",
+        "shortName": "V0203_11_12_01",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 12,
+        "patternIndex": 1
+      },
+      "V0203_11_13_00_0": {
+        "fullName": "V0203_11_13_00_0",
+        "shortName": "V0203_11_13_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 13,
+        "patternIndex": 0
+      },
+      "V0203_11_13_01_0": {
+        "fullName": "V0203_11_13_01_0",
+        "shortName": "V0203_11_13_01",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 13,
+        "patternIndex": 1
+      },
+      "V0203_11_14_00_0": {
+        "fullName": "V0203_11_14_00_0",
+        "shortName": "V0203_11_14_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 14,
+        "patternIndex": 0
+      },
+      "V0203_11_14_01_0": {
+        "fullName": "V0203_11_14_01_0",
+        "shortName": "V0203_11_14_01",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 14,
+        "patternIndex": 1
       }
     }
   },
@@ -3196,6 +4241,44 @@
         ],
         "subCategoryIndex": 0,
         "patternIndex": 11
+      },
+      "V0203_37_00_12_0": {
+        "fullName": "V0203_37_00_12_0",
+        "shortName": "V0203_37_00_12",
+        "voiceIdx": "0",
+        "cards": [
+          17797
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 12
+      },
+      "V0203_37_00_13_0": {
+        "fullName": "V0203_37_00_13_0",
+        "shortName": "V0203_37_00_13",
+        "voiceIdx": "0",
+        "cards": [
+          22713
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 13
       }
     }
   },
@@ -4245,6 +5328,329 @@
         ],
         "subCategoryIndex": 0,
         "patternIndex": 54
+      },
+      "V0203_13_00_55_0": {
+        "fullName": "V0203_13_00_55_0",
+        "shortName": "V0203_13_00_55",
+        "voiceIdx": "0",
+        "cards": [
+          18825
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 55
+      },
+      "V0203_13_00_56_0": {
+        "fullName": "V0203_13_00_56_0",
+        "shortName": "V0203_13_00_56",
+        "voiceIdx": "0",
+        "cards": [
+          22722
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 56
+      },
+      "V0203_13_00_57_0": {
+        "fullName": "V0203_13_00_57_0",
+        "shortName": "V0203_13_00_57",
+        "voiceIdx": "0",
+        "cards": [
+          17797
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 57
+      },
+      "V0203_13_00_58_0": {
+        "fullName": "V0203_13_00_58_0",
+        "shortName": "V0203_13_00_58",
+        "voiceIdx": "0",
+        "cards": [
+          13852
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 58
+      },
+      "V0203_13_00_59_0": {
+        "fullName": "V0203_13_00_59_0",
+        "shortName": "V0203_13_00_59",
+        "voiceIdx": "0",
+        "cards": [
+          22713
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 59
+      },
+      "V0203_13_00_60_0": {
+        "fullName": "V0203_13_00_60_0",
+        "shortName": "V0203_13_00_60",
+        "voiceIdx": "0",
+        "cards": [
+          13853
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 60
+      },
+      "V0203_13_00_61_0": {
+        "fullName": "V0203_13_00_61_0",
+        "shortName": "V0203_13_00_61",
+        "voiceIdx": "0",
+        "cards": [
+          17798
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 61
+      },
+      "V0203_13_00_62_0": {
+        "fullName": "V0203_13_00_62_0",
+        "shortName": "V0203_13_00_62",
+        "voiceIdx": "0",
+        "cards": [
+          17761
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 62
+      },
+      "V0203_13_00_63_0": {
+        "fullName": "V0203_13_00_63_0",
+        "shortName": "V0203_13_00_63",
+        "voiceIdx": "0",
+        "cards": [
+          17760
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 63
+      },
+      "V0203_13_00_64_0": {
+        "fullName": "V0203_13_00_64_0",
+        "shortName": "V0203_13_00_64",
+        "voiceIdx": "0",
+        "cards": [
+          17758
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 64
+      },
+      "V0203_13_00_65_0": {
+        "fullName": "V0203_13_00_65_0",
+        "shortName": "V0203_13_00_65",
+        "voiceIdx": "0",
+        "cards": [
+          13854
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 65
+      },
+      "V0203_13_00_66_0": {
+        "fullName": "V0203_13_00_66_0",
+        "shortName": "V0203_13_00_66",
+        "voiceIdx": "0",
+        "cards": [
+          17759
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 66
+      },
+      "V0203_13_00_67_0": {
+        "fullName": "V0203_13_00_67_0",
+        "shortName": "V0203_13_00_67",
+        "voiceIdx": "0",
+        "cards": [
+          17757
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 67
+      },
+      "V0203_13_00_68_0": {
+        "fullName": "V0203_13_00_68_0",
+        "shortName": "V0203_13_00_68",
+        "voiceIdx": "0",
+        "cards": [
+          19720
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 68
+      },
+      "V0203_13_00_69_0": {
+        "fullName": "V0203_13_00_69_0",
+        "shortName": "V0203_13_00_69",
+        "voiceIdx": "0",
+        "cards": [
+          17836
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 69
+      },
+      "V0203_13_00_70_0": {
+        "fullName": "V0203_13_00_70_0",
+        "shortName": "V0203_13_00_70",
+        "voiceIdx": "0",
+        "cards": [
+          3996
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 70
+      },
+      "V0203_13_00_71_0": {
+        "fullName": "V0203_13_00_71_0",
+        "shortName": "V0203_13_00_71",
+        "voiceIdx": "0",
+        "cards": [
+          3985
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 71
       }
     }
   },
@@ -5510,6 +6916,329 @@
         ],
         "subCategoryIndex": 0,
         "patternIndex": 54
+      },
+      "V0203_19_00_55_0": {
+        "fullName": "V0203_19_00_55_0",
+        "shortName": "V0203_19_00_55",
+        "voiceIdx": "0",
+        "cards": [
+          18825
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 55
+      },
+      "V0203_19_00_56_0": {
+        "fullName": "V0203_19_00_56_0",
+        "shortName": "V0203_19_00_56",
+        "voiceIdx": "0",
+        "cards": [
+          22722
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 56
+      },
+      "V0203_19_00_57_0": {
+        "fullName": "V0203_19_00_57_0",
+        "shortName": "V0203_19_00_57",
+        "voiceIdx": "0",
+        "cards": [
+          17797
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 57
+      },
+      "V0203_19_00_58_0": {
+        "fullName": "V0203_19_00_58_0",
+        "shortName": "V0203_19_00_58",
+        "voiceIdx": "0",
+        "cards": [
+          13852
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 58
+      },
+      "V0203_19_00_59_0": {
+        "fullName": "V0203_19_00_59_0",
+        "shortName": "V0203_19_00_59",
+        "voiceIdx": "0",
+        "cards": [
+          22713
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 59
+      },
+      "V0203_19_00_60_0": {
+        "fullName": "V0203_19_00_60_0",
+        "shortName": "V0203_19_00_60",
+        "voiceIdx": "0",
+        "cards": [
+          13853
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 60
+      },
+      "V0203_19_00_61_0": {
+        "fullName": "V0203_19_00_61_0",
+        "shortName": "V0203_19_00_61",
+        "voiceIdx": "0",
+        "cards": [
+          17798
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 61
+      },
+      "V0203_19_00_62_0": {
+        "fullName": "V0203_19_00_62_0",
+        "shortName": "V0203_19_00_62",
+        "voiceIdx": "0",
+        "cards": [
+          17761
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 62
+      },
+      "V0203_19_00_63_0": {
+        "fullName": "V0203_19_00_63_0",
+        "shortName": "V0203_19_00_63",
+        "voiceIdx": "0",
+        "cards": [
+          17760
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 63
+      },
+      "V0203_19_00_64_0": {
+        "fullName": "V0203_19_00_64_0",
+        "shortName": "V0203_19_00_64",
+        "voiceIdx": "0",
+        "cards": [
+          17758
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 64
+      },
+      "V0203_19_00_65_0": {
+        "fullName": "V0203_19_00_65_0",
+        "shortName": "V0203_19_00_65",
+        "voiceIdx": "0",
+        "cards": [
+          13854
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 65
+      },
+      "V0203_19_00_66_0": {
+        "fullName": "V0203_19_00_66_0",
+        "shortName": "V0203_19_00_66",
+        "voiceIdx": "0",
+        "cards": [
+          17759
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 66
+      },
+      "V0203_19_00_67_0": {
+        "fullName": "V0203_19_00_67_0",
+        "shortName": "V0203_19_00_67",
+        "voiceIdx": "0",
+        "cards": [
+          17757
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 67
+      },
+      "V0203_19_00_68_0": {
+        "fullName": "V0203_19_00_68_0",
+        "shortName": "V0203_19_00_68",
+        "voiceIdx": "0",
+        "cards": [
+          19720
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 68
+      },
+      "V0203_19_00_69_0": {
+        "fullName": "V0203_19_00_69_0",
+        "shortName": "V0203_19_00_69",
+        "voiceIdx": "0",
+        "cards": [
+          17836
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 69
+      },
+      "V0203_19_00_70_0": {
+        "fullName": "V0203_19_00_70_0",
+        "shortName": "V0203_19_00_70",
+        "voiceIdx": "0",
+        "cards": [
+          3996
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 70
+      },
+      "V0203_19_00_71_0": {
+        "fullName": "V0203_19_00_71_0",
+        "shortName": "V0203_19_00_71",
+        "voiceIdx": "0",
+        "cards": [
+          3985
+        ],
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          2,
+          3
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 71
       }
     }
   },
@@ -5636,6 +7365,60 @@
         ],
         "subCategoryIndex": 0,
         "patternIndex": 2
+      },
+      "V0203_21_00_03_0": {
+        "fullName": "V0203_21_00_03_0",
+        "shortName": "V0203_21_00_03",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": [
+          0
+        ],
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 3
+      },
+      "V0203_21_00_04_0": {
+        "fullName": "V0203_21_00_04_0",
+        "shortName": "V0203_21_00_04",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": [
+          1
+        ],
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 4
+      },
+      "V0203_21_00_05_0": {
+        "fullName": "V0203_21_00_05_0",
+        "shortName": "V0203_21_00_05",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": [
+          2
+        ],
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 5
       }
     }
   },
@@ -5694,6 +7477,60 @@
         ],
         "subCategoryIndex": 0,
         "patternIndex": 2
+      },
+      "V0203_21_00_03_0": {
+        "fullName": "V0203_21_00_03_0",
+        "shortName": "V0203_21_00_03",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": [
+          0
+        ],
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 3
+      },
+      "V0203_21_00_04_0": {
+        "fullName": "V0203_21_00_04_0",
+        "shortName": "V0203_21_00_04",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": [
+          1
+        ],
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 4
+      },
+      "V0203_21_00_05_0": {
+        "fullName": "V0203_21_00_05_0",
+        "shortName": "V0203_21_00_05",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": [
+          2
+        ],
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 5
       }
     }
   },
@@ -5809,7 +7646,10 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          213
+          213,
+          219,
+          220,
+          221
         ],
         "skills": null,
         "situations": null,
@@ -5946,7 +7786,9 @@
           204,
           205,
           206,
-          209
+          209,
+          219,
+          220
         ],
         "skills": null,
         "situations": null,
@@ -6306,6 +8148,70 @@
         ],
         "subCategoryIndex": 0,
         "patternIndex": 9
+      },
+      "V0203_34_00_10_0": {
+        "fullName": "V0203_34_00_10_0",
+        "shortName": "V0203_34_00_10",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 10
+      },
+      "V0203_34_00_11_0": {
+        "fullName": "V0203_34_00_11_0",
+        "shortName": "V0203_34_00_11",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 11
+      },
+      "V0203_34_00_12_0": {
+        "fullName": "V0203_34_00_12_0",
+        "shortName": "V0203_34_00_12",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 12
+      },
+      "V0203_34_00_13_0": {
+        "fullName": "V0203_34_00_13_0",
+        "shortName": "V0203_34_00_13",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": [
+          1
+        ],
+        "subCategoryIndex": 0,
+        "patternIndex": 13
       }
     }
   },
@@ -6443,7 +8349,8 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          201
+          201,
+          219
         ],
         "skills": null,
         "situations": [
@@ -6461,7 +8368,8 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          201
+          201,
+          219
         ],
         "skills": null,
         "situations": [
@@ -6479,7 +8387,8 @@
         "voiceIdx": "0",
         "cards": null,
         "duelists": [
-          201
+          201,
+          219
         ],
         "skills": null,
         "situations": [
@@ -6501,7 +8410,8 @@
           204,
           205,
           206,
-          209
+          209,
+          220
         ],
         "skills": null,
         "situations": [
@@ -6523,7 +8433,8 @@
           204,
           205,
           206,
-          209
+          209,
+          220
         ],
         "skills": null,
         "situations": [
@@ -6545,7 +8456,8 @@
           204,
           205,
           206,
-          209
+          209,
+          220
         ],
         "skills": null,
         "situations": [
@@ -6556,6 +8468,25 @@
         "homeTypes": null,
         "subCategoryIndex": 0,
         "patternIndex": 8
+      },
+      "V0203_36_00_09_0": {
+        "fullName": "V0203_36_00_09_0",
+        "shortName": "V0203_36_00_09",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": [
+          213,
+          222
+        ],
+        "skills": null,
+        "situations": [
+          1
+        ],
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 0,
+        "patternIndex": 9
       }
     }
   },
@@ -6795,6 +8726,102 @@
           1
         ],
         "subCategoryIndex": 0,
+        "patternIndex": 0
+      }
+    }
+  },
+  "RushDuelStart": {
+    "rawKvp": {
+      "V0203_48_00_00_0": {
+        "fullName": "V0203_48_00_00_0",
+        "shortName": "V0203_48_00_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 0,
+        "patternIndex": 0
+      },
+      "V0203_48_01_00_0": {
+        "fullName": "V0203_48_01_00_0",
+        "shortName": "V0203_48_01_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 1,
+        "patternIndex": 0
+      }
+    }
+  },
+  "GorushDuelStart": {
+    "rawKvp": {
+      "V0203_51_00_00_0": {
+        "fullName": "V0203_51_00_00_0",
+        "shortName": "V0203_51_00_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 0,
+        "patternIndex": 0
+      },
+      "V0203_51_01_00_0": {
+        "fullName": "V0203_51_01_00_0",
+        "shortName": "V0203_51_01_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 1,
+        "patternIndex": 0
+      }
+    }
+  },
+  "RidingRushDuelStart": {
+    "rawKvp": {
+      "V0203_49_00_00_0": {
+        "fullName": "V0203_49_00_00_0",
+        "shortName": "V0203_49_00_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 0,
+        "patternIndex": 0
+      },
+      "V0203_49_01_00_0": {
+        "fullName": "V0203_49_01_00_0",
+        "shortName": "V0203_49_01_00",
+        "voiceIdx": "0",
+        "cards": null,
+        "duelists": null,
+        "skills": null,
+        "situations": null,
+        "engineparams": null,
+        "groupingKeys": null,
+        "homeTypes": null,
+        "subCategoryIndex": 1,
         "patternIndex": 0
       }
     }

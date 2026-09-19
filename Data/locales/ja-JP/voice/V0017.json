@@ -1205,9 +1205,7 @@
         "situations": null,
         "engineparams": null,
         "groupingKeys": null,
-        "homeTypes": [
-          1
-        ],
+        "homeTypes": null,
         "subCategoryIndex": 15,
         "patternIndex": 0
       }
