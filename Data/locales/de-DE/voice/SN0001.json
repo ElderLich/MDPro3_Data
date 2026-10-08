@@ -52,7 +52,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        6
+        6,
+        57
       ],
       "text": "Dieser Kampf wird mein Schicksal bestimmen."
     },
@@ -81,7 +82,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        11
+        11,
+        58
       ],
       "text": "Deine Machenschaften enden hier, Bakura!"
     },
@@ -1583,7 +1585,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        6
+        6,
+        57
       ],
       "text": "Du hast mich besiegt, Freund."
     },
@@ -1593,7 +1596,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        3
+        3,
+        43
       ],
       "text": "Du gewinnst, Joey!"
     },
@@ -1994,7 +1998,8 @@
       "card": [],
       "duelist": [
         201,
-        219
+        219,
+        223
       ],
       "text": "Unsere Liebe zu Duel Monsters überwindet die Grenzen der Zeit."
     },
@@ -2013,7 +2018,8 @@
       "card": [],
       "duelist": [
         101,
-        115
+        115,
+        158
       ],
       "text": "Ich möchte mich genauso sehr mit dir duellieren wie du mit mir!"
     },
@@ -2243,8 +2249,10 @@
       "duelist": [
         101,
         115,
+        158,
         201,
-        219
+        219,
+        223
       ],
       "text": "Die Bindung, die wir heute geknüpft haben, wird die Zeit überdauern.    "
     },
@@ -2283,7 +2291,8 @@
       "card": [],
       "duelist": [
         101,
-        115
+        115,
+        158
       ],
       "text": "Es ist schwer, dich zu durchschauen, weil du nach deinem Instinkt spielst."
     },
@@ -2294,7 +2303,8 @@
       "card": [],
       "duelist": [
         201,
-        219
+        219,
+        223
       ],
       "text": "Die Bindung, die du zu Sternenstaubdrache hast, ist unglaublich!"
     },
@@ -2382,7 +2392,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        6
+        6,
+        57
       ],
       "text": "Jetzt liegt es bei dir, Yugi!"
     },
@@ -2403,7 +2414,8 @@
       "card": [],
       "duelist": [
         101,
-        115
+        115,
+        158
       ],
       "text": "Los, Jaden!"
     },
@@ -2414,7 +2426,8 @@
       "card": [],
       "duelist": [
         201,
-        219
+        219,
+        223
       ],
       "text": "Du bist dran, Yusei!"
     },

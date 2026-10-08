@@ -45,7 +45,8 @@
       "duelist": [
         1,
         6,
-        41
+        41,
+        57
       ],
       "text": "Yugi, let's see who's the real King of Games!"
     },
@@ -76,7 +77,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        11
+        11,
+        58
       ],
       "text": "Having a Millennium Item doesn't make you a Dueling expert!"
     },
@@ -1997,7 +1999,8 @@
       "duelist": [
         1,
         6,
-        41
+        41,
+        57
       ],
       "text": "Well done, Yugi.\nI may have lost, but no regrets."
     },

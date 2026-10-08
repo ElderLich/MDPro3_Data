@@ -43,7 +43,8 @@
         1,
         6,
         303,
-        41
+        41,
+        57
       ],
       "text": "Beware, Yugi.\nI'm up-to-date with the latest strategies."
     },
@@ -818,7 +819,8 @@
         1,
         6,
         303,
-        41
+        41,
+        57
       ],
       "text": "What's wrong, Yugi?\nThis isn't like you."
     },
@@ -831,7 +833,8 @@
         1,
         6,
         303,
-        41
+        41,
+        57
       ],
       "text": "Yugi, a card is like a puzzle piece.\nEach one is important."
     },
@@ -841,7 +844,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        6
+        6,
+        57
       ],
       "text": "The one who assembles the Puzzle will constantly be tested."
     },
@@ -953,7 +957,8 @@
         1,
         6,
         303,
-        41
+        41,
+        57
       ],
       "text": "Ho ho!\nWell done, Yugi!"
     },
@@ -964,7 +969,8 @@
       "card": [],
       "duelist": [
         6,
-        303
+        303,
+        57
       ],
       "text": "True strength comes from fighting through your fears."
     },
@@ -1252,7 +1258,8 @@
         1,
         6,
         303,
-        41
+        41,
+        57
       ],
       "text": "Believe in yourself, Yugi!"
     },
@@ -1265,7 +1272,8 @@
         1,
         6,
         303,
-        41
+        41,
+        57
       ],
       "text": "Be careful, Yugi!"
     },
@@ -1278,7 +1286,8 @@
         1,
         6,
         303,
-        41
+        41,
+        57
       ],
       "text": "You're the only one who can win this, Yugi!"
     },

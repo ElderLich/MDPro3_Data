@@ -52,7 +52,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        6
+        6,
+        57
       ],
       "text": "As you like to say, it's time to Duel, Yugi!"
     },
@@ -1344,7 +1345,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        6
+        6,
+        57
       ],
       "text": "Ha! Nice!\nLooks like the heart of the cards needs a defibrillator!"
     },
@@ -1410,7 +1412,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        6
+        6,
+        57
       ],
       "text": "Man, I can't beat Yugi even without the Pharaoh's help?\nWhat's wrong with me?"
     },
@@ -1748,7 +1751,8 @@
         331,
         6,
         303,
-        41
+        41,
+        57
       ],
       "text": "Yugi!\nI'm countin' on ya!"
     },
@@ -1762,7 +1766,8 @@
         331,
         6,
         303,
-        41
+        41,
+        57
       ],
       "text": "Yugi!\nWatch out!"
     },
@@ -1776,7 +1781,8 @@
         331,
         6,
         303,
-        41
+        41,
+        57
       ],
       "text": "Yugi!\nIf you can't beat 'em, who can?"
     },

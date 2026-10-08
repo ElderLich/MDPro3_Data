@@ -52,7 +52,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        6
+        6,
+        57
       ],
       "text": "This battle will determine my destiny."
     },
@@ -81,7 +82,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        11
+        11,
+        58
       ],
       "text": "Your evil comes to an end, Bakura!"
     },
@@ -1583,7 +1585,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        6
+        6,
+        57
       ],
       "text": "You have defeated me, my friend."
     },
@@ -1593,7 +1596,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        3
+        3,
+        43
       ],
       "text": "You win, Joey!"
     },
@@ -1994,7 +1998,8 @@
       "card": [],
       "duelist": [
         201,
-        219
+        219,
+        223
       ],
       "text": "Our love of Duel Monsters transcends the barriers of time."
     },
@@ -2013,7 +2018,8 @@
       "card": [],
       "duelist": [
         101,
-        115
+        115,
+        158
       ],
       "text": "I want to Duel you just as much as you want to Duel me!"
     },
@@ -2243,8 +2249,10 @@
       "duelist": [
         101,
         115,
+        158,
         201,
-        219
+        219,
+        223
       ],
       "text": "The bond we formed today will stand the test of time.    "
     },
@@ -2283,7 +2291,8 @@
       "card": [],
       "duelist": [
         101,
-        115
+        115,
+        158
       ],
       "text": "It's hard to figure you out because you play by instinct."
     },
@@ -2294,7 +2303,8 @@
       "card": [],
       "duelist": [
         201,
-        219
+        219,
+        223
       ],
       "text": "The bond you have with Stardust Dragon is incredible!"
     },
@@ -2382,7 +2392,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        6
+        6,
+        57
       ],
       "text": "This is all on you, Yugi!"
     },
@@ -2403,7 +2414,8 @@
       "card": [],
       "duelist": [
         101,
-        115
+        115,
+        158
       ],
       "text": "Go, Jaden!"
     },
@@ -2414,7 +2426,8 @@
       "card": [],
       "duelist": [
         201,
-        219
+        219,
+        223
       ],
       "text": "You're up, Yusei!"
     },

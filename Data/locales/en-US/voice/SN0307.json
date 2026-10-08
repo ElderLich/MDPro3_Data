@@ -117,7 +117,8 @@
       "card": [],
       "duelist": [
         11,
-        315
+        315,
+        58
       ],
       "text": "It's... you!"
     },
@@ -127,7 +128,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        11
+        11,
+        58
       ],
       "text": "You're the evil presence inside the Millennium Ring!"
     },
@@ -1402,7 +1404,8 @@
       "card": [],
       "duelist": [
         11,
-        315
+        315,
+        58
       ],
       "text": "Fear can only lead to hate."
     },
@@ -1510,7 +1513,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        11
+        11,
+        58
       ],
       "text": "Such power...\nI failed, Master Shin."
     },

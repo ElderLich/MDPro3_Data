@@ -663,6 +663,32 @@
             "zh-CN": "玛丽公主",
             "zh-TW": "瑪莉公主"
         },
+        "NAME_ID0057": {
+            "id": "NAME_ID0057",
+            "de-DE": "Yugi Muto",
+            "en-US": "Yugi Muto",
+            "es-ES": "Yugi Muto",
+            "fr-FR": "Yugi Muto",
+            "it-IT": "Yugi Muto",
+            "ja-JP": "武藤遊戯",
+            "ko-KR": "유희",
+            "pt-BR": "Yugi Muto",
+            "zh-CN": "武藤游戏",
+            "zh-TW": "武藤遊戲"
+        },
+        "NAME_ID0058": {
+            "id": "NAME_ID0058",
+            "de-DE": "Yami Bakura",
+            "en-US": "Yami Bakura",
+            "es-ES": "Yami Bakura",
+            "fr-FR": "Yami Bakura",
+            "it-IT": "Yami Bakura",
+            "ja-JP": "闇バクラ",
+            "ko-KR": "어둠의 바크라",
+            "pt-BR": "Yami Bakura",
+            "zh-CN": "暗貘良",
+            "zh-TW": "闇貘良"
+        },
         "NAME_ID0101": {
             "id": "NAME_ID0101",
             "de-DE": "Jaden Yuki",
@@ -5116,8 +5142,8 @@
             "ja-JP": "超時空戦闘機ビック・バイパー",
             "ko-KR": "초시공 전투기 빅 바이퍼",
             "pt-BR": "Gradius",
-            "zh-CN": "超时空战斗机VIC　VIPER",
-            "zh-TW": "超時空戰鬥機VIC　VIPER"
+            "zh-CN": "超时界战斗机 V型蛇",
+            "zh-TW": "超時空戰鬥機 V型蛇"
         },
         "NAME_ID9045": {
             "id": "NAME_ID9045",

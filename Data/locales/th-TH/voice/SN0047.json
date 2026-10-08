@@ -47,7 +47,8 @@
         16,
         34,
         41,
-        45
+        45,
+        57
       ],
       "text": "If you're ready...\nLet's have fun!"
     },
@@ -861,7 +862,8 @@
         16,
         34,
         41,
-        45
+        45,
+        57
       ],
       "text": "Joey said that when you Duel someone, you form a bond."
     },
@@ -886,7 +888,8 @@
         16,
         34,
         41,
-        45
+        45,
+        57
       ],
       "text": "I couldn't have won if you didn't teach me all your tactics!"
     },
@@ -975,7 +978,8 @@
         6,
         16,
         41,
-        45
+        45,
+        57
       ],
       "text": "I may have lost, but that was really fun!"
     },
@@ -991,7 +995,8 @@
         6,
         16,
         41,
-        45
+        45,
+        57
       ],
       "text": "Please keep teaching me because I have so much to learn!"
     },
@@ -1317,7 +1322,8 @@
       "duelist": [
         1,
         6,
-        41
+        41,
+        57
       ],
       "text": "I believe in you, Yugi!"
     },

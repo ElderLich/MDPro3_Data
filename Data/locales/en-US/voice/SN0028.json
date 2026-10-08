@@ -35,7 +35,8 @@
         1,
         11,
         15,
-        41
+        41,
+        58
       ],
       "text": "This Duel among the chosen ones is millennia in the making!"
     },
@@ -67,7 +68,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        6
+        6,
+        57
       ],
       "text": "You're not the one I want to Duel.\nYou're just a vessel!"
     },
@@ -99,7 +101,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        11
+        11,
+        58
       ],
       "text": "Bakura...\nShould I team with you...\nOr erase you..."
     },
@@ -1008,7 +1011,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        6
+        6,
+        57
       ],
       "text": "You should be proud.\nYou Dueled well for a vessel!"
     },
@@ -1018,7 +1022,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        11
+        11,
+        58
       ],
       "text": "Your Deck even freaks me out, Bakura!"
     },
@@ -1113,7 +1118,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        6
+        6,
+        57
       ],
       "text": "How could a measly vessel do this to me!"
     },

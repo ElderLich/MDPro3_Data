@@ -52,7 +52,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        6
+        6,
+        57
       ],
       "text": "Questa battaglia deciderà il mio destino."
     },
@@ -81,7 +82,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        11
+        11,
+        58
       ],
       "text": "La tua malvagità finisce qui, Yami Bakura!"
     },
@@ -1583,7 +1585,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        6
+        6,
+        57
       ],
       "text": "Mi hai sconfitto, amico mio."
     },
@@ -1593,7 +1596,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        3
+        3,
+        43
       ],
       "text": "Hai vinto, Joey!"
     },
@@ -1994,7 +1998,8 @@
       "card": [],
       "duelist": [
         201,
-        219
+        219,
+        223
       ],
       "text": "Il nostro amore per Duel Monsters va oltre i confini del tempo."
     },
@@ -2013,7 +2018,8 @@
       "card": [],
       "duelist": [
         101,
-        115
+        115,
+        158
       ],
       "text": "Voglio duellare con te tanto quanto tu vuoi duellare con me!"
     },
@@ -2243,8 +2249,10 @@
       "duelist": [
         101,
         115,
+        158,
         201,
-        219
+        219,
+        223
       ],
       "text": "Il legame che abbiamo stretto oggi sarà duraturo.    "
     },
@@ -2283,7 +2291,8 @@
       "card": [],
       "duelist": [
         101,
-        115
+        115,
+        158
       ],
       "text": "È difficile prevederti, giochi seguendo l'istinto."
     },
@@ -2294,7 +2303,8 @@
       "card": [],
       "duelist": [
         201,
-        219
+        219,
+        223
       ],
       "text": "Il legame che hai con Drago Polvere di Stelle è incredibile!"
     },
@@ -2382,7 +2392,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        6
+        6,
+        57
       ],
       "text": "Dipende tutto da te, Yugi!"
     },
@@ -2403,7 +2414,8 @@
       "card": [],
       "duelist": [
         101,
-        115
+        115,
+        158
       ],
       "text": "Vai, Jaden!"
     },
@@ -2414,7 +2426,8 @@
       "card": [],
       "duelist": [
         201,
-        219
+        219,
+        223
       ],
       "text": "Tocca a te, Yusei!"
     },

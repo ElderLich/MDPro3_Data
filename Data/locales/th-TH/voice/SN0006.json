@@ -24,7 +24,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        11
+        11,
+        58
       ],
       "text": "For everything I hold dear, I can't afford to lose this Duel!"
     },
@@ -978,7 +979,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        11
+        11,
+        58
       ],
       "text": "It's over for you, Bakura! "
     },
@@ -1384,7 +1386,8 @@
       "card": [],
       "duelist": [
         101,
-        115
+        115,
+        158
       ],
       "text": "Jaden, why do I feel like you and I are a lot alike..."
     },
@@ -1395,7 +1398,8 @@
       "card": [],
       "duelist": [
         201,
-        219
+        219,
+        223
       ],
       "text": "Wow!\nI get to Duel against a Duelist from the future!"
     },
@@ -1612,7 +1616,8 @@
       "card": [],
       "duelist": [
         101,
-        115
+        115,
+        158
       ],
       "text": "Jaden, I can tell you and your Deck have a special bond!"
     },
@@ -1623,7 +1628,8 @@
       "card": [],
       "duelist": [
         201,
-        219
+        219,
+        223
       ],
       "text": "The magic of Duel Monsters will make sure we meet again."
     },
@@ -1718,7 +1724,8 @@
       "card": [],
       "duelist": [
         101,
-        115
+        115,
+        158
       ],
       "text": "Wow...\nYou're in total control of your Deck, Jaden!"
     },
@@ -1729,7 +1736,8 @@
       "card": [],
       "duelist": [
         201,
-        219
+        219,
+        223
       ],
       "text": "I've never seen anything like your Stardust Dragon, Yusei!"
     },
@@ -1815,7 +1823,8 @@
       "card": [],
       "duelist": [
         101,
-        115
+        115,
+        158
       ],
       "text": "Jaden, I know you'll do great!"
     },
@@ -1826,7 +1835,8 @@
       "card": [],
       "duelist": [
         201,
-        219
+        219,
+        223
       ],
       "text": "Show 'em what you can do, Yusei!"
     },

@@ -45,7 +45,8 @@
       "card": [],
       "duelist": [
         303,
-        6
+        6,
+        57
       ],
       "text": "I'm not gonna lose, Yugi!"
     },
@@ -1496,7 +1497,8 @@
       "card": [],
       "duelist": [
         303,
-        6
+        6,
+        57
       ],
       "text": "I did it!!!\nI beat Yugi!!!"
     },
@@ -1591,7 +1593,8 @@
       "card": [],
       "duelist": [
         303,
-        6
+        6,
+        57
       ],
       "text": "Nice, Yugi!\nThis is why I know you'll achieve your dreams!"
     },
@@ -1864,7 +1867,8 @@
         315,
         41,
         43,
-        47
+        47,
+        57
       ],
       "text": "We're down to the final push!"
     },
@@ -1885,7 +1889,8 @@
         315,
         41,
         43,
-        47
+        47,
+        57
       ],
       "text": "Tag! You're it!"
     },
@@ -1906,7 +1911,8 @@
         315,
         41,
         43,
-        47
+        47,
+        57
       ],
       "text": "Sorry! But I know you can fix this!"
     },

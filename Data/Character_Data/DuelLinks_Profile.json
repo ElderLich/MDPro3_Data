@@ -507,6 +507,32 @@
             "zh-CN": "稀有卡片窃盗团“GHOULS（古鲁斯）”的首领。“守墓的一族”的后裔，也是千年神器“仟年杖”的持有者。他误以为父亲被法老王（暗游戏）所杀，实际上是自己黑暗人格所为。因此发誓要在决斗都市中复仇。但在利希德倒下后，主导权被黑暗人格夺走。虽然最终他以自身意志封印了黑暗人格，然而……",
             "zh-TW": "稀有卡牌盜竊團古魯斯的總司令。做為守墓一族的後裔，持有並看守著千年神器「千年錫杖」。父親遭自身黑暗的人格殺害，但誤認定是法老王（闇遊戲）所為，發誓要透過戰鬥城市復仇。又因利希德倒下一事而被黑暗的人格奪走身體主導權，最後才靠著自己的意志親手埋葬了黑暗的人格……"
         },
+        "ID0057": {
+            "id": "ID0057",
+            "de-DE": "Als Yugi Muto das Millenniumspuzzle zusammensetzte, wurde er vom Geist des Pharaos erfüllt. Für Yami Yugis Date mit Tea gibt sich Yugi viel Mühe, um das perfekte Outfit für Yami Yugi auszuwählen, was zeigt, wie gutherzig Yugi sein kann.",
+            "en-US": "When Yugi Muto assembled the Millennium Puzzle, he was infused with the spirit of the Pharaoh. For Yami Yugi's date with Téa, Yugi puts a lot of thought and care into the perfect outfit for Yami Yugi, proving how kindhearted Yugi can be.",
+            "es-ES": "Cuando Yugi Muto completó el Rompecabezas Milenario, su alma se fusionó con la del Faraón. Para la cita de Yami Yugi con Tea, Yugi dedicó bastante tiempo y esmero en el atuendo perfecto para Yami Yugi, demostrando así su inmensa bondad.",
+            "fr-FR": "En assemblant le Puzzle Millénium, Yugi Muto est imprégné de l'âme du Pharaon. Pour le rendez-vous de Yami Yugi avec Tea, Yugi aide Yami Yugi à élaborer la tenue parfaite, prouvant à quel point il a bon cœur.",
+            "it-IT": "Quando Yugi Muto completa il Puzzle del Millennio, riceve lo spirito del Faraone. Per l'appuntamento di Yami Yugi con Tea, Yugi cura nei minimi dettagli l'abbigliamento perfetto per Yami Yugi, dimostrando la sua natura altruista.",
+            "ja-JP": "千年パズルを完成させたことで王の魂をその身に宿した武藤遊戯。この服装は「もう一人のボク」こと闇遊戯と真崎杏子のデートに向けてコーディネートしたもの。自分ではなく「もう一人のボク」に似合うように、大いに悩み選んだこの服装には、彼のやさしさが詰まっている。",
+            "ko-KR": "천년 퍼즐을 완성시켜 왕의 영혼을 몸에 깃들인 유희. 이 복장은 「또 하나의 나」인 어둠의 유희와 안수진의 데이트를 위해 코디한 것. 자신이 아니라 「또 하나의 나」에게 걸맞도록, 오랜 고민 끝에 고른 이 복장에는, 그의 상냥함이 담겨있다.",
+            "pt-BR": "Quando Yugi Muto montou o Enigma do Milênio, ele recebeu o espírito do Faraó. Para o encontro de Yami Yugi com Téa, Yugi não poupa esforços para elaborar o traje perfeito para Yami Yugi, provando o quanto Yugi pode ser gentil.",
+            "zh-CN": "完成千年积木后，武藤游戏将王之灵魂吸收进了体内。这身穿着是他为“另一个我”暗游戏和真崎杏子的约会所准备的。为了选出适合“另一个我”而非自己的衣服，他苦心斟酌许久，从中可以感受到他的体贴与温柔。",
+            "zh-TW": "完成千年積木後，體內寄宿著王之靈魂的武藤遊戲。這身穿搭是他替「另一個我」闇遊戲與真崎杏子的約會所準備的。為了選出適合「另一個我」而非自己的衣服，他苦心斟酌許久，從中可以感受到他的體貼與溫柔。"
+        },
+        "ID0058": {
+            "id": "ID0058",
+            "de-DE": "Yami Bakura agiert im Verborgenen, sein schwarzer Mantel ist so dunkel wie die Nacht. Obwohl er geschworen hat, der Seele des Pharaos zu dienen, kennen nur die Schatten sein wahres Motiv – denn das Böse im Inneren des Millenniumsrings ist die Finsternis selbst ...",
+            "en-US": "Operating in the shadows, Yami Bakura's black coat is as dark as the night. Though he vowed to serve the Pharaoh's soul, only the shadows know his true motive - for the evil within the Millennium Ring is the darkness itself...",
+            "es-ES": "El abrigo de Yami Bakura es negro como la penumbra, dado que acostumbra a operar clandestinamente. Aunque juró servir al alma del Faraón, solo las sombras conocen su verdadero propósito, pues el mal que alberga la Sortija Milenaria es la propia oscuridad.",
+            "fr-FR": "Opérant dans l'ombre, Yami Bakura arbore un manteau aussi noir que la nuit. Bien qu'il ait juré de servir l'âme du Pharaon, seules les ténèbres connaissent son but ultime. Après tout, le mal contenu dans l'Anneau Millénaire est l'obscurité en personne...",
+            "it-IT": "Operando nell'ombra, la giacca nera di Yami Bakura è scura come la notte. Pur avendo giurato di servire l'anima del Faraone, solo le ombre conoscono le sue vere motivazioni... poiché il male che si cela nell'Anello del Millennio è l'oscurità stessa...",
+            "ja-JP": "漆黒のコートに身を包み夜の闇に暗躍する闇バクラ。王の魂へ忠誠を誓うと告げたその真意は闇のみぞ知る。千年リングに宿る邪悪なる意思は闇そのものなのだから……。",
+            "ko-KR": "칠흑의 코트를 몸에 두르고 밤의 어둠 속에서 암약하는 어둠의 바크라. 왕의 영혼에게 충성을 바치겠노라 맹세한 그 진의는, 오직 어둠만이 알고 있다. 천년 링에 깃든 사악한 의지는 어둠 그 자체이니……",
+            "pt-BR": "Yami Bakura avança nas trevas, com um casaco tão preto quanto a noite. Embora tenha jurado servir à alma do Faraó, só as sombras conhecem os verdadeiros motivos dele, pois o mal no Anel do Milênio é a própria escuridão...",
+            "zh-CN": "身披漆黑大衣，潜伏于深夜中的暗貘良。宣誓效忠王之灵魂的真意，唯有黑暗知晓。因为寄宿于千年智慧轮中的邪恶意志正是黑暗的化身……",
+            "zh-TW": "身披漆黑大衣，潛伏於深夜中的闇貘良。宣誓效忠王之靈魂的真意，唯有黑暗知曉。因為寄宿於千年輪中的邪惡意志，正是黑暗的化身……"
+        },
         "ID0101": {
             "id": "ID0101",
             "de-DE": "Jaden ist bereit für die beste Duellschule der Welt: die Duell-Akademie!  Wegen seiner weniger als mittelmäßigen Noten wohnt er allerdings in Slifer Red, dem unbeliebtesten Wohnheim. Doch das hält ihn nicht davon ab, seine hervorragenden Duellinstinkte und sein Elementar-HELD-Deck zu nutzen, um erfolgreich zu werden. Sein Lieblingsmonster, Elementar-HELD Neos, unterstützt seine Fusions-Fähigkeiten, doch seine wichtigste Fähigkeit ist, dass er mit den Geistern reden kann, die seinen Karten innewohnen.",

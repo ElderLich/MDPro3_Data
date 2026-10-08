@@ -163,7 +163,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        11
+        11,
+        58
       ],
       "text": "It's you!\nThe dark presence inside the Millennium Ring!"
     },
@@ -1544,7 +1545,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        11
+        11,
+        58
       ],
       "text": "The Millennium Ring is the source of all evil."
     },
@@ -1653,7 +1655,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        11
+        11,
+        58
       ],
       "text": "Help me Sera!\nHelp meee!!!"
     },
@@ -1671,7 +1674,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        11
+        11,
+        58
       ],
       "text": "Must I lose everything because of the Millennium Ring?"
     },

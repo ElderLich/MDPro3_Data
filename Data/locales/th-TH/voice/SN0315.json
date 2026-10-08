@@ -49,7 +49,8 @@
       "card": [],
       "duelist": [
         6,
-        303
+        303,
+        57
       ],
       "text": "What? I have to face Yugi!?\nPlease go gentle."
     },
@@ -110,7 +111,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        11
+        11,
+        58
       ],
       "text": "My friends and I won't let you take control of me anymore!"
     },
@@ -798,7 +800,8 @@
         305,
         314,
         43,
-        45
+        45,
+        57
       ],
       "text": "Playing with friends is always a great time!"
     },
@@ -848,7 +851,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        11
+        11,
+        58
       ],
       "text": "I won't let you possess me anymore!"
     },
@@ -891,7 +895,8 @@
       "card": [],
       "duelist": [
         6,
-        303
+        303,
+        57
       ],
       "text": "Yugi, you truly are the best Duelist!"
     },
@@ -956,7 +961,8 @@
       "cutin": 0,
       "card": [],
       "duelist": [
-        11
+        11,
+        58
       ],
       "text": "No...\nI can't let you control me again..."
     },
