@@ -845,6 +845,9 @@ Anche la posizione dei suoi manici trasmette un senso di pigrizia.
 [IDS_ITEMDESC.ID1010158]
 Un'icona che raffigura un mostro avvolto attorno a una pallida sfera di luce.
 Sembra riuscire a resistere all'energia rilasciata dalla sfera grazie a uno strano potere.
+[IDS_ITEMDESC.ID1010159]
+Un'icona che raffigura <category id='109'/>, agendo a tutti gli effetti come principale.
+Loquace e premuroso, e dall'aspetto affabile, è molto popolare tra gli studenti.
 [IDS_ITEMDESC.ID1010160]
 Un'icona che raffigura l'illustrazione principale utilizzata per l'evento "Yu-Gi-Oh! World Championship 2026".
 Osserva i migliori Duellanti al mondo.
@@ -1114,6 +1117,15 @@ Conferita a chi ha ottenuto notevoli risultati nella Coppa Fusione.
 [IDS_ITEMDESC.ID1011075]
 Un'icona con il logo di bronzo "Coppa Fusione". 
 Conferita a chi ha vinto innumerevoli battaglie nella Coppa Fusione.
+[IDS_ITEMDESC.ID1011076]
+Un'icona assegnata solo ai Duellanti che hanno conquistato una posizione tra i primi 10 nella Duelist Cup.
+È la prova di una prestazione dominante nella combattutissima "DC 2026 OCT".
+[IDS_ITEMDESC.ID1011077]
+Un'icona assegnata solo ai Duellanti che hanno conquistato una posizione tra i primi 100 nella Duelist Cup.
+È la prova di una prestazione straordinaria nella combattutissima "DC 2026 OCT".
+[IDS_ITEMDESC.ID1011078]
+Un'icona assegnata solo ai Duellanti che hanno conquistato una posizione tra i primi 1.000 nella Duelist Cup.
+È la prova dell'incredibile sequenza di vittorie di un Duellante nella combattutissima "DC 2026 OCT".
 [IDS_ITEMDESC.ID1011079]
 Un'icona data ai Duellanti che si sono piazzati al 1° posto nell'evento Yu-Gi-Oh! World Championship 2026: MASTER DUEL.
 La loro battaglia continuerà a risplendere come una scia ardente, impressa nei cuori dei Duellanti di tutto il mondo.
@@ -1126,6 +1138,9 @@ Il pubblico è rimasto senza parole di fronte al loro incredibile istinto nei Du
 [IDS_ITEMDESC.ID1011082]
 Un'icona data ai Duellanti che hanno partecipato all'evento Yu-Gi-Oh! World Championship 2026: MASTER DUEL.
 È la prova che hanno affrontato il mondo e mostrato la propria forza di Duellanti.
+[IDS_ITEMDESC.ID1011086]
+Un'icona assegnata solo ai Duellanti che hanno conquistato una posizione tra i primi 10.000 nella Duelist Cup.
+È la prova delle molte vittorie di un Duellante nella combattutissima "DC 2026 OCT".
 [IDS_ITEMDESC.ID1012001]
 Un'icona che rappresenta un "Krawler", un mostro la cui razza ha invaso un certo pianeta. Questo esemplare è un membro della classe più alta.
 Tali creature distruggono senza pietà gli sforzi di generazioni della civiltà umana.
@@ -2117,6 +2132,24 @@ I loro risultati spingeranno molti Duellanti a continuare ad affrontare nuove sf
 [IDS_ITEMDESC.ID1020231]
 Un titolo dato ai Duellanti che si sono piazzati nella top 12 nell'evento Yu-Gi-Oh! World Championship 2026: MASTER DUEL.
 Pochi possono raggiungere un tale livello, e questo traguardo è la prova che sono stati prescelti.
+[IDS_ITEMDESC.ID1020232]
+Titolo conferito ai Duellanti che hanno raggiunto la top 10 nella DC 2026 OCT.
+Le storie dei loro numerosi e agguerriti Duelli e del coraggio dimostrato nella competizione per il trono continueranno a essere raccontate per molti anni.
+[IDS_ITEMDESC.ID1020233]
+Titolo conferito ai Duellanti che hanno raggiunto la top 100 nella DC 2026 OCT.
+Questa è la prova di un'impresa che molti Duellanti si sforzano di compiere.
+[IDS_ITEMDESC.ID1020234]
+Titolo conferito ai Duellanti che hanno raggiunto la top 500 nella DC 2026 OCT.
+Solo i più forti dei forti possiedono un cuore così, temprato da molti Duelli all'ultimo sangue.
+[IDS_ITEMDESC.ID1020235]
+Titolo conferito ai Duellanti che hanno raggiunto la top 1000 nella DC 2026 OCT.
+Complimenti ai Duellanti che hanno continuamente perfezionato Deck e tattiche per raggiungere questo risultato.
+[IDS_ITEMDESC.ID1020236]
+Titolo conferito ai Duellanti che hanno raggiunto la top 10.000 nella DC 2026 OCT.
+Questo è il risultato di vittorie accumulate contro forti avversari che hanno superato la 1ª fase.
+[IDS_ITEMDESC.ID1020237]
+Titolo conferito ai Duellanti che hanno raggiunto la 2ª fase nella DC 2026 OCT.
+Questa è la prova del superamento della combattutissima 1ª fase.
 [IDS_ITEMDESC.ID1020238]
 Un titolo dato ai Duellanti che hanno raggiunto risultati importanti nell'evento "Dice Rally ~ Settembre 2026 ~".
 Un futuro brillante attende coloro che sono abbastanza coraggiosi da credere in se stessi.
@@ -2947,6 +2980,12 @@ Per chi dà valore ai nuovi inizi.
 [IDS_ITEMDESC.ID1070184]
 Protettori che raffigurano il vortice della fusione dei mostri.
 Per coloro le cui tattiche si basano sulle Evocazioni tramite Fusione.
+[IDS_ITEMDESC.ID1070185]
+Protettori che raffigurano il saggio che è comparso di fronte a due combattenti in difficoltà in una battaglia contro un'antica divinità resuscitata.
+Per chi tiene molto ai vecchi amici.
+[IDS_ITEMDESC.ID1070186]
+Protettori che raffigurano <category id='199'/>, che è diventato il tramite di tre Patroni Potenti.
+Per chi vuole gettare il mondo nel caos.
 [IDS_ITEMDESC.ID1070189]
 Protettori che raffigurano paladini della giustizia che rispondono alle richieste di aiuto.
 Per coloro che non perdono mai la speranza.
@@ -3112,6 +3151,12 @@ Per coloro che hanno intrapreso un lungo viaggio e hanno creato molti ricordi.
 [IDS_ITEMDESC.ID1072010]
 Protettori che raffigurano <category id='170'/> che giudica coloro che diffondono paura senza motivo.
 Per coloro che scrutano i peccati degli altri.
+[IDS_ITEMDESC.ID1072011]
+Protettori che raffigurano due Ammaliatrici, una gentile e pacata, l'altra impulsiva e incapace di trattenersi.
+Per chi padroneggia le arti spirituali sia dell'acqua che del fuoco.
+[IDS_ITEMDESC.ID1072012]
+Protettori che raffigurano due Ammaliatrici, una è schietta e si lega emotivamente agli spiriti, mentre l'altra è seria e dedita allo studio.
+Per chi padroneggia le arti spirituali sia del vento che della terra.
 [IDS_ITEMDESC.ID1073001]
 Protettori con un design grafico dello "Yu-Gi-Oh! World Championship 2023: MASTER DUEL".
 Per chi punta a diventare il miglior Duellante del mondo.
@@ -3181,6 +3226,9 @@ Per chi punta a diventare il miglior Duellante del mondo.
 [IDS_ITEMDESC.ID1073023]
 Protettori con il logo della "Coppa Fusione".
 Per coloro che hanno partecipato alla Coppa Fusione e reso l'evento un successo.
+[IDS_ITEMDESC.ID1073025]
+Protettori con il logo "DC 2026 OCT".
+Per te, che hai partecipato alla Duelist Cup autunnale e reso l'evento un successo.
 [IDS_ITEMDESC.ID1075001]
 Protettori che raffigurano una scena tratta da "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 I Duellanti presenti alla location sono esplosi in un grande applauso per celebrare questo prestigioso evento.
@@ -3207,6 +3255,9 @@ Viaggiando fianco a fianco con gli spiriti. Balla, fiore solitario, in tutto il 
 [IDS_ITEMDESC.ID1075009]
 Protettori che raffigurano l'immagine principale di "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Tre Maghi che hanno aperto la porta per un altro reame. Sono diventati noti come i "Tre Saggi, i Magistus".
+[IDS_ITEMDESC.ID1075010]
+Protettori che raffigurano l'immagine principale di "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
+La ragazza che ha perso tutto inizia una battaglia per riconquistarlo.
 [IDS_ITEMDESC.ID1080001]
 Una semplice scatola per Deck con degli accenti rossi.
 La prima scatola per Deck non si scorda mai.
@@ -3404,6 +3455,9 @@ Consigliata per Deck permeati dall'anima di un drago.
 [IDS_ITEMDESC.ID1082032]
 Una custodia carte che raffigura l'anti-male <category id='059'/>.
 Consigliata per Deck che ingaggiano battaglie feroci contro i demoni.
+[IDS_ITEMDESC.ID1082033]
+Una custodia carte che raffigura un cancello sigillato.
+Consigliata per i Deck <category id='189'/>.
 [IDS_ITEMDESC.ID1082034]
 Una custodia carte che raffigura la cultura tradizionale giapponese.
 Consigliata per i Deck che rendono i Duelli più accesi.
@@ -3778,6 +3832,9 @@ Che sia una replica o meno, è meglio maneggiarlo con cautela.
 [IDS_ITEMDESC.ID1101045]
 Parti del Terreno ispirate agli spiriti che si ritrovano nelle bevande mattutine.
 Un tè mattutino rende tutti più freschi.
+[IDS_ITEMDESC.ID1101048]
+Parti del Terreno modellate su "<card mrk='12267'/>".
+Lo spirito del cavaliere che dimora nell'armatura attende il momento della ribellione.
 [IDS_ITEMDESC.ID1102001]
 Parti del Terreno per un Colosseo.
 Un destino che termina qui non è un destino da rimpiangere. Sii felice che tutti quelli che combatteranno qui potranno offrire se stessi per dare vita a una valente battaglia.
@@ -4088,6 +4145,12 @@ Ci sono persino casi in cui il lanciatore si fonde con i mostri: un destino davv
 [IDS_ITEMDESC.ID1111068]
 Uno stand ispirato a un mostro deliziosamente sciocco e mostri Yummy.
 "<card mrk='21833'/>", alcuni mostri deliziosamente sciocchi nati dall'oscurità.
+[IDS_ITEMDESC.ID1111069]
+Uno stand ispirato a un'arte spirituale che trascende il potere degli attributi.
+Secondo un antico Libro di Magia, si può attivare combinando più attributi differenti.
+[IDS_ITEMDESC.ID1111070]
+Uno stand ispirato a "<card mrk='21465'/>".
+La grafica altamente raffinata è intrisa del potere di "<card mrk='21444'/>".
 [IDS_ITEMDESC.ID1111071]
 Uno stand modellato sull'oroscopo di <category id='110'/>.
 Ti guida sfruttando il potere mistico delle stelle.
@@ -4643,6 +4706,21 @@ Quando si manifestano tutti e quattro i segni che sconvolgeranno il mondo, la nu
 [IDS_ITEMDESC.ID1130144]
 Uno spirito evocato pregando in un lontano passato per placare le guerre che devastavano il territorio.
 È stato rianimato accanto ai prescelti con il segno del drago.
+[IDS_ITEMDESC.ID1130145]
+"Ammaliatrici" che usano le arti spirituali per controllare i servitori e scatenano abilità di vari attributi.
+Trascorrono ogni giornata in compagnia degli spiriti. Balla, fiore solitario, in tutto il tuo vivido colore.
+[IDS_ITEMDESC.ID1130146]
+Giovani ragazze che si dedicano felicemente al proprio allenamento quotidiano per diventare abili Ammaliatrici.
+La loro esperienza nel superare gli ostacoli insieme era come un bocciolo pronto a sbocciare.
+[IDS_ITEMDESC.ID1130147]
+Dalle profondità del purgatorio, le zanne della ribellione si levano contro il potere insensato.
+Che il canto ribelle degli spiriti inquieti risuoni per l'eternità.
+[IDS_ITEMDESC.ID1130148]
+"<card mrk='22966'/>" che avvolge "<category id='196'/>".
+Un mago molto dotato dei tempi antichi in grado di padroneggiare diverse arti proibite evoca un nuovo spirito divino.
+[IDS_ITEMDESC.ID1130149]
+"<card mrk='22138'/>" cerca di salvare <category id='199'/>, che soffre nel mondo degli spiriti.
+Con un'espressione pacifica, abbraccia la sua amica d'infanzia, ora calma, e le parla con voce gentile.
 [IDS_ITEMDESC.ID1130150]
 "<card mrk='22932'/>" affronta l'attacco di "<card mrk='22934'/>".
 Il contrattacco disperato basterà a fermare la follia?
@@ -4742,6 +4820,9 @@ Si dice che quando qualcuno ottiene le carte "<card mrk='6390'/>", la porta per 
 [IDS_ITEMDESC.ID1170020]
 Un Album del Collezionista con una compagnia circense che offre un intrattenimento non convenzionale.
 Si dice che quando qualcuno ottiene le carte "<category id='188'/>", la porta per la stregoneria e le creature magiche si aprirà.
+[IDS_ITEMDESC.ID1170021]
+Un Album del Collezionista con un'Ammaliatrice, che usa le arti spirituali per controllare i servitori e scatenare abilità di vari attributi.
+Si dice che quando qualcuno ottiene le carte <category id='190'/>, la porta per il potere spirituale si aprirà.
 [IDS_ITEMDESC.ID1170022]
 Un Album del Collezionista per le carte che raffigura la cultura tradizionale giapponese.
 Si dice che quando vengano raccolte delle carte dalle illustrazioni speciali, la porta verso un acceso Duello brillerà.
@@ -4820,6 +4901,12 @@ Il segnale brilla in cerca di salvezza.
 [IDS_ITEMDESC.ID1180026]
 Una moneta il cui motivo è un drago meccanico che può cambiare l'esito di una battaglia in un lampo.
 L'idea che la forza distruttiva renda giusti brilla di luce propria.
+[IDS_ITEMDESC.ID1180027]
+Una moneta che raffigura <card mrk='15407'/>.
+L'arte spirituale che trascende il potere degli attributi brilla intensamente.
+[IDS_ITEMDESC.ID1180028]
+Una moneta che raffigura l'occhio che fluttua su "<card mrk='22519'/>".
+Il potere soverchiante di <category id='189'/> brilla intensamente.
 [IDS_ITEMDESC.ID1190001]
 Il numero massimo di segnalibri che puoi possedere può essere aumentato.
 [IDS_ITEMDESC.ID0000]

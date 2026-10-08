@@ -522,6 +522,8 @@ Companhia de Palhaços Biancaviso
 Pote da Preguiça
 [IDS_ITEM.ID1010158]
 Ocultador de Efeitos
+[IDS_ITEM.ID1010159]
+Patrono do Poder de Artmage
 [IDS_ITEM.ID1010160]
 Mago Negro & Pequena Maga Negra (WCS2026)
 [IDS_ITEM.ID1010161]
@@ -714,6 +716,12 @@ Finalista Ouro da Copa Fusão
 Finalista Prata da Copa Fusão
 [IDS_ITEM.ID1011075]
 Finalista Bronze da Copa Fusão
+[IDS_ITEM.ID1011076]
+Finalista Ouro da DC 2026 OCT
+[IDS_ITEM.ID1011077]
+Finalista Prata da DC 2026 OCT
+[IDS_ITEM.ID1011078]
+Finalista Bronze da DC 2026 OCT
 [IDS_ITEM.ID1011079]
 Campeão do WCS 2026
 [IDS_ITEM.ID1011080]
@@ -722,6 +730,8 @@ Finalista do WCS 2026
 Top 4 do WCS 2026
 [IDS_ITEM.ID1011082]
 Top 12 do WCS 2026
+[IDS_ITEM.ID1011086]
+Finalista Cobre da DC 2026 OCT
 [IDS_ITEM.ID1012001]
 Sinaphysis X-Krawler
 [IDS_ITEM.ID1012002]
@@ -1386,6 +1396,18 @@ Finalista do WCS 2026
 Top 4 do WCS 2026
 [IDS_ITEM.ID1020231]
 Top 12 do WCS 2026
+[IDS_ITEM.ID1020232]
+Top 10 da DC 2026 OCT
+[IDS_ITEM.ID1020233]
+Top 100 da DC 2026 OCT
+[IDS_ITEM.ID1020234]
+Top 500 da DC 2026 OCT
+[IDS_ITEM.ID1020235]
+Top 1000 da DC 2026 OCT
+[IDS_ITEM.ID1020236]
+Top 10000 da DC 2026 OCT
+[IDS_ITEM.ID1020237]
+Duelista de 2nd Stage do DC 2026 OCT
 [IDS_ITEM.ID1020238]
 Força Implacável
 [IDS_ITEM.ID1021001]
@@ -1948,6 +1970,10 @@ Companhia de Palhaços Biancaviso
 Phara, a Deusa Primordial
 [IDS_ITEM.ID1070184]
 Polimerização
+[IDS_ITEM.ID1070185]
+Aleister, o Reminiscente
+[IDS_ITEM.ID1070186]
+Vidolium, o Instável Patrono do Poder da União
 [IDS_ITEM.ID1070189]
 Quinta Esperança
 [IDS_ITEM.ID1070190]
@@ -2058,6 +2084,10 @@ Nhamy
 Arbaz, o Encoberto e Ecclesia, a Exilada
 [IDS_ITEM.ID1072010]
 Eneanave
+[IDS_ITEM.ID1072011]
+Eria, a Encantadora da Água e Hiita, a Encantadora do Fogo
+[IDS_ITEM.ID1072012]
+Wynn, a Encantadora do Vento e Aussa, a Encantadora da Terra
 [IDS_ITEM.ID1073001]
 Favorecimento de Grupo do WCS 2023
 [IDS_ITEM.ID1073002]
@@ -2104,6 +2134,8 @@ Comemoração do WCS 2026
 Favorecimento de Grupo do WCS 2026
 [IDS_ITEM.ID1073023]
 Celebração da Copa Fusão
+[IDS_ITEM.ID1073025]
+Celebração da DC 2026 OCT
 [IDS_ITEM.ID1075001]
 Yu-Gi-Oh! CARD GAME THE CHRONICLES
 [IDS_ITEM.ID1075002]
@@ -2122,6 +2154,8 @@ THE CHRONICLES: O Caído e a Virtuosa2
 THE CHRONICLES: Encantadoras Espirituais
 [IDS_ITEM.ID1075009]
 THE CHRONICLES: Magistus
+[IDS_ITEM.ID1075010]
+THE CHRONICLES: Caçadora dos Despojos do Pecado
 [IDS_ITEM.ID1080001]
 Porta-cards de Duelista Vermelho
 [IDS_ITEM.ID1080002]
@@ -2254,6 +2288,8 @@ Elfnota
 Ravina de Dragões
 [IDS_ITEM.ID1082032]
 Exoirmã
+[IDS_ITEM.ID1082033]
+Teorealizar Liberação
 [IDS_ITEM.ID1082034]
 Mago Negro & Pequena Maga Negra (WCS2026)
 [IDS_ITEM.ID1083001]
@@ -2492,6 +2528,8 @@ Grinalda
 Coroa Proibida
 [IDS_ITEM.ID1101045]
 DESPERTAÇA!
+[IDS_ITEM.ID1101048]
+Os Cavaleiros Fantasmas da Sombra Brigandina
 [IDS_ITEM.ID1102001]
 Coliseu
 [IDS_ITEM.ID1102002]
@@ -2682,6 +2720,10 @@ Rosa Multelegante
 Derretimento Mágico
 [IDS_ITEM.ID1111068]
 Nhamy
+[IDS_ITEM.ID1111069]
+Ichirin - Arte Espiritual Maior
+[IDS_ITEM.ID1111070]
+Artmage
 [IDS_ITEM.ID1111071]
 Caudraco
 [IDS_ITEM.ID1111072]
@@ -3068,6 +3110,16 @@ Companhia de Palhaços Biancaviso
 Dragão Vermelho Hipernova
 [IDS_ITEM.ID1130144]
 Dragão Carmesim Quetzalcoatl
+[IDS_ITEM.ID1130145]
+Encantadoras Espirituais
+[IDS_ITEM.ID1130146]
+Despertar dos Possuídos
+[IDS_ITEM.ID1130147]
+Dragão Xyz do Réquiem Negro
+[IDS_ITEM.ID1130148]
+Invocação Gama
+[IDS_ITEM.ID1130149]
+Teorealizar a Calmaria Passada
 [IDS_ITEM.ID1130150]
 Experimento Final Anti-GMX
 [IDS_ITEM.ID1130151]
@@ -3092,6 +3144,10 @@ Bilhete de Recompensa Fusão
 Bilhete de Recompensa Sincro
 [IDS_ITEM.ID1141004]
 Bilhetes de recompensa da Duelist Cup
+[IDS_ITEM.ID1142001]
+Pacote Mestre de Bilhete de Card UR 30% x1
+[IDS_ITEM.ID1142002]
+Pacote Mestre de Bilhete de Card UR x1
 [IDS_ITEM.ID1150001]
 Espaço para Deck
 [IDS_ITEM.ID1160001]
@@ -3136,6 +3192,8 @@ Sombraneco
 Dragão Cibernético
 [IDS_ITEM.ID1170020]
 Companhia de Palhaços
+[IDS_ITEM.ID1170021]
+Encantadoras Espirituais
 [IDS_ITEM.ID1170022]
 WCS2026
 [IDS_ITEM.ID1180001]
@@ -3190,6 +3248,10 @@ Cauda de Fadas
 HERÓI do Elemento
 [IDS_ITEM.ID1180026]
 Dragão Cibernético
+[IDS_ITEM.ID1180027]
+Ichirin - Arte Espiritual Maior
+[IDS_ITEM.ID1180028]
+Teorealizar
 [IDS_ITEM.ID1190001]
 Espaços de Favoritos
 [IDS_ITEM.ID0000]
@@ -3256,15 +3318,15 @@ Arquivo do Colecionador
 Moeda
 [IDS_ITEM.CATEGORY_0019]
 Espaços de Favoritos
+[IDS_ITEM.CP]
+Pontos de Fabricação
+[IDS_ITEM.FREEGEM]
+Gemas Grátis
+[IDS_ITEM.PAIDGEM]
+Gemas Pagas
 [IDS_ITEM.SPCATEGORY_0003]
 Colegas Deluxe
 [IDS_ITEM.SPCATEGORY_0006]
 Moldura de Ícone Deluxe
 [IDS_ITEM.SPCATEGORY_0007]
 Protetores Deluxe
-[IDS_ITEM.FREEGEM]
-Gemas Grátis
-[IDS_ITEM.PAIDGEM]
-Gemas Pagas
-[IDS_ITEM.PONTOS_DE_FABRICA_O]
-Pontos de Fabricação

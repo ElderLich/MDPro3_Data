@@ -76,12 +76,20 @@ Dingirsu, the Orcust of the Evening Star
 I:P Masquerena
 [IDS_ITEM.ID1000039]
 S:P Little Knight
+[IDS_ITEM.ID1000040]
+Ryzeal Detonator
 [IDS_ITEM.ID1000041]
 Number 41: Bagooska the Terribly Tired Tapir
 [IDS_ITEM.ID1000042]
 Yummy★Snatchy
 [IDS_ITEM.ID1000043]
 Dinowrestler Pankratops
+[IDS_ITEM.ID1000046]
+Beat, Bladesman Fur Hire
+[IDS_ITEM.ID1000047]
+Penguin Soldier
+[IDS_ITEM.ID1000048]
+Fairy Tail - Snow
 [IDS_ITEM.ID1001001]
 Instant Fusion
 [IDS_ITEM.ID1001002]
@@ -198,6 +206,8 @@ Fiendsmith Engraver
 I:P Masquerena & S-Force Rappa Chiyomaru
 [IDS_ITEM.ID1003006]
 Fallen of Albaz
+[IDS_ITEM.ID1003007]
+Elemental HERO Neos
 [IDS_ITEM.ID1005001]
 Rescue Rabbit
 [IDS_ITEM.ID1010001]
@@ -480,6 +490,10 @@ Elfnote Lucina
 Dragunity Quirinus
 [IDS_ITEM.ID1010142]
 Exosister Mikailis
+[IDS_ITEM.ID1010143]
+Fairy Tail - Snow
+[IDS_ITEM.ID1010144]
+Rex, Freight Fur Hire
 [IDS_ITEM.ID1010145]
 Artmage Non-Finito
 [IDS_ITEM.ID1010146]
@@ -488,6 +502,70 @@ Number C101: Silent Honor DARK
 Fallen of the White Dragon
 [IDS_ITEM.ID1010148]
 Tri-Brigade Springans Kitt
+[IDS_ITEM.ID1010149]
+Favorite HERO Flame Wingman
+[IDS_ITEM.ID1010150]
+Darklord Eveningstar
+[IDS_ITEM.ID1010151]
+Lev Shaddoll Fusion
+[IDS_ITEM.ID1010152]
+GMX - ALLOS
+[IDS_ITEM.ID1010153]
+First Penguin
+[IDS_ITEM.ID1010154]
+Solemn Scolding
+[IDS_ITEM.ID1010155]
+Chimeratech Megafleet Dragon
+[IDS_ITEM.ID1010156]
+Clown Crew Biancaviso
+[IDS_ITEM.ID1010157]
+Pot of Sloth
+[IDS_ITEM.ID1010158]
+Effect Veiler
+[IDS_ITEM.ID1010159]
+Artmage Power Patron
+[IDS_ITEM.ID1010160]
+Dark Magician & Dark Magician Girl (WCS2026)
+[IDS_ITEM.ID1010161]
+2027 SEASON
+[IDS_ITEM.ID1010162]
+coming soon
+[IDS_ITEM.ID1010163]
+coming soon
+[IDS_ITEM.ID1010164]
+coming soon
+[IDS_ITEM.ID1010165]
+coming soon
+[IDS_ITEM.ID1010166]
+coming soon
+[IDS_ITEM.ID1010167]
+coming soon
+[IDS_ITEM.ID1010168]
+coming soon
+[IDS_ITEM.ID1010169]
+coming soon
+[IDS_ITEM.ID1010170]
+coming soon
+[IDS_ITEM.ID1010171]
+coming soon
+[IDS_ITEM.ID1010172]
+coming soon
+[IDS_ITEM.ID1010173]
+coming soon
+[IDS_ITEM.ID1010174]
+coming soon
+[IDS_ITEM.ID1010175]
+coming soon
+[IDS_ITEM.ID1010176]
+coming soon
+[IDS_ITEM.ID1010177]
+coming soon
+[IDS_ITEM.ID1010178]
+coming soon
+[IDS_ITEM.ID1010179]
+coming soon
+[IDS_ITEM.ID1010180]
+Desperate Tag
 [IDS_ITEM.ID1011001]
 Soccer Ball
 [IDS_ITEM.ID1011002]
@@ -630,6 +708,30 @@ WCS 2026 Qualifiers Gold Finalist
 WCS 2026 Qualifiers Silver Finalist
 [IDS_ITEM.ID1011071]
 WCS 2026 Qualifiers Bronze Finalist
+[IDS_ITEM.ID1011072]
+Fusion Cup Champion
+[IDS_ITEM.ID1011073]
+Fusion Cup Gold Finalist
+[IDS_ITEM.ID1011074]
+Fusion Cup Silver Finalist
+[IDS_ITEM.ID1011075]
+Fusion Cup Bronze Finalist
+[IDS_ITEM.ID1011076]
+DC 2026 OCT Gold Finalist
+[IDS_ITEM.ID1011077]
+DC 2026 OCT Silver Finalist
+[IDS_ITEM.ID1011078]
+DC 2026 OCT Bronze Finalist
+[IDS_ITEM.ID1011079]
+WCS 2026 Champion
+[IDS_ITEM.ID1011080]
+WCS 2026 Finalist
+[IDS_ITEM.ID1011081]
+WCS 2026 Top 4
+[IDS_ITEM.ID1011082]
+WCS 2026 Top 12
+[IDS_ITEM.ID1011086]
+DC 2026 OCT Copper Finalist
 [IDS_ITEM.ID1012001]
 X-Krawler Synaphysis
 [IDS_ITEM.ID1012002]
@@ -790,6 +892,16 @@ S-Force Rappa Chiyomaru
 Spright Starter
 [IDS_ITEM.ID1012080]
 EM:P Meowmine
+[IDS_ITEM.ID1012081]
+Exosister Karmael
+[IDS_ITEM.ID1012082]
+Marchosias
+[IDS_ITEM.ID1012083]
+Exosister Stella
+[IDS_ITEM.ID1012084]
+Exosister Irene
+[IDS_ITEM.ID1012085]
+Exosister Sophia
 [IDS_ITEM.ID1013001]
 PawaPuro
 [IDS_ITEM.ID1013002]
@@ -816,8 +928,12 @@ Selene, Queen of the Master Magicians
 Rescue Hedgehog
 [IDS_ITEM.ID1013013]
 Aleister the Invoker
+[IDS_ITEM.ID1013014]
+Shadow Duelist Zester
 [IDS_ITEM.ID1013015]
 Wumpus
+[IDS_ITEM.ID1013016]
+Diabellstar the Black Witch
 [IDS_ITEM.ID1020001]
 Beginner Duelist
 [IDS_ITEM.ID1020002]
@@ -1252,16 +1368,60 @@ WCS 2026 Qualifiers DLv. MAX
 Lightning Storm
 [IDS_ITEM.ID1020217]
 Luck of the Roll
+[IDS_ITEM.ID1020218]
+Dreadnought
+[IDS_ITEM.ID1020219]
+Enforcers of Justice
+[IDS_ITEM.ID1020220]
+Violet Overlord
+[IDS_ITEM.ID1020221]
+Fusion Cup Top 10
+[IDS_ITEM.ID1020222]
+Fusion Cup Top 100
+[IDS_ITEM.ID1020223]
+Fusion Cup Top 500
+[IDS_ITEM.ID1020224]
+Fusion Cup Top 1000
+[IDS_ITEM.ID1020225]
+Fusion Cup Top 10000
+[IDS_ITEM.ID1020226]
+Fusion Cup 2nd Stage Duelist
+[IDS_ITEM.ID1020227]
+My Favorite
+[IDS_ITEM.ID1020228]
+WCS 2026 Champion
+[IDS_ITEM.ID1020229]
+WCS 2026 Finalist
+[IDS_ITEM.ID1020230]
+WCS 2026 Top 4
+[IDS_ITEM.ID1020231]
+WCS 2026 Top 12
+[IDS_ITEM.ID1020232]
+DC 2026 OCT Top 10
+[IDS_ITEM.ID1020233]
+DC 2026 OCT Top 100
+[IDS_ITEM.ID1020234]
+DC 2026 OCT Top 500
+[IDS_ITEM.ID1020235]
+DC 2026 OCT Top 1000
+[IDS_ITEM.ID1020236]
+DC 2026 OCT Top 10000
+[IDS_ITEM.ID1020237]
+DC 2026 OCT 2nd Stage Duelist
+[IDS_ITEM.ID1020238]
+Unstoppable Force
 [IDS_ITEM.ID1021001]
 Starting Out
 [IDS_ITEM.ID1021002]
 Top Performer
+[IDS_ITEM.ID1021003]
+Point Collector
 [IDS_ITEM.ID1022001]
-High School Tournament 2026 Champion
+Japan High School Championship 2025 Champion
 [IDS_ITEM.ID1022002]
-High School Tournament 2026 Grand Finalist
+Japan High School Championship 2025 Grand Finalist
 [IDS_ITEM.ID1022003]
-High School Tournament 2026 Finalist
+Japan High School Championship 2025 Finalist
 [IDS_ITEM.ID1030001]
 Beginner's Frame
 [IDS_ITEM.ID1030002]
@@ -1348,6 +1508,8 @@ Red & White Frame
 Mimighoul Flower
 [IDS_ITEM.ID1030043]
 Yellow & Black Frame
+[IDS_ITEM.ID1030044]
+Lime & Pink Frame
 [IDS_ITEM.ID1031001]
 The Path of the Blue Sky Striker
 [IDS_ITEM.ID1031002]
@@ -1398,6 +1560,14 @@ Black Rose Garden
 Elfnote
 [IDS_ITEM.ID1031025]
 Albion the Shrouded Dragon
+[IDS_ITEM.ID1031026]
+Palm Ryzeal
+[IDS_ITEM.ID1031027]
+Forbidden Crown
+[IDS_ITEM.ID1031028]
+Synchro Ring β
+[IDS_ITEM.ID1031029]
+Clown Crew
 [IDS_ITEM.ID1032001]
 Festive Ornament
 [IDS_ITEM.ID1032002]
@@ -1430,6 +1600,10 @@ Overlay Unit
 Synchro Ring
 [IDS_ITEM.ID1033005]
 WCS 2025 Party Favor
+[IDS_ITEM.ID1033006]
+Fusion Vortex
+[IDS_ITEM.ID1033007]
+WCS 2026 Party Favor
 [IDS_ITEM.ID1070001]
 Yu-Gi-Oh! Trading Card Game
 [IDS_ITEM.ID1070002]
@@ -1762,14 +1936,54 @@ Elfnote Regina
 Dragunity Knight - Areus
 [IDS_ITEM.ID1070167]
 Exosister Karmael
+[IDS_ITEM.ID1070168]
+Teller of Fairy Tails
+[IDS_ITEM.ID1070169]
+Folgo, Justice Fur Hire
+[IDS_ITEM.ID1070170]
+Ryzeal Plugin
 [IDS_ITEM.ID1070171]
 Hecahands Jauzah
 [IDS_ITEM.ID1070172]
 Archfiend Emperor
 [IDS_ITEM.ID1070173]
 Archfiend Matriarch
+[IDS_ITEM.ID1070174]
+Starving Venom Wing Dragon
+[IDS_ITEM.ID1070175]
+Pumpking the King of Grave Ghosts
+[IDS_ITEM.ID1070176]
+Stellarnova Alpha
+[IDS_ITEM.ID1070177]
+Superdreadnought Rail Cannon Juggernaut Liebe
 [IDS_ITEM.ID1070178]
 Mokomoko
+[IDS_ITEM.ID1070179]
+Favorite Hero
+[IDS_ITEM.ID1070180]
+El Shaddoll Construct
+[IDS_ITEM.ID1070181]
+Cyber Dragon Infinity
+[IDS_ITEM.ID1070182]
+Clown Crew Biancaviso
+[IDS_ITEM.ID1070183]
+Phara the Primordial Goddess
+[IDS_ITEM.ID1070184]
+Polymerization
+[IDS_ITEM.ID1070185]
+Aleister the Reminiscent
+[IDS_ITEM.ID1070186]
+Vidolium the Unstable Power Patron of Unity
+[IDS_ITEM.ID1070189]
+Fifth Hope
+[IDS_ITEM.ID1070190]
+Bystial Dis Pater
+[IDS_ITEM.ID1070191]
+Dark Magician & Dark Magician Girl (WCS2026)
+[IDS_ITEM.ID1070192]
+Dark Magician (WCS2026)
+[IDS_ITEM.ID1070193]
+Dark Magician Girl (WCS2026)
 [IDS_ITEM.ID1071001]
 Crusadia Maximus
 [IDS_ITEM.ID1071002]
@@ -1870,6 +2084,10 @@ Yummy
 Albaz the Shrouded & Ecclesia the Exiled
 [IDS_ITEM.ID1072010]
 Enneacraft
+[IDS_ITEM.ID1072011]
+Eria the Water Charmer & Hiita the Fire Charmer
+[IDS_ITEM.ID1072012]
+Wynn the Wind Charmer & Aussa the Earth Charmer
 [IDS_ITEM.ID1073001]
 WCS 2023 Party Favor
 [IDS_ITEM.ID1073002]
@@ -1910,6 +2128,14 @@ DC 2025 DEC Celebration
 DC 2026 MAR Celebration
 [IDS_ITEM.ID1073020]
 WCS 2026 Qualifiers Celebration
+[IDS_ITEM.ID1073021]
+WCS 2026 Celebration
+[IDS_ITEM.ID1073022]
+WCS 2026 Party Favor
+[IDS_ITEM.ID1073023]
+Fusion Cup Celebration
+[IDS_ITEM.ID1073025]
+DC 2026 OCT Celebration
 [IDS_ITEM.ID1075001]
 Yu-Gi-Oh! CARD GAME THE CHRONICLES
 [IDS_ITEM.ID1075002]
@@ -1928,6 +2154,8 @@ THE CHRONICLES: The Fallen & The Virtuous2
 THE CHRONICLES: Spirit Charmers
 [IDS_ITEM.ID1075009]
 THE CHRONICLES: Magistus
+[IDS_ITEM.ID1075010]
+THE CHRONICLES: Seeker of the Sinful Spoils
 [IDS_ITEM.ID1080001]
 Duelist Card Case Red
 [IDS_ITEM.ID1080002]
@@ -1994,6 +2222,10 @@ Dark Magical Blast
 Gigantic Sparkle
 [IDS_ITEM.ID1080033]
 Rage of Deep Blue
+[IDS_ITEM.ID1080034]
+Cyber Kaiser
+[IDS_ITEM.ID1080035]
+Zero to Future
 [IDS_ITEM.ID1082001]
 Xyz Black
 [IDS_ITEM.ID1082002]
@@ -2056,6 +2288,10 @@ Elfnote
 Dragon Ravine
 [IDS_ITEM.ID1082032]
 Exosister
+[IDS_ITEM.ID1082033]
+Theorealize Liberation
+[IDS_ITEM.ID1082034]
+Dark Magician & Dark Magician Girl (WCS2026)
 [IDS_ITEM.ID1083001]
 White & Blue
 [IDS_ITEM.ID1090001]
@@ -2252,6 +2488,8 @@ Twin Twisters
 Foolish Burial
 [IDS_ITEM.ID1101014]
 Soul-Absorbing Bone Tower
+[IDS_ITEM.ID1101015]
+coming soon
 [IDS_ITEM.ID1101016]
 Magical Thorn
 [IDS_ITEM.ID1101017]
@@ -2286,8 +2524,12 @@ Swimming Ring
 Halloween Ghost
 [IDS_ITEM.ID1101041]
 Wreath
+[IDS_ITEM.ID1101044]
+Forbidden Crown
 [IDS_ITEM.ID1101045]
  WAKE CUP!
+[IDS_ITEM.ID1101048]
+The Phantom Knights of Shade Brigandine
 [IDS_ITEM.ID1102001]
 Colosseum
 [IDS_ITEM.ID1102002]
@@ -2426,26 +2668,8 @@ Limiter Removal
 Gishki Aquamirror
 [IDS_ITEM.ID1111026]
 Treasured Tree Stump
-[IDS_ITEM.ID1111027]
-coming soon
-[IDS_ITEM.ID1111028]
-coming soon
-[IDS_ITEM.ID1111029]
-coming soon
-[IDS_ITEM.ID1111030]
-coming soon
-[IDS_ITEM.ID1111031]
-coming soon
 [IDS_ITEM.ID1111032]
 Xyz Monster Card
-[IDS_ITEM.ID1111033]
-coming soon
-[IDS_ITEM.ID1111034]
-coming soon
-[IDS_ITEM.ID1111035]
-coming soon
-[IDS_ITEM.ID1111036]
-coming soon
 [IDS_ITEM.ID1111037]
 Effect Monster Card
 [IDS_ITEM.ID1111038]
@@ -2464,6 +2688,8 @@ Tales of the White Forest
 R-Genex Turing
 [IDS_ITEM.ID1111045]
 Madolche Chickolates
+[IDS_ITEM.ID1111046]
+Tenchi Kaimei
 [IDS_ITEM.ID1111047]
 DARK
 [IDS_ITEM.ID1111048]
@@ -2494,6 +2720,10 @@ Mulcharmy Pink
 Magical Meltdown
 [IDS_ITEM.ID1111068]
 Yummy
+[IDS_ITEM.ID1111069]
+Grand Spiritual Art - Ichirin
+[IDS_ITEM.ID1111070]
+Artmage
 [IDS_ITEM.ID1111071]
 Dracotail
 [IDS_ITEM.ID1111072]
@@ -2502,8 +2732,18 @@ Live☆Twin Lil-la Sweet
 Bramble Rose Dragon
 [IDS_ITEM.ID1111077]
 Dominus Spiral
+[IDS_ITEM.ID1111078]
+Sandwich Day
 [IDS_ITEM.ID1111080]
 Borrel
+[IDS_ITEM.ID1111081]
+Shaddoll Fusion
+[IDS_ITEM.ID1111082]
+Tails of the Fairy Tails
+[IDS_ITEM.ID1111083]
+Clown Crew
+[IDS_ITEM.ID1111084]
+Red Hypernova Dragon
 [IDS_ITEM.ID1112001]
 Colosseum
 [IDS_ITEM.ID1112002]
@@ -2516,6 +2756,8 @@ WCS 2023 Party Favor
 WCS 2024 Party Favor
 [IDS_ITEM.ID1113003]
 WCS 2025 Party Favor
+[IDS_ITEM.ID1113004]
+WCS 2026 Party Favor
 [IDS_ITEM.ID1115001]
 eFootball™
 [IDS_ITEM.ID1120001]
@@ -2585,9 +2827,9 @@ Gigantic Sparkle
 [IDS_ITEM.ID1120033]
 Rage of Deep Blue
 [IDS_ITEM.ID1120034]
-coming soon
+Cyber Kaiser
 [IDS_ITEM.ID1120035]
-coming soon
+Zero to Future
 [IDS_ITEM.ID1130001]
 Blue-Eyes Alternative White Dragon
 [IDS_ITEM.ID1130002]
@@ -2786,6 +3028,8 @@ K9-X "Werewolf"
 Ohime the Manifested Mikanko
 [IDS_ITEM.ID1130101]
 Mikanko Shinbu - Noble Twins
+[IDS_ITEM.ID1130102]
+Combined Maneuver - Engage Zero!
 [IDS_ITEM.ID1130103]
 Ketu Dracotail
 [IDS_ITEM.ID1130104]
@@ -2832,6 +3076,8 @@ Elfnotes: Aristeia of Trust
 Elfnotes: Welcome Home
 [IDS_ITEM.ID1130127]
 The Virtuous Vestals
+[IDS_ITEM.ID1130128]
+Ryzeal Mass Driver
 [IDS_ITEM.ID1130129]
 Hecahands Bait
 [IDS_ITEM.ID1130130]
@@ -2840,8 +3086,44 @@ Junora the Power Patron of Tuning
 Triple Tactics Thrust
 [IDS_ITEM.ID1130132]
 Fusion Deployment
+[IDS_ITEM.ID1130133]
+Weaver of Fairy Tails
+[IDS_ITEM.ID1130134]
+Rookie Fur Hire
 [IDS_ITEM.ID1130135]
 Gorgon of Zilofthonia
+[IDS_ITEM.ID1130136]
+Fydraulis Harmonia
+[IDS_ITEM.ID1130137]
+Favorite HERO Flame Wingman
+[IDS_ITEM.ID1130138]
+Darklord Eveningstar
+[IDS_ITEM.ID1130139]
+El Shaddoll Winda
+[IDS_ITEM.ID1130140]
+Dominus Spark
+[IDS_ITEM.ID1130141]
+Cyber End Dragon, the Final Strike Dragon
+[IDS_ITEM.ID1130142]
+Clown Crew Biancaviso
+[IDS_ITEM.ID1130143]
+Red Hypernova Dragon
+[IDS_ITEM.ID1130144]
+Crimson Dragon Quetzalcoatl
+[IDS_ITEM.ID1130145]
+Spirit Charmers
+[IDS_ITEM.ID1130146]
+Awakening of the Possessed
+[IDS_ITEM.ID1130147]
+Dark Requiem Xyz Dragon
+[IDS_ITEM.ID1130148]
+Gamma Summon
+[IDS_ITEM.ID1130149]
+Theorealize Past Lull
+[IDS_ITEM.ID1130150]
+Anti-GMX Final Experiment
+[IDS_ITEM.ID1130151]
+Dark Magician & Dark Magician Girl (WCS2026)
 [IDS_ITEM.ID1132001]
 Rescue Rabbit
 [IDS_ITEM.ID1132002]
@@ -2864,6 +3146,10 @@ Fusion Reward Ticket
 Synchro Reward Ticket
 [IDS_ITEM.ID1141004]
 Duelist Cup Reward Tickets
+[IDS_ITEM.ID1142001]
+Master Pack UR 30% Card x1 Ticket
+[IDS_ITEM.ID1142002]
+Master Pack UR Card x1 Ticket
 [IDS_ITEM.ID1150001]
 Deck Slot
 [IDS_ITEM.ID1160001]
@@ -2896,6 +3182,22 @@ Exosister
 Dragunity
 [IDS_ITEM.ID1170014]
 The Fallen & The Virtuous
+[IDS_ITEM.ID1170015]
+Fairy Tail
+[IDS_ITEM.ID1170016]
+Elemental HERO
+[IDS_ITEM.ID1170017]
+Darklord
+[IDS_ITEM.ID1170018]
+Shaddoll
+[IDS_ITEM.ID1170019]
+Cyber Dragon
+[IDS_ITEM.ID1170020]
+Clown Crew
+[IDS_ITEM.ID1170021]
+Spirit Charmers
+[IDS_ITEM.ID1170022]
+WCS2026
 [IDS_ITEM.ID1180001]
 Blue-Eyes Alternative White Dragon
 [IDS_ITEM.ID1180002]
@@ -2943,7 +3245,15 @@ Exosister
 [IDS_ITEM.ID1180023]
 Fallen of Albaz
 [IDS_ITEM.ID1180024]
-coming soon
+Fairy Tail
+[IDS_ITEM.ID1180025]
+Elemental HERO
+[IDS_ITEM.ID1180026]
+Cyber Dragon
+[IDS_ITEM.ID1180027]
+Grand Spiritual Art - Ichirin
+[IDS_ITEM.ID1180028]
+Theorealize
 [IDS_ITEM.ID1190001]
 Bookmark Slots
 [IDS_ITEM.ID0000]
@@ -3010,15 +3320,15 @@ Collector's file
 Coin
 [IDS_ITEM.CATEGORY_0019]
 Bookmark Slots
+[IDS_ITEM.CP]
+Craft Points
+[IDS_ITEM.FREEGEM]
+Free Gems
+[IDS_ITEM.PAIDGEM]
+Paid Gems
 [IDS_ITEM.SPCATEGORY_0003]
 Deluxe Mates
 [IDS_ITEM.SPCATEGORY_0006]
 Deluxe Icon Frame
 [IDS_ITEM.SPCATEGORY_0007]
 Deluxe Protectors
-[IDS_ITEM.CRAFT_POINTS]
-Craft Points
-[IDS_ITEM.FREEGEM]
-Free Gems
-[IDS_ITEM.PAIDGEM]
-Paid Gems

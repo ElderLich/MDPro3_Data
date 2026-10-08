@@ -522,6 +522,8 @@ Biancaviso de la Compañía de Payasos
 Olla de la Pereza
 [IDS_ITEM.ID1010158]
 Ocultador de Efectos
+[IDS_ITEM.ID1010159]
+Artmagia Modelo de Poder
 [IDS_ITEM.ID1010160]
 Mago Oscuro y Chica Maga Oscura (WCS2026)
 [IDS_ITEM.ID1010161]
@@ -714,6 +716,12 @@ Finalista de oro de la Copa Fusión
 Finalista plata de la Copa Fusión
 [IDS_ITEM.ID1011075]
 Finalista de bronce de la Copa Fusión
+[IDS_ITEM.ID1011076]
+Finalista de oro de la DC 2026 OCT
+[IDS_ITEM.ID1011077]
+Finalista de plata de la DC 2026 OCT
+[IDS_ITEM.ID1011078]
+Finalista de bronce de la DC 2026 OCT
 [IDS_ITEM.ID1011079]
 Campeón del WCS 2026
 [IDS_ITEM.ID1011080]
@@ -722,6 +730,8 @@ Finalista del WCS 2026
 Top 4 del WCS 2026
 [IDS_ITEM.ID1011082]
 Top 12 del WCS 2026
+[IDS_ITEM.ID1011086]
+Finalista de cobre de la DC 2026 OCT
 [IDS_ITEM.ID1012001]
 X-Krawler Sinafisis
 [IDS_ITEM.ID1012002]
@@ -1386,6 +1396,18 @@ Finalista del WCS 2026
 Top 4 del WCS 2026
 [IDS_ITEM.ID1020231]
 Top 12 del WCS 2026
+[IDS_ITEM.ID1020232]
+Top 10 de la DC 2026 OCT
+[IDS_ITEM.ID1020233]
+Top 100 de la DC 2026 OCT
+[IDS_ITEM.ID1020234]
+Top 500 de la DC 2026 OCT
+[IDS_ITEM.ID1020235]
+Top 1000 de la DC 2026 OCT
+[IDS_ITEM.ID1020236]
+Top 10000 de la DC 2026 OCT
+[IDS_ITEM.ID1020237]
+Duelista de la 2nd Stage de la DC 2026 OCT
 [IDS_ITEM.ID1020238]
 Fuerza Imparable
 [IDS_ITEM.ID1021001]
@@ -1948,6 +1970,10 @@ Biancaviso de la Compañía de Payasos
 Phara la Diosa Primordial
 [IDS_ITEM.ID1070184]
 Polimerización
+[IDS_ITEM.ID1070185]
+Aleister, el Reminiscente
+[IDS_ITEM.ID1070186]
+Vidolium el Inestable Modelo de Poder de Unidad
 [IDS_ITEM.ID1070189]
 Esperanza de Cinco
 [IDS_ITEM.ID1070190]
@@ -2058,6 +2084,10 @@ Yummy
 Albaz el Velado y Ecclesia la Exiliada
 [IDS_ITEM.ID1072010]
 Eneagranave
+[IDS_ITEM.ID1072011]
+Eria la Encantadora del Agua y Hiita la Encantadora del Fuego
+[IDS_ITEM.ID1072012]
+Wynn la Encantadora del Viento y Aussa la Encantadora de la Tierra
 [IDS_ITEM.ID1073001]
 Recuerdo del WCS 2023
 [IDS_ITEM.ID1073002]
@@ -2104,6 +2134,8 @@ Celebración del WCS 2026
 Recuerdo del WCS 2026
 [IDS_ITEM.ID1073023]
 Celebración de la Copa Fusión
+[IDS_ITEM.ID1073025]
+Celebración de la DC 2026 OCT
 [IDS_ITEM.ID1075001]
 Yu-Gi-Oh! CARD GAME THE CHRONICLES
 [IDS_ITEM.ID1075002]
@@ -2122,6 +2154,8 @@ THE CHRONICLES: El Caído y La Virtuosa2
 THE CHRONICLES: Encantadoras de Espíritus
 [IDS_ITEM.ID1075009]
 THE CHRONICLES: Magistus
+[IDS_ITEM.ID1075010]
+THE CHRONICLES: Rastreadora del Botín del Pecado
 [IDS_ITEM.ID1080001]
 Caja de cartas de duelista roja
 [IDS_ITEM.ID1080002]
@@ -2254,6 +2288,8 @@ Elfnota
 Barranco del Dragón
 [IDS_ITEM.ID1082032]
 Exormana
+[IDS_ITEM.ID1082033]
+Teoresaber Liberación
 [IDS_ITEM.ID1082034]
 Mago Oscuro y Chica Maga Oscura (WCS2026)
 [IDS_ITEM.ID1083001]
@@ -2492,6 +2528,8 @@ Guirnalda
 Corona Prohibida
 [IDS_ITEM.ID1101045]
 ¡DESPIERCAFÉ!
+[IDS_ITEM.ID1101048]
+Los Caballeros Fantasma de la Brigantina de Sombra
 [IDS_ITEM.ID1102001]
 Coliseo
 [IDS_ITEM.ID1102002]
@@ -2682,6 +2720,10 @@ Rosa Multivador
 Derretimiento Mágico
 [IDS_ITEM.ID1111068]
 Yummy
+[IDS_ITEM.ID1111069]
+Gran Arte Espiritual - Ichirin
+[IDS_ITEM.ID1111070]
+Artmagia
 [IDS_ITEM.ID1111071]
 Dracocola
 [IDS_ITEM.ID1111072]
@@ -3068,6 +3110,16 @@ Biancaviso de la Compañía de Payasos
 Dragón Hipernova Rojo
 [IDS_ITEM.ID1130144]
 Dragón Carmesí Quetzalcoatl
+[IDS_ITEM.ID1130145]
+Encantadoras de Espíritus
+[IDS_ITEM.ID1130146]
+Despertar del Poseído
+[IDS_ITEM.ID1130147]
+Dragón Xyz Réquiem Oscuro
+[IDS_ITEM.ID1130148]
+Invocación Gamma
+[IDS_ITEM.ID1130149]
+Teoresaber Calma Antigua
 [IDS_ITEM.ID1130150]
 Experimento Final Anti-GMX
 [IDS_ITEM.ID1130151]
@@ -3092,6 +3144,10 @@ Tique de recompensa de Fusión
 Tique de recompensa de Sincronía
 [IDS_ITEM.ID1141004]
 Tiques de recompensa de la Duelist Cup
+[IDS_ITEM.ID1142001]
+Tique de sobre maestro con carta UR (30 %) x1
+[IDS_ITEM.ID1142002]
+Tique de sobre maestro con carta UR x1
 [IDS_ITEM.ID1150001]
 Casilla de Deck
 [IDS_ITEM.ID1160001]
@@ -3136,6 +3192,8 @@ Sombrañeca
 Ciber Dragón
 [IDS_ITEM.ID1170020]
 Compañía de Payasos
+[IDS_ITEM.ID1170021]
+Encantadoras de Espíritus
 [IDS_ITEM.ID1170022]
 WCS2026
 [IDS_ITEM.ID1180001]
@@ -3190,6 +3248,10 @@ Colacuento
 HÉROE Elemental
 [IDS_ITEM.ID1180026]
 Ciber Dragón
+[IDS_ITEM.ID1180027]
+Gran Arte Espiritual - Ichirin
+[IDS_ITEM.ID1180028]
+Teoresaber
 [IDS_ITEM.ID1190001]
 Casillas de marcadores
 [IDS_ITEM.ID0000]
@@ -3256,15 +3318,15 @@ Archivo de coleccionista
 Moneda
 [IDS_ITEM.CATEGORY_0019]
 Casillas de marcadores
+[IDS_ITEM.CP]
+Puntos de creación
+[IDS_ITEM.FREEGEM]
+Gemas gratis
+[IDS_ITEM.PAIDGEM]
+Gemas de pago
 [IDS_ITEM.SPCATEGORY_0003]
 Compañeros Exclusivos
 [IDS_ITEM.SPCATEGORY_0006]
 Marco de icono exclusivo
 [IDS_ITEM.SPCATEGORY_0007]
 Protectores Exclusivos
-[IDS_ITEM.FREEGEM]
-Gemas gratis
-[IDS_ITEM.PAIDGEM]
-Gemas de pago
-[IDS_ITEM.PUNTOS_DE_CREACI_N]
-Puntos de creación

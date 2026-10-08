@@ -845,6 +845,9 @@ Selbst die Anordnung seiner Griffe vermittelt einen Eindruck von Trägheit.
 [IDS_ITEMDESC.ID1010158]
 Ein Symbol, das ein Monster darstellt, welches sich um eine blasse Lichtkugel schlingt.
 Es scheint der von ihr ausgehenden Energie mit einer eigenen, seltsamen Kraft zu widerstehen.
+[IDS_ITEMDESC.ID1010159]
+Ein Symbol, das <category id='109'/> darstellt und faktisch die Rolle der Schulleitung übernimmt.
+Es ist gesprächig, fürsorglich und wirkt nahbar, weshalb es bei den Schülern sehr beliebt ist.
 [IDS_ITEMDESC.ID1010160]
 Ein Symbol, das ein Hauptmotiv für die Yu-Gi-Oh! World Championship 2026 darstellt.
 Erlebe die stärksten Duellanten der Welt.
@@ -1114,6 +1117,15 @@ Wurde an diejenigen verliehen, die beim Fusion-Cup beachtliche Leistungen erbrac
 [IDS_ITEMDESC.ID1011075]
 Ein Symbol mit einem bronzenen „Fusion-Cup“-Logo. 
 Wurde an diejenigen verliehen, die beim Fusion-Cup viele Kämpfe für sich entschieden haben.
+[IDS_ITEMDESC.ID1011076]
+Ein Symbol, das nur an Duellanten vergeben wird, die beim Duelist Cup unter die besten 10 gekommen sind.
+Es ist ein Beweis für eine herausragende Leistung beim hart umkämpften „DC 2026 OCT“.
+[IDS_ITEMDESC.ID1011077]
+Ein Symbol, das nur an Duellanten vergeben wird, die beim Duelist Cup unter die besten 100 gekommen sind.
+Es ist ein Beweis für eine unvergleichliche Leistung beim hart umkämpften „DC 2026 OCT“.
+[IDS_ITEMDESC.ID1011078]
+Ein Symbol, das nur an Duellanten vergeben wird, die beim Duelist Cup unter die besten 1.000 gekommen sind.
+Dies ist ein Beleg für die beeindruckende Siegesserie des Duellanten beim hart umkämpften „DC 2026 OCT“.
 [IDS_ITEMDESC.ID1011079]
 Ein Symbol, das an die Champion-Duellanten im Event „Yu-Gi-Oh! World Championship 2026: MASTER DUEL“ verliehen wird.
 Ihr Kampf wird weiterhin als lodernde Spur leuchten, die sich tief in die Herzen aller Duellanten eingebrannt hat.
@@ -1126,6 +1138,9 @@ Das Publikum war sprachlos angesichts ihrer unglaublichen Duell-Instinkte.
 [IDS_ITEMDESC.ID1011082]
 Ein Symbol, das an Teilnehmer am Event „Yu-Gi-Oh! World Championship 2026: MASTER DUEL“ verliehen wird.
 Es ist der Beweis dafür, dass sie sich der Welt gestellt und ihre Stärke als Duellanten bewiesen haben.
+[IDS_ITEMDESC.ID1011086]
+Ein Symbol, das nur an Duellanten vergeben wird, die beim Duelist Cup unter die besten 10.000 gekommen sind.
+Es ist ein Beweis für die zahlreichen Siege des Duellanten beim hart umkämpften „DC 2026 OCT“.
 [IDS_ITEMDESC.ID1012001]
 Ein Symbol, das einen „Krawler“ darstellt; Monster, die eine bestimmte Welt überrannt haben. Dieser gehört der höheren Klasse an.
 Sie zerstörten gnadenlos alle Mühen der menschlichen Zivilisation, die sich für Jahrhunderte hielten.
@@ -2118,6 +2133,24 @@ Ihre Leistungen werden viele Duellanten dazu inspirieren, sich weiterhin neuen H
 [IDS_ITEMDESC.ID1020231]
 Ein Titel, der an diejenigen verliehen wird, welche unter den Top 12 im Event „Yu-Gi-Oh! World Championship 2026: MASTER DUEL“ landeten.
 Nur wenige können dieses Reich erreichen und diese Errungenschaft ist der Beweis dafür, dass sie auserwählt wurden.
+[IDS_ITEMDESC.ID1020232]
+Ein Titel, der an Duellanten vergeben wird, die im DC 2026 OCT die Top 10 erreicht haben.
+Die Geschichten über ihre vielen großartigen Duelle und ihre Tapferkeit im Kampf um den Thron werden noch viele Jahre lang erzählt werden.
+[IDS_ITEMDESC.ID1020233]
+Ein Titel, der an Duellanten vergeben wird, die im DC 2026 OCT die Top 100 erreicht haben.
+Dies ist ein Beweis für eine Leistung, die viele Duellanten anstreben.
+[IDS_ITEMDESC.ID1020234]
+Ein Titel, der an Duellanten vergeben wird, die im DC 2026 OCT die Top 500 erreicht haben.
+Nur die Stärksten der Starken können ein Herz wie das deine besitzen, das durch viele hart umkämpfte Duelle gestählt wurde.
+[IDS_ITEMDESC.ID1020235]
+Ein Titel, der an Duellanten vergeben wird, die im DC 2026 OCT die Top 1.000 erreicht haben.
+Hut ab vor den Duellanten, die kontinuierlich an ihren Decks und Taktiken gefeilt haben, um dieses Ergebnis zu erreichen.
+[IDS_ITEMDESC.ID1020236]
+Ein Titel, der an Duellanten vergeben wird, die im DC 2026 OCT die Top 10.000 erreicht haben.
+Dies ist das Ergebnis von angesammelten Siegen gegen andere starke Konkurrenten, welche die 1st Stage überstanden haben.
+[IDS_ITEMDESC.ID1020237]
+Ein Titel, der an Duellanten vergeben wird, die die 2nd Stage des DC 2026 OCT erreicht haben.
+Er ist der Beweis dafür, dass du es durch die heiß umkämpfte 1st Stage geschafft hast.
 [IDS_ITEMDESC.ID1020238]
 Ein Titel, der an Duellanten vergeben wird, die beim Festival „Würfel-Rallye ~ September 2026 ~“ Ergebnisse erzielt haben.
 Eine glänzende Zukunft wartet auf diejenigen, die mutig genug sind, sich selbst zu vertrauen.
@@ -2949,6 +2982,12 @@ Für alle, die Wert auf Neuanfänge legen.
 [IDS_ITEMDESC.ID1070184]
 Kartenhüllen, die den Strudel der Monsterfusion darstellen.
 Für alle, deren Taktik auf Fusionsbeschwörungen basiert.
+[IDS_ITEMDESC.ID1070185]
+Kartenhüllen, die den Weisen darstellen, der zwei Kämpfern in der Auseinandersetzung mit einer wiedererweckten uralten Gottheit erschien.
+Für alle, die alte Freunde schätzen.
+[IDS_ITEMDESC.ID1070186]
+Beschützer, die <category id='199'/> darstellen, das Gefäß, das drei „Machtpatrone“ aufnahm.
+Für diejenigen, die die Welt ins Chaos stürzen wollen.
 [IDS_ITEMDESC.ID1070189]
 Kartenhüllen, die als Verfechter der Gerechtigkeit auf Hilferufe reagieren.
 Für alle, deren Hoffnung niemals wankt.
@@ -3114,6 +3153,12 @@ Für all jene, die sich auf eine lange Reise begaben und dabei unzählige Erinne
 [IDS_ITEMDESC.ID1072010]
 Kartenhüllen, die <category id='170'/> darstellen, der über jene richtet, die grundlos Angst verbreiten.
 Für jene, die die Sünden anderer argwöhnisch mustern.
+[IDS_ITEMDESC.ID1072011]
+Kartenhüllen, die zwei Verzaubererinnen darstellen, die eine freundlich und besonnen, die andere ein Hitzkopf, der kein Blatt vor den Mund nimmt.
+Für alle, die die spirituellen Künste von Wasser und Feuer beherrschen.
+[IDS_ITEMDESC.ID1072012]
+Kartenhüllen, die zwei Verzaubererinnen darstellen, die eine ist arglos und knüpft emotionale Bindungen zu Geistern, die andere ist ernsthaft und wissbegierig.
+Für jene, die die spirituellen Künste von Wind und Erde beherrschen.
 [IDS_ITEMDESC.ID1073001]
 Kartenhüllen mit einem visuellen Design für die Yu-Gi-Oh! World Championship 2023: MASTER DUEL.
 Für diejenigen, die die Besten der Welt werden wollen.
@@ -3183,6 +3228,9 @@ Für diejenigen, die die Besten der Welt werden wollen.
 [IDS_ITEMDESC.ID1073023]
 Kartenhüllen mit dem „Fusion-Cup“-Logo.
 Für Spieler, die am Fusion-Cup teilgenommen und dem Event zu Erfolg verholfen haben.
+[IDS_ITEMDESC.ID1073025]
+Eine Kartenhülle mit „DC 2026 OCT“-Logo.
+Für dich, der du am Duelist Cup in der fruchtbaren Herbstsaison teilgenommen und das Event zu einem Erfolg gemacht hast.
 [IDS_ITEMDESC.ID1075001]
 Ein Kartenhülle, auf der eine Szene aus „Yu-Gi-Oh! CARD GAME THE CHRONICLES“ abgebildet ist.
 Die Duellanten in der Szene jubeln zur Feier dieses prestigeträchtigen Events.
@@ -3209,6 +3257,9 @@ Tanze, einsame Blüte, in all deiner leuchtenden Farbe.
 [IDS_ITEMDESC.ID1075009]
 Kartenhüllen mit einem Hauptmotiv für „Yu-Gi-Oh! CARD GAME THE CHRONICLES“.
 Drei Magier, die die Tür zu einer anderen Welt öffneten. Sie wurden als die „Drei Weisen, die Magistus“ bekannt.
+[IDS_ITEMDESC.ID1075010]
+Kartenhüllen mit einem Hauptmotiv für „Yu-Gi-Oh! CARD GAME THE CHRONICLES“.
+Das Mädchen, das alles verloren hat, beginnt einen Kampf, um sich alles zurückzuholen.
 [IDS_ITEMDESC.ID1080001]
 Eine einfache Deckbox mit roten Akzenten.
 Die erste Deckbox wächst einem immer ans Herz, oder nicht?
@@ -3405,6 +3456,9 @@ Empfohlen für Decks, die von der Seele eines Drachen durchdrungen sind.
 [IDS_ITEMDESC.ID1082032]
 Ein Kartenetui, auf dem „<category id='059'/>“ abgebildet ist, der das Böse abwendet.
 Empfohlen für Decks, die erbitterte Kämpfe gegen Ungeheuer austragen.
+[IDS_ITEMDESC.ID1082033]
+Ein Kartenetui, auf dem ein versiegeltes Tor abgebildet ist.
+Empfohlen für <category id='189'/>-Decks.
 [IDS_ITEMDESC.ID1082034]
 Ein Kartenetui mit Motiven der traditionellen japanischen Kultur.
 Empfohlen für Decks, die Farbe in hitzige Duelle bringen.
@@ -3779,6 +3833,9 @@ Ob Nachbildung oder nicht, es wäre ratsam, vorsichtig damit umzugehen.
 [IDS_ITEMDESC.ID1101045]
 Spielfeldteile, die Geistern nachempfunden sind, welche in morgendlichen Getränken hausen.
 Eine morgendliche Teeparty verleiht jedem ein Gefühl der Erfrischung.
+[IDS_ITEMDESC.ID1101048]
+Spielfeldteile, die „<card mrk='12267'/>“ nachempfunden sind.
+Der Geist des Ritters, der in der Rüstung wohnt, erwartet den Moment der Rebellion.
 [IDS_ITEMDESC.ID1102001]
 Spielfeldteile für ein Kolosseum.
 Um ein Schicksal, das hier endet, muss nicht getrauert werden. Sei stolz darauf, dass alle, die hier kämpfen, sich für einen wackeren Kampf opfern dürfen.
@@ -4089,6 +4146,12 @@ Es gibt sogar Fälle, in denen der Zauberer mit Monstern verschmilzt – ein wah
 [IDS_ITEMDESC.ID1111068]
 Ein Stand, inspiriert von einer herrlich albernen Welt und lecker aussehenden Monstern.
 „<card mrk='21833'/>“, herrlich alberne, aus der Dunkelheit geborene Monster.
+[IDS_ITEMDESC.ID1111069]
+Ein Stand, inspiriert von einer spirituellen Kunst, die über die Macht der Attribute hinausgeht.
+Laut einem alten Zauberbuch lässt er sich durch die Kombination verschiedener Attribute aktivieren.
+[IDS_ITEMDESC.ID1111070]
+Ein Stand, inspiriert von „<card mrk='21465'/>“.
+Das überaus kunstvolle Design ist von der Kraft von „<card mrk='21444'/>“ durchdrungen.
 [IDS_ITEMDESC.ID1111071]
 Ein Stand nach dem Vorbild von <category id='110'/>s Horoskop.
 Er leitet dich mithilfe der mystischen Kraft der Sterne.
@@ -4643,6 +4706,21 @@ Wenn sich alle vier weltbewegenden Zeichen manifestieren, erreicht der neue Ster
 [IDS_ITEMDESC.ID1130144]
 Ein Geist, der in ferner Vergangenheit durch ein Gebet heraufbeschworen wurde, um die Kriege zu beenden, die das Land verwüsteten.
 Er wurde gemeinsam mit den Auserwählten wiedererweckt, die das Zeichen des Drachen tragen.
+[IDS_ITEMDESC.ID1130145]
+„Verzaubererinnen“, die sich spiritueller Künste bedienen, um Diener zu kontrollieren und Fähigkeiten verschiedener Elemente zu entfesseln.
+Sie verbringen ihre Tage in der Gesellschaft von Geistern. Tanz, einsame Blüte, in all deiner leuchtenden Farbenpracht.
+[IDS_ITEMDESC.ID1130146]
+Junge Mädchen, die sich voller Freude ihrem täglichen Training widmen, um geschickte „Verzaubererinnen“ zu werden.
+Ihre gemeinsame Erfahrung, Hindernisse zu überwinden, glich einer Blütenknospe, die kurz davor steht, sich zu öffnen.
+[IDS_ITEMDESC.ID1130147]
+Die Fänge der Rebellion erheben sich aus den Tiefen des Fegefeuers gegen rücksichtslose Macht.
+Möge der rebellische Gesang ruheloser Geister auf ewig widerhallen.
+[IDS_ITEMDESC.ID1130148]
+„<card mrk='22966'/>“, die „<category id='196'/>“ umhüllt.
+Eine begnadeter Magierin aus alten Zeiten, die viele verbotene Künste beherrschte.
+[IDS_ITEMDESC.ID1130149]
+„<card mrk='22138'/>“ versucht, die in der Geisterwelt leidende <category id='199'/> zu retten.
+Mit friedlichem Ausdruck umarmt sie ihre nun ruhige Jugendfreundin und spricht mit sanfter Stimme zu ihr.
 [IDS_ITEMDESC.ID1130150]
 „<card mrk='22932'/>“ stellt sich dem angreifenden „<card mrk='22934'/>“.
 Wird der verzweifelte Gegenangriff ausreichen, um den Wahnsinn zu stoppen?
@@ -4742,6 +4820,9 @@ Es heißt, dass das Tor zur Evolution erstrahlt, sobald man <card mrk='6390'/>-K
 [IDS_ITEMDESC.ID1170020]
 Ein Sammelordner, der eine Zirkustruppe mit unkonventioneller Unterhaltung darstellt.
 Es heißt, dass das Tor zu magischen Bestien und Zauberei erstrahlt, sobald man <category id='188'/>-Karten gesammelt hat.
+[IDS_ITEMDESC.ID1170021]
+Ein Sammelordner, der eine „Verzaubererin“ darstellt, die sich spiritueller Künste bedient, um Diener zu kontrollieren und Fähigkeiten verschiedener Attribute zu entfesseln.
+Es heißt, dass das Tor zur spirituellen Macht erstrahlt, sobald man <category id='190'/>-Karten gesammelt hat.
 [IDS_ITEMDESC.ID1170022]
 Ein Sammelordner für Karten, die die traditionelle japanische Kultur darstellen.
 Es heißt, dass sich das Tor zu einem hitzigen Duell öffnet, sobald Karten mit besonderen Designs gesammelt wurden.
@@ -4820,6 +4901,12 @@ Das Zeichen funkelt auf der Suche nach Erlösung.
 [IDS_ITEMDESC.ID1180026]
 Eine Münze mit dem Motiv eines mechanischen Drachen, der den Verlauf einer Schlacht im Handumdrehen wenden kann.
 In ihr schimmert die Überzeugung auf, dass allein zerstörerische Macht Recht schafft.
+[IDS_ITEMDESC.ID1180027]
+Eine Münze, die <card mrk='15407'/> darstellt.
+Spirituelle Kunst, die die Macht der Attribute übersteigt, strahlt hell.
+[IDS_ITEMDESC.ID1180028]
+Eine Münze, die das über „<card mrk='22519'/>“ schwebende Auge darstellt.
+Die überwältigende Macht von „<category id='189'/>“ strahlt hell.
 [IDS_ITEMDESC.ID1190001]
 Die maximale Anzahl der Lesezeichen, die du besitzen kannst, kann erhöht werden.
 [IDS_ITEMDESC.ID0000]

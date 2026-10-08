@@ -597,7 +597,7 @@ GMX－ALLOS
 [IDS_ITEM.ID1010158]
 エフェクト・ヴェーラー
 [IDS_ITEM.ID1010159]
-coming soon
+アルトメギアの獄神獣
 [IDS_ITEM.ID1010160]
 ブラック・マジシャン&ブラック・マジシャン・ガール (WCS2026)
 [IDS_ITEM.ID1010161]
@@ -791,11 +791,11 @@ WCS2026予選　ブロンズファイナリスト
 [IDS_ITEM.ID1011075]
 フュージョンカップ　ブロンズファイナリスト
 [IDS_ITEM.ID1011076]
-coming soon
+DC2026 OCT　ファイナリスト[金]
 [IDS_ITEM.ID1011077]
-coming soon
+DC2026 OCT　ファイナリスト[銀]
 [IDS_ITEM.ID1011078]
-coming soon
+DC2026 OCT　ファイナリスト[銅]
 [IDS_ITEM.ID1011079]
 WCS2026 Champion
 [IDS_ITEM.ID1011080]
@@ -804,6 +804,16 @@ WCS2026 Finalist
 WCS2026 BEST4
 [IDS_ITEM.ID1011082]
 WCS2026 BEST12
+[IDS_ITEM.ID1011083]
+coming soon
+[IDS_ITEM.ID1011084]
+coming soon
+[IDS_ITEM.ID1011085]
+coming soon
+[IDS_ITEM.ID1011086]
+DC2026 OCT　ファイナリスト[青銅]
+[IDS_ITEM.ID1011087]
+coming soon
 [IDS_ITEM.ID1012001]
 エクスクローラー・シナプシス
 [IDS_ITEM.ID1012002]
@@ -1495,17 +1505,17 @@ WCS2026 BEST4
 [IDS_ITEM.ID1020231]
 WCS2026 BEST12
 [IDS_ITEM.ID1020232]
-coming soon
+DC2026 OCT TOP10
 [IDS_ITEM.ID1020233]
-coming soon
+DC2026 OCT TOP100
 [IDS_ITEM.ID1020234]
-coming soon
+DC2026 OCT TOP500
 [IDS_ITEM.ID1020235]
-coming soon
+DC2026 OCT TOP1000
 [IDS_ITEM.ID1020236]
-coming soon
+DC2026 OCT TOP10000
 [IDS_ITEM.ID1020237]
-coming soon
+DC2026 OCT 2nd STAGE進出
 [IDS_ITEM.ID1020238]
 破竹之勢
 [IDS_ITEM.ID1021001]
@@ -2155,9 +2165,9 @@ R.B.ブルート・ブルース
 [IDS_ITEM.ID1070184]
 融合
 [IDS_ITEM.ID1070185]
-coming soon
+追憶のアレイスター
 [IDS_ITEM.ID1070186]
-coming soon
+混絶獄神ヴィードリウム
 [IDS_ITEM.ID1070187]
 coming soon
 [IDS_ITEM.ID1070188]
@@ -2395,9 +2405,9 @@ M∀LICE＜Q＞
 [IDS_ITEM.ID1072010]
 糾罪巧
 [IDS_ITEM.ID1072011]
-coming soon
+水霊使いエリア＆火霊使いヒータ
 [IDS_ITEM.ID1072012]
-coming soon
+風霊使いウィン＆地霊使いアウス
 [IDS_ITEM.ID1072013]
 coming soon
 [IDS_ITEM.ID1072014]
@@ -2463,7 +2473,7 @@ WCS2026 出場記念
 [IDS_ITEM.ID1073024]
 coming soon
 [IDS_ITEM.ID1073025]
-coming soon
+DC2026 OCT 開催記念
 [IDS_ITEM.ID1075001]
 Yu-Gi-Oh! CARD GAME THE CHRONICLES
 [IDS_ITEM.ID1075002]
@@ -2483,7 +2493,7 @@ THE CHRONICLES 精霊術の使い手
 [IDS_ITEM.ID1075009]
 THE CHRONICLES マギストス
 [IDS_ITEM.ID1075010]
-coming soon
+THE CHRONICLES 罪宝狩りの悪魔
 [IDS_ITEM.ID1080001]
 デュエリストカードケース　レッド
 [IDS_ITEM.ID1080002]
@@ -2669,7 +2679,7 @@ Yum☆Yum☆ヤミーズ
 [IDS_ITEM.ID1082032]
 エクソシスター
 [IDS_ITEM.ID1082033]
-coming soon
+開闢なる予幻視
 [IDS_ITEM.ID1082034]
 ブラック・マジシャン&ブラック・マジシャン・ガール (WCS2026)
 [IDS_ITEM.ID1083001]
@@ -2981,7 +2991,7 @@ coming soon
 [IDS_ITEM.ID1101047]
 coming soon
 [IDS_ITEM.ID1101048]
-coming soon
+幻影騎士団シェード・ブリガンダイン
 [IDS_ITEM.ID1102001]
 コロシアム
 [IDS_ITEM.ID1102002]
@@ -3241,9 +3251,9 @@ coming soon
 [IDS_ITEM.ID1111068]
 ヤミー
 [IDS_ITEM.ID1111069]
-coming soon
+大霊術－「一輪」
 [IDS_ITEM.ID1111070]
-coming soon
+アルトメギア
 [IDS_ITEM.ID1111071]
 ドラゴンテイル
 [IDS_ITEM.ID1111072]
@@ -3673,15 +3683,15 @@ F・HERO フレイム・ウィングマン
 [IDS_ITEM.ID1130144]
 赤き竜 ケッツァーコアトル
 [IDS_ITEM.ID1130145]
-coming soon
+精霊術の使い手
 [IDS_ITEM.ID1130146]
-coming soon
+憑依覚醒
 [IDS_ITEM.ID1130147]
-coming soon
+ダーク・レクイエム・エクシーズ・ドラゴン
 [IDS_ITEM.ID1130148]
-coming soon
+魔法名－「新しき世界の始まり」
 [IDS_ITEM.ID1130149]
-coming soon
+予幻なき日々のまぼろし
 [IDS_ITEM.ID1130150]
 A－GMX最終検証
 [IDS_ITEM.ID1130151]
@@ -3714,6 +3724,10 @@ BBS
 イベント・リワードチケット２（仮）
 [IDS_ITEM.ID1141007]
 スペシャル・リワードチケット２（仮）
+[IDS_ITEM.ID1142001]
+マスターパックUR30%カードx1 チケット
+[IDS_ITEM.ID1142002]
+マスターパックURカードx1 チケット
 [IDS_ITEM.ID1150001]
 デッキ枠
 [IDS_ITEM.ID1160001]
@@ -3759,7 +3773,7 @@ E・HERO
 [IDS_ITEM.ID1170020]
 道化の一座
 [IDS_ITEM.ID1170021]
-coming soon
+精霊術の使い手
 [IDS_ITEM.ID1170022]
 WCS2026
 [IDS_ITEM.ID1180001]
@@ -3815,9 +3829,9 @@ E・HERO
 [IDS_ITEM.ID1180026]
 サイバー・ドラゴン
 [IDS_ITEM.ID1180027]
-coming soon
+大霊術－「一輪」
 [IDS_ITEM.ID1180028]
-coming soon
+予幻視
 [IDS_ITEM.ID1190001]
 ブックマーク枠
 [IDS_ITEM.ID0000]
@@ -3884,15 +3898,15 @@ CP-UR
 コイン
 [IDS_ITEM.CATEGORY_0019]
 ブックマーク枠
+[IDS_ITEM.CP]
+クラフトポイント
+[IDS_ITEM.FREEGEM]
+無償ジェム
+[IDS_ITEM.PAIDGEM]
+有償ジェム
 [IDS_ITEM.SPCATEGORY_0003]
 デラックスメイト
 [IDS_ITEM.SPCATEGORY_0006]
 デラックスアイコンフレーム
 [IDS_ITEM.SPCATEGORY_0007]
 デラックスプロテクター
-[IDS_ITEM.FREEGEM]
-無償ジェム
-[IDS_ITEM.PAIDGEM]
-有償ジェム
-[IDS_ITEM.UNK]
-クラフトポイント

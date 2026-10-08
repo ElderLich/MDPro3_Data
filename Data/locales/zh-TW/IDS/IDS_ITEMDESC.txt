@@ -846,6 +846,9 @@ coming soon
 [IDS_ITEMDESC.ID1010158]
 上面畫著身邊圍繞青白光球的怪獸的頭像。
 似乎正以神奇之力，壓制住那股釋放而出的能量。
+[IDS_ITEMDESC.ID1010159]
+上面畫著<category id='109'/>之中校長級人物的頭像。
+健談且熱心的性格，加上親切的外表，使他深受學生愛戴。
 [IDS_ITEMDESC.ID1010160]
 上面畫著Yu-Gi-Oh! World Championship 2026主視覺模樣的頭像。
 親眼見證世界第一吧。
@@ -1115,6 +1118,15 @@ Yu-Gi-Oh! World Championship 2024:MASTER DUEL參賽紀念頭像。
 [IDS_ITEMDESC.ID1011075]
 上面畫著散發銅色光芒的「融合盃」LOGO頭像。
 在融合盃中，贏得多場對戰的決鬥者，可獲得此頭像。
+[IDS_ITEMDESC.ID1011076]
+在DUELIST CUP中進入TOP10的決鬥者，可獲得此頭像。
+在「DC2026 OCT」激戰中留下壓倒性佳績的決鬥者之證。
+[IDS_ITEMDESC.ID1011077]
+在DUELIST CUP中進入TOP100的決鬥者，可獲得此頭像。
+在「DC2026 OCT」激戰中留下出色結果的決鬥者之證。
+[IDS_ITEMDESC.ID1011078]
+在DUELIST CUP中進入TOP1000的決鬥者，可獲得此頭像。
+在「DC2026 OCT」激戰中持續累積勝利的決鬥者之證。
 [IDS_ITEMDESC.ID1011079]
 Yu-Gi-Oh! World Championship 2026:MASTER DUEL中冠軍決鬥者的頭像。
 那激戰將成為銘刻於決鬥者心中的熾熱軌跡，永遠閃耀下去。
@@ -1127,6 +1139,9 @@ Yu-Gi-Oh! World Championship 2026:MASTER DUEL中四強決鬥者的頭像。
 [IDS_ITEMDESC.ID1011082]
 Yu-Gi-Oh! World Championship 2026:MASTER DUEL參賽紀念頭像。
 這是勇於挑戰世界，展現自身實力之人的證明。
+[IDS_ITEMDESC.ID1011086]
+在DUELIST CUP中進入TOP10000的決鬥者，可獲得此頭像。
+在「DC2026 OCT」歷經無數激戰並贏得勝利的的決鬥者之證。
 [IDS_ITEMDESC.ID1012001]
 上面畫著充斥在某星球中的「機怪蟲」的其中一隻高階個體頭像。
 牠們會無情地破壞人類建造的一切事物。
@@ -2119,6 +2134,24 @@ Yu-Gi-Oh! World Championship 2026:MASTER DUEL中四強決鬥者的稱號。
 [IDS_ITEMDESC.ID1020231]
 Yu-Gi-Oh! World Championship 2026:MASTER DUEL中十二強決鬥者的稱號。
 唯有極少數強者能踏入此境，銘刻於此的成就，正是天選之人的證明。
+[IDS_ITEMDESC.ID1020232]
+在「DC2026 OCT」中，取得TOP10成績的決鬥者可獲得此稱號。
+在爭奪唯一最強寶座的各場對戰中，一定有無數精彩的對決，今後也會令人津津樂道吧。
+[IDS_ITEMDESC.ID1020233]
+在「DC2026 OCT」中，取得TOP100成績的決鬥者可獲得此稱號。
+這個稱號成為許多決鬥者追求之目標的證明。
+[IDS_ITEMDESC.ID1020234]
+在「DC2026 OCT」中，取得TOP500成績的決鬥者可獲得此稱號。
+或許只有強者中的強者，才能具備歷經無數激烈決鬥而鍛鍊出的精神。
+[IDS_ITEMDESC.ID1020235]
+在「DC2026 OCT」中，取得TOP1000成績的決鬥者可獲得此稱號。
+持續鑽研牌組和戰略，到達這個地步的決鬥們均值得稱許。
+[IDS_ITEMDESC.ID1020236]
+在「DC2026 OCT」中，取得TOP10000成績的決鬥者可獲得此稱號。
+與從1st STAGE勝出的強者們對戰，持續累積勝利的成果。
+[IDS_ITEMDESC.ID1020237]
+在「DC2026 OCT」中，取得晉級2nd STAGE成績的決鬥者可獲得此稱號。
+戰勝眾多決鬥者，從1st STAGE勝出的實力證明。
 [IDS_ITEMDESC.ID1020238]
 在「擲骰競賽　～2026 SEP～」中，取得好成績的決鬥者可獲得此稱號。
 勇於信任自己的人，必能到達光輝的未來。
@@ -2951,6 +2984,12 @@ Yu-Gi-Oh! World Championship 2026:MASTER DUEL參賽紀念頭像邊框。
 [IDS_ITEMDESC.ID1070184]
 此卡套外面畫著怪獸融合之際的漩渦。
 獻給以融合召喚為戰術核心的你。
+[IDS_ITEMDESC.ID1070185]
+此卡套外面畫著與復活魔神苦戰的兩人面前，那位賢者現身解救的模樣。
+獻給惦記著老友的你。
+[IDS_ITEMDESC.ID1070186]
+此卡套外面畫著三柱獄神藉由<category id='199'/>合而為一的姿態。
+獻給將現世染上混沌色彩的你。
 [IDS_ITEMDESC.ID1070189]
 此卡套外面畫著回應求救呼喚挺身而出的正義英雄們。
 獻給無論何時都抱持希望的你。
@@ -3117,6 +3156,12 @@ Yu-Gi-Oh! World Championship 2026:MASTER DUEL參賽紀念頭像邊框。
 [IDS_ITEMDESC.ID1072010]
 此卡套外面畫著制裁肆意散播恐懼之徒的<category id='170'/>之姿。
 獻給審判世人罪惡的你。
+[IDS_ITEMDESC.ID1072011]
+此卡套外面畫著懂事體貼的靈使，與凡事全力以赴、性格直率的靈使。
+獻給掌握水與火之靈術的你。
+[IDS_ITEMDESC.ID1072012]
+此卡套外面畫著天真爛漫且能與精靈心靈相通的靈使，以及認真勤勉的靈使。
+獻給掌握風與地之靈術的你。
 [IDS_ITEMDESC.ID1073001]
 Yu-Gi-Oh! World Championship 2023:MASTER DUEL的視覺效果刻畫而成的卡套。
 獻給目標成為世界最強的你。
@@ -3186,6 +3231,9 @@ Yu-Gi-Oh! World Championship 2026:MASTER DUEL的視覺效果刻畫而成的卡�
 [IDS_ITEMDESC.ID1073023]
 此卡套外面畫著「融合盃」的LOGO。
 獻給挑戰融合盃，炒熱活動氣氛的你。
+[IDS_ITEMDESC.ID1073025]
+此卡套外面畫著「DC2026 OCT」的LOGO。
+獻給挑戰了在豐饒秋季舉行的DUELIST CUP，炒熱活動氣氛的你。
 [IDS_ITEMDESC.ID1075001]
 描繪著「Yu-Gi-Oh! CARD GAME THE CHRONICLES」景象的卡套。
 在傳說中的祭典會場上，決鬥者們發出了巨大的歡呼聲。
@@ -3212,6 +3260,9 @@ Yu-Gi-Oh! World Championship 2026:MASTER DUEL的視覺效果刻畫而成的卡�
 [IDS_ITEMDESC.ID1075009]
 「Yu-Gi-Oh! CARD GAME THE CHRONICLES」的主視覺效果刻畫而成的卡套。
 開啟通往異界之門的三位魔法師。世人稱呼他們為「三賢者」。
+[IDS_ITEMDESC.ID1075010]
+「Yu-Gi-Oh! CARD GAME THE CHRONICLES」的主視覺效果刻畫而成的卡套。
+一無所有的少女展開了奪取一切的戰爭。
 [IDS_ITEMDESC.ID1080001]
 以紅色為基調，整體相當簡約高雅的牌組卡盒。
 首次拿到手的牌組卡盒會讓人有愛不釋手的感覺。
@@ -3409,6 +3460,9 @@ coming soon
 [IDS_ITEMDESC.ID1082032]
 此卡盒外面畫著降伏惡魔的<category id='059'/>的插圖。
 推薦給與惡魔展開熾烈激戰的牌組使用。
+[IDS_ITEMDESC.ID1082033]
+此卡盒外面畫著封印之門的插圖。
+推薦給<category id='189'/>牌組使用。
 [IDS_ITEMDESC.ID1082034]
 此卡盒外面畫著日本傳統文化的插圖。
 推薦給能帶來精彩熱血決鬥的牌組使用。
@@ -3784,6 +3838,9 @@ coming soon
 [IDS_ITEMDESC.ID1101045]
 仿造棲息於晨間飲品的精靈們的場地配件。
 早晨的茶會令人神清氣爽。
+[IDS_ITEMDESC.ID1101048]
+仿造「<card mrk='12267'/>」的場地配件。
+寄宿於鎧甲之中的騎士之魂，正靜候著反擊之時。
 [IDS_ITEMDESC.ID1102001]
 設置在競技場的場地配件。
 即使被回收到此地，也不用感到難過。因為這是壯烈犧牲的驕傲結果。
@@ -4096,6 +4153,12 @@ coming soon
 [IDS_ITEMDESC.ID1111068]
 以點心國度與美味小傢伙們為靈感設計出的底座。
 「<card mrk='21833'/>」是自黑暗誕生，像點心般的小傢伙們。
+[IDS_ITEMDESC.ID1111069]
+以超越屬性之力的大靈術為靈感設計出的底座。
+據古老的魔導書所述，匯聚多種屬性即可使其發動。
+[IDS_ITEMDESC.ID1111070]
+以「<card mrk='21465'/>」為靈感設計出的底座。
+極具藝術感的設計中，寄宿著「<card mrk='21444'/>」的力量。
 [IDS_ITEMDESC.ID1111071]
 以<category id='110'/>的天宮圖為靈感設計出的底座。
 神秘的星之力將會指引你。
@@ -4648,6 +4711,21 @@ coming soon
 [IDS_ITEMDESC.ID1130144]
 很久以前，因人們渴求戰火平息的祈禱而召喚出的精靈。
 如今隨同擁有龍胎記的被選中者一同復甦。
+[IDS_ITEMDESC.ID1130145]
+與使魔共同施展各屬性招式的「靈術」，以及掌握此類術式之「靈使」們。
+與精靈共度的時光。飛舞吧花兒，為世界增添繽紛色彩。
+[IDS_ITEMDESC.ID1130146]
+為了成為獨當一面的靈使，少女們和睦相處，每天致力於修行。
+她們合力克服困難所留下的足跡，即將在此綻放出美麗的成果。
+[IDS_ITEMDESC.ID1130147]
+煉獄深淵中對抗愚鈍之力的反叛之牙。
+為尚未平息的靈魂獻上反叛之曲，傳響至永恆。
+[IDS_ITEMDESC.ID1130148]
+籠罩著<category id='196'/>的「<card mrk='22966'/>」。
+精通禁忌之術的古代天才魔術師，創造出了全新的神靈。
+[IDS_ITEMDESC.ID1130149]
+「<card mrk='22138'/>」試圖拯救在精神世界中受苦的<category id='199'/>。
+懷抱著情緒平復後的青梅竹馬，露出溫和的表情輕聲安撫。
 [IDS_ITEMDESC.ID1130150]
 迫近的「<card mrk='22934'/>」及與之對抗的「<card mrk='22932'/>」。
 這孤注一擲的行動，是否能抵抗那可怕的狂氣！
@@ -4744,6 +4822,9 @@ coming soon
 [IDS_ITEMDESC.ID1170020]
 提供奇特娛樂表演的馬戲團的蒐藏檔案。
 據說收集完<category id='188'/>後，魔獸與奇術之門將散發光輝。
+[IDS_ITEMDESC.ID1170021]
+與使魔共同施展各屬性招式的「靈術」，以及掌握此類術式之「靈使」的蒐藏檔案。
+據說收集完<category id='190'/>後，靈力之門將散發光輝。
 [IDS_ITEMDESC.ID1170022]
 日本傳統文化插圖卡片的蒐藏檔案。
 據說收集完特別設計的卡片後，熱血決鬥之門將散發光輝。
@@ -4823,6 +4904,12 @@ D的象徵閃爍著光芒。
 [IDS_ITEMDESC.ID1180026]
 以一擊就能扭轉戰局的機械龍為概念所設計的硬幣。
 破壞力即正義的信念閃爍著光芒。
+[IDS_ITEMDESC.ID1180027]
+以<card mrk='15407'/>為概念所設計的硬幣。
+超越屬性之力的大靈術閃爍著光芒。
+[IDS_ITEMDESC.ID1180028]
+以「<card mrk='22519'/>」頭上浮現的眼睛為概念所設計的硬幣。
+滿溢而出的<category id='189'/>之力閃爍著光芒。
 [IDS_ITEMDESC.ID1190001]
 可提高收藏空位的數量上限。
 [IDS_ITEMDESC.ID0000]

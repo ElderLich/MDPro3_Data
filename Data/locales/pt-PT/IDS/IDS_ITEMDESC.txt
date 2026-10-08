@@ -845,6 +845,9 @@ Até a posição das alças transmite uma sensação de preguiça.
 [IDS_ITEMDESC.ID1010158]
 Um Ícone que retrata um monstro enrolado em uma esfera de luz pálida.
 Ele parece resistir à energia liberada por ela, usando um estranho poder próprio.
+[IDS_ITEMDESC.ID1010159]
+Um Ícone que retrata <category id='109'/>, o qual praticamente atua como diretor.
+Falante, atencioso e de aparência simpática, é muito popular entre os alunos.
 [IDS_ITEMDESC.ID1010160]
 Um ícone com um visual chave do Yu-Gi-Oh! World Championship 2026.
 Conheça os Duelistas mais fortes do mundo.
@@ -1114,6 +1117,15 @@ Dado aos que alcançaram resultados consideráveis na Copa Fusão.
 [IDS_ITEMDESC.ID1011075]
 Um ícone com um logotipo "Copa Fusão" de bronze. 
 Dado aos que conquistaram inúmeras batalhas na Copa Fusão.
+[IDS_ITEMDESC.ID1011076]
+Um Ícone concedido apenas aos Duelistas que ficaram entre os 10 melhores na Copa do Duelista.
+Uma prova de desempenho excepcional na acirradíssima "DC 2026 OCT".
+[IDS_ITEMDESC.ID1011077]
+Um Ícone concedido apenas aos Duelistas que ficaram entre os 100 melhores na Copa do Duelista.
+Uma prova de desempenho extraordinário na acirradíssima "DC 2026 OCT".
+[IDS_ITEMDESC.ID1011078]
+Um Ícone concedido apenas aos Duelistas que ficaram entre os 1.000 melhores na Copa do Duelista.
+Uma prova da impressionante sequência de vitórias conquistada na acirradíssima "DC 2026 OCT".
 [IDS_ITEMDESC.ID1011079]
 Um Ícone concedido aos Duelistas Campeões do evento Yu-Gi-Oh! World Championship 2026: MASTER DUEL.
 Que suas batalhas continuem a brilhar como um rastro flamejante gravado nos corações de todos os Duelistas.
@@ -1126,6 +1138,9 @@ A plateia ficou sem palavras perante instintos de Duelo tão incríveis.
 [IDS_ITEMDESC.ID1011082]
 Um Ícone concedido aos participantes do evento Yu-Gi-Oh! World Championship 2026: MASTER DUEL.
 Uma prova de que enfrentaram o mundo e mostraram sua força como Duelistas.
+[IDS_ITEMDESC.ID1011086]
+Um Ícone concedido apenas aos Duelistas que ficaram entre os 10.000 melhores na Copa do Duelista.
+Uma prova das muitas vitórias conquistadas na acirradíssima "DC 2026 OCT".
 [IDS_ITEMDESC.ID1012001]
 Um ícone representando um “Krawler”, monstros que dominaram certo mundo. Este faz parte de uma classe mais alta.
 Eles destroem impiedosamente os esforços da civilização humana que duraram gerações.
@@ -2118,6 +2133,24 @@ Suas conquistas servirão de inspiração para muitos Duelistas buscarem novos d
 [IDS_ITEMDESC.ID1020231]
 Um Título concedido aos 12 Duelistas mais bem colocados do evento Yu-Gi-Oh! World Championship 2026: MASTER DUEL.
 Poucos são capazes de alcançar tal patamar e esta conquista é a prova de que foram escolhidos.
+[IDS_ITEMDESC.ID1020232]
+Um Título dado aos Duelistas que ficaram entre os 10 melhores na DC 2026 OCT.
+Contos a respeito de seus grandes Duelos e de sua coragem em competir pelo trono continuarão a ser contados por anos a fio.
+[IDS_ITEMDESC.ID1020233]
+Um Título dado aos Duelistas que ficaram entre os 100 melhores na DC 2026 OCT.
+Esta é a prova de uma proeza que muitos Duelistas buscam alcançar.
+[IDS_ITEMDESC.ID1020234]
+Um Título dado aos Duelistas que ficaram entre os 500 melhores na DC 2026 OCT.
+Apenas os mais fortes dentre os mais fortes possuem um coração como o seu, temperado por muitos Duelos intensos.
+[IDS_ITEMDESC.ID1020235]
+Um Título dado aos Duelistas que ficaram entre os 1.000 melhores na DC 2026 OCT.
+Parabéns aos Duelistas que continuaram aperfeiçoando seus Decks e suas táticas para atingir este resultado.
+[IDS_ITEMDESC.ID1020236]
+Um Título dado aos Duelistas que ficaram entre os 10.000 melhores na DC 2026 OCT.
+Este é o resultado de vitórias acumuladas contra outros fortes concorrentes que passaram a 1ª Fase.
+[IDS_ITEMDESC.ID1020237]
+Um Título dado aos Duelistas que chegaram à 2ª Fase na DC 2026 OCT.
+Esta é uma prova de que conseguiu passar a altamente disputada 1ª Fase.
 [IDS_ITEMDESC.ID1020238]
 Um Título concedido a Duelistas que obtiveram resultados no evento "Rally de Dados ~ Setembro de 2026 ~".
 Um futuro brilhante aguarda os que são corajosos o suficiente para confiar em si próprios.
@@ -2949,6 +2982,12 @@ Para aqueles que valorizam novos começos.
 [IDS_ITEMDESC.ID1070184]
 Protetores que retratam um turbilhão de fusão de monstros.
 Para quem adota táticas de Invocações-Fusão.
+[IDS_ITEMDESC.ID1070185]
+Protetores que retratam o sábio surgido diante de dois combatentes em apuros, durante uma batalha contra uma antiga divindade que havia ressurgido.
+Para aqueles que valorizam velhos amigos.
+[IDS_ITEMDESC.ID1070186]
+Protetores que retratam <category id='199'/>, o qual tornou-se o receptáculo de três Patronos do Poder.
+Para aqueles que desejam lançar o mundo no caos.
 [IDS_ITEMDESC.ID1070189]
 Protetores que mostram campeões da justiça respondendo a chamados de ajuda.
 Para aqueles que nunca perdem a esperança.
@@ -3114,6 +3153,12 @@ Para aqueles que embarcaram em uma longa jornada e criaram muitas lembranças.
 [IDS_ITEMDESC.ID1072010]
 Protetores que retratam <category id='170'/>, que julga aqueles que espalham medo sem motivo.
 Para aqueles que analisam os pecados dos outros.
+[IDS_ITEMDESC.ID1072011]
+Protetores que retratam duas Encantadoras, uma gentil e sensata, a outra impetuosa e incontida.
+Para aqueles que dominam as artes espirituais da água e do fogo.
+[IDS_ITEMDESC.ID1072012]
+Protetores que retratam duas Encantadoras, uma ingênua que cria laços afetivos com espíritos, a outra séria e estudiosa.
+Para aqueles que dominam as artes espirituais do vento e da terra.
 [IDS_ITEMDESC.ID1073001]
 Protetores com o logotipo do Yu-Gi-Oh! World Championship 2023: MASTER DUEL.
 Para aqueles que almejam se tornar o melhor do mundo.
@@ -3183,6 +3228,9 @@ Para aqueles que almejam se tornar o melhor do mundo.
 [IDS_ITEMDESC.ID1073023]
 Protetores com o logotipo da "Copa Fusão".
 Para aqueles que participaram da Copa Fusão e tornaram o evento um sucesso.
+[IDS_ITEMDESC.ID1073025]
+Um protetor com um logotipo "DC 2026 OCT".
+Para você que participou da Duelist Cup durante a abundante temporada de outono e tornou o evento um sucesso.
 [IDS_ITEMDESC.ID1075001]
 Protetores representando uma cena de "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Os Duelistas no local soltaram um grande grito de alegria para marcar esse evento prestigioso.
@@ -3209,6 +3257,9 @@ Viajando lado a lado com espíritos. Dance, flor solitária, em todo o seu vívi
 [IDS_ITEMDESC.ID1075009]
 Protetores com a arte principal de "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
 Três magos que destravaram a porta para um outro reino. Eles passaram a ser conhecidos como os "Três Magos, os Magistus".
+[IDS_ITEMDESC.ID1075010]
+Protetores com uma ilustração principal de "Yu-Gi-Oh! CARD GAME THE CHRONICLES".
+A garota que perdeu tudo inicia uma batalha para recuperar tudo com as próprias mãos.
 [IDS_ITEMDESC.ID1080001]
 Uma Caixa para Deck simples com tons vermelhos.
 A primeira Caixa para Deck que você obtém ganha importância, não é?
@@ -3406,6 +3457,9 @@ Recomendado para Decks imbuídos com a alma de um dragão.
 [IDS_ITEMDESC.ID1082032]
 Um Porta-cards que retrata a <category id='059'/> que afasta o mal.
 Recomendado para Decks que travam batalhas ferozes contra demônios.
+[IDS_ITEMDESC.ID1082033]
+Um Porta-cards mostrando um portão selado.
+Recomendado para Decks <category id='189'/>.
 [IDS_ITEMDESC.ID1082034]
 Um Porta-cards retratando a cultura tradicional japonesa.
 Recomendado para Decks que trazem cor a Duelos acalorados.
@@ -3780,6 +3834,9 @@ Talvez sejam réplicas, mas convém tratá-los com cuidado.
 [IDS_ITEMDESC.ID1101045]
 Componentes de Campo inspirados em espíritos que habitam bebidas matinais.
 Um chá pela manhã deixa todos revigorados.
+[IDS_ITEMDESC.ID1101048]
+Componentes de Campo inspirados em "<card mrk='12267'/>".
+O espírito do cavaleiro que habita a armadura aguarda o momento da rebelião.
 [IDS_ITEMDESC.ID1102001]
 Componentes de campo para um Coliseu.
 Um destino que termina aqui não é digno de luto. Orgulhe-se de todos aqueles que lutarem aqui e puderem se oferecer para uma batalha valorosa.
@@ -4090,6 +4147,12 @@ Há até casos em que o conjurador se fundiu com monstros - um destino terrível
 [IDS_ITEMDESC.ID1111068]
 Um pedestal inspirado por um mundo deliciosamente bobo e por monstros com aparência saborosa.
 "<card mrk='21833'/>", monstros deliciosamente bobos nascidos das trevas.
+[IDS_ITEMDESC.ID1111069]
+Um pedestal inspirado em uma arte espiritual que transcende o poder dos atributos.
+Segundo um antigo Livro de Magia, ela pode ser ativada combinando vários atributos diferentes.
+[IDS_ITEMDESC.ID1111070]
+Um pedestal inspirado em "<card mrk='21465'/>".
+Seu design extremamente elaborado está imbuído com o poder de "<card mrk='21444'/>".
 [IDS_ITEMDESC.ID1111071]
 Pedestal inspirado no horóscopo de <category id='110'/>.
 Orienta por meio do poder místico das estrelas.
@@ -4645,6 +4708,21 @@ Quando os quatro sinais capazes de abalar o mundo se manifestam, a nova estrela 
 [IDS_ITEMDESC.ID1130144]
 Um espírito invocado por meio de uma prece, em um passado distante, para pôr fim às guerras que assolavam a terra.
 Ele foi revivido junto com os escolhidos que carregavam a marca do dragão.
+[IDS_ITEMDESC.ID1130145]
+"Encantadoras" que usam artes espirituais para controlar lacaios e liberar habilidades de diversos atributos.
+Elas passam os dias na companhia de espíritos. Dance, flor solitária, em todo o esplendor das suas cores.
+[IDS_ITEMDESC.ID1130146]
+Jovens moças que dedicam-se com alegria ao treinamento diário para se tornarem Encantadoras habilidosas.
+A experiência de superar obstáculos juntas foi como um botão de flor prestes a desabrochar.
+[IDS_ITEMDESC.ID1130147]
+Presas da rebelião se erguem das profundezas do purgatório contra um poder irracional.
+Que o cântico rebelde dos espíritos inquietos ecoe por toda a eternidade.
+[IDS_ITEMDESC.ID1130148]
+"<card mrk='22966'/>" envolvendo "<category id='196'/>".
+Um talentoso mago de tempos antigos, mestre de inúmeras artes proibidas, invoca um novo espírito divino.
+[IDS_ITEMDESC.ID1130149]
+"<card mrk='22138'/>" tentando salvar <category id='199'/>, que sofre no mundo espiritual.
+Com uma expressão serena, ela abraça sua amiga de infância, agora tranquila, e fala com ela em voz suave.
 [IDS_ITEMDESC.ID1130150]
 "<card mrk='22932'/>" enfrenta o ataque de "<card mrk='22934'/>".
 Será que o contra-ataque desesperado bastará para deter a loucura?
@@ -4744,6 +4822,9 @@ Dizem que, ao reunir cards "<card mrk='6390'/>", a porta para a evolução brilh
 [IDS_ITEMDESC.ID1170020]
 Um Acervo de Colecionador com uma trupe circense que oferece entretenimento nada convencional.
 Dizem que, ao reunir cards <category id='188'/>, a porta para feras mágicas e feitiçaria brilhará.
+[IDS_ITEMDESC.ID1170021]
+Um Acervo de Colecionador com uma "Encantadora", que usa artes espirituais para controlar lacaios e liberar habilidades de diversos atributos.
+Dizem que, ao reunir cards <category id='190'/>, a porta para o poder espiritual brilhará.
 [IDS_ITEMDESC.ID1170022]
 Um Acervo de Colecionador para cards retratando a cultura tradicional japonesa.
 Dizem que, ao coletar cards com designs especiais, uma porta para Duelos acalorados brilha.
@@ -4822,6 +4903,12 @@ O sinal cintila em busca de salvação.
 [IDS_ITEMDESC.ID1180026]
 Moeda cujo emblema é um dragão mecânico capaz de virar o rumo da batalha num instante.
 A ideia de que o poder destrutivo traz a justiça brilha intensamente.
+[IDS_ITEMDESC.ID1180027]
+Moeda que retrata <card mrk='15407'/>.
+Uma arte espiritual que transcende o poder dos atributos brilha intensamente.
+[IDS_ITEMDESC.ID1180028]
+Moeda que retrata o olho flutuando sobre "<card mrk='22519'/>".
+O poder avassalador de <category id='189'/> brilha intensamente.
 [IDS_ITEMDESC.ID1190001]
 O número máximo de favoritos que você pode ter pode ser aumentado.
 [IDS_ITEMDESC.ID0000]

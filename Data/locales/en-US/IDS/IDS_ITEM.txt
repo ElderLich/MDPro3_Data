@@ -522,6 +522,8 @@ Clown Crew Biancaviso
 Pot of Sloth
 [IDS_ITEM.ID1010158]
 Effect Veiler
+[IDS_ITEM.ID1010159]
+Artmage Power Patron
 [IDS_ITEM.ID1010160]
 Dark Magician & Dark Magician Girl (WCS2026)
 [IDS_ITEM.ID1010161]
@@ -714,6 +716,12 @@ Fusion Cup Gold Finalist
 Fusion Cup Silver Finalist
 [IDS_ITEM.ID1011075]
 Fusion Cup Bronze Finalist
+[IDS_ITEM.ID1011076]
+DC 2026 OCT Gold Finalist
+[IDS_ITEM.ID1011077]
+DC 2026 OCT Silver Finalist
+[IDS_ITEM.ID1011078]
+DC 2026 OCT Bronze Finalist
 [IDS_ITEM.ID1011079]
 WCS 2026 Champion
 [IDS_ITEM.ID1011080]
@@ -722,6 +730,8 @@ WCS 2026 Finalist
 WCS 2026 Top 4
 [IDS_ITEM.ID1011082]
 WCS 2026 Top 12
+[IDS_ITEM.ID1011086]
+DC 2026 OCT Copper Finalist
 [IDS_ITEM.ID1012001]
 X-Krawler Synaphysis
 [IDS_ITEM.ID1012002]
@@ -1386,6 +1396,18 @@ WCS 2026 Finalist
 WCS 2026 Top 4
 [IDS_ITEM.ID1020231]
 WCS 2026 Top 12
+[IDS_ITEM.ID1020232]
+DC 2026 OCT Top 10
+[IDS_ITEM.ID1020233]
+DC 2026 OCT Top 100
+[IDS_ITEM.ID1020234]
+DC 2026 OCT Top 500
+[IDS_ITEM.ID1020235]
+DC 2026 OCT Top 1000
+[IDS_ITEM.ID1020236]
+DC 2026 OCT Top 10000
+[IDS_ITEM.ID1020237]
+DC 2026 OCT 2nd Stage Duelist
 [IDS_ITEM.ID1020238]
 Unstoppable Force
 [IDS_ITEM.ID1021001]
@@ -1948,6 +1970,10 @@ Clown Crew Biancaviso
 Phara the Primordial Goddess
 [IDS_ITEM.ID1070184]
 Polymerization
+[IDS_ITEM.ID1070185]
+Aleister the Reminiscent
+[IDS_ITEM.ID1070186]
+Vidolium the Unstable Power Patron of Unity
 [IDS_ITEM.ID1070189]
 Fifth Hope
 [IDS_ITEM.ID1070190]
@@ -2058,6 +2084,10 @@ Yummy
 Albaz the Shrouded & Ecclesia the Exiled
 [IDS_ITEM.ID1072010]
 Enneacraft
+[IDS_ITEM.ID1072011]
+Eria the Water Charmer & Hiita the Fire Charmer
+[IDS_ITEM.ID1072012]
+Wynn the Wind Charmer & Aussa the Earth Charmer
 [IDS_ITEM.ID1073001]
 WCS 2023 Party Favor
 [IDS_ITEM.ID1073002]
@@ -2104,6 +2134,8 @@ WCS 2026 Celebration
 WCS 2026 Party Favor
 [IDS_ITEM.ID1073023]
 Fusion Cup Celebration
+[IDS_ITEM.ID1073025]
+DC 2026 OCT Celebration
 [IDS_ITEM.ID1075001]
 Yu-Gi-Oh! CARD GAME THE CHRONICLES
 [IDS_ITEM.ID1075002]
@@ -2122,6 +2154,8 @@ THE CHRONICLES: The Fallen & The Virtuous2
 THE CHRONICLES: Spirit Charmers
 [IDS_ITEM.ID1075009]
 THE CHRONICLES: Magistus
+[IDS_ITEM.ID1075010]
+THE CHRONICLES: Seeker of the Sinful Spoils
 [IDS_ITEM.ID1080001]
 Duelist Card Case Red
 [IDS_ITEM.ID1080002]
@@ -2254,6 +2288,8 @@ Elfnote
 Dragon Ravine
 [IDS_ITEM.ID1082032]
 Exosister
+[IDS_ITEM.ID1082033]
+Theorealize Liberation
 [IDS_ITEM.ID1082034]
 Dark Magician & Dark Magician Girl (WCS2026)
 [IDS_ITEM.ID1083001]
@@ -2492,6 +2528,8 @@ Wreath
 Forbidden Crown
 [IDS_ITEM.ID1101045]
  WAKE CUP!
+[IDS_ITEM.ID1101048]
+The Phantom Knights of Shade Brigandine
 [IDS_ITEM.ID1102001]
 Colosseum
 [IDS_ITEM.ID1102002]
@@ -2682,6 +2720,10 @@ Mulcharmy Pink
 Magical Meltdown
 [IDS_ITEM.ID1111068]
 Yummy
+[IDS_ITEM.ID1111069]
+Grand Spiritual Art - Ichirin
+[IDS_ITEM.ID1111070]
+Artmage
 [IDS_ITEM.ID1111071]
 Dracotail
 [IDS_ITEM.ID1111072]
@@ -3068,6 +3110,16 @@ Clown Crew Biancaviso
 Red Hypernova Dragon
 [IDS_ITEM.ID1130144]
 Crimson Dragon Quetzalcoatl
+[IDS_ITEM.ID1130145]
+Spirit Charmers
+[IDS_ITEM.ID1130146]
+Awakening of the Possessed
+[IDS_ITEM.ID1130147]
+Dark Requiem Xyz Dragon
+[IDS_ITEM.ID1130148]
+Gamma Summon
+[IDS_ITEM.ID1130149]
+Theorealize Past Lull
 [IDS_ITEM.ID1130150]
 Anti-GMX Final Experiment
 [IDS_ITEM.ID1130151]
@@ -3094,6 +3146,10 @@ Fusion Reward Ticket
 Synchro Reward Ticket
 [IDS_ITEM.ID1141004]
 Duelist Cup Reward Tickets
+[IDS_ITEM.ID1142001]
+Master Pack UR 30% Card x1 Ticket
+[IDS_ITEM.ID1142002]
+Master Pack UR Card x1 Ticket
 [IDS_ITEM.ID1150001]
 Deck Slot
 [IDS_ITEM.ID1160001]
@@ -3138,6 +3194,8 @@ Shaddoll
 Cyber Dragon
 [IDS_ITEM.ID1170020]
 Clown Crew
+[IDS_ITEM.ID1170021]
+Spirit Charmers
 [IDS_ITEM.ID1170022]
 WCS2026
 [IDS_ITEM.ID1180001]
@@ -3193,9 +3251,9 @@ Elemental HERO
 [IDS_ITEM.ID1180026]
 Cyber Dragon
 [IDS_ITEM.ID1180027]
-coming soon
+Grand Spiritual Art - Ichirin
 [IDS_ITEM.ID1180028]
-coming soon
+Theorealize
 [IDS_ITEM.ID1190001]
 Bookmark Slots
 [IDS_ITEM.ID0000]
@@ -3262,15 +3320,15 @@ Collector's file
 Coin
 [IDS_ITEM.CATEGORY_0019]
 Bookmark Slots
+[IDS_ITEM.CP]
+Craft Points
+[IDS_ITEM.FREEGEM]
+Free Gems
+[IDS_ITEM.PAIDGEM]
+Paid Gems
 [IDS_ITEM.SPCATEGORY_0003]
 Deluxe Mates
 [IDS_ITEM.SPCATEGORY_0006]
 Deluxe Icon Frame
 [IDS_ITEM.SPCATEGORY_0007]
 Deluxe Protectors
-[IDS_ITEM.CRAFT_POINTS]
-Craft Points
-[IDS_ITEM.FREEGEM]
-Free Gems
-[IDS_ITEM.PAIDGEM]
-Paid Gems

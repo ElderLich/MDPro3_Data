@@ -522,6 +522,8 @@ Compagnia di Clown Biancaviso
 Giara dell'Accidia
 [IDS_ITEM.ID1010158]
 Dissimulatore di Effetto
+[IDS_ITEM.ID1010159]
+Patrono Potente Artmage
 [IDS_ITEM.ID1010160]
 Mago Nero e Ragazza Maga Nera (WCS2026)
 [IDS_ITEM.ID1010161]
@@ -714,6 +716,12 @@ Finalista Oro Coppa Fusione
 Finalista Argento Coppa Fusione
 [IDS_ITEM.ID1011075]
 Finalista Bronzo Coppa Fusione
+[IDS_ITEM.ID1011076]
+Finalista Oro DC 2026 OCT
+[IDS_ITEM.ID1011077]
+Finalista Argento DC 2026 OCT
+[IDS_ITEM.ID1011078]
+Finalista Bronzo DC 2026 OCT
 [IDS_ITEM.ID1011079]
 Campione del WCS 2026
 [IDS_ITEM.ID1011080]
@@ -722,6 +730,8 @@ Finalista al "WCS 2026"
 Top 4 al WCS 2026
 [IDS_ITEM.ID1011082]
 Top 12 al WCS 2026
+[IDS_ITEM.ID1011086]
+Finalista Rame DC 2026 OCT
 [IDS_ITEM.ID1012001]
 X-Krawler Sinapsisi
 [IDS_ITEM.ID1012002]
@@ -1386,6 +1396,18 @@ Finalista al "WCS 2026"
 Top 4 al WCS 2026
 [IDS_ITEM.ID1020231]
 Top 12 al WCS 2026
+[IDS_ITEM.ID1020232]
+Top 10 DC 2026 OCT
+[IDS_ITEM.ID1020233]
+Top 100 DC 2026 OCT
+[IDS_ITEM.ID1020234]
+Top 500 DC 2026 OCT
+[IDS_ITEM.ID1020235]
+Top 1000 DC 2026 OCT
+[IDS_ITEM.ID1020236]
+Top 10000 DC 2026 OCT
+[IDS_ITEM.ID1020237]
+Duellante 2nd stage DC 2026 OCT
 [IDS_ITEM.ID1020238]
 Forza Inarrestabile
 [IDS_ITEM.ID1021001]
@@ -1948,6 +1970,10 @@ Compagnia di Clown Biancaviso
 Phara la Dea Primordiale
 [IDS_ITEM.ID1070184]
 Polimerizzazione
+[IDS_ITEM.ID1070185]
+Aleister il Reminiscente
+[IDS_ITEM.ID1070186]
+Vidolium l'Instabile Patrono Potente dell'Unità
 [IDS_ITEM.ID1070189]
 Quinta Speranza
 [IDS_ITEM.ID1070190]
@@ -2058,6 +2084,10 @@ Yummy
 Albaz l'Ammantato ed Ecclesia l'Esiliata
 [IDS_ITEM.ID1072010]
 Enneamezzo
+[IDS_ITEM.ID1072011]
+Eria l'Ammaliatrice dell'Acqua ed Hiita l'Ammaliatrice del Fuoco
+[IDS_ITEM.ID1072012]
+Wynn l'Ammaliatrice del Vento ed Aussa l'Ammaliatrice della Terra
 [IDS_ITEM.ID1073001]
 Premio di partecipazione al "WCS 2023"
 [IDS_ITEM.ID1073002]
@@ -2104,6 +2134,8 @@ Celebrazione del "WCS 2026"
 Premio di partecipazione al "WCS 2026"
 [IDS_ITEM.ID1073023]
 Celebrazione della Coppa Fusione
+[IDS_ITEM.ID1073025]
+Celebrazione DC 2026 OCT
 [IDS_ITEM.ID1075001]
 Yu-Gi-Oh! CARD GAME THE CHRONICLES
 [IDS_ITEM.ID1075002]
@@ -2122,6 +2154,8 @@ THE CHRONICLES: Il Caduto & La Virtuosa2
 THE CHRONICLES: Ammaliatrici di Spiriti
 [IDS_ITEM.ID1075009]
 THE CHRONICLES: Magistus
+[IDS_ITEM.ID1075010]
+THE CHRONICLES: Cercatrice delle Spoglie del Peccato
 [IDS_ITEM.ID1080001]
 Rosso Custodia Carte Duellante
 [IDS_ITEM.ID1080002]
@@ -2254,6 +2288,8 @@ Elfnote
 Gola Drago
 [IDS_ITEM.ID1082032]
 Esosorella
+[IDS_ITEM.ID1082033]
+Teorealizzare Liberazione
 [IDS_ITEM.ID1082034]
 Mago Nero e Ragazza Maga Nera (WCS2026)
 [IDS_ITEM.ID1083001]
@@ -2492,6 +2528,8 @@ Ghirlanda
 Corona Proibita
 [IDS_ITEM.ID1101045]
 WAKE CUP!
+[IDS_ITEM.ID1101048]
+I Cavalieri Fantasma dell'Ombra Brigantina
 [IDS_ITEM.ID1102001]
 Colosseo
 [IDS_ITEM.ID1102002]
@@ -2682,6 +2720,10 @@ Rosa Multifascinante
 Collasso Magico
 [IDS_ITEM.ID1111068]
 Yummy
+[IDS_ITEM.ID1111069]
+Grandiosa Arte Spirituale - Ichirin
+[IDS_ITEM.ID1111070]
+Artmage
 [IDS_ITEM.ID1111071]
 Dracocoda
 [IDS_ITEM.ID1111072]
@@ -3068,6 +3110,16 @@ Compagnia di Clown Biancaviso
 Drago Ipernova Rosso
 [IDS_ITEM.ID1130144]
 Quetzalcoatl Drago Cremisi
+[IDS_ITEM.ID1130145]
+Ammaliatrici di Spiriti
+[IDS_ITEM.ID1130146]
+Risveglio dei Posseduti
+[IDS_ITEM.ID1130147]
+Drago Xyz Requiem Oscuro
+[IDS_ITEM.ID1130148]
+Evocazione Gamma
+[IDS_ITEM.ID1130149]
+Teorealizzare Quiete Passata
 [IDS_ITEM.ID1130150]
 Anti-GMX Esperimento Finale
 [IDS_ITEM.ID1130151]
@@ -3092,6 +3144,10 @@ Coupon premio Fusione
 Coupon premio Synchro
 [IDS_ITEM.ID1141004]
 Coupon premio Duelist Cup
+[IDS_ITEM.ID1142001]
+Coupon Busta Master carta UR (30%) x1
+[IDS_ITEM.ID1142002]
+Coupon Busta Master carta UR x1
 [IDS_ITEM.ID1150001]
 Slot Deck
 [IDS_ITEM.ID1160001]
@@ -3136,6 +3192,8 @@ Bambolaombra
 Cyber Drago
 [IDS_ITEM.ID1170020]
 Compagnia di Clown
+[IDS_ITEM.ID1170021]
+Ammaliatrici di Spiriti
 [IDS_ITEM.ID1170022]
 WCS2026
 [IDS_ITEM.ID1180001]
@@ -3190,6 +3248,10 @@ Codafavola
 EROE Elementale
 [IDS_ITEM.ID1180026]
 Cyber Drago
+[IDS_ITEM.ID1180027]
+Grandiosa Arte Spirituale - Ichirin
+[IDS_ITEM.ID1180028]
+Teorealizzare
 [IDS_ITEM.ID1190001]
 Slot Segnalibro
 [IDS_ITEM.ID0000]
@@ -3256,15 +3318,15 @@ Album del collezionista
 Moneta
 [IDS_ITEM.CATEGORY_0019]
 Slot Segnalibro
+[IDS_ITEM.CP]
+Craft Points
+[IDS_ITEM.FREEGEM]
+Gemme gratuite
+[IDS_ITEM.PAIDGEM]
+Gemme a pagamento
 [IDS_ITEM.SPCATEGORY_0003]
 Assistenti Deluxe
 [IDS_ITEM.SPCATEGORY_0006]
 Cornici icone deluxe
 [IDS_ITEM.SPCATEGORY_0007]
 Protettori Deluxe
-[IDS_ITEM.CRAFT_POINTS]
-Craft Points
-[IDS_ITEM.FREEGEM]
-Gemme gratuite
-[IDS_ITEM.PAIDGEM]
-Gemme a pagamento
